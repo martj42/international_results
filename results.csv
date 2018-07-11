@@ -37456,7 +37456,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2016-01-06,Rwanda,Cameroon,1,1,Friendly,Gisenyi,Rwanda,FALSE
 2016-01-06,Sweden,Estonia,1,1,Friendly,Abu Dhabi,United Arab Emirates,TRUE
 2016-01-08,Bangladesh,Sri Lanka,4,2,Friendly,Jessore,Bangladesh,FALSE
-2016-01-08,Trinidad and Tobago,Haiti,0,1,Friendly,Panama City,Panama,TRUE
+2016-01-08,Trinidad and Tobago,Haiti,0,1,Copa América qualification,Panama City,Panama,TRUE
+2016-01-08,Panama,Cuba,4,0,Copa América qualification,Panama City,Panama,FALSE
 2016-01-10,Rwanda,Congo DR,1,0,Friendly,Gisenyi,Rwanda,FALSE
 2016-01-10,Sweden,Finland,3,0,Friendly,Abu Dhabi,United Arab Emirates,TRUE
 2016-01-11,Maldives,Cambodia,3,2,Friendly,Jessore,Bangladesh,TRUE
@@ -39661,3 +39662,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-07-02,Belgium,Japan,3,2,FIFA World Cup,Rostov-on-Don,Russia,TRUE
 2018-07-03,Sweden,Switzerland,1,0,FIFA World Cup,St. Petersburg,Russia,TRUE
 2018-07-03,Colombia,England,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-07-05,Malaysia,Fiji,1,0,Friendly,Kuala Lumpur,Malaysia,FALSE
+2018-07-06,Uruguay,France,0,2,FIFA World Cup,Nizhny Novgorod,Russia,TRUE
+2018-07-06,Brazil,Belgium,1,2,FIFA World Cup,Kazan,Russia,TRUE
+2018-07-07,Sweden,England,0,2,FIFA World Cup,Samara,Russia,TRUE
+2018-07-07,Russia,Croatia,2,2,FIFA World Cup,Sochi,Russia,FALSE
+2018-07-10,France,Belgium,1,0,FIFA World Cup,St. Petersburg,Russia,TRUE
