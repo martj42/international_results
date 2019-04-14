@@ -39668,3 +39668,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-07-07,Sweden,England,0,2,FIFA World Cup,Samara,Russia,TRUE
 2018-07-07,Russia,Croatia,2,2,FIFA World Cup,Sochi,Russia,FALSE
 2018-07-10,France,Belgium,1,0,FIFA World Cup,St. Petersburg,Russia,TRUE
+2018-07-11,Croatia,England,2,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-07-14,Belgium,England,2,0,FIFA World Cup,St. Petersburg,Russia,TRUE
+2018-07-15,France,Croatia,4,2,FIFA World Cup,Moscow,Russia,TRUE
