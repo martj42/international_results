@@ -39622,7 +39622,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-06-18,Tunisia,England,1,2,FIFA World Cup,Volgograd,Russia,TRUE
 2018-06-19,Colombia,Japan,1,2,FIFA World Cup,Saransk,Russia,TRUE
 2018-06-19,Poland,Senegal,1,2,FIFA World Cup,Moscow,Russia,TRUE
-2018-06-19,Russia,Egypt,3,1,FIFA World Cup,St Petersburg,Russia,FALSE
+2018-06-19,Russia,Egypt,3,1,FIFA World Cup,St. Petersburg,Russia,FALSE
 2018-06-20,Portugal,Morocco,1,0,FIFA World Cup,Moscow,Russia,TRUE
 2018-06-20,Uruguay,Saudi Arabia,1,0,FIFA World Cup,Rostov-on-Don,Russia,TRUE
 2018-06-20,Iran,Spain,0,1,FIFA World Cup,Kazan,Russia,TRUE
@@ -39671,3 +39671,593 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-07-11,Croatia,England,2,1,FIFA World Cup,Moscow,Russia,TRUE
 2018-07-14,Belgium,England,2,0,FIFA World Cup,St. Petersburg,Russia,TRUE
 2018-07-15,France,Croatia,4,2,FIFA World Cup,Moscow,Russia,TRUE
+2018-07-22,Liberia,Sierra Leone,0,0,Friendly,Monrovia,Liberia,FALSE
+2018-08-04,Belize,Barbados,1,0,Friendly,San Pedro,Belize,FALSE
+2018-08-04,Palestine,Iraq,0,3,Friendly,Al Ram,Palestine,FALSE
+2018-08-15,Guatemala,Cuba,3,0,Friendly,Guatemala City,Guatemala,FALSE
+2018-08-18,Andorra,United Arab Emirates,0,0,Friendly,Grödig,Austria,TRUE
+2018-08-18,Grenada,Jamaica,1,5,Friendly,St. George's,Grenada,FALSE
+2018-08-18,Guatemala,Cuba,1,0,Friendly,Quetzaltenango,Guatemala,FALSE
+2018-08-20,Barbados,Jamaica,2,2,Friendly,Bridgetown,Barbados,FALSE
+2018-08-22,Sint Maarten,Anguilla,1,1,Friendly,Philipsburg,Sint Maarten,FALSE
+2018-08-25,Anguilla,St. Martin,1,2,Friendly,The Valley,Anguilla,FALSE
+2018-08-26,Barbados,Cuba,0,0,Friendly,Bridgetown,Barbados,FALSE
+2018-08-29,Bangladesh,Sri Lanka,0,1,Friendly,Nilphamari Sadar,Bangladesh,FALSE
+2018-08-29,Barbados,Cuba,0,2,Friendly,Bridgetown,Barbados,FALSE
+2018-08-29,Macau,Solomon Islands,1,4,Friendly,Taipa,Macau,FALSE
+2018-09-01,Timor-Leste,Brunei Darussalam,3,1,AFF Championship qualification,Kuala Lumpur,Malaysia,TRUE
+2018-09-02,Ethiopia,Burundi,1,1,Friendly,Awassa,Ethiopia,FALSE
+2018-09-02,Guam,Northern Mariana Islands,4,0,EAFF Championship,Ulaanbaatar,Mongolia,TRUE
+2018-09-02,Mongolia,Macau,4,1,EAFF Championship,Ulaanbaatar,Mongolia,FALSE
+2018-09-04,Macau,Guam,2,0,EAFF Championship,Ulaanbaatar,Mongolia,TRUE
+2018-09-04,Mongolia,Northern Mariana Islands,9,0,EAFF Championship,Ulaanbaatar,Mongolia,FALSE
+2018-09-04,Nepal,Pakistan,1,2,SAFF Cup,Dhaka,Bangladesh,TRUE
+2018-09-04,Bangladesh,Bhutan,2,0,SAFF Cup,Dhaka,Bangladesh,FALSE
+2018-09-05,Fiji,Solomon Islands,1,1,Friendly,Suva,Fiji,FALSE
+2018-09-05,Slovakia,Denmark,3,0,Friendly,Trnava,Slovakia,FALSE
+2018-09-05,India,Sri Lanka,2,0,SAFF Cup,Dhaka,Bangladesh,TRUE
+2018-09-06,Germany,France,0,0,UEFA Nations League,Munich,Germany,FALSE
+2018-09-06,Czech Republic,Ukraine,1,2,UEFA Nations League,Uherské Hradiště,Czech Republic,FALSE
+2018-09-06,Wales,Republic of Ireland,4,1,UEFA Nations League,Cardiff,Wales,FALSE
+2018-09-06,Norway,Cyprus,2,0,UEFA Nations League,Oslo,Norway,FALSE
+2018-09-06,Slovenia,Bulgaria,1,2,UEFA Nations League,Ljubljana,Slovenia,FALSE
+2018-09-06,Kazakhstan,Georgia,0,2,UEFA Nations League,Astana,Kazakhstan,FALSE
+2018-09-06,Latvia,Andorra,0,0,UEFA Nations League,Riga,Latvia,FALSE
+2018-09-06,Armenia,Liechtenstein,2,1,UEFA Nations League,Yerevan,Armenia,FALSE
+2018-09-06,Gibraltar,FYR Macedonia,0,2,UEFA Nations League,Gibraltar,Gibraltar,FALSE
+2018-09-06,Austria,Sweden,2,0,Friendly,Vienna,Austria,FALSE
+2018-09-06,Bahrain,Philippines,1,1,Friendly,East Riffa,Bahrain,FALSE
+2018-09-06,Jordan,Lebanon,0,1,Friendly,Amman,Jordan,FALSE
+2018-09-06,Kyrgyzstan,Palestine,1,1,Friendly,Bishkek,Kyrgyzstan,FALSE
+2018-09-06,Netherlands,Peru,2,1,Friendly,Amsterdam,Netherlands,FALSE
+2018-09-06,Portugal,Croatia,1,1,Friendly,Faro-Loulé,Portugal,FALSE
+2018-09-06,Trinidad and Tobago,United Arab Emirates,2,0,Friendly,Llagostera,Trinidad and Tobago,FALSE
+2018-09-06,Uzbekistan,Syria,1,1,Friendly,Tashkent,Uzbekistan,FALSE
+2018-09-06,Northern Mariana Islands,Macau,1,1,EAFF Championship,Ulaanbaatar,Mongolia,TRUE
+2018-09-06,Mongolia,Guam,1,1,EAFF Championship,Ulaanbaatar,Mongolia,FALSE
+2018-09-06,Nepal,Bhutan,4,0,SAFF Cup,Dhaka,Bangladesh,TRUE
+2018-09-06,Bangladesh,Pakistan,1,0,SAFF Cup,Dhaka,Bangladesh,FALSE
+2018-09-07,Italy,Poland,1,1,UEFA Nations League,Bologna,Italy,FALSE
+2018-09-07,Turkey,Russia,1,2,UEFA Nations League,Trabzon,Turkey,FALSE
+2018-09-07,Albania,Israel,1,0,UEFA Nations League,Elbasan,Albania,FALSE
+2018-09-07,Lithuania,Serbia,0,1,UEFA Nations League,Vilnius,Lithuania,FALSE
+2018-09-07,Romania,Montenegro,0,0,UEFA Nations League,Ploiești,Romania,FALSE
+2018-09-07,Faroe Islands,Malta,3,1,UEFA Nations League,Tórshavn,Faroe Islands,FALSE
+2018-09-07,Azerbaijan,Kosovo,0,0,UEFA Nations League,Baku,Azerbaijan,FALSE
+2018-09-07,Argentina,Guatemala,3,0,Friendly,Los Angeles,USA,TRUE
+2018-09-07,Chinese Taipei,Malaysia,2,0,Friendly,Taipei,Taiwan,TRUE
+2018-09-07,Ecuador,Jamaica,2,0,Friendly,Harrison,USA,TRUE
+2018-09-07,Korea Republic,Costa Rica,2,0,Friendly,Goyang,Korea Republic,FALSE
+2018-09-07,Mexico,Uruguay,1,4,Friendly,Houston,USA,TRUE
+2018-09-07,Qatar,China,1,0,Friendly,Doha,Qatar,FALSE
+2018-09-07,Scotland,Belgium,0,4,Friendly,Glasgow,Scotland,FALSE
+2018-09-07,Singapore,Mauritius,1,1,Friendly,Bishan,Singapore,FALSE
+2018-09-07,USA,Brazil,0,2,Friendly,East Rutherford,USA,FALSE
+2018-09-07,Venezuela,Colombia,1,2,Friendly,Miami Gardens,USA,TRUE
+2018-09-07,Maldives,Sri Lanka,0,0,SAFF Cup,Dhaka,Bangladesh,TRUE
+2018-09-08,Switzerland,Iceland,6,0,UEFA Nations League,St. Gallen,Switzerland,FALSE
+2018-09-08,England,Spain,1,2,UEFA Nations League,London,England,FALSE
+2018-09-08,Northern Ireland,Bosnia and Herzegovina,1,2,UEFA Nations League,Belfast,Northern Ireland,FALSE
+2018-09-08,Finland,Hungary,1,0,UEFA Nations League,Tampere,Finland,FALSE
+2018-09-08,Estonia,Greece,0,1,UEFA Nations League,Tallinn,Estonia,FALSE
+2018-09-08,Belarus,San Marino,5,0,UEFA Nations League,Minsk,Belarus,FALSE
+2018-09-08,Luxembourg,Moldova,4,0,UEFA Nations League,Luxembourg City,Luxembourg,FALSE
+2018-09-08,Brunei Darussalam,Timor-Leste,1,0,AFF Championship qualification,Bandar Seri Begawan,Brunei,TRUE
+2018-09-08,Equatorial Guinea,Sudan,1,0,African Cup of Nations qualification,Bata,Equatorial Guinea,FALSE
+2018-09-08,Comoros,Cameroon,1,1,African Cup of Nations qualification,Mitsamiouli,Comoros,FALSE
+2018-09-08,Gabon,Burundi,1,1,African Cup of Nations qualification,Libreville,Gabon,FALSE
+2018-09-08,Gambia,Algeria,1,1,African Cup of Nations qualification,Bakau,Gambia,FALSE
+2018-09-08,South Africa,Libya,0,0,African Cup of Nations qualification,Durban,South Africa,FALSE
+2018-09-08,Mauritania,Burkina Faso,2,0,African Cup of Nations qualification,Nouakchott,Mauritania,FALSE
+2018-09-08,Egypt,Niger,6,0,African Cup of Nations qualification,Alexandria,Egypt,FALSE
+2018-09-08,Namibia,Zambia,1,1,African Cup of Nations qualification,Windhoek,Namibia,FALSE
+2018-09-08,Uganda,Tanzania,0,0,African Cup of Nations qualification,Kira,Uganda,FALSE
+2018-09-08,Pakistan,Bhutan,3,0,SAFF Cup,Dhaka,Bangladesh,TRUE
+2018-09-08,Bangladesh,Nepal,0,2,SAFF Cup,Dhaka,Bangladesh,FALSE
+2018-09-09,France,Netherlands,2,1,UEFA Nations League,Paris,France,FALSE
+2018-09-09,Ukraine,Slovakia,1,0,UEFA Nations League,Lviv,Ukraine,FALSE
+2018-09-09,Denmark,Wales,2,0,UEFA Nations League,Aarhus,Denmark,FALSE
+2018-09-09,Bulgaria,Norway,1,0,UEFA Nations League,Sofia,Bulgaria,FALSE
+2018-09-09,Cyprus,Slovenia,2,1,UEFA Nations League,Nicosia,Cyprus,FALSE
+2018-09-09,Georgia,Latvia,1,0,UEFA Nations League,Tbilisi,Georgia,FALSE
+2018-09-09,FYR Macedonia,Armenia,2,0,UEFA Nations League,Skopje,Macedonia,TRUE
+2018-09-09,Liechtenstein,Gibraltar,2,0,UEFA Nations League,Vaduz,Liechtenstein,FALSE
+2018-09-09,Germany,Peru,2,1,Friendly,Sinsheim,Germany,FALSE
+2018-09-09,Lebanon,Oman,0,0,Friendly,Amman,Jordan,TRUE
+2018-09-09,Congo,Zimbabwe,1,1,African Cup of Nations qualification,Brazzaville,Congo,FALSE
+2018-09-09,Rwanda,Ivory Coast,1,2,African Cup of Nations qualification,Kigali,Rwanda,FALSE
+2018-09-09,India,Maldives,2,0,SAFF Cup,Dhaka,Bangladesh,TRUE
+2018-09-10,Portugal,Italy,1,0,UEFA Nations League,Lisbon,Portugal,FALSE
+2018-09-10,Sweden,Turkey,2,3,UEFA Nations League,Stockholm,Sweden,FALSE
+2018-09-10,Scotland,Albania,2,0,UEFA Nations League,Glasgow,Scotland,FALSE
+2018-09-10,Montenegro,Lithuania,2,0,UEFA Nations League,Podgorica,Montenegro,FALSE
+2018-09-10,Serbia,Romania,2,2,UEFA Nations League,Belgrade,Serbia,FALSE
+2018-09-10,Andorra,Kazakhstan,1,1,UEFA Nations League,Andorra la Vella,Andorra,FALSE
+2018-09-10,Kosovo,Faroe Islands,2,0,UEFA Nations League,Pristina,Kosovo,FALSE
+2018-09-10,Malta,Azerbaijan,1,1,UEFA Nations League,Attard,Malta,FALSE
+2018-09-10,Bahrain,China,0,0,Friendly,East Riffa,Bahrain,FALSE
+2018-09-10,Cambodia,Malaysia,1,3,Friendly,Phnom Penh,Cambodia,FALSE
+2018-09-10,Kuwait,Iraq,2,2,Friendly,Al Farwaniyah,Kuwait,FALSE
+2018-09-10,Kyrgyzstan,Syria,2,1,Friendly,Bishkek,Kyrgyzstan,FALSE
+2018-09-10,Russia,Czech Republic,5,1,Friendly,Rostov-on-Don,Russia,FALSE
+2018-09-10,Saudi Arabia,Bolivia,2,2,Friendly,Riyadh,Saudi Arabia,FALSE
+2018-09-11,Iceland,Belgium,0,3,UEFA Nations League,Reykjavík,Iceland,FALSE
+2018-09-11,Spain,Croatia,6,0,UEFA Nations League,Elche,Spain,FALSE
+2018-09-11,Bosnia and Herzegovina,Austria,1,0,UEFA Nations League,Zenica,Bosnia-Herzegovina,TRUE
+2018-09-11,Hungary,Greece,2,1,UEFA Nations League,Budapest,Hungary,FALSE
+2018-09-11,Finland,Estonia,1,0,UEFA Nations League,Turku,Finland,FALSE
+2018-09-11,San Marino,Luxembourg,0,3,UEFA Nations League,Serravalle,San Marino,FALSE
+2018-09-11,Moldova,Belarus,0,0,UEFA Nations League,Chișinău,Moldova,FALSE
+2018-09-11,Colombia,Argentina,0,0,Friendly,East Rutherford,USA,TRUE
+2018-09-11,Ecuador,Guatemala,2,0,Friendly,Bridgeview,USA,TRUE
+2018-09-11,England,Switzerland,1,0,Friendly,London,England,FALSE
+2018-09-11,Gabon,Zambia,0,1,Friendly,Libreville,Gabon,FALSE
+2018-09-11,Indonesia,Mauritius,1,0,Friendly,Cikarang,Indonesia,FALSE
+2018-09-11,Japan,Costa Rica,3,0,Friendly,Suita,Japan,FALSE
+2018-09-11,Jordan,Oman,0,0,Friendly,Amman,Jordan,FALSE
+2018-09-11,Kenya,Malawi,1,0,Friendly,Nairobi,Kenya,FALSE
+2018-09-11,Korea Republic,Chile,0,0,Friendly,Suwon,Korea Republic,FALSE
+2018-09-11,Laos,United Arab Emirates,0,3,Friendly,Llagostera,Laos,FALSE
+2018-09-11,Liberia,Nigeria,1,2,Friendly,Monrovia,Liberia,FALSE
+2018-09-11,Northern Ireland,Israel,3,0,Friendly,Belfast,Northern Ireland,FALSE
+2018-09-11,Panama,Venezuela,0,2,Friendly,Panama City,Panama,FALSE
+2018-09-11,Poland,Republic of Ireland,1,1,Friendly,Wroclaw,Poland,FALSE
+2018-09-11,Qatar,Palestine,3,0,Friendly,Doha,Qatar,FALSE
+2018-09-11,Singapore,Fiji,2,0,Friendly,Bishan,Singapore,FALSE
+2018-09-11,USA,Mexico,1,0,Friendly,Nashville,USA,FALSE
+2018-09-11,Uzbekistan,Iran,0,1,Friendly,Tashkent,Uzbekistan,FALSE
+2018-09-12,Brazil,El Salvador,5,0,Friendly,Landover,USA,TRUE
+2018-09-12,India,Pakistan,3,1,SAFF Cup,Dhaka,Bangladesh,TRUE
+2018-09-12,Nepal,Maldives,0,3,SAFF Cup,Dhaka,Bangladesh,TRUE
+2018-09-15,Maldives,India,2,1,SAFF Cup,Dhaka,Bangladesh,TRUE
+2018-09-30,Botswana,Namibia,1,0,Friendly,Gaborone,Botswana,FALSE
+2018-09-30,St. Vincent and the Grenadines,Barbados,1,1,Friendly,Georgetown,St. Vincent and the Grenadines,FALSE
+2018-10-10,Albania,Jordan,0,0,Friendly,Elbasan,Albania,FALSE
+2018-10-10,Indonesia,Myanmar,3,0,Friendly,Cikarang,Indonesia,FALSE
+2018-10-10,Italy,Ukraine,1,1,Friendly,Genoa,Italy,FALSE
+2018-10-10,Ethiopia,Kenya,0,0,African Cup of Nations qualification,Bahir Dar,Ethiopia,FALSE
+2018-10-10,Zambia,Guinea-Bissau,2,1,African Cup of Nations qualification,Lusaka,Zambia,FALSE
+2018-10-11,Poland,Portugal,2,3,UEFA Nations League,Chorzow,Poland,FALSE
+2018-10-11,Russia,Sweden,0,0,UEFA Nations League,Kaliningrad,Russia,FALSE
+2018-10-11,Israel,Scotland,2,1,UEFA Nations League,Haifa,Israel,FALSE
+2018-10-11,Montenegro,Serbia,0,2,UEFA Nations League,Podgorica,Montenegro,FALSE
+2018-10-11,Lithuania,Romania,1,2,UEFA Nations League,Vilnius,Lithuania,FALSE
+2018-10-11,Faroe Islands,Azerbaijan,0,3,UEFA Nations League,Tórshavn,Faroe Islands,FALSE
+2018-10-11,Kosovo,Malta,3,1,UEFA Nations League,Pristina,Kosovo,FALSE
+2018-10-11,Argentina,Iraq,4,0,Friendly,Riyadh,Saudi Arabia,TRUE
+2018-10-11,Bahrain,Syria,0,1,Friendly,East Riffa,Bahrain,FALSE
+2018-10-11,France,Iceland,2,2,Friendly,Guingamp,France,FALSE
+2018-10-11,Honduras,United Arab Emirates,1,1,Friendly,Barcelona,Spain,TRUE
+2018-10-11,Hong Kong,Thailand,0,1,Friendly,Hong Kong,Hong Kong,FALSE
+2018-10-11,Kuwait,Lebanon,1,0,Friendly,Kuwait City,Kuwait,FALSE
+2018-10-11,Mexico,Costa Rica,3,2,Friendly,San Nicolás de los Garza,Mexico,FALSE
+2018-10-11,Turkey,Bosnia and Herzegovina,0,0,Friendly,Rize,Turkey,FALSE
+2018-10-11,USA,Colombia,2,4,Friendly,Tampa,USA,FALSE
+2018-10-11,Wales,Spain,1,4,Friendly,Cardiff,Wales,FALSE
+2018-10-11,Congo,Liberia,3,1,African Cup of Nations qualification,Brazzaville,Congo,FALSE
+2018-10-12,Belgium,Switzerland,2,1,UEFA Nations League,Brussels,Belgium,FALSE
+2018-10-12,Croatia,England,0,0,UEFA Nations League,Rijeka,Croatia,FALSE
+2018-10-12,Austria,Northern Ireland,1,0,UEFA Nations League,Vienna,Austria,FALSE
+2018-10-12,Estonia,Finland,0,1,UEFA Nations League,Tallinn,Estonia,FALSE
+2018-10-12,Greece,Hungary,1,0,UEFA Nations League,Athens,Greece,FALSE
+2018-10-12,Belarus,Luxembourg,1,0,UEFA Nations League,Minsk,Belarus,FALSE
+2018-10-12,Moldova,San Marino,2,0,UEFA Nations League,Chișinău,Moldova,FALSE
+2018-10-12,Cambodia,Timor-Leste,2,2,Friendly,Phnom Penh,Cambodia,FALSE
+2018-10-12,Japan,Panama,3,0,Friendly,Niigata,Japan,FALSE
+2018-10-12,Korea Republic,Uruguay,2,1,Friendly,Seoul,Korea Republic,FALSE
+2018-10-12,Peru,Chile,3,0,Friendly,Miami Gardens,USA,TRUE
+2018-10-12,Qatar,Ecuador,4,3,Friendly,Doha,Qatar,FALSE
+2018-10-12,Saudi Arabia,Brazil,0,2,Friendly,Riyadh,Saudi Arabia,FALSE
+2018-10-12,Singapore,Mongolia,2,0,Friendly,Bishan,Singapore,FALSE
+2018-10-12,Sri Lanka,Malaysia,1,4,Friendly,Colombo,Sri Lanka,FALSE
+2018-10-12,Cameroon,Malawi,1,0,African Cup of Nations qualification,Yaoundé,Cameroon,FALSE
+2018-10-12,Gabon,South Sudan,3,0,African Cup of Nations qualification,Libreville,Gabon,FALSE
+2018-10-12,Togo,Gambia,1,1,African Cup of Nations qualification,Lomé,Togo,FALSE
+2018-10-12,Ivory Coast,Central African Republic,4,0,African Cup of Nations qualification,Bouaké,Ivory Coast,FALSE
+2018-10-12,Angola,Mauritania,4,1,African Cup of Nations qualification,Luanda,Angola,FALSE
+2018-10-12,Egypt,Swaziland,4,1,African Cup of Nations qualification,Cairo,Egypt,FALSE
+2018-10-12,Cape Verde Islands,Tanzania,3,0,African Cup of Nations qualification,Praia,Cape Verde,TRUE
+2018-10-13,Netherlands,Germany,3,0,UEFA Nations League,Amsterdam,Netherlands,FALSE
+2018-10-13,Slovakia,Czech Republic,1,2,UEFA Nations League,Trnava,Slovakia,FALSE
+2018-10-13,Republic of Ireland,Denmark,0,0,UEFA Nations League,Dublin,Ireland,TRUE
+2018-10-13,Norway,Slovenia,1,0,UEFA Nations League,Oslo,Norway,FALSE
+2018-10-13,Bulgaria,Cyprus,2,1,UEFA Nations League,Sofia,Bulgaria,FALSE
+2018-10-13,Latvia,Kazakhstan,1,1,UEFA Nations League,Riga,Latvia,FALSE
+2018-10-13,Georgia,Andorra,3,0,UEFA Nations League,Tbilisi,Georgia,FALSE
+2018-10-13,Armenia,Gibraltar,0,1,UEFA Nations League,Yerevan,Armenia,FALSE
+2018-10-13,FYR Macedonia,Liechtenstein,4,1,UEFA Nations League,Skopje,Macedonia,TRUE
+2018-10-13,China,India,0,0,Friendly,Suzhou,China,FALSE
+2018-10-13,Myanmar,Bolivia,0,3,Friendly,Yangon,Myanmar,FALSE
+2018-10-13,Oman,Philippines,1,1,Friendly,Al Rayyan,Oman,FALSE
+2018-10-13,Uzbekistan,Korea DPR,2,0,Friendly,Tashkent,Uzbekistan,FALSE
+2018-10-13,Equatorial Guinea,Madagascar,0,1,African Cup of Nations qualification,Bata,Equatorial Guinea,FALSE
+2018-10-13,Nigeria,Libya,4,0,African Cup of Nations qualification,Uyo,Nigeria,FALSE
+2018-10-14,Poland,Italy,0,1,UEFA Nations League,Chorzow,Poland,FALSE
+2018-10-14,Russia,Turkey,2,0,UEFA Nations League,Sochi,Russia,FALSE
+2018-10-14,Israel,Albania,2,0,UEFA Nations League,Beer Sheva,Israel,FALSE
+2018-10-14,Romania,Serbia,0,0,UEFA Nations League,Bucharest,Romania,FALSE
+2018-10-14,Lithuania,Montenegro,1,4,UEFA Nations League,Vilnius,Lithuania,FALSE
+2018-10-14,Faroe Islands,Kosovo,1,1,UEFA Nations League,Tórshavn,Faroe Islands,FALSE
+2018-10-14,Azerbaijan,Malta,1,1,UEFA Nations League,Baku,Azerbaijan,FALSE
+2018-10-14,Scotland,Portugal,1,3,Friendly,Glasgow,Scotland,FALSE
+2018-10-14,Thailand,Trinidad and Tobago,1,0,Friendly,Suphan Buri,Thailand,FALSE
+2018-10-14,Guinea-Bissau,Zambia,2,1,African Cup of Nations qualification,Bissau,Guinea-Bissau,FALSE
+2018-10-15,Iceland,Switzerland,1,2,UEFA Nations League,Reykjavík,Iceland,FALSE
+2018-10-15,Spain,England,2,3,UEFA Nations League,Sevilla,Spain,FALSE
+2018-10-15,Bosnia and Herzegovina,Northern Ireland,2,0,UEFA Nations League,Sarajevo,Bosnia-Herzegovina,TRUE
+2018-10-15,Estonia,Hungary,3,3,UEFA Nations League,Tallinn,Estonia,FALSE
+2018-10-15,Finland,Greece,2,0,UEFA Nations League,Tampere,Finland,FALSE
+2018-10-15,Luxembourg,San Marino,3,0,UEFA Nations League,Luxembourg City,Luxembourg,FALSE
+2018-10-15,Belarus,Moldova,0,0,UEFA Nations League,Minsk,Belarus,FALSE
+2018-10-15,Croatia,Jordan,2,1,Friendly,Rijeka,Croatia,FALSE
+2018-10-15,Kuwait,Australia,0,4,Friendly,Kuwait City,Kuwait,FALSE
+2018-10-15,Saudi Arabia,Iraq,1,1,Friendly,Riyadh,Saudi Arabia,FALSE
+2018-10-16,France,Germany,2,1,UEFA Nations League,Paris,France,FALSE
+2018-10-16,Ukraine,Czech Republic,1,0,UEFA Nations League,Kharkiv,Ukraine,FALSE
+2018-10-16,Republic of Ireland,Wales,0,1,UEFA Nations League,Dublin,Ireland,TRUE
+2018-10-16,Norway,Bulgaria,1,0,UEFA Nations League,Oslo,Norway,FALSE
+2018-10-16,Slovenia,Cyprus,1,1,UEFA Nations League,Ljubljana,Slovenia,FALSE
+2018-10-16,Kazakhstan,Andorra,4,0,UEFA Nations League,Astana,Kazakhstan,FALSE
+2018-10-16,Latvia,Georgia,0,3,UEFA Nations League,Riga,Latvia,FALSE
+2018-10-16,Armenia,FYR Macedonia,4,0,UEFA Nations League,Yerevan,Armenia,FALSE
+2018-10-16,Gibraltar,Liechtenstein,2,1,UEFA Nations League,Gibraltar,Gibraltar,FALSE
+2018-10-16,Bahrain,Myanmar,4,1,Friendly,East Riffa,Bahrain,FALSE
+2018-10-16,Belgium,Netherlands,1,1,Friendly,Brussels,Belgium,FALSE
+2018-10-16,Cambodia,Singapore,1,2,Friendly,Phnom Penh,Cambodia,FALSE
+2018-10-16,China,Syria,2,0,Friendly,Nanjing,China,FALSE
+2018-10-16,Colombia,Costa Rica,3,1,Friendly,Harrison,USA,TRUE
+2018-10-16,Denmark,Austria,2,0,Friendly,Herning,Denmark,FALSE
+2018-10-16,Indonesia,Hong Kong,1,1,Friendly,Cikarang,Indonesia,FALSE
+2018-10-16,Iran,Bolivia,2,1,Friendly,Tehran,Iran,FALSE
+2018-10-16,Japan,Uruguay,4,3,Friendly,Saitama,Japan,FALSE
+2018-10-16,Korea Republic,Panama,2,2,Friendly,Cheonan,Korea Republic,FALSE
+2018-10-16,Laos,Mongolia,1,4,Friendly,Vientiane,Laos,FALSE
+2018-10-16,Malaysia,Kyrgyzstan,0,1,Friendly,Malacca City,Malaysia,FALSE
+2018-10-16,Mexico,Chile,0,1,Friendly,Queretaro,Mexico,FALSE
+2018-10-16,Oman,Ecuador,0,0,Friendly,Doha,Qatar,TRUE
+2018-10-16,Sweden,Slovakia,1,1,Friendly,Stockholm,Sweden,FALSE
+2018-10-16,United Arab Emirates,Venezuela,0,2,Friendly,Barcelona,Spain,TRUE
+2018-10-16,USA,Peru,1,1,Friendly,East Hartford,USA,FALSE
+2018-10-16,Uzbekistan,Qatar,2,0,Friendly,Tashkent,Uzbekistan,FALSE
+2018-10-16,Madagascar,Equatorial Guinea,1,0,African Cup of Nations qualification,Antananarivo,Madagascar,FALSE
+2018-10-16,Malawi,Cameroon,0,0,African Cup of Nations qualification,Blantyre,Malawi,FALSE
+2018-10-16,Burundi,Mali,1,1,African Cup of Nations qualification,Bujumbura,Burundi,FALSE
+2018-10-16,Benin,Algeria,1,0,African Cup of Nations qualification,Cotonou,Benin,FALSE
+2018-10-16,Seychelles,South Africa,0,0,African Cup of Nations qualification,Victoria,Seychelles,FALSE
+2018-10-16,Liberia,Congo,2,1,African Cup of Nations qualification,Monrovia,Liberia,FALSE
+2018-10-16,Central African Republic,Ivory Coast,0,0,African Cup of Nations qualification,Bangui,Central African Republic,FALSE
+2018-10-16,Mauritania,Angola,1,0,African Cup of Nations qualification,Nouakchott,Mauritania,FALSE
+2018-10-16,Swaziland,Egypt,0,2,African Cup of Nations qualification,Manzini,Swaziland,FALSE
+2018-10-16,Tanzania,Cape Verde Islands,2,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,FALSE
+2018-10-16,Argentina,Brazil,0,1,Friendly,Jeddah,Saudi Arabia,TRUE
+2018-11-03,Malaysia,Maldives,3,0,Friendly,Kuala Lumpur,Malaysia,FALSE
+2018-11-08,Cambodia,Malaysia,0,1,AFF Championship,Phnom Penh,Cambodia,FALSE
+2018-11-08,Laos,Vietnam,0,3,AFF Championship,Vientiane,Laos,FALSE
+2018-11-09,Timor-Leste,Thailand,0,7,AFF Championship,Bangkok,Thailand,TRUE
+2018-11-09,Singapore,Indonesia,1,0,AFF Championship,Kallang,Singapore,FALSE
+2018-11-11,Korea DPR,Mongolia,4,1,EAFF Championship,Taipei,Taiwan,TRUE
+2018-11-11,Chinese Taipei,Hong Kong,1,2,EAFF Championship,Taipei,Taiwan,TRUE
+2018-11-12,Myanmar,Cambodia,4,1,AFF Championship,Mandalay,Burma,TRUE
+2018-11-12,Malaysia,Laos,3,1,AFF Championship,Kuala Lumpur,Malaysia,FALSE
+2018-11-13,Indonesia,Timor-Leste,3,1,AFF Championship,Jakarta,Indonesia,FALSE
+2018-11-13,Philippines,Singapore,1,0,AFF Championship,Bacolod,Philippines,FALSE
+2018-11-13,Chinese Taipei,Mongolia,2,1,EAFF Championship,Taipei,Taiwan,TRUE
+2018-11-13,Hong Kong,Korea DPR,0,0,EAFF Championship,Taipei,Taiwan,TRUE
+2018-11-14,Switzerland,Qatar,0,1,Friendly,Lugano,Switzerland,FALSE
+2018-11-14,Vanuatu,New Caledonia,0,1,Friendly,Port Vila,Vanuatu,FALSE
+2018-11-15,Belgium,Iceland,2,0,UEFA Nations League,Brussels,Belgium,FALSE
+2018-11-15,Croatia,Spain,3,2,UEFA Nations League,Zagreb,Croatia,FALSE
+2018-11-15,Austria,Bosnia and Herzegovina,0,0,UEFA Nations League,Vienna,Austria,FALSE
+2018-11-15,Hungary,Estonia,2,0,UEFA Nations League,Budapest,Hungary,FALSE
+2018-11-15,Greece,Finland,1,0,UEFA Nations League,Athens,Greece,FALSE
+2018-11-15,Andorra,Georgia,1,1,UEFA Nations League,Andorra la Vella,Andorra,FALSE
+2018-11-15,Kazakhstan,Latvia,1,1,UEFA Nations League,Astana,Kazakhstan,FALSE
+2018-11-15,Luxembourg,Belarus,0,2,UEFA Nations League,Luxembourg City,Luxembourg,FALSE
+2018-11-15,San Marino,Moldova,0,1,UEFA Nations League,Serravalle,San Marino,FALSE
+2018-11-15,England,USA,3,0,Friendly,London,England,FALSE
+2018-11-15,Germany,Russia,3,0,Friendly,Leipzig,Germany,FALSE
+2018-11-15,Iran,Trinidad and Tobago,1,0,Friendly,Tehran,Iran,FALSE
+2018-11-15,Israel,Guatemala,7,0,Friendly,Netanya,Israel,FALSE
+2018-11-15,Peru,Ecuador,0,2,Friendly,Lima,Peru,FALSE
+2018-11-15,Poland,Czech Republic,0,1,Friendly,Gdańsk,Poland,FALSE
+2018-11-15,Republic of Ireland,Northern Ireland,0,0,Friendly,Dublin,Ireland,TRUE
+2018-11-15,Uzbekistan,Lebanon,0,0,Friendly,Robina,Australia,TRUE
+2018-11-16,Netherlands,France,2,0,UEFA Nations League,Rotterdam,Netherlands,FALSE
+2018-11-16,Slovakia,Ukraine,4,1,UEFA Nations League,Trnava,Slovakia,FALSE
+2018-11-16,Wales,Denmark,1,2,UEFA Nations League,Cardiff,Wales,FALSE
+2018-11-16,Slovenia,Norway,1,1,UEFA Nations League,Ljubljana,Slovenia,FALSE
+2018-11-16,Cyprus,Bulgaria,1,1,UEFA Nations League,Nicosia,Cyprus,FALSE
+2018-11-16,Gibraltar,Armenia,2,6,UEFA Nations League,Gibraltar,Gibraltar,FALSE
+2018-11-16,Liechtenstein,FYR Macedonia,0,2,UEFA Nations League,Vaduz,Liechtenstein,FALSE
+2018-11-16,Argentina,Mexico,2,0,Friendly,Cordoba,Argentina,FALSE
+2018-11-16,Brazil,Uruguay,1,0,Friendly,London,England,TRUE
+2018-11-16,Chile,Costa Rica,2,3,Friendly,Rancagua,Chile,FALSE
+2018-11-16,Honduras,Panama,1,0,Friendly,Tegucigalpa,Honduras,FALSE
+2018-11-16,Japan,Venezuela,1,1,Friendly,Ōita,Japan,FALSE
+2018-11-16,Oman,Syria,1,1,Friendly,Muscat,Oman,FALSE
+2018-11-16,Palestine,Pakistan,2,1,Friendly,Al Ram,Palestine,FALSE
+2018-11-16,Saudi Arabia,Yemen,1,0,Friendly,Damman,Saudi Arabia,FALSE
+2018-11-16,United Arab Emirates,Bolivia,0,0,Friendly,Dubai,United Arab Emirates,FALSE
+2018-11-16,Laos,Myanmar,1,3,AFF Championship,Vientiane,Laos,FALSE
+2018-11-16,Vietnam,Malaysia,2,0,AFF Championship,Hanoi,Vietnam,FALSE
+2018-11-16,Morocco,Cameroon,2,0,African Cup of Nations qualification,Casablanca,Morocco,FALSE
+2018-11-16,South Sudan,Burundi,2,5,African Cup of Nations qualification,Juba,South Sudan,FALSE
+2018-11-16,Egypt,Tunisia,3,2,African Cup of Nations qualification,Alexandria,Egypt,FALSE
+2018-11-16,Chinese Taipei,Korea DPR,0,2,EAFF Championship,Taipei,Taiwan,TRUE
+2018-11-16,Mongolia,Hong Kong,1,5,EAFF Championship,Taipei,Taiwan,TRUE
+2018-11-17,Italy,Portugal,0,0,UEFA Nations League,Milan,Italy,FALSE
+2018-11-17,Turkey,Sweden,0,1,UEFA Nations League,Konya,Turkey,FALSE
+2018-11-17,Albania,Scotland,0,4,UEFA Nations League,Shkodër,Albania,FALSE
+2018-11-17,Serbia,Montenegro,2,1,UEFA Nations League,Belgrade,Serbia,FALSE
+2018-11-17,Romania,Lithuania,3,0,UEFA Nations League,Ploiești,Romania,FALSE
+2018-11-17,Malta,Kosovo,0,5,UEFA Nations League,Attard,Malta,FALSE
+2018-11-17,Azerbaijan,Faroe Islands,2,0,UEFA Nations League,Baku,Azerbaijan,FALSE
+2018-11-17,Australia,Korea Republic,1,1,Friendly,Brisbane,Australia,FALSE
+2018-11-17,Jordan,India,2,1,Friendly,Amman,Jordan,FALSE
+2018-11-17,Vanuatu,New Caledonia,2,2,Friendly,Port Vila,Vanuatu,FALSE
+2018-11-17,Thailand,Indonesia,4,2,AFF Championship,Bangkok,Thailand,FALSE
+2018-11-17,Timor-Leste,Philippines,2,3,AFF Championship,Kuala Lumpur,Malaysia,TRUE
+2018-11-17,Equatorial Guinea,Senegal,0,1,African Cup of Nations qualification,Bata,Equatorial Guinea,FALSE
+2018-11-17,Gambia,Benin,3,1,African Cup of Nations qualification,Bakau,Gambia,FALSE
+2018-11-17,Seychelles,Libya,1,8,African Cup of Nations qualification,Victoria,Seychelles,FALSE
+2018-11-17,Namibia,Guinea-Bissau,0,0,African Cup of Nations qualification,Windhoek,Namibia,FALSE
+2018-11-17,Uganda,Cape Verde Islands,1,0,African Cup of Nations qualification,Kira,Uganda,FALSE
+2018-11-18,Switzerland,Belgium,5,2,UEFA Nations League,Luzern,Switzerland,FALSE
+2018-11-18,England,Croatia,2,1,UEFA Nations League,London,England,FALSE
+2018-11-18,Northern Ireland,Austria,1,2,UEFA Nations League,Belfast,Northern Ireland,FALSE
+2018-11-18,Greece,Estonia,0,1,UEFA Nations League,Athens,Greece,FALSE
+2018-11-18,Hungary,Finland,2,0,UEFA Nations League,Budapest,Hungary,FALSE
+2018-11-18,San Marino,Belarus,0,2,UEFA Nations League,Serravalle,San Marino,FALSE
+2018-11-18,Moldova,Luxembourg,1,1,UEFA Nations League,Chișinău,Moldova,FALSE
+2018-11-18,Spain,Bosnia and Herzegovina,1,0,Friendly,Las Palmas,Spain,FALSE
+2018-11-18,Ethiopia,Ghana,0,2,African Cup of Nations qualification,Addis Ababa,Ethiopia,FALSE
+2018-11-18,Congo,Congo DR,1,1,African Cup of Nations qualification,Brazzaville,Congo,FALSE
+2018-11-18,Guinea,Ivory Coast,1,1,African Cup of Nations qualification,Conakry,Guinea,FALSE
+2018-11-18,Angola,Burkina Faso,2,1,African Cup of Nations qualification,Luanda,Angola,FALSE
+2018-11-19,Germany,Netherlands,2,2,UEFA Nations League,Gelsenkirchen,Germany,FALSE
+2018-11-19,Czech Republic,Slovakia,1,0,UEFA Nations League,Prague,Czech Republic,FALSE
+2018-11-19,Denmark,Republic of Ireland,0,0,UEFA Nations League,Aarhus,Denmark,FALSE
+2018-11-19,Bulgaria,Slovenia,1,1,UEFA Nations League,Sofia,Bulgaria,FALSE
+2018-11-19,Cyprus,Norway,0,2,UEFA Nations League,Nicosia,Cyprus,FALSE
+2018-11-19,Andorra,Latvia,0,0,UEFA Nations League,Andorra la Vella,Andorra,FALSE
+2018-11-19,Georgia,Kazakhstan,2,1,UEFA Nations League,Tbilisi,Georgia,FALSE
+2018-11-19,FYR Macedonia,Gibraltar,4,0,UEFA Nations League,Skopje,Macedonia,TRUE
+2018-11-19,Liechtenstein,Armenia,2,2,UEFA Nations League,Vaduz,Liechtenstein,FALSE
+2018-11-19,Iceland,Qatar,2,2,Friendly,Eupen,Belgium,TRUE
+2018-11-19,Oman,Bahrain,2,1,Friendly,Muscat,Oman,FALSE
+2018-11-20,Portugal,Poland,1,1,UEFA Nations League,Guimaraes,Portugal,FALSE
+2018-11-20,Sweden,Russia,2,0,UEFA Nations League,Stockholm,Sweden,FALSE
+2018-11-20,Scotland,Israel,3,2,UEFA Nations League,Glasgow,Scotland,FALSE
+2018-11-20,Montenegro,Romania,0,1,UEFA Nations League,Podgorica,Montenegro,FALSE
+2018-11-20,Serbia,Lithuania,4,1,UEFA Nations League,Belgrade,Serbia,FALSE
+2018-11-20,Kosovo,Azerbaijan,4,0,UEFA Nations League,Pristina,Kosovo,FALSE
+2018-11-20,Malta,Faroe Islands,1,1,UEFA Nations League,Attard,Malta,FALSE
+2018-11-20,Albania,Wales,1,0,Friendly,Elbasan,Albania,FALSE
+2018-11-20,Argentina,Mexico,2,0,Friendly,Mendoza,Argentina,FALSE
+2018-11-20,Australia,Lebanon,3,0,Friendly,Sydney,Australia,FALSE
+2018-11-20,Brazil,Cameroon,1,0,Friendly,London,England,TRUE
+2018-11-20,Chile,Honduras,4,1,Friendly,Temuco,Chile,FALSE
+2018-11-20,China,Palestine,1,1,Friendly,Wuhan,China,FALSE
+2018-11-20,El Salvador,Haiti,1,0,Friendly,San Salvador,El Salvador,FALSE
+2018-11-20,France,Uruguay,1,0,Friendly,Paris,France,FALSE
+2018-11-20,Iran,Venezuela,1,1,Friendly,Doha,Qatar,TRUE
+2018-11-20,Iraq,Bolivia,0,0,Friendly,Al-Ain,Iraq,FALSE
+2018-11-20,Italy,USA,1,0,Friendly,Genk,Belgium,TRUE
+2018-11-20,Japan,Kyrgyzstan,4,0,Friendly,Toyota,Japan,FALSE
+2018-11-20,Jordan,Saudi Arabia,1,1,Friendly,Amman,Jordan,FALSE
+2018-11-20,Korea Republic,Uzbekistan,4,0,Friendly,Brisbane,Australia,TRUE
+2018-11-20,Kuwait,Syria,1,2,Friendly,Al Farwaniyah,Kuwait,FALSE
+2018-11-20,Nigeria,Uganda,0,0,Friendly,Asaba,Nigeria,FALSE
+2018-11-20,Panama,Ecuador,1,2,Friendly,Panama City,Panama,FALSE
+2018-11-20,Peru,Costa Rica,2,3,Friendly,Arequipa,Peru,FALSE
+2018-11-20,South Africa,Paraguay,1,1,Friendly,Durban,South Africa,FALSE
+2018-11-20,Tunisia,Morocco,0,1,Friendly,Radès,Tunisia,FALSE
+2018-11-20,Turkey,Ukraine,0,0,Friendly,Antalya,Turkey,FALSE
+2018-11-20,United Arab Emirates,Yemen,2,0,Friendly,Dubai,United Arab Emirates,FALSE
+2018-11-20,Myanmar,Vietnam,0,0,AFF Championship,Yangon,Myanmar,FALSE
+2018-11-20,Cambodia,Laos,3,1,AFF Championship,Phnom Penh,Cambodia,FALSE
+2018-11-21,Philippines,Thailand,1,1,AFF Championship,Bacolod,Philippines,FALSE
+2018-11-21,Singapore,Timor-Leste,6,1,AFF Championship,Kallang,Singapore,FALSE
+2018-11-24,Vietnam,Cambodia,3,0,AFF Championship,Hanoi,Vietnam,FALSE
+2018-11-24,Malaysia,Myanmar,3,0,AFF Championship,Kuala Lumpur,Malaysia,FALSE
+2018-11-25,Indonesia,Philippines,0,0,AFF Championship,Jakarta,Indonesia,FALSE
+2018-11-25,Thailand,Singapore,3,0,AFF Championship,Bangkok,Thailand,FALSE
+2018-12-01,Malaysia,Thailand,0,0,AFF Championship,Kuala Lumpur,Malaysia,FALSE
+2018-12-02,Philippines,Vietnam,1,2,AFF Championship,Bacolod,Philippines,FALSE
+2018-12-05,Thailand,Malaysia,2,2,AFF Championship,Bangkok,Thailand,FALSE
+2018-12-06,Vietnam,Philippines,2,1,AFF Championship,Hanoi,Vietnam,FALSE
+2018-12-11,Malaysia,Vietnam,2,2,AFF Championship,Kuala Lumpur,Malaysia,FALSE
+2018-12-13,Oman,Tajikistan,2,1,Friendly,Muscat,Oman,FALSE
+2018-12-15,Vietnam,Malaysia,1,0,AFF Championship,Hanoi,Vietnam,FALSE
+2018-12-16,Oman,Tajikistan,1,0,Friendly,Muscat,Oman,FALSE
+2018-12-16,Palestine,Pakistan,2,0,Friendly,Doha,Qatar,TRUE
+2018-12-20,Bahrain,Tajikistan,5,0,Friendly,Isa Town,Bahrain,FALSE
+2018-12-20,Jordan,Kyrgyzstan,0,1,Friendly,Doha,Qatar,TRUE
+2018-12-23,Qatar,Jordan,2,0,Friendly,Doha,Qatar,FALSE
+2018-12-24,Iraq,China,2,1,Friendly,Doha,Qatar,TRUE
+2018-12-24,Palestine,Iran,1,1,Friendly,Doha,Qatar,TRUE
+2018-12-25,Afghanistan,Turkmenistan,0,2,Friendly,Antalya,Turkey,TRUE
+2018-12-25,Qatar,Kyrgyzstan,1,0,Friendly,Doha,Qatar,FALSE
+2018-12-25,Vietnam,Korea DPR,1,1,Friendly,Hanoi,Vietnam,FALSE
+2018-12-27,Bahrain,Lebanon,1,0,Friendly,East Riffa,Bahrain,FALSE
+2018-12-27,India,Oman,0,0,Friendly,Abu Dhabi,United Arab Emirates,TRUE
+2018-12-27,Qatar,Algeria,0,1,Friendly,Doha,Qatar,FALSE
+2018-12-28,China,Jordan,1,1,Friendly,Doha,Qatar,TRUE
+2018-12-28,Iraq,Palestine,1,0,Friendly,Doha,Qatar,TRUE
+2018-12-28,United Arab Emirates,Kuwait,0,2,Friendly,Dubai,United Arab Emirates,FALSE
+2018-12-29,Bahrain,Korea DPR,4,0,Friendly,Isa Town,Bahrain,FALSE
+2018-12-30,Australia,Oman,5,0,Friendly,Dubai,United Arab Emirates,TRUE
+2018-12-30,Yemen,Syria,0,1,Friendly,Abu Dhabi,United Arab Emirates,TRUE
+2018-12-31,Korea Republic,Saudi Arabia,0,0,Friendly,Abu Dhabi,United Arab Emirates,TRUE
+2018-12-31,Kyrgyzstan,Palestine,2,1,Friendly,Doha,Qatar,TRUE
+2018-12-31,Philippines,Vietnam,2,4,Friendly,Doha,Qatar,TRUE
+2018-12-31,Qatar,Iran,1,2,Friendly,Doha,Qatar,FALSE
+2019-01-02,Oman,Thailand,2,0,Friendly,Abu Dhabi,United Arab Emirates,TRUE
+2019-01-05,United Arab Emirates,Bahrain,1,1,AFC Asian Cup,Abu Dhabi,United Arab Emirates,FALSE
+2019-01-06,Thailand,India,1,4,AFC Asian Cup,Abu Dhabi,United Arab Emirates,TRUE
+2019-01-06,Australia,Jordan,0,1,AFC Asian Cup,Al Ain,United Arab Emirates,TRUE
+2019-01-06,Syria,Palestine,0,0,AFC Asian Cup,Sharjah,United Arab Emirates,TRUE
+2019-01-07,China,Kyrgyzstan,2,1,AFC Asian Cup,Al Ain,United Arab Emirates,TRUE
+2019-01-07,Korea Republic,Philippines,1,0,AFC Asian Cup,Dubai,United Arab Emirates,TRUE
+2019-01-07,Iran,Yemen,5,0,AFC Asian Cup,Abu Dhabi,United Arab Emirates,TRUE
+2019-01-08,Finland,Sweden,1,0,Friendly,Doha,Qatar,TRUE
+2019-01-08,Iraq,Vietnam,3,2,AFC Asian Cup,Abu Dhabi,United Arab Emirates,TRUE
+2019-01-08,Saudi Arabia,Korea DPR,4,0,AFC Asian Cup,Dubai,United Arab Emirates,TRUE
+2019-01-09,Qatar,Lebanon,2,0,AFC Asian Cup,Al Ain,United Arab Emirates,TRUE
+2019-01-09,Japan,Turkmenistan,3,2,AFC Asian Cup,Abu Dhabi,United Arab Emirates,TRUE
+2019-01-09,Uzbekistan,Oman,2,1,AFC Asian Cup,Sharjah,United Arab Emirates,TRUE
+2019-01-10,Bahrain,Thailand,0,1,AFC Asian Cup,Dubai,United Arab Emirates,TRUE
+2019-01-10,India,United Arab Emirates,0,2,AFC Asian Cup,Abu Dhabi,United Arab Emirates,TRUE
+2019-01-10,Jordan,Syria,2,0,AFC Asian Cup,Al Ain,United Arab Emirates,TRUE
+2019-01-11,Estonia,Finland,2,1,Friendly,Doha,Qatar,TRUE
+2019-01-11,Iceland,Sweden,2,2,Friendly,Doha,Qatar,TRUE
+2019-01-11,Palestine,Australia,0,3,AFC Asian Cup,Dubai,United Arab Emirates,TRUE
+2019-01-11,Philippines,China,0,3,AFC Asian Cup,Abu Dhabi,United Arab Emirates,TRUE
+2019-01-11,Kyrgyzstan,Korea Republic,0,1,AFC Asian Cup,Al Ain,United Arab Emirates,TRUE
+2019-01-12,Vietnam,Iran,0,2,AFC Asian Cup,Abu Dhabi,United Arab Emirates,TRUE
+2019-01-12,Yemen,Iraq,0,3,AFC Asian Cup,Sharjah,United Arab Emirates,TRUE
+2019-01-12,Lebanon,Saudi Arabia,0,2,AFC Asian Cup,Dubai,United Arab Emirates,TRUE
+2019-01-13,Korea DPR,Qatar,0,6,AFC Asian Cup,Al Ain,United Arab Emirates,TRUE
+2019-01-13,Oman,Japan,0,1,AFC Asian Cup,Abu Dhabi,United Arab Emirates,TRUE
+2019-01-13,Turkmenistan,Uzbekistan,0,4,AFC Asian Cup,Dubai,United Arab Emirates,TRUE
+2019-01-14,India,Bahrain,0,1,AFC Asian Cup,Sharjah,United Arab Emirates,TRUE
+2019-01-14,United Arab Emirates,Thailand,1,1,AFC Asian Cup,Al Ain,United Arab Emirates,FALSE
+2019-01-15,Estonia,Iceland,0,0,Friendly,Doha,Qatar,TRUE
+2019-01-15,Australia,Syria,3,2,AFC Asian Cup,Al Ain,United Arab Emirates,TRUE
+2019-01-15,Palestine,Jordan,0,0,AFC Asian Cup,Abu Dhabi,United Arab Emirates,TRUE
+2019-01-16,Korea Republic,China,2,0,AFC Asian Cup,Abu Dhabi,United Arab Emirates,TRUE
+2019-01-16,Kyrgyzstan,Philippines,3,1,AFC Asian Cup,Dubai,United Arab Emirates,TRUE
+2019-01-16,Iran,Iraq,0,0,AFC Asian Cup,Dubai,United Arab Emirates,TRUE
+2019-01-16,Vietnam,Yemen,2,0,AFC Asian Cup,Al Ain,United Arab Emirates,TRUE
+2019-01-17,Lebanon,Korea DPR,4,1,AFC Asian Cup,Sharjah,United Arab Emirates,TRUE
+2019-01-17,Saudi Arabia,Qatar,0,2,AFC Asian Cup,Abu Dhabi,United Arab Emirates,TRUE
+2019-01-17,Japan,Uzbekistan,2,1,AFC Asian Cup,Al Ain,United Arab Emirates,TRUE
+2019-01-17,Oman,Turkmenistan,3,1,AFC Asian Cup,Abu Dhabi,United Arab Emirates,TRUE
+2019-01-20,Iran,Oman,2,0,AFC Asian Cup,Abu Dhabi,United Arab Emirates,TRUE
+2019-01-20,Jordan,Vietnam,1,1,AFC Asian Cup,Dubai,United Arab Emirates,TRUE
+2019-01-20,Thailand,China,1,2,AFC Asian Cup,Al Ain,United Arab Emirates,TRUE
+2019-01-21,Australia,Uzbekistan,0,0,AFC Asian Cup,Al Ain,United Arab Emirates,TRUE
+2019-01-21,Japan,Saudi Arabia,1,0,AFC Asian Cup,Sharjah,United Arab Emirates,TRUE
+2019-01-21,United Arab Emirates,Kyrgyzstan,3,2,AFC Asian Cup,Abu Dhabi,United Arab Emirates,FALSE
+2019-01-22,Korea Republic,Bahrain,2,1,AFC Asian Cup,Dubai,United Arab Emirates,TRUE
+2019-01-22,Qatar,Iraq,1,0,AFC Asian Cup,Abu Dhabi,United Arab Emirates,TRUE
+2019-01-24,China,Iran,0,3,AFC Asian Cup,Abu Dhabi,United Arab Emirates,TRUE
+2019-01-24,Vietnam,Japan,0,1,AFC Asian Cup,Dubai,United Arab Emirates,TRUE
+2019-01-25,Korea Republic,Qatar,0,1,AFC Asian Cup,Abu Dhabi,United Arab Emirates,TRUE
+2019-01-25,United Arab Emirates,Australia,1,0,AFC Asian Cup,Al Ain,United Arab Emirates,FALSE
+2019-01-27,USA,Panama,3,0,Friendly,Glendale,USA,FALSE
+2019-01-28,Iran,Japan,0,3,AFC Asian Cup,Al Ain,United Arab Emirates,TRUE
+2019-01-29,Qatar,United Arab Emirates,4,0,AFC Asian Cup,Abu Dhabi,United Arab Emirates,TRUE
+2019-02-01,Japan,Qatar,1,3,AFC Asian Cup,Abu Dhabi,United Arab Emirates,TRUE
+2019-02-02,USA,Costa Rica,2,0,Friendly,San Jose,USA,FALSE
+2019-02-21,Kazakhstan,Moldova,1,0,Friendly,Belek,Turkey,TRUE
+2019-02-27,Cuba,Bermuda,5,0,Friendly,Havana,Cuba,FALSE
+2019-03-03,Bolivia,Nicaragua,2,2,Friendly,Villa Tunari,Bolivia,FALSE
+2019-03-04,Barbados,Grenada,3,0,Friendly,Kingstown,St. Vincent and the Grenadines,TRUE
+2019-03-06,El Salvador,Guatemala,3,1,Friendly,Los Angeles,USA,TRUE
+2019-03-09,Cambodia,Bangladesh,0,1,Friendly,Phnom Penh,Cambodia,FALSE
+2019-03-16,Bahamas,Turks and Caicos Islands,6,1,Friendly,Nassau,Bahamas,FALSE
+2019-03-18,Fiji,New Caledonia,3,0,Friendly,Suva,Fiji,FALSE
+2019-03-18,Solomon Islands,Vanuatu,3,1,Friendly,Honiara,Solomon Islands,FALSE
+2019-03-19,Myanmar,Chinese Taipei,0,0,Friendly,Mandalay,Burma,TRUE
+2019-03-20,Germany,Serbia,1,1,Friendly,Wolfsburg,Germany,FALSE
+2019-03-20,Wales,Trinidad and Tobago,1,0,Friendly,Wrexham,Wales,FALSE
+2019-03-21,Kosovo,Denmark,2,2,Friendly,Pristina,Kosovo,FALSE
+2019-03-21,Kuwait,Nepal,0,0,Friendly,Al Ahmadi,Kuwait,FALSE
+2019-03-21,Mauritius,New Caledonia,3,1,Friendly,Lautoka,Fiji,TRUE
+2019-03-21,United Arab Emirates,Saudi Arabia,2,1,Friendly,Abu Dhabi,United Arab Emirates,FALSE
+2019-03-21,USA,Ecuador,1,0,Friendly,Orlando,USA,FALSE
+2019-03-21,Northern Ireland,Estonia,2,0,UEFA Euro qualification,Belfast,Northern Ireland,FALSE
+2019-03-21,Netherlands,Belarus,4,0,UEFA Euro qualification,Rotterdam,Netherlands,FALSE
+2019-03-21,Croatia,Azerbaijan,2,1,UEFA Euro qualification,Zagreb,Croatia,FALSE
+2019-03-21,Slovakia,Hungary,2,0,UEFA Euro qualification,Trnava,Slovakia,FALSE
+2019-03-21,Austria,Poland,0,1,UEFA Euro qualification,Vienna,Austria,FALSE
+2019-03-21,FYR Macedonia,Latvia,3,1,UEFA Euro qualification,Skopje,Macedonia,TRUE
+2019-03-21,Israel,Slovenia,1,1,UEFA Euro qualification,Haifa,Israel,FALSE
+2019-03-21,Cyprus,San Marino,5,0,UEFA Euro qualification,Nicosia,Cyprus,FALSE
+2019-03-21,Belgium,Russia,3,1,UEFA Euro qualification,Brussels,Belgium,FALSE
+2019-03-21,Kazakhstan,Scotland,3,0,UEFA Euro qualification,Nursultan,Kazakhstan,FALSE
+2019-03-22,Argentina,Venezuela,1,3,Friendly,Madrid,Spain,TRUE
+2019-03-22,Guatemala,Costa Rica,1,0,Friendly,Guatemala City,Guatemala,FALSE
+2019-03-22,Japan,Colombia,0,1,Friendly,Yokohama,Japan,FALSE
+2019-03-22,Korea Republic,Bolivia,1,0,Friendly,Ulsan,Korea Republic,FALSE
+2019-03-22,Mexico,Chile,3,1,Friendly,San Diego,USA,TRUE
+2019-03-22,Peru,Paraguay,1,0,Friendly,Harrison,USA,TRUE
+2019-03-22,Bulgaria,Montenegro,1,1,UEFA Euro qualification,Sofia,Bulgaria,FALSE
+2019-03-22,England,Czech Republic,5,0,UEFA Euro qualification,London,England,FALSE
+2019-03-22,Portugal,Ukraine,0,0,UEFA Euro qualification,Lisbon,Portugal,FALSE
+2019-03-22,Luxembourg,Lithuania,2,1,UEFA Euro qualification,Luxembourg City,Luxembourg,FALSE
+2019-03-22,Albania,Turkey,0,2,UEFA Euro qualification,Shkodër,Albania,FALSE
+2019-03-22,Andorra,Iceland,0,2,UEFA Euro qualification,Andorra la Vella,Andorra,FALSE
+2019-03-22,Moldova,France,1,4,UEFA Euro qualification,Chișinău,Moldova,FALSE
+2019-03-22,Botswana,Angola,0,1,African Cup of Nations qualification,Francistown,Botswana,FALSE
+2019-03-23,Brazil,Panama,1,1,Friendly,Porto,Portugal,TRUE
+2019-03-23,Malaysia,Afghanistan,2,1,Friendly,Kuala Lumpur,Malaysia,FALSE
+2019-03-23,Oman,Singapore,1,1,Friendly,Kuala Lumpur,Malaysia,TRUE
+2019-03-23,Georgia,Switzerland,0,2,UEFA Euro qualification,Tbilisi,Georgia,FALSE
+2019-03-23,Gibraltar,Republic of Ireland,0,1,UEFA Euro qualification,Gibraltar,Gibraltar,FALSE
+2019-03-23,Malta,Faroe Islands,2,1,UEFA Euro qualification,Attard,Malta,FALSE
+2019-03-23,Sweden,Romania,2,1,UEFA Euro qualification,Stockholm,Sweden,FALSE
+2019-03-23,Spain,Norway,2,1,UEFA Euro qualification,Valencia,Spain,FALSE
+2019-03-23,Bosnia and Herzegovina,Armenia,2,1,UEFA Euro qualification,Sarajevo,Bosnia-Herzegovina,TRUE
+2019-03-23,Italy,Finland,2,0,UEFA Euro qualification,Udine,Italy,FALSE
+2019-03-23,Liechtenstein,Greece,0,2,UEFA Euro qualification,Vaduz,Liechtenstein,FALSE
+2019-03-23,Senegal,Madagascar,2,0,African Cup of Nations qualification,Thiès,Senegal,FALSE
+2019-03-23,Cameroon,Comoros,3,0,African Cup of Nations qualification,Yaoundé,Cameroon,FALSE
+2019-03-23,Mali,South Sudan,3,0,African Cup of Nations qualification,Bamako,Mali,FALSE
+2019-03-23,Ghana,Kenya,1,0,African Cup of Nations qualification,Accra,Ghana,FALSE
+2019-03-23,Niger,Egypt,1,1,African Cup of Nations qualification,Niamey,Niger,FALSE
+2019-03-23,Zambia,Namibia,4,1,African Cup of Nations qualification,Lusaka,Zambia,FALSE
+2019-03-24,Chinese Taipei,Solomon Islands,0,1,Friendly,Taipei,Taiwan,TRUE
+2019-03-24,Fiji,Mauritius,1,0,Friendly,Lautoka,Fiji,FALSE
+2019-03-24,Northern Ireland,Belarus,2,1,UEFA Euro qualification,Belfast,Northern Ireland,FALSE
+2019-03-24,Netherlands,Germany,2,3,UEFA Euro qualification,Amsterdam,Netherlands,FALSE
+2019-03-24,Wales,Slovakia,1,0,UEFA Euro qualification,Cardiff,Wales,FALSE
+2019-03-24,Hungary,Croatia,2,1,UEFA Euro qualification,Budapest,Hungary,FALSE
+2019-03-24,Israel,Austria,4,2,UEFA Euro qualification,Haifa,Israel,FALSE
+2019-03-24,Poland,Latvia,2,0,UEFA Euro qualification,Warsaw,Poland,FALSE
+2019-03-24,Slovenia,FYR Macedonia,1,1,UEFA Euro qualification,Ljubljana,Slovenia,FALSE
+2019-03-24,San Marino,Scotland,0,2,UEFA Euro qualification,Serravalle,San Marino,FALSE
+2019-03-24,Kazakhstan,Russia,0,4,UEFA Euro qualification,Nursultan,Kazakhstan,FALSE
+2019-03-24,Cyprus,Belgium,0,2,UEFA Euro qualification,Nicosia,Cyprus,FALSE
+2019-03-24,Benin,Togo,2,1,African Cup of Nations qualification,Cotonou,Benin,FALSE
+2019-03-24,Libya,South Africa,1,2,African Cup of Nations qualification,Sfax,Tunisia,TRUE
+2019-03-24,Zimbabwe,Congo,2,0,African Cup of Nations qualification,Harare,Zimbabwe,FALSE
+2019-03-24,Central African Republic,Guinea,0,0,African Cup of Nations qualification,Bangui,Central African Republic,FALSE
+2019-03-24,Tanzania,Uganda,3,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,FALSE
+2019-03-25,Azerbaijan,Lithuania,0,0,Friendly,Baku,Azerbaijan,FALSE
+2019-03-25,Kuwait,Nepal,1,0,Friendly,Al Ahmadi,Kuwait,FALSE
+2019-03-25,Myanmar,Indonesia,0,2,Friendly,Mandalay,Burma,TRUE
+2019-03-25,Saudi Arabia,Equatorial Guinea,3,2,Friendly,Riyadh,Saudi Arabia,FALSE
+2019-03-25,Kosovo,Bulgaria,1,1,UEFA Euro qualification,Pristina,Kosovo,FALSE
+2019-03-25,Montenegro,England,1,5,UEFA Euro qualification,Podgorica,Montenegro,FALSE
+2019-03-25,Portugal,Serbia,1,1,UEFA Euro qualification,Lisbon,Portugal,FALSE
+2019-03-25,Luxembourg,Ukraine,1,2,UEFA Euro qualification,Luxembourg City,Luxembourg,FALSE
+2019-03-25,Turkey,Moldova,4,0,UEFA Euro qualification,Eskişehir,Turkey,FALSE
+2019-03-25,Andorra,Albania,0,3,UEFA Euro qualification,Andorra la Vella,Andorra,FALSE
+2019-03-25,France,Iceland,4,0,UEFA Euro qualification,Paris,France,FALSE
+2019-03-26,Algeria,Tunisia,1,0,Friendly,Blida,Algeria,FALSE
+2019-03-26,Costa Rica,Jamaica,1,0,Friendly,San José,Costa Rica,FALSE
+2019-03-26,Czech Republic,Brazil,1,3,Friendly,Prague,Czech Republic,FALSE
+2019-03-26,Ghana,Mauritania,3,1,Friendly,Accra,Ghana,FALSE
+2019-03-26,Gibraltar,Estonia,0,1,Friendly,Gibraltar,Gibraltar,FALSE
+2019-03-26,Honduras,Ecuador,0,0,Friendly,Harrison,USA,TRUE
+2019-03-26,Ivory Coast,Liberia,1,0,Friendly,Abidjan,Ivory Coast,FALSE
+2019-03-26,Japan,Bolivia,0,1,Friendly,Kobe,Japan,FALSE
+2019-03-26,Korea Republic,Colombia,2,1,Friendly,Seoul,Korea Republic,FALSE
+2019-03-26,Morocco,Argentina,0,1,Friendly,Tangiers,Morocco,FALSE
+2019-03-26,Nicaragua,Guatemala,0,1,Friendly,Managua,Nicaragua,FALSE
+2019-03-26,Nigeria,Egypt,1,0,Friendly,Asaba,Nigeria,FALSE
+2019-03-26,Paraguay,Mexico,2,4,Friendly,Santa Clara,USA,TRUE
+2019-03-26,Peru,El Salvador,0,2,Friendly,Washington,USA,TRUE
+2019-03-26,Senegal,Mali,2,1,Friendly,Dakar,Senegal,FALSE
+2019-03-26,United Arab Emirates,Syria,0,0,Friendly,Abu Dhabi,United Arab Emirates,FALSE
+2019-03-26,USA,Chile,1,1,Friendly,Houston,USA,FALSE
+2019-03-26,Republic of Ireland,Georgia,1,0,UEFA Euro qualification,Dublin,Ireland,TRUE
+2019-03-26,Switzerland,Denmark,3,3,UEFA Euro qualification,Basel,Switzerland,FALSE
+2019-03-26,Malta,Spain,0,2,UEFA Euro qualification,Attard,Malta,FALSE
+2019-03-26,Norway,Sweden,3,3,UEFA Euro qualification,Oslo,Norway,FALSE
+2019-03-26,Romania,Faroe Islands,4,1,UEFA Euro qualification,Cluj-Napoca,Romania,FALSE
+2019-03-26,Bosnia and Herzegovina,Greece,2,2,UEFA Euro qualification,Zenica,Bosnia-Herzegovina,TRUE
+2019-03-26,Italy,Liechtenstein,6,0,UEFA Euro qualification,Parma,Italy,FALSE
+2019-03-26,Armenia,Finland,0,2,UEFA Euro qualification,Yerevan,Armenia,FALSE

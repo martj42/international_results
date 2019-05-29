@@ -4,7 +4,7 @@ Well, what happened was that I was looking for a semi-definite easy-to-read list
 
 ### Content
 
-This dataset includes 39,669 results of international football matches starting from the very first official match in 1972 up to 2018.  The matches range from FIFA World Cup to FIFI Wild Cup to regular friendly matches. The matches are strictly men's full internationals and the data does not include Olympic Games or matches where at least one of the teams was the nation's B-team, U-23 or a league select team.
+This dataset includes 40,262 results of international football matches starting from the very first official match in 1972 up to 2019.  The matches range from FIFA World Cup to FIFI Wild Cup to regular friendly matches. The matches are strictly men's full internationals and the data does not include Olympic Games or matches where at least one of the teams was the nation's B-team, U-23 or a league select team.
 
 `results.csv` includes the following columns:
 
@@ -38,7 +38,6 @@ Some directions to take when exploring the data:
  - Which countries host the most matches where they themselves are not participating in
  - How much, if at all, does hosting a major tournament help a country's chances in the tournament
  - Which teams are the most active in playing friendlies and friendly tournaments - does it help or hurt them
- - Do you dare to make any predictions for 2018 World Cup based on this data?
 
 The world's your oyster, my friend.
 
