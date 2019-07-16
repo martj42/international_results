@@ -2203,7 +2203,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1939-04-02,Switzerland,Hungary,3,1,Friendly,Zürich,Switzerland,FALSE
 1939-04-15,Scotland,England,1,2,British Championship,Glasgow,Scotland,FALSE
 1939-04-23,Netherlands,Belgium,3,2,Friendly,Amsterdam,Netherlands,FALSE
-1939-04-23,Brittany,Luxembourg,3,1,Friendly,Brest,Belarus,FALSE
+1939-04-23,Brittany,Luxembourg,3,1,Friendly,Brest,France,FALSE
 1939-05-07,Romania,Yugoslavia,1,0,Friendly,Bucharest,Romania,FALSE
 1939-05-07,Switzerland,Netherlands,2,1,Friendly,Berne,Switzerland,FALSE
 1939-05-13,Italy,England,2,2,Friendly,Milan,Italy,FALSE
@@ -23415,7 +23415,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2000-12-20,Japan,South Korea,1,1,Friendly,Tokyo,Japan,FALSE
 2000-12-20,Mexico,Argentina,0,2,Friendly,Los Angeles,United States,TRUE
 2000-12-22,Catalonia,Lithuania,5,0,Friendly,Barcelona,Spain,FALSE
-2000-12-22,Andalusia,Morocco,2,0,Friendly,Córdoba,Argentina,FALSE
+2000-12-22,Andalusia,Morocco,2,0,Friendly,Córdoba,Spain,FALSE
 2000-12-29,Basque Country,Morocco,3,2,Friendly,Bilbao,Spain,FALSE
 2001-01-04,Kenya,Zambia,2,1,Friendly,Nairobi,Kenya,FALSE
 2001-01-06,Costa Rica,Guatemala,5,2,FIFA World Cup qualification,Miami,United States,TRUE
@@ -38890,7 +38890,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2017-06-25,Alderney,Jersey,0,3,Island Games,Väskinde,Sweden,TRUE
 2017-06-25,Gotland,Frøya,7,1,Island Games,Visby,Sweden,FALSE
 2017-06-25,Western Isles,Greenland,0,3,Island Games,Dalhem,Sweden,TRUE
-2017-06-25,Guernsey,Åland Islands,1,1,Island Games,Dalhem,Sweden,TRUE
+2017-06-25,Åland Islands,Guernsey,1,1,Island Games,Dalhem,Sweden,FALSE
 2017-06-25,Saare County,Shetland,4,5,Island Games,Hemse,Sweden,TRUE
 2017-06-25,Isle of Man,Hitra,5,0,Island Games,Fårösund,Sweden,TRUE
 2017-06-25,Ynys Môn,Falkland Islands,3,0,Island Games,Säve,Sweden,TRUE
@@ -38901,7 +38901,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2017-06-26,Gotland,Western Isles,8,0,Island Games,Dalhem,Sweden,FALSE
 2017-06-26,Frøya,Greenland,2,2,Island Games,Hemse,Sweden,TRUE
 2017-06-26,Shetland,Guernsey,0,3,Island Games,Stenkyrka,Sweden,TRUE
-2017-06-26,Åland Islands,Saare County,0,0,Island Games,Fardhem,Sweden,TRUE
+2017-06-26,Åland Islands,Saare County,0,0,Island Games,Fardhem,Sweden,FALSE
 2017-06-26,Falkland Islands,Isle of Man,2,5,Island Games,Säve,Sweden,TRUE
 2017-06-26,Hitra,Ynys Môn,1,5,Island Games,Väskinde,Sweden,TRUE
 2017-06-27,Angola,Tanzania,0,0,COSAFA Cup,Rustenburg,South Africa,TRUE
@@ -38911,7 +38911,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2017-06-27,Gotland,Greenland,0,1,Island Games,Visby,Sweden,FALSE
 2017-06-27,Frøya,Western Isles,2,4,Island Games,Säve,Sweden,TRUE
 2017-06-27,Guernsey,Saare County,1,1,Island Games,Dalhem,Sweden,TRUE
-2017-06-27,Åland Islands,Shetland,2,1,Island Games,Visby,Sweden,TRUE
+2017-06-27,Åland Islands,Shetland,2,1,Island Games,Visby,Sweden,FALSE
 2017-06-27,Isle of Man,Ynys Môn,4,0,Island Games,Stenkyrka,Sweden,TRUE
 2017-06-27,Hitra,Falkland Islands,2,1,Island Games,Fardhem,Sweden,TRUE
 2017-06-28,Portugal,Chile,0,0,Confederations Cup,Kazan,Russia,TRUE
@@ -38925,7 +38925,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2017-06-29,Saare County,Frøya,4,2,Island Games,Fardhem,Sweden,TRUE
 2017-06-29,Hitra,Western Isles,1,1,Island Games,Stenkyrka,Sweden,TRUE
 2017-06-29,Orkney,Shetland,3,1,Island Games,Dalhem,Sweden,TRUE
-2017-06-29,Ynys Môn,Åland Islands,0,2,Island Games,Fårösund,Sweden,TRUE
+2017-06-29,Åland Islands,Ynys Môn,2,0,Island Games,Fårösund,Sweden,FALSE
 2017-06-29,Gotland,Jersey,2,3,Island Games,Visby,Sweden,FALSE
 2017-06-29,Greenland,Menorca,1,1,Island Games,Väskinde,Sweden,TRUE
 2017-06-29,Guernsey,Isle of Man,3,4,Island Games,Fardhem,Sweden,TRUE
