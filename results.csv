@@ -3522,11 +3522,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1953-09-23,New Caledonia,Tahiti,4,1,Friendly,Nouméa,New Caledonia,FALSE
 1953-09-26,Austria,Portugal,9,1,FIFA World Cup qualification,Vienna,Austria,FALSE
 1953-09-26,New Caledonia,Tahiti,4,1,Friendly,Nouméa,New Caledonia,FALSE
+1953-09-26,Kernow,Trinidad and Tobago,3,6,Friendly,Cornwall,England,FALSE
 1953-09-27,Norway,Netherlands,4,0,Friendly,Oslo,Norway,FALSE
 1953-09-29,Zanzibar,Uganda,1,5,Friendly,Zanzibar,Zanzibar,FALSE
 1953-09-30,Kenya,Tanzania,7,1,Friendly,Zanzibar,Zanzibar,TRUE
+1953-09-30,Kernow,Trinidad and Tobago,2,4,Friendly,Cornwall,England,FALSE
 1953-10-03,Kenya,Uganda,6,2,Friendly,Zanzibar,Zanzibar,TRUE
 1953-10-03,Northern Ireland,Scotland,1,3,FIFA World Cup qualification,Belfast,Northern Ireland,FALSE
+1953-10-03,Kernow,Trinidad and Tobago,1,1,Friendly,Cornwall,England,FALSE
 1953-10-04,Bulgaria,Hungary,1,1,Friendly,Sofia,Bulgaria,FALSE
 1953-10-04,Czechoslovakia,Hungary,1,5,Friendly,Prague,Czechoslovakia,FALSE
 1953-10-04,Denmark,Finland,6,1,Nordic Championship,Copenhagen,Denmark,FALSE
@@ -21639,6 +21642,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1998-11-19,India,Uzbekistan,0,4,Friendly,Calcutta,India,FALSE
 1998-11-21,Armenia,Estonia,2,1,Friendly,Abovyan,Armenia,FALSE
 1998-11-21,Thailand,Turkmenistan,3,3,Friendly,Bangkok,Thailand,FALSE
+1998-11-21,Guernsey,Kernow,1,6,Friendly,St. Sampson,Guernsey,FALSE
 1998-11-22,China PR,South Korea,0,0,Friendly,Shanghai,China PR,FALSE
 1998-11-25,Singapore,United Arab Emirates,0,4,Friendly,Singapore,Singapore,FALSE
 1998-11-27,Thailand,Nepal,2,0,Friendly,Bangkok,Thailand,FALSE
@@ -22543,6 +22547,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2000-02-20,Mexico,Canada,1,2,Gold Cup,San Diego,United States,TRUE
 2000-02-20,Singapore,Brunei,1,0,AFC Asian Cup qualification,Macau,Macau,TRUE
 2000-02-20,Thailand,Finland,0,0,King's Cup,Bangkok,Thailand,FALSE
+2000-02-20,Kernow,Guernsey,1,2,Friendly,Cornwall,England,FALSE
 2000-02-21,Oman,United Arab Emirates,0,1,Friendly,Muscat,Oman,FALSE
 2000-02-23,Belgium,Portugal,1,1,Friendly,Charleroi,Belgium,FALSE
 2000-02-23,Colombia,Peru,2,1,Gold Cup,San Diego,United States,TRUE
@@ -25044,6 +25049,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2002-10-23,Tanzania,Uganda,0,2,Friendly,Arusha,Tanzania,FALSE
 2002-10-26,Kenya,Uganda,1,1,Friendly,Dar es Salaam,Tanzania,TRUE
 2002-10-26,Tanzania,South Africa,1,1,Friendly,Dar es Salaam,Tanzania,FALSE
+2002-10-26,Jersey,Kernow,0,3,Friendly,St. Helier,Jersey,FALSE
 2002-11-03,Martinique,Saint Kitts and Nevis,2,1,Friendly,Fort-de-France,Martinique,FALSE
 2002-11-06,Saint Lucia,Martinique,0,2,Friendly,Vieux Fort,Saint Lucia,FALSE
 2002-11-08,Saint Lucia,Antigua and Barbuda,2,1,Friendly,Vieux Fort,Saint Lucia,FALSE
@@ -25918,6 +25924,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2003-10-11,Ukraine,North Macedonia,0,0,Friendly,Kyïv,Ukraine,FALSE
 2003-10-11,United Arab Emirates,Uzbekistan,2,2,Friendly,Dubai,United Arab Emirates,FALSE
 2003-10-11,Wales,Serbia,2,3,UEFA Euro qualification,Cardiff,Wales,FALSE
+2003-10-11,Kernow,Jersey,1,0,Friendly,Cornwall,England,FALSE
 2003-10-12,Brazil,Jamaica,1,0,Friendly,Leicester,England,TRUE
 2003-10-12,Burundi,Gabon,0,0,FIFA World Cup qualification,Bujumbura,Burundi,FALSE
 2003-10-12,Chad,Angola,3,1,FIFA World Cup qualification,N'Djamena,Chad,FALSE
@@ -26996,6 +27003,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2004-10-13,United States,Panama,6,0,FIFA World Cup qualification,Washington,United States,FALSE
 2004-10-13,Wales,Poland,2,3,FIFA World Cup qualification,Cardiff,Wales,FALSE
 2004-10-14,Venezuela,Ecuador,3,1,FIFA World Cup qualification,San Cristóbal,Venezuela,FALSE
+2004-10-16,Jersey,Kernow,1,4,Friendly,St. Helier,Jersey,FALSE
 2004-10-17,Saint Lucia,Grenada,3,1,Friendly,Castries,Saint Lucia,FALSE
 2004-10-19,Suriname,French Guiana,1,2,Friendly,Paramaribo,Suriname,FALSE
 2004-10-20,Ecuador,Jordan,0,3,Friendly,Tripoli,Libya,TRUE
@@ -27860,6 +27868,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2005-10-12,Uruguay,Argentina,1,0,FIFA World Cup qualification,Montevideo,Uruguay,FALSE
 2005-10-12,United States,Panama,2,0,FIFA World Cup qualification,Foxborough,United States,FALSE
 2005-10-12,Wales,Azerbaijan,2,0,FIFA World Cup qualification,Cardiff,Wales,FALSE
+2005-10-15,Kernow,Jersey,3,2,Friendly,Cornwall,England,FALSE
 2005-10-23,Madagascar,Mauritius,2,0,Friendly,Antananarivo,Madagascar,FALSE
 2005-10-25,Oman,Syria,0,0,Friendly,Muscat,Oman,FALSE
 2005-10-26,Mexico,Uruguay,3,1,Friendly,Guadalajara,Mexico,FALSE
@@ -29003,6 +29012,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2007-03-24,Spain,Denmark,2,1,UEFA Euro qualification,Madrid,Spain,FALSE
 2007-03-24,Togo,Sierra Leone,3,1,African Cup of Nations qualification,Woumé,Togo,FALSE
 2007-03-24,Venezuela,Cuba,3,1,Friendly,Mérida,Venezuela,FALSE
+2007-03-24,Kernow,Guernsey,1,1,Friendly,Cornwall,England,FALSE
 2007-03-25,Angola,Eritrea,6,1,African Cup of Nations qualification,Luanda,Angola,FALSE
 2007-03-25,Barbados,Guatemala,0,0,Friendly,Bridgetown,Barbados,FALSE
 2007-03-25,Bermuda,Canada,0,3,Friendly,Hamilton,Bermuda,FALSE
@@ -38096,8 +38106,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2016-08-24,North Korea,United Arab Emirates,2,0,Friendly,Shanghai,China PR,TRUE
 2016-08-24,Saudi Arabia,Laos,4,0,Friendly,Doha,Qatar,TRUE
 2016-08-24,Uzbekistan,Burkina Faso,1,0,Friendly,Tashkent,Uzbekistan,FALSE
+2016-08-25,Barawa,Tamil Eelam,0,5,World Unity Cup,London,England,FALSE
+2016-08-26,Barawa,Chagos Islands,2,3,World Unity Cup,London,England,FALSE
 2016-08-27,Tajikistan,Syria,0,0,Friendly,Khujand,Tajikistan,FALSE
+2016-08-27,Chagos Islands,Tamil Eelam,1,5,World Unity Cup,London,England,TRUE
 2016-08-28,Dominican Republic,Puerto Rico,5,0,Friendly,San Cristóbal,Dominican Republic,FALSE
+2016-08-28,Chagos Islands,Tamil Eelam,1,5,World Unity Cup,London,England,TRUE
 2016-08-30,Egypt,Guinea,1,1,Friendly,Alexandria,Egypt,FALSE
 2016-08-30,Kyrgyzstan,Kazakhstan,2,0,Friendly,Bishkek,Kyrgyzstan,FALSE
 2016-08-30,Uganda,Kenya,0,0,Friendly,Kampala,Uganda,FALSE
@@ -38890,7 +38904,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2017-06-25,Alderney,Jersey,0,3,Island Games,Väskinde,Sweden,TRUE
 2017-06-25,Gotland,Frøya,7,1,Island Games,Visby,Sweden,FALSE
 2017-06-25,Western Isles,Greenland,0,3,Island Games,Dalhem,Sweden,TRUE
-2017-06-25,Åland Islands,Guernsey,1,1,Island Games,Dalhem,Sweden,FALSE
+2017-06-25,Guernsey,Åland Islands,1,1,Island Games,Dalhem,Sweden,TRUE
 2017-06-25,Saare County,Shetland,4,5,Island Games,Hemse,Sweden,TRUE
 2017-06-25,Isle of Man,Hitra,5,0,Island Games,Fårösund,Sweden,TRUE
 2017-06-25,Ynys Môn,Falkland Islands,3,0,Island Games,Säve,Sweden,TRUE
@@ -38901,7 +38915,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2017-06-26,Gotland,Western Isles,8,0,Island Games,Dalhem,Sweden,FALSE
 2017-06-26,Frøya,Greenland,2,2,Island Games,Hemse,Sweden,TRUE
 2017-06-26,Shetland,Guernsey,0,3,Island Games,Stenkyrka,Sweden,TRUE
-2017-06-26,Åland Islands,Saare County,0,0,Island Games,Fardhem,Sweden,FALSE
+2017-06-26,Åland Islands,Saare County,0,0,Island Games,Fardhem,Sweden,TRUE
 2017-06-26,Falkland Islands,Isle of Man,2,5,Island Games,Säve,Sweden,TRUE
 2017-06-26,Hitra,Ynys Môn,1,5,Island Games,Väskinde,Sweden,TRUE
 2017-06-27,Angola,Tanzania,0,0,COSAFA Cup,Rustenburg,South Africa,TRUE
@@ -38911,7 +38925,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2017-06-27,Gotland,Greenland,0,1,Island Games,Visby,Sweden,FALSE
 2017-06-27,Frøya,Western Isles,2,4,Island Games,Säve,Sweden,TRUE
 2017-06-27,Guernsey,Saare County,1,1,Island Games,Dalhem,Sweden,TRUE
-2017-06-27,Åland Islands,Shetland,2,1,Island Games,Visby,Sweden,FALSE
+2017-06-27,Åland Islands,Shetland,2,1,Island Games,Visby,Sweden,TRUE
 2017-06-27,Isle of Man,Ynys Môn,4,0,Island Games,Stenkyrka,Sweden,TRUE
 2017-06-27,Hitra,Falkland Islands,2,1,Island Games,Fardhem,Sweden,TRUE
 2017-06-28,Portugal,Chile,0,0,Confederations Cup,Kazan,Russia,TRUE
@@ -38925,7 +38939,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2017-06-29,Saare County,Frøya,4,2,Island Games,Fardhem,Sweden,TRUE
 2017-06-29,Hitra,Western Isles,1,1,Island Games,Stenkyrka,Sweden,TRUE
 2017-06-29,Orkney,Shetland,3,1,Island Games,Dalhem,Sweden,TRUE
-2017-06-29,Åland Islands,Ynys Môn,2,0,Island Games,Fårösund,Sweden,FALSE
+2017-06-29,Ynys Môn,Åland Islands,0,2,Island Games,Fårösund,Sweden,TRUE
 2017-06-29,Gotland,Jersey,2,3,Island Games,Visby,Sweden,FALSE
 2017-06-29,Greenland,Menorca,1,1,Island Games,Väskinde,Sweden,TRUE
 2017-06-29,Guernsey,Isle of Man,3,4,Island Games,Fardhem,Sweden,TRUE
@@ -39483,6 +39497,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-01-28,United States,Bosnia and Herzegovina,0,0,Friendly,Carson,United States,FALSE
 2018-01-28,Congo,Libya,1,1,African Nations Championship,Agadir,Morocco,TRUE
 2018-01-28,Nigeria,Angola,2,1,African Nations Championship,Tangiers,Morocco,TRUE
+2018-01-28,Yorkshire,Ellan Vannin,1,1,Friendly,Fitzwilliam,England,FALSE
 2018-01-30,Azerbaijan,Moldova,0,0,Friendly,Antalya,Turkey,TRUE
 2018-01-30,Jamaica,South Korea,2,2,Friendly,Antalya,Turkey,TRUE
 2018-01-31,Mexico,Bosnia and Herzegovina,1,0,Friendly,San Antonio,United States,TRUE
@@ -39573,6 +39588,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-03-25,Martinique,Trinidad and Tobago,0,0,Friendly,Fort-de-France,Martinique,FALSE
 2018-03-25,Nicaragua,Cuba,3,3,Friendly,Managua,Nicaragua,FALSE
 2018-03-25,Thailand,Slovakia,2,3,Friendly,Bangkok,Thailand,FALSE
+2018-03-25,Yorkshire,Chagos Islands,6,0,Friendly,Fitzwilliam,England,FALSE
 2018-03-26,Albania,Norway,0,1,Friendly,Elbasan,Albania,FALSE
 2018-03-26,Bulgaria,Kazakhstan,2,1,Friendly,Felcsút,Hungary,TRUE
 2018-03-26,China PR,Czech Republic,1,4,Friendly,Nanning,China PR,FALSE
@@ -39630,10 +39646,13 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-03-27,United States,Paraguay,1,0,Friendly,Cary,United States,FALSE
 2018-03-27,Yemen,Nepal,2,1,AFC Asian Cup qualification,Doha,Qatar,TRUE
 2018-04-01,Malaysia,Bhutan,7,0,Friendly,Kuala Lumpur,Malaysia,FALSE
+2018-04-08,Barawa,Chagos Islands,4,1,Friendly,London,England,FALSE
+2018-04-15,Barawa,Yorkshire,2,7,Friendly,London,England,FALSE
 2018-04-18,Trinidad and Tobago,Panama,0,1,Friendly,Couva,Trinidad and Tobago,FALSE
 2018-04-18,Zimbabwe,Botswana,0,1,Friendly,Harare,Zimbabwe,FALSE
 2018-04-26,Saint Kitts and Nevis,Jamaica,1,3,Friendly,Basseterre,Saint Kitts and Nevis,FALSE
 2018-04-30,Antigua and Barbuda,Jamaica,0,2,Friendly,St. John's,Antigua and Barbuda,FALSE
+2018-05-06,Barawa,Surrey,1,3,Friendly,London,England,FALSE
 2018-05-08,Iraq,Palestine,0,0,Friendly,Basra,Iraq,FALSE
 2018-05-09,Algeria,Saudi Arabia,0,2,Friendly,Cádiz,Spain,TRUE
 2018-05-11,Kuwait,Palestine,2,0,Friendly,Kuwait City,Kuwait,FALSE
@@ -40130,6 +40149,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-10-16,Eswatini,Egypt,0,2,African Cup of Nations qualification,Manzini,Eswatini,FALSE
 2018-10-16,Tanzania,Cape Verde,2,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,FALSE
 2018-10-16,Argentina,Brazil,0,1,Friendly,Jeddah,Saudi Arabia,TRUE
+2018-10-21,Parishes of Jersey,Yorkshire,2,1,Friendly,St. Peter,Jersey,FALSE
 2018-11-03,Malaysia,Maldives,3,0,Friendly,Kuala Lumpur,Malaysia,FALSE
 2018-11-08,Cambodia,Malaysia,0,1,AFF Championship,Phnom Penh,Cambodia,FALSE
 2018-11-08,Laos,Vietnam,0,3,AFF Championship,Vientiane,Laos,FALSE
@@ -40214,6 +40234,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-11-18,Congo,DR Congo,1,1,African Cup of Nations qualification,Brazzaville,Congo,FALSE
 2018-11-18,Guinea,Ivory Coast,1,1,African Cup of Nations qualification,Conakry,Guinea,FALSE
 2018-11-18,Angola,Burkina Faso,2,1,African Cup of Nations qualification,Luanda,Angola,FALSE
+2018-11-18,Yorkshire,Panjab,5,4,Friendly,Ossett,England,FALSE
 2018-11-19,Germany,Netherlands,2,2,UEFA Nations League,Gelsenkirchen,Germany,FALSE
 2018-11-19,Czech Republic,Slovakia,1,0,UEFA Nations League,Prague,Czech Republic,FALSE
 2018-11-19,Denmark,Republic of Ireland,0,0,UEFA Nations League,Aarhus,Denmark,FALSE
@@ -40463,9 +40484,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-03-26,Armenia,Finland,0,2,UEFA Euro qualification,Yerevan,Armenia,FALSE
 2019-04-20,Botswana,Seychelles,2,0,African Nations Championship,Lobatse,Botswana,FALSE
 2019-04-20,Eswatini,Malawi,0,0,African Nations Championship,Manzini,Eswatini,FALSE
+2019-05-04,Yorkshire,Somaliland,6,2,Friendly,Athersley,England,FALSE
 2019-05-11,Malawi,Eswatini,1,1,African Nations Championship,Blantyre,Malawi,FALSE
 2019-05-11,Seychelles,Botswana,1,3,African Nations Championship,Victoria,Seychelles,FALSE
 2019-05-25,Eswatini,Mauritius,2,2,COSAFA Cup,Durban,South Africa,TRUE
+2019-05-25,Kernow,Barawa,5,0,Friendly,Bodmin,England,FALSE
+2019-05-25,Cascadia,Chagos Islands,6,3,Friendly,Kent,United States,FALSE
 2019-05-26,Mozambique,Namibia,1,2,COSAFA Cup,Durban,South Africa,TRUE
 2019-05-26,Malawi,Seychelles,3,0,COSAFA Cup,Durban,South Africa,TRUE
 2019-05-27,Eswatini,Comoros,2,2,COSAFA Cup,Durban,South Africa,TRUE
@@ -40481,6 +40505,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-06-01,Lesotho,Uganda,0,0,COSAFA Cup,Durban,South Africa,TRUE
 2019-06-01,Zimbabwe,Comoros,2,0,COSAFA Cup,Durban,South Africa,TRUE
 2019-06-01,Venezuela,Ecuador,1,1,Friendly,Miami Gardens,United States,TRUE
+2019-06-01,Yorkshire,Parishes of Jersey,1,0,Atlantic Heritage Cup,Ossett,England,FALSE
 2019-06-02,South Africa,Botswana,2,2,COSAFA Cup,Durban,South Africa,FALSE
 2019-06-02,Zambia,Malawi,2,2,COSAFA Cup,Durban,South Africa,TRUE
 2019-06-02,El Salvador,Haiti,1,0,Friendly,Washington,United States,TRUE
@@ -40492,6 +40517,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-06-02,Artsakh,Sápmi,3,2,CONIFA European Football Cup,Stepanakert,Azerbaijan,FALSE
 2019-06-02,Padania,Székely Land,4,0,CONIFA European Football Cup,Martakert,Azerbaijan,TRUE
 2019-06-02,Western Armenia,South Ossetia,1,2,CONIFA European Football Cup,Martuni,Azerbaijan,TRUE
+2019-06-02,Parishes of Jersey,Chagos Islands,9,2,Atlantic Heritage Cup,Harrogate,England,FALSE
 2019-06-03,Colombia,Panama,3,0,Friendly,Bogota,Colombia,FALSE
 2019-06-03,Vanuatu,Tahiti,2,0,Friendly,Port Vila,Vanuatu,FALSE
 2019-06-03,Artsakh,Chameria,1,4,CONIFA European Football Cup,Martuni,Azerbaijan,FALSE
@@ -40533,7 +40559,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-06-07,Norway,Romania,2,2,UEFA Euro qualification,Oslo,Norway,FALSE
 2019-06-07,Sweden,Malta,3,0,UEFA Euro qualification,Stockholm,Sweden,FALSE
 2019-06-07,Austria,Slovenia,1,0,UEFA Euro qualification,Klagenfurt,Austria,FALSE
-2019-06-07,FYR Macedonia,Poland,0,1,UEFA Euro qualification,Skopje,North Macedonia,FALSE
+2019-06-07,North Macedonia,Poland,0,1,UEFA Euro qualification,Skopje,North Macedonia,FALSE
 2019-06-07,Latvia,Israel,0,3,UEFA Euro qualification,Riga,Latvia,FALSE
 2019-06-07,Lesotho,Zimbabwe,2,2,COSAFA Cup,Durban,South Africa,TRUE
 2019-06-07,South Africa,Malawi,0,0,COSAFA Cup,Durban,South Africa,FALSE
@@ -40586,7 +40612,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-06-10,Faroe Islands,Norway,0,2,UEFA Euro qualification,Tórshavn,Faroe Islands,FALSE
 2019-06-10,Malta,Romania,0,4,UEFA Euro qualification,Attard,Malta,FALSE
 2019-06-10,Spain,Sweden,3,0,UEFA Euro qualification,Madrid,Spain,FALSE
-2019-06-10,FYR Macedonia,Austria,1,4,UEFA Euro qualification,Skopje,North Macedonia,FALSE
+2019-06-10,North Macedonia,Austria,1,4,UEFA Euro qualification,Skopje,North Macedonia,FALSE
 2019-06-10,Poland,Israel,4,0,UEFA Euro qualification,Warsaw,Poland,FALSE
 2019-06-10,Latvia,Slovenia,0,5,UEFA Euro qualification,Riga,Latvia,FALSE
 2019-06-10,Vanuatu,Fiji,0,0,Friendly,Port Vila,Vanuatu,FALSE
@@ -40618,22 +40644,131 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-06-13,Egypt,Tanzania,1,0,Friendly,Alexandria,Egypt,FALSE
 2019-06-14,Cameroon,Mali,1,1,Friendly,Al Wakrah,Qatar,TRUE
 2019-06-14,Madagascar,Mauritania,1,3,Friendly,Marrakech,Morocco,TRUE
+2019-06-14,Brazil,Bolivia,3,0,Copa América,São Paulo,Brazil,FALSE
+2019-06-15,Venezuela,Peru,0,0,Copa América,Porto Alegre,Brazil,TRUE
+2019-06-15,Argentina,Colombia,0,2,Copa América,Salvador,Brazil,TRUE
+2019-06-15,Canada,Martinique,4,0,Gold Cup,Los Angeles,United States,TRUE
+2019-06-15,Mexico,Cuba,7,0,Gold Cup,Los Angeles,United States,TRUE
 2019-06-16,Jersey,Orkney,5,0,Inter Games Football Tournament,Anglesey,Wales,TRUE
 2019-06-16,Ynys Môn,Western Isles,2,1,Inter Games Football Tournament,Anglesey,Wales,FALSE
 2019-06-16,Alderney,Hitra,2,4,Inter Games Football Tournament,Anglesey,Wales,TRUE
 2019-06-16,Saint Helena,Shetland,1,6,Inter Games Football Tournament,Anglesey,Wales,TRUE
+2019-06-16,Paraguay,Qatar,2,2,Copa América,Rio de Janeiro,Brazil,TRUE
+2019-06-16,Uruguay,Ecuador,4,0,Copa América,Belo Horizonte,Brazil,TRUE
+2019-06-16,Haiti,Bermuda,2,1,Gold Cup,San José,Jamaica,TRUE
+2019-06-16,Costa Rica,Nicaragua,4,0,Gold Cup,San José,Jamaica,TRUE
 2019-06-17,Ynys Môn,Orkney,3,1,Inter Games Football Tournament,Anglesey,Wales,FALSE
 2019-06-17,Jersey,Western Isles,7,0,Inter Games Football Tournament,Anglesey,Wales,TRUE
 2019-06-17,Isle of Man,Hitra,7,1,Inter Games Football Tournament,Anglesey,Wales,TRUE
 2019-06-17,Guernsey,Shetland,2,1,Inter Games Football Tournament,Anglesey,Wales,TRUE
+2019-06-17,Japan,Chile,0,4,Copa América,São Paulo,Brazil,TRUE
+2019-06-17,Curacao,El Salvador,0,1,Gold Cup,Kingston,Jamaica,TRUE
+2019-06-17,Jamaica,Honduras,3,2,Gold Cup,Kingston,Jamaica,FALSE
 2019-06-18,Ynys Môn,Jersey,1,0,Inter Games Football Tournament,Anglesey,Wales,FALSE
 2019-06-18,Western Isles,Orkney,1,2,Inter Games Football Tournament,Anglesey,Wales,TRUE
 2019-06-18,Isle of Man,Alderney,6,1,Inter Games Football Tournament,Anglesey,Wales,TRUE
 2019-06-18,Guernsey,Saint Helena,9,0,Inter Games Football Tournament,Anglesey,Wales,TRUE
+2019-06-18,Bolivia,Peru,1,3,Copa América,Rio de Janeiro,Brazil,TRUE
+2019-06-18,Brazil,Venezuela,0,0,Copa América,Salvador,Brazil,FALSE
+2019-06-18,Panama,Trinidad and Tobago,2,0,Gold Cup,Saint Paul,United States,TRUE
+2019-06-18,United States,Guyana,4,0,Gold Cup,Saint Paul,United States,FALSE
+2019-06-19,Colombia,Qatar,1,0,Copa América,São Paulo,Brazil,TRUE
+2019-06-19,Argentina,Paraguay,1,1,Copa América,Belo Horizonte,Brazil,TRUE
+2019-06-19,Cuba,Martinique,0,3,Gold Cup,Denver,United States,TRUE
+2019-06-19,Mexico,Canada,3,1,Gold Cup,Denver,United States,TRUE
 2019-06-20,Western Isles,Saint Helena,2,1,Inter Games Football Tournament,Anglesey,Wales,TRUE
 2019-06-20,Orkney,Alderney,1,2,Inter Games Football Tournament,Anglesey,Wales,TRUE
 2019-06-20,Jersey,Hitra,3,1,Inter Games Football Tournament,Anglesey,Wales,TRUE
 2019-06-20,Ynys Môn,Shetland,2,1,Inter Games Football Tournament,Anglesey,Wales,FALSE
 2019-06-20,Isle of Man,Guernsey,2,3,Inter Games Football Tournament,Anglesey,Wales,TRUE
+2019-06-20,Uruguay,Japan,2,2,Copa América,Porto Alegre,Brazil,TRUE
+2019-06-20,Nicaragua,Haiti,0,2,Gold Cup,Frisco,United States,TRUE
+2019-06-20,Costa Rica,Bermuda,2,1,Gold Cup,Frisco,United States,TRUE
 2019-06-21,Shetland,Isle of Man,0,5,Inter Games Football Tournament,Anglesey,Wales,TRUE
 2019-06-21,Ynys Môn,Guernsey,2,1,Inter Games Football Tournament,Anglesey,Wales,FALSE
+2019-06-21,Egypt,Zimbabwe,1,0,African Cup of Nations,Cairo,Egypt,FALSE
+2019-06-21,Ecuador,Chile,1,2,Copa América,Salvador,Brazil,TRUE
+2019-06-21,El Salvador,Jamaica,0,0,Gold Cup,Houston,United States,TRUE
+2019-06-21,Honduras,Curacao,0,1,Gold Cup,Houston,United States,TRUE
+2019-06-22,DR Congo,Uganda,0,2,African Cup of Nations,Cairo,Egypt,TRUE
+2019-06-22,Nigeria,Burundi,1,0,African Cup of Nations,Alexandria,Egypt,TRUE
+2019-06-22,Guinea,Madagascar,2,2,African Cup of Nations,Alexandria,Egypt,TRUE
+2019-06-22,Bolivia,Venezuela,1,3,Copa América,Belo Horizonte,Brazil,TRUE
+2019-06-22,Peru,Brazil,0,5,Copa América,São Paulo,Brazil,TRUE
+2019-06-22,Guyana,Panama,2,4,Gold Cup,Cleveland,United States,TRUE
+2019-06-22,United States,Trinidad and Tobago,6,0,Gold Cup,Cleveland,United States,FALSE
+2019-06-23,Senegal,Tanzania,2,0,African Cup of Nations,Cairo,Egypt,TRUE
+2019-06-23,Algeria,Kenya,2,0,African Cup of Nations,Cairo,Egypt,TRUE
+2019-06-23,Morocco,Namibia,1,0,African Cup of Nations,Cairo,Egypt,TRUE
+2019-06-23,Colombia,Paraguay,1,0,Copa América,Salvador,Brazil,TRUE
+2019-06-23,Qatar,Argentina,0,2,Copa América,Porto Alegre,Brazil,TRUE
+2019-06-23,Canada,Cuba,7,0,Gold Cup,Charlotte,United States,TRUE
+2019-06-23,Martinique,Mexico,2,3,Gold Cup,Charlotte,United States,TRUE
+2019-06-24,Ivory Coast,South Africa,1,0,African Cup of Nations,Cairo,Egypt,TRUE
+2019-06-24,Tunisia,Angola,1,1,African Cup of Nations,Suez,Egypt,TRUE
+2019-06-24,Mali,Mauritania,4,1,African Cup of Nations,Suez,Egypt,TRUE
+2019-06-24,Chile,Uruguay,0,1,Copa América,Rio de Janeiro,Brazil,TRUE
+2019-06-24,Ecuador,Japan,1,1,Copa América,Belo Horizonte,Brazil,TRUE
+2019-06-24,Bermuda,Nicaragua,2,0,Gold Cup,New Jersey,United States,TRUE
+2019-06-24,Haiti,Costa Rica,2,1,Gold Cup,New Jersey,United States,TRUE
+2019-06-25,Cameroon,Guinea-Bissau,2,0,African Cup of Nations,Ismailia,Egypt,TRUE
+2019-06-25,Ghana,Benin,2,2,African Cup of Nations,Ismailia,Egypt,TRUE
+2019-06-25,Jamaica,Curacao,1,1,Gold Cup,Los Angeles,United States,TRUE
+2019-06-25,Honduras,El Salvador,4,0,Gold Cup,Los Angeles,United States,TRUE
+2019-06-26,Uganda,Zimbabwe,1,1,African Cup of Nations,Cairo,Egypt,TRUE
+2019-06-26,Egypt,DR Congo,2,0,African Cup of Nations,Cairo,Egypt,FALSE
+2019-06-26,Nigeria,Guinea,1,0,African Cup of Nations,Alexandria,Egypt,TRUE
+2019-06-26,Trinidad and Tobago,Guyana,1,1,Gold Cup,Kansas City,United States,TRUE
+2019-06-26,United States,Panama,1,0,Gold Cup,Kansas City,United States,FALSE
+2019-06-27,Madagascar,Burundi,1,0,African Cup of Nations,Alexandria,Egypt,TRUE
+2019-06-27,Senegal,Algeria,0,1,African Cup of Nations,Cairo,Egypt,TRUE
+2019-06-27,Kenya,Tanzania,3,2,African Cup of Nations,Cairo,Egypt,TRUE
+2019-06-27,Brazil,Paraguay,0,0,Copa América,Porto Alegre,Brazil,FALSE
+2019-06-28,Morocco,Ivory Coast,1,0,African Cup of Nations,Cairo,Egypt,TRUE
+2019-06-28,South Africa,Namibia,1,0,African Cup of Nations,Cairo,Egypt,TRUE
+2019-06-28,Tunisia,Mali,1,1,African Cup of Nations,Suez,Egypt,TRUE
+2019-06-28,Colombia,Chile,0,0,Copa América,São Paulo,Brazil,TRUE
+2019-06-28,Venezuela,Argentina,0,2,Copa América,Rio de Janeiro,Brazil,TRUE
+2019-06-29,Mauritania,Angola,0,0,African Cup of Nations,Suez,Egypt,TRUE
+2019-06-29,Cameroon,Ghana,0,0,African Cup of Nations,Ismailia,Egypt,TRUE
+2019-06-29,Benin,Guinea-Bissau,0,0,African Cup of Nations,Ismailia,Egypt,TRUE
+2019-06-29,Uruguay,Peru,0,0,Copa América,Salvador,Brazil,TRUE
+2019-06-29,Haiti,Canada,3,2,Gold Cup,Houston,United States,TRUE
+2019-06-29,Mexico,Costa Rica,1,1,Gold Cup,Houston,United States,TRUE
+2019-06-30,Egypt,Uganda,2,0,African Cup of Nations,Cairo,Egypt,FALSE
+2019-06-30,Zimbabwe,DR Congo,0,4,African Cup of Nations,Cairo,Egypt,TRUE
+2019-06-30,Burundi,Guinea,0,2,African Cup of Nations,Cairo,Egypt,TRUE
+2019-06-30,Madagascar,Nigeria,2,0,African Cup of Nations,Alexandria,Egypt,TRUE
+2019-06-30,Jamaica,Panama,1,0,Gold Cup,Philadelphia,United States,TRUE
+2019-06-30,United States,Curacao,1,0,Gold Cup,Philadelphia,United States,FALSE
+2019-07-01,Kenya,Senegal,0,3,African Cup of Nations,Cairo,Egypt,TRUE
+2019-07-01,Tanzania,Algeria,0,3,African Cup of Nations,Cairo,Egypt,TRUE
+2019-07-01,Namibia,Ivory Coast,1,4,African Cup of Nations,Cairo,Egypt,TRUE
+2019-07-01,South Africa,Morocco,0,1,African Cup of Nations,Cairo,Egypt,TRUE
+2019-07-02,Angola,Mali,0,1,African Cup of Nations,Ismailia,Egypt,TRUE
+2019-07-02,Mauritania,Tunisia,0,0,African Cup of Nations,Suez,Egypt,TRUE
+2019-07-02,Benin,Cameroon,0,0,African Cup of Nations,Ismailia,Egypt,TRUE
+2019-07-02,Guinea-Bissau,Ghana,0,2,African Cup of Nations,Suez,Egypt,TRUE
+2019-07-02,Brazil,Argentina,2,0,Copa América,Belo Horizonte,Brazil,FALSE
+2019-07-02,Haiti,Mexico,0,1,Gold Cup,Glendale,United States,TRUE
+2019-07-03,Chile,Peru,0,3,Copa América,Porto Alegre,Brazil,TRUE
+2019-07-03,United States,Jamaica,3,1,Gold Cup,Nashville,United States,FALSE
+2019-07-05,Morocco,Benin,1,1,African Cup of Nations,Cairo,Egypt,TRUE
+2019-07-05,Uganda,Senegal,0,1,African Cup of Nations,Cairo,Egypt,TRUE
+2019-07-06,Egypt,South Africa,0,1,African Cup of Nations,Cairo,Egypt,FALSE
+2019-07-06,Nigeria,Cameroon,3,2,African Cup of Nations,Alexandria,Egypt,TRUE
+2019-07-06,Argentina,Chile,2,1,Copa América,São Paulo,Brazil,TRUE
+2019-07-07,Algeria,Guinea,3,0,African Cup of Nations,Cairo,Egypt,TRUE
+2019-07-07,Madagascar,DR Congo,2,2,African Cup of Nations,Alexandria,Egypt,TRUE
+2019-07-07,Brazil,Peru,3,1,Copa América,Rio de Janeiro,Brazil,FALSE
+2019-07-07,United States,Mexico,0,1,Gold Cup,Chicago,United States,FALSE
+2019-07-08,Ghana,Tunisia,1,1,African Cup of Nations,Ismaila,Egypt,TRUE
+2019-07-08,Mali,Ivory Coast,0,1,African Cup of Nations,Suez,Egypt,TRUE
+2019-07-10,Nigeria,South Africa,2,1,African Cup of Nations,Cairo,Egypt,TRUE
+2019-07-10,Senegal,Benin,1,0,African Cup of Nations,Cairo,Egypt,TRUE
+2019-07-11,Ivory Coast,Algeria,1,1,African Cup of Nations,Suez,Egypt,TRUE
+2019-07-11,Madagascar,Tunisia,0,3,African Cup of Nations,Cairo,Egypt,TRUE
+2019-07-14,Algeria,Nigeria,2,1,African Cup of Nations,Cairo,Egypt,TRUE
+2019-07-14,Senegal,Tunisia,1,0,African Cup of Nations,Cairo,Egypt,TRUE
+2019-07-17,Tunisia,Nigeria,NA,NA,African Cup of Nations,Cairo,Egypt,TRUE
+2019-07-19,Senegal,Algeria,NA,NA,African Cup of Nations,Cairo,Egypt,TRUE
