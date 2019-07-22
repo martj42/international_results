@@ -5436,12 +5436,17 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1963-08-14,Sweden,Norway,0,0,Nordic Championship,Gothenburg,Sweden,FALSE
 1963-08-16,Malaysia,South Korea,3,0,Merdeka Tournament,Kuala Lumpur,Malaya,TRUE
 1963-08-17,Thailand,Vietnam Republic,2,3,Merdeka Tournament,Kuala Lumpur,Malaya,TRUE
+1963-08-29,Fiji,Papua New Guinea,3,1,South Pacific Games,Suva,Fiji,FALSE
+1963-08-30,Solomon Islands,Vanuatu,6,3,South Pacific Games,Suva,Fiji,TRUE
 1963-09-01,Colombia,Costa Rica,4,5,Friendly,Bogotá,Colombia,FALSE
+1963-09-01,Fiji,Solomon Islands,5,0,South Pacific Games,Suva,Lautoka,FALSE
+1963-09-01,New Caledonia,Tahiti,2,1,South Pacific Games,Suva,Fiji,TRUE
 1963-09-04,China PR,Burma,4,0,Friendly,Beijing,China PR,FALSE
 1963-09-04,Colombia,Costa Rica,1,0,Friendly,Cali,Colombia,FALSE
 1963-09-04,German DR,Bulgaria,1,1,Friendly,Magdeburg,German DR,FALSE
 1963-09-04,Poland,Norway,9,0,Friendly,Szczecin,Poland,FALSE
 1963-09-06,Solomon Islands,Tahiti,0,18,South Pacific Games,Suva,Fiji,TRUE
+1963-09-06,Fiji,New Caledonia,2,8,South Pacific Games,Suva,Fiji,FALSE
 1963-09-08,Mauritius,Réunion,0,2,Friendly,Antananarivo,Madagascar,TRUE
 1963-09-11,Netherlands,Luxembourg,1,1,UEFA Euro qualification,Amsterdam,Netherlands,FALSE
 1963-09-15,Madagascar,Réunion,6,1,Friendly,Antananarivo,Madagascar,FALSE
@@ -6346,6 +6351,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1966-12-11,Tahiti,Wallis Islands and Futuna,5,0,South Pacific Games,Nouméa,New Caledonia,TRUE
 1966-12-12,Kenya,Sudan,3,2,Friendly,Nairobi,Kenya,FALSE
 1966-12-12,New Caledonia,Vanuatu,5,0,South Pacific Games,Nouméa,New Caledonia,FALSE
+1966-12-12,New Caledonia,Solomon Islands,8,0,South Pacific Games,Nouméa,New Caledonia,FALSE
 1966-12-13,Papua New Guinea,Wallis Islands and Futuna,9,1,South Pacific Games,Nouméa,New Caledonia,TRUE
 1966-12-13,Solomon Islands,Vanuatu,4,4,South Pacific Games,Nouméa,New Caledonia,TRUE
 1966-12-15,New Caledonia,Papua New Guinea,4,0,South Pacific Games,Nouméa,New Caledonia,FALSE
@@ -7153,15 +7159,22 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1969-08-10,Venezuela,Brazil,0,5,FIFA World Cup qualification,Caracas,Venezuela,FALSE
 1969-08-14,Fiji,Solomon Islands,5,1,South Pacific Games,Port Moresby,Papua New Guinea,TRUE
 1969-08-14,Tahiti,Vanuatu,3,3,South Pacific Games,Port Moresby,Papua New Guinea,TRUE
+1969-08-14,Papua New Guinea,New Caledonia,1,4,South Pacific Games,Port Moresby,Papua New Guinea,FALSE
 1969-08-15,Congo,Ivory Coast,1,1,Friendly,Brazzaville,Congo,FALSE
 1969-08-15,New Caledonia,Solomon Islands,1,1,South Pacific Games,Port Moresby,Papua New Guinea,TRUE
+1969-08-15,Papua New Guinea,Tahiti,1,3,South Pacific Games,Port Moresby,Papua New Guinea,FALSE
+1969-08-15,Fiji,Vanuatu,5,2,South Pacific Games,Port Moresby,Papua New Guinea,TRUE
 1969-08-16,Fiji,Tahiti,0,2,South Pacific Games,Port Moresby,Papua New Guinea,TRUE
+1969-08-16,Papua New Guinea,Solomon Islands,4,0,South Pacific Games,Port Moresby,Papua New Guinea,FALSE
+1969-08-16,New Caledonia,Vanuatu,2,0,South Pacific Games,Port Moresby,Papua New Guinea,TRUE
 1969-08-17,Ghana,Niger,6,0,African Cup of Nations qualification,Accra,Ghana,FALSE
 1969-08-17,Paraguay,Brazil,0,3,FIFA World Cup qualification,Asunción,Paraguay,FALSE
 1969-08-17,Peru,Bolivia,3,0,FIFA World Cup qualification,Lima,Peru,FALSE
 1969-08-18,Fiji,New Caledonia,0,11,South Pacific Games,Port Moresby,Papua New Guinea,TRUE
 1969-08-18,Solomon Islands,Tahiti,0,7,South Pacific Games,Port Moresby,Papua New Guinea,TRUE
+1969-08-18,Papua New Guinea,Vanuatu,2,1,South Pacific Games,Port Moresby,Papua New Guinea,FALSE
 1969-08-20,Vanuatu,Solomon Islands,7,2,South Pacific Games,Port Moresby,Papua New Guinea,TRUE
+1969-08-20,Papua New Guinea,Fiji,1,1,South Pacific Games,Port Moresby,Papua New Guinea,FALSE
 1969-08-21,Brazil,Colombia,6,2,FIFA World Cup qualification,Rio de Janeiro,Brazil,FALSE
 1969-08-21,Paraguay,Venezuela,1,0,FIFA World Cup qualification,Asunción,Paraguay,FALSE
 1969-08-22,New Caledonia,Tahiti,2,1,South Pacific Games,Port Moresby,Papua New Guinea,TRUE
@@ -7873,17 +7886,22 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1971-09-08,Germany,Mexico,5,0,Friendly,Hanover,Germany,FALSE
 1971-09-08,Norway,France,1,3,UEFA Euro qualification,Oslo,Norway,FALSE
 1971-09-09,Fiji,New Caledonia,1,5,South Pacific Games,Papeete,French Polynesia,TRUE
+1971-09-09,Tahiti,Papua New Guinea,2,2,South Pacific Games,Papeete,French Polynesia,FALSE
 1971-09-10,South Korea,Iran,2,0,Friendly,Seoul,South Korea,FALSE
 1971-09-11,Cook Islands,Papua New Guinea,1,16,South Pacific Games,Papeete,French Polynesia,TRUE
 1971-09-11,Fiji,Vanuatu,4,6,South Pacific Games,Papeete,French Polynesia,TRUE
 1971-09-12,South Korea,Iran,0,2,Friendly,Seoul,South Korea,FALSE
 1971-09-13,New Caledonia,Vanuatu,0,0,South Pacific Games,Papeete,French Polynesia,TRUE
+1971-09-13,Tahiti,Cook Islands,30,0,South Pacific Games,Papeete,French Polynesia,FALSE
 1971-09-14,Guatemala,Honduras,1,1,CONCACAF Championship qualification,Guatemala,Guatemala,FALSE
 1971-09-15,Cook Islands,Fiji,1,15,South Pacific Games,Papeete,French Polynesia,TRUE
 1971-09-15,El Salvador,Nicaragua,1,0,CONCACAF Championship qualification,San Salvador,El Salvador,FALSE
 1971-09-16,New Caledonia,Papua New Guinea,4,0,South Pacific Games,Papeete,French Polynesia,TRUE
+1971-09-16,Tahiti,Vanuatu,1,2,South Pacific Games,Papeete,French Polynesia,FALSE
 1971-09-18,German DR,Mexico,1,1,Friendly,Leipzig,German DR,FALSE
 1971-09-18,Russia,India,5,0,Friendly,Moscow,Soviet Union,FALSE
+1971-09-18,Tahiti,Papua New Guinea,8,1,South Pacific Games,Papeete,French Polynesia,FALSE
+1971-09-18,New Caledonia,Vanuatu,7,1,South Pacific Games,Papeete,French Polynesia,TRUE
 1971-09-22,Finland,Romania,0,4,UEFA Euro qualification,Helsinki,Finland,FALSE
 1971-09-22,Poland,Turkey,5,1,UEFA Euro qualification,Cracow,Poland,FALSE
 1971-09-22,Russia,Northern Ireland,1,0,UEFA Euro qualification,Moscow,Soviet Union,FALSE
@@ -9384,6 +9402,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1975-08-02,Bangladesh,Thailand,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
 1975-08-02,New Caledonia,Tahiti,3,0,South Pacific Games,Tamuning,Guam,TRUE
 1975-08-02,Vanuatu,Papua New Guinea,3,0,South Pacific Games,Tamuning,Guam,TRUE
+1975-08-02,Guam,Solomon Islands,1,5,South Pacific Games,Tamuning,Guam,FALSE
 1975-08-03,Burma,South Korea,2,3,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
 1975-08-03,Hong Kong,Indonesia,2,3,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
 1975-08-03,Mexico,German DR,0,1,Friendly,Los Angeles,United States,TRUE
@@ -9391,7 +9410,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1975-08-04,Bangladesh,Japan,0,3,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
 1975-08-04,New Caledonia,Vanuatu,3,1,South Pacific Games,Tamuning,Guam,TRUE
 1975-08-04,Papua New Guinea,Tahiti,2,4,South Pacific Games,Tamuning,Guam,TRUE
+1975-08-04,Guam,Fiji,0,11,South Pacific Games,Tamuning,Guam,FALSE
 1975-08-05,New Caledonia,Papua New Guinea,5,1,South Pacific Games,Tamuning,Guam,TRUE
+1975-08-05,Vanuatu,Tahiti,0,3,South Pacific Games,Tamuning,Guam,TRUE
+1975-08-05,Fiji,Solomon Islands,1,1,South Pacific Games,Tamuning,Guam,TRUE
 1975-08-06,Australia,China PR,1,0,Friendly,Melbourne,Australia,FALSE
 1975-08-06,Brazil,Argentina,2,1,Copa América,Belo Horizonte,Brazil,FALSE
 1975-08-06,Burma,Hong Kong,5,0,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
@@ -9404,6 +9426,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1975-08-07,New Caledonia,Solomon Islands,4,0,South Pacific Games,Tamuning,Guam,TRUE
 1975-08-07,Peru,Bolivia,3,1,Copa América,Lima,Peru,FALSE
 1975-08-08,Bangladesh,Burma,1,7,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
+1975-08-08,Fiji,Solomon Islands,2,3,South Pacific Games,Tamuning,Guam,TRUE
 1975-08-09,Indonesia,Thailand,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
 1975-08-09,Japan,South Korea,1,3,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
 1975-08-09,New Caledonia,Tahiti,1,2,South Pacific Games,Tamuning,Guam,TRUE
@@ -10906,18 +10929,23 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1979-08-29,Poland,Romania,3,0,Friendly,Warsaw,Poland,FALSE
 1979-08-29,Solomon Islands,Wallis Islands and Futuna,6,0,South Pacific Games,Suva,Fiji,TRUE
 1979-08-29,Tahiti,Tonga,8,0,South Pacific Games,Suva,Fiji,TRUE
+1979-08-29,Fiji,Papua New Guinea,0,0,South Pacific Games,Suva,Fiji,TRUE
 1979-08-30,Fiji,Kiribati,24,0,South Pacific Games,Nausori,Fiji,FALSE
 1979-08-30,Guam,New Caledonia,1,10,South Pacific Games,Suva,Fiji,TRUE
 1979-08-30,Peru,Uruguay,2,0,Friendly,Lima,Peru,FALSE
 1979-08-30,Tahiti,Tuvalu,18,0,South Pacific Games,Suva,Fiji,TRUE
 1979-08-31,Kiribati,Papua New Guinea,0,13,South Pacific Games,Suva,Fiji,TRUE
+1979-08-31,Solomon Islands,Samoa,12,0,South Pacific Games,Suva,Fiji,TRUE
+1979-08-31,New Caledonia,Vanuatu,3,0,South Pacific Games,Suva,Fiji,TRUE
 1979-09-01,Tonga,Tuvalu,3,5,South Pacific Games,Nausori,Fiji,TRUE
 1979-09-01,Wallis Islands and Futuna,Samoa,3,1,South Pacific Games,Nausori,Fiji,TRUE
 1979-09-03,Fiji,Wallis Islands and Futuna,5,0,South Pacific Games,Nausori,Fiji,FALSE
 1979-09-03,Libya,Palestine,0,0,Friendly,Tripoli,Libya,FALSE
 1979-09-03,New Caledonia,Tuvalu,11,0,South Pacific Games,Suva,Fiji,TRUE
 1979-09-03,Papua New Guinea,Solomon Islands,2,3,South Pacific Games,Nausori,Fiji,TRUE
+1979-09-03,Tahiti,Vanuatu,1,0,South Pacific Games,Suva,Fiji,TRUE
 1979-09-04,New Caledonia,Tahiti,2,3,South Pacific Games,Suva,Fiji,TRUE
+1979-09-04,Fiji,Solomon Islands,2,0,South Pacific Games,Suva,Fiji,FALSE
 1979-09-05,Chile,Colombia,2,0,Copa América,Santiago,Chile,FALSE
 1979-09-05,Ecuador,Uruguay,2,1,Copa América,Quito,Ecuador,FALSE
 1979-09-05,Guam,Samoa,4,2,South Pacific Games,Nausori,Fiji,TRUE
@@ -10930,6 +10958,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1979-09-06,Guam,Tuvalu,7,2,South Pacific Games,Nausori,Fiji,TRUE
 1979-09-06,Vanuatu,Tonga,7,1,South Pacific Games,Nausori,Fiji,TRUE
 1979-09-07,New Caledonia,Solomon Islands,1,3,South Pacific Games,Suva,Fiji,TRUE
+1979-09-07,Fiji,Tahiti,0,3,South Pacific Games,Suva,Fiji,FALSE
 1979-09-08,South Korea,Sudan,8,0,Korea Cup,Seoul,South Korea,FALSE
 1979-09-09,Indonesia,Thailand,0,2,Korea Cup,Seoul,South Korea,TRUE
 1979-09-10,Bangladesh,Sudan,1,4,Korea Cup,Seoul,South Korea,TRUE
@@ -12664,15 +12693,19 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1983-08-20,Greece,Libya,3,2,Friendly,Athens,Greece,FALSE
 1983-08-20,Niue,Tahiti,0,14,South Pacific Games,Apia,Western Samoa,TRUE
 1983-08-20,Tonga,Wallis Islands and Futuna,0,3,South Pacific Games,Apia,Western Samoa,TRUE
+1983-08-20,Samoa,American Samoa,3,1,South Pacific Games,Apia,Western Samoa,FALSE
 1983-08-21,Bolivia,Peru,1,1,Copa América,La Paz,Bolivia,FALSE
 1983-08-22,American Samoa,Wallis Islands and Futuna,3,0,South Pacific Games,Apia,Western Samoa,TRUE
 1983-08-22,Niue,Papua New Guinea,0,19,South Pacific Games,Apia,Western Samoa,TRUE
+1983-08-22,Samoa,Tonga,3,3,South Pacific Games,Apia,Western Samoa,FALSE
+1983-08-22,Fiji,Solomon Islands,10,0,South Pacific Games,Apia,Western Samoa,TRUE
 1983-08-24,American Samoa,Tonga,2,3,South Pacific Games,Apia,Western Samoa,TRUE
 1983-08-24,Argentina,Brazil,1,0,Copa América,Buenos Aires,Argentina,FALSE
 1983-08-24,Chile,Bolivia,4,2,Friendly,Arica,Chile,FALSE
 1983-08-24,Romania,German DR,1,0,Friendly,Bucharest,Romania,FALSE
 1983-08-24,Samoa,Wallis Islands and Futuna,1,2,South Pacific Games,Apia,Western Samoa,TRUE
 1983-08-24,Turkey,Libya,0,0,Friendly,Istanbul,Turkey,FALSE
+1983-08-24,Papua New Guinea,Tahiti,1,2,South Pacific Games,Apia,Western Samoa,TRUE
 1983-08-25,Algeria,Ivory Coast,3,0,Friendly,Algiers,Algeria,FALSE
 1983-08-25,Uruguay,Paraguay,0,0,Friendly,Montevideo,Uruguay,FALSE
 1983-08-26,Fiji,Vanuatu,6,0,South Pacific Games,Apia,Western Samoa,TRUE
@@ -12711,6 +12744,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1983-09-14,Malaysia,South Korea,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,FALSE
 1983-09-14,New Caledonia,Wallis Islands and Futuna,4,0,South Pacific Games,Apia,Western Samoa,TRUE
 1983-09-14,Papua New Guinea,Tahiti,1,6,South Pacific Games,Apia,Western Samoa,TRUE
+1983-09-14,Samoa,Tahiti,0,2,South Pacific Games,Apia,Western Samoa,FALSE
 1983-09-15,Fiji,Tahiti,0,1,South Pacific Games,Apia,Western Samoa,TRUE
 1983-09-15,New Caledonia,Papua New Guinea,2,1,South Pacific Games,Apia,Western Samoa,TRUE
 1983-09-18,Venezuela,Uruguay,1,2,Copa América,Caracas,Venezuela,FALSE
@@ -16599,30 +16633,32 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1991-09-04,Sweden,Yugoslavia,4,3,Friendly,Solna,Sweden,FALSE
 1991-09-04,Turkey,United States,1,1,Friendly,Istanbul,Turkey,FALSE
 1991-09-08,Mali,Guinea,0,0,Friendly,Bamako,Mali,FALSE
-1991-09-09,Guam,Tahiti,1,15,South Pacific Games,Lae,Papua New Guinea,TRUE
+1991-09-09,Guam,Tahiti,0,15,South Pacific Games,Lae,Papua New Guinea,TRUE
 1991-09-09,Papua New Guinea,Solomon Islands,0,0,South Pacific Games,Lae,Papua New Guinea,FALSE
 1991-09-10,Fiji,New Caledonia,3,1,South Pacific Games,Lae,Papua New Guinea,TRUE
-1991-09-10,Vanuatu,Wallis Islands and Futuna,5,0,South Pacific Games,Lae,Papua New Guinea,TRUE
+1991-09-10,Vanuatu,Wallis Islands and Futuna,4,0,South Pacific Games,Lae,Papua New Guinea,TRUE
 1991-09-11,England,Germany,0,1,Friendly,London,England,FALSE
 1991-09-11,Faroe Islands,Northern Ireland,0,5,UEFA Euro qualification,Landskrona,Sweden,TRUE
 1991-09-11,Hungary,Republic of Ireland,1,2,Friendly,Győr,Hungary,FALSE
 1991-09-11,Luxembourg,Belgium,0,2,UEFA Euro qualification,Luxembourg,Luxembourg,FALSE
 1991-09-11,Netherlands,Poland,1,1,Friendly,Eindhoven,Netherlands,FALSE
-1991-09-11,New Caledonia,Tahiti,1,0,South Pacific Games,Lae,Papua New Guinea,TRUE
+1991-09-11,New Caledonia,Tahiti,2,2,South Pacific Games,Lae,Papua New Guinea,TRUE
 1991-09-11,Portugal,Finland,1,0,UEFA Euro qualification,Porto,Portugal,FALSE
-1991-09-11,Solomon Islands,Wallis Islands and Futuna,17,0,South Pacific Games,Lae,Papua New Guinea,TRUE
+1991-09-11,Solomon Islands,Wallis Islands and Futuna,5,0,South Pacific Games,Lae,Papua New Guinea,TRUE
 1991-09-11,Switzerland,Scotland,2,2,UEFA Euro qualification,Berne,Switzerland,FALSE
 1991-09-11,Wales,Brazil,1,0,Friendly,Cardiff,Wales,FALSE
 1991-09-12,Bermuda,Jamaica,1,1,Friendly,Hamilton,Bermuda,FALSE
 1991-09-12,Fiji,Guam,14,1,South Pacific Games,Lae,Papua New Guinea,TRUE
 1991-09-12,Papua New Guinea,Vanuatu,0,1,South Pacific Games,Lae,Papua New Guinea,FALSE
 1991-09-14,Fiji,Tahiti,3,0,South Pacific Games,Lae,Papua New Guinea,TRUE
-1991-09-14,Solomon Islands,Vanuatu,2,1,South Pacific Games,Lae,Papua New Guinea,TRUE
+1991-09-14,Solomon Islands,Vanuatu,3,0,South Pacific Games,Lae,Papua New Guinea,TRUE
 1991-09-14,United States,Jamaica,1,0,Friendly,High Point,United States,FALSE
-1991-09-15,Guam,New Caledonia,0,8,South Pacific Games,Lae,Papua New Guinea,TRUE
-1991-09-15,Papua New Guinea,Wallis Islands and Futuna,12,0,South Pacific Games,Lae,Papua New Guinea,FALSE
+1991-09-15,Guam,New Caledonia,0,18,South Pacific Games,Lae,Papua New Guinea,TRUE
+1991-09-15,Papua New Guinea,Wallis Islands and Futuna,5,0,South Pacific Games,Lae,Papua New Guinea,FALSE
 1991-09-17,Fiji,Vanuatu,3,1,South Pacific Games,Lae,Papua New Guinea,TRUE
 1991-09-17,New Caledonia,Solomon Islands,1,4,South Pacific Games,Lae,Papua New Guinea,TRUE
+1991-09-17,Wallis Islands and Futuna,Tahiti,0,5,South Pacific Games,Lae,Papua New Guinea,TRUE
+1991-09-18,Wallis Islands and Futuna,Guam,5,0,South Pacific Games,Lae,Papua New Guinea,TRUE
 1991-09-20,Fiji,Solomon Islands,1,1,South Pacific Games,Lae,Papua New Guinea,TRUE
 1991-09-20,New Caledonia,Vanuatu,3,1,South Pacific Games,Lae,Papua New Guinea,TRUE
 1991-09-21,Botswana,Eswatini,2,1,Friendly,Gaborone,Botswana,FALSE
@@ -33247,24 +33283,24 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2011-08-25,United Arab Emirates,Qatar,3,1,Friendly,al-Ain,United Arab Emirates,FALSE
 2011-08-26,Bahrain,Sudan,1,0,Friendly,Riffa,Bahrain,FALSE
 2011-08-27,Angola,DR Congo,1,2,Friendly,Dundo,Angola,FALSE
-2011-08-27,Fiji,Tahiti,3,0,South Pacific Games,Boulari,New Caledonia,TRUE
+2011-08-27,Fiji,Tahiti,3,0,Pacific Games,Boulari,New Caledonia,TRUE
 2011-08-27,Jordan,Indonesia,1,0,Friendly,Amman,Jordan,FALSE
-2011-08-27,New Caledonia,Vanuatu,5,0,South Pacific Games,Nouméa,New Caledonia,FALSE
+2011-08-27,New Caledonia,Vanuatu,5,0,Pacific Games,Nouméa,New Caledonia,FALSE
 2011-08-27,Oman,Kuwait,1,0,Friendly,Muscat,Oman,FALSE
-2011-08-27,Papua New Guinea,Cook Islands,4,0,South Pacific Games,Boulari,New Caledonia,TRUE
-2011-08-27,Solomon Islands,Guam,7,0,South Pacific Games,Nouméa,New Caledonia,TRUE
-2011-08-27,Tuvalu,American Samoa,4,0,South Pacific Games,Nouméa,New Caledonia,TRUE
+2011-08-27,Papua New Guinea,Cook Islands,4,0,Pacific Games,Boulari,New Caledonia,TRUE
+2011-08-27,Solomon Islands,Guam,7,0,Pacific Games,Nouméa,New Caledonia,TRUE
+2011-08-27,Tuvalu,American Samoa,4,0,Pacific Games,Nouméa,New Caledonia,TRUE
 2011-08-28,Antigua and Barbuda,Saint Vincent and the Grenadines,2,2,Friendly,Osbourn,Antigua and Barbuda,FALSE
-2011-08-30,American Samoa,Solomon Islands,0,4,South Pacific Games,Nouméa,New Caledonia,TRUE
-2011-08-30,Fiji,Kiribati,9,0,South Pacific Games,Boulari,New Caledonia,TRUE
-2011-08-30,New Caledonia,Guam,9,0,South Pacific Games,Nouméa,New Caledonia,FALSE
-2011-08-30,Tahiti,Cook Islands,7,0,South Pacific Games,Boulari,New Caledonia,TRUE
-2011-08-30,Vanuatu,Tuvalu,5,1,South Pacific Games,Nouméa,New Caledonia,TRUE
-2011-09-01,American Samoa,Guam,0,2,South Pacific Games,Nouméa,New Caledonia,TRUE
-2011-09-01,Cook Islands,Kiribati,3,0,South Pacific Games,Boulari,New Caledonia,TRUE
-2011-09-01,New Caledonia,Tuvalu,8,0,South Pacific Games,Nouméa,New Caledonia,FALSE
-2011-09-01,Tahiti,Papua New Guinea,1,1,South Pacific Games,Boulari,New Caledonia,TRUE
-2011-09-01,Vanuatu,Solomon Islands,1,0,South Pacific Games,Nouméa,New Caledonia,TRUE
+2011-08-30,American Samoa,Solomon Islands,0,4,Pacific Games,Nouméa,New Caledonia,TRUE
+2011-08-30,Fiji,Kiribati,9,0,Pacific Games,Boulari,New Caledonia,TRUE
+2011-08-30,New Caledonia,Guam,9,0,Pacific Games,Nouméa,New Caledonia,FALSE
+2011-08-30,Tahiti,Cook Islands,7,0,Pacific Games,Boulari,New Caledonia,TRUE
+2011-08-30,Vanuatu,Tuvalu,5,1,Pacific Games,Nouméa,New Caledonia,TRUE
+2011-09-01,American Samoa,Guam,0,2,Pacific Games,Nouméa,New Caledonia,TRUE
+2011-09-01,Cook Islands,Kiribati,3,0,Pacific Games,Boulari,New Caledonia,TRUE
+2011-09-01,New Caledonia,Tuvalu,8,0,Pacific Games,Nouméa,New Caledonia,FALSE
+2011-09-01,Tahiti,Papua New Guinea,1,1,Pacific Games,Boulari,New Caledonia,TRUE
+2011-09-01,Vanuatu,Solomon Islands,1,0,Pacific Games,Nouméa,New Caledonia,TRUE
 2011-09-02,Albania,France,1,2,UEFA Euro qualification,Tirana,Albania,FALSE
 2011-09-02,Andorra,Armenia,0,3,UEFA Euro qualification,Sant Julià de Lòria,Andorra,FALSE
 2011-09-02,Antigua and Barbuda,Curaçao,5,2,FIFA World Cup qualification,St. John's,Antigua and Barbuda,FALSE
@@ -33319,19 +33355,19 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2011-09-02,Wales,Montenegro,2,1,UEFA Euro qualification,Cardiff,Wales,FALSE
 2011-09-03,Burkina Faso,Equatorial Guinea,1,0,Friendly,Bobo Dioulasso,Burkina Faso,FALSE
 2011-09-03,Cameroon,Mauritius,6,0,African Cup of Nations qualification,Yaoundé,Cameroon,FALSE
-2011-09-03,Cook Islands,Fiji,1,4,South Pacific Games,Boulari,New Caledonia,TRUE
-2011-09-03,Guam,Vanuatu,1,4,South Pacific Games,Nouméa,New Caledonia,TRUE
+2011-09-03,Cook Islands,Fiji,1,4,Pacific Games,Boulari,New Caledonia,TRUE
+2011-09-03,Guam,Vanuatu,1,4,Pacific Games,Nouméa,New Caledonia,TRUE
 2011-09-03,Honduras,Colombia,0,2,Friendly,Harrison,United States,TRUE
 2011-09-03,Kenya,Guinea-Bissau,2,1,African Cup of Nations qualification,Nairobi,Kenya,FALSE
-2011-09-03,Kiribati,Papua New Guinea,1,17,South Pacific Games,Boulari,New Caledonia,TRUE
+2011-09-03,Kiribati,Papua New Guinea,1,17,Pacific Games,Boulari,New Caledonia,TRUE
 2011-09-03,Malawi,Tunisia,0,0,African Cup of Nations qualification,Blantyre,Malawi,FALSE
 2011-09-03,Namibia,Gambia,1,0,African Cup of Nations qualification,Windhoek,Namibia,FALSE
-2011-09-03,New Caledonia,American Samoa,8,0,South Pacific Games,Nouméa,New Caledonia,FALSE
+2011-09-03,New Caledonia,American Samoa,8,0,Pacific Games,Nouméa,New Caledonia,FALSE
 2011-09-03,Rwanda,Ivory Coast,0,5,African Cup of Nations qualification,Kigali,Rwanda,FALSE
 2011-09-03,Scotland,Czech Republic,2,2,UEFA Euro qualification,Glasgow,Scotland,FALSE
 2011-09-03,Senegal,DR Congo,2,0,African Cup of Nations qualification,Dakar,Senegal,FALSE
 2011-09-03,Sierra Leone,Egypt,2,1,African Cup of Nations qualification,Freetowm,Sierra Leone,FALSE
-2011-09-03,Solomon Islands,Tuvalu,6,1,South Pacific Games,Nouméa,New Caledonia,TRUE
+2011-09-03,Solomon Islands,Tuvalu,6,1,Pacific Games,Nouméa,New Caledonia,TRUE
 2011-09-03,Tanzania,Algeria,1,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,FALSE
 2011-09-04,Angola,Uganda,2,0,African Cup of Nations qualification,Luanda,Angola,FALSE
 2011-09-04,Burundi,Benin,1,1,African Cup of Nations qualification,Bujumbura,Burundi,FALSE
@@ -33344,13 +33380,13 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2011-09-04,Niger,South Africa,2,1,African Cup of Nations qualification,Niamey,Niger,FALSE
 2011-09-04,Togo,Botswana,1,0,African Cup of Nations qualification,Lomé,Togo,FALSE
 2011-09-04,Zimbabwe,Liberia,3,0,African Cup of Nations qualification,Harare,Zimbabwe,FALSE
-2011-09-05,American Samoa,Vanuatu,0,8,South Pacific Games,Nouméa,New Caledonia,TRUE
+2011-09-05,American Samoa,Vanuatu,0,8,Pacific Games,Nouméa,New Caledonia,TRUE
 2011-09-05,Bolivia,Peru,0,0,Friendly,La Paz,Bolivia,FALSE
 2011-09-05,Brazil,Ghana,1,0,Friendly,London,England,TRUE
-2011-09-05,Guam,Tuvalu,1,1,South Pacific Games,Nouméa,New Caledonia,TRUE
-2011-09-05,Kiribati,Tahiti,1,17,South Pacific Games,Boulari,New Caledonia,TRUE
-2011-09-05,New Caledonia,Solomon Islands,1,2,South Pacific Games,Nouméa,New Caledonia,FALSE
-2011-09-05,Papua New Guinea,Fiji,0,2,South Pacific Games,Boulari,New Caledonia,TRUE
+2011-09-05,Guam,Tuvalu,1,1,Pacific Games,Nouméa,New Caledonia,TRUE
+2011-09-05,Kiribati,Tahiti,1,17,Pacific Games,Boulari,New Caledonia,TRUE
+2011-09-05,New Caledonia,Solomon Islands,1,2,Pacific Games,Nouméa,New Caledonia,FALSE
+2011-09-05,Papua New Guinea,Fiji,0,2,Pacific Games,Boulari,New Caledonia,TRUE
 2011-09-06,Argentina,Nigeria,3,1,Friendly,Dhaka,Bangladesh,TRUE
 2011-09-06,Austria,Turkey,0,0,UEFA Euro qualification,Vienna,Austria,FALSE
 2011-09-06,Azerbaijan,Kazakhstan,3,2,UEFA Euro qualification,Baku,Azerbaijan,FALSE
@@ -33404,10 +33440,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2011-09-06,Venezuela,Guinea,2,1,Friendly,Caracas,Venezuela,FALSE
 2011-09-06,U.S. Virgin Islands,Antigua and Barbuda,1,8,FIFA World Cup qualification,Frederiksted,U.S. Virgin Islands,FALSE
 2011-09-07,Equatorial Guinea,Central African Republic,3,0,Friendly,Malabo,Equatorial Guinea,FALSE
-2011-09-07,New Caledonia,Tahiti,3,1,South Pacific Games,Koné,New Caledonia,FALSE
-2011-09-07,Solomon Islands,Fiji,2,1,South Pacific Games,Lifou,New Caledonia,TRUE
-2011-09-09,New Caledonia,Solomon Islands,2,0,South Pacific Games,Nouméa,New Caledonia,FALSE
-2011-09-09,Tahiti,Fiji,2,1,South Pacific Games,Boulari,New Caledonia,TRUE
+2011-09-07,New Caledonia,Tahiti,3,1,Pacific Games,Koné,New Caledonia,FALSE
+2011-09-07,Solomon Islands,Fiji,2,1,Pacific Games,Lifou,New Caledonia,TRUE
+2011-09-09,New Caledonia,Solomon Islands,2,0,Pacific Games,Nouméa,New Caledonia,FALSE
+2011-09-09,Tahiti,Fiji,2,1,Pacific Games,Boulari,New Caledonia,TRUE
 2011-09-11,Saint Vincent and the Grenadines,Dominica,1,0,Friendly,Kingstown,Saint Vincent and the Grenadines,FALSE
 2011-09-14,Argentina,Brazil,0,0,Friendly,Córdoba,Argentina,FALSE
 2011-09-23,Suriname,Curaçao,2,0,Friendly,Paramaribo,Suriname,FALSE
@@ -39715,7 +39751,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-06-01,Malta,Georgia,0,1,Friendly,Schwaz,Austria,TRUE
 2018-06-01,Botswana,Mauritius,6,0,COSAFA Cup,Polokwane,South Africa,TRUE
 2018-06-01,Angola,Malawi,0,0,COSAFA Cup,Polokwane,South Africa,TRUE
-2018-06-01,India,Chinese Taipei,5,0,Friendly,Mumbai,India,FALSE
+2018-06-01,India,Chinese Taipei,5,0,Intercontinental Cup,Mumbai,India,FALSE
 2018-06-02,El Salvador,Honduras,1,0,Friendly,Houston,United States,TRUE
 2018-06-02,Thailand,China PR,0,2,Friendly,Bangkok,Thailand,FALSE
 2018-06-02,England,Nigeria,2,1,Friendly,London,England,FALSE
@@ -39730,7 +39766,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-06-02,Zambia,Namibia,0,0,COSAFA Cup,Polokwane,South Africa,TRUE
 2018-06-02,Lesotho,Eswatini,1,0,COSAFA Cup,Polokwane,South Africa,TRUE
 2018-06-02,Latvia,Estonia,1,0,Baltic Cup,Riga,Latvia,FALSE
-2018-06-02,Kenya,New Zealand,2,1,Friendly,Mumbai,India,TRUE
+2018-06-02,Kenya,New Zealand,2,1,Intercontinental Cup,Mumbai,India,TRUE
 2018-06-02,Ellan Vannin,Tamil Eelam,2,0,CONIFA World Football Cup,Carshalton,England,TRUE
 2018-06-02,Barawa,Cascadia,1,2,CONIFA World Football Cup,Carshalton,England,FALSE
 2018-06-02,Abkhazia,Kárpátalja,0,2,CONIFA World Football Cup,Enfield,England,TRUE
@@ -39760,14 +39796,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-06-04,Serbia,Chile,0,1,Friendly,Graz,Austria,TRUE
 2018-06-04,Slovakia,Morocco,1,2,Friendly,Geneva,Switzerland,TRUE
 2018-06-04,Armenia,Moldova,0,0,Friendly,Kematen,Austria,TRUE
-2018-06-04,India,Kenya,3,0,Friendly,Mumbai,India,FALSE
+2018-06-04,India,Kenya,3,0,Intercontinental Cup,Mumbai,India,FALSE
 2018-06-05,Russia,Turkey,1,1,Friendly,Moscow,Russia,FALSE
 2018-06-05,Romania,Finland,2,0,Friendly,Ploiești,Romania,FALSE
 2018-06-05,Luxembourg,Georgia,1,0,Friendly,Luxembourg,Luxembourg,FALSE
 2018-06-05,Kazakhstan,Azerbaijan,3,0,Friendly,Astana,Kazakhstan,FALSE
 2018-06-05,Martinique,French Guiana,3,0,Friendly,Fort-de-France,Martinique,FALSE
 2018-06-05,Lithuania,Latvia,1,1,Friendly,Vilnius,Lithuania,FALSE
-2018-06-05,Chinese Taipei,New Zealand,0,1,Friendly,Mumbai,India,TRUE
+2018-06-05,Chinese Taipei,New Zealand,0,1,Intercontinental Cup,Mumbai,India,TRUE
 2018-06-05,South Africa,Namibia,4,1,COSAFA Cup,Polokwane,South Africa,FALSE
 2018-06-05,Eswatini,Botswana,0,2,COSAFA Cup,Polokwane,South Africa,TRUE
 2018-06-05,Matabeleland,Kabylia,0,0,CONIFA World Football Cup,Enfield,England,TRUE
@@ -39789,7 +39825,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-06-07,South Korea,Bolivia,0,0,Friendly,Innsbruck,Austria,TRUE
 2018-06-07,Iceland,Ghana,2,2,Friendly,Reykjavík,Iceland,FALSE
 2018-06-07,Guadeloupe,French Guiana,0,2,Friendly,Fort-de-France,Martinique,TRUE
-2018-06-07,India,New Zealand,1,2,Friendly,Mumbai,India,FALSE
+2018-06-07,India,New Zealand,1,2,Intercontinental Cup,Mumbai,India,FALSE
 2018-06-07,Tamil Eelam,Tuvalu,4,3,CONIFA World Football Cup,Sutton,England,TRUE
 2018-06-07,Tibet,Kabylia,1,8,CONIFA World Football Cup,Enfield,England,TRUE
 2018-06-07,Abkhazia,United Koreans in Japan,2,0,CONIFA World Football Cup,Bromley,England,TRUE
@@ -39802,7 +39838,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-06-08,Switzerland,Japan,2,0,Friendly,Lugano,Switzerland,FALSE
 2018-06-08,Lithuania,Iran,0,1,Friendly,Moscow,Russia,TRUE
 2018-06-08,Poland,Chile,2,2,Friendly,Poznań,Poland,FALSE
-2018-06-08,Chinese Taipei,Kenya,0,4,Friendly,Mumbai,India,TRUE
+2018-06-08,Chinese Taipei,Kenya,0,4,Intercontinental Cup,Mumbai,India,TRUE
 2018-06-09,Serbia,Bolivia,5,1,Friendly,Graz,Austria,TRUE
 2018-06-09,Denmark,Mexico,2,0,Friendly,Brøndby,Denmark,FALSE
 2018-06-09,Sweden,Peru,0,0,Friendly,Gothenburg,Sweden,FALSE
@@ -39820,6 +39856,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-06-09,Padania,Székely Land,0,0,CONIFA World Football Cup,Enfield,England,TRUE
 2018-06-09,Northern Cyprus,Kárpátalja,0,0,CONIFA World Football Cup,Enfield,England,TRUE
 2018-06-10,Austria,Brazil,0,3,Friendly,Vienna,Austria,FALSE
+2018-06-10,India,Kenya,2,0,Intercontinental Cup,Mumbai,India,FALSE
 2018-06-11,South Korea,Senegal,0,2,Friendly,Grödig,Austria,TRUE
 2018-06-11,Belgium,Costa Rica,4,1,Friendly,Brussels,Belgium,FALSE
 2018-06-12,Japan,Paraguay,4,2,Friendly,Innsbruck,Austria,TRUE
@@ -40762,13 +40799,42 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-07-07,Madagascar,DR Congo,2,2,African Cup of Nations,Alexandria,Egypt,TRUE
 2019-07-07,Brazil,Peru,3,1,Copa América,Rio de Janeiro,Brazil,FALSE
 2019-07-07,United States,Mexico,0,1,Gold Cup,Chicago,United States,FALSE
+2019-07-07,India,Tajikistan,2,4,Intercontinental Cup,Ahmedabad,India,FALSE
 2019-07-08,Ghana,Tunisia,1,1,African Cup of Nations,Ismaila,Egypt,TRUE
 2019-07-08,Mali,Ivory Coast,0,1,African Cup of Nations,Suez,Egypt,TRUE
+2019-07-08,Samoa,Papua New Guinea,0,6,Pacific Games,Apia,Samoa,FALSE
+2019-07-08,American Samoa,New Caledonia,0,5,Pacific Games,Apia,Samoa,TRUE
+2019-07-08,Tuvalu,Solomon Islands,0,13,Pacific Games,Apia,Samoa,TRUE
+2019-07-08,Tahiti,Fiji,1,2,Pacific Games,Apia,Samoa,TRUE
+2019-07-08,Syria,North Korea,5,2,Intercontinental Cup,Ahmedabad,India,TRUE
 2019-07-10,Nigeria,South Africa,2,1,African Cup of Nations,Cairo,Egypt,TRUE
 2019-07-10,Senegal,Benin,1,0,African Cup of Nations,Cairo,Egypt,TRUE
+2019-07-10,Papua New Guinea,Vanuatu,2,0,Pacific Games,Apia,Samoa,TRUE
+2019-07-10,Tuvalu,Tahiti,0,7,Pacific Games,Apia,Samoa,TRUE
+2019-07-10,American Samoa,Fiji,0,9,Pacific Games,Apia,Samoa,TRUE
+2019-07-10,Solomon Islands,New Caledonia,0,2,Pacific Games,Apia,Samoa,TRUE
+2019-07-10,Tajikistan,Syria,2,0,Intercontinental Cup,Ahmedabad,India,TRUE
 2019-07-11,Ivory Coast,Algeria,1,1,African Cup of Nations,Suez,Egypt,TRUE
 2019-07-11,Madagascar,Tunisia,0,3,African Cup of Nations,Cairo,Egypt,TRUE
+2019-07-12,Samoa,Tonga,2,0,Pacific Games,Apia,Samoa,FALSE
+2019-07-12,American Samoa,Tuvalu,1,1,Pacific Games,Apia,Samoa,TRUE
+2019-07-12,Solomon Islands,Tahiti,0,3,Pacific Games,Apia,Samoa,TRUE
+2019-07-12,New Caledonia,Fiji,1,0,Pacific Games,Apia,Samoa,TRUE
+2019-07-13,India,North Korea,2,5,Intercontinental Cup,Ahmedabad,India,FALSE
 2019-07-14,Algeria,Nigeria,2,1,African Cup of Nations,Cairo,Egypt,TRUE
 2019-07-14,Senegal,Tunisia,1,0,African Cup of Nations,Cairo,Egypt,TRUE
-2019-07-17,Tunisia,Nigeria,NA,NA,African Cup of Nations,Cairo,Egypt,TRUE
-2019-07-19,Senegal,Algeria,NA,NA,African Cup of Nations,Cairo,Egypt,TRUE
+2019-07-15,Tonga,Vanuatu,0,14,Pacific Games,Apia,Samoa,TRUE
+2019-07-15,Fiji,Tuvalu,10,1,Pacific Games,Apia,Samoa,TRUE
+2019-07-15,Solomon Islands,American Samoa,13,0,Pacific Games,Apia,Samoa,TRUE
+2019-07-15,Tahiti,New Caledonia,0,3,Pacific Games,Apia,Samoa,TRUE
+2019-07-15,North Korea,Tajikistan,1,0,Intercontinental Cup,Ahmedabad,India,TRUE
+2019-07-16,India,Syria,1,1,Intercontinental Cup,Ahmedabad,India,FALSE
+2019-07-17,Tunisia,Nigeria,0,1,African Cup of Nations,Cairo,Egypt,TRUE
+2019-07-18,Papua New Guinea,Tonga,8,0,Pacific Games,Apia,Samoa,TRUE
+2019-07-18,Samoa,Vanuatu,0,11,Pacific Games,Apia,Samoa,FALSE
+2019-07-18,New Caledonia,Tuvalu,11,0,Pacific Games,Apia,Samoa,TRUE
+2019-07-18,American Samoa,Tahiti,8,1,Pacific Games,Apia,Samoa,TRUE
+2019-07-18,Fiji,Solomon Islands,4,4,Pacific Games,Apia,Samoa,TRUE
+2019-07-19,Senegal,Algeria,0,1,African Cup of Nations,Cairo,Egypt,TRUE
+2019-07-19,Tajikistan,North Korea,0,1,Intercontinental Cup,Ahmedabad,India,TRUE
+2019-07-20,Papua New Guinea,Fiji,1,1,Pacific Games,Apia,Samoa,TRUE
