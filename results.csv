@@ -35242,7 +35242,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2013-06-22,Brazil,Italy,4,2,Confederations Cup,Salvador,Brazil,FALSE
 2013-06-22,Japan,Mexico,1,2,Confederations Cup,Belo Horizonte,Brazil,TRUE
 2013-06-22,Monaco,Vatican City,2,0,Friendly,Cap-d'Ail,France,TRUE
-2013-06-22,Monaco,Vatican City,2,0,Friendly,Cap-d'Ail,France,FALSE
 2013-06-23,Nigeria,Spain,0,3,Confederations Cup,Fortaleza,Brazil,TRUE
 2013-06-23,Eswatini,Angola,0,1,African Nations Championship,Lobamba,Eswatini,FALSE
 2013-06-23,Uruguay,Tahiti,8,0,Confederations Cup,Recife,Brazil,TRUE
@@ -40686,6 +40685,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-06-15,Argentina,Colombia,0,2,Copa América,Salvador,Brazil,TRUE
 2019-06-15,Canada,Martinique,4,0,Gold Cup,Los Angeles,United States,TRUE
 2019-06-15,Mexico,Cuba,7,0,Gold Cup,Los Angeles,United States,TRUE
+2019-06-15,Ghana,South Africa,0,0,Friendly,Dubai,United Arab Emirates,TRUE
+2019-06-15,Indonesia,Vanuatu,6,0,Friendly,Jakarta,Indonesia,FALSE
+2019-06-15,Ivory Coast,Uganda,0,1,Friendly,Abu Dhabi,United Arab Emirates,TRUE
+2019-06-15,Kenya,DR Congo,1,1,Friendly,Madrid,Spain,TRUE
+2019-06-15,Tanzania,Zimbabwe,1,1,Friendly,Cairo,Egypt,TRUE
 2019-06-16,Jersey,Orkney,5,0,Inter Games Football Tournament,Anglesey,Wales,TRUE
 2019-06-16,Ynys Môn,Western Isles,2,1,Inter Games Football Tournament,Anglesey,Wales,FALSE
 2019-06-16,Alderney,Hitra,2,4,Inter Games Football Tournament,Anglesey,Wales,TRUE
@@ -40694,6 +40698,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-06-16,Uruguay,Ecuador,4,0,Copa América,Belo Horizonte,Brazil,TRUE
 2019-06-16,Haiti,Bermuda,2,1,Gold Cup,San José,Jamaica,TRUE
 2019-06-16,Costa Rica,Nicaragua,4,0,Gold Cup,San José,Jamaica,TRUE
+2019-06-16,Algeria,Mali,3,2,Friendly,Doha,Qatar,TRUE
+2019-06-16,Egypt,Guinea,3,1,Friendly,Alexandria,Egypt,FALSE
+2019-06-16,Morocco,Zambia,2,3,Friendly,Marrakech,Morocco,FALSE
+2019-06-16,Senegal,Nigeria,1,0,Friendly,Ismaila,Egypt,TRUE
 2019-06-17,Ynys Môn,Orkney,3,1,Inter Games Football Tournament,Anglesey,Wales,FALSE
 2019-06-17,Jersey,Western Isles,7,0,Inter Games Football Tournament,Anglesey,Wales,TRUE
 2019-06-17,Isle of Man,Hitra,7,1,Inter Games Football Tournament,Anglesey,Wales,TRUE
@@ -40701,6 +40709,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-06-17,Japan,Chile,0,4,Copa América,São Paulo,Brazil,TRUE
 2019-06-17,Curacao,El Salvador,0,1,Gold Cup,Kingston,Jamaica,TRUE
 2019-06-17,Jamaica,Honduras,3,2,Gold Cup,Kingston,Jamaica,FALSE
+2019-06-17,Tunisia,Burundi,2,1,Friendly,Radès,Tunisia,FALSE
 2019-06-18,Ynys Môn,Jersey,1,0,Inter Games Football Tournament,Anglesey,Wales,FALSE
 2019-06-18,Western Isles,Orkney,1,2,Inter Games Football Tournament,Anglesey,Wales,TRUE
 2019-06-18,Isle of Man,Alderney,6,1,Inter Games Football Tournament,Anglesey,Wales,TRUE
@@ -40709,10 +40718,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-06-18,Brazil,Venezuela,0,0,Copa América,Salvador,Brazil,FALSE
 2019-06-18,Panama,Trinidad and Tobago,2,0,Gold Cup,Saint Paul,United States,TRUE
 2019-06-18,United States,Guyana,4,0,Gold Cup,Saint Paul,United States,FALSE
+2019-06-18,Benin,Mauritania,3,1,Friendly,Marrakech,Morocco,TRUE
 2019-06-19,Colombia,Qatar,1,0,Copa América,São Paulo,Brazil,TRUE
 2019-06-19,Argentina,Paraguay,1,1,Copa América,Belo Horizonte,Brazil,TRUE
 2019-06-19,Cuba,Martinique,0,3,Gold Cup,Denver,United States,TRUE
 2019-06-19,Mexico,Canada,3,1,Gold Cup,Denver,United States,TRUE
+2019-06-19,Ivory Coast,Zambia,4,1,Friendly,Abu Dhabi,United Arab Emirates,TRUE
 2019-06-20,Western Isles,Saint Helena,2,1,Inter Games Football Tournament,Anglesey,Wales,TRUE
 2019-06-20,Orkney,Alderney,1,2,Inter Games Football Tournament,Anglesey,Wales,TRUE
 2019-06-20,Jersey,Hitra,3,1,Inter Games Football Tournament,Anglesey,Wales,TRUE
@@ -40838,3 +40849,98 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-07-19,Senegal,Algeria,0,1,African Cup of Nations,Cairo,Egypt,TRUE
 2019-07-19,Tajikistan,North Korea,0,1,Intercontinental Cup,Ahmedabad,India,TRUE
 2019-07-20,Papua New Guinea,Fiji,1,1,Pacific Games,Apia,Samoa,TRUE
+2019-07-21,Equatorial Guinea,Liberia,1,1,Friendly,Malabo,Equatorial Guinea,FALSE
+2019-08-11,St Vincent and the Grenadines,Trinidad and Tobago,1,0,Friendly,Georgetown,Saint Vincent and the Grenadines,TRUE
+2019-08-14,Dominican Republic,Guatemala,0,0,Friendly,Santiago de los Caballeros,Dominican Republic,FALSE
+2019-08-27,St Kitts and Nevis,Antigua and Barbuda,4,3,Friendly,Basseterre,Saint Kitts and Nevis,TRUE
+2019-08-28,Belize,St Vincent and the Grenadines,1,1,Friendly,Belmopan,Belize,FALSE
+2019-08-28,Chinese Taipei,Guam,3,0,Friendly,Kaohsiung,Chinese Taipei,FALSE
+2019-08-29,United Arab Emirates,Dominican Republic,4,0,Friendly,Riffa,Bahrain,TRUE
+2019-08-30,Belize,St Vincent and the Grenadines,1,0,Friendly,Belmopan,Belize,FALSE
+2019-08-30,China PR,Myanmar,4,1,Friendly,Xianghe,Egypt,TRUE
+2019-08-30,Malaysia,Jordan,0,1,Friendly,Kuala Lumpur,Malaysia,FALSE
+2019-08-31,United Arab Emirates,Sri Lanka,5,1,Friendly,Riffa,Bahrain,TRUE
+2019-09-04,Libya,Burkina Faso,0,1,Friendly,Marrakech,Morocco,TRUE
+2019-09-05,Argentina,Chile,0,0,Friendly,Los Angeles,United States,TRUE
+2019-09-05,Honduras,Puerto Rico,4,0,Friendly,Tegucigalpa,Honduras,FALSE
+2019-09-05,South Korea,Georgia,2,2,Friendly,Istanbul,Turkey,TRUE
+2019-09-05,Montenegro,Hungary,2,1,Friendly,Podgorica,Montenegro,FALSE
+2019-09-05,Northern Ireland,Luxembourg,1,0,Friendly,Belfast,Northern Ireland,FALSE
+2019-09-05,Peru,Ecuador,0,1,Friendly,Harrison,United States,TRUE
+2019-09-05,Saudi Arabia,Mali,1,1,Friendly,Riyadh,Saudi Arabia,FALSE
+2019-09-05,Republic of Ireland,Switzerland,1,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2019-09-05,Gibraltar,Denmark,0,6,UEFA Euro qualification,Gibraltar,Gibraltar,FALSE
+2019-09-05,Faroe Islands,Sweden,0,4,UEFA Euro qualification,Tórshavn,Faroe Islands,FALSE
+2019-09-05,Norway,Malta,2,0,UEFA Euro qualification,Oslo,Norway,FALSE
+2019-09-05,Romania,Spain,1,2,UEFA Euro qualification,Bucharest,Romania,FALSE
+2019-09-05,Israel,North Macedonia,1,1,UEFA Euro qualification,Beer Sheva,Israel,FALSE
+2019-09-05,Armenia,Italy,1,3,UEFA Euro qualification,Yerevan,Armenia,FALSE
+2019-09-05,Bosnia and Herzegovina,Liechtenstein,5,0,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,FALSE
+2019-09-05,Finland,Greece,1,0,UEFA Euro qualification,Tampere,Finland,FALSE
+2019-09-06,Brazil,Colombia,2,2,Friendly,Miami Gardens,United States,TRUE
+2019-09-06,Costa Rica,Uruguay,1,2,Friendly,San José,Costa Rica,FALSE
+2019-09-06,Ivory Coast,Benin,1,2,Friendly,Caen,Egypt,TRUE
+2019-09-06,Morocco,Burkina Faso,1,1,Friendly,Marrakech,Morocco,FALSE
+2019-09-06,Tunisia,Mauritania,1,0,Friendly,Radès,Tunisia,FALSE
+2019-09-06,United States,Mexico,0,3,Friendly,East Rutherford,United States,TRUE
+2019-09-06,Estonia,Belarus,1,2,UEFA Euro qualification,Tallinn,Estonia,FALSE
+2019-09-06,Germany,Netherlands,2,4,UEFA Euro qualification,Hamburg,Germany,FALSE
+2019-09-06,Wales,Azerbaijan,2,1,UEFA Euro qualification,Cardiff,Wales,FALSE
+2019-09-06,Slovakia,Croatia,0,4,UEFA Euro qualification,Trnava,Slovakia,FALSE
+2019-09-06,Austria,Latvia,6,0,UEFA Euro qualification,Salzburg,Austria,FALSE
+2019-09-06,Slovenia,Poland,2,0,UEFA Euro qualification,Ljubljana,Slovenia,FALSE
+2019-09-06,Cyprus,Kazakhstan,1,1,UEFA Euro qualification,Nicosia,Cyprus,FALSE
+2019-09-06,Scotland,Russia,1,2,UEFA Euro qualification,Glasgow,Scotland,FALSE
+2019-09-06,San Marino,Belgium,0,4,UEFA Euro qualification,Serravalle,San Marino,FALSE
+2019-09-07,Libya,Niger,2,0,Friendly,Berrechid,Egypt,TRUE
+2019-09-07,Kosovo,Czech Republic,2,1,UEFA Euro qualification,Pristina,Kosovo,FALSE
+2019-09-07,England,Bulgaria,4,0,UEFA Euro qualification,London,England,FALSE
+2019-09-07,Lithuania,Ukraine,0,3,UEFA Euro qualification,Vilnius,Lithuania,FALSE
+2019-09-07,Serbia,Portugal,2,4,UEFA Euro qualification,Belgrade,Serbia,FALSE
+2019-09-07,Iceland,Moldova,3,0,UEFA Euro qualification,Reykjavík,Iceland,FALSE
+2019-09-07,France,Albania,4,1,UEFA Euro qualification,Paris,France,FALSE
+2019-09-07,Turkey,Andorra,1,0,UEFA Euro qualification,Istanbul,Turkey,FALSE
+2019-09-08,Kenya,Uganda,1,1,Friendly,Nairobi,Kenya,FALSE
+2019-09-08,Switzerland,Gibraltar,4,0,UEFA Euro qualification,Sion,Switzerland,FALSE
+2019-09-08,Georgia,Denmark,0,0,UEFA Euro qualification,Tbilisi,Georgia,FALSE
+2019-09-08,Romania,Malta,1,0,UEFA Euro qualification,Ploiești,Romania,FALSE
+2019-09-08,Spain,Faroe Islands,4,0,UEFA Euro qualification,Gijon,Egypt,TRUE
+2019-09-08,Sweden,Norway,1,1,UEFA Euro qualification,Stockholm,Sweden,FALSE
+2019-09-08,Armenia,Bosnia and Herzegovina,4,2,UEFA Euro qualification,Yerevan,Armenia,FALSE
+2019-09-08,Finland,Italy,1,2,UEFA Euro qualification,Tampere,Finland,FALSE
+2019-09-08,Greece,Liechtenstein,1,1,UEFA Euro qualification,Athens,Greece,FALSE
+2019-09-09,Algeria,Benin,1,0,Friendly,Algiers,Algeria,FALSE
+2019-09-09,Iraq,Uzbekistan,0,0,Friendly,Amman,Jordan,TRUE
+2019-09-09,Wales,Belarus,1,0,Friendly,Cardiff,Wales,FALSE
+2019-09-09,Northern Ireland,Germany,0,2,UEFA Euro qualification,Belfast,Northern Ireland,FALSE
+2019-09-09,Estonia,Netherlands,0,4,UEFA Euro qualification,Tallinn,Estonia,FALSE
+2019-09-09,Azerbaijan,Croatia,1,1,UEFA Euro qualification,Baku,Azerbaijan,FALSE
+2019-09-09,Hungary,Slovakia,1,2,UEFA Euro qualification,Budapest,Hungary,FALSE
+2019-09-09,Poland,Austria,0,0,UEFA Euro qualification,Warsaw,Poland,FALSE
+2019-09-09,Slovenia,Israel,3,2,UEFA Euro qualification,Ljubljana,Slovenia,FALSE
+2019-09-09,Latvia,North Macedonia,0,2,UEFA Euro qualification,Riga,Latvia,FALSE
+2019-09-09,Scotland,Belgium,0,4,UEFA Euro qualification,Glasgow,Scotland,FALSE
+2019-09-09,Russia,Kazakhstan,1,0,UEFA Euro qualification,Kaliningrad,Russia,FALSE
+2019-09-09,San Marino,Cyprus,0,4,UEFA Euro qualification,Serravalle,San Marino,FALSE
+2019-09-10,Argentina,Mexico,4,0,Friendly,San Antonio,United States,TRUE
+2019-09-10,Brazil,Peru,0,1,Friendly,Los Angeles,United States,TRUE
+2019-09-10,Colombia,Venezuela,0,0,Friendly,Tampa,United States,TRUE
+2019-09-10,Ecuador,Bolivia,3,0,Friendly,Cuenca,Ecuador,FALSE
+2019-09-10,Honduras,Chile,2,1,Friendly,San Pedro Sula,Honduras,FALSE
+2019-09-10,Ivory Coast,Tunisia,2,1,Friendly,Rouen,France,TRUE
+2019-09-10,Jordan,Paraguay,2,4,Friendly,Amman,Jordan,FALSE
+2019-09-10,Morocco,Niger,1,0,Friendly,Marrakech,Morocco,FALSE
+2019-09-10,Oman,Lebanon,1,0,Friendly,Muscat,Oman,FALSE
+2019-09-10,Republic of Ireland,Bulgaria,3,1,Friendly,Dublin,Republic of Ireland,FALSE
+2019-09-10,Ukraine,Nigeria,2,2,Friendly,Dnipro,Egypt,TRUE
+2019-09-10,United States,Uruguay,1,1,Friendly,St Louis,Egypt,TRUE
+2019-09-10,England,Kosovo,5,3,UEFA Euro qualification,London,England,FALSE
+2019-09-10,Montenegro,Czech Republic,0,3,UEFA Euro qualification,Podgorica,Montenegro,FALSE
+2019-09-10,Luxembourg,Serbia,1,3,UEFA Euro qualification,Luxembourg City,Luxembourg,FALSE
+2019-09-10,Lithuania,Portugal,1,5,UEFA Euro qualification,Vilnius,Lithuania,FALSE
+2019-09-10,Albania,Iceland,4,2,UEFA Euro qualification,Elbasan,Albania,FALSE
+2019-09-10,France,Andorra,3,0,UEFA Euro qualification,Paris,France,FALSE
+2019-09-10,Moldova,Turkey,0,4,UEFA Euro qualification,Chișinău,Moldova,FALSE
+2019-09-18,DR Congo,Rwanda,2,3,Friendly,Kinshasa,DR Congo,TRUE
+2019-09-29,Bangladesh,Bhutan,4,1,Friendly,Dhaka,Bangladesh,FALSE
+2019-09-30,Botswana,Liberia,0,0,Friendly,Gaborone,Botswana,FALSE
