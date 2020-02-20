@@ -41572,3 +41572,16 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-12-05,Iraq,Bahrain,2,2,Gulf Cup,Doha,Qatar,TRUE
 2019-12-05,Qatar,Saudi Arabia,0,1,Gulf Cup,Al Wakrah,Qatar,FALSE
 2019-12-08,Bahrain,Saudi Arabia,1,0,Gulf Cup,Doha,Qatar,TRUE
+2019-12-10,China PR,Japan,1,2,EAFF Championship,Busan,South Korea,TRUE
+2019-12-11,South Korea,Hong Kong,2,0,EAFF Championship,Busan,South Korea,FALSE
+2019-12-14,Japan,Hong Kong,5,0,EAFF Championship,Busan,South Korea,TRUE
+2019-12-15,South Korea,China PR,1,0,EAFF Championship,Busan,South Korea,FALSE
+2019-12-18,Hong Kong,China PR,0,2,EAFF Championship,Busan,South Korea,TRUE
+2019-12-18,South Korea,Japan,1,0,EAFF Championship,Busan,South Korea,FALSE
+2020-01-07,Barbados,Canada,1,4,Friendly,Irvine,United States,TRUE
+2020-01-09,Moldova,Sweden,0,1,Friendly,Doha,Qatar,TRUE
+2020-01-10,Barbados,Canada,1,4,Friendly,Irvine,United States,TRUE
+2020-01-12,Kosovo,Sweden,0,1,Friendly,Doha,Qatar,TRUE
+2020-01-15,Canada,Iceland,0,1,Friendly,Irvine,United States,TRUE
+2020-01-19,El Salvador,Iceland,0,1,Friendly,Carson,United States,TRUE
+2020-02-01,United States,Costa Rica,1,0,Friendly,Carson,United States,FALSE
