@@ -41585,3 +41585,263 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2020-01-15,Canada,Iceland,0,1,Friendly,Irvine,United States,TRUE
 2020-01-19,El Salvador,Iceland,0,1,Friendly,Carson,United States,TRUE
 2020-02-01,United States,Costa Rica,1,0,Friendly,Carson,United States,FALSE
+2020-09-03,Germany,Spain,1,1,UEFA Nations League,Stuttgart,Germany,FALSE
+2020-09-03,Ukraine,Switzerland,2,1,UEFA Nations League,Lviv,Ukraine,FALSE
+2020-09-03,Russia,Serbia,3,1,UEFA Nations League,Moscow,Russia,FALSE
+2020-09-03,Turkey,Hungary,0,1,UEFA Nations League,Sivas,Turkey,FALSE
+2020-09-03,Bulgaria,Republic of Ireland,1,1,UEFA Nations League,Sofia,Bulgaria,FALSE
+2020-09-03,Finland,Wales,0,1,UEFA Nations League,Helsinki,Finland,FALSE
+2020-09-03,Moldova,Kosovo,1,1,UEFA Nations League,Parma,Italy,TRUE
+2020-09-03,Slovenia,Greece,0,0,UEFA Nations League,Ljubljana,Slovenia,FALSE
+2020-09-03,Latvia,Andorra,0,0,UEFA Nations League,Riga,Latvia,FALSE
+2020-09-03,Faroe Islands,Malta,3,2,UEFA Nations League,Tórshavn,Faroe Islands,FALSE
+2020-09-04,Italy,Bosnia and Herzegovina,1,1,UEFA Nations League,Florence,Italy,FALSE
+2020-09-04,Netherlands,Poland,1,0,UEFA Nations League,Amsterdam,Netherlands,FALSE
+2020-09-04,Norway,Austria,1,2,UEFA Nations League,Oslo,Norway,FALSE
+2020-09-04,Romania,Northern Ireland,1,1,UEFA Nations League,Bucharest,Romania,FALSE
+2020-09-04,Scotland,Israel,1,1,UEFA Nations League,Glasgow,Scotland,FALSE
+2020-09-04,Slovakia,Czech Republic,1,3,UEFA Nations League,Bratislava,Slovakia,FALSE
+2020-09-04,Lithuania,Kazakhstan,0,2,UEFA Nations League,Vilnius,Lithuania,FALSE
+2020-09-04,Belarus,Albania,0,2,UEFA Nations League,Minsk,Belarus,FALSE
+2020-09-05,Iceland,England,0,1,UEFA Nations League,Reykjavík,Iceland,FALSE
+2020-09-05,Denmark,Belgium,0,2,UEFA Nations League,Copenhagen,Denmark,FALSE
+2020-09-05,Portugal,Croatia,4,1,UEFA Nations League,Porto,Portugal,FALSE
+2020-09-05,Sweden,France,0,1,UEFA Nations League,Stockholm,Sweden,FALSE
+2020-09-05,Cyprus,Montenegro,0,2,UEFA Nations League,Nicosia,Cyprus,FALSE
+2020-09-05,Azerbaijan,Luxembourg,1,2,UEFA Nations League,Baku,Azerbaijan,FALSE
+2020-09-05,North Macedonia,Armenia,2,1,UEFA Nations League,Skopje,North Macedonia,FALSE
+2020-09-05,Estonia,Georgia,0,1,UEFA Nations League,Tallinn,Estonia,FALSE
+2020-09-05,Gibraltar,San Marino,1,0,UEFA Nations League,Gibraltar,Gibraltar,FALSE
+2020-09-06,Spain,Ukraine,4,0,UEFA Nations League,Madrid,Spain,FALSE
+2020-09-06,Switzerland,Germany,1,1,UEFA Nations League,Basel,Switzerland,FALSE
+2020-09-06,Hungary,Russia,2,3,UEFA Nations League,Budapest,Hungary,FALSE
+2020-09-06,Serbia,Turkey,0,0,UEFA Nations League,Belgrade,Serbia,FALSE
+2020-09-06,Wales,Bulgaria,1,0,UEFA Nations League,Cardiff,Wales,FALSE
+2020-09-06,Republic of Ireland,Finland,0,1,UEFA Nations League,Dublin,Republic of Ireland,FALSE
+2020-09-06,Slovenia,Moldova,1,0,UEFA Nations League,Ljubljana,Slovenia,FALSE
+2020-09-06,Kosovo,Greece,1,2,UEFA Nations League,Pristina,Kosovo,FALSE
+2020-09-06,Andorra,Faroe Islands,0,1,UEFA Nations League,Andorra la Vella,Andorra,FALSE
+2020-09-06,Malta,Latvia,1,1,UEFA Nations League,Attard,Malta,FALSE
+2020-09-07,Bosnia and Herzegovina,Poland,1,2,UEFA Nations League,Zenica,Bosnia and Herzegovina,FALSE
+2020-09-07,Netherlands,Italy,0,1,UEFA Nations League,Amsterdam,Netherlands,FALSE
+2020-09-07,Northern Ireland,Norway,1,5,UEFA Nations League,Belfast,Northern Ireland,FALSE
+2020-09-07,Austria,Romania,2,3,UEFA Nations League,Klagenfurt,Austria,FALSE
+2020-09-07,Czech Republic,Scotland,1,2,UEFA Nations League,Olomouc,Czech Republic,FALSE
+2020-09-07,Israel,Slovakia,1,1,UEFA Nations League,Netanya,Israel,FALSE
+2020-09-07,Kazakhstan,Belarus,1,2,UEFA Nations League,Almaty,Kazakhstan,FALSE
+2020-09-07,Albania,Lithuania,0,1,UEFA Nations League,Tirana,Albania,FALSE
+2020-09-08,Belgium,Iceland,5,1,UEFA Nations League,Brussels,Belgium,FALSE
+2020-09-08,Denmark,England,0,0,UEFA Nations League,Copenhagen,Denmark,FALSE
+2020-09-08,France,Croatia,4,2,UEFA Nations League,Paris,France,FALSE
+2020-09-08,Sweden,Portugal,0,2,UEFA Nations League,Stockholm,Sweden,FALSE
+2020-09-08,Luxembourg,Montenegro,0,1,UEFA Nations League,Luxembourg City,Luxembourg,FALSE
+2020-09-08,Cyprus,Azerbaijan,0,1,UEFA Nations League,Nicosia,Cyprus,FALSE
+2020-09-08,Armenia,Estonia,2,0,UEFA Nations League,Yerevan,Armenia,FALSE
+2020-09-08,Georgia,North Macedonia,1,1,UEFA Nations League,Tbilisi,Georgia,FALSE
+2020-09-08,San Marino,Liechtenstein,0,2,UEFA Nations League,Rimini,Italy,TRUE
+2020-10-06,Nicaragua,Guatemala,0,0,Friendly,Managua,Nicaragua,FALSE
+2020-10-07,Andorra,Cape Verde,1,2,Friendly,Andorra la Vella,Andorra,FALSE
+2020-10-07,Austria,Greece,2,1,Friendly,Klagenfurt,Austria,FALSE
+2020-10-07,Cyprus,Czech Republic,1,2,Friendly,Larnaca,Cyprus,FALSE
+2020-10-07,Denmark,Faroe Islands,4,0,Friendly,Herning,Denmark,FALSE
+2020-10-07,Estonia,Lithuania,1,3,Friendly,Tallinn,Estonia,FALSE
+2020-10-07,France,Ukraine,7,1,Friendly,Paris,France,FALSE
+2020-10-07,Germany,Turkey,3,3,Friendly,Cologne,Germany,FALSE
+2020-10-07,Italy,Moldova,6,0,Friendly,Florence,Italy,FALSE
+2020-10-07,Luxembourg,Liechtenstein,1,2,Friendly,Luxembourg City,Luxembourg,FALSE
+2020-10-07,Malta,Gibraltar,2,0,Friendly,Ta'Qali,Malta,FALSE
+2020-10-07,Montenegro,Latvia,1,1,Friendly,Podgorica,Montenegro,FALSE
+2020-10-07,Netherlands,Mexico,0,1,Friendly,Amsterdam,Netherlands,FALSE
+2020-10-07,Poland,Finland,5,1,Friendly,Gdańsk,Poland,FALSE
+2020-10-07,Portugal,Spain,0,0,Friendly,Lisbon,Portugal,FALSE
+2020-10-07,Slovenia,San Marino,4,0,Friendly,Ljubljana,Slovenia,FALSE
+2020-10-07,Switzerland,Croatia,1,2,Friendly,St Gallen,Switzerland,FALSE
+2020-10-07,Zambia,Malawi,1,0,Friendly,Lusaka,Zambia,FALSE
+2020-10-08,Belgium,Ivory Coast,1,1,Friendly,Brussels,Belgium,FALSE
+2020-10-08,England,Wales,3,0,Friendly,London,England,FALSE
+2020-10-08,Russia,Sweden,1,2,Friendly,Moscow,Russia,FALSE
+2020-10-08,South Africa,Namibia,1,1,Friendly,Rustenberg,South Africa,FALSE
+2020-10-08,Uzbekistan,Iran,1,2,Friendly,Tashkent,Uzbekistan,FALSE
+2020-10-09,Burkina Faso,Congo DR,3,0,Friendly,Mohammedia,Morocco,TRUE
+2020-10-09,Congo,Gambia,0,1,Friendly,Parchal,Portugal,TRUE
+2020-10-09,Japan,Cameroon,0,0,Friendly,Utrecht,Netherlands,TRUE
+2020-10-09,Kenya,Zambia,2,1,Friendly,Nairobi,Kenya,FALSE
+2020-10-09,Mali,Ghana,3,0,Friendly,Antalya,Turkey,TRUE
+2020-10-09,Mauritania,Sierra Leone,2,1,Friendly,Nouakchott,Mauritania,FALSE
+2020-10-09,Morocco,Senegal,3,1,Friendly,Rabat,Morocco,FALSE
+2020-10-09,Nigeria,Algeria,0,1,Friendly,Klagenfurt,Austria,TRUE
+2020-10-09,Tunisia,Sudan,3,0,Friendly,Radès,Tunisia,FALSE
+2020-10-10,Spain,Switzerland,1,0,UEFA Nations League,Madrid,Spain,FALSE
+2020-10-10,Ukraine,Germany,1,2,UEFA Nations League,Kiev,Ukraine,FALSE
+2020-10-10,Luxembourg,Cyprus,2,0,UEFA Nations League,Luxembourg City,Luxembourg,FALSE
+2020-10-10,Montenegro,Azerbaijan,2,0,UEFA Nations League,Podgorica,Montenegro,FALSE
+2020-10-10,Faroe Islands,Latvia,1,1,UEFA Nations League,Tórshavn,Faroe Islands,FALSE
+2020-10-10,Andorra,Malta,0,0,UEFA Nations League,Andorra la Vella,Andorra,FALSE
+2020-10-10,Liechtenstein,Gibraltar,0,1,UEFA Nations League,Vaduz,Liechtenstein,FALSE
+2020-10-10,Cameroon,South Sudan,0,0,Friendly,Yaoundé,Cameroon,FALSE
+2020-10-10,Cape Verde,Guinea,1,2,Friendly,Faro-Loulé,Portugal,TRUE
+2020-10-10,Costa Rica,Panama,0,1,Friendly,San José,Costa Rica,FALSE
+2020-10-10,Costa Rica,Panama,0,1,Friendly,San José,Jamaica,TRUE
+2020-10-10,Honduras,Nicaragua,1,1,Friendly,Comayagua,Honduras,FALSE
+2020-10-10,Niger,Chad,2,0,Friendly,Niamey,Niger,FALSE
+2020-10-11,Bosnia and Herzegovina,Netherlands,0,0,UEFA Nations League,Zenica,Bosnia and Herzegovina,FALSE
+2020-10-11,Poland,Italy,0,0,UEFA Nations League,Gdańsk,Poland,FALSE
+2020-10-11,England,Belgium,2,1,UEFA Nations League,London,England,FALSE
+2020-10-11,Iceland,Denmark,0,3,UEFA Nations League,Reykjavík,Iceland,FALSE
+2020-10-11,Croatia,Sweden,2,1,UEFA Nations League,Zagreb,Croatia,FALSE
+2020-10-11,France,Portugal,0,0,UEFA Nations League,Paris,France,FALSE
+2020-10-11,Norway,Romania,4,0,UEFA Nations League,Oslo,Norway,FALSE
+2020-10-11,Northern Ireland,Austria,0,1,UEFA Nations League,Belfast,Northern Ireland,FALSE
+2020-10-11,Scotland,Slovakia,1,0,UEFA Nations League,Glasgow,Scotland,FALSE
+2020-10-11,Israel,Czech Republic,1,2,UEFA Nations League,Haifa,Israel,FALSE
+2020-10-11,Serbia,Hungary,0,1,UEFA Nations League,Belgrade,Serbia,FALSE
+2020-10-11,Russia,Turkey,1,1,UEFA Nations League,Moscow,Russia,FALSE
+2020-10-11,Republic of Ireland,Wales,0,0,UEFA Nations League,Dublin,Republic of Ireland,FALSE
+2020-10-11,Finland,Bulgaria,2,0,UEFA Nations League,Helsinki,Finland,FALSE
+2020-10-11,Armenia,Georgia,2,2,UEFA Nations League,Tychy,Poland,TRUE
+2020-10-11,Estonia,North Macedonia,3,3,UEFA Nations League,Tallinn,Estonia,FALSE
+2020-10-11,Kosovo,Slovenia,0,1,UEFA Nations League,Pristina,Kosovo,FALSE
+2020-10-11,Greece,Moldova,2,0,UEFA Nations League,Athens,Greece,FALSE
+2020-10-11,Kazakhstan,Albania,0,0,UEFA Nations League,Almaty,Kazakhstan,FALSE
+2020-10-11,Lithuania,Belarus,2,2,UEFA Nations League,Vilnius,Lithuania,FALSE
+2020-10-11,Gabon,Benin,0,2,Friendly,Lisbon,Portugal,TRUE
+2020-10-11,Malawi,Zimbabwe,0,0,Friendly,Blantyre,Malawi,FALSE
+2020-10-11,South Africa,Zambia,1,2,Friendly,Rustenberg,South Africa,FALSE
+2020-10-11,Tanzania,Burundi,0,1,Friendly,Dar es Salaam,Tanzania,FALSE
+2020-10-12,Burkina Faso,Madagascar,2,1,Friendly,El Jadida,Morocco,TRUE
+2020-10-12,Ghana,Qatar,5,1,Friendly,Aksu,Turkey,TRUE
+2020-10-12,Togo,Sudan,1,1,Friendly,Tunis,Tunisia,TRUE
+2020-10-12,United Arab Emirates,Uzbekistan,1,2,Friendly,Dubai,United Arab Emirates,FALSE
+2020-10-13,Germany,Switzerland,3,3,UEFA Nations League,Cologne,Germany,FALSE
+2020-10-13,Ukraine,Spain,1,0,UEFA Nations League,Kiev,Ukraine,FALSE
+2020-10-13,Azerbaijan,Cyprus,0,0,UEFA Nations League,Elbasan,Albania,TRUE
+2020-10-13,Montenegro,Luxembourg,1,2,UEFA Nations League,Podgorica,Montenegro,FALSE
+2020-10-13,Latvia,Malta,0,1,UEFA Nations League,Riga,Latvia,FALSE
+2020-10-13,Faroe Islands,Andorra,2,0,UEFA Nations League,Tórshavn,Faroe Islands,FALSE
+2020-10-13,Liechtenstein,San Marino,0,0,UEFA Nations League,Vaduz,Liechtenstein,FALSE
+2020-10-13,Costa Rica,Panama,0,1,Friendly,San José,Costa Rica,FALSE
+2020-10-13,Costa Rica,Panama,0,1,Friendly,San José,Jamaica,TRUE
+2020-10-13,Japan,Ivory Coast,1,0,Friendly,Utrecht,Netherlands,TRUE
+2020-10-13,Mexico,Algeria,2,2,Friendly,The Hague,Netherlands,TRUE
+2020-10-13,Morocco,Congo DR,1,1,Friendly,Rabat,Morocco,FALSE
+2020-10-13,Mozambique,Angola,0,3,Friendly,Rio Maior,Portugal,TRUE
+2020-10-13,Niger,Sierra Leone,1,0,Friendly,Niamey,Niger,FALSE
+2020-10-13,Nigeria,Tunisia,1,1,Friendly,Sankt Veit an der Glan,Austria,TRUE
+2020-10-14,Italy,Netherlands,1,1,UEFA Nations League,Bergamo,Italy,FALSE
+2020-10-14,Poland,Bosnia and Herzegovina,3,0,UEFA Nations League,Wrocław,Poland,FALSE
+2020-10-14,Iceland,Belgium,1,2,UEFA Nations League,Reykjavík,Iceland,FALSE
+2020-10-14,England,Denmark,0,1,UEFA Nations League,London,England,FALSE
+2020-10-14,Portugal,Sweden,3,0,UEFA Nations League,Lisbon,Portugal,FALSE
+2020-10-14,Croatia,France,1,2,UEFA Nations League,Zagreb,Croatia,FALSE
+2020-10-14,Norway,Northern Ireland,1,0,UEFA Nations League,Oslo,Norway,FALSE
+2020-10-14,Romania,Austria,0,1,UEFA Nations League,Ploiești,Romania,FALSE
+2020-10-14,Scotland,Czech Republic,1,0,UEFA Nations League,Glasgow,Scotland,FALSE
+2020-10-14,Slovakia,Israel,2,3,UEFA Nations League,Trnava,Slovakia,FALSE
+2020-10-14,Russia,Hungary,0,0,UEFA Nations League,Moscow,Russia,FALSE
+2020-10-14,Turkey,Serbia,2,2,UEFA Nations League,Istanbul,Turkey,FALSE
+2020-10-14,Finland,Republic of Ireland,1,0,UEFA Nations League,Helsinki,Finland,FALSE
+2020-10-14,Bulgaria,Wales,0,1,UEFA Nations League,Sofia,Bulgaria,FALSE
+2020-10-14,North Macedonia,Georgia,1,1,UEFA Nations League,Skopje,North Macedonia,FALSE
+2020-10-14,Estonia,Armenia,1,1,UEFA Nations League,Tallinn,Estonia,FALSE
+2020-10-14,Greece,Kosovo,0,0,UEFA Nations League,Athens,Greece,FALSE
+2020-10-14,Moldova,Slovenia,0,4,UEFA Nations League,Chișinău,Moldova,FALSE
+2020-10-14,Lithuania,Albania,0,0,UEFA Nations League,Vilnius,Lithuania,FALSE
+2020-10-14,Belarus,Kazakhstan,2,0,UEFA Nations League,Minsk,Belarus,FALSE
+2020-11-06,Ethiopia,Sudan,2,2,Friendly,Addis Ababa,Ethiopia,FALSE
+2020-11-07,Bahrain,Tajikistan,1,0,Friendly,Dubai,United Arab Emirates,TRUE
+2020-11-11,Albania,Kosovo,2,1,Friendly,Elbasan,Albania,FALSE
+2020-11-11,Belgium,Switzerland,2,1,Friendly,Leuven,Belgium,FALSE
+2020-11-11,Bulgaria,Gibraltar,3,0,Friendly,Sofia,Bulgaria,FALSE
+2020-11-11,Denmark,Sweden,2,0,Friendly,Brondbyvester,Denmark,FALSE
+2020-11-11,France,Finland,0,2,Friendly,Paris,France,FALSE
+2020-11-11,Germany,Czech Republic,1,0,Friendly,Leipzig,Germany,FALSE
+2020-11-11,Greece,Cyprus,2,1,Friendly,Athens,Greece,FALSE
+2020-11-11,Italy,Estonia,4,0,Friendly,Florence,Italy,FALSE
+2020-11-11,Lithuania,Faroe Islands,2,1,Friendly,Vilnius,Lithuania,FALSE
+2020-11-11,Luxembourg,Austria,0,3,Friendly,Luxembourg City,Luxembourg,FALSE
+2020-11-11,Malta,Liechtenstein,3,0,Friendly,Ta'Qali,Malta,FALSE
+2020-11-11,Montenegro,Kazakhstan,0,0,Friendly,Podgorica,Montenegro,FALSE
+2020-11-11,Netherlands,Spain,1,1,Friendly,Amsterdam,Netherlands,FALSE
+2020-11-11,Poland,Ukraine,2,0,Friendly,Chorzow,Poland,FALSE
+2020-11-11,Portugal,Andorra,7,0,Friendly,Lisbon,Portugal,FALSE
+2020-11-11,Romania,Belarus,5,3,Friendly,Ploiești,Romania,FALSE
+2020-11-11,San Marino,Latvia,0,3,Friendly,Serravalle,San Marino,FALSE
+2020-11-11,Slovenia,Azerbaijan,0,0,Friendly,Ljubljana,Slovenia,FALSE
+2020-11-11,Turkey,Croatia,3,3,Friendly,Istanbul,Turkey,FALSE
+2020-11-12,Bosnia and Herzegovina,Iran,0,2,Friendly,Sarajevo,Bosnia and Herzegovina,FALSE
+2020-11-12,England,Republic of Ireland,3,0,Friendly,London,England,FALSE
+2020-11-12,Jordan,Iraq,0,0,Friendly,Dubai,United Arab Emirates,TRUE
+2020-11-12,Lebanon,Bahrain,1,3,Friendly,Dubai,United Arab Emirates,TRUE
+2020-11-12,Moldova,Russia,0,0,Friendly,Chișinău,Moldova,FALSE
+2020-11-12,United Arab Emirates,Tajikistan,3,2,Friendly,Dubai,United Arab Emirates,FALSE
+2020-11-12,Uzbekistan,Syria,0,1,Friendly,Sharjah,United Arab Emirates,TRUE
+2020-11-12,Wales,United States,0,0,Friendly,Cardiff,Wales,FALSE
+2020-11-13,Bangladesh,Nepal,2,0,Friendly,Dhaka,Bangladesh,FALSE
+2020-11-13,Costa Rica,Qatar,1,1,Friendly,Maria Enzersdorf,Austria,TRUE
+2020-11-13,Japan,Panama,1,0,Friendly,Graz,Austria,TRUE
+2020-11-14,Portugal,France,0,1,UEFA Nations League,Lisbon,Portugal,FALSE
+2020-11-14,Sweden,Croatia,2,1,UEFA Nations League,Stockholm,Sweden,FALSE
+2020-11-14,Germany,Ukraine,3,1,UEFA Nations League,Leipzig,Germany,FALSE
+2020-11-14,Switzerland,Spain,1,1,UEFA Nations League,Basel,Switzerland,FALSE
+2020-11-14,Azerbaijan,Montenegro,0,0,UEFA Nations League,Zaprešić,Croatia,TRUE
+2020-11-14,Cyprus,Luxembourg,2,1,UEFA Nations League,Nicosia,Cyprus,FALSE
+2020-11-14,Malta,Andorra,3,1,UEFA Nations League,Ta'Qali,Malta,FALSE
+2020-11-14,Latvia,Faroe Islands,1,1,UEFA Nations League,Riga,Latvia,FALSE
+2020-11-14,San Marino,Gibraltar,0,0,UEFA Nations League,Serravalle,San Marino,FALSE
+2020-11-14,Mexico,South Korea,3,2,Friendly,Wiener Neustadt,Austria,TRUE
+2020-11-14,Saudi Arabia,Jamaica,3,0,Friendly,Riyadh,Saudi Arabia,FALSE
+2020-11-15,Netherlands,Bosnia and Herzegovina,3,1,UEFA Nations League,Amsterdam,Netherlands,FALSE
+2020-11-15,Italy,Poland,2,0,UEFA Nations League,Reggio Emilia,Italy,FALSE
+2020-11-15,Belgium,England,2,0,UEFA Nations League,Leuven,Belgium,FALSE
+2020-11-15,Denmark,Iceland,2,1,UEFA Nations League,Copenhagen,Denmark,FALSE
+2020-11-15,Austria,Northern Ireland,2,1,UEFA Nations League,Vienna,Austria,FALSE
+2020-11-15,Romania,Norway,3,0,UEFA Nations League,Bucharest,Romania,FALSE
+2020-11-15,Slovakia,Scotland,1,0,UEFA Nations League,Trnava,Slovakia,FALSE
+2020-11-15,Czech Republic,Israel,1,0,UEFA Nations League,Plzeň,Czech Republic,FALSE
+2020-11-15,Turkey,Russia,3,2,UEFA Nations League,Istanbul,Turkey,FALSE
+2020-11-15,Hungary,Serbia,1,1,UEFA Nations League,Budapest,Hungary,FALSE
+2020-11-15,Wales,Republic of Ireland,1,0,UEFA Nations League,Cardiff,Wales,FALSE
+2020-11-15,Bulgaria,Finland,1,2,UEFA Nations League,Sofia,Bulgaria,FALSE
+2020-11-15,North Macedonia,Estonia,2,1,UEFA Nations League,Skopje,North Macedonia,FALSE
+2020-11-15,Georgia,Armenia,1,2,UEFA Nations League,Tbilisi,Georgia,FALSE
+2020-11-15,Slovenia,Kosovo,2,1,UEFA Nations League,Ljubljana,Slovenia,FALSE
+2020-11-15,Moldova,Greece,0,2,UEFA Nations League,Chișinău,Moldova,FALSE
+2020-11-15,Albania,Kazakhstan,3,1,UEFA Nations League,Tirana,Albania,FALSE
+2020-11-15,Belarus,Lithuania,2,0,UEFA Nations League,Minsk,Belarus,FALSE
+2020-11-15,Guatemala,Honduras,2,1,Friendly,Guatemala City,Guatemala,FALSE
+2020-11-16,Jordan,Syria,1,0,Friendly,Sharjah,United Arab Emirates,TRUE
+2020-11-16,United Arab Emirates,Bahrain,1,0,Friendly,Dubai,United Arab Emirates,FALSE
+2020-11-16,United States,Panama,6,2,Friendly,Wiener Neustadt,Austria,TRUE
+2020-11-17,Croatia,Portugal,2,3,UEFA Nations League,Split,Croatia,FALSE
+2020-11-17,France,Sweden,4,2,UEFA Nations League,Paris,France,FALSE
+2020-11-17,Spain,Germany,6,0,UEFA Nations League,Seville,Spain,FALSE
+2020-11-17,Switzerland,Ukraine,3,0,UEFA Nations League,Lucerne,Switzerland,FALSE
+2020-11-17,Luxembourg,Azerbaijan,0,0,UEFA Nations League,Luxembourg City,Luxembourg,FALSE
+2020-11-17,Montenegro,Cyprus,4,0,UEFA Nations League,Podgorica,Montenegro,FALSE
+2020-11-17,Andorra,Latvia,0,5,UEFA Nations League,Andorra la Vella,Andorra,FALSE
+2020-11-17,Malta,Faroe Islands,1,1,UEFA Nations League,Ta'Qali,Malta,FALSE
+2020-11-17,Gibraltar,Liechtenstein,1,1,UEFA Nations League,Gibraltar,Gibraltar,FALSE
+2020-11-17,Bangladesh,Nepal,0,0,Friendly,Dhaka,Bangladesh,FALSE
+2020-11-17,Japan,Mexico,0,2,Friendly,Graz,Austria,TRUE
+2020-11-17,South Korea,Qatar,2,1,Friendly,Maria Enzersdorf,Austria,TRUE
+2020-11-17,Saudi Arabia,Jamaica,1,2,Friendly,Riyadh,Saudi Arabia,FALSE
+2020-11-17,Uzbekistan,Iraq,1,2,Friendly,Dubai,United Arab Emirates,TRUE
+2020-11-18,Bosnia and Herzegovina,Italy,0,2,UEFA Nations League,Sarajevo,Bosnia and Herzegovina,FALSE
+2020-11-18,Poland,Netherlands,1,2,UEFA Nations League,Chorzów,Poland,FALSE
+2020-11-18,England,Iceland,4,0,UEFA Nations League,London,England,FALSE
+2020-11-18,Belgium,Denmark,4,2,UEFA Nations League,Leuven,Belgium,FALSE
+2020-11-18,Northern Ireland,Romania,1,1,UEFA Nations League,Belfast,Northern Ireland,FALSE
+2020-11-18,Austria,Norway,1,1,UEFA Nations League,Vienna,Austria,FALSE
+2020-11-18,Czech Republic,Slovakia,2,0,UEFA Nations League,Plzeň,Czech Republic,FALSE
+2020-11-18,Israel,Scotland,1,0,UEFA Nations League,Netanya,Israel,FALSE
+2020-11-18,Hungary,Turkey,2,0,UEFA Nations League,Budapest,Hungary,FALSE
+2020-11-18,Serbia,Russia,5,0,UEFA Nations League,Belgrade,Serbia,FALSE
+2020-11-18,Republic of Ireland,Bulgaria,0,0,UEFA Nations League,Dublin,Republic of Ireland,FALSE
+2020-11-18,Wales,Finland,3,1,UEFA Nations League,Cardiff,Wales,FALSE
+2020-11-18,Armenia,North Macedonia,1,0,UEFA Nations League,Nicosia,Cyprus,TRUE
+2020-11-18,Georgia,Estonia,0,0,UEFA Nations League,Tbilisi,Georgia,FALSE
+2020-11-18,Kosovo,Moldova,1,0,UEFA Nations League,Pristina,Kosovo,FALSE
+2020-11-18,Greece,Slovenia,0,0,UEFA Nations League,Athens,Greece,FALSE
+2020-11-18,Albania,Belarus,3,2,UEFA Nations League,Tirana,Albania,FALSE
+2020-11-18,Kazakhstan,Lithuania,1,2,UEFA Nations League,Almaty,Kazakhstan,FALSE
+2020-12-09,United States,El Salvador,6,0,Friendly,Fort Lauderdale,United States,FALSE
