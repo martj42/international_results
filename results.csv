@@ -41681,7 +41681,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2020-10-10,Cameroon,South Sudan,0,0,Friendly,Yaoundé,Cameroon,FALSE
 2020-10-10,Cape Verde,Guinea,1,2,Friendly,Faro-Loulé,Portugal,TRUE
 2020-10-10,Costa Rica,Panama,0,1,Friendly,San José,Costa Rica,FALSE
-2020-10-10,Costa Rica,Panama,0,1,Friendly,San José,Jamaica,TRUE
 2020-10-10,Honduras,Nicaragua,1,1,Friendly,Comayagua,Honduras,FALSE
 2020-10-10,Niger,Chad,2,0,Friendly,Niamey,Niger,FALSE
 2020-10-11,Bosnia and Herzegovina,Netherlands,0,0,UEFA Nations League,Zenica,Bosnia and Herzegovina,FALSE
@@ -41720,7 +41719,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2020-10-13,Faroe Islands,Andorra,2,0,UEFA Nations League,Tórshavn,Faroe Islands,FALSE
 2020-10-13,Liechtenstein,San Marino,0,0,UEFA Nations League,Vaduz,Liechtenstein,FALSE
 2020-10-13,Costa Rica,Panama,0,1,Friendly,San José,Costa Rica,FALSE
-2020-10-13,Costa Rica,Panama,0,1,Friendly,San José,Jamaica,TRUE
 2020-10-13,Japan,Ivory Coast,1,0,Friendly,Utrecht,Netherlands,TRUE
 2020-10-13,Mexico,Algeria,2,2,Friendly,The Hague,Netherlands,TRUE
 2020-10-13,Morocco,Congo DR,1,1,Friendly,Rabat,Morocco,FALSE
