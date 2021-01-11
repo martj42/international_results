@@ -41662,6 +41662,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2020-10-08,Russia,Sweden,1,2,Friendly,Moscow,Russia,FALSE
 2020-10-08,South Africa,Namibia,1,1,Friendly,Rustenberg,South Africa,FALSE
 2020-10-08,Uzbekistan,Iran,1,2,Friendly,Tashkent,Uzbekistan,FALSE
+2020-10-08,Paraguay,Peru,2,2,FIFA World Cup qualification,Asunción,Paraguay,FALSE
+2020-10-08,Uruguay,Chile,2,1,FIFA World Cup qualification,Montevideo,Uruguay,FALSE
+2020-10-08,Argentina,Ecuador,1,0,FIFA World Cup qualification,Buenos Aires,Argentina,FALSE
 2020-10-09,Burkina Faso,Congo DR,3,0,Friendly,Mohammedia,Morocco,TRUE
 2020-10-09,Congo,Gambia,0,1,Friendly,Parchal,Portugal,TRUE
 2020-10-09,Japan,Cameroon,0,0,Friendly,Utrecht,Netherlands,TRUE
@@ -41671,6 +41674,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2020-10-09,Morocco,Senegal,3,1,Friendly,Rabat,Morocco,FALSE
 2020-10-09,Nigeria,Algeria,0,1,Friendly,Klagenfurt,Austria,TRUE
 2020-10-09,Tunisia,Sudan,3,0,Friendly,Radès,Tunisia,FALSE
+2020-10-09,Colombia,Venezuela,3,0,FIFA World Cup qualification,Barranquilla,Colombia,FALSE
+2020-10-09,Brazil,Bolivia,5,0,FIFA World Cup qualification,São Paulo,Brazil,FALSE
 2020-10-10,Spain,Switzerland,1,0,UEFA Nations League,Madrid,Spain,FALSE
 2020-10-10,Ukraine,Germany,1,2,UEFA Nations League,Kiev,Ukraine,FALSE
 2020-10-10,Luxembourg,Cyprus,2,0,UEFA Nations League,Luxembourg City,Luxembourg,FALSE
@@ -41725,6 +41730,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2020-10-13,Mozambique,Angola,0,3,Friendly,Rio Maior,Portugal,TRUE
 2020-10-13,Niger,Sierra Leone,1,0,Friendly,Niamey,Niger,FALSE
 2020-10-13,Nigeria,Tunisia,1,1,Friendly,Sankt Veit an der Glan,Austria,TRUE
+2020-10-13,Bolivia,Argentina,1,2,FIFA World Cup qualification,La Paz,Bolivia,FALSE
+2020-10-13,Ecuador,Uruguay,4,2,FIFA World Cup qualification,Quito,Ecuador,FALSE
+2020-10-13,Venezuela,Paraguay,0,1,FIFA World Cup qualification,Mérida,Venezuela,FALSE
+2020-10-13,Peru,Brazil,2,4,FIFA World Cup qualification,Lima,Peru,FALSE
+2020-10-13,Chile,Colombia,2,2,FIFA World Cup qualification,Santiago,Chile,FALSE
 2020-10-14,Italy,Netherlands,1,1,UEFA Nations League,Bergamo,Italy,FALSE
 2020-10-14,Poland,Bosnia and Herzegovina,3,0,UEFA Nations League,Wrocław,Poland,FALSE
 2020-10-14,Iceland,Belgium,1,2,UEFA Nations League,Reykjavík,Iceland,FALSE
@@ -41774,9 +41784,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2020-11-12,United Arab Emirates,Tajikistan,3,2,Friendly,Dubai,United Arab Emirates,FALSE
 2020-11-12,Uzbekistan,Syria,0,1,Friendly,Sharjah,United Arab Emirates,TRUE
 2020-11-12,Wales,United States,0,0,Friendly,Cardiff,Wales,FALSE
+2020-11-12,Bolivia,Ecuador,2,3,FIFA World Cup qualification,La Paz,Bolivia,FALSE
+2020-11-12,Argentina,Paraguay,1,1,FIFA World Cup qualification,Buenos Aires,Argentina,FALSE
 2020-11-13,Bangladesh,Nepal,2,0,Friendly,Dhaka,Bangladesh,FALSE
 2020-11-13,Costa Rica,Qatar,1,1,Friendly,Maria Enzersdorf,Austria,TRUE
 2020-11-13,Japan,Panama,1,0,Friendly,Graz,Austria,TRUE
+2020-11-13,Colombia,Uruguay,0,3,FIFA World Cup qualification,Barranquilla,Colombia,FALSE
+2020-11-13,Chile,Peru,2,0,FIFA World Cup qualification,Santiago,Chile,FALSE
+2020-11-13,Brazil,Venezuela,1,0,FIFA World Cup qualification,São Paulo,Brazil,FALSE
 2020-11-14,Portugal,France,0,1,UEFA Nations League,Lisbon,Portugal,FALSE
 2020-11-14,Sweden,Croatia,2,1,UEFA Nations League,Stockholm,Sweden,FALSE
 2020-11-14,Germany,Ukraine,3,1,UEFA Nations League,Leipzig,Germany,FALSE
@@ -41824,6 +41839,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2020-11-17,South Korea,Qatar,2,1,Friendly,Maria Enzersdorf,Austria,TRUE
 2020-11-17,Saudi Arabia,Jamaica,1,2,Friendly,Riyadh,Saudi Arabia,FALSE
 2020-11-17,Uzbekistan,Iraq,1,2,Friendly,Dubai,United Arab Emirates,TRUE
+2020-11-17,Ecuador,Colombia,6,1,FIFA World Cup qualification,Quito,Ecuador,FALSE
+2020-11-17,Venezuela,Chile,2,1,FIFA World Cup qualification,Caracas,Venezuela,FALSE
+2020-11-17,Peru,Argentina,0,2,FIFA World Cup qualification,Lima,Peru,FALSE
+2020-11-17,Paraguay,Bolivia,2,2,FIFA World Cup qualification,Asunción,Paraguay,FALSE
+2020-11-17,Uruguay,Brazil,0,2,FIFA World Cup qualification,Montevideo,Uruguay,FALSE
 2020-11-18,Bosnia and Herzegovina,Italy,0,2,UEFA Nations League,Sarajevo,Bosnia and Herzegovina,FALSE
 2020-11-18,Poland,Netherlands,1,2,UEFA Nations League,Chorzów,Poland,FALSE
 2020-11-18,England,Iceland,4,0,UEFA Nations League,London,England,FALSE
@@ -41842,4 +41862,5 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2020-11-18,Greece,Slovenia,0,0,UEFA Nations League,Athens,Greece,FALSE
 2020-11-18,Albania,Belarus,3,2,UEFA Nations League,Tirana,Albania,FALSE
 2020-11-18,Kazakhstan,Lithuania,1,2,UEFA Nations League,Almaty,Kazakhstan,FALSE
+2020-12-04,Qatar,Bangladesh,5,0,FIFA World Cup qualification,Doha,Qatar,FALSE
 2020-12-09,United States,El Salvador,6,0,Friendly,Fort Lauderdale,United States,FALSE
