@@ -153,6 +153,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1903-03-28,Northern Ireland,Wales,2,0,British Championship,Belfast,Republic of Ireland,FALSE
 1903-04-04,England,Scotland,1,2,British Championship,Sheffield,England,FALSE
 1903-04-05,Hungary,Czechoslovakia,2,1,Friendly,Budapest,Hungary,FALSE
+1903-06-11,Hungary,Austria,3,2,Friendly,Budapest,Hungary,FALSE
 1903-09-13,Argentina,Uruguay,2,3,Friendly,Buenos Aires,Argentina,FALSE
 1903-10-11,Austria,Hungary,4,2,Friendly,Vienna,Austria,FALSE
 1904-02-29,Wales,England,2,2,British Championship,Wrexham,Wales,FALSE
@@ -163,6 +164,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1904-04-09,Scotland,England,0,1,British Championship,Glasgow,Scotland,FALSE
 1904-05-01,Belgium,France,3,3,Friendly,Brussels,Belgium,FALSE
 1904-06-02,Hungary,Austria,3,0,Friendly,Budapest,Hungary,FALSE
+1904-10-09,Austria,Hungary,5,4,Friendly,Vienna,Austria,FALSE
 1905-02-12,France,Switzerland,1,0,Friendly,Paris,France,FALSE
 1905-02-25,England,Northern Ireland,1,1,British Championship,Middlesbrough,England,FALSE
 1905-03-06,Wales,Scotland,3,1,British Championship,Wrexham,Wales,FALSE
@@ -247,6 +249,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1909-08-15,Argentina,Uruguay,2,1,Copa Lipton,Buenos Aires,Argentina,FALSE
 1909-09-19,Uruguay,Argentina,2,2,Copa Newton,Montevideo,Uruguay,FALSE
 1909-10-10,Argentina,Uruguay,3,1,Copa Premio Honor Argentino,Buenos Aires,Argentina,FALSE
+1909-11-07,Hungary,Austria,2,2,Friendly,Budapest,Hungary,FALSE
 1910-02-12,Northern Ireland,England,1,1,British Championship,Belfast,Republic of Ireland,FALSE
 1910-03-05,Scotland,Wales,1,0,British Championship,Kilmarnock,Scotland,FALSE
 1910-03-13,Belgium,Netherlands,3,2,Friendly,Antwerp,Belgium,FALSE
@@ -327,7 +330,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1912-06-20,Sweden,Hungary,2,2,Friendly,Gothenburg,Sweden,FALSE
 1912-06-23,Norway,Hungary,0,6,Friendly,Kristiania,Norway,FALSE
 1912-06-27,Sweden,Finland,7,1,Friendly,Solna,Sweden,FALSE
+1912-06-29,Austria,Germany,5,1,Friendly,Stockholm,Sweden,TRUE
+1912-06-30,Austria,Italy,5,1,Friendly,Stockholm,Sweden,TRUE
+1912-07-01,Austria,Norway,1,1,Friendly,Stockholm,Sweden,TRUE
+1912-07-03,Hungary,Austria,3,0,Friendly,Stockholm,Sweden,TRUE
 1912-07-03,Norway,Russia,2,1,Friendly,Stockholm,Sweden,TRUE
+1912-07-05,Netherlands,Austria,3,1,Friendly,Stockholm,Sweden,TRUE
 1912-07-12,Russia,Hungary,0,9,Friendly,Moscow,Russia,FALSE
 1912-07-14,Russia,Hungary,0,12,Friendly,Moscow,Russia,FALSE
 1912-08-15,Uruguay,Argentina,2,0,Copa Lipton,Montevideo,Uruguay,FALSE
@@ -1027,6 +1035,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1927-02-26,Northern Ireland,Scotland,0,2,British Championship,Belfast,Northern Ireland,FALSE
 1927-03-13,Belgium,Netherlands,2,0,Friendly,Antwerp,Belgium,FALSE
 1927-03-16,Portugal,France,4,0,Friendly,Lisbon,Portugal,FALSE
+1927-03-20,Austria,Czechoslovakia,1,2,Friendly,Vienna,Austria,FALSE
 1927-04-02,Scotland,England,1,2,British Championship,Glasgow,Scotland,FALSE
 1927-04-03,Belgium,Sweden,2,1,Friendly,Forest,Belgium,FALSE
 1927-04-09,Wales,Northern Ireland,2,2,British Championship,Cardiff,Wales,FALSE
@@ -1124,6 +1133,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1928-04-22,Netherlands,Denmark,2,0,Friendly,Amsterdam,Netherlands,FALSE
 1928-04-22,Spain,Italy,1,1,Friendly,Gijón,Spain,FALSE
 1928-04-29,France,Portugal,1,1,Friendly,Paris,France,FALSE
+1928-05-06,Austria,Yugoslavia,3,0,Friendly,Vienna,Austria,FALSE
 1928-05-06,Hungary,Austria,5,5,Friendly,Budapest,Hungary,FALSE
 1928-05-06,Switzerland,Netherlands,2,1,Friendly,Basel,Switzerland,FALSE
 1928-05-06,Yugoslavia,Romania,3,1,Friendly,Belgrade,Yugoslavia,FALSE
@@ -2854,6 +2864,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1948-07-15,Madagascar,Réunion,2,1,Friendly,Curepipe,Mauritius,TRUE
 1948-07-17,Mauritius,Madagascar,4,1,Friendly,Curepipe,Mauritius,FALSE
 1948-07-19,Mauritius,Réunion,5,1,Friendly,Curepipe,Mauritius,FALSE
+1948-08-02,Sweden,Austria,3,0,Friendly,London,England,FALSE
 1948-08-06,Norway,United States,11,0,Friendly,Oslo,Norway,FALSE
 1948-08-11,Northern Ireland,United States,5,0,Friendly,Belfast,Northern Ireland,FALSE
 1948-08-14,New Zealand,Australia,0,6,Friendly,Wellington,New Zealand,FALSE
