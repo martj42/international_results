@@ -918,6 +918,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1925-08-23,Paraguay,Uruguay,0,0,Friendly,Asunción,Paraguay,FALSE
 1925-08-26,Estonia,Latvia,2,2,Friendly,Tallinn,Estonia,FALSE
 1925-08-30,Finland,Poland,2,2,Friendly,Helsinki,Finland,FALSE
+1925-09-02,Estonia,Poland,0,0,Friendly,Tallinn,Estonia,FALSE
 1925-09-20,Hungary,Austria,1,1,Friendly,Budapest,Hungary,FALSE
 1925-09-20,Latvia,Lithuania,2,2,Friendly,Riga,Latvia,FALSE
 1925-09-27,Austria,Spain,0,1,Friendly,Vienna,Austria,FALSE
@@ -1343,6 +1344,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1930-08-17,Brazil,United States,4,3,Friendly,Rio de Janeiro,Brazil,FALSE
 1930-08-17,Lithuania,Latvia,3,3,Baltic Cup,Kaunas,Lithuania,FALSE
 1930-09-07,Denmark,Germany,6,3,Friendly,Copenhagen,Denmark,FALSE
+1930-09-13,Lithuania,Estonia,4,0,Friendly,Klaipeda,Lithuania,FALSE
 1930-09-21,Austria,Hungary,2,3,Friendly,Vienna,Austria,FALSE
 1930-09-21,Belgium,Czechoslovakia,2,3,Friendly,Antwerp,Belgium,FALSE
 1930-09-21,Norway,Denmark,1,0,Nordic Championship,Oslo,Norway,FALSE
@@ -1521,6 +1523,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1932-07-17,Sweden,Austria,3,4,Friendly,Stockholm,Sweden,FALSE
 1932-07-24,Latvia,Lithuania,2,1,Friendly,Liepāja,Latvia,FALSE
 1932-08-06,Lithuania,Estonia,1,0,Friendly,Kaunas,Lithuania,FALSE
+1932-08-17,Estonia,Finland,0,3,Friendly,Tallinn,Estonia,FALSE
 1932-08-25,Uganda,Kenya,13,1,Friendly,Kampala,Uganda,FALSE
 1932-08-28,Latvia,Lithuania,4,1,Baltic Cup,Riga,Latvia,FALSE
 1932-08-29,Estonia,Lithuania,1,2,Baltic Cup,Riga,Latvia,TRUE
@@ -1719,6 +1722,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1934-07-31,Aruba,Suriname,1,1,Friendly,Oranjestad,Aruba,FALSE
 1934-08-06,Suriname,Trinidad and Tobago,3,3,Friendly,Paramaribo,Netherlands Guyana,FALSE
 1934-08-08,Estonia,Finland,1,1,Friendly,Tallinn,Estonia,FALSE
+1934-08-10,Estonia,Hungary,2,2,Friendly,Tallinn,Estonia,FALSE
 1934-08-14,Latvia,Finland,1,1,Friendly,Riga,Latvia,FALSE
 1934-08-15,Argentina,Uruguay,1,0,Friendly,Avellaneda,Argentina,FALSE
 1934-08-16,Lithuania,Finland,1,0,Friendly,Kaunas,Lithuania,FALSE
@@ -2124,6 +2128,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1938-06-19,Hungary,Italy,2,4,FIFA World Cup,Colombes,France,TRUE
 1938-06-20,Cuba,Basque Country,3,4,Friendly,Havana,Cuba,FALSE
 1938-06-21,Denmark,Sweden,0,1,Nordic Championship,Copenhagen,Denmark,FALSE
+1938-06-22,Estonia,Hungary,2,3,Friendly,Tallinn,Estonia,FALSE
 1938-06-26,Netherlands,Indonesia,9,2,Friendly,Amsterdam,Netherlands,FALSE
 1938-07-04,Finland,Sweden,2,4,Nordic Championship,Helsinki,Finland,FALSE
 1938-07-05,Curaçao,Suriname,2,1,Friendly,Willemstad,Curaçao,FALSE
@@ -26177,6 +26182,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2003-12-15,Bahrain,Egypt,0,1,Prime Minister's Cup,Riffa,Bahrain,FALSE
 2003-12-15,Iraq,Kenya,2,0,Prime Minister's Cup,Riffa,Bahrain,TRUE
 2003-12-16,Kuwait,Lebanon,2,0,Friendly,Paphos,Cyprus,TRUE
+2003-12-17,Saudi Arabia,Estonia,1,1,Friendly,Dammam,Saudi Arabia,FALSE
 2003-12-18,Bahrain,Kenya,2,1,Prime Minister's Cup,Riffa,Bahrain,FALSE
 2003-12-18,Egypt,Iraq,2,0,Prime Minister's Cup,Riffa,Bahrain,TRUE
 2003-12-18,Kuwait,Lebanon,0,0,Friendly,Paphos,Cyprus,TRUE
@@ -26283,6 +26289,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2004-02-12,Jordan,Indonesia,2,1,Friendly,Amman,Jordan,FALSE
 2004-02-13,Nigeria,Mali,2,1,African Cup of Nations,Monastir,Tunisia,TRUE
 2004-02-13,Qatar,Bahrain,2,0,Friendly,Doha,Qatar,FALSE
+2004-02-14,Belarus,Estonia,1,2,Friendly,Ta' Qali,Malta,TRUE
 2004-02-14,South Korea,Oman,5,0,Friendly,Ulsan,South Korea,FALSE
 2004-02-14,Malta,Moldova,0,0,Malta International Tournament,Attard,Malta,FALSE
 2004-02-14,Tunisia,Morocco,2,1,African Cup of Nations,Radès,Tunisia,FALSE
@@ -26378,6 +26385,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2004-03-30,Australia,South Africa,1,0,Friendly,London,England,TRUE
 2004-03-30,Bolivia,Chile,0,2,FIFA World Cup qualification,La Paz,Bolivia,FALSE
 2004-03-30,Israel,Lithuania,2,1,Friendly,Ramat-Gan,Israel,FALSE
+2004-03-31,Estonia,Northern Ireland,0,1,Friendly,Tallinn,Estonia,FALSE
 2004-03-31,Albania,Iceland,2,1,Friendly,Tirana,Albania,FALSE
 2004-03-31,Bermuda,Nicaragua,3,0,Friendly,Hamilton,Bermuda,FALSE
 2004-03-31,Bulgaria,Russia,2,2,Friendly,Sofia,Bulgaria,FALSE
@@ -33103,12 +33111,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2011-06-18,Costa Rica,Honduras,1,1,Gold Cup,East Rutherford,United States,TRUE
 2011-06-18,Malaysia,Burma,2,0,Friendly,Kota Baharu,Malaysia,FALSE
 2011-06-18,Mexico,Guatemala,2,1,Gold Cup,East Rutherford,United States,TRUE
+2011-06-19,Chile,Estonia,4,0,Friendly,Santiago,Chile,FALSE
 2011-06-19,Anguilla,U.S. Virgin Islands,0,0,Friendly,The Valley,Anguilla,FALSE
 2011-06-19,Panama,El Salvador,1,1,Gold Cup,Washington,United States,TRUE
 2011-06-19,United States,Jamaica,2,0,Gold Cup,Washington,United States,FALSE
 2011-06-20,Argentina,Albania,4,0,Friendly,Buenos Aires,Argentina,FALSE
 2011-06-22,Honduras,Mexico,0,2,Gold Cup,Houston,United States,TRUE
 2011-06-22,United States,Panama,1,0,Gold Cup,Houston,United States,FALSE
+2011-06-23,Uruguay,Estonia,3,0,Friendly,Rivera,Uruguay,FALSE
 2011-06-23,Paraguay,Chile,0,0,Friendly,Asunción,Paraguay,FALSE
 2011-06-25,Colombia,Senegal,2,0,Friendly,Medellín,Colombia,FALSE
 2011-06-25,Kenya,Sudan,1,2,Friendly,Nairobi,Kenya,FALSE
