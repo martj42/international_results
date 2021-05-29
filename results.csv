@@ -30409,6 +30409,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2008-06-18,Greece,Spain,1,2,UEFA Euro,Salzburg,Austria,TRUE
 2008-06-18,Jamaica,Bahamas,6,0,FIFA World Cup qualification,Falmouth,Jamaica,FALSE
 2008-06-18,Russia,Sweden,2,0,UEFA Euro,Innsbruck,Austria,TRUE
+2008-06-18,Brazil,Argentina,0,0,FIFA World Cup qualification,Belo Horizonte,Brazil,FALSE
 2008-06-19,Portugal,Germany,2,3,UEFA Euro,Basel,Switzerland,TRUE
 2008-06-19,Venezuela,Chile,2,3,FIFA World Cup qualification,Puerto la Cruz,Venezuela,FALSE
 2008-06-20,Algeria,Gambia,1,0,FIFA World Cup qualification,Blida,Algeria,FALSE
@@ -31186,6 +31187,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2009-03-28,Uzbekistan,Qatar,4,0,FIFA World Cup qualification,Tashkent,Uzbekistan,FALSE
 2009-03-28,Wales,Finland,0,2,FIFA World Cup qualification,Cardiff,Wales,FALSE
 2009-03-29,Ivory Coast,Malawi,5,0,FIFA World Cup qualification,Abidjan,Ivory Coast,FALSE
+2009-03-29,Ecuador,Brazil,1,1,FIFA World Cup qualification,Quito,Ecuador,FALSE
+2009-03-29,Peru,Chile,1,3,FIFA World Cup qualification,Lima,Peru,FALSE
 2009-03-30,Kyrgyzstan,Palestine,1,1,AFC Challenge Cup qualification,Kathmandu,Nepal,TRUE
 2009-03-31,Angola,Morocco,0,2,Friendly,Lisbon,Portugal,TRUE
 2009-03-31,Panama,Haiti,4,0,Friendly,La Chorrera,Panama,FALSE
@@ -31226,6 +31229,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2009-04-01,Turkey,Spain,1,2,FIFA World Cup qualification,Istanbul,Turkey,FALSE
 2009-04-01,United States,Trinidad and Tobago,3,0,FIFA World Cup qualification,Nashville,United States,FALSE
 2009-04-01,Wales,Germany,0,2,FIFA World Cup qualification,Cardiff,Wales,FALSE
+2009-04-01,Bolivia,Argentina,6,1,FIFA World Cup qualification,La Paz,Bolivia,FALSE
+2009-04-01,Ecuador,Paraguay,1,1,FIFA World Cup qualification,Quito,Ecuador,FALSE
+2009-04-01,Chile,Uruguay,0,0,FIFA World Cup qualification,Santiago,Chile,FALSE
+2009-04-01,Brazil,Peru,3,0,FIFA World Cup qualification,Porto Alegre,Brazil,FALSE
 2009-04-04,Angola,Namibia,0,0,Friendly,Dundo,Angola,FALSE
 2009-04-04,Pakistan,Chinese Taipei,1,1,AFC Challenge Cup qualification,Colombo,Sri Lanka,TRUE
 2009-04-04,Sri Lanka,Brunei,5,1,AFC Challenge Cup qualification,Colombo,Sri Lanka,FALSE
@@ -31322,6 +31329,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2009-06-07,Guinea,Ivory Coast,1,2,FIFA World Cup qualification,Conakry,Guinea,FALSE
 2009-06-07,Guyana,French Guiana,2,3,Friendly,Paramaribo,Suriname,TRUE
 2009-06-07,Jamaica,Panama,3,2,Friendly,Kingston,Jamaica,FALSE
+2009-06-07,Peru,Ecuador,1,2,FIFA World Cup qualification,Lima,Peru,FALSE
 2009-06-09,Azerbaijan,Spain,0,6,Friendly,Baku,Azerbaijan,FALSE
 2009-06-09,Bosnia and Herzegovina,Oman,2,1,Friendly,Cannes,France,TRUE
 2009-06-09,Iraq,Poland,1,1,Friendly,Cape Town,South Africa,TRUE
@@ -31625,6 +31633,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2009-09-09,Spain,Estonia,3,0,FIFA World Cup qualification,Mérida,Spain,FALSE
 2009-09-09,Trinidad and Tobago,United States,0,1,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,FALSE
 2009-09-09,Wales,Russia,1,3,FIFA World Cup qualification,Cardiff,Wales,FALSE
+2009-09-09,Uruguay,Colombia,3,1,FIFA World Cup qualification,Montevideo,Uruguay,FALSE
+2009-09-09,Paraguay,Argentina,1,0,FIFA World Cup qualification,Asuncion,Paraguay,FALSE
+2009-09-09,Brazil,Chile,4,2,FIFA World Cup qualification,Salvador,Brazil,FALSE
+2009-09-09,Venezuela,Peru,3,1,FIFA World Cup qualification,Puerto la Cruz,Venezuela,FALSE
 2009-09-11,Malaysia,Lesotho,5,0,Friendly,Kuala Lumpur,Malaysia,FALSE
 2009-09-19,South Africa,Madagascar,1,0,Friendly,Kimberley,South Africa,FALSE
 2009-09-20,Saint Kitts and Nevis,Saint Vincent and the Grenadines,1,1,Friendly,Basseterre,Saint Kitts and Nevis,FALSE
@@ -31680,6 +31692,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2009-10-11,North Macedonia,Qatar,2,1,Friendly,Skopje,North Macedonia,FALSE
 2009-10-11,Mali,Sudan,1,0,FIFA World Cup qualification,Bamako,Mali,FALSE
 2009-10-11,Nigeria,Mozambique,1,0,FIFA World Cup qualification,Abuja,Nigeria,FALSE
+2009-10-11,Bolivia,Brazil,2,1,FIFA World Cup qualification,La Paz,Bolivia,FALSE
 2009-10-13,Congo,North Korea,0,0,Friendly,Le Mans,France,TRUE
 2009-10-13,Iceland,South Africa,1,0,Friendly,Reykjavík,Iceland,FALSE
 2009-10-14,Andorra,Ukraine,0,6,FIFA World Cup qualification,Sant Julià de Lòria,Andorra,FALSE
@@ -42083,3 +42096,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-03-31,Armenia,Romania,3,2,FIFA World Cup qualification,Yerevan,Armenia,FALSE
 2021-03-31,Germany,North Macedonia,1,2,FIFA World Cup qualification,Duisburg,Germany,FALSE
 2021-03-31,Liechtenstein,Iceland,1,4,FIFA World Cup qualification,Vaduz,Liechtenstein,FALSE
+2021-05-23,Ukraine,Bahrain,1,1,Friendly,Kharkiv,Ukraine,FALSE
+2021-05-24,Iraq,Tajikistan,0,0,Friendly,Basra,Iraq,FALSE
+2021-05-24,United Arab Emirates,Jordan,5,1,Friendly,Dubai,United Arab Emirates,FALSE
+2021-05-25,Indonesia,Afghanistan,2,3,Friendly,Dubai,United Arab Emirates,TRUE
+2021-05-25,Oman,Thailand,1,0,Friendly,Dubai,United Arab Emirates,TRUE
+2021-05-27,Turkey,Azerbaijan,2,1,Friendly,Alanya,Turkey,FALSE
+2021-05-28,Bahrain,Malaysia,2,0,Friendly,Riffa,Bahrain,FALSE
+2021-05-28,Italy,San Marino,7,0,Friendly,Cagliari,Italy,FALSE
