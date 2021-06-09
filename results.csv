@@ -41164,8 +41164,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-09-10,Morocco,Niger,1,0,Friendly,Marrakech,Morocco,FALSE
 2019-09-10,Oman,Lebanon,1,0,Friendly,Muscat,Oman,FALSE
 2019-09-10,Republic of Ireland,Bulgaria,3,1,Friendly,Dublin,Republic of Ireland,FALSE
-2019-09-10,Ukraine,Nigeria,2,2,Friendly,Dnipro,Egypt,TRUE
-2019-09-10,United States,Uruguay,1,1,Friendly,St Louis,Egypt,TRUE
+2019-09-10,Ukraine,Nigeria,2,2,Friendly,Dnipro,Ukraine,FALSE
+2019-09-10,United States,Uruguay,1,1,Friendly,St Louis,United States,FALSE
 2019-09-10,England,Kosovo,5,3,UEFA Euro qualification,London,England,FALSE
 2019-09-10,Montenegro,Czech Republic,0,3,UEFA Euro qualification,Podgorica,Montenegro,FALSE
 2019-09-10,Luxembourg,Serbia,1,3,UEFA Euro qualification,Luxembourg City,Luxembourg,FALSE
@@ -41977,6 +41977,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-03-25,Zambia,Algeria,3,3,African Cup of Nations qualification,Lusaka,Zambia,FALSE
 2021-03-25,Equatorial Guinea,Tanzania,1,0,African Cup of Nations qualification,Malabo,Equatorial Guinea,FALSE
 2021-03-25,Libya,Tunisia,2,5,African Cup of Nations qualification,Benina,Libya,FALSE
+2021-03-25,Tajikistan,Mongolia,3,0,FIFA World Cup qualification,Dushanbe,Tajikistan,FALSE
 2021-03-26,Chile,Bolivia,2,1,Friendly,Rancagua,Chile,FALSE
 2021-03-26,Burundi,Central African Republic,2,2,African Cup of Nations qualification,Bujumbura,Burundi,FALSE
 2021-03-26,Mauritania,Morocco,0,0,African Cup of Nations qualification,Nouakchott,Mauritania,FALSE
@@ -42069,7 +42070,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-03-30,Slovakia,Russia,2,1,FIFA World Cup qualification,Trnava,Slovakia,FALSE
 2021-03-30,Saudi Arabia,Palestine,5,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,FALSE
 2021-03-30,Japan,Mongolia,14,0,FIFA World Cup qualification,Chiba,Japan,FALSE
-2021-03-30,Tajikistan,Mongolia,3,0,FIFA World Cup qualification,Dushanbe,Tajikistan,FALSE
 2021-03-30,Central African Republic,Mauritania,0,1,African Cup of Nations qualification,Bangui,Central African Republic,FALSE
 2021-03-30,Morocco,Burundi,1,0,African Cup of Nations qualification,Rabat,Morocco,FALSE
 2021-03-30,Cameroon,Rwanda,0,0,African Cup of Nations qualification,Douala,Cameroon,FALSE
@@ -42104,3 +42104,81 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-05-27,Turkey,Azerbaijan,2,1,Friendly,Alanya,Turkey,FALSE
 2021-05-28,Bahrain,Malaysia,2,0,Friendly,Riffa,Bahrain,FALSE
 2021-05-28,Italy,San Marino,7,0,Friendly,Cagliari,Italy,FALSE
+2021-05-29,Indonesia,Oman,1,3,Friendly,Dubai,United Arab Emirates,TRUE
+2021-05-29,Iraq,Nepal,6,2,Friendly,Basra,Iraq,FALSE
+2021-05-29,Mexico,Iceland,2,1,Friendly,Arlington,United States,TRUE
+2021-05-29,Singapore,Afghanistan,1,1,Friendly,Dubai,United Arab Emirates,TRUE
+2021-05-29,Sweden,Finland,2,0,Friendly,Stockholm,Sweden,FALSE
+2021-05-29,Thailand,Tajikistan,2,2,Friendly,Sharjah,United Arab Emirates,TRUE
+2021-05-30,Malta,Northern Ireland,0,3,Friendly,Klagenfurt,Austria,TRUE
+2021-05-30,Switzerland,United States,2,1,Friendly,St Gallen,Switzerland,FALSE
+2021-05-31,Jordan,Vietnam,1,1,Friendly,Sharjah,United Arab Emirates,TRUE
+2021-05-31,Turkey,Guinea,0,0,Friendly,Antalya,Turkey,FALSE
+2021-06-01,Croatia,Armenia,1,1,Friendly,Velika Gorica,Croatia,FALSE
+2021-06-01,Kosovo,San Marino,4,1,Friendly,Pristina,Kosovo,FALSE
+2021-06-01,North Macedonia,Slovenia,1,1,Friendly,Skopje,North Macedonia,FALSE
+2021-06-01,Poland,Russia,1,1,Friendly,Wrocław,Poland,FALSE
+2021-06-01,Slovakia,Bulgaria,1,1,Friendly,Ried im Innkreis,Austria,TRUE
+2021-06-01,Lithuania,Estonia,0,1,Baltic Cup,Vilnius,Lithuania,FALSE
+2021-06-02,Belarus,Azerbaijan,1,2,Friendly,Minsk,Belarus,FALSE
+2021-06-02,Bosnia and Herzegovina,Montenegro,0,0,Friendly,Sarajevo,Bosnia and Herzegovina,FALSE
+2021-06-02,England,Austria,1,0,Friendly,London,England,FALSE
+2021-06-02,France,Wales,3,0,Friendly,Nice,France,FALSE
+2021-06-02,Germany,Denmark,1,1,Friendly,Innsbruck,Austria,TRUE
+2021-06-02,Mozambique,Lesotho,5,0,Friendly,Maputo,Mozambique,FALSE
+2021-06-02,Netherlands,Scotland,2,2,Friendly,São João da Venda,Portugal,TRUE
+2021-06-02,Norway,Luxembourg,1,0,Friendly,Malaga,Spain,TRUE
+2021-06-02,Romania,Georgia,1,2,Friendly,Ploiești,Romania,FALSE
+2021-06-03,Algeria,Mauritania,4,1,Friendly,Blida,Algeria,FALSE
+2021-06-03,Andorra,Republic of Ireland,1,4,Friendly,Andorra la Vella,Andorra,FALSE
+2021-06-03,Belgium,Greece,1,1,Friendly,Brussels,Belgium,FALSE
+2021-06-03,Switzerland,Liechtenstein,7,0,Friendly,St Gallen,Switzerland,FALSE
+2021-06-03,Turkey,Moldova,2,0,Friendly,Paderborn,Germany,TRUE
+2021-06-03,Ukraine,Northern Ireland,1,0,Friendly,Dnipro,Ukraine,FALSE
+2021-06-04,Faroe Islands,Iceland,0,1,Friendly,Tórshavn,Faroe Islands,FALSE
+2021-06-04,Finland,Estonia,0,1,Friendly,Helsinki,Finland,FALSE
+2021-06-04,Hungary,Cyprus,1,0,Friendly,Budapest,Hungary,FALSE
+2021-06-04,Italy,Czech Republic,4,0,Friendly,Bologna,Italy,FALSE
+2021-06-04,Kosovo,Malta,2,1,Friendly,Klagenfurt,Austria,TRUE
+2021-06-04,Nigeria,Cameroon,0,1,Friendly,Wiener Neustadt,Austria,TRUE
+2021-06-04,North Macedonia,Kazakhstan,4,0,Friendly,Skopje,North Macedonia,FALSE
+2021-06-04,Rwanda,Central African Republic,2,0,Friendly,Kigali,Rwanda,FALSE
+2021-06-04,Slovenia,Gibraltar,6,0,Friendly,Koper,Slovenia,FALSE
+2021-06-04,Spain,Portugal,0,0,Friendly,Madrid,Spain,FALSE
+2021-06-04,Latvia,Lithuania,3,1,Baltic Cup,Riga,Latvia,FALSE
+2021-06-05,Guinea,Togo,0,2,Friendly,Antalya,Turkey,TRUE
+2021-06-05,Ivory Coast,Burkina Faso,2,1,Friendly,Abidjan,Ivory Coast,FALSE
+2021-06-05,Montenegro,Israel,1,3,Friendly,Podgorica,Montenegro,FALSE
+2021-06-05,Niger,Gambia,0,2,Friendly,Antalya,Turkey,TRUE
+2021-06-05,Russia,Bulgaria,1,0,Friendly,Moscow,Russia,FALSE
+2021-06-05,Senegal,Zambia,3,1,Friendly,Thiès,Senegal,FALSE
+2021-06-05,Sweden,Armenia,3,1,Friendly,Stockholm,Sweden,FALSE
+2021-06-05,Tunisia,DR Congo,1,0,Friendly,Radès,Tunisia,FALSE
+2021-06-05,Wales,Albania,0,0,Friendly,Cardiff,Wales,FALSE
+2021-06-06,Algeria,Mali,1,0,Friendly,Blida,Algeria,FALSE
+2021-06-06,Austria,Slovakia,0,0,Friendly,Vienna,Austria,FALSE
+2021-06-06,Belgium,Croatia,1,0,Friendly,Brussels,Belgium,FALSE
+2021-06-06,Denmark,Bosnia and Herzegovina,2,0,Friendly,Brondbyvester,Denmark,FALSE
+2021-06-06,England,Romania,1,0,Friendly,London,England,FALSE
+2021-06-06,Luxembourg,Scotland,0,1,Friendly,Luxembourg City,Luxembourg,FALSE
+2021-06-06,Moldova,Azerbaijan,1,0,Friendly,Chișinău,Moldova,FALSE
+2021-06-06,Netherlands,Georgia,3,0,Friendly,Enschede,Netherlands,FALSE
+2021-06-06,Norway,Greece,1,2,Friendly,Malaga,Spain,TRUE
+2021-06-07,Andorra,Gibraltar,0,0,Friendly,Andorra la Vella,Andorra,FALSE
+2021-06-07,Faroe Islands,Liechtenstein,5,1,Friendly,Tórshavn,Faroe Islands,FALSE
+2021-06-07,Germany,Latvia,7,1,Friendly,Düsseldorf,Germany,FALSE
+2021-06-07,Rwanda,Central African Republic,5,0,Friendly,Kigali,Rwanda,FALSE
+2021-06-07,Serbia,Jamaica,1,1,Friendly,Miki,Japan,TRUE
+2021-06-07,Ukraine,Cyprus,4,0,Friendly,Kharkiv,Ukraine,FALSE
+2021-06-08,Benin,Zambia,2,2,Friendly,Cotonou,Benin,FALSE
+2021-06-08,Cameroon,Nigeria,0,0,Friendly,Wiener Neustadt,Austria,TRUE
+2021-06-08,Czech Republic,Albania,3,1,Friendly,Prague,Czech Republic,FALSE
+2021-06-08,France,Bulgaria,3,0,Friendly,Paris,France,FALSE
+2021-06-08,Gambia,Togo,1,0,Friendly,Antalya,Turkey,TRUE
+2021-06-08,Hungary,Republic of Ireland,0,0,Friendly,Budapest,Hungary,FALSE
+2021-06-08,Kosovo,Guinea,1,2,Friendly,Antalya,Turkey,TRUE
+2021-06-08,Morocco,Ghana,1,0,Friendly,Rabat,Morocco,FALSE
+2021-06-08,Mozambique,Eswatini,1,1,Friendly,Maputo,Mozambique,FALSE
+2021-06-08,Poland,Iceland,2,2,Friendly,Poznan,Poland,FALSE
+2021-06-08,Senegal,Cape Verde,2,0,Friendly,Thiès,Senegal,FALSE
+2021-06-08,Spain,Lithuania,4,0,Friendly,Leganés,Spain,FALSE
