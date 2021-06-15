@@ -21180,7 +21180,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1998-03-20,Saint Lucia,Saint Vincent and the Grenadines,3,2,CFU Caribbean Cup qualification,Castries,Saint Lucia,FALSE
 1998-03-22,Azerbaijan,Moldova,1,0,Friendly,Baku,Azerbaijan,FALSE
 1998-03-22,Saint Lucia,Martinique,1,2,CFU Caribbean Cup qualification,Castries,Saint Lucia,FALSE
-1998-03-22,U.S. Virgin Islands,British Virgin Islands,1,0,Friendly,St. Croix Island,U.S. Virgin Islands,FALSE
+1998-03-22,United States Virgin Islands,British Virgin Islands,1,0,Friendly,St. Croix Island,United States Virgin Islands,FALSE
 1998-03-24,Singapore,Philippines,1,0,AFF Championship,Singapore,Singapore,FALSE
 1998-03-25,Austria,Hungary,2,3,Friendly,Vienna,Austria,FALSE
 1998-03-25,Belgium,Norway,2,2,Friendly,Brussels,Belgium,FALSE
@@ -21801,10 +21801,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1999-02-24,Costa Rica,Jamaica,9,0,Friendly,San José,Costa Rica,FALSE
 1999-02-24,Israel,Latvia,2,0,Friendly,Jerusalem,Israel,FALSE
 1999-02-24,Saint Lucia,Grenada,1,2,Friendly,Castries,Saint Lucia,FALSE
-1999-02-26,U.S. Virgin Islands,Turks and Caicos Islands,2,2,CFU Caribbean Cup qualification,Nassau,Bahamas,TRUE
+1999-02-26,United States Virgin Islands,Turks and Caicos Islands,2,2,CFU Caribbean Cup qualification,Nassau,Bahamas,TRUE
 1999-02-27,South Africa,Gabon,4,1,African Cup of Nations qualification,Mabopane,South Africa,FALSE
 1999-02-28,Angola,Mauritius,0,2,African Cup of Nations qualification,Luanda,Angola,FALSE
-1999-02-28,Bahamas,U.S. Virgin Islands,0,0,CFU Caribbean Cup qualification,Nassau,Bahamas,FALSE
+1999-02-28,Bahamas,United States Virgin Islands,0,0,CFU Caribbean Cup qualification,Nassau,Bahamas,FALSE
 1999-02-28,British Virgin Islands,Antigua and Barbuda,0,2,Friendly,Road Town,British Virgin Islands,FALSE
 1999-02-28,Burundi,Burkina Faso,1,2,African Cup of Nations qualification,Bujumbura,Burundi,FALSE
 1999-02-28,Cameroon,Mozambique,1,0,African Cup of Nations qualification,Yaoundé,Cameroon,FALSE
@@ -22506,14 +22506,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2000-01-28,Cameroon,Ivory Coast,3,0,African Cup of Nations,Accra,Ghana,TRUE
 2000-01-28,Egypt,Senegal,1,0,African Cup of Nations,Kano,Nigeria,TRUE
 2000-01-28,Nigeria,Congo,0,0,African Cup of Nations,Lagos,Nigeria,FALSE
-2000-01-28,U.S. Virgin Islands,Saint Lucia,0,9,Friendly,St. Croix Island,U.S. Virgin Islands,FALSE
+2000-01-28,United States Virgin Islands,Saint Lucia,0,9,Friendly,St. Croix Island,United States Virgin Islands,FALSE
 2000-01-29,Algeria,Gabon,3,1,African Cup of Nations,Kumasi,Ghana,TRUE
 2000-01-29,Chile,United States,1,2,Friendly,Coquimbo,Chile,FALSE
 2000-01-29,Philippines,Guam,2,0,AFC Asian Cup qualification,Hanoi,Vietnam,TRUE
 2000-01-29,Tunisia,Morocco,0,0,African Cup of Nations,Lagos,Nigeria,TRUE
 2000-01-29,Vietnam,China PR,0,2,AFC Asian Cup qualification,Hanoi,Vietnam,FALSE
 2000-01-29,Zambia,Burkina Faso,1,1,African Cup of Nations,Kano,Nigeria,TRUE
-2000-01-30,U.S. Virgin Islands,Saint Lucia,0,2,Friendly,St. Croix Island,U.S. Virgin Islands,FALSE
+2000-01-30,United States Virgin Islands,Saint Lucia,0,2,Friendly,St. Croix Island,United States Virgin Islands,FALSE
 2000-01-31,Cameroon,Togo,0,1,African Cup of Nations,Kumasi,Ghana,TRUE
 2000-01-31,Faroe Islands,Finland,0,1,Nordic Championship,Cartagena,Spain,TRUE
 2000-01-31,Ghana,Ivory Coast,0,2,African Cup of Nations,Accra,Ghana,FALSE
@@ -22658,7 +22658,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2000-03-05,El Salvador,Belize,5,0,FIFA World Cup qualification,San Salvador,El Salvador,FALSE
 2000-03-05,Ethiopia,Sudan,1,0,Friendly,Addis Abeba,Ethiopia,FALSE
 2000-03-05,Saint Lucia,Suriname,1,0,FIFA World Cup qualification,Castries,Saint Lucia,FALSE
-2000-03-05,Saint Vincent and the Grenadines,U.S. Virgin Islands,9,0,FIFA World Cup qualification,Kingstown,Saint Vincent and the Grenadines,FALSE
+2000-03-05,Saint Vincent and the Grenadines,United States Virgin Islands,9,0,FIFA World Cup qualification,Kingstown,Saint Vincent and the Grenadines,FALSE
 2000-03-05,Zimbabwe,Lesotho,2,1,COSAFA Cup,Harare,Zimbabwe,FALSE
 2000-03-06,Syria,Jordan,0,0,Friendly,Damascus,Syria,FALSE
 2000-03-08,Ecuador,Honduras,1,3,Friendly,Quito,Ecuador,FALSE
@@ -22689,7 +22689,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2000-03-19,Montserrat,Dominican Republic,1,3,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,TRUE
 2000-03-19,Nicaragua,Panama,0,2,FIFA World Cup qualification,Diriamba,Nicaragua,FALSE
 2000-03-19,Suriname,Saint Lucia,1,0,FIFA World Cup qualification,Paramaribo,Suriname,FALSE
-2000-03-19,U.S. Virgin Islands,Saint Vincent and the Grenadines,1,5,FIFA World Cup qualification,Frederiksted,U.S. Virgin Islands,FALSE
+2000-03-19,United States Virgin Islands,Saint Vincent and the Grenadines,1,5,FIFA World Cup qualification,Frederiksted,United States Virgin Islands,FALSE
 2000-03-20,Bahrain,Kazakhstan,0,1,Friendly,Manama,Bahrain,FALSE
 2000-03-21,Namibia,Zimbabwe,2,1,Friendly,Windhoek,Namibia,FALSE
 2000-03-21,Saint Kitts and Nevis,Turks and Caicos Islands,6,0,FIFA World Cup qualification,Basseterre,Saint Kitts and Nevis,FALSE
@@ -23710,7 +23710,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2001-03-24,Armenia,Wales,2,2,FIFA World Cup qualification,Yerevan,Armenia,FALSE
 2001-03-24,Azerbaijan,Moldova,0,0,FIFA World Cup qualification,Baku,Azerbaijan,FALSE
 2001-03-24,Bosnia and Herzegovina,Austria,1,1,FIFA World Cup qualification,Sarajevo,Bosnia and Herzegovina,FALSE
-2001-03-24,British Virgin Islands,U.S. Virgin Islands,2,0,Friendly,Road Town,British Virgin Islands,FALSE
+2001-03-24,British Virgin Islands,United States Virgin Islands,2,0,Friendly,Road Town,British Virgin Islands,FALSE
 2001-03-24,Bulgaria,Iceland,2,1,FIFA World Cup qualification,Sofia,Bulgaria,FALSE
 2001-03-24,Croatia,Latvia,4,1,FIFA World Cup qualification,Osijek,Croatia,FALSE
 2001-03-24,Cyprus,Republic of Ireland,0,4,FIFA World Cup qualification,Nicosia,Cyprus,FALSE
@@ -23810,11 +23810,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2001-04-09,American Samoa,Samoa,0,8,FIFA World Cup qualification,Coffs Harbour,Australia,TRUE
 2001-04-09,Australia,Tonga,22,0,FIFA World Cup qualification,Coffs Harbour,Australia,FALSE
 2001-04-10,Guadeloupe,Saint Lucia,2,3,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,TRUE
-2001-04-10,Haiti,U.S. Virgin Islands,12,1,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,FALSE
+2001-04-10,Haiti,United States Virgin Islands,12,1,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,FALSE
 2001-04-11,Australia,American Samoa,31,0,FIFA World Cup qualification,Coffs Harbour,Australia,FALSE
 2001-04-11,Mexico,Chile,1,0,Friendly,Monterrey,Mexico,FALSE
 2001-04-11,Samoa,Fiji,1,6,FIFA World Cup qualification,Coffs Harbour,Australia,TRUE
-2001-04-12,Guadeloupe,U.S. Virgin Islands,11,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,TRUE
+2001-04-12,Guadeloupe,United States Virgin Islands,11,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,TRUE
 2001-04-12,Haiti,Saint Lucia,3,2,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,FALSE
 2001-04-12,Iraq,Macau,8,0,FIFA World Cup qualification,Baghdad,Iraq,FALSE
 2001-04-12,Nepal,Kazakhstan,0,6,FIFA World Cup qualification,Baghdad,Iraq,TRUE
@@ -23824,7 +23824,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2001-04-14,Haiti,Guadeloupe,2,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,FALSE
 2001-04-14,Iraq,Nepal,9,1,FIFA World Cup qualification,Baghdad,Iraq,FALSE
 2001-04-14,Kazakhstan,Macau,3,0,FIFA World Cup qualification,Baghdad,Iraq,TRUE
-2001-04-14,Saint Lucia,U.S. Virgin Islands,14,1,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,TRUE
+2001-04-14,Saint Lucia,United States Virgin Islands,14,1,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,TRUE
 2001-04-15,Cambodia,Maldives,1,1,FIFA World Cup qualification,Phnom Penh,Cambodia,FALSE
 2001-04-15,India,Yemen,1,1,FIFA World Cup qualification,Bangalore,India,FALSE
 2001-04-16,Australia,Samoa,11,0,FIFA World Cup qualification,Coffs Harbour,Australia,FALSE
@@ -24935,9 +24935,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2002-08-11,Curaçao,Guyana,1,0,Gold Cup qualification,Willemstad,Netherlands Antilles,FALSE
 2002-08-11,Saint Lucia,Jamaica,1,3,Friendly,Vieux Fort,Saint Lucia,FALSE
 2002-08-11,Suriname,Aruba,6,0,Gold Cup qualification,Paramaribo,Suriname,FALSE
-2002-08-16,Dominican Republic,U.S. Virgin Islands,6,1,Gold Cup qualification,San Cristóbal,Dominican Republic,FALSE
+2002-08-16,Dominican Republic,United States Virgin Islands,6,1,Gold Cup qualification,San Cristóbal,Dominican Republic,FALSE
 2002-08-17,Jordan,Kenya,1,1,Friendly,Amman,Jordan,FALSE
-2002-08-18,Dominican Republic,U.S. Virgin Islands,5,1,Gold Cup qualification,San Cristóbal,Dominican Republic,FALSE
+2002-08-18,Dominican Republic,United States Virgin Islands,5,1,Gold Cup qualification,San Cristóbal,Dominican Republic,FALSE
 2002-08-19,Jordan,Sudan,0,0,Friendly,Amman,Jordan,FALSE
 2002-08-20,Algeria,DR Congo,1,1,Friendly,Blida,Algeria,FALSE
 2002-08-20,Egypt,Uganda,2,0,Friendly,Alexandria,Egypt,FALSE
@@ -26255,10 +26255,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2004-01-29,Algeria,Egypt,2,1,African Cup of Nations,Sousse,Tunisia,TRUE
 2004-01-29,Cameroon,Zimbabwe,5,3,African Cup of Nations,Sfax,Tunisia,TRUE
 2004-01-29,China PR,North Macedonia,1,0,Friendly,Suzhou,China PR,FALSE
-2004-01-30,British Virgin Islands,U.S. Virgin Islands,5,0,Friendly,Road Town,British Virgin Islands,FALSE
+2004-01-30,British Virgin Islands,United States Virgin Islands,5,0,Friendly,Road Town,British Virgin Islands,FALSE
 2004-01-30,Burkina Faso,Mali,1,3,African Cup of Nations,Tunis,Tunisia,TRUE
 2004-01-30,Senegal,Kenya,3,0,African Cup of Nations,Bizerte,Tunisia,TRUE
-2004-01-31,Dominica,U.S. Virgin Islands,5,0,Friendly,Spanish Town,British Virgin Islands,TRUE
+2004-01-31,Dominica,United States Virgin Islands,5,0,Friendly,Spanish Town,British Virgin Islands,TRUE
 2004-01-31,Grenada,Barbados,0,1,Friendly,St. George's,Grenada,FALSE
 2004-01-31,Haiti,Nicaragua,1,1,Friendly,West Palm Beach,United States,TRUE
 2004-01-31,Morocco,Benin,4,0,African Cup of Nations,Sfax,Tunisia,TRUE
@@ -26335,7 +26335,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2004-02-18,Uzbekistan,Iraq,1,1,FIFA World Cup qualification,Tashkent,Uzbekistan,FALSE
 2004-02-18,Venezuela,Australia,1,1,Friendly,Caracas,Venezuela,FALSE
 2004-02-18,Vietnam,Maldives,4,0,FIFA World Cup qualification,Hanoi,Vietnam,FALSE
-2004-02-18,U.S. Virgin Islands,Saint Kitts and Nevis,0,4,FIFA World Cup qualification,Charlotte Amalie,U.S. Virgin Islands,FALSE
+2004-02-18,United States Virgin Islands,Saint Kitts and Nevis,0,4,FIFA World Cup qualification,Charlotte Amalie,United States Virgin Islands,FALSE
 2004-02-18,Wales,Scotland,4,0,Friendly,Cardiff,Wales,FALSE
 2004-02-18,Yemen,North Korea,1,1,FIFA World Cup qualification,Sana'a,Yemen,FALSE
 2004-02-19,Cyprus,Georgia,3,1,Cyprus International Tournament,Nicosia,Cyprus,FALSE
@@ -26424,7 +26424,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2004-03-31,Slovenia,Latvia,0,1,Friendly,Celje,Slovenia,FALSE
 2004-03-31,Spain,Denmark,2,0,Friendly,Gijón,Spain,FALSE
 2004-03-31,Sri Lanka,Saudi Arabia,0,1,FIFA World Cup qualification,Colombo,Sri Lanka,FALSE
-2004-03-31,Saint Kitts and Nevis,U.S. Virgin Islands,7,0,FIFA World Cup qualification,Basseterre,Saint Kitts and Nevis,FALSE
+2004-03-31,Saint Kitts and Nevis,United States Virgin Islands,7,0,FIFA World Cup qualification,Basseterre,Saint Kitts and Nevis,FALSE
 2004-03-31,Sweden,England,1,0,Friendly,Gothenburg,Sweden,FALSE
 2004-03-31,Tajikistan,Bahrain,0,0,FIFA World Cup qualification,Dushanbe,Tajikistan,FALSE
 2004-03-31,Tunisia,Ivory Coast,0,2,Friendly,Tunis,Tunisia,FALSE
@@ -26971,7 +26971,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2004-09-08,Yemen,United Arab Emirates,3,1,FIFA World Cup qualification,Sana'a,Yemen,FALSE
 2004-09-10,Saint Vincent and the Grenadines,Saint Kitts and Nevis,1,0,FIFA World Cup qualification,Kingstown,Saint Vincent and the Grenadines,FALSE
 2004-09-19,Mozambique,Angola,0,1,COSAFA Cup,Maputo,Mozambique,FALSE
-2004-09-25,British Virgin Islands,U.S. Virgin Islands,2,1,Friendly,Road Town,British Virgin Islands,FALSE
+2004-09-25,British Virgin Islands,United States Virgin Islands,2,1,Friendly,Road Town,British Virgin Islands,FALSE
 2004-09-29,Kuwait,Syria,1,1,Friendly,Tripoli,Lebanon,TRUE
 2004-09-30,Botswana,Zambia,1,0,Friendly,Gaborone,Botswana,FALSE
 2004-10-02,Jamaica,Guatemala,2,2,Friendly,Fort Lauderdale,United States,TRUE
@@ -27163,11 +27163,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2004-11-22,United Arab Emirates,Belarus,2,3,Friendly,Dubai,United Arab Emirates,FALSE
 2004-11-24,Cayman Islands,Bermuda,1,2,CFU Caribbean Cup qualification,Kingstown,Saint Vincent and the Grenadines,TRUE
 2004-11-24,Grenada,Suriname,2,2,CFU Caribbean Cup qualification,Macoya,Trinidad and Tobago,TRUE
-2004-11-24,Haiti,U.S. Virgin Islands,11,0,CFU Caribbean Cup qualification,Kingston,Jamaica,TRUE
+2004-11-24,Haiti,United States Virgin Islands,11,0,CFU Caribbean Cup qualification,Kingston,Jamaica,TRUE
 2004-11-24,Jamaica,Saint Martin,12,0,CFU Caribbean Cup qualification,Kingston,Jamaica,FALSE
 2004-11-24,Trinidad and Tobago,Puerto Rico,5,0,CFU Caribbean Cup qualification,Macoya,Trinidad and Tobago,FALSE
 2004-11-26,British Virgin Islands,Cayman Islands,0,1,CFU Caribbean Cup qualification,Kingstown,Saint Vincent and the Grenadines,TRUE
-2004-11-26,Jamaica,U.S. Virgin Islands,11,1,CFU Caribbean Cup qualification,Montego Bay,Jamaica,FALSE
+2004-11-26,Jamaica,United States Virgin Islands,11,1,CFU Caribbean Cup qualification,Montego Bay,Jamaica,FALSE
 2004-11-26,Puerto Rico,Suriname,1,1,CFU Caribbean Cup qualification,San Fernando,Trinidad and Tobago,TRUE
 2004-11-26,Saint Martin,Haiti,0,2,CFU Caribbean Cup qualification,Montego Bay,Jamaica,TRUE
 2004-11-26,Trinidad and Tobago,Grenada,2,0,CFU Caribbean Cup qualification,San Fernando,Trinidad and Tobago,FALSE
@@ -27177,7 +27177,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2004-11-28,Jamaica,Haiti,3,1,CFU Caribbean Cup qualification,Kingston,Jamaica,FALSE
 2004-11-28,Singapore,Burma,1,0,Friendly,Singapore,Singapore,FALSE
 2004-11-28,Trinidad and Tobago,Suriname,1,0,CFU Caribbean Cup qualification,Arima,Trinidad and Tobago,FALSE
-2004-11-28,U.S. Virgin Islands,Saint Martin,0,0,CFU Caribbean Cup qualification,Kingston,Jamaica,TRUE
+2004-11-28,United States Virgin Islands,Saint Martin,0,0,CFU Caribbean Cup qualification,Kingston,Jamaica,TRUE
 2004-11-29,Egypt,Bulgaria,1,1,Friendly,Cairo,Egypt,FALSE
 2004-11-30,Hungary,Slovakia,0,1,King's Cup,Bangkok,Thailand,TRUE
 2004-11-30,Singapore,Hong Kong,0,0,Friendly,Singapore,Singapore,FALSE
@@ -28659,14 +28659,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2006-09-24,Guadeloupe,Martinique,4,0,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,FALSE
 2006-09-27,Jamaica,Saint Lucia,4,0,CFU Caribbean Cup qualification,Kingston,Jamaica,FALSE
 2006-09-27,Venezuela,Uruguay,1,0,Friendly,Maracaibo,Venezuela,FALSE
-2006-09-27,U.S. Virgin Islands,Bermuda,0,6,CFU Caribbean Cup qualification,Charlotte Amalie,U.S. Virgin Islands,FALSE
-2006-09-29,Bermuda,Dominican Republic,3,1,CFU Caribbean Cup qualification,Charlotte Amalie,U.S. Virgin Islands,TRUE
+2006-09-27,United States Virgin Islands,Bermuda,0,6,CFU Caribbean Cup qualification,Charlotte Amalie,United States Virgin Islands,FALSE
+2006-09-29,Bermuda,Dominican Republic,3,1,CFU Caribbean Cup qualification,Charlotte Amalie,United States Virgin Islands,TRUE
 2006-09-29,Saint Lucia,Haiti,1,7,CFU Caribbean Cup qualification,Kingston,Jamaica,TRUE
 2006-09-30,Tanzania,Kenya,0,0,Friendly,Dar es Salaam,Tanzania,FALSE
 2006-10-01,Jamaica,Haiti,2,0,CFU Caribbean Cup qualification,Kingston,Jamaica,FALSE
 2006-10-01,Libya,Sudan,1,0,Friendly,Tripoli,Libya,FALSE
 2006-10-01,Saint Vincent and the Grenadines,Saint Lucia,8,0,CFU Caribbean Cup qualification,Kingston,Jamaica,TRUE
-2006-10-01,U.S. Virgin Islands,Dominican Republic,1,6,CFU Caribbean Cup qualification,Charlotte Amalie,U.S. Virgin Islands,FALSE
+2006-10-01,United States Virgin Islands,Dominican Republic,1,6,CFU Caribbean Cup qualification,Charlotte Amalie,United States Virgin Islands,FALSE
 2006-10-03,Botswana,Lesotho,1,0,Friendly,Gaborone,Botswana,FALSE
 2006-10-04,Ethiopia,Eswatini,2,0,Friendly,Addis Abeba,Ethiopia,FALSE
 2006-10-04,Iran,Iraq,2,0,Friendly,Amman,Jordan,TRUE
@@ -30038,8 +30038,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2008-03-04,Qatar,Bahrain,1,2,Friendly,Doha,Qatar,FALSE
 2008-03-09,Mauritius,Madagascar,1,2,Friendly,Curepipe,Mauritius,FALSE
 2008-03-11,South Africa,Zimbabwe,2,1,Friendly,Germiston,South Africa,FALSE
-2008-03-14,British Virgin Islands,U.S. Virgin Islands,0,0,Friendly,Road Town,British Virgin Islands,FALSE
-2008-03-15,British Virgin Islands,U.S. Virgin Islands,1,1,Friendly,Road Town,British Virgin Islands,FALSE
+2008-03-14,British Virgin Islands,United States Virgin Islands,0,0,Friendly,Road Town,British Virgin Islands,FALSE
+2008-03-15,British Virgin Islands,United States Virgin Islands,1,1,Friendly,Road Town,British Virgin Islands,FALSE
 2008-03-15,China PR,Thailand,3,3,Friendly,Kunming,China PR,FALSE
 2008-03-16,Iceland,Faroe Islands,3,0,Friendly,Kópavogur,Iceland,FALSE
 2008-03-16,Qatar,Jordan,2,1,Friendly,Doha,Qatar,FALSE
@@ -30076,7 +30076,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2008-03-26,Estonia,Canada,2,0,Friendly,Tallinn,Estonia,FALSE
 2008-03-26,France,England,1,0,Friendly,Saint-Denis,France,FALSE
 2008-03-26,Ghana,Mexico,1,2,Friendly,London,England,TRUE
-2008-03-26,Grenada,U.S. Virgin Islands,10,0,FIFA World Cup qualification,St. George's,Grenada,FALSE
+2008-03-26,Grenada,United States Virgin Islands,10,0,FIFA World Cup qualification,St. George's,Grenada,FALSE
 2008-03-26,Honduras,Colombia,2,1,Friendly,Fort Lauderdale,United States,TRUE
 2008-03-26,Hungary,Slovenia,0,1,Friendly,Zalaegerszeg,Hungary,FALSE
 2008-03-26,Israel,Chile,1,0,Friendly,Ramat-Gan,Israel,FALSE
@@ -33125,7 +33125,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2011-06-18,Malaysia,Burma,2,0,Friendly,Kota Baharu,Malaysia,FALSE
 2011-06-18,Mexico,Guatemala,2,1,Gold Cup,East Rutherford,United States,TRUE
 2011-06-19,Chile,Estonia,4,0,Friendly,Santiago,Chile,FALSE
-2011-06-19,Anguilla,U.S. Virgin Islands,0,0,Friendly,The Valley,Anguilla,FALSE
+2011-06-19,Anguilla,United States Virgin Islands,0,0,Friendly,The Valley,Anguilla,FALSE
 2011-06-19,Panama,El Salvador,1,1,Gold Cup,Washington,United States,TRUE
 2011-06-19,United States,Jamaica,2,0,Gold Cup,Washington,United States,FALSE
 2011-06-20,Argentina,Albania,4,0,Friendly,Buenos Aires,Argentina,FALSE
@@ -33189,7 +33189,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2011-07-03,Palestine,Afghanistan,1,1,FIFA World Cup qualification,al-Ramm,Palestine,FALSE
 2011-07-03,Paraguay,Ecuador,0,0,Copa América,Santa Fe,Argentina,TRUE
 2011-07-03,Philippines,Sri Lanka,4,0,FIFA World Cup qualification,Manila,Philippines,FALSE
-2011-07-03,U.S. Virgin Islands,British Virgin Islands,2,0,FIFA World Cup qualification,Charlotte Amalie,U.S. Virgin Islands,FALSE
+2011-07-03,United States Virgin Islands,British Virgin Islands,2,0,FIFA World Cup qualification,Charlotte Amalie,United States Virgin Islands,FALSE
 2011-07-04,Chile,Mexico,2,1,Copa América,San Juan,Argentina,TRUE
 2011-07-04,Uruguay,Peru,1,1,Copa América,San Juan,Argentina,TRUE
 2011-07-05,Jordan,Syria,1,3,Friendly,Istanbul,Turkey,TRUE
@@ -33208,7 +33208,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2011-07-09,Lebanon,Oman,0,1,Friendly,Beirut,Lebanon,FALSE
 2011-07-09,Solomon Islands,Vanuatu,0,0,Friendly,Honiara,Solomon Islands,FALSE
 2011-07-09,Venezuela,Ecuador,1,0,Copa América,Salta,Argentina,TRUE
-2011-07-10,British Virgin Islands,U.S. Virgin Islands,1,2,FIFA World Cup qualification,Road Town,British Virgin Islands,FALSE
+2011-07-10,British Virgin Islands,United States Virgin Islands,1,2,FIFA World Cup qualification,Road Town,British Virgin Islands,FALSE
 2011-07-10,Colombia,Bolivia,2,0,Copa América,Santa Fe,Argentina,TRUE
 2011-07-10,Dominican Republic,Anguilla,4,0,FIFA World Cup qualification,San Cristóbal,Dominican Republic,FALSE
 2011-07-10,Maldives,India,1,1,Friendly,Malé,Maldives,FALSE
@@ -33380,7 +33380,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2011-09-02,Ghana,Eswatini,2,0,African Cup of Nations qualification,Accra,Ghana,FALSE
 2011-09-02,Grenada,Belize,0,3,FIFA World Cup qualification,St. George's,Grenada,FALSE
 2011-09-02,Guyana,Barbados,2,0,FIFA World Cup qualification,Providence,Guyana,FALSE
-2011-09-02,Haiti,U.S. Virgin Islands,6,0,FIFA World Cup qualification,Port-au-Prince,Haiti,FALSE
+2011-09-02,Haiti,United States Virgin Islands,6,0,FIFA World Cup qualification,Port-au-Prince,Haiti,FALSE
 2011-09-02,Hungary,Sweden,2,1,UEFA Euro qualification,Budapest,Hungary,FALSE
 2011-09-02,Iran,Indonesia,3,0,FIFA World Cup qualification,Teheran,Iran,FALSE
 2011-09-02,Iraq,Jordan,0,2,FIFA World Cup qualification,Arbil,Iraq,FALSE
@@ -33495,7 +33495,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2011-09-06,Thailand,Oman,3,0,FIFA World Cup qualification,Bangkok,Thailand,FALSE
 2011-09-06,Uzbekistan,Japan,1,1,FIFA World Cup qualification,Tashkent,Uzbekistan,FALSE
 2011-09-06,Venezuela,Guinea,2,1,Friendly,Caracas,Venezuela,FALSE
-2011-09-06,U.S. Virgin Islands,Antigua and Barbuda,1,8,FIFA World Cup qualification,Frederiksted,U.S. Virgin Islands,FALSE
+2011-09-06,United States Virgin Islands,Antigua and Barbuda,1,8,FIFA World Cup qualification,Frederiksted,United States Virgin Islands,FALSE
 2011-09-07,Equatorial Guinea,Central African Republic,3,0,Friendly,Malabo,Equatorial Guinea,FALSE
 2011-09-07,New Caledonia,Tahiti,3,1,Pacific Games,Koné,New Caledonia,FALSE
 2011-09-07,Solomon Islands,Fiji,2,1,Pacific Games,Lifou,New Caledonia,TRUE
@@ -33557,7 +33557,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2011-10-07,Turkey,Germany,1,3,UEFA Euro qualification,Istanbul,Turkey,FALSE
 2011-10-07,Ukraine,Bulgaria,3,0,Friendly,Kyïv,Ukraine,FALSE
 2011-10-07,Uruguay,Bolivia,4,2,FIFA World Cup qualification,Montevideo,Uruguay,FALSE
-2011-10-07,U.S. Virgin Islands,Haiti,0,7,FIFA World Cup qualification,Frederiksted,U.S. Virgin Islands,FALSE
+2011-10-07,United States Virgin Islands,Haiti,0,7,FIFA World Cup qualification,Frederiksted,United States Virgin Islands,FALSE
 2011-10-07,Wales,Switzerland,2,0,UEFA Euro qualification,Swansea,Wales,FALSE
 2011-10-08,Cape Verde,Zimbabwe,2,1,African Cup of Nations qualification,Praia,Cape Verde,FALSE
 2011-10-08,Chad,Malawi,2,2,African Cup of Nations qualification,N'Djamena,Chad,FALSE
@@ -33582,7 +33582,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2011-10-09,Mauritius,Senegal,0,2,African Cup of Nations qualification,Mapou,Mauritius,FALSE
 2011-10-09,Morocco,Tanzania,3,1,African Cup of Nations qualification,Marrakech,Morocco,FALSE
 2011-10-11,Albania,Romania,1,1,UEFA Euro qualification,Tirana,Albania,FALSE
-2011-10-11,Antigua and Barbuda,U.S. Virgin Islands,10,0,FIFA World Cup qualification,St. John's,Antigua and Barbuda,FALSE
+2011-10-11,Antigua and Barbuda,United States Virgin Islands,10,0,FIFA World Cup qualification,St. John's,Antigua and Barbuda,FALSE
 2011-10-11,Australia,Oman,3,0,FIFA World Cup qualification,Sydney,Australia,FALSE
 2011-10-11,Belarus,Poland,0,2,Friendly,Wiesbaden,Germany,TRUE
 2011-10-11,Bermuda,Guyana,1,1,FIFA World Cup qualification,Hamilton,Bermuda,FALSE
@@ -33695,7 +33695,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2011-11-11,United Arab Emirates,South Korea,0,2,FIFA World Cup qualification,Dubai,United Arab Emirates,FALSE
 2011-11-11,Uruguay,Chile,4,0,FIFA World Cup qualification,Montevideo,Uruguay,FALSE
 2011-11-11,Uzbekistan,North Korea,1,0,FIFA World Cup qualification,Tashkent,Uzbekistan,FALSE
-2011-11-11,U.S. Virgin Islands,Curaçao,0,3,FIFA World Cup qualification,Frederiksted,U.S. Virgin Islands,FALSE
+2011-11-11,United States Virgin Islands,Curaçao,0,3,FIFA World Cup qualification,Frederiksted,United States Virgin Islands,FALSE
 2011-11-12,Algeria,Tunisia,1,0,Friendly,Algiers,Algeria,FALSE
 2011-11-12,England,Spain,1,0,Friendly,London,England,FALSE
 2011-11-12,Nigeria,Botswana,0,0,Friendly,Abuja,Nigeria,FALSE
@@ -33719,7 +33719,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2011-11-15,DR Congo,Eswatini,5,1,FIFA World Cup qualification,Kinshasa,DR Congo,FALSE
 2011-11-15,Costa Rica,Spain,2,2,Friendly,San José,Costa Rica,FALSE
 2011-11-15,Croatia,Turkey,0,0,UEFA Euro qualification,Zagreb,Croatia,FALSE
-2011-11-15,Curaçao,U.S. Virgin Islands,6,1,FIFA World Cup qualification,Willemstad,Curaçao,FALSE
+2011-11-15,Curaçao,United States Virgin Islands,6,1,FIFA World Cup qualification,Willemstad,Curaçao,FALSE
 2011-11-15,Denmark,Finland,2,1,Friendly,Esbjerg,Denmark,FALSE
 2011-11-15,Ecuador,Peru,2,0,FIFA World Cup qualification,Quito,Ecuador,FALSE
 2011-11-15,El Salvador,Suriname,4,0,FIFA World Cup qualification,San Salvador,El Salvador,FALSE
@@ -36014,7 +36014,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2014-05-30,England,Peru,3,0,Friendly,London,England,FALSE
 2014-05-30,French Guiana,British Virgin Islands,6,0,CFU Caribbean Cup qualification,Oranjestad,Aruba,TRUE
 2014-05-30,North Macedonia,Qatar,0,0,Friendly,Rieti,Italy,TRUE
-2014-05-30,Montserrat,U.S. Virgin Islands,1,0,CFU Caribbean Cup qualification,Lookout,Montserrat,FALSE
+2014-05-30,Montserrat,United States Virgin Islands,1,0,CFU Caribbean Cup qualification,Lookout,Montserrat,FALSE
 2014-05-30,New Zealand,South Africa,0,0,Friendly,Auckland,New Zealand,FALSE
 2014-05-30,Palestine,Philippines,1,0,AFC Challenge Cup,Malé,Maldives,TRUE
 2014-05-30,South Sudan,Mozambique,0,0,African Cup of Nations qualification,Khartoum,Sudan,TRUE
@@ -36049,7 +36049,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2014-06-01,Sweden,Belgium,0,2,Friendly,Solna,Sweden,FALSE
 2014-06-01,Turks and Caicos Islands,French Guiana,0,6,CFU Caribbean Cup qualification,Oranjestad,Aruba,TRUE
 2014-06-01,United States,Turkey,2,1,Friendly,Harrison,United States,FALSE
-2014-06-01,U.S. Virgin Islands,Bonaire,1,2,CFU Caribbean Cup qualification,Lookout,Montserrat,TRUE
+2014-06-01,United States Virgin Islands,Bonaire,1,2,CFU Caribbean Cup qualification,Lookout,Montserrat,TRUE
 2014-06-01,Zimbabwe,Tanzania,2,2,African Cup of Nations qualification,Harare,Zimbabwe,FALSE
 2014-06-01,Iraqi Kurdistan,Arameans Suryoye,1,2,CONIFA World Football Cup,Östersund,Sweden,TRUE
 2014-06-01,Abkhazia,Occitania,1,1,CONIFA World Football Cup,Östersund,Sweden,TRUE
@@ -36760,7 +36760,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2015-02-08,Ivory Coast,Ghana,0,0,African Cup of Nations,Bata,Equatorial Guinea,TRUE
 2015-02-08,United States,Panama,2,0,Friendly,Carson,United States,FALSE
 2015-02-18,Kazakhstan,Moldova,1,1,Friendly,Antalya,Turkey,TRUE
-2015-03-08,Antigua and Barbuda,U.S. Virgin Islands,2,0,Friendly,St. John's,Antigua and Barbuda,FALSE
+2015-03-08,Antigua and Barbuda,United States Virgin Islands,2,0,Friendly,St. John's,Antigua and Barbuda,FALSE
 2015-03-08,Bermuda,Grenada,2,0,Friendly,Hamilton,Bermuda,FALSE
 2015-03-12,Cambodia,Macau,3,0,FIFA World Cup qualification,Phnom Penh,Cambodia,FALSE
 2015-03-12,East Timor,Mongolia,0,3,FIFA World Cup qualification,Dili,East Timor,FALSE
@@ -36774,7 +36774,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2015-03-17,Mongolia,East Timor,3,0,FIFA World Cup qualification,Ulan Bator,Mongolia,FALSE
 2015-03-17,Nepal,India,0,0,FIFA World Cup qualification,Kathmandu,Nepal,FALSE
 2015-03-22,Antigua and Barbuda,British Virgin Islands,1,0,Friendly,St. John's,Antigua and Barbuda,FALSE
-2015-03-22,Barbados,U.S. Virgin Islands,0,1,FIFA World Cup qualification,Bridgetown,Barbados,FALSE
+2015-03-22,Barbados,United States Virgin Islands,0,1,FIFA World Cup qualification,Bridgetown,Barbados,FALSE
 2015-03-23,Pakistan,Yemen,0,0,FIFA World Cup qualification,Isa Town,Bahrain,TRUE
 2015-03-25,Botswana,Lesotho,2,0,Friendly,Gaborone,Botswana,FALSE
 2015-03-25,Denmark,United States,3,2,Friendly,Århus,Denmark,FALSE
@@ -36798,7 +36798,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2015-03-26,Oman,Malaysia,6,0,Friendly,Seeb,Oman,FALSE
 2015-03-26,Qatar,Algeria,1,0,Friendly,Doha,Qatar,FALSE
 2015-03-26,Thailand,Singapore,2,0,Friendly,Nakhon Ratchasima,Thailand,FALSE
-2015-03-26,U.S. Virgin Islands,Barbados,0,4,FIFA World Cup qualification,Charlotte Amalie,U.S. Virgin Islands,FALSE
+2015-03-26,United States Virgin Islands,Barbados,0,4,FIFA World Cup qualification,Charlotte Amalie,United States Virgin Islands,FALSE
 2015-03-27,Canada,Guatemala,1,0,Friendly,Fort Lauderdale,United States,TRUE
 2015-03-27,China PR,Haiti,2,2,Friendly,Changsha,China PR,FALSE
 2015-03-27,Curaçao,Montserrat,2,1,FIFA World Cup qualification,Willemstad,Curaçao,FALSE
@@ -37816,7 +37816,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2016-03-26,Russia,Lithuania,3,0,Friendly,Moscow,Russia,FALSE
 2016-03-26,Senegal,Niger,2,0,African Cup of Nations qualification,Dakar,Senegal,FALSE
 2016-03-26,Seychelles,Lesotho,2,0,African Cup of Nations qualification,Victoria,Seychelles,FALSE
-2016-03-26,Sint Maarten,U.S. Virgin Islands,1,2,CFU Caribbean Cup qualification,Philipsburg,Sint Maarten,FALSE
+2016-03-26,Sint Maarten,United States Virgin Islands,1,2,CFU Caribbean Cup qualification,Philipsburg,Sint Maarten,FALSE
 2016-03-27,Benin,South Sudan,4,1,African Cup of Nations qualification,Cotonou,Benin,FALSE
 2016-03-27,Botswana,Comoros,2,1,African Cup of Nations qualification,Francistown,Botswana,FALSE
 2016-03-27,Congo,Zambia,1,1,African Cup of Nations qualification,Brazzaville,Congo,FALSE
@@ -37894,7 +37894,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2016-03-29,United States,Guatemala,4,0,FIFA World Cup qualification,Columbus,United States,FALSE
 2016-03-29,Uzbekistan,Bahrain,1,0,FIFA World Cup qualification,Tashkent,Uzbekistan,FALSE
 2016-03-29,Venezuela,Chile,1,4,FIFA World Cup qualification,Barinas,Venezuela,FALSE
-2016-03-29,U.S. Virgin Islands,Grenada,1,2,CFU Caribbean Cup qualification,Charlotte Amalie,U.S. Virgin Islands,FALSE
+2016-03-29,United States Virgin Islands,Grenada,1,2,CFU Caribbean Cup qualification,Charlotte Amalie,United States Virgin Islands,FALSE
 2016-04-27,Martinique,Panama,0,2,Friendly,Fort-de-France,Martinique,FALSE
 2016-05-20,Hungary,Ivory Coast,0,0,Friendly,Budapest,Hungary,FALSE
 2016-05-20,Galicia,Venezuela,1,1,Friendly,La Coruña,Spain,FALSE
@@ -38029,7 +38029,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2016-06-04,Slovakia,Northern Ireland,0,0,Friendly,Trnava,Slovakia,FALSE
 2016-06-04,South Sudan,Mali,0,3,African Cup of Nations qualification,Juba,South Sudan,FALSE
 2016-06-04,Tanzania,Egypt,0,2,African Cup of Nations qualification,Dar es Salaam,Tanzania,FALSE
-2016-06-04,U.S. Virgin Islands,Guyana,0,7,CFU Caribbean Cup qualification,Charlotte Amalie,U.S. Virgin Islands,FALSE
+2016-06-04,United States Virgin Islands,Guyana,0,7,CFU Caribbean Cup qualification,Charlotte Amalie,United States Virgin Islands,FALSE
 2016-06-04,Abkhazia,Northern Cyprus,2,0,CONIFA World Football Cup,Suhkumi,Georgia,FALSE
 2016-06-04,Padania,Panjab,1,0,CONIFA World Football Cup,Suhkumi,Georgia,TRUE
 2016-06-04,United Koreans in Japan,Iraqi Kurdistan,1,1,CONIFA World Football Cup,Suhkumi,Georgia,TRUE
@@ -38071,7 +38071,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2016-06-07,Canada,Uzbekistan,2,1,Friendly,Bad Waltersdorf,Austria,TRUE
 2016-06-07,China PR,Kazakhstan,0,1,Friendly,Dalian,China PR,FALSE
 2016-06-07,Colombia,Paraguay,2,1,Copa América,Pasadena,United States,TRUE
-2016-06-07,Curaçao,U.S. Virgin Islands,7,0,CFU Caribbean Cup qualification,Willemstad,Curaçao,FALSE
+2016-06-07,Curaçao,United States Virgin Islands,7,0,CFU Caribbean Cup qualification,Willemstad,Curaçao,FALSE
 2016-06-07,Dominican Republic,French Guiana,2,1,CFU Caribbean Cup qualification,Santo Domingo,Dominican Republic,FALSE
 2016-06-07,India,Laos,6,1,AFC Asian Cup qualification,Guwahati,India,FALSE
 2016-06-07,Iran,Kyrgyzstan,6,0,Friendly,Teheran,Iran,FALSE
@@ -40090,7 +40090,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-09-09,Rwanda,Ivory Coast,1,2,African Cup of Nations qualification,Kigali,Rwanda,FALSE
 2018-09-09,India,Maldives,2,0,SAFF Cup,Dhaka,Bangladesh,TRUE
 2018-09-09,Bonaire,Dominican Republic,0,5,CONCACAF Nations League qualification,Willemstad,Netherlands Antilles,TRUE
-2018-09-09,U.S. Virgin Islands,Canada,0,8,CONCACAF Nations League qualification,Bradenton,United States,TRUE
+2018-09-09,United States Virgin Islands,Canada,0,8,CONCACAF Nations League qualification,Bradenton,United States,TRUE
 2018-09-09,Aruba,Bermuda,3,1,CONCACAF Nations League qualification,Willemstad,Netherlands Antilles,TRUE
 2018-09-09,Jamaica,Cayman Islands,4,0,CONCACAF Nations League qualification,Kingston,Jamaica,FALSE
 2018-09-09,Saint Kitts and Nevis,Puerto Rico,1,0,CONCACAF Nations League qualification,Basseterre,Saint Kitts and Nevis,TRUE
@@ -40189,7 +40189,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-10-12,Egypt,Eswatini,4,1,African Cup of Nations qualification,Cairo,Egypt,FALSE
 2018-10-12,Cape Verde,Tanzania,3,0,African Cup of Nations qualification,Praia,Cape Verde,FALSE
 2018-10-12,Basque Country,Venezuela,4,2,Friendly,Vitoria-Gasteiz,Spain,FALSE
-2018-10-12,U.S. Virgin Islands,Curaçao,0,5,CONCACAF Nations League qualification,Bradenton,United States,TRUE
+2018-10-12,United States Virgin Islands,Curaçao,0,5,CONCACAF Nations League qualification,Bradenton,United States,TRUE
 2018-10-12,Bahamas,Antigua and Barbuda,0,6,CONCACAF Nations League qualification,Nassau,Bahamas,FALSE
 2018-10-12,Dominican Republic,Cayman Islands,3,0,CONCACAF Nations League qualification,Santiago de los Caballeros,Dominican Republic,FALSE
 2018-10-12,Bermuda,Sint Maarten,12,0,CONCACAF Nations League qualification,Hamilton,Bermuda,FALSE
@@ -40375,7 +40375,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-11-18,Yorkshire,Panjab,5,4,Friendly,Ossett,England,FALSE
 2018-11-18,Turks and Caicos Islands,Saint Vincent and the Grenadines,3,2,CONCACAF Nations League qualification,Providenciales,Turks and Caicos Islands,FALSE
 2018-11-18,Bahamas,Anguilla,1,1,CONCACAF Nations League qualification,Nassau,Bahamas,FALSE
-2018-11-18,Barbados,U.S. Virgin Islands,3,0,CONCACAF Nations League qualification,Bridgetown,Barbados,FALSE
+2018-11-18,Barbados,United States Virgin Islands,3,0,CONCACAF Nations League qualification,Bridgetown,Barbados,FALSE
 2018-11-18,Saint Kitts and Nevis,Canada,0,1,CONCACAF Nations League qualification,Basseterre,Saint Kitts and Nevis,TRUE
 2018-11-19,Germany,Netherlands,2,2,UEFA Nations League,Gelsenkirchen,Germany,FALSE
 2018-11-19,Czech Republic,Slovakia,1,0,UEFA Nations League,Prague,Czech Republic,FALSE
@@ -40559,7 +40559,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-03-22,Andorra,Iceland,0,2,UEFA Euro qualification,Andorra la Vella,Andorra,FALSE
 2019-03-22,Moldova,France,1,4,UEFA Euro qualification,Chișinău,Moldova,FALSE
 2019-03-22,Botswana,Angola,0,1,African Cup of Nations qualification,Francistown,Botswana,FALSE
-2019-03-22,Anguilla,U.S. Virgin Islands,0,3,CONCACAF Nations League qualification,The Valley,Anguilla,FALSE
+2019-03-22,Anguilla,United States Virgin Islands,0,3,CONCACAF Nations League qualification,The Valley,Anguilla,FALSE
 2019-03-22,Saint Vincent and the Grenadines,Bonaire,2,1,CONCACAF Nations League qualification,Arnos Vale,Saint Vincent and the Grenadines,FALSE
 2019-03-22,Cayman Islands,Montserrat,1,2,CONCACAF Nations League qualification,West Bay,Cayman Islands,FALSE
 2019-03-22,Saint Lucia,Aruba,3,2,CONCACAF Nations League qualification,North Sound,Antigua and Barbuda,TRUE
@@ -41059,7 +41059,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-09-05,Grenada,Saint Kitts and Nevis,2,1,CONCACAF Nations League,Saint George's,Grenada,FALSE
 2019-09-05,French Guiana,Belize,3,0,CONCACAF Nations League,Cayenne,French Guiana,FALSE
 2019-09-05,Dominica,Suriname,1,2,CONCACAF Nations League,Roseau,Dominica,FALSE
-2019-09-05,U.S. Virgin Islands,Cayman Islands,0,2,CONCACAF Nations League,Saint Croix,U.S. Virgin Islands,FALSE
+2019-09-05,United States Virgin Islands,Cayman Islands,0,2,CONCACAF Nations League,Saint Croix,United States Virgin Islands,FALSE
 2019-09-05,Barbados,Saint Martin,4,0,CONCACAF Nations League,Bridgetown,Barbados,FALSE
 2019-09-05,Guatemala,Anguilla,10,0,CONCACAF Nations League,Guatemala City,Guatemala,FALSE
 2019-09-05,Guam,Maldives,0,1,FIFA World Cup qualification,Dededo,Guam,FALSE
@@ -41131,7 +41131,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-09-08,Saint Kitts and Nevis,French Guiana,2,2,CONCACAF Nations League,Basseterre,Saint Kitts and Nevis,FALSE
 2019-09-08,Saint Vincent and the Grenadines,Dominica,1,0,CONCACAF Nations League,Arnos Vale,Saint Vincent and the Grenadines,FALSE
 2019-09-08,Suriname,Nicaragua,6,0,CONCACAF Nations League,Paramaribo,Suriname,FALSE
-2019-09-08,Saint Martin,U.S. Virgin Islands,1,2,CONCACAF Nations League,The Valley,Anguilla,TRUE
+2019-09-08,Saint Martin,United States Virgin Islands,1,2,CONCACAF Nations League,The Valley,Anguilla,TRUE
 2019-09-08,Cayman Islands,Barbados,3,2,CONCACAF Nations League,George Town,Cayman Islands,FALSE
 2019-09-08,Equatorial Guinea,South Sudan,1,0,FIFA World Cup qualification,Malabo,Equatorial Guinea,FALSE
 2019-09-08,Lesotho,Ethiopia,1,1,FIFA World Cup qualification,Maseru,Lesotho,FALSE
@@ -41303,7 +41303,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-10-12,Dominican Republic,Saint Lucia,3,0,CONCACAF Nations League,Santo Domingo,Dominican Republic,FALSE
 2019-10-12,Montserrat,El Salvador,0,2,CONCACAF Nations League,Look Out,Montserrat,FALSE
 2019-10-12,Jamaica,Aruba,2,0,CONCACAF Nations League,Kingston,Jamaica,FALSE
-2019-10-12,Barbados,U.S. Virgin Islands,1,0,CONCACAF Nations League,Bridgetown,Barbados,FALSE
+2019-10-12,Barbados,United States Virgin Islands,1,0,CONCACAF Nations League,Bridgetown,Barbados,FALSE
 2019-10-12,Saint Martin,Cayman Islands,3,0,CONCACAF Nations League,The Valley,Anguilla,TRUE
 2019-10-12,Anguilla,Guatemala,0,5,CONCACAF Nations League,The Valley,Anguilla,FALSE
 2019-10-13,Belarus,Netherlands,1,2,UEFA Euro qualification,Minsk,Belarus,FALSE
@@ -41373,7 +41373,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-10-15,Saint Lucia,El Salvador,0,2,CONCACAF Nations League,Gros Islet,Saint Lucia,FALSE
 2019-10-15,Aruba,Jamaica,0,6,CONCACAF Nations League,Willemstad,Curaçao,TRUE
 2019-10-15,Cayman Islands,Saint Martin,1,0,CONCACAF Nations League,George Town,Cayman Islands,FALSE
-2019-10-15,U.S. Virgin Islands,Barbados,0,4,CONCACAF Nations League,Saint Croix,U.S. Virgin Islands,FALSE
+2019-10-15,United States Virgin Islands,Barbados,0,4,CONCACAF Nations League,Saint Croix,United States Virgin Islands,FALSE
 2019-10-15,Anguilla,Puerto Rico,2,3,CONCACAF Nations League,The Valley,Anguilla,FALSE
 2019-10-15,Syria,Guam,4,0,FIFA World Cup qualification,Dubai,United Arab Emirates,TRUE
 2019-10-15,Philippines,China PR,0,0,FIFA World Cup qualification,Bacolod,Philippines,FALSE
@@ -41501,7 +41501,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-11-16,Saint Lucia,Dominican Republic,1,0,CONCACAF Nations League,Gros Islet,Saint Lucia,FALSE
 2019-11-16,El Salvador,Montserrat,1,0,CONCACAF Nations League,San Salvador,El Salvador,FALSE
 2019-11-16,Saint Martin,Barbados,1,0,CONCACAF Nations League,The Valley,Anguilla,TRUE
-2019-11-16,Cayman Islands,U.S. Virgin Islands,1,0,CONCACAF Nations League,George Town,Cayman Islands,FALSE
+2019-11-16,Cayman Islands,United States Virgin Islands,1,0,CONCACAF Nations League,George Town,Cayman Islands,FALSE
 2019-11-16,Guatemala,Puerto Rico,5,0,CONCACAF Nations League,Guatemala City,Guatemala,FALSE
 2019-11-17,Chad,Mali,0,2,African Cup of Nations qualification,N'Djamena,Chad,FALSE
 2019-11-17,Guinea,Namibia,2,0,African Cup of Nations qualification,Conakry,Guinea,FALSE
@@ -41569,7 +41569,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-11-19,El Salvador,Dominican Republic,2,0,CONCACAF Nations League,San Salvador,El Salvador,FALSE
 2019-11-19,Saint Lucia,Montserrat,0,1,CONCACAF Nations League,Gros Islet,Saint Lucia,FALSE
 2019-11-19,Barbados,Cayman Islands,3,0,CONCACAF Nations League,Bridgetown,Barbados,FALSE
-2019-11-19,U.S. Virgin Islands,Saint Martin,1,2,CONCACAF Nations League,Upper Bethlehem,U.S. Virgin Islands,FALSE
+2019-11-19,United States Virgin Islands,Saint Martin,1,2,CONCACAF Nations League,Upper Bethlehem,United States Virgin Islands,FALSE
 2019-11-19,Puerto Rico,Anguilla,3,0,CONCACAF Nations League,Bayamón,Puerto Rico,FALSE
 2019-11-19,Brazil,South Korea,3,0,Friendly,Abu Dhabi,United Arab Emirates,TRUE
 2019-11-19,Croatia,Georgia,2,1,Friendly,Pula,Croatia,FALSE
@@ -41989,7 +41989,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-03-27,Nepal,Bangladesh,0,0,Friendly,Kathmandu,Nepal,FALSE
 2021-03-27,Qatar,Azerbaijan,2,1,Friendly,Debrecen,Hungary,TRUE
 2021-03-27,Wales,Mexico,1,0,Friendly,Cardiff,Wales,FALSE
-2021-03-27,U.S. Virgin Islands,Antigua and Barbuda,0,3,FIFA World Cup qualification,St Croix,U.S. Virgin Islands,FALSE
+2021-03-27,United States Virgin Islands,Antigua and Barbuda,0,3,FIFA World Cup qualification,St Croix,United States Virgin Islands,FALSE
 2021-03-27,Aruba,Suriname,0,6,FIFA World Cup qualification,Bradenton,United States,TRUE
 2021-03-27,British Virgin Islands,Guatemala,0,3,FIFA World Cup qualification,Willemstad,Curaçao,TRUE
 2021-03-27,Anguilla,Dominican Republic,0,6,FIFA World Cup qualification,Fort Lauderdale,United States,TRUE
@@ -42052,7 +42052,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-03-30,Costa Rica,Mexico,0,1,Friendly,Wiener Neustadt,Austria,TRUE
 2021-03-30,Iran,Syria,3,0,Friendly,Tehran,Iran,FALSE
 2021-03-30,Republic of Ireland,Qatar,1,1,Friendly,Debrecen,Hungary,TRUE
-2021-03-30,Grenada,U.S. Virgin Islands,1,0,FIFA World Cup qualification,St George's,Grenada,FALSE
+2021-03-30,Grenada,United States Virgin Islands,1,0,FIFA World Cup qualification,St George's,Grenada,FALSE
 2021-03-30,Bermuda,Aruba,5,0,FIFA World Cup qualification,Bradenton,United States,TRUE
 2021-03-30,Saint Vincent and the Grenadines,British Virgin Islands,3,0,FIFA World Cup qualification,Willemstad,Curaçao,TRUE
 2021-03-30,Barbados,Anguilla,1,0,FIFA World Cup qualification,Santo Domingo,Dominican Republic,TRUE
@@ -42129,12 +42129,32 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-06-02,Netherlands,Scotland,2,2,Friendly,São João da Venda,Portugal,TRUE
 2021-06-02,Norway,Luxembourg,1,0,Friendly,Malaga,Spain,TRUE
 2021-06-02,Romania,Georgia,1,2,Friendly,Ploiești,Romania,FALSE
+2021-06-02,Montserrat,United States Virgin Islands,4,0,FIFA World Cup qualification,San Cristóbal,Dominican Republic,TRUE
+2021-06-02,Cayman Islands,Aruba,1,3,FIFA World Cup qualification,Bradenton,United States,TRUE
+2021-06-02,Cuba,British Virgin Islands,5,0,FIFA World Cup qualification,Guatemala City,Guatemala,TRUE
+2021-06-02,Dominica,Anguilla,3,0,FIFA World Cup qualification,Santo Domingo,Dominican Republic,TRUE
+2021-06-02,Puerto Rico,Bahamas,7,0,FIFA World Cup qualification,Mayagüez,Puerto Rico,FALSE
 2021-06-03,Algeria,Mauritania,4,1,Friendly,Blida,Algeria,FALSE
 2021-06-03,Andorra,Republic of Ireland,1,4,Friendly,Andorra la Vella,Andorra,FALSE
 2021-06-03,Belgium,Greece,1,1,Friendly,Brussels,Belgium,FALSE
 2021-06-03,Switzerland,Liechtenstein,7,0,Friendly,St Gallen,Switzerland,FALSE
 2021-06-03,Turkey,Moldova,2,0,Friendly,Paderborn,Germany,TRUE
 2021-06-03,Ukraine,Northern Ireland,1,0,Friendly,Dnipro,Ukraine,FALSE
+2021-06-03,Mexico,Costa Rica,0,0,CONCACAF Nations League,Denver,United States,TRUE
+2021-06-03,United States,Honduras,1,0,CONCACAF Nations League,Denver,United States,FALSE
+2021-06-03,Nepal,Chinese Taipei,2,0,FIFA World Cup qualification,Kuwait City,Kuwait,TRUE
+2021-06-03,Australia,Kuwait,3,0,FIFA World Cup qualification,Kuwait City,Kuwait,TRUE
+2021-06-03,Iran,Hong Kong,3,1,FIFA World Cup qualification,Arad,Iran,FALSE
+2021-06-03,Bahrain,Cambodia,8,0,FIFA World Cup qualification,Riffa,Bahrain,FALSE
+2021-06-03,Palestine,Singapore,4,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,TRUE
+2021-06-03,Bangladesh,Afghanistan,1,1,FIFA World Cup qualification,Doha,Qatar,TRUE
+2021-06-03,India,Qatar,0,1,FIFA World Cup qualification,Doha,Qatar,TRUE
+2021-06-03,United Arab Emirates,Malaysia,4,0,FIFA World Cup qualification,Dubai,United Arab Emirates,FALSE
+2021-06-03,Thailand,Indonesia,2,2,FIFA World Cup qualification,Dubai,United Arab Emirates,TRUE
+2021-06-03,Bolivia,Venezuela,3,1,FIFA World Cup qualification,La Paz,Bolivia,FALSE
+2021-06-03,Uruguay,Paraguay,0,0,FIFA World Cup qualification,Montevideo,Uruguay,FALSE
+2021-06-03,Argentina,Chile,1,1,FIFA World Cup qualification,Santiago del Estero,Argentina,FALSE
+2021-06-03,Peru,Colombia,0,3,FIFA World Cup qualification,Lima,Peru,FALSE
 2021-06-04,Faroe Islands,Iceland,0,1,Friendly,Tórshavn,Faroe Islands,FALSE
 2021-06-04,Finland,Estonia,0,1,Friendly,Helsinki,Finland,FALSE
 2021-06-04,Hungary,Cyprus,1,0,Friendly,Budapest,Hungary,FALSE
@@ -42146,6 +42166,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-06-04,Slovenia,Gibraltar,6,0,Friendly,Koper,Slovenia,FALSE
 2021-06-04,Spain,Portugal,0,0,Friendly,Madrid,Spain,FALSE
 2021-06-04,Latvia,Lithuania,3,1,Baltic Cup,Riga,Latvia,FALSE
+2021-06-04,Maldives,Syria,0,4,FIFA World Cup qualification,Sharjah,United Arab Emirates,TRUE
+2021-06-04,Antigua and Barbuda,Grenada,1,0,FIFA World Cup qualification,North Sound,Antigua and Barbuda,FALSE
+2021-06-04,Suriname,Bermuda,6,0,FIFA World Cup qualification,Paramaribo,Suriname,FALSE
+2021-06-04,Guatemala,St Vincent and the Grenadines,10,0,FIFA World Cup qualification,Guatemala City,Guatemala,FALSE
+2021-06-04,Dominican Republic,Barbados,1,1,FIFA World Cup qualification,Santo Domingo,Dominican Republic,FALSE
+2021-06-04,Nicaragua,Belize,3,0,FIFA World Cup qualification,Managua,Nicaragua,FALSE
+2021-06-04,Saint Kitts and Nevis,Guyana,3,0,FIFA World Cup qualification,Basseterre,Saint Kitts and Nevis,FALSE
+2021-06-04,Brazil,Ecuador,2,0,FIFA World Cup qualification,Porto Alegre,Brazil,FALSE
 2021-06-05,Guinea,Togo,0,2,Friendly,Antalya,Turkey,TRUE
 2021-06-05,Ivory Coast,Burkina Faso,2,1,Friendly,Abidjan,Ivory Coast,FALSE
 2021-06-05,Montenegro,Israel,1,3,Friendly,Podgorica,Montenegro,FALSE
@@ -42155,6 +42183,15 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-06-05,Sweden,Armenia,3,1,Friendly,Stockholm,Sweden,FALSE
 2021-06-05,Tunisia,DR Congo,1,0,Friendly,Radès,Tunisia,FALSE
 2021-06-05,Wales,Albania,0,0,Friendly,Cardiff,Wales,FALSE
+2021-06-05,Saudi Arabia,Yemen,3,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,FALSE
+2021-06-05,Lebanon,Sri Lanka,3,2,FIFA World Cup qualification,Goyang,South Korea,TRUE
+2021-06-05,South Korea,Turkmenistan,5,0,FIFA World Cup qualification,Goyang,South Korea,FALSE
+2021-06-05,United States Virgin Islands,El Salvador,0,7,FIFA World Cup qualification,St Croix,United States Virgin Islands,FALSE
+2021-06-05,Aruba,Canada,0,7,FIFA World Cup qualification,Bradenton,United States,TRUE
+2021-06-05,British Virgin Islands,Curaçao,0,8,FIFA World Cup qualification,Guatemala City,Guatemala,TRUE
+2021-06-05,Panama,Anguilla,13,0,FIFA World Cup qualification,Panama City,Panama,FALSE
+2021-06-05,Turks and Caicos Islands,Haiti,0,10,FIFA World Cup qualification,Providenciales,Turks and Caicos Islands,FALSE
+2021-06-05,Bahamas,Trinidad and Tobago,0,0,FIFA World Cup qualification,Nassau,Bahamas,FALSE
 2021-06-06,Algeria,Mali,1,0,Friendly,Blida,Algeria,FALSE
 2021-06-06,Austria,Slovakia,0,0,Friendly,Vienna,Austria,FALSE
 2021-06-06,Belgium,Croatia,1,0,Friendly,Brussels,Belgium,FALSE
@@ -42164,12 +42201,27 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-06-06,Moldova,Azerbaijan,1,0,Friendly,Chișinău,Moldova,FALSE
 2021-06-06,Netherlands,Georgia,3,0,Friendly,Enschede,Netherlands,FALSE
 2021-06-06,Norway,Greece,1,2,Friendly,Malaga,Spain,TRUE
+2021-06-06,Honduras,Costa Rica,2,2,CONCACAF Nations League,Denver,United States,TRUE
+2021-06-06,United States,Mexico,3,2,CONCACAF Nations League,Denver,United States,FALSE
 2021-06-07,Andorra,Gibraltar,0,0,Friendly,Andorra la Vella,Andorra,FALSE
 2021-06-07,Faroe Islands,Liechtenstein,5,1,Friendly,Tórshavn,Faroe Islands,FALSE
 2021-06-07,Germany,Latvia,7,1,Friendly,Düsseldorf,Germany,FALSE
 2021-06-07,Rwanda,Central African Republic,5,0,Friendly,Kigali,Rwanda,FALSE
 2021-06-07,Serbia,Jamaica,1,1,Friendly,Miki,Japan,TRUE
 2021-06-07,Ukraine,Cyprus,4,0,Friendly,Kharkiv,Ukraine,FALSE
+2021-06-07,Guam,Syria,0,3,FIFA World Cup qualification,Sharjah,United Arab Emirates,TRUE
+2021-06-07,China PR,Philippines,2,0,FIFA World Cup qualification,Sharjah,United Arab Emirates,TRUE
+2021-06-07,Nepal,Jordan,0,3,FIFA World Cup qualification,Kuwait City,Kuwait,TRUE
+2021-06-07,Australia,Chinese Taipei,5,1,FIFA World Cup qualification,Kuwait City,Kuwait,TRUE
+2021-06-07,Iraq,Cambodia,4,1,FIFA World Cup qualification,Arad,Iran,TRUE
+2021-06-07,Iran,Bahrain,3,0,FIFA World Cup qualification,Riffa,Bahrain,TRUE
+2021-06-07,Uzbekistan,Singapore,5,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,TRUE
+2021-06-07,Bangladesh,India,0,2,FIFA World Cup qualification,Doha,Qatar,TRUE
+2021-06-07,Oman,Qatar,0,1,FIFA World Cup qualification,Doha,Qatar,TRUE
+2021-06-07,Kyrgyzstan,Mongolia,0,1,FIFA World Cup qualification,Osaka,Japan,TRUE
+2021-06-07,Japan,Tajikistan,4,1,FIFA World Cup qualification,Suita,Japan,FALSE
+2021-06-07,United Arab Emirates,Thailand,3,1,FIFA World Cup qualification,Dubai,United Arab Emirates,FALSE
+2021-06-07,Vietnam,Indonesia,4,0,FIFA World Cup qualification,Dubai,United Arab Emirates,TRUE
 2021-06-08,Benin,Zambia,2,2,Friendly,Cotonou,Benin,FALSE
 2021-06-08,Cameroon,Nigeria,0,0,Friendly,Wiener Neustadt,Austria,TRUE
 2021-06-08,Czech Republic,Albania,3,1,Friendly,Prague,Czech Republic,FALSE
@@ -42182,3 +42234,128 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-06-08,Poland,Iceland,2,2,Friendly,Poznan,Poland,FALSE
 2021-06-08,Senegal,Cape Verde,2,0,Friendly,Thiès,Senegal,FALSE
 2021-06-08,Spain,Lithuania,4,0,Friendly,Leganés,Spain,FALSE
+2021-06-08,Grenada,Montserrat,1,2,FIFA World Cup qualification,St George's,Grenada,FALSE
+2021-06-08,El Salvador,Antigua and Barbuda,3,0,FIFA World Cup qualification,San Salvador,El Salvador,FALSE
+2021-06-08,Canada,Suriname,4,0,FIFA World Cup qualification,Bridgeview,United States,TRUE
+2021-06-08,Bermuda,Cayman Islands,1,1,FIFA World Cup qualification,Bradenton,United States,TRUE
+2021-06-08,St Vincent and the Grenadines,Cuba,0,1,FIFA World Cup qualification,St George's,Grenada,TRUE
+2021-06-08,Curaçao,Guatemala,0,0,FIFA World Cup qualification,Willemstad,Curaçao,FALSE
+2021-06-08,Barbados,Dominica,1,1,FIFA World Cup qualification,Santo Domingo,Dominican Republic,TRUE
+2021-06-08,Panama,Dominican Republic,3,0,FIFA World Cup qualification,Panama City,Panama,FALSE
+2021-06-08,Haiti,Nicaragua,1,0,FIFA World Cup qualification,Port au Prince,Haiti,FALSE
+2021-06-08,Guyana,Puerto Rico,0,2,FIFA World Cup qualification,Basseterre,Saint Kitts and Nevis,TRUE
+2021-06-08,Trinidad and Tobago,Saint Kitts and Nevis,2,0,FIFA World Cup qualification,Santo Domingo,Dominican Republic,TRUE
+2021-06-08,Ecuador,Peru,1,2,FIFA World Cup qualification,Quito,Ecuador,FALSE
+2021-06-08,Colombia,Argentina,2,2,FIFA World Cup qualification,Barranquilla,Colombia,FALSE
+2021-06-08,Venezuela,Uruguay,0,0,FIFA World Cup qualification,Caracas,Venezuela,FALSE
+2021-06-08,Paraguay,Brazil,0,2,FIFA World Cup qualification,Asunción,Paraguay,FALSE
+2021-06-08,Chile,Bolivia,1,1,FIFA World Cup qualification,Santiago,Chile,FALSE
+2021-06-09,Turkmenistan,Lebanon,3,2,FIFA World Cup qualification,Goyang,South Korea,TRUE
+2021-06-09,Sri Lanka,South Korea,0,5,FIFA World Cup qualification,Goyang,South Korea,TRUE
+2021-06-09,Niger,Congo,0,1,Friendly,Antalya,Turkey,TRUE
+2021-06-09,Portugal,Israel,4,0,Friendly,Lisbon,Portugal,FALSE
+2021-06-09,United States,Costa Rica,4,0,Friendly,Sandy,United States,FALSE
+2021-06-10,Estonia,Latvia,2,1,Baltic Cup,Tallinn,Estonia,FALSE
+2021-06-10,South Africa,Uganda,3,2,Friendly,Johannesburg,South Africa,FALSE
+2021-06-11,Philippines,Guam,3,0,FIFA World Cup qualification,Sharjah,United Arab Emirates,TRUE
+2021-06-11,China PR,Maldives,5,0,FIFA World Cup qualification,Sharjah,United Arab Emirates,TRUE
+2021-06-11,Nepal,Australia,0,3,FIFA World Cup qualification,Kuwait City,Kuwait,TRUE
+2021-06-11,Kuwait,Jordan,0,0,FIFA World Cup qualification,Kuwait City,Kuwait,FALSE
+2021-06-11,Cambodia,Iran,0,10,FIFA World Cup qualification,Isa Town,Bahrain,TRUE
+2021-06-11,Hong Kong,Iraq,0,1,FIFA World Cup qualification,Arad,Iran,TRUE
+2021-06-11,Singapore,Saudi Arabia,0,3,FIFA World Cup qualification,Riyadh,Saudi Arabia,TRUE
+2021-06-11,Yemen,Uzbekistan,0,1,FIFA World Cup qualification,Riyadh,Saudi Arabia,TRUE
+2021-06-11,Afghanistan,Oman,1,2,FIFA World Cup qualification,Doha,Qatar,TRUE
+2021-06-11,Myanmar,Kyrgyzstan,1,8,FIFA World Cup qualification,Osaka,Japan,TRUE
+2021-06-11,Indonesia,United Arab Emirates,0,5,FIFA World Cup qualification,Dubai,United Arab Emirates,TRUE
+2021-06-11,Malaysia,Vietnam,1,2,FIFA World Cup qualification,Dubai,United Arab Emirates,TRUE
+2021-06-11,DR Congo,Mali,1,1,Friendly,Radès,Tunisia,TRUE
+2021-06-11,Guinea,Niger,2,1,Friendly,Antalya,Turkey,TRUE
+2021-06-11,Kosovo,Gambia,1,0,Friendly,Antalya,Turkey,TRUE
+2021-06-11,Mauritania,Liberia,1,0,Friendly,Tunis,Tunisia,TRUE
+2021-06-11,Tunisia,Algeria,0,2,Friendly,Radès,Tunisia,FALSE
+2021-06-11,Italy,Turkey,3,0,UEFA Euro,Rome,Italy,FALSE
+2021-06-12,Haiti,Canada,0,1,FIFA World Cup qualification,Port au Prince,Haiti,FALSE
+2021-06-12,Panama,Curaçao,2,1,FIFA World Cup qualification,Panama City,Panama,FALSE
+2021-06-12,Saint Kitts and Nevis,El Salvador,0,4,FIFA World Cup qualification,Basseterre,Saint Kitts and Nevis,FALSE
+2021-06-12,Ghana,Ivory Coast,0,0,Friendly,Cape Coast,Ghana,FALSE
+2021-06-12,Mexico,Honduras,0,0,Friendly,Atlanta,United States,TRUE
+2021-06-12,Morocco,Burkina Faso,1,0,Friendly,Rabat,Morocco,FALSE
+2021-06-12,Wales,Switzerland,1,1,UEFA Euro,Cardiff,Wales,FALSE
+2021-06-12,Denmark,Finland,0,1,UEFA Euro,Copenhagen,Denmark,FALSE
+2021-06-12,Russia,Belgium,0,3,UEFA Euro,Saint Petersburg,Russia,FALSE
+2021-06-13,South Korea,Lebanon,2,1,FIFA World Cup qualification,Goyang,South Korea,FALSE
+2021-06-13,Sudan,Zambia,0,1,Friendly,Omdurman,Sudan,FALSE
+2021-06-13,Tanzania,Malawi,2,0,Friendly,Dar es Salaam,Tanzania,FALSE
+2021-06-13,Austria,North Macedonia,3,1,UEFA Euro,Bucharest,Romania,TRUE
+2021-06-13,Netherlands,Ukraine,3,2,UEFA Euro,Amsterdam,Netherlands,FALSE
+2021-06-13,England,Croatia,1,0,UEFA Euro,London,England,FALSE
+2021-06-13,Brazil,Venezuela,3,0,Copa América,Brasilia,Brazil,FALSE
+2021-06-13,Colombia,Ecuador,1,0,Copa América,Cuiaba,Brazil,TRUE
+2021-06-14,Libya,Liberia,0,1,Friendly,Tunis,Tunisia,TRUE
+2021-06-14,Scotland,Czech Republic,0,2,UEFA Euro,Glasgow,Scotland,FALSE
+2021-06-14,Poland,Slovakia,1,2,UEFA Euro,Saint Petersburg,Russia,TRUE
+2021-06-14,Spain,Sweden,0,0,UEFA Euro,Seville,Spain,FALSE
+2021-06-14,Argentina,Chile,1,1,Copa América,Rio de Janeiro,Brazil,TRUE
+2021-06-14,Paraguay,Bolivia,3,1,Copa América,Goiânia,Brazil,TRUE
+2021-06-15,Philippines,Maldives,NA,NA,FIFA World Cup qualification,Suzhou,China PR,TRUE
+2021-06-15,China PR,Syria,NA,NA,FIFA World Cup qualification,Suzhou,China PR,FALSE
+2021-06-15,Australia,Jordan,NA,NA,FIFA World Cup qualification,Kuwait City,Kuwait,TRUE
+2021-06-15,Chinese Taipei,Kuwait,NA,NA,FIFA World Cup qualification,Kuwait City,Kuwait,TRUE
+2021-06-15,Bahrain,Hong Kong,NA,NA,FIFA World Cup qualification,Riffa,Bahrain,FALSE
+2021-06-15,Iran,Iraq,NA,NA,FIFA World Cup qualification,Arad,Iran,FALSE
+2021-06-15,Palestine,Yemen,NA,NA,FIFA World Cup qualification,Riyadh,Saudi Arabia,TRUE
+2021-06-15,Saudi Arabia,Uzbekistan,NA,NA,FIFA World Cup qualification,Riyadh,Saudi Arabia,FALSE
+2021-06-15,Bangladesh,Oman,NA,NA,FIFA World Cup qualification,Doha,Qatar,TRUE
+2021-06-15,India,Afghanistan,NA,NA,FIFA World Cup qualification,Doha,Qatar,TRUE
+2021-06-15,Tajikistan,Myanmar,NA,NA,FIFA World Cup qualification,Osaka,Japan,TRUE
+2021-06-15,Japan,Kyrgyzstan,NA,NA,FIFA World Cup qualification,Suita,Japan,FALSE
+2021-06-15,Thailand,Malaysia,NA,NA,FIFA World Cup qualification,Dubai,United Arab Emirates,TRUE
+2021-06-15,United Arab Emirates,Vietnam,NA,NA,FIFA World Cup qualification,Dubai,United Arab Emirates,FALSE
+2021-06-15,Canada,Haiti,NA,NA,FIFA World Cup qualification,Bridgeview,United States,TRUE
+2021-06-15,Curaçao,Panama,NA,NA,FIFA World Cup qualification,NA,NA,NA
+2021-06-15,El Salvador,Saint Kitts and Nevis,NA,NA,FIFA World Cup qualification,NA,NA,NA
+2021-06-15,Tunisia,Mali,NA,NA,Friendly,Radès,Tunisia,FALSE
+2021-06-15,Hungary,Portugal,NA,NA,UEFA Euro,Budapest,Hungary,FALSE
+2021-06-15,Germany,France,NA,NA,UEFA Euro,Munich,Germany,FALSE
+2021-06-16,Turkey,Wales,NA,NA,UEFA Euro,Baku,Azerbaijan,TRUE
+2021-06-16,Italy,Switzerland,NA,NA,UEFA Euro,Rome,Italy,FALSE
+2021-06-16,Russia,Finland,NA,NA,UEFA Euro,Saint Petersburg,Russia,FALSE
+2021-06-17,Denmark,Belgium,NA,NA,UEFA Euro,Copenhagen,Denmark,FALSE
+2021-06-17,Ukraine,North Macedonia,NA,NA,UEFA Euro,Bucharest,Romania,TRUE
+2021-06-17,Netherlands,Austria,NA,NA,UEFA Euro,Amsterdam,Netherlands,FALSE
+2021-06-17,Colombia,Venezuela,NA,NA,Copa América,Goiânia,Brazil,TRUE
+2021-06-17,Brazil,Peru,NA,NA,Copa América,Rio de Janeiro,Brazil,FALSE
+2021-06-18,Croatia,Czech Republic,NA,NA,UEFA Euro,Glasgow,Scotland,TRUE
+2021-06-18,England,Scotland,NA,NA,UEFA Euro,London,England,FALSE
+2021-06-18,Sweden,Slovakia,NA,NA,UEFA Euro,Saint Petersburg,Russia,TRUE
+2021-06-18,Chile,Bolivia,NA,NA,Copa América,Cuiaba,Brazil,TRUE
+2021-06-18,Argentina,Uruguay,NA,NA,Copa América,Brasilia,Brazil,TRUE
+2021-06-19,Spain,Poland,NA,NA,UEFA Euro,Seville,Spain,FALSE
+2021-06-19,Hungary,France,NA,NA,UEFA Euro,Budapest,Hungary,FALSE
+2021-06-19,Germany,Portugal,NA,NA,UEFA Euro,Munich,Germany,FALSE
+2021-06-20,Italy,Wales,NA,NA,UEFA Euro,Rome,Italy,FALSE
+2021-06-20,Switzerland,Turkey,NA,NA,UEFA Euro,Baku,Azerbaijan,TRUE
+2021-06-20,Venezuela,Ecuador,NA,NA,Copa América,Rio de Janeiro,Brazil,TRUE
+2021-06-20,Colombia,Peru,NA,NA,Copa América,Goiânia,Brazil,TRUE
+2021-06-21,Denmark,Russia,NA,NA,UEFA Euro,Copenhagen,Denmark,FALSE
+2021-06-21,Finland,Belgium,NA,NA,UEFA Euro,Saint Petersburg,Russia,TRUE
+2021-06-21,Netherlands,North Macedonia,NA,NA,UEFA Euro,Amsterdam,Netherlands,FALSE
+2021-06-21,Ukraine,Austria,NA,NA,UEFA Euro,Bucharest,Romania,TRUE
+2021-06-21,Uruguay,Chile,NA,NA,Copa América,Cuiaba,Brazil,TRUE
+2021-06-21,Argentina,Paraguay,NA,NA,Copa América,Brasilia,Brazil,TRUE
+2021-06-22,Scotland,Croatia,NA,NA,UEFA Euro,Glasgow,Scotland,FALSE
+2021-06-22,England,Czech Republic,NA,NA,UEFA Euro,London,England,FALSE
+2021-06-23,Spain,Slovakia,NA,NA,UEFA Euro,Seville,Spain,FALSE
+2021-06-23,Sweden,Poland,NA,NA,UEFA Euro,Saint Petersburg,Russia,TRUE
+2021-06-23,Germany,Hungary,NA,NA,UEFA Euro,Munich,Germany,FALSE
+2021-06-23,Portugal,France,NA,NA,UEFA Euro,Budapest,Hungary,TRUE
+2021-06-23,Ecuador,Peru,NA,NA,Copa América,Goiânia,Brazil,TRUE
+2021-06-23,Brazil,Colombia,NA,NA,Copa América,Rio de Janeiro,Brazil,FALSE
+2021-06-24,Bolivia,Uruguay,NA,NA,Copa América,Cuiaba,Brazil,TRUE
+2021-06-24,Chile,Paraguay,NA,NA,Copa América,Brasilia,Brazil,TRUE
+2021-06-27,Brazil,Ecuador,NA,NA,Copa América,Goiânia,Brazil,FALSE
+2021-06-27,Venezuela,Peru,NA,NA,Copa América,Brasilia,Brazil,TRUE
+2021-06-28,Argentina,Bolivia,NA,NA,Copa América,Cuiaba,Brazil,TRUE
+2021-06-28,Uruguay,Paraguay,NA,NA,Copa América,Rio de Janeiro,Brazil,TRUE
+2021-06-30,Mexico,Panama,NA,NA,Friendly,Nashville,United States,TRUE
