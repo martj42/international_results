@@ -42298,34 +42298,36 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-06-14,Spain,Sweden,0,0,UEFA Euro,Seville,Spain,FALSE
 2021-06-14,Argentina,Chile,1,1,Copa América,Rio de Janeiro,Brazil,TRUE
 2021-06-14,Paraguay,Bolivia,3,1,Copa América,Goiânia,Brazil,TRUE
-2021-06-15,Philippines,Maldives,NA,NA,FIFA World Cup qualification,Suzhou,China PR,TRUE
-2021-06-15,China PR,Syria,NA,NA,FIFA World Cup qualification,Suzhou,China PR,FALSE
-2021-06-15,Australia,Jordan,NA,NA,FIFA World Cup qualification,Kuwait City,Kuwait,TRUE
-2021-06-15,Chinese Taipei,Kuwait,NA,NA,FIFA World Cup qualification,Kuwait City,Kuwait,TRUE
-2021-06-15,Bahrain,Hong Kong,NA,NA,FIFA World Cup qualification,Riffa,Bahrain,FALSE
-2021-06-15,Iran,Iraq,NA,NA,FIFA World Cup qualification,Arad,Iran,FALSE
-2021-06-15,Palestine,Yemen,NA,NA,FIFA World Cup qualification,Riyadh,Saudi Arabia,TRUE
-2021-06-15,Saudi Arabia,Uzbekistan,NA,NA,FIFA World Cup qualification,Riyadh,Saudi Arabia,FALSE
-2021-06-15,Bangladesh,Oman,NA,NA,FIFA World Cup qualification,Doha,Qatar,TRUE
-2021-06-15,India,Afghanistan,NA,NA,FIFA World Cup qualification,Doha,Qatar,TRUE
-2021-06-15,Tajikistan,Myanmar,NA,NA,FIFA World Cup qualification,Osaka,Japan,TRUE
-2021-06-15,Japan,Kyrgyzstan,NA,NA,FIFA World Cup qualification,Suita,Japan,FALSE
-2021-06-15,Thailand,Malaysia,NA,NA,FIFA World Cup qualification,Dubai,United Arab Emirates,TRUE
-2021-06-15,United Arab Emirates,Vietnam,NA,NA,FIFA World Cup qualification,Dubai,United Arab Emirates,FALSE
-2021-06-15,Canada,Haiti,NA,NA,FIFA World Cup qualification,Bridgeview,United States,TRUE
-2021-06-15,Curaçao,Panama,NA,NA,FIFA World Cup qualification,NA,NA,NA
-2021-06-15,El Salvador,Saint Kitts and Nevis,NA,NA,FIFA World Cup qualification,NA,NA,NA
-2021-06-15,Tunisia,Mali,NA,NA,Friendly,Radès,Tunisia,FALSE
-2021-06-15,Hungary,Portugal,NA,NA,UEFA Euro,Budapest,Hungary,FALSE
-2021-06-15,Germany,France,NA,NA,UEFA Euro,Munich,Germany,FALSE
-2021-06-16,Turkey,Wales,NA,NA,UEFA Euro,Baku,Azerbaijan,TRUE
-2021-06-16,Italy,Switzerland,NA,NA,UEFA Euro,Rome,Italy,FALSE
-2021-06-16,Russia,Finland,NA,NA,UEFA Euro,Saint Petersburg,Russia,FALSE
-2021-06-17,Denmark,Belgium,NA,NA,UEFA Euro,Copenhagen,Denmark,FALSE
-2021-06-17,Ukraine,North Macedonia,NA,NA,UEFA Euro,Bucharest,Romania,TRUE
+2021-06-15,Philippines,Maldives,1,1,FIFA World Cup qualification,Suzhou,China PR,TRUE
+2021-06-15,China PR,Syria,3,1,FIFA World Cup qualification,Suzhou,China PR,FALSE
+2021-06-15,Australia,Jordan,1,0,FIFA World Cup qualification,Kuwait City,Kuwait,TRUE
+2021-06-15,Chinese Taipei,Kuwait,1,2,FIFA World Cup qualification,Kuwait City,Kuwait,TRUE
+2021-06-15,Bahrain,Hong Kong,4,0,FIFA World Cup qualification,Riffa,Bahrain,FALSE
+2021-06-15,Iran,Iraq,1,0,FIFA World Cup qualification,Arad,Iran,FALSE
+2021-06-15,Palestine,Yemen,3,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,TRUE
+2021-06-15,Saudi Arabia,Uzbekistan,3,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,FALSE
+2021-06-15,Bangladesh,Oman,0,3,FIFA World Cup qualification,Doha,Qatar,TRUE
+2021-06-15,India,Afghanistan,1,1,FIFA World Cup qualification,Doha,Qatar,TRUE
+2021-06-15,Tajikistan,Myanmar,4,0,FIFA World Cup qualification,Osaka,Japan,TRUE
+2021-06-15,Japan,Kyrgyzstan,5,1,FIFA World Cup qualification,Suita,Japan,FALSE
+2021-06-15,Thailand,Malaysia,0,1,FIFA World Cup qualification,Dubai,United Arab Emirates,TRUE
+2021-06-15,United Arab Emirates,Vietnam,3,2,FIFA World Cup qualification,Dubai,United Arab Emirates,FALSE
+2021-06-15,Canada,Haiti,3,0,FIFA World Cup qualification,Bridgeview,United States,TRUE
+2021-06-15,Curaçao,Panama,0,0,FIFA World Cup qualification,NA,NA,NA
+2021-06-15,El Salvador,Saint Kitts and Nevis,2,0,FIFA World Cup qualification,NA,NA,NA
+2021-06-15,Tunisia,Mali,1,0,Friendly,Radès,Tunisia,FALSE
+2021-06-15,Djibouti,Somalia,1,0,Friendly,Djibouti City,Djibouti,FALSE
+2021-06-15,Hungary,Portugal,0,3,UEFA Euro,Budapest,Hungary,FALSE
+2021-06-15,Germany,France,0,1,UEFA Euro,Munich,Germany,FALSE
+2021-06-16,Turkey,Wales,0,2,UEFA Euro,Baku,Azerbaijan,TRUE
+2021-06-16,Italy,Switzerland,3,0,UEFA Euro,Rome,Italy,FALSE
+2021-06-16,Russia,Finland,1,0,UEFA Euro,Saint Petersburg,Russia,FALSE
+2021-06-17,Denmark,Belgium,1,2,UEFA Euro,Copenhagen,Denmark,FALSE
+2021-06-17,Ukraine,North Macedonia,2,1,UEFA Euro,Bucharest,Romania,TRUE
 2021-06-17,Netherlands,Austria,NA,NA,UEFA Euro,Amsterdam,Netherlands,FALSE
 2021-06-17,Colombia,Venezuela,NA,NA,Copa América,Goiânia,Brazil,TRUE
 2021-06-17,Brazil,Peru,NA,NA,Copa América,Rio de Janeiro,Brazil,FALSE
+2021-06-17,Algeria,Liberia,NA,NA,Friendly,NA,NA,NA
 2021-06-18,Croatia,Czech Republic,NA,NA,UEFA Euro,Glasgow,Scotland,TRUE
 2021-06-18,England,Scotland,NA,NA,UEFA Euro,London,England,FALSE
 2021-06-18,Sweden,Slovakia,NA,NA,UEFA Euro,Saint Petersburg,Russia,TRUE
