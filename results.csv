@@ -42313,8 +42313,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-06-15,Thailand,Malaysia,0,1,FIFA World Cup qualification,Dubai,United Arab Emirates,TRUE
 2021-06-15,United Arab Emirates,Vietnam,3,2,FIFA World Cup qualification,Dubai,United Arab Emirates,FALSE
 2021-06-15,Canada,Haiti,3,0,FIFA World Cup qualification,Bridgeview,United States,TRUE
-2021-06-15,Curaçao,Panama,0,0,FIFA World Cup qualification,NA,NA,NA
-2021-06-15,El Salvador,Saint Kitts and Nevis,2,0,FIFA World Cup qualification,NA,NA,NA
+2021-06-15,Curaçao,Panama,0,0,FIFA World Cup qualification,Willemstad,Curaçao,FALSE
+2021-06-15,El Salvador,Saint Kitts and Nevis,2,0,FIFA World Cup qualification,San Salvador,El Salvador,FALSE
 2021-06-15,Tunisia,Mali,1,0,Friendly,Radès,Tunisia,FALSE
 2021-06-15,Djibouti,Somalia,1,0,Friendly,Djibouti City,Djibouti,FALSE
 2021-06-15,Hungary,Portugal,0,3,UEFA Euro,Budapest,Hungary,FALSE
@@ -42324,10 +42324,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-06-16,Russia,Finland,1,0,UEFA Euro,Saint Petersburg,Russia,FALSE
 2021-06-17,Denmark,Belgium,1,2,UEFA Euro,Copenhagen,Denmark,FALSE
 2021-06-17,Ukraine,North Macedonia,2,1,UEFA Euro,Bucharest,Romania,TRUE
-2021-06-17,Netherlands,Austria,NA,NA,UEFA Euro,Amsterdam,Netherlands,FALSE
-2021-06-17,Colombia,Venezuela,NA,NA,Copa América,Goiânia,Brazil,TRUE
-2021-06-17,Brazil,Peru,NA,NA,Copa América,Rio de Janeiro,Brazil,FALSE
-2021-06-17,Algeria,Liberia,NA,NA,Friendly,NA,NA,NA
+2021-06-17,Netherlands,Austria,2,0,UEFA Euro,Amsterdam,Netherlands,FALSE
+2021-06-17,Colombia,Venezuela,0,0,Copa América,Goiânia,Brazil,TRUE
+2021-06-17,Brazil,Peru,4,0,Copa América,Rio de Janeiro,Brazil,FALSE
+2021-06-17,Algeria,Liberia,5,1,Friendly,Oran,Algeria,FALSE
 2021-06-18,Croatia,Czech Republic,NA,NA,UEFA Euro,Glasgow,Scotland,TRUE
 2021-06-18,England,Scotland,NA,NA,UEFA Euro,London,England,FALSE
 2021-06-18,Sweden,Slovakia,NA,NA,UEFA Euro,Saint Petersburg,Russia,TRUE
@@ -42358,6 +42358,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-06-24,Chile,Paraguay,NA,NA,Copa América,Brasilia,Brazil,TRUE
 2021-06-27,Brazil,Ecuador,NA,NA,Copa América,Goiânia,Brazil,FALSE
 2021-06-27,Venezuela,Peru,NA,NA,Copa América,Brasilia,Brazil,TRUE
+2021-06-27,El Salvador,Guatemala,NA,NA,Friendly,NA,NA,NA
 2021-06-28,Argentina,Bolivia,NA,NA,Copa América,Cuiaba,Brazil,TRUE
 2021-06-28,Uruguay,Paraguay,NA,NA,Copa América,Rio de Janeiro,Brazil,TRUE
 2021-06-30,Mexico,Panama,NA,NA,Friendly,Nashville,United States,TRUE
