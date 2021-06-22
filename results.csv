@@ -215,6 +215,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1908-04-05,Switzerland,Germany,5,3,Friendly,Basel,Switzerland,FALSE
 1908-04-11,Wales,Northern Ireland,0,1,British Championship,Aberdare,Wales,FALSE
 1908-04-12,France,Belgium,1,2,Friendly,Colombes,France,FALSE
+1908-04-20,Germany,England,1,5,Friendly,Berlin,Germany,FALSE
 1908-04-26,Netherlands,Belgium,3,1,Friendly,Rotterdam,Netherlands,FALSE
 1908-05-03,Austria,Hungary,4,0,Friendly,Vienna,Austria,FALSE
 1908-05-10,Netherlands,France,4,1,Friendly,Rotterdam,Netherlands,FALSE
@@ -232,6 +233,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1908-11-01,Hungary,Austria,5,3,Friendly,Budapest,Hungary,FALSE
 1909-02-13,England,Northern Ireland,4,0,British Championship,Bradford,England,FALSE
 1909-03-01,Wales,Scotland,3,2,British Championship,Wrexham,Wales,FALSE
+1909-03-13,England,Germany,9,0,Friendly,Oxford,England,FALSE
 1909-03-15,England,Wales,2,0,British Championship,Nottingham,England,FALSE
 1909-03-15,Scotland,Northern Ireland,5,0,British Championship,Glasgow,Scotland,FALSE
 1909-03-20,Northern Ireland,Wales,2,3,British Championship,Belfast,Republic of Ireland,FALSE
@@ -289,6 +291,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1911-04-01,England,Scotland,1,1,British Championship,Liverpool,England,FALSE
 1911-04-02,Netherlands,Belgium,3,1,Friendly,Dordrecht,Netherlands,FALSE
 1911-04-09,France,Italy,2,2,Friendly,Saint-Ouen,France,FALSE
+1911-04-14,Germany,England,2,2,Friendly,Berlin,Germany,FALSE
 1911-04-23,Belgium,Germany,2,1,Friendly,Liège,Belgium,FALSE
 1911-04-23,Switzerland,France,5,2,Friendly,Geneva,Switzerland,FALSE
 1911-04-30,Belgium,France,7,1,Friendly,Uccle,Belgium,FALSE
@@ -330,7 +333,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1912-06-20,Sweden,Hungary,2,2,Friendly,Gothenburg,Sweden,FALSE
 1912-06-23,Norway,Hungary,0,6,Friendly,Kristiania,Norway,FALSE
 1912-06-27,Sweden,Finland,7,1,Friendly,Solna,Sweden,FALSE
-1912-06-29,Austria,Germany,5,1,Friendly,Stockholm,Sweden,TRUE
 1912-06-30,Austria,Italy,5,1,Friendly,Stockholm,Sweden,TRUE
 1912-07-01,Austria,Norway,1,1,Friendly,Stockholm,Sweden,TRUE
 1912-07-03,Hungary,Austria,3,0,Friendly,Stockholm,Sweden,TRUE
@@ -358,6 +360,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1913-03-09,Switzerland,France,1,4,Friendly,Geneva,Switzerland,FALSE
 1913-03-15,Northern Ireland,Scotland,1,2,British Championship,Dublin,Republic of Ireland,FALSE
 1913-03-17,England,Wales,4,3,British Championship,Bristol,England,FALSE
+1913-03-21,Germany,England,0,3,Friendly,Berlin,Germany,FALSE
 1913-04-05,England,Scotland,1,0,British Championship,London,England,FALSE
 1913-04-20,France,Luxembourg,8,0,Friendly,Saint-Ouen,France,FALSE
 1913-04-20,Netherlands,Belgium,2,4,Friendly,Zwolle,Netherlands,FALSE
@@ -2391,6 +2394,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1942-01-17,Argentina,Brazil,2,1,Copa América,Montevideo,Uruguay,TRUE
 1942-01-18,Paraguay,Peru,1,1,Copa América,Montevideo,Uruguay,TRUE
 1942-01-18,Uruguay,Ecuador,7,0,Copa América,Montevideo,Uruguay,FALSE
+1942-01-18,Croatia,Germany,0,2,Friendly,Zagreb,Croatia,FALSE
 1942-01-21,Brazil,Peru,2,1,Copa América,Montevideo,Uruguay,TRUE
 1942-01-22,Argentina,Ecuador,12,0,Copa América,Montevideo,Uruguay,TRUE
 1942-01-22,Chile,Paraguay,0,2,Copa América,Montevideo,Uruguay,TRUE
@@ -40610,6 +40614,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-03-24,Haiti,Cuba,2,1,CONCACAF Nations League qualification,Port-au-Prince,Haiti,FALSE
 2019-03-24,Barbados,Nicaragua,0,1,CONCACAF Nations League qualification,Bridgetown,Barbados,FALSE
 2019-03-24,El Salvador,Jamaica,2,0,CONCACAF Nations League qualification,San Salvador,El Salvador,FALSE
+2019-03-25,Catalonia,Venezuela,2,1,Friendly,Girona,Spain,FALSE
 2019-03-25,Azerbaijan,Lithuania,0,0,Friendly,Baku,Azerbaijan,FALSE
 2019-03-25,Kuwait,Nepal,1,0,Friendly,Al Ahmadi,Kuwait,FALSE
 2019-03-25,Myanmar,Indonesia,0,2,Friendly,Mandalay,Myanmar,FALSE
@@ -41861,6 +41866,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2020-11-16,Jordan,Syria,1,0,Friendly,Sharjah,United Arab Emirates,TRUE
 2020-11-16,United Arab Emirates,Bahrain,1,0,Friendly,Dubai,United Arab Emirates,FALSE
 2020-11-16,United States,Panama,6,2,Friendly,Wiener Neustadt,Austria,TRUE
+2020-11-16,Basque Country,Costa Rica,2,1,Friendly,Eibar,Spain,FALSE
 2020-11-17,Croatia,Portugal,2,3,UEFA Nations League,Split,Croatia,FALSE
 2020-11-17,France,Sweden,4,2,UEFA Nations League,Paris,France,FALSE
 2020-11-17,Spain,Germany,6,0,UEFA Nations League,Seville,Spain,FALSE
@@ -42328,24 +42334,24 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-06-17,Colombia,Venezuela,0,0,Copa América,Goiânia,Brazil,TRUE
 2021-06-17,Brazil,Peru,4,0,Copa América,Rio de Janeiro,Brazil,FALSE
 2021-06-17,Algeria,Liberia,5,1,Friendly,Oran,Algeria,FALSE
-2021-06-18,Croatia,Czech Republic,NA,NA,UEFA Euro,Glasgow,Scotland,TRUE
-2021-06-18,England,Scotland,NA,NA,UEFA Euro,London,England,FALSE
-2021-06-18,Sweden,Slovakia,NA,NA,UEFA Euro,Saint Petersburg,Russia,TRUE
-2021-06-18,Chile,Bolivia,NA,NA,Copa América,Cuiaba,Brazil,TRUE
-2021-06-18,Argentina,Uruguay,NA,NA,Copa América,Brasilia,Brazil,TRUE
-2021-06-19,Spain,Poland,NA,NA,UEFA Euro,Seville,Spain,FALSE
-2021-06-19,Hungary,France,NA,NA,UEFA Euro,Budapest,Hungary,FALSE
-2021-06-19,Germany,Portugal,NA,NA,UEFA Euro,Munich,Germany,FALSE
-2021-06-20,Italy,Wales,NA,NA,UEFA Euro,Rome,Italy,FALSE
-2021-06-20,Switzerland,Turkey,NA,NA,UEFA Euro,Baku,Azerbaijan,TRUE
-2021-06-20,Venezuela,Ecuador,NA,NA,Copa América,Rio de Janeiro,Brazil,TRUE
-2021-06-20,Colombia,Peru,NA,NA,Copa América,Goiânia,Brazil,TRUE
-2021-06-21,Denmark,Russia,NA,NA,UEFA Euro,Copenhagen,Denmark,FALSE
-2021-06-21,Finland,Belgium,NA,NA,UEFA Euro,Saint Petersburg,Russia,TRUE
-2021-06-21,Netherlands,North Macedonia,NA,NA,UEFA Euro,Amsterdam,Netherlands,FALSE
-2021-06-21,Ukraine,Austria,NA,NA,UEFA Euro,Bucharest,Romania,TRUE
-2021-06-21,Uruguay,Chile,NA,NA,Copa América,Cuiaba,Brazil,TRUE
-2021-06-21,Argentina,Paraguay,NA,NA,Copa América,Brasilia,Brazil,TRUE
+2021-06-18,Croatia,Czech Republic,1,1,UEFA Euro,Glasgow,Scotland,TRUE
+2021-06-18,England,Scotland,0,0,UEFA Euro,London,England,FALSE
+2021-06-18,Sweden,Slovakia,1,0,UEFA Euro,Saint Petersburg,Russia,TRUE
+2021-06-18,Chile,Bolivia,1,0,Copa América,Cuiaba,Brazil,TRUE
+2021-06-18,Argentina,Uruguay,1,0,Copa América,Brasilia,Brazil,TRUE
+2021-06-19,Spain,Poland,1,1,UEFA Euro,Seville,Spain,FALSE
+2021-06-19,Hungary,France,1,1,UEFA Euro,Budapest,Hungary,FALSE
+2021-06-19,Germany,Portugal,4,2,UEFA Euro,Munich,Germany,FALSE
+2021-06-20,Italy,Wales,1,0,UEFA Euro,Rome,Italy,FALSE
+2021-06-20,Switzerland,Turkey,3,1,UEFA Euro,Baku,Azerbaijan,TRUE
+2021-06-20,Venezuela,Ecuador,2,2,Copa América,Rio de Janeiro,Brazil,TRUE
+2021-06-20,Colombia,Peru,1,2,Copa América,Goiânia,Brazil,TRUE
+2021-06-21,Denmark,Russia,4,1,UEFA Euro,Copenhagen,Denmark,FALSE
+2021-06-21,Finland,Belgium,0,2,UEFA Euro,Saint Petersburg,Russia,TRUE
+2021-06-21,Netherlands,North Macedonia,3,0,UEFA Euro,Amsterdam,Netherlands,FALSE
+2021-06-21,Ukraine,Austria,0,1,UEFA Euro,Bucharest,Romania,TRUE
+2021-06-21,Uruguay,Chile,1,1,Copa América,Cuiaba,Brazil,TRUE
+2021-06-21,Argentina,Paraguay,1,0,Copa América,Brasilia,Brazil,TRUE
 2021-06-22,Scotland,Croatia,NA,NA,UEFA Euro,Glasgow,Scotland,FALSE
 2021-06-22,England,Czech Republic,NA,NA,UEFA Euro,London,England,FALSE
 2021-06-23,Spain,Slovakia,NA,NA,UEFA Euro,Seville,Spain,FALSE

@@ -4,7 +4,7 @@ Well, what happened was that I was looking for a semi-definite easy-to-read list
 
 ### Content
 
-This dataset includes **42,363** results of international football matches starting from the very first official match in 1972 up to 2019.  The matches range from FIFA World Cup to FIFI Wild Cup to regular friendly matches. The matches are strictly men's full internationals and the data does not include Olympic Games or matches where at least one of the teams was the nation's B-team, U-23 or a league select team.
+This dataset includes **42,369** results of international football matches starting from the very first official match in 1972 up to 2019.  The matches range from FIFA World Cup to FIFI Wild Cup to regular friendly matches. The matches are strictly men's full internationals and the data does not include Olympic Games or matches where at least one of the teams was the nation's B-team, U-23 or a league select team.
 
 `results.csv` includes the following columns:
 
@@ -25,7 +25,7 @@ For country names, the name of the country *at the time of the match* is used. S
 
 ### Acknowledgements
 
-The data is gathered from several sources including but not limited to Wikipedia, fifa.com, rsssf.com and individual football associations' websites.
+The data is gathered from several sources including but not limited to Wikipedia, rsssf.com, and individual football associations' websites.
 
 ### Inspiration
 
