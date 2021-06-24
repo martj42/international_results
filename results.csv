@@ -215,7 +215,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1908-04-05,Switzerland,Germany,5,3,Friendly,Basel,Switzerland,FALSE
 1908-04-11,Wales,Northern Ireland,0,1,British Championship,Aberdare,Wales,FALSE
 1908-04-12,France,Belgium,1,2,Friendly,Colombes,France,FALSE
-1908-04-20,Germany,England,1,5,Friendly,Berlin,Germany,FALSE
 1908-04-26,Netherlands,Belgium,3,1,Friendly,Rotterdam,Netherlands,FALSE
 1908-05-03,Austria,Hungary,4,0,Friendly,Vienna,Austria,FALSE
 1908-05-10,Netherlands,France,4,1,Friendly,Rotterdam,Netherlands,FALSE
@@ -233,7 +232,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1908-11-01,Hungary,Austria,5,3,Friendly,Budapest,Hungary,FALSE
 1909-02-13,England,Northern Ireland,4,0,British Championship,Bradford,England,FALSE
 1909-03-01,Wales,Scotland,3,2,British Championship,Wrexham,Wales,FALSE
-1909-03-13,England,Germany,9,0,Friendly,Oxford,England,FALSE
 1909-03-15,England,Wales,2,0,British Championship,Nottingham,England,FALSE
 1909-03-15,Scotland,Northern Ireland,5,0,British Championship,Glasgow,Scotland,FALSE
 1909-03-20,Northern Ireland,Wales,2,3,British Championship,Belfast,Republic of Ireland,FALSE
@@ -291,7 +289,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1911-04-01,England,Scotland,1,1,British Championship,Liverpool,England,FALSE
 1911-04-02,Netherlands,Belgium,3,1,Friendly,Dordrecht,Netherlands,FALSE
 1911-04-09,France,Italy,2,2,Friendly,Saint-Ouen,France,FALSE
-1911-04-14,Germany,England,2,2,Friendly,Berlin,Germany,FALSE
 1911-04-23,Belgium,Germany,2,1,Friendly,Liège,Belgium,FALSE
 1911-04-23,Switzerland,France,5,2,Friendly,Geneva,Switzerland,FALSE
 1911-04-30,Belgium,France,7,1,Friendly,Uccle,Belgium,FALSE
@@ -360,7 +357,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1913-03-09,Switzerland,France,1,4,Friendly,Geneva,Switzerland,FALSE
 1913-03-15,Northern Ireland,Scotland,1,2,British Championship,Dublin,Republic of Ireland,FALSE
 1913-03-17,England,Wales,4,3,British Championship,Bristol,England,FALSE
-1913-03-21,Germany,England,0,3,Friendly,Berlin,Germany,FALSE
 1913-04-05,England,Scotland,1,0,British Championship,London,England,FALSE
 1913-04-20,France,Luxembourg,8,0,Friendly,Saint-Ouen,France,FALSE
 1913-04-20,Netherlands,Belgium,2,4,Friendly,Zwolle,Netherlands,FALSE
@@ -42352,14 +42348,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-06-21,Ukraine,Austria,0,1,UEFA Euro,Bucharest,Romania,TRUE
 2021-06-21,Uruguay,Chile,1,1,Copa América,Cuiaba,Brazil,TRUE
 2021-06-21,Argentina,Paraguay,1,0,Copa América,Brasilia,Brazil,TRUE
-2021-06-22,Scotland,Croatia,NA,NA,UEFA Euro,Glasgow,Scotland,FALSE
-2021-06-22,England,Czech Republic,NA,NA,UEFA Euro,London,England,FALSE
-2021-06-23,Spain,Slovakia,NA,NA,UEFA Euro,Seville,Spain,FALSE
-2021-06-23,Sweden,Poland,NA,NA,UEFA Euro,Saint Petersburg,Russia,TRUE
-2021-06-23,Germany,Hungary,NA,NA,UEFA Euro,Munich,Germany,FALSE
-2021-06-23,Portugal,France,NA,NA,UEFA Euro,Budapest,Hungary,TRUE
-2021-06-23,Ecuador,Peru,NA,NA,Copa América,Goiânia,Brazil,TRUE
-2021-06-23,Brazil,Colombia,NA,NA,Copa América,Rio de Janeiro,Brazil,FALSE
+2021-06-22,Scotland,Croatia,1,3,UEFA Euro,Glasgow,Scotland,FALSE
+2021-06-22,England,Czech Republic,1,0,UEFA Euro,London,England,FALSE
+2021-06-23,Spain,Slovakia,5,0,UEFA Euro,Seville,Spain,FALSE
+2021-06-23,Sweden,Poland,3,2,UEFA Euro,Saint Petersburg,Russia,TRUE
+2021-06-23,Germany,Hungary,2,2,UEFA Euro,Munich,Germany,FALSE
+2021-06-23,Portugal,France,2,2,UEFA Euro,Budapest,Hungary,TRUE
+2021-06-23,Ecuador,Peru,2,2,Copa América,Goiânia,Brazil,TRUE
+2021-06-23,Brazil,Colombia,2,1,Copa América,Rio de Janeiro,Brazil,FALSE
 2021-06-24,Bolivia,Uruguay,NA,NA,Copa América,Cuiaba,Brazil,TRUE
 2021-06-24,Chile,Paraguay,NA,NA,Copa América,Brasilia,Brazil,TRUE
 2021-06-27,Brazil,Ecuador,NA,NA,Copa América,Goiânia,Brazil,FALSE
