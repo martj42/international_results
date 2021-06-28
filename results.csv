@@ -42359,9 +42359,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-06-24,Chile,Paraguay,0,2,Copa América,Brasilia,Brazil,TRUE
 2021-06-26,Italy,Austria,2,1,UEFA Euro,London,England,TRUE
 2021-06-26,Wales,Denmark,0,4,UEFA Euro,Amsterdam,Netherlands,TRUE
-2021-06-27,Brazil,Ecuador,NA,NA,Copa América,Goiânia,Brazil,FALSE
-2021-06-27,Venezuela,Peru,NA,NA,Copa América,Brasilia,Brazil,TRUE
-2021-06-27,El Salvador,Guatemala,NA,NA,Friendly,Los Angeles,United States,TRUE
+2021-06-27,Netherlands,Czech Republic,0,2,UEFA Euro,Budapest,Hungary,TRUE
+2021-06-27,Belgium,Portugal,1,0,UEFA Euro,Sevilla,Spain,TRUE
+2021-06-27,Brazil,Ecuador,1,1,Copa América,Goiânia,Brazil,FALSE
+2021-06-27,Venezuela,Peru,0,1,Copa América,Brasilia,Brazil,TRUE
+2021-06-27,El Salvador,Guatemala,0,0,Friendly,Los Angeles,United States,TRUE
 2021-06-28,Argentina,Bolivia,NA,NA,Copa América,Cuiaba,Brazil,TRUE
 2021-06-28,Uruguay,Paraguay,NA,NA,Copa América,Rio de Janeiro,Brazil,TRUE
 2021-06-30,Mexico,Panama,NA,NA,Friendly,Nashville,United States,TRUE
