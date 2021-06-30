@@ -42364,7 +42364,19 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-06-27,Brazil,Ecuador,1,1,Copa América,Goiânia,Brazil,FALSE
 2021-06-27,Venezuela,Peru,0,1,Copa América,Brasilia,Brazil,TRUE
 2021-06-27,El Salvador,Guatemala,0,0,Friendly,Los Angeles,United States,TRUE
-2021-06-28,Argentina,Bolivia,NA,NA,Copa América,Cuiaba,Brazil,TRUE
-2021-06-28,Uruguay,Paraguay,NA,NA,Copa América,Rio de Janeiro,Brazil,TRUE
+2021-06-28,Croatia,Spain,3,5,UEFA Euro,Copenhagen,Denmark,TRUE
+2021-06-28,France,Switzerland,3,3,UEFA Euro,Bucharest,Romania,TRUE
+2021-06-28,Argentina,Bolivia,4,1,Copa América,Cuiaba,Brazil,TRUE
+2021-06-28,Uruguay,Paraguay,1,0,Copa América,Rio de Janeiro,Brazil,TRUE
+2021-06-29,England,Germany,2,0,UEFA Euro,London,England,FALSE
+2021-06-29,Sweden,Ukraine,1,2,UEFA Euro,Glasgow,Scotland,TRUE
 2021-06-30,Mexico,Panama,NA,NA,Friendly,Nashville,United States,TRUE
+2021-07-02,Switzerland,Spain,NA,NA,UEFA Euro,Saint Petersburg,Russia,TRUE
+2021-07-02,Belgium,Italy,NA,NA,UEFA Euro,Munich,Germany,TRUE
 2021-07-02,Mexico,Nigeria,NA,NA,Friendly,Nashville,United States,TRUE
+2021-07-03,Czech Republic,Denmark,NA,NA,UEFA Euro,Baku,Azerbaijan,TRUE
+2021-07-03,Ukraine,England,NA,NA,UEFA Euro,Rome,Italy,TRUE
+2021-07-03,Peru,Paraguay,NA,NA,Copa América,Goiânia,Brazil,TRUE
+2021-07-03,Brazil,Chile,NA,NA,Copa América,Rio de Janeiro,Brazil,FALSE
+2021-07-04,Uruguay,Colombia,NA,NA,Copa América,Brasília,Brazil,TRUE
+2021-07-04,Argentina,Ecuador,NA,NA,Copa América,Goiânia,Brazil,FALSE
