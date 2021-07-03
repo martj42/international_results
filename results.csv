@@ -41719,7 +41719,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2020-10-10,Faroe Islands,Latvia,1,1,UEFA Nations League,Tórshavn,Faroe Islands,FALSE
 2020-10-10,Andorra,Malta,0,0,UEFA Nations League,Andorra la Vella,Andorra,FALSE
 2020-10-10,Liechtenstein,Gibraltar,0,1,UEFA Nations League,Vaduz,Liechtenstein,FALSE
-2020-10-10,Cameroon,South Sudan,0,0,Friendly,Yaoundé,Cameroon,FALSE
 2020-10-10,Cape Verde,Guinea,1,2,Friendly,Faro-Loulé,Portugal,TRUE
 2020-10-10,Costa Rica,Panama,0,1,Friendly,San José,Costa Rica,FALSE
 2020-10-10,Honduras,Nicaragua,1,1,Friendly,Comayagua,Honduras,FALSE
@@ -41752,6 +41751,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2020-10-12,Ghana,Qatar,5,1,Friendly,Aksu,Turkey,TRUE
 2020-10-12,Togo,Sudan,1,1,Friendly,Tunis,Tunisia,TRUE
 2020-10-12,United Arab Emirates,Uzbekistan,1,2,Friendly,Dubai,United Arab Emirates,FALSE
+2020-10-13,Cameroon,South Sudan,0,0,Friendly,Yaoundé,Cameroon,FALSE
 2020-10-13,Germany,Switzerland,3,3,UEFA Nations League,Cologne,Germany,FALSE
 2020-10-13,Ukraine,Spain,1,0,UEFA Nations League,Kiev,Ukraine,FALSE
 2020-10-13,Azerbaijan,Cyprus,0,0,UEFA Nations League,Elbasan,Albania,TRUE
@@ -42370,13 +42370,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-06-28,Uruguay,Paraguay,1,0,Copa América,Rio de Janeiro,Brazil,TRUE
 2021-06-29,England,Germany,2,0,UEFA Euro,London,England,FALSE
 2021-06-29,Sweden,Ukraine,1,2,UEFA Euro,Glasgow,Scotland,TRUE
-2021-06-30,Mexico,Panama,NA,NA,Friendly,Nashville,United States,TRUE
-2021-07-02,Switzerland,Spain,NA,NA,UEFA Euro,Saint Petersburg,Russia,TRUE
-2021-07-02,Belgium,Italy,NA,NA,UEFA Euro,Munich,Germany,TRUE
-2021-07-02,Mexico,Nigeria,NA,NA,Friendly,Nashville,United States,TRUE
-2021-07-03,Czech Republic,Denmark,NA,NA,UEFA Euro,Baku,Azerbaijan,TRUE
-2021-07-03,Ukraine,England,NA,NA,UEFA Euro,Rome,Italy,TRUE
-2021-07-03,Peru,Paraguay,NA,NA,Copa América,Goiânia,Brazil,TRUE
-2021-07-03,Brazil,Chile,NA,NA,Copa América,Rio de Janeiro,Brazil,FALSE
+2021-06-30,Mexico,Panama,3,0,Friendly,Nashville,United States,TRUE
+2021-07-02,Switzerland,Spain,1,1,UEFA Euro,Saint Petersburg,Russia,TRUE
+2021-07-02,Belgium,Italy,1,2,UEFA Euro,Munich,Germany,TRUE
+2021-07-03,Czech Republic,Denmark,1,2,UEFA Euro,Baku,Azerbaijan,TRUE
+2021-07-03,Ukraine,England,0,4,UEFA Euro,Rome,Italy,TRUE
+2021-07-03,Peru,Paraguay,3,3,Copa América,Goiânia,Brazil,TRUE
+2021-07-03,Brazil,Chile,1,0,Copa América,Rio de Janeiro,Brazil,FALSE
+2021-07-03,Mexico,Nigeria,NA,NA,Friendly,Nashville,United States,TRUE
+2021-07-04,Qatar,El Salvador,NA,NA,Friendly,Pula,Croatia,TRUE
 2021-07-04,Uruguay,Colombia,NA,NA,Copa América,Brasília,Brazil,TRUE
 2021-07-04,Argentina,Ecuador,NA,NA,Copa América,Goiânia,Brazil,FALSE
