@@ -42170,7 +42170,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-06-04,Maldives,Syria,0,4,FIFA World Cup qualification,Sharjah,United Arab Emirates,TRUE
 2021-06-04,Antigua and Barbuda,Grenada,1,0,FIFA World Cup qualification,North Sound,Antigua and Barbuda,FALSE
 2021-06-04,Suriname,Bermuda,6,0,FIFA World Cup qualification,Paramaribo,Suriname,FALSE
-2021-06-04,Guatemala,St Vincent and the Grenadines,10,0,FIFA World Cup qualification,Guatemala City,Guatemala,FALSE
+2021-06-04,Guatemala,Saint Vincent and the Grenadines,10,0,FIFA World Cup qualification,Guatemala City,Guatemala,FALSE
 2021-06-04,Dominican Republic,Barbados,1,1,FIFA World Cup qualification,Santo Domingo,Dominican Republic,FALSE
 2021-06-04,Nicaragua,Belize,3,0,FIFA World Cup qualification,Managua,Nicaragua,FALSE
 2021-06-04,Saint Kitts and Nevis,Guyana,3,0,FIFA World Cup qualification,Basseterre,Saint Kitts and Nevis,FALSE
@@ -42239,7 +42239,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-06-08,El Salvador,Antigua and Barbuda,3,0,FIFA World Cup qualification,San Salvador,El Salvador,FALSE
 2021-06-08,Canada,Suriname,4,0,FIFA World Cup qualification,Bridgeview,United States,TRUE
 2021-06-08,Bermuda,Cayman Islands,1,1,FIFA World Cup qualification,Bradenton,United States,TRUE
-2021-06-08,St Vincent and the Grenadines,Cuba,0,1,FIFA World Cup qualification,St George's,Grenada,TRUE
+2021-06-08,Saint Vincent and the Grenadines,Cuba,0,1,FIFA World Cup qualification,St George's,Grenada,TRUE
 2021-06-08,Curaçao,Guatemala,0,0,FIFA World Cup qualification,Willemstad,Curaçao,FALSE
 2021-06-08,Barbados,Dominica,1,1,FIFA World Cup qualification,Santo Domingo,Dominican Republic,TRUE
 2021-06-08,Panama,Dominican Republic,3,0,FIFA World Cup qualification,Panama City,Panama,FALSE
@@ -42373,11 +42373,34 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-06-30,Mexico,Panama,3,0,Friendly,Nashville,United States,TRUE
 2021-07-02,Switzerland,Spain,1,1,UEFA Euro,Saint Petersburg,Russia,TRUE
 2021-07-02,Belgium,Italy,1,2,UEFA Euro,Munich,Germany,TRUE
+2021-07-02,Peru,Paraguay,3,3,Copa América,Goiânia,Brazil,TRUE
+2021-07-02,Brazil,Chile,1,0,Copa América,Rio de Janeiro,Brazil,FALSE
+2021-07-02,Haiti,Saint Vincent and the Grenadines,6,1,Gold Cup qualification,Fort Lauderdale,United States,TRUE
+2021-07-02,Trinidad and Tobago,Montserrat,6,1,Gold Cup qualification,Fort Lauderdale,United States,TRUE
+2021-07-02,Bermuda,Barbados,8,1,Gold Cup qualification,Fort Lauderdale,United States,TRUE
 2021-07-03,Czech Republic,Denmark,1,2,UEFA Euro,Baku,Azerbaijan,TRUE
 2021-07-03,Ukraine,England,0,4,UEFA Euro,Rome,Italy,TRUE
-2021-07-03,Peru,Paraguay,3,3,Copa América,Goiânia,Brazil,TRUE
-2021-07-03,Brazil,Chile,1,0,Copa América,Rio de Janeiro,Brazil,FALSE
-2021-07-03,Mexico,Nigeria,NA,NA,Friendly,Nashville,United States,TRUE
-2021-07-04,Qatar,El Salvador,NA,NA,Friendly,Pula,Croatia,TRUE
-2021-07-04,Uruguay,Colombia,NA,NA,Copa América,Brasília,Brazil,TRUE
-2021-07-04,Argentina,Ecuador,NA,NA,Copa América,Goiânia,Brazil,FALSE
+2021-07-03,Mexico,Nigeria,4,0,Friendly,Nashville,United States,TRUE
+2021-07-03,Uruguay,Colombia,0,0,Copa América,Brasília,Brazil,TRUE
+2021-07-03,Argentina,Ecuador,3,0,Copa América,Goiânia,Brazil,FALSE
+2021-07-03,Guatemala,Guyana,4,0,Gold Cup qualification,Fort Lauderdale,United States,TRUE
+2021-07-03,Cuba,French Guiana,0,3,Gold Cup qualification,Fort Lauderdale,United States,TRUE
+2021-07-03,Guadeloupe,Bahamas,2,0,Gold Cup qualification,Fort Lauderdale,United States,TRUE
+2021-07-04,Qatar,El Salvador,1,0,Friendly,Pula,Croatia,TRUE
+2021-07-05,Brazil,Peru,NA,NA,Copa América,Rio de Janeiro,Brazil,FALSE
+2021-07-06,Argentina,Colombia,NA,NA,Copa América,Brasília,Brazil,TRUE
+2021-07-06,Italy,Spain,NA,NA,UEFA Euro,London,England,TRUE
+2021-07-06,Haiti,Bermuda,NA,NA,Gold Cup qualification,Fort Lauderdale,United States,TRUE
+2021-07-06,Guatemala,Guadeloupe,8,1,Gold Cup qualification,Fort Lauderdale,United States,TRUE
+2021-07-06,Trinidad and Tobago,French Guiana,8,1,Gold Cup qualification,Fort Lauderdale,United States,TRUE
+2021-07-07,England,Denmark,NA,NA,UEFA Euro,London,England,FALSE
+2021-07-09,NA,NA,NA,NA,Copa América,Brasília,Brazil,NA
+2021-07-10,NA,NA,NA,NA,Copa América,Rio de Janeiro,Brazil,NA
+2021-07-11,NA,NA,NA,NA,UEFA Euro,London,England,NA
+2021-07-19,Libya,Sudan,0,1,FIFA Arab Cup qualification,Doha,Qatar,TRUE
+2021-07-20,Oman,Somalia,2,1,FIFA Arab Cup qualification,Doha,Qatar,TRUE
+2021-07-21,Jordan,South Sudan,3,0,FIFA Arab Cup qualification,Doha,Qatar,TRUE
+2021-07-22,Mauritania,Yemen,2,0,FIFA Arab Cup qualification,Doha,Qatar,TRUE
+2021-07-23,Lebanon,Djibouti,1,0,FIFA Arab Cup qualification,Doha,Qatar,TRUE
+2021-07-24,Palestine,Comoros,5,1,FIFA Arab Cup qualification,Doha,Qatar,TRUE
+2021-07-25,Bahrain,Kuwait,2,0,FIFA Arab Cup qualification,Doha,Qatar,TRUE
