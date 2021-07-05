@@ -42337,26 +42337,33 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-06-19,Spain,Poland,1,1,UEFA Euro,Seville,Spain,FALSE
 2021-06-19,Hungary,France,1,1,UEFA Euro,Budapest,Hungary,FALSE
 2021-06-19,Germany,Portugal,4,2,UEFA Euro,Munich,Germany,FALSE
+2021-06-19,Libya,Sudan,0,1,FIFA Arab Cup qualification,Doha,Qatar,TRUE
 2021-06-20,Italy,Wales,1,0,UEFA Euro,Rome,Italy,FALSE
 2021-06-20,Switzerland,Turkey,3,1,UEFA Euro,Baku,Azerbaijan,TRUE
 2021-06-20,Venezuela,Ecuador,2,2,Copa América,Rio de Janeiro,Brazil,TRUE
 2021-06-20,Colombia,Peru,1,2,Copa América,Goiânia,Brazil,TRUE
+2021-06-20,Oman,Somalia,2,1,FIFA Arab Cup qualification,Doha,Qatar,TRUE
 2021-06-21,Denmark,Russia,4,1,UEFA Euro,Copenhagen,Denmark,FALSE
 2021-06-21,Finland,Belgium,0,2,UEFA Euro,Saint Petersburg,Russia,TRUE
 2021-06-21,Netherlands,North Macedonia,3,0,UEFA Euro,Amsterdam,Netherlands,FALSE
 2021-06-21,Ukraine,Austria,0,1,UEFA Euro,Bucharest,Romania,TRUE
 2021-06-21,Uruguay,Chile,1,1,Copa América,Cuiaba,Brazil,TRUE
 2021-06-21,Argentina,Paraguay,1,0,Copa América,Brasilia,Brazil,TRUE
+2021-06-21,Jordan,South Sudan,3,0,FIFA Arab Cup qualification,Doha,Qatar,TRUE
 2021-06-22,Scotland,Croatia,1,3,UEFA Euro,Glasgow,Scotland,FALSE
 2021-06-22,England,Czech Republic,1,0,UEFA Euro,London,England,FALSE
+2021-06-22,Mauritania,Yemen,2,0,FIFA Arab Cup qualification,Doha,Qatar,TRUE
 2021-06-23,Spain,Slovakia,5,0,UEFA Euro,Seville,Spain,FALSE
 2021-06-23,Sweden,Poland,3,2,UEFA Euro,Saint Petersburg,Russia,TRUE
 2021-06-23,Germany,Hungary,2,2,UEFA Euro,Munich,Germany,FALSE
 2021-06-23,Portugal,France,2,2,UEFA Euro,Budapest,Hungary,TRUE
 2021-06-23,Ecuador,Peru,2,2,Copa América,Goiânia,Brazil,TRUE
 2021-06-23,Brazil,Colombia,2,1,Copa América,Rio de Janeiro,Brazil,FALSE
+2021-06-23,Lebanon,Djibouti,1,0,FIFA Arab Cup qualification,Doha,Qatar,TRUE
 2021-06-24,Bolivia,Uruguay,0,2,Copa América,Cuiaba,Brazil,TRUE
 2021-06-24,Chile,Paraguay,0,2,Copa América,Brasilia,Brazil,TRUE
+2021-06-24,Palestine,Comoros,5,1,FIFA Arab Cup qualification,Doha,Qatar,TRUE
+2021-06-25,Bahrain,Kuwait,2,0,FIFA Arab Cup qualification,Doha,Qatar,TRUE
 2021-06-26,Italy,Austria,2,1,UEFA Euro,London,England,TRUE
 2021-06-26,Wales,Denmark,0,4,UEFA Euro,Amsterdam,Netherlands,TRUE
 2021-06-27,Netherlands,Czech Republic,0,2,UEFA Euro,Budapest,Hungary,TRUE
@@ -42397,10 +42404,3 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-07-09,NA,NA,NA,NA,Copa América,Brasília,Brazil,NA
 2021-07-10,NA,NA,NA,NA,Copa América,Rio de Janeiro,Brazil,NA
 2021-07-11,NA,NA,NA,NA,UEFA Euro,London,England,NA
-2021-07-19,Libya,Sudan,0,1,FIFA Arab Cup qualification,Doha,Qatar,TRUE
-2021-07-20,Oman,Somalia,2,1,FIFA Arab Cup qualification,Doha,Qatar,TRUE
-2021-07-21,Jordan,South Sudan,3,0,FIFA Arab Cup qualification,Doha,Qatar,TRUE
-2021-07-22,Mauritania,Yemen,2,0,FIFA Arab Cup qualification,Doha,Qatar,TRUE
-2021-07-23,Lebanon,Djibouti,1,0,FIFA Arab Cup qualification,Doha,Qatar,TRUE
-2021-07-24,Palestine,Comoros,5,1,FIFA Arab Cup qualification,Doha,Qatar,TRUE
-2021-07-25,Bahrain,Kuwait,2,0,FIFA Arab Cup qualification,Doha,Qatar,TRUE
