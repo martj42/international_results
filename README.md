@@ -18,6 +18,13 @@ This dataset includes **42,405** results of international football matches start
 * `country` - the name of the country where the match was played
 * `neutral` - TRUE/FALSE column indicating whether the match was played at a neutral venue
 
+`shootouts.csv` includes the following columns:
+
+* `date` - date of the match
+* `home_team` - the name of the home team
+* `away_team` - the name of the away team
+* `winner` - winner of the penalty-shootout
+
 Note on team and country names: 
 For home and away teams the *current* name of the team has been used. For example, when in 1882 a team who called themselves Ireland played against England, in this dataset, it is called Northern Ireland because the current team of Northern Ireland is the successor of the 1882 Ireland team. This is done so it is easier to track the history and statistics of teams. 
 
