@@ -20284,15 +20284,15 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1997-02-28,China PR,Zimbabwe,3,1,Dunhill Cup,Kuala Lumpur,Malaysia,TRUE
 1997-02-28,Malaysia,Bosnia and Herzegovina,0,1,Dunhill Cup,Kuala Lumpur,Malaysia,FALSE
 1997-03-01,Azerbaijan,Estonia,0,2,Friendly,Larnaca,Cyprus,TRUE
-1997-03-01,Botswana,Malawi,1,4,COSAFA Cup,Gaborone,Botswana,FALSE
+1997-03-01,Botswana,Malawi,1,4,COSAFA Cup qualification,Gaborone,Botswana,FALSE
 1997-03-01,Solomon Islands,Tonga,9,0,FIFA World Cup qualification,Honiara,Solomon Islands,FALSE
 1997-03-02,Bosnia and Herzegovina,China PR,0,3,Dunhill Cup,Kuala Lumpur,Malaysia,TRUE
 1997-03-02,Jamaica,United States,0,0,FIFA World Cup qualification,Kingston,Jamaica,FALSE
-1997-03-02,Lesotho,Zambia,0,2,COSAFA Cup,Maseru,Lesotho,FALSE
+1997-03-02,Lesotho,Zambia,0,2,COSAFA Cup qualification,Maseru,Lesotho,FALSE
 1997-03-02,Mexico,Canada,4,0,FIFA World Cup qualification,Mexico City,Mexico,FALSE
 1997-03-02,Saudi Arabia,Syria,3,0,Friendly,Riyadh,Saudi Arabia,FALSE
 1997-03-02,Thailand,South Korea,1,3,FIFA World Cup qualification,Bangkok,Thailand,FALSE
-1997-03-03,Eswatini,Mozambique,0,4,COSAFA Cup,Lobamba,Eswatini,FALSE
+1997-03-03,Eswatini,Mozambique,0,4,COSAFA Cup qualification,Lobamba,Eswatini,FALSE
 1997-03-05,Aruba,Curaçao,2,1,CFU Caribbean Cup qualification,Oranjestad,Aruba,FALSE
 1997-03-06,Bahrain,Oman,1,0,Friendly,Muharraq,Bahrain,FALSE
 1997-03-09,Costa Rica,Cameroon,5,0,Friendly,San José,Costa Rica,FALSE
@@ -20310,7 +20310,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1997-03-15,Thailand,Japan,3,1,Friendly,Bangkok,Thailand,FALSE
 1997-03-16,Costa Rica,Mexico,0,0,FIFA World Cup qualification,San José,Costa Rica,FALSE
 1997-03-16,Malaysia,Bangladesh,2,0,FIFA World Cup qualification,Kuala Lumpur,Malaysia,FALSE
-1997-03-16,Namibia,Zimbabwe,2,1,COSAFA Cup,Windhoek,Namibia,FALSE
+1997-03-16,Namibia,Zimbabwe,2,1,COSAFA Cup qualification,Windhoek,Namibia,FALSE
 1997-03-16,United States,Canada,3,0,FIFA World Cup qualification,Palo Alto,United States,FALSE
 1997-03-18,Austria,Slovenia,0,2,Friendly,Linz,Austria,FALSE
 1997-03-18,Bangladesh,Taiwan,1,3,FIFA World Cup qualification,Kuala Lumpur,Malaysia,TRUE
@@ -20419,6 +20419,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1997-04-17,Thailand,Kuwait,3,1,Friendly,Bangkok,Thailand,FALSE
 1997-04-18,Costa Rica,Nicaragua,5,1,UNCAF Cup,Guatemala,Guatemala,TRUE
 1997-04-18,Honduras,El Salvador,3,0,UNCAF Cup,Guatemala,Guatemala,TRUE
+1997-04-19,Zambia,Malawi,4,0,COSAFA Cup,Lusaka,Zambia,FALSE
 1997-04-19,Jordan,Bahrain,4,1,FIFA World Cup qualification,Sharjah,United Arab Emirates,TRUE
 1997-04-20,Cambodia,Yemen,0,1,FIFA World Cup qualification,Phnom Penh,Cambodia,FALSE
 1997-04-20,Cameroon,Congo,2,0,Friendly,Yaoundé,Cameroon,FALSE
@@ -20791,6 +20792,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1997-08-24,Uzbekistan,Yemen,5,1,FIFA World Cup qualification,Tashkent,Uzbekistan,FALSE
 1997-08-30,South Korea,China PR,0,0,Friendly,Seoul,South Korea,FALSE
 1997-08-31,Jamaica,Trinidad and Tobago,6,1,Friendly,Kingston,Jamaica,FALSE
+1997-08-31,Namibia,Zambia,1,1,COSAFA Cup,Windhoek,Namibia,FALSE
 1997-09-02,China PR,Kazakhstan,3,0,Friendly,Dalian,China PR,FALSE
 1997-09-02,United Arab Emirates,Iran,3,1,Friendly,Abu Dhabi,United Arab Emirates,FALSE
 1997-09-04,Nepal,Pakistan,0,2,SAFF Cup,Kathmandu,Nepal,FALSE
@@ -21035,7 +21037,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1998-01-04,Malawi,Zimbabwe,0,2,Friendly,Lilongwe,Malawi,FALSE
 1998-01-07,Burkina Faso,Mozambique,4,2,Friendly,Ouagadougou,Burkina Faso,FALSE
 1998-01-07,Trinidad and Tobago,Jamaica,0,0,Friendly,Port of Spain,Trinidad and Tobago,FALSE
-1998-01-10,Malawi,Zambia,0,1,COSAFA Cup,Blantyre,Malawi,FALSE
+1998-01-10,Malawi,Zambia,0,1,COSAFA Cup qualification,Blantyre,Malawi,FALSE
 1998-01-10,Eswatini,Botswana,1,1,Friendly,Mbabane,Eswatini,FALSE
 1998-01-11,Burkina Faso,Mali,0,0,Friendly,Ouagadougou,Burkina Faso,FALSE
 1998-01-11,Togo,Mozambique,1,2,Friendly,Lomé,Togo,FALSE
@@ -21043,14 +21045,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1998-01-14,Ghana,Mozambique,0,0,Friendly,Accra,Ghana,FALSE
 1998-01-14,Morocco,Angola,2,1,Friendly,Casablanca,Morocco,FALSE
 1998-01-16,Gambia,Zambia,0,2,Friendly,Banjul,Gambia,FALSE
-1998-01-18,Lesotho,Zimbabwe,0,2,COSAFA Cup,Maseru,Lesotho,FALSE
+1998-01-18,Lesotho,Zimbabwe,0,2,COSAFA Cup qualification,Maseru,Lesotho,FALSE
 1998-01-19,Ghana,Mozambique,3,1,Friendly,Accra,Ghana,FALSE
 1998-01-21,Costa Rica,Honduras,1,4,Friendly,Nicoya,Costa Rica,FALSE
 1998-01-21,El Salvador,Trinidad and Tobago,2,0,Friendly,San Salvador,El Salvador,FALSE
 1998-01-21,Turkey,Albania,1,4,Friendly,Antalya,Turkey,FALSE
-1998-01-24,Namibia,South Africa,3,2,COSAFA Cup,Windhoek,Namibia,FALSE
+1998-01-24,Namibia,South Africa,3,2,COSAFA Cup qualification,Windhoek,Namibia,FALSE
 1998-01-24,United States,Sweden,1,0,Friendly,Orlando,United States,FALSE
-1998-01-25,Botswana,Mozambique,1,2,COSAFA Cup,Gaborone,Botswana,FALSE
+1998-01-25,Botswana,Mozambique,1,2,COSAFA Cup qualification,Gaborone,Botswana,FALSE
 1998-01-25,Thailand,Egypt,1,1,King's Cup,Bangkok,Thailand,FALSE
 1998-01-27,Egypt,South Korea,0,2,King's Cup,Bangkok,Thailand,TRUE
 1998-01-27,Liberia,Burkina Faso,1,2,Friendly,Monrovia,Liberia,FALSE
@@ -21166,7 +21168,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1998-03-07,Curaçao,French Guiana,2,1,CFU Caribbean Cup qualification,Oranjestad,Aruba,TRUE
 1998-03-07,Japan,China PR,0,2,Dynasty Cup,Tokyo,Japan,FALSE
 1998-03-08,Hong Kong,South Korea,0,1,Dynasty Cup,Tokyo,Japan,TRUE
-1998-03-08,Eswatini,Angola,0,1,COSAFA Cup,Lobamba,Eswatini,FALSE
+1998-03-08,Eswatini,Angola,0,1,COSAFA Cup qualification,Lobamba,Eswatini,FALSE
 1998-03-10,Argentina,Bulgaria,2,0,Friendly,Buenos Aires,Argentina,FALSE
 1998-03-11,Haiti,Puerto Rico,4,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,FALSE
 1998-03-13,Dominican Republic,Puerto Rico,3,1,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,TRUE
@@ -21409,6 +21411,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1998-07-15,Ukraine,Poland,1,2,Friendly,Kyïv,Ukraine,FALSE
 1998-07-18,Malawi,Zimbabwe,1,0,Friendly,Blantyre,Malawi,FALSE
 1998-07-18,Uganda,Kenya,3,3,Friendly,Kampala,Uganda,FALSE
+1998-07-19,Mozambique,Angola,1,1,COSAFA Cup,Maputo,Mozambique,FALSE
 1998-07-20,Lebanon,Palestine,3,1,UAFA Cup,Beirut,Lebanon,FALSE
 1998-07-20,Malawi,Zimbabwe,0,0,Friendly,Lilongwe,Malawi,FALSE
 1998-07-20,Syria,Jordan,3,0,UAFA Cup,Beirut,Lebanon,TRUE
@@ -21768,7 +21771,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1999-02-06,Slovenia,Switzerland,0,2,Friendly,Muscat,Oman,TRUE
 1999-02-06,United States,Germany,3,0,Friendly,Jacksonville,United States,FALSE
 1999-02-07,British Virgin Islands,Montserrat,3,0,CFU Caribbean Cup qualification,Road Town,British Virgin Islands,FALSE
-1999-02-07,Lesotho,Namibia,1,0,COSAFA Cup,Maseru,Lesotho,FALSE
+1999-02-07,Lesotho,Namibia,1,0,COSAFA Cup qualification,Maseru,Lesotho,FALSE
 1999-02-08,Oman,Slovenia,0,7,Friendly,Muscat,Oman,FALSE
 1999-02-09,Belgium,Czech Republic,0,1,Friendly,Brussels,Belgium,FALSE
 1999-02-09,Colombia,Germany,3,3,Friendly,Miami,United States,TRUE
@@ -21793,7 +21796,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1999-02-17,Ecuador,Peru,1,2,Friendly,Guayaquil,Ecuador,FALSE
 1999-02-17,Guatemala,Chile,1,1,Friendly,Guatemala,Guatemala,FALSE
 1999-02-19,Egypt,Mexico,0,3,Lunar New Year Cup,So Kon Po,Hong Kong,TRUE
-1999-02-20,Botswana,South Africa,1,2,COSAFA Cup,Gaborone,Botswana,FALSE
+1999-02-20,Botswana,South Africa,1,2,COSAFA Cup qualification,Gaborone,Botswana,FALSE
 1999-02-20,Gabon,Burkina Faso,1,1,Friendly,Libreville,Gabon,FALSE
 1999-02-20,Zimbabwe,Zambia,1,1,Friendly,Bulawayo,Zimbabwe,FALSE
 1999-02-21,United States,Chile,2,1,Friendly,Fort Lauderdale,United States,FALSE
@@ -21929,7 +21932,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1999-04-22,India,Bangladesh,0,0,SAFF Cup,Margao,India,FALSE
 1999-04-22,Paraguay,Colombia,0,2,Friendly,Luque,Paraguay,FALSE
 1999-04-23,Sri Lanka,Maldives,0,0,SAFF Cup,Margao,India,TRUE
-1999-04-24,Malawi,Angola,1,2,COSAFA Cup,Blantyre,Malawi,FALSE
+1999-04-24,Malawi,Angola,1,2,COSAFA Cup qualification,Blantyre,Malawi,FALSE
 1999-04-24,Pakistan,Bangladesh,0,4,SAFF Cup,Margao,India,TRUE
 1999-04-25,Sri Lanka,Nepal,2,3,SAFF Cup,Margao,India,TRUE
 1999-04-25,Eswatini,Lesotho,4,1,Friendly,Lobamba,Eswatini,FALSE
@@ -21970,16 +21973,17 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1999-05-09,Bermuda,Cuba,1,2,CFU Caribbean Cup qualification,Hamilton,Bermuda,FALSE
 1999-05-09,Cayman Islands,Bahamas,4,1,CFU Caribbean Cup qualification,Hamilton,Bermuda,TRUE
 1999-05-09,Jamaica,South Africa,1,1,Friendly,Kingston,Jamaica,FALSE
-1999-05-09,Eswatini,Mozambique,3,1,COSAFA Cup,Lobamba,Eswatini,FALSE
+1999-05-09,Eswatini,Mozambique,3,1,COSAFA Cup qualification,Lobamba,Eswatini,FALSE
 1999-05-16,Libya,Senegal,2,1,Friendly,Tripoli,Libya,FALSE
 1999-05-16,Eswatini,Botswana,2,1,Friendly,Lobamba,Eswatini,FALSE
 1999-05-19,Russia,Belarus,1,1,Friendly,Tula,Russia,FALSE
 1999-05-19,Slovakia,Bulgaria,2,0,Friendly,Dubnica nad Váhom,Slovakia,FALSE
 1999-05-20,Norway,Jamaica,6,0,Friendly,Oslo,Norway,FALSE
 1999-05-21,Haiti,Honduras,0,2,Friendly,Miami,United States,TRUE
-1999-05-22,Malawi,Namibia,1,1,COSAFA Cup,Blantyre,Malawi,FALSE
+1999-05-22,Malawi,Namibia,1,1,COSAFA Cup qualification,Blantyre,Malawi,FALSE
 1999-05-22,Uganda,Zambia,0,1,Friendly,Kampala,Uganda,FALSE
 1999-05-27,Sweden,Jamaica,2,1,Friendly,Solna,Sweden,FALSE
+1999-05-28,Botswana,Mozambique,0,2,COSAFA Cup qualification,Gaborone,Botswana,FALSE
 1999-05-29,Canada,Guatemala,1,0,Friendly,Toronto,Canada,FALSE
 1999-05-29,Chile,Costa Rica,3,0,Friendly,Concepción,Chile,FALSE
 1999-05-29,El Salvador,Colombia,2,1,Friendly,East Rutherford,United States,TRUE
@@ -22313,6 +22317,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1999-09-11,Zambia,Saudi Arabia,1,2,Friendly,Harare,Zimbabwe,TRUE
 1999-09-19,South Africa,Saudi Arabia,1,0,Friendly,Cape Town,South Africa,FALSE
 1999-09-22,Cayman Islands,Bahamas,4,0,Friendly,George Town,Cayman Islands,FALSE
+1999-09-26,Angola,Namibia,1,0,COSAFA Cup,Luanda,Angola,FALSE
 1999-09-28,Haiti,Venezuela,3,2,Friendly,Port-au-Prince,Haiti,FALSE
 1999-09-30,Saudi Arabia,South Africa,0,0,Friendly,Riyadh,Saudi Arabia,FALSE
 1999-10-02,Namibia,Angola,1,1,COSAFA Cup,Windhoek,Namibia,FALSE
@@ -24351,6 +24356,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2001-09-28,Qatar,Uzbekistan,2,2,FIFA World Cup qualification,Doha,Qatar,FALSE
 2001-09-28,Saudi Arabia,Iran,2,2,FIFA World Cup qualification,Jeddah,Saudi Arabia,FALSE
 2001-09-29,Thailand,Oman,2,0,Friendly,Bangkok,Thailand,FALSE
+2001-09-30,Zimbabwe,Angola,0,1,COSAFA Cup,Harare,Zimbabwe,FALSE
 2001-10-04,Japan,Senegal,0,2,Friendly,Lens,France,TRUE
 2001-10-04,Qatar,United Arab Emirates,1,2,FIFA World Cup qualification,Doha,Qatar,FALSE
 2001-10-05,Bahrain,Qatar,1,0,Friendly,Manama,Bahrain,FALSE
@@ -25386,6 +25392,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2003-03-12,Tanzania,Uganda,0,0,Friendly,Arusha,Tanzania,FALSE
 2003-03-13,Cuba,Jamaica,1,0,Friendly,Havana,Cuba,FALSE
 2003-03-14,Martinique,French Guiana,2,1,Friendly,Fort-de-France,Martinique,FALSE
+2003-03-15,Namibia,Botswana,0,1,COSAFA Cup,Windhoek,Namibia,FALSE
 2003-03-15,Guadeloupe,French Guiana,2,2,Friendly,Fort-de-France,Martinique,TRUE
 2003-03-15,Kenya,Uganda,2,2,Friendly,Nairobi,Kenya,FALSE
 2003-03-15,Rwanda,Burundi,4,2,Friendly,Kigali,Rwanda,FALSE
@@ -25805,6 +25812,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2003-07-24,Peru,Uruguay,3,4,Friendly,Lima,Peru,FALSE
 2003-07-26,Nigeria,Venezuela,1,0,Friendly,Watford,England,TRUE
 2003-07-26,United States,Costa Rica,3,2,Gold Cup,Miami,United States,FALSE
+2003-07-27,Zambia,Mozambique,4,2,COSAFA Cup,Lusaka,Zambia,FALSE
 2003-07-27,Mexico,Brazil,1,0,Gold Cup,Mexico City,Mexico,FALSE
 2003-07-29,Saint Kitts and Nevis,Haiti,1,0,SKN Football Festival,Basseterre,Saint Kitts and Nevis,FALSE
 2003-07-30,Uruguay,Peru,1,0,Friendly,Montevideo,Uruguay,FALSE
@@ -30480,27 +30488,29 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2008-07-13,Sápmi,Iraqi Kurdistan,3,1,Viva World Cup,Malmberget,Sweden,FALSE
 2008-07-13,Padania,Arameans Suryoye,2,0,Viva World Cup,Gällivare,Sweden,TRUE
 2008-07-17,Trinidad and Tobago,Curaçao,2,0,Friendly,Macoya,Trinidad and Tobago,FALSE
-2008-07-19,Madagascar,Eswatini,1,1,COSAFA Cup,Witbank,South Africa,TRUE
-2008-07-19,Mauritius,Seychelles,0,7,COSAFA Cup,Witbank,South Africa,TRUE
-2008-07-20,Comoros,Namibia,0,3,COSAFA Cup,Secunda,South Africa,TRUE
+2008-07-19,Madagascar,Eswatini,1,1,COSAFA Cup qualification,Witbank,South Africa,TRUE
+2008-07-19,Mauritius,Seychelles,0,7,COSAFA Cup qualification,Witbank,South Africa,TRUE
+2008-07-20,Comoros,Namibia,0,3,COSAFA Cup qualification,Secunda,South Africa,TRUE
 2008-07-20,El Salvador,Guatemala,0,0,Friendly,Los Angeles,United States,TRUE
-2008-07-20,Lesotho,Malawi,0,1,COSAFA Cup,Secunda,South Africa,TRUE
-2008-07-21,Madagascar,Seychelles,1,1,COSAFA Cup,Witbank,South Africa,TRUE
-2008-07-21,Mauritius,Eswatini,1,1,COSAFA Cup,Witbank,South Africa,TRUE
-2008-07-22,Comoros,Malawi,0,1,COSAFA Cup,Secunda,South Africa,TRUE
+2008-07-20,Lesotho,Malawi,0,1,COSAFA Cup qualification,Secunda,South Africa,TRUE
+2008-07-21,Madagascar,Seychelles,1,1,COSAFA Cup qualification,Witbank,South Africa,TRUE
+2008-07-21,Mauritius,Eswatini,1,1,COSAFA Cup qualification,Witbank,South Africa,TRUE
+2008-07-22,Comoros,Malawi,0,1,COSAFA Cup qualification,Secunda,South Africa,TRUE
 2008-07-22,India,Malaysia,1,1,Friendly,Hyderabad,India,FALSE
-2008-07-22,Lesotho,Namibia,1,1,COSAFA Cup,Secunda,South Africa,TRUE
-2008-07-23,Madagascar,Mauritius,2,1,COSAFA Cup,Witbank,South Africa,TRUE
-2008-07-23,Seychelles,Eswatini,0,1,COSAFA Cup,Witbank,South Africa,TRUE
-2008-07-24,Comoros,Lesotho,0,1,COSAFA Cup,Secunda,South Africa,TRUE
-2008-07-24,Malawi,Namibia,0,1,COSAFA Cup,Secunda,South Africa,TRUE
+2008-07-22,Lesotho,Namibia,1,1,COSAFA Cup qualification,Secunda,South Africa,TRUE
+2008-07-23,Madagascar,Mauritius,2,1,COSAFA Cup qualification,Witbank,South Africa,TRUE
+2008-07-23,Seychelles,Eswatini,0,1,COSAFA Cup qualification,Witbank,South Africa,TRUE
+2008-07-24,Comoros,Lesotho,0,1,COSAFA Cup qualification,Secunda,South Africa,TRUE
+2008-07-24,Malawi,Namibia,0,1,COSAFA Cup qualification,Secunda,South Africa,TRUE
 2008-07-26,El Salvador,Jamaica,0,0,Friendly,Frisco,United States,TRUE
+2008-07-26,South Africa,Namibia,1,0,COSAFA Cup,Witbank,South Africa,FALSE
 2008-07-27,Botswana,Mozambique,0,2,COSAFA Cup,Secunda,South Africa,TRUE
 2008-07-27,Curaçao,Aruba,0,0,CFU Caribbean Cup qualification,Willemstad,Netherlands Antilles,TRUE
 2008-07-27,Zambia,Zimbabwe,0,0,COSAFA Cup,Secunda,South Africa,TRUE
 2008-07-29,Grenada,Aruba,3,1,CFU Caribbean Cup qualification,Willemstad,Netherlands Antilles,TRUE
 2008-07-30,India,Afghanistan,1,0,AFC Challenge Cup,Hyderabad,India,FALSE
 2008-07-30,Madagascar,Mozambique,1,2,COSAFA Cup,Bushbuckridge,South Africa,TRUE
+2008-07-30,South Africa,Zambia,1,0,COSAFA Cup,Bushbuckridge,South Africa,FALSE
 2008-07-30,Trinidad and Tobago,Haiti,2,0,Friendly,Macoya,Trinidad and Tobago,FALSE
 2008-07-30,Turkmenistan,Tajikistan,0,0,AFC Challenge Cup,Hyderabad,India,TRUE
 2008-07-31,Burma,Nepal,3,0,AFC Challenge Cup,Hyderabad,India,TRUE
@@ -30513,6 +30523,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2008-08-03,Afghanistan,Tajikistan,0,4,AFC Challenge Cup,Hyderabad,India,TRUE
 2008-08-03,India,Turkmenistan,2,1,AFC Challenge Cup,Hyderabad,India,FALSE
 2008-08-03,Madagascar,Zambia,0,2,COSAFA Cup,Bushbuckridge,South Africa,TRUE
+2008-08-03,South Africa,Madagascar,2,1,COSAFA Cup,Bushbuckridge,South Africa,FALSE
 2008-08-04,North Korea,Burma,1,0,AFC Challenge Cup,Hyderabad,India,TRUE
 2008-08-04,Nepal,Sri Lanka,3,0,AFC Challenge Cup,Hyderabad,India,TRUE
 2008-08-06,Guatemala,Bolivia,3,0,Friendly,Washington,United States,TRUE
@@ -31752,10 +31763,13 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2009-10-25,Namibia,Zambia,0,1,COSAFA Cup,Harare,Zimbabwe,TRUE
 2009-10-26,Kuwait,Syria,1,0,Friendly,Al-Jahra,Kuwait,FALSE
 2009-10-26,Zimbabwe,Botswana,1,0,COSAFA Cup,Bulawayo,Zimbabwe,FALSE
+2009-10-26,South Africa,Angola,2,0,COSAFA Cup,Bulawayo,Zimbabwe,TRUE
+2009-10-28,South Africa,Zimbabwe,1,1,COSAFA Cup,Harare,Zimbabwe,TRUE
 2009-10-28,Curaçao,French Guiana,1,4,Friendly,Paramaribo,Suriname,TRUE
 2009-10-29,Mozambique,Zambia,0,2,COSAFA Cup,Bulawayo,Zimbabwe,TRUE
 2009-10-30,Guyana,Curaçao,1,0,Friendly,Paramaribo,Suriname,TRUE
 2009-10-30,Suriname,French Guiana,4,0,Friendly,Paramaribo,Suriname,FALSE
+2009-10-31,South Africa,Mozambique,0,1,COSAFA Cup,Bulawayo,Zimbabwe,TRUE
 2009-11-01,French Guiana,Guyana,0,1,Friendly,Paramaribo,Suriname,TRUE
 2009-11-01,Suriname,Curaçao,1,1,Friendly,Paramaribo,Suriname,FALSE
 2009-11-01,Zimbabwe,Zambia,3,1,COSAFA Cup,Harare,Zimbabwe,FALSE
@@ -35340,6 +35354,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2013-07-14,Martinique,Mexico,1,3,Gold Cup,Denver,United States,TRUE
 2013-07-14,Panama,Canada,0,0,Gold Cup,Denver,United States,TRUE
 2013-07-14,Zambia,Mozambique,3,1,COSAFA Cup,Kitwe,Zambia,FALSE
+2013-07-14,Angola,Lesotho,1,1,COSAFA Cup,Kitwe,Zambia,TRUE
 2013-07-14,Bermuda,Greenland,3,0,Island Games,Hamilton,Bermuda,FALSE
 2013-07-14,Frøya,Falkland Islands,1,2,Island Games,Hamilton,Bermuda,TRUE
 2013-07-15,El Salvador,Haiti,1,0,Gold Cup,Houston,United States,TRUE
@@ -35348,6 +35363,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2013-07-15,Greenland,Frøya,12,0,Island Games,Hamilton,Bermuda,TRUE
 2013-07-16,Cuba,Belize,4,0,Gold Cup,East Hartford,United States,TRUE
 2013-07-16,Namibia,Mozambique,0,1,COSAFA Cup,Kitwe,Zambia,TRUE
+2013-07-16,Malawi,Angola,2,3,COSAFA Cup,Kitwe,Zambia,TRUE
 2013-07-16,United States,Costa Rica,1,0,Gold Cup,East Hartford,United States,FALSE
 2013-07-17,Zambia,South Africa,0,0,COSAFA Cup,Ndola,Zambia,FALSE
 2013-07-17,Zimbabwe,Lesotho,2,1,COSAFA Cup,Ndola,Zambia,TRUE
@@ -35355,6 +35371,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2013-07-17,Bermuda,Frøya,8,0,Island Games,Hamilton,Bermuda,FALSE
 2013-07-18,Falkland Islands,Frøya,6,0,Island Games,Hamilton,Bermuda,TRUE
 2013-07-18,Bermuda,Greenland,1,0,Island Games,Hamilton,Bermuda,FALSE
+2013-07-18,Angola,Mozambique,0,1,COSAFA Cup,Kitwe,Zambia,TRUE
 2013-07-20,South Korea,Australia,0,0,EAFF Championship,Seoul,South Korea,FALSE
 2013-07-20,Lesotho,South Africa,1,2,COSAFA Cup,Ndola,Zambia,TRUE
 2013-07-20,Mauritania,Senegal,2,0,African Nations Championship,Nouakchott,Mauritania,FALSE
@@ -39863,7 +39880,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-06-05,Luxembourg,Georgia,1,0,Friendly,Luxembourg,Luxembourg,FALSE
 2018-06-05,Kazakhstan,Azerbaijan,3,0,Friendly,Astana,Kazakhstan,FALSE
 2018-06-05,Martinique,French Guiana,3,0,Friendly,Fort-de-France,Martinique,FALSE
-2018-06-05,Lithuania,Latvia,1,1,Friendly,Vilnius,Lithuania,FALSE
+2018-06-05,Lithuania,Latvia,1,1,Baltic Cup,Vilnius,Lithuania,FALSE
 2018-06-05,Taiwan,New Zealand,0,1,Intercontinental Cup,Mumbai,India,TRUE
 2018-06-05,South Africa,Namibia,4,1,COSAFA Cup,Polokwane,South Africa,FALSE
 2018-06-05,Eswatini,Botswana,0,2,COSAFA Cup,Polokwane,South Africa,TRUE
@@ -39900,6 +39917,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-06-08,Lithuania,Iran,0,1,Friendly,Moscow,Russia,TRUE
 2018-06-08,Poland,Chile,2,2,Friendly,Poznań,Poland,FALSE
 2018-06-08,Taiwan,Kenya,0,4,Intercontinental Cup,Mumbai,India,TRUE
+2018-06-08,South Africa,Botswana,3,0,COSAFA Cup,Polokwane,South Africa,FALSE
+2018-06-08,Madagascar,Lesotho,0,1,COSAFA Cup,Polokwane,South Africa,TRUE
+2018-06-09,Zambia,Zimbabwe,2,4,COSAFA Cup,Polokwane,South Africa,TRUE
 2018-06-09,Serbia,Bolivia,5,1,Friendly,Graz,Austria,TRUE
 2018-06-09,Denmark,Mexico,2,0,Friendly,Brøndby,Denmark,FALSE
 2018-06-09,Sweden,Peru,0,0,Friendly,Gothenburg,Sweden,FALSE
