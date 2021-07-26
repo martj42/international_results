@@ -2717,11 +2717,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1947-07-05,New Zealand,South Africa,0,6,Friendly,Dunedin,New Zealand,FALSE
 1947-07-06,Bulgaria,Romania,2,3,Balkan Cup,Sofia,Bulgaria,FALSE
 1947-07-12,New Zealand,South Africa,3,8,Friendly,Wellington,New Zealand,FALSE
-1947-07-13,Mexico,United States,5,0,NAFU Championship,Havana,Cuba,TRUE
-1947-07-17,Cuba,Mexico,1,3,NAFU Championship,Havana,Cuba,FALSE
+1947-07-13,Mexico,United States,5,0,"NAFU Championship",Havana,Cuba,TRUE
+1947-07-17,Cuba,Mexico,1,3,"NAFU Championship",Havana,Cuba,FALSE
 1947-07-19,New Zealand,South Africa,1,4,Friendly,Auckland,New Zealand,FALSE
 1947-07-19,Poland,Romania,1,2,Friendly,Warsaw,Poland,FALSE
-1947-07-20,Cuba,United States,5,2,NAFU Championship,Havana,Cuba,FALSE
+1947-07-20,Cuba,United States,5,2,"NAFU Championship",Havana,Cuba,FALSE
 1947-07-24,Iceland,Norway,2,4,Friendly,Reykjavík,Iceland,FALSE
 1947-08-17,Hungary,Bulgaria,9,0,Balkan Cup,Budapest,Hungary,FALSE
 1947-08-20,Hungary,Albania,3,0,Balkan Cup,Budapest,Hungary,FALSE
@@ -3050,8 +3050,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1949-10-16,Austria,Hungary,3,4,Friendly,Vienna,Austria,FALSE
 1949-10-23,Denmark,Sweden,3,2,Nordic Championship,Copenhagen,Denmark,FALSE
 1949-10-23,Lithuania,Estonia,2,1,Baltic Cup,Vilnius,Soviet Union,FALSE
-1949-10-24,Latvia,Estonia,2,1,Baltic Cup,Vilnius,Soviet Union,TRUE
 1949-10-23,Romania,Albania,1,1,Friendly,Bucharest,Romania,FALSE
+1949-10-24,Latvia,Estonia,2,1,Baltic Cup,Vilnius,Soviet Union,TRUE
 1949-10-25,Lithuania,Latvia,1,0,Baltic Cup,Vilnius,Soviet Union,FALSE
 1949-10-30,Czechoslovakia,Poland,2,0,Friendly,Ostrava,Czechoslovakia,FALSE
 1949-10-30,France,Yugoslavia,1,1,FIFA World Cup qualification,Colombes,France,FALSE
@@ -16050,7 +16050,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1990-05-08,Andalusia,Uruguay,1,1,Friendly,Seville,Spain,FALSE
 1990-05-09,United States,Poland,3,1,Friendly,Hershey,United States,FALSE
 1990-05-13,Brazil,German DR,3,3,Friendly,Rio de Janeiro,Brazil,FALSE
-1990-05-13,Canada,Mexico,2,1,NAFU Championship,Burnaby,Canada,FALSE
+1990-05-13,Canada,Mexico,2,1,"NAFU Championship",Burnaby,Canada,FALSE
 1990-05-13,Dominica,French Guiana,1,1,CFU Caribbean Cup qualification,Roseau,Dominica,FALSE
 1990-05-13,Saint Lucia,Bermuda,0,2,CFU Caribbean Cup qualification,Castries,Saint Lucia,FALSE
 1990-05-15,England,Denmark,1,0,Friendly,London,England,FALSE
@@ -16383,12 +16383,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1991-03-05,Algeria,Tunisia,2,1,Friendly,Annaba,Algeria,FALSE
 1991-03-09,Uganda,Sudan,0,1,Friendly,Kampala,Uganda,FALSE
 1991-03-12,Liechtenstein,Switzerland,0,6,Friendly,Balzers,Liechtenstein,FALSE
-1991-03-12,United States,Mexico,2,2,NAFU Championship,Los Angeles,United States,FALSE
+1991-03-12,United States,Mexico,2,2,"NAFU Championship",Los Angeles,United States,FALSE
 1991-03-13,Argentina,Mexico,0,0,Friendly,Buenos Aires,Argentina,FALSE
 1991-03-13,Netherlands,Malta,1,0,UEFA Euro qualification,Rotterdam,Netherlands,FALSE
 1991-03-13,Poland,Finland,1,1,Friendly,Warsaw,Poland,FALSE
-1991-03-14,Canada,Mexico,0,3,NAFU Championship,Los Angeles,United States,TRUE
-1991-03-16,United States,Canada,2,0,NAFU Championship,Torrance,United States,FALSE
+1991-03-14,Canada,Mexico,0,3,"NAFU Championship",Los Angeles,United States,TRUE
+1991-03-16,United States,Canada,2,0,"NAFU Championship",Torrance,United States,FALSE
 1991-03-27,Argentina,Brazil,3,3,Friendly,Buenos Aires,Argentina,FALSE
 1991-03-27,Belgium,Wales,1,1,UEFA Euro qualification,Brussels,Belgium,FALSE
 1991-03-27,Czechoslovakia,Poland,4,0,Friendly,Olomouc,Czechoslovakia,FALSE
@@ -42423,7 +42423,31 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-07-06,Haiti,Bermuda,4,1,Gold Cup qualification,Fort Lauderdale,United States,TRUE
 2021-07-06,Guatemala,Guadeloupe,1,1,Gold Cup qualification,Fort Lauderdale,United States,TRUE
 2021-07-06,Trinidad and Tobago,French Guiana,1,1,Gold Cup qualification,Fort Lauderdale,United States,TRUE
+2021-07-06,Eswatini,Lesotho,3,1,COSAFA Cup,Port Elizabeth,South Africa,TRUE
+2021-07-06,South Africa,Botswana,1,0,COSAFA Cup,Port Elizabeth,South Africa,FALSE
 2021-07-07,England,Denmark,2,1,UEFA Euro,London,England,FALSE
+2021-07-07,Mozambique,Zimbabwe,0,0,COSAFA Cup,Port Elizabeth,South Africa,TRUE
+2021-07-07,Senegal,Namibia,1,2,COSAFA Cup,Port Elizabeth,South Africa,TRUE
+2021-07-08,Zambia,Lesotho,1,2,COSAFA Cup,Port Elizabeth,South Africa,TRUE
+2021-07-08,South Africa,Eswatini,1,0,COSAFA Cup,Port Elizabeth,South Africa,FALSE
 2021-07-09,Peru,Colombia,2,3,Copa América,Brasília,Brazil,TRUE
+2021-07-09,Malawi,Zimbabwe,2,2,COSAFA Cup,Port Elizabeth,South Africa,TRUE
+2021-07-09,Senegal,Mozambique,1,0,COSAFA Cup,Port Elizabeth,South Africa,TRUE
 2021-07-10,Brazil,Argentina,0,1,Copa América,Rio de Janeiro,Brazil,FALSE
+2021-07-10,Lesotho,Botswana,0,4,COSAFA Cup,Port Elizabeth,South Africa,TRUE
+2021-07-10,Zambia,Eswatini,0,1,COSAFA Cup,Port Elizabeth,South Africa,TRUE
 2021-07-11,England,Italy,1,1,UEFA Euro,London,England,FALSE
+2021-07-11,Namibia,Zimbabwe,2,0,COSAFA Cup,Port Elizabeth,South Africa,TRUE
+2021-07-11,Mozambique,Malawi,2,0,COSAFA Cup,Port Elizabeth,South Africa,TRUE
+2021-07-13,Botswana,Zambia,1,2,COSAFA Cup,Port Elizabeth,South Africa,TRUE
+2021-07-13,South Africa,Lesotho,4,0,COSAFA Cup,Port Elizabeth,South Africa,FALSE
+2021-07-13,Senegal,Zimbabwe,2,1,COSAFA Cup,Port Elizabeth,South Africa,TRUE
+2021-07-13,Malawi,Namibia,1,1,COSAFA Cup,Port Elizabeth,South Africa,TRUE
+2021-07-14,South Africa,Zambia,0,0,COSAFA Cup,Port Elizabeth,South Africa,FALSE
+2021-07-14,Eswatini,Botswana,1,1,COSAFA Cup,Port Elizabeth,South Africa,TRUE
+2021-07-14,Mozambique,Namibia,1,0,COSAFA Cup,Port Elizabeth,South Africa,TRUE
+2021-07-14,Senegal,Malabo,2,1,COSAFA Cup,Port Elizabeth,South Africa,TRUE
+2021-07-16,Senegal,Eswatini,2,2,COSAFA Cup,Port Elizabeth,South Africa,TRUE
+2021-07-16,South Africa,Mozambique,3,0,COSAFA Cup,Port Elizabeth,South Africa,FALSE
+2021-07-18,Eswatini,Mozambique,1,1,COSAFA Cup,Port Elizabeth,South Africa,TRUE
+2021-07-18,South Africa,Senegal,0,0,COSAFA Cup,Port Elizabeth,South Africa,FALSE
