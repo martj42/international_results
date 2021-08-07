@@ -23528,10 +23528,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2001-01-16,Bangladesh,Serbia,1,4,Millennium Cup,Cochin,India,TRUE
 2001-01-16,Hong Kong,Jordan,0,2,Millennium Cup,Margao,India,TRUE
 2001-01-17,Chile,Uzbekistan,2,0,Millennium Cup,Calcutta,India,TRUE
-2001-01-17,China PR,Egypt,0,0,Friendly,Teheran,Iran,TRUE
+2001-01-17,China PR,Egypt,0,0,Cup of Ancient Civilizations,Teheran,Iran,TRUE
 2001-01-17,Israel,Uzbekistan,2,0,Friendly,Beit She'an,Israel,FALSE
 2001-01-17,Kuwait,Syria,2,0,Friendly,Doha,Qatar,TRUE
-2001-01-19,Iran,China PR,4,0,Friendly,Teheran,Iran,FALSE
+2001-01-19,Iran,China PR,4,0,Cup of Ancient Civilizations,Teheran,Iran,FALSE
 2001-01-20,Chile,Iceland,2,0,Millennium Cup,Calcutta,India,TRUE
 2001-01-20,Ivory Coast,Sudan,2,0,African Cup of Nations qualification,Bouaké,Ivory Coast,FALSE
 2001-01-20,Mali,Guinea,0,1,Friendly,Bamako,Mali,FALSE
@@ -26045,17 +26045,17 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2003-10-21,Oman,South Korea,3,1,AFC Asian Cup qualification,Muscat,Oman,FALSE
 2003-10-22,Bahrain,Malaysia,3,1,AFC Asian Cup qualification,Riffa,Bahrain,FALSE
 2003-10-22,Burma,Iraq,1,3,AFC Asian Cup qualification,Riffa,Bahrain,TRUE
-2003-10-22,India,Rwanda,3,1,Friendly,Hyderabad,India,FALSE
+2003-10-22,India,Rwanda,3,1,Afro-Asian Games,Hyderabad,India,FALSE
 2003-10-22,Singapore,Palestine,0,0,AFC Asian Cup qualification,Singapore,Singapore,FALSE
-2003-10-23,Burkina Faso,Zimbabwe,1,4,Friendly,Hyderabad,India,TRUE
+2003-10-23,Burkina Faso,Zimbabwe,1,4,Afro-Asian Games,Hyderabad,India,TRUE
 2003-10-24,Bahrain,Iraq,1,0,AFC Asian Cup qualification,Riffa,Bahrain,FALSE
 2003-10-24,Burma,Malaysia,2,1,AFC Asian Cup qualification,Riffa,Bahrain,TRUE
 2003-10-24,Nepal,South Korea,0,7,AFC Asian Cup qualification,Muscat,Oman,TRUE
 2003-10-24,Oman,Vietnam,2,0,AFC Asian Cup qualification,Muscat,Oman,FALSE
 2003-10-27,North Korea,Iran,1,3,AFC Asian Cup qualification,P'yongyang,North Korea,FALSE
-2003-10-29,India,Zimbabwe,5,3,Friendly,Hyderabad,India,FALSE
+2003-10-29,India,Zimbabwe,5,3,Afro-Asian Games,Hyderabad,India,FALSE
 2003-10-30,United Arab Emirates,Turkmenistan,1,1,AFC Asian Cup qualification,Sharjah,United Arab Emirates,FALSE
-2003-10-31,Rwanda,Zimbabwe,2,2,Friendly,Hyderabad,India,TRUE
+2003-10-31,Rwanda,Zimbabwe,2,2,Afro-Asian Games,Hyderabad,India,TRUE
 2003-11-03,Lebanon,North Korea,1,1,AFC Asian Cup qualification,Beirut,Lebanon,FALSE
 2003-11-06,Thailand,Tajikistan,0,1,AFC Asian Cup qualification,Tashkent,Uzbekistan,TRUE
 2003-11-06,Uzbekistan,Hong Kong,4,1,AFC Asian Cup qualification,Tashkent,Uzbekistan,FALSE
@@ -42436,18 +42436,49 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-07-10,Brazil,Argentina,0,1,Copa América,Rio de Janeiro,Brazil,FALSE
 2021-07-10,Lesotho,Botswana,0,4,COSAFA Cup,Port Elizabeth,South Africa,TRUE
 2021-07-10,Zambia,Eswatini,0,1,COSAFA Cup,Port Elizabeth,South Africa,TRUE
+2021-07-10,Mexico,Trinidad and Tobago,0,0,Gold Cup,Arlington,United States,TRUE
 2021-07-11,England,Italy,1,1,UEFA Euro,London,England,FALSE
 2021-07-11,Namibia,Zimbabwe,2,0,COSAFA Cup,Port Elizabeth,South Africa,TRUE
 2021-07-11,Mozambique,Malawi,2,0,COSAFA Cup,Port Elizabeth,South Africa,TRUE
+2021-07-11,El Salvador,Guatemala,2,0,Gold Cup,Frisco,United States,TRUE
+2021-07-11,Canada,Martinique,4,1,Gold Cup,Kansas City,United States,TRUE
+2021-07-11,United States,Haiti,1,0,Gold Cup,Kansas City,United States,FALSE
+2021-07-12,Jamaica,Suriname,2,0,Gold Cup,Orlando,United States,TRUE
+2021-07-12,Costa Rica,Guadeloupe,3,1,Gold Cup,Orlando,United States,TRUE
 2021-07-13,Botswana,Zambia,1,2,COSAFA Cup,Port Elizabeth,South Africa,TRUE
 2021-07-13,South Africa,Lesotho,4,0,COSAFA Cup,Port Elizabeth,South Africa,FALSE
 2021-07-13,Senegal,Zimbabwe,2,1,COSAFA Cup,Port Elizabeth,South Africa,TRUE
 2021-07-13,Malawi,Namibia,1,1,COSAFA Cup,Port Elizabeth,South Africa,TRUE
+2021-07-13,Qatar,Panama,3,3,Gold Cup,Houston,United States,TRUE
+2021-07-13,Honduras,Grenada,4,0,Gold Cup,Houston,United States,TRUE
 2021-07-14,South Africa,Zambia,0,0,COSAFA Cup,Port Elizabeth,South Africa,FALSE
 2021-07-14,Eswatini,Botswana,1,1,COSAFA Cup,Port Elizabeth,South Africa,TRUE
 2021-07-14,Mozambique,Namibia,1,0,COSAFA Cup,Port Elizabeth,South Africa,TRUE
 2021-07-14,Senegal,Malabo,2,1,COSAFA Cup,Port Elizabeth,South Africa,TRUE
+2021-07-14,Trinidad and Tobago,El Salvador,0,2,Gold Cup,Frisco,United States,TRUE
+2021-07-14,Guatemala,Mexico,0,3,Gold Cup,Dallas,United States,TRUE
+2021-07-15,Haiti,Canada,1,4,Gold Cup,Kansas City,United States,TRUE
+2021-07-15,United States,Martinique,6,1,Gold Cup,Kansas City,United States,FALSE
 2021-07-16,Senegal,Eswatini,2,2,COSAFA Cup,Port Elizabeth,South Africa,TRUE
 2021-07-16,South Africa,Mozambique,3,0,COSAFA Cup,Port Elizabeth,South Africa,FALSE
+2021-07-16,Guadeloupe,Jamaica,1,2,Gold Cup,Orlando,United States,TRUE
+2021-07-16,Suriname,Costa Rica,1,2,Gold Cup,Orlando,United States,TRUE
+2021-07-17,Grenada,Qatar,0,4,Gold Cup,Houston,United States,TRUE
+2021-07-17,Panama,Honduras,2,3,Gold Cup,Houston,United States,TRUE
 2021-07-18,Eswatini,Mozambique,1,1,COSAFA Cup,Port Elizabeth,South Africa,TRUE
 2021-07-18,South Africa,Senegal,0,0,COSAFA Cup,Port Elizabeth,South Africa,FALSE
+2021-07-18,Guatemala,Trinidad and Tobago,1,1,Gold Cup,Frisco,United States,TRUE
+2021-07-18,Mexico,El Salvador,1,0,Gold Cup,Dallas,United States,TRUE
+2021-07-18,Martinique,Haiti,1,2,Gold Cup,Frisco,United States,TRUE
+2021-07-18,United States,Canada,1,0,Gold Cup,Kansas City,United States,FALSE
+2021-07-20,Suriname,Guadeloupe,2,1,Gold Cup,Houston,United States,TRUE
+2021-07-20,Costa Rica,Jamaica,1,0,Gold Cup,Orlando,United States,TRUE
+2021-07-20,Panama,Grenada,3,1,Gold Cup,Orlando,United States,TRUE
+2021-07-20,Honduras,Qatar,0,2,Gold Cup,Houston,United States,TRUE
+2021-07-24,Mexico,Honduras,3,0,Gold Cup,Glendale,United States,TRUE
+2021-07-24,Qatar,El Salvador,3,2,Gold Cup,Glendale,United States,TRUE
+2021-07-25,Costa Rica,Canada,0,2,Gold Cup,Arlington,United States,TRUE
+2021-07-25,United States,Jamaica,1,0,Gold Cup,Arlington,United States,FALSE
+2021-07-29,Mexico,Canada,2,1,Gold Cup,Houston,United States,TRUE
+2021-07-29,United States,Qatar,1,0,Gold Cup,Austin,United States,FALSE
+2021-08-01,United States,Mexico,1,0,Gold Cup,Las Vegas,United States,FALSE
