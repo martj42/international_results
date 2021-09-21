@@ -25385,7 +25385,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2003-03-04,Singapore,Maldives,4,1,Friendly,Singapore,Singapore,FALSE
 2003-03-04,Sudan,DR Congo,1,3,Friendly,Khartoum,Sudan,FALSE
 2003-03-05,Israel,Moldova,0,0,Friendly,Ramat-Gan,Israel,FALSE
-2003-03-07,Benin,Niger,1,1,Friendly,Cotonou,Benin,FALSE
+2003-03-07,Benin,Niger,1,1,TIFOCO Tournament,Cotonou,Benin,FALSE
 2003-03-09,Botswana,Lesotho,0,1,Friendly,Gaborone,Botswana,FALSE
 2003-03-09,DR Congo,Congo,3,0,Friendly,Kinshasa,DR Congo,FALSE
 2003-03-11,Cuba,Jamaica,0,0,Friendly,Havana,Cuba,FALSE
@@ -42482,3 +42482,170 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-07-29,Mexico,Canada,2,1,Gold Cup,Houston,United States,TRUE
 2021-07-29,United States,Qatar,1,0,Gold Cup,Austin,United States,FALSE
 2021-08-01,United States,Mexico,1,0,Gold Cup,Las Vegas,United States,FALSE
+2021-08-21,El Salvador,Costa Rica,0,0,Friendly,Carson,United States,TRUE
+2021-08-22,Niger,Sudan,2,1,Friendly,Dubai,United Arab Emirates,TRUE
+2021-08-26,Sudan,Niger,3,0,Friendly,Dubai,United Arab Emirates,TRUE
+2021-08-26,Ethiopia,Sierra Leone,0,0,Friendly,Addis Ababa,Ethiopia,FALSE
+2021-08-29,Ethiopia,Uganda,2,1,Friendly,Addis Ababa,Ethiopia,FALSE
+2021-09-01,Bahrain,Haiti,6,1,Friendly,Riffa,Bahrain,FALSE
+2021-09-01,Comoros,Seychelles,7,1,Friendly,Moroni,Comoros,FALSE
+2021-09-01,Finland,Wales,0,0,Friendly,Helsinki,Finland,FALSE
+2021-09-01,Qatar,Serbia,0,4,Friendly,Debrecen,Hungary,TRUE
+2021-09-01,Switzerland,Greece,2,1,Friendly,Basel,Switzerland,FALSE
+2021-09-01,Central African Republic,Cape Verde,1,1,FIFA World Cup qualification,Douala,Cameroon,TRUE
+2021-09-01,Mali,Rwanda,1,0,FIFA World Cup qualification,Agadir,Morocco,TRUE
+2021-09-01,Egypt,Angola,1,0,FIFA World Cup qualification,Cairo,Egypt,FALSE
+2021-09-01,Libya,Gabon,2,1,FIFA World Cup qualification,Benina,Libya,FALSE
+2021-09-01,Senegal,Togo,2,0,FIFA World Cup qualification,Thiès,Senegal,FALSE
+2021-09-01,Guinea-Bissau,Guinea,1,1,FIFA World Cup qualification,Nouakchott,Mauritania,TRUE
+2021-09-01,Portugal,Republic of Ireland,2,1,FIFA World Cup qualification,Faro-Loulé,Portugal,FALSE
+2021-09-01,Luxembourg,Azerbaijan,2,1,FIFA World Cup qualification,Luxembourg,Luxembourg,FALSE
+2021-09-01,Kazakhstan,Ukraine,2,2,FIFA World Cup qualification,Nur-Sultan,Kazakhstan,FALSE
+2021-09-01,France,Bosnia and Herzegovina,1,1,FIFA World Cup qualification,Strasbourg,France,FALSE
+2021-09-01,Faroe Islands,Israel,0,4,FIFA World Cup qualification,Tórshavn,Faroe Islands,FALSE
+2021-09-01,Denmark,Scotland,2,0,FIFA World Cup qualification,Copenhagen,Denmark,FALSE
+2021-09-01,Moldova,Austria,0,2,FIFA World Cup qualification,Chișinău,Moldova,FALSE
+2021-09-01,Norway,Netherlands,1,1,FIFA World Cup qualification,Oslo,Norway,FALSE
+2021-09-01,Latvia,Gibraltar,3,1,FIFA World Cup qualification,Riga,Latvia,FALSE
+2021-09-01,Turkey,Montenegro,2,2,FIFA World Cup qualification,Istanbul,Turkey,FALSE
+2021-09-01,Malta,Cyprus,3,0,FIFA World Cup qualification,Ta'Qali,Malta,FALSE
+2021-09-01,Slovenia,Slovakia,1,1,FIFA World Cup qualification,Ljubljana,Slovenia,FALSE
+2021-09-01,Russia,Croatia,0,0,FIFA World Cup qualification,Moscow,Russia,FALSE
+2021-09-02,Kyrgyzstan,Palestine,1,0,Three Nations Cup,Bishkek,Kyrgyzstan,FALSE
+2021-09-02,Nepal,India,1,1,Friendly,Kathmandu,Nepal,FALSE
+2021-09-02,Niger,Burkina Faso,0,2,FIFA World Cup qualification,Marrakech,Morocco,TRUE
+2021-09-02,Algeria,Djibouti,8,0,FIFA World Cup qualification,Blida,Algeria,FALSE
+2021-09-02,Kenya,Uganda,0,0,FIFA World Cup qualification,Nairobi,Kenya,FALSE
+2021-09-02,Namibia,Congo,1,1,FIFA World Cup qualification,Johannesburg,South Africa,TRUE
+2021-09-02,Morocco,Sudan,2,0,FIFA World Cup qualification,Rabat,Morocco,FALSE
+2021-09-02,DR Congo,Tanzania,1,1,FIFA World Cup qualification,Lubumbashi,DR Congo,FALSE
+2021-09-02,Madagascar,Benin,0,1,FIFA World Cup qualification,Antananarivo,Madagascar,FALSE
+2021-09-02,South Korea,Iraq,0,0,FIFA World Cup qualification,Seoul,South Korea,FALSE
+2021-09-02,Iran,Syria,1,0,FIFA World Cup qualification,Tehran,Iran,FALSE
+2021-09-02,United Arab Emirates,Lebanon,0,0,FIFA World Cup qualification,Dubai,United Arab Emirates,FALSE
+2021-09-02,Japan,Oman,0,1,FIFA World Cup qualification,Suita,Japan,FALSE
+2021-09-02,Australia,China PR,3,0,FIFA World Cup qualification,Doha,Qatar,TRUE
+2021-09-02,Saudi Arabia,Vietnam,3,1,FIFA World Cup qualification,Riyadh,Saudi Arabia,FALSE
+2021-09-02,Georgia,Kosovo,0,1,FIFA World Cup qualification,Batumi,Georgia,FALSE
+2021-09-02,Sweden,Spain,2,1,FIFA World Cup qualification,Stockholm,Sweden,FALSE
+2021-09-02,Italy,Bulgaria,1,1,FIFA World Cup qualification,Florence,Italy,FALSE
+2021-09-02,Lithuania,Northern Ireland,1,4,FIFA World Cup qualification,Vilnius,Lithuania,FALSE
+2021-09-02,Czech Republic,Belarus,1,0,FIFA World Cup qualification,Ostrava,Czech Republic,FALSE
+2021-09-02,Estonia,Belgium,2,5,FIFA World Cup qualification,Tallinn,Estonia,FALSE
+2021-09-02,Andorra,San Marino,2,0,FIFA World Cup qualification,Andorra la Vella,Andorra,FALSE
+2021-09-02,Hungary,England,0,4,FIFA World Cup qualification,Budapest,Hungary,FALSE
+2021-09-02,Poland,Albania,4,1,FIFA World Cup qualification,Warsaw,Poland,FALSE
+2021-09-02,Iceland,Romania,0,2,FIFA World Cup qualification,Reykjavík,Iceland,FALSE
+2021-09-02,Liechtenstein,Germany,0,2,FIFA World Cup qualification,St Gallen,Switzerland,TRUE
+2021-09-02,North Macedonia,Armenia,0,0,FIFA World Cup qualification,Skopje,North Macedonia,FALSE
+2021-09-02,Bolivia,Colombia,1,1,FIFA World Cup qualification,La Paz,Bolivia,FALSE
+2021-09-02,Ecuador,Paraguay,2,0,FIFA World Cup qualification,Quito,Ecuador,FALSE
+2021-09-02,Peru,Uruguay,1,1,FIFA World Cup qualification,Lima,Peru,FALSE
+2021-09-02,Venezuela,Argentina,1,3,FIFA World Cup qualification,Caracas,Venezuela,FALSE
+2021-09-02,Chile,Brazil,0,1,FIFA World Cup qualification,Santiago,Chile,FALSE
+2021-09-03,Mauritania,Zambia,1,2,FIFA World Cup qualification,Nouakchott,Mauritania,FALSE
+2021-09-03,Tunisia,Equatorial Guinea,3,0,FIFA World Cup qualification,Radès,Tunisia,FALSE
+2021-09-03,Nigeria,Liberia,2,0,FIFA World Cup qualification,Lagos,Nigeria,FALSE
+2021-09-03,Mozambique,Ivory Coast,0,0,FIFA World Cup qualification,Maputo,Mozambique,FALSE
+2021-09-03,Cameroon,Malawi,2,0,FIFA World Cup qualification,Yaoundé,Cameroon,FALSE
+2021-09-03,Zimbabwe,South Africa,0,0,FIFA World Cup qualification,Harare,Zimbabwe,FALSE
+2021-09-03,Ghana,Ethiopia,1,0,FIFA World Cup qualification,Cape Coast,Ghana,FALSE
+2021-09-04,Bosnia and Herzegovina,Kuwait,1,0,Friendly,Zenica,Bosnia and Herzegovina,FALSE
+2021-09-04,Burundi,Seychelles,8,1,Friendly,Moroni,Comoros,TRUE
+2021-09-04,Haiti,Jordan,2,0,Friendly,Riffa,Bahrain,TRUE
+2021-09-04,Qatar,Portugal,1,3,Friendly,Debrecen,Hungary,TRUE
+2021-09-04,Republic of Ireland,Azerbaijan,1,1,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2021-09-04,Serbia,Luxembourg,4,1,FIFA World Cup qualification,Belgrade,Serbia,FALSE
+2021-09-04,Finland,Kazakhstan,1,0,FIFA World Cup qualification,Helsinki,Finland,FALSE
+2021-09-04,Ukraine,France,1,1,FIFA World Cup qualification,Kiev,Ukraine,FALSE
+2021-09-04,Faroe Islands,Denmark,0,1,FIFA World Cup qualification,Tórshavn,Faroe Islands,FALSE
+2021-09-04,Scotland,Moldova,1,0,FIFA World Cup qualification,Glasgow,Scotland,FALSE
+2021-09-04,Israel,Austria,5,2,FIFA World Cup qualification,Haifa,Israel,FALSE
+2021-09-04,Latvia,Norway,0,2,FIFA World Cup qualification,Riga,Latvia,FALSE
+2021-09-04,Gibraltar,Turkey,0,3,FIFA World Cup qualification,Gibraltar,Gibraltar,FALSE
+2021-09-04,Netherlands,Montenegro,4,0,FIFA World Cup qualification,Eindhoven,Netherlands,FALSE
+2021-09-04,Slovenia,Malta,1,0,FIFA World Cup qualification,Ljubljana,Slovenia,FALSE
+2021-09-04,Cyprus,Russia,0,2,FIFA World Cup qualification,Nicosia,Cyprus,FALSE
+2021-09-04,Slovakia,Croatia,0,1,FIFA World Cup qualification,Bratislava,Slovakia,FALSE
+2021-09-05,Bangladesh,Palestine,0,2,Three Nations Cup,Bishkek,Kyrgyzstan,TRUE
+2021-09-05,Estonia,Northern Ireland,0,1,Friendly,Tallinn,Estonia,FALSE
+2021-09-05,Nepal,India,1,2,Friendly,Kathmandu,Nepal,FALSE
+2021-09-05,Sweden,Uzbekistan,2,1,Friendly,Stockholm,Sweden,FALSE
+2021-09-05,Rwanda,Kenya,1,1,FIFA World Cup qualification,Kigali,Rwanda,FALSE
+2021-09-05,Gabon,Egypt,1,1,FIFA World Cup qualification,Franceville,Gabon,FALSE
+2021-09-05,Togo,Namibia,0,1,FIFA World Cup qualification,Lomé,Togo,FALSE
+2021-09-05,Kosovo,Greece,1,1,FIFA World Cup qualification,Pristina,Kosovo,FALSE
+2021-09-05,Spain,Georgia,4,0,FIFA World Cup qualification,Badajoz,Spain,FALSE
+2021-09-05,Bulgaria,Lithuania,1,0,FIFA World Cup qualification,Sofia,Bulgaria,FALSE
+2021-09-05,Switzerland,Italy,0,0,FIFA World Cup qualification,Basel,Switzerland,FALSE
+2021-09-05,Belarus,Wales,2,3,FIFA World Cup qualification,Kazan,Russia,TRUE
+2021-09-05,Belgium,Czech Republic,3,0,FIFA World Cup qualification,Brussels,Belgium,FALSE
+2021-09-05,England,Andorra,4,0,FIFA World Cup qualification,London,England,FALSE
+2021-09-05,Albania,Hungary,1,0,FIFA World Cup qualification,Elbasan,Albania,FALSE
+2021-09-05,San Marino,Poland,1,7,FIFA World Cup qualification,Serravalle,San Marino,FALSE
+2021-09-05,Iceland,North Macedonia,2,2,FIFA World Cup qualification,Reykjavík,Iceland,FALSE
+2021-09-05,Germany,Armenia,6,0,FIFA World Cup qualification,Stuttgart,Germany,FALSE
+2021-09-05,Romania,Liechtenstein,2,0,FIFA World Cup qualification,Bucharest,Romania,FALSE
+2021-09-05,Ecuador,Chile,0,0,FIFA World Cup qualification,Quito,Ecuador,FALSE
+2021-09-05,Paraguay,Colombia,1,1,FIFA World Cup qualification,Asunción,Paraguay,FALSE
+2021-09-05,Uruguay,Bolivia,4,2,FIFA World Cup qualification,Montevideo,Uruguay,FALSE
+2021-09-05,Peru,Venezuela,1,0,FIFA World Cup qualification,Lima,Peru,FALSE
+2021-09-06,Djibouti,Niger,2,4,FIFA World Cup qualification,Rabat,Morocco,TRUE
+2021-09-06,Liberia,Central African Republic,1,0,FIFA World Cup qualification,Douala,Cameroon,TRUE
+2021-09-06,Ivory Coast,Cameroon,2,1,FIFA World Cup qualification,Abidjan,Ivory Coast,FALSE
+2021-09-06,Uganda,Mali,0,0,FIFA World Cup qualification,Entebbe,Uganda,FALSE
+2021-09-06,South Africa,Ghana,1,0,FIFA World Cup qualification,Johannesburg,South Africa,FALSE
+2021-09-06,Benin,DR Congo,1,1,FIFA World Cup qualification,Cotonou,Benin,FALSE
+2021-09-07,Kyrgyzstan,Bangladesh,4,1,Three Nations Cup,Bishkek,Kyrgyzstan,FALSE
+2021-09-07,Bahrain,Jordan,1,2,Friendly,Riffa,Bahrain,FALSE
+2021-09-07,Comoros,Burundi,1,0,Friendly,Moroni,Comoros,FALSE
+2021-09-07,Luxembourg,Qatar,1,1,Friendly,Luxembourg,Luxembourg,FALSE
+2021-09-07,Burkina Faso,Algeria,1,1,FIFA World Cup qualification,Marrakech,Morocco,TRUE
+2021-09-07,Zambia,Tunisia,0,2,FIFA World Cup qualification,Ndola,Zambia,FALSE
+2021-09-07,Equatorial Guinea,Mauritania,1,0,FIFA World Cup qualification,Malabo,Equatorial Guinea,FALSE
+2021-09-07,Cape Verde,Nigeria,1,2,FIFA World Cup qualification,Mindelo,Cape Verde,FALSE
+2021-09-07,Malawi,Mozambique,1,0,FIFA World Cup qualification,Johannesburg,South Africa,TRUE
+2021-09-07,Angola,Libya,0,1,FIFA World Cup qualification,Luanda,Angola,FALSE
+2021-09-07,Ethiopia,Zimbabwe,1,0,FIFA World Cup qualification,Bahir Dar,Ethiopia,FALSE
+2021-09-07,Congo,Senegal,1,3,FIFA World Cup qualification,Brazzaville,Congo,FALSE
+2021-09-07,Sudan,Guinea-Bissau,2,4,FIFA World Cup qualification,Omdurman,Sudan,FALSE
+2021-09-07,Tanzania,Madagascar,3,2,FIFA World Cup qualification,Dar es Salaam,Tanzania,FALSE
+2021-09-07,Syria,United Arab Emirates,1,1,FIFA World Cup qualification,Amman,Jordan,TRUE
+2021-09-07,South Korea,Lebanon,1,0,FIFA World Cup qualification,Suwon,South Korea,FALSE
+2021-09-07,Iraq,Iran,0,3,FIFA World Cup qualification,Doha,Qatar,TRUE
+2021-09-07,China PR,Japan,0,1,FIFA World Cup qualification,Doha,Qatar,TRUE
+2021-09-07,Vietnam,Australia,0,1,FIFA World Cup qualification,Hanoi,Vietnam,FALSE
+2021-09-07,Oman,Saudi Arabia,0,1,FIFA World Cup qualification,Muscat,Oman,FALSE
+2021-09-07,Republic of Ireland,Serbia,1,1,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2021-09-07,Azerbaijan,Portugal,0,3,FIFA World Cup qualification,Baku,Azerbaijan,FALSE
+2021-09-07,Bosnia and Herzegovina,Kazakhstan,2,2,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,FALSE
+2021-09-07,France,Finland,2,0,FIFA World Cup qualification,Lyon,France,FALSE
+2021-09-07,Faroe Islands,Moldova,2,1,FIFA World Cup qualification,Tórshavn,Faroe Islands,FALSE
+2021-09-07,Austria,Scotland,0,1,FIFA World Cup qualification,Vienna,Austria,FALSE
+2021-09-07,Denmark,Israel,5,0,FIFA World Cup qualification,Copenhagen,Denmark,FALSE
+2021-09-07,Montenegro,Latvia,0,0,FIFA World Cup qualification,Podgorica,Montenegro,FALSE
+2021-09-07,Netherlands,Turkey,6,1,FIFA World Cup qualification,Amsterdam,Netherlands,FALSE
+2021-09-07,Norway,Gibraltar,5,1,FIFA World Cup qualification,Oslo,Norway,FALSE
+2021-09-07,Croatia,Slovenia,3,0,FIFA World Cup qualification,Split,Croatia,FALSE
+2021-09-07,Slovakia,Cyprus,2,0,FIFA World Cup qualification,Bratislava,Slovakia,FALSE
+2021-09-07,Russia,Malta,2,0,FIFA World Cup qualification,Moscow,Russia,FALSE
+2021-09-08,Bulgaria,Georgia,4,1,Friendly,Sofia,Bulgaria,FALSE
+2021-09-08,Czech Republic,Ukraine,1,1,Friendly,Plzeň,Czech Republic,FALSE
+2021-09-08,Guatemala,Nicaragua,2,2,Friendly,Antigua Guatemala,Guatemala,FALSE
+2021-09-08,Kosovo,Spain,0,2,FIFA World Cup qualification,Pristina,Kosovo,FALSE
+2021-09-08,Greece,Sweden,2,1,FIFA World Cup qualification,Athens,Greece,FALSE
+2021-09-08,Northern Ireland,Switzerland,0,0,FIFA World Cup qualification,Belfast,Northern Ireland,FALSE
+2021-09-08,Italy,Lithuania,5,0,FIFA World Cup qualification,Reggio Emilia,Italy,FALSE
+2021-09-08,Wales,Estonia,0,0,FIFA World Cup qualification,Cardiff,Wales,FALSE
+2021-09-08,Belarus,Belgium,0,1,FIFA World Cup qualification,Kazan,Russia,TRUE
+2021-09-08,Albania,San Marino,5,0,FIFA World Cup qualification,Elbasan,Albania,FALSE
+2021-09-08,Hungary,Andorra,2,1,FIFA World Cup qualification,Budapest,Hungary,FALSE
+2021-09-08,Poland,England,1,1,FIFA World Cup qualification,Warsaw,Poland,FALSE
+2021-09-08,Iceland,Germany,0,4,FIFA World Cup qualification,Reykjavík,Iceland,FALSE
+2021-09-08,Armenia,Liechtenstein,1,1,FIFA World Cup qualification,Yerevan,Armenia,FALSE
+2021-09-08,North Macedonia,Romania,0,0,FIFA World Cup qualification,Skopje,North Macedonia,FALSE
+2021-09-09,Colombia,Chile,3,1,FIFA World Cup qualification,Barranquilla,Colombia,FALSE
+2021-09-09,Paraguay,Venezuela,2,1,FIFA World Cup qualification,Asunción,Paraguay,FALSE
+2021-09-09,Uruguay,Ecuador,1,0,FIFA World Cup qualification,Montevideo,Uruguay,FALSE
+2021-09-09,Argentina,Bolivia,3,0,FIFA World Cup qualification,Buenos Aires,Argentina,FALSE
+2021-09-09,Brazil,Peru,2,0,FIFA World Cup qualification,Recife,Brazil,FALSE
