@@ -4248,6 +4248,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1957-09-07,Malaysia,Indonesia,4,2,Merdeka Tournament,Kuala Lumpur,Malaya,FALSE
 1957-09-07,Kenya,Uganda,1,2,Friendly,Zanzibar,Zanzibar,TRUE
 1957-09-09,Tahiti,Vanuatu,2,1,Friendly,Papeete,French Polynesia,FALSE
+1957-09-10,Singapore,Myanmar,2,1,Friendly,Singapore,Singapore,FALSE
 1957-09-11,Netherlands,Luxembourg,5,2,FIFA World Cup qualification,Rotterdam,Netherlands,FALSE
 1957-09-15,Bulgaria,Hungary,1,2,FIFA World Cup qualification,Sofia,Bulgaria,FALSE
 1957-09-15,Chile,Brazil,1,0,Copa Bernardo O'Higgins,Santiago,Chile,FALSE
@@ -26260,21 +26261,17 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2003-12-04,Japan,China PR,2,0,EAFF Championship,Tokyo,Japan,FALSE
 2003-12-04,Sudan,Rwanda,3,0,CECAFA Cup,Khartoum,Sudan,FALSE
 2003-12-04,Uganda,Kenya,1,1,CECAFA Cup,Kassala,Sudan,TRUE
-2003-12-05,Congo,Gabon,3,2,Friendly,Brazzaville,Congo,FALSE
 2003-12-07,South Korea,China PR,1,0,EAFF Championship,Saitama,Japan,TRUE
 2003-12-08,Kenya,Rwanda,1,1,CECAFA Cup,Khartoum,Sudan,TRUE
 2003-12-08,Sudan,Uganda,0,0,CECAFA Cup,Khartoum,Sudan,FALSE
-2003-12-09,Congo,Gabon,1,1,Friendly,Brazzaville,Congo,FALSE
 2003-12-10,China PR,Hong Kong,3,1,EAFF Championship,Yokohama,Japan,TRUE
 2003-12-10,Japan,South Korea,0,0,EAFF Championship,Yokohama,Japan,FALSE
 2003-12-10,Sudan,Kenya,1,2,CECAFA Cup,Khartoum,Sudan,FALSE
 2003-12-10,Uganda,Rwanda,2,0,CECAFA Cup,Khartoum,Sudan,TRUE
-2003-12-11,Central African Republic,Gabon,2,0,Friendly,Brazzaville,Congo,TRUE
 2003-12-11,Malta,Poland,0,4,Friendly,Attard,Malta,FALSE
 2003-12-12,Bahrain,Iraq,2,2,Prime Minister's Cup,Riffa,Bahrain,FALSE
 2003-12-12,Kenya,Egypt,0,1,Prime Minister's Cup,Riffa,Bahrain,TRUE
 2003-12-13,Botswana,Zimbabwe,0,2,Friendly,Selebi-Phikwe,Botswana,FALSE
-2003-12-13,Congo,Gabon,1,0,Friendly,Brazzaville,Congo,FALSE
 2003-12-14,Lithuania,Poland,1,3,Friendly,Attard,Malta,TRUE
 2003-12-14,United Arab Emirates,Azerbaijan,3,3,Friendly,Dubai,United Arab Emirates,FALSE
 2003-12-15,Bahrain,Egypt,0,1,Prime Minister's Cup,Riffa,Bahrain,FALSE
@@ -27404,14 +27401,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2005-02-02,Iran,Bosnia and Herzegovina,2,1,Friendly,Teheran,Iran,FALSE
 2005-02-02,Japan,Syria,3,0,Friendly,Saitama,Japan,FALSE
 2005-02-02,North Korea,Kuwait,0,0,Friendly,Beijing,China PR,TRUE
-2005-02-03,Gabon,Central African Republic,4,0,Friendly,Libreville,Gabon,FALSE
 2005-02-03,Trinidad and Tobago,Haiti,2,1,Friendly,Port of Spain,Trinidad and Tobago,FALSE
 2005-02-04,South Korea,Egypt,0,1,Friendly,Seoul,South Korea,FALSE
-2005-02-05,Central African Republic,Congo,0,1,Friendly,Libreville,Gabon,TRUE
 2005-02-06,Barbados,Antigua and Barbuda,3,2,Friendly,Bridgetown,Barbados,FALSE
 2005-02-06,Trinidad and Tobago,Haiti,0,1,Friendly,Scarborough,Trinidad and Tobago,FALSE
 2005-02-08,Cyprus,Austria,1,1,Cyprus International Tournament,Limassol,Cyprus,FALSE
-2005-02-08,Gabon,Congo,1,0,Friendly,Libreville,Gabon,FALSE
 2005-02-08,Ivory Coast,DR Congo,2,2,Friendly,Rouen,France,TRUE
 2005-02-08,Latvia,Finland,1,2,Cyprus International Tournament,Nicosia,Cyprus,TRUE
 2005-02-09,Albania,Ukraine,0,2,FIFA World Cup qualification,Tirana,Albania,FALSE
@@ -27452,8 +27446,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2005-02-09,Uzbekistan,Saudi Arabia,1,1,FIFA World Cup qualification,Tashkent,Uzbekistan,FALSE
 2005-02-09,Venezuela,Estonia,3,0,Friendly,Maracaibo,Venezuela,FALSE
 2005-02-09,Wales,Hungary,2,0,Friendly,Cardiff,Wales,FALSE
-2005-02-10,Gabon,Chad,2,3,Friendly,Libreville,Gabon,FALSE
-2005-02-12,Gabon,Congo,2,1,Friendly,Libreville,Gabon,FALSE
 2005-02-13,Barbados,Guyana,3,3,Friendly,Bridgetown,Barbados,FALSE
 2005-02-13,Guatemala,Haiti,2,1,Friendly,Fort Lauderdale,United States,TRUE
 2005-02-16,Costa Rica,Ecuador,1,2,Friendly,Heredia,Costa Rica,FALSE
@@ -28315,12 +28307,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2006-03-01,Turkey,Czech Republic,2,2,Friendly,Izmir,Turkey,FALSE
 2006-03-01,Venezuela,Colombia,1,1,Friendly,Maracaibo,Venezuela,FALSE
 2006-03-01,Wales,Paraguay,0,0,Friendly,Cardiff,Wales,FALSE
-2006-03-04,Equatorial Guinea,Congo,2,1,Friendly,Bata,Equatorial Guinea,FALSE
-2006-03-06,Equatorial Guinea,Chad,1,1,Friendly,Bata,Equatorial Guinea,FALSE
-2006-03-08,Central African Republic,Gabon,2,2,Friendly,Malabo,Equatorial Guinea,TRUE
-2006-03-08,Chad,Congo,0,0,Friendly,Bata,Equatorial Guinea,TRUE
-2006-03-11,Equatorial Guinea,Gabon,0,0,Friendly,Bata,Equatorial Guinea,FALSE
-2006-03-14,Chad,Gabon,2,2,Friendly,Bata,Equatorial Guinea,TRUE
 2006-03-15,Saudi Arabia,Iraq,2,2,Friendly,Jeddah,Saudi Arabia,FALSE
 2006-03-22,Albania,Georgia,0,0,Friendly,Tirana,Albania,FALSE
 2006-03-22,Germany,United States,4,1,Friendly,Dortmund,Germany,FALSE
@@ -29130,19 +29116,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2007-02-18,El Salvador,Guatemala,0,1,UNCAF Cup,San Salvador,El Salvador,FALSE
 2007-02-22,Benin,Chad,0,1,Friendly,Cotonou,Benin,FALSE
 2007-02-28,Mexico,Venezuela,3,1,Friendly,San Diego,United States,TRUE
-2007-03-05,Congo,Equatorial Guinea,2,1,Friendly,N'Djamena,Chad,TRUE
-2007-03-06,Chad,Central African Republic,3,2,Friendly,N'Djamena,Chad,FALSE
 2007-03-07,Azerbaijan,Uzbekistan,1,0,Friendly,Shymkent,Kazakhstan,TRUE
-2007-03-07,Congo,Gabon,2,2,Friendly,N'Djamena,Chad,TRUE
 2007-03-07,Kazakhstan,Kyrgyzstan,2,0,Friendly,Shymkent,Kazakhstan,FALSE
-2007-03-09,Equatorial Guinea,Gabon,1,1,Friendly,N'Djamena,Chad,TRUE
 2007-03-09,Kazakhstan,Azerbaijan,1,0,Friendly,Shymkent,Kazakhstan,FALSE
 2007-03-09,Kyrgyzstan,Uzbekistan,0,6,Friendly,Shymkent,Kazakhstan,TRUE
 2007-03-11,Azerbaijan,Kyrgyzstan,1,0,Friendly,Shymkent,Kazakhstan,TRUE
-2007-03-11,Chad,Gabon,1,2,Friendly,N'Djamena,Chad,FALSE
 2007-03-11,Kazakhstan,Uzbekistan,1,1,Friendly,Shymkent,Kazakhstan,FALSE
-2007-03-12,Congo,Central African Republic,4,1,Friendly,N'Djamena,Chad,TRUE
-2007-03-16,Gabon,Congo,0,1,Friendly,N'Djamena,Chad,TRUE
 2007-03-18,Eswatini,Lesotho,0,1,Friendly,Lobamba,Eswatini,FALSE
 2007-03-20,Libya,Mauritania,0,0,Friendly,Tripoli,Libya,FALSE
 2007-03-21,Mauritius,Ivory Coast,0,3,Friendly,Belle Vue,Mauritius,FALSE
