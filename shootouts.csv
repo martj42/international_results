@@ -21,6 +21,7 @@ date,home_team,away_team,winner
 1976-06-20,Czechoslovakia,Germany,Czechoslovakia
 1976-12-22,South Korea,Malaysia,Malaysia
 1977-01-09,Tunisia,Morocco,Tunisia
+1977-07-27,Iran,Morocco,Iran
 1977-08-31,Paraguay,Argentina,Paraguay
 1979-01-13,Guinea-Bissau,Mali,Mali
 1979-01-14,Guinea-Bissau,Guinea,Guinea
@@ -93,6 +94,7 @@ date,home_team,away_team,winner
 1988-03-31,Germany,Sweden,Sweden
 1988-05-05,Mali,Senegal,Mali
 1988-05-08,Guinea,Mali,Guinea
+1988-05-28,Canada,Greece,Canada
 1988-07-19,Egypt,Syria,Syria
 1988-07-21,Iraq,Syria,Iraq
 1988-10-16,Eswatini,Tanzania,Eswatini
@@ -116,6 +118,10 @@ date,home_team,away_team,winner
 1990-08-03,China PR,South Korea,South Korea
 1990-12-17,Tanzania,Uganda,Uganda
 1990-12-17,Central African Republic,Equatorial Guinea,Central African Republic
+1991-01-21,Cameroon,Algeria,Cameroon
+1991-01-21,Senegal,Ivory Coast,Ivory Coast
+1991-01-22,Senegal,Algeria,Senegal
+1991-01-23,Ivory Coast,Cameroon,Ivory Coast
 1991-06-14,South Korea,Australia,South Korea
 1991-06-16,Italy,Russia,Italy
 1991-07-07,United States,Honduras,United States

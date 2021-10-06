@@ -10284,7 +10284,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1977-07-17,South Korea,Libya,4,0,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
 1977-07-17,Peru,Bolivia,5,0,FIFA World Cup qualification,Cali,Colombia,TRUE
 1977-07-18,Malaysia,Thailand,3,0,Merdeka Tournament,Kuala Lumpur,Malaysia,FALSE
-1977-07-19,China PR,DR Congo,3,2,Friendly,Shanghai,China PR,FALSE
+1977-07-19,China PR,DR Congo,3,2,Beijing International Friendship Tournament,Shanghai,China PR,FALSE
 1977-07-19,Iraq,Libya,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
 1977-07-20,Iceland,Sweden,0,1,Friendly,Reykjavík,Iceland,FALSE
 1977-07-20,South Korea,Thailand,4,1,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
@@ -10294,18 +10294,18 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1977-07-23,Malaysia,Iraq,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,FALSE
 1977-07-24,Afghanistan,India,0,3,Friendly,Kabul,Afghanistan,FALSE
 1977-07-24,Myanmar,South Korea,0,4,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
-1977-07-24,Hong Kong,Iran,1,0,Friendly,Beijing,China PR,TRUE
+1977-07-24,Hong Kong,Iran,1,0,Beijing International Friendship Tournament,Beijing,China PR,TRUE
 1977-07-24,Ivory Coast,Nigeria,2,2,FIFA World Cup qualification,Bouaké,Ivory Coast,FALSE
-1977-07-25,China PR,Morocco,3,2,Friendly,Beijing,China PR,FALSE
+1977-07-25,China PR,Morocco,3,2,Beijing International Friendship Tournament,Beijing,China PR,FALSE
 1977-07-25,Iraq,Thailand,5,0,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
 1977-07-26,Malaysia,South Korea,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,FALSE
 1977-07-27,Myanmar,Libya,3,1,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
-1977-07-27,China PR,Hong Kong,1,2,Friendly,Beijing,China PR,FALSE
-1977-07-27,Iran,Morocco,1,1,Friendly,Beijing,China PR,TRUE
+1977-07-27,China PR,Hong Kong,1,2,Beijing International Friendship Tournament,Beijing,China PR,FALSE
+1977-07-27,Iran,Morocco,1,1,Beijing International Friendship Tournament,Beijing,China PR,TRUE
 1977-07-28,German DR,Russia,2,1,Friendly,Leipzig,German DR,FALSE
 1977-07-28,Iraq,South Korea,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
 1977-07-29,Myanmar,Thailand,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
-1977-07-29,Iran,DR Congo,1,3,Friendly,Beijing,China PR,TRUE
+1977-07-29,Iran,DR Congo,1,3,Beijing International Friendship Tournament,Beijing,China PR,TRUE
 1977-07-31,Iraq,South Korea,0,1,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
 1977-07-31,Zambia,Egypt,0,0,FIFA World Cup qualification,Lusaka,Zambia,FALSE
 1977-08-05,Iran,Romania,0,0,Friendly,Teheran,Iran,FALSE
@@ -10698,7 +10698,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1978-08-30,Norway,Austria,0,2,UEFA Euro qualification,Oslo,Norway,FALSE
 1978-09-01,France,Sweden,2,2,UEFA Euro qualification,Paris,France,FALSE
 1978-09-02,French Guiana,Trinidad and Tobago,1,4,CFU Caribbean Cup qualification,Cayenne,French Guiana,FALSE
-1978-09-03,China PR,Congo,1,0,Friendly,Beijing,China PR,FALSE
+1978-09-03,China PR,Congo,1,0,Beijing International Friendship Tournament,Beijing,China PR,FALSE
 1978-09-03,Iceland,United States,0,0,Friendly,Reykjavík,Iceland,FALSE
 1978-09-06,German DR,Czechoslovakia,2,1,Friendly,Leipzig,German DR,FALSE
 1978-09-06,Iceland,Poland,0,2,UEFA Euro qualification,Reykjavík,Iceland,FALSE
@@ -11375,16 +11375,16 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1980-06-08,Brazil,Mexico,2,0,Friendly,Rio de Janeiro,Brazil,FALSE
 1980-06-08,Tunisia,Morocco,0,1,Friendly,Tunis,Tunisia,FALSE
 1980-06-08,Zambia,Zimbabwe,1,3,Friendly,Lusaka,Zambia,FALSE
-1980-06-09,Hong Kong,Japan,1,3,Friendly,Guangzhou,China PR,TRUE
+1980-06-09,Hong Kong,Japan,1,3,Guangzhou International Friendship Tournament,Guangzhou,China PR,TRUE
 1980-06-10,Honduras,Haiti,1,0,Friendly,San Pedro Sula,Honduras,FALSE
-1980-06-11,China PR,Japan,1,0,Friendly,Guangzhou,China PR,FALSE
+1980-06-11,China PR,Japan,1,0,Guangzhou International Friendship Tournament,Guangzhou,China PR,FALSE
 1980-06-11,Czechoslovakia,Germany,0,1,UEFA Euro,Rome,Italy,TRUE
 1980-06-11,Netherlands,Greece,1,0,UEFA Euro,Naples,Italy,TRUE
 1980-06-12,Belgium,England,1,1,UEFA Euro,Turin,Italy,TRUE
 1980-06-12,Guatemala,Haiti,1,2,Friendly,Guatemala,Guatemala,FALSE
 1980-06-12,Italy,Spain,0,0,UEFA Euro,Milan,Italy,FALSE
 1980-06-13,Algeria,Sierra Leone,3,1,FIFA World Cup qualification,Oran,Algeria,FALSE
-1980-06-13,China PR,Hong Kong,7,0,Friendly,Guangzhou,China PR,FALSE
+1980-06-13,China PR,Hong Kong,7,0,Guangzhou International Friendship Tournament,Guangzhou,China PR,FALSE
 1980-06-13,Honduras,Panama,0,0,Friendly,Tegucigalpa,Honduras,FALSE
 1980-06-13,Togo,Nigeria,0,1,Friendly,Lomé,Togo,FALSE
 1980-06-14,Germany,Netherlands,3,2,UEFA Euro,Naples,Italy,TRUE
@@ -11398,7 +11398,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1980-06-17,Greece,Germany,0,0,UEFA Euro,Turin,Italy,TRUE
 1980-06-17,Netherlands,Czechoslovakia,1,1,UEFA Euro,Milan,Italy,TRUE
 1980-06-18,Australia,Northern Ireland,1,2,Friendly,Adelaide,Australia,FALSE
-1980-06-18,Hong Kong,Japan,0,2,Friendly,Guangzhou,China PR,TRUE
+1980-06-18,Hong Kong,Japan,0,2,Guangzhou International Friendship Tournament,Guangzhou,China PR,TRUE
 1980-06-18,Italy,Belgium,0,0,UEFA Euro,Rome,Italy,FALSE
 1980-06-18,Spain,England,1,2,UEFA Euro,Naples,Italy,TRUE
 1980-06-18,Sweden,Israel,1,1,FIFA World Cup qualification,Solna,Sweden,FALSE
@@ -12439,9 +12439,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1982-07-10,Poland,France,3,2,FIFA World Cup,Alicante,Spain,TRUE
 1982-07-11,Finland,Iceland,3,2,Friendly,Helsinki,Finland,FALSE
 1982-07-11,Italy,Germany,3,1,FIFA World Cup,Madrid,Spain,TRUE
-1982-07-21,China PR,Hong Kong,2,0,Friendly,Beijing,China PR,FALSE
-1982-07-24,China PR,Morocco,3,3,Friendly,Beijing,China PR,FALSE
-1982-07-25,Hong Kong,Morocco,0,0,Friendly,Beijing,China PR,TRUE
+1982-07-21,China PR,Hong Kong,2,0,Beijing International Friendship Tournament,Beijing,China PR,FALSE
+1982-07-23,China PR,Morocco,3,3,Beijing International Friendship Tournament,Beijing,China PR,FALSE
+1982-07-25,Hong Kong,Morocco,0,0,Beijing International Friendship Tournament,Beijing,China PR,TRUE
 1982-07-25,Zimbabwe,Réunion,2,3,Friendly,Salisbury,Zimbabwe,FALSE
 1982-08-01,Faroe Islands,Iceland,1,4,Friendly,Tórshavn,Faroe Islands,FALSE
 1982-08-02,Faroe Islands,Iceland,0,4,Friendly,Gøta,Faroe Islands,FALSE
@@ -12767,10 +12767,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1983-07-14,Mauritania,Niger,0,0,Friendly,Nouakchott,Mauritania,FALSE
 1983-07-14,Paraguay,Argentina,1,0,Copa Félix Bogado,Asunción,Paraguay,FALSE
 1983-07-16,Réunion,Mauritius,1,1,Friendly,Saint-Pierre,Réunion,FALSE
-1983-07-18,Hong Kong,Thailand,1,1,Friendly,Beijing,China PR,TRUE
+1983-07-18,Hong Kong,Thailand,1,1,Great Wall Cup,Beijing,China PR,TRUE
 1983-07-18,Uruguay,Peru,1,1,Friendly,Montevideo,Uruguay,FALSE
 1983-07-19,Bolivia,Chile,1,2,Friendly,La Paz,Bolivia,FALSE
-1983-07-20,China PR,Thailand,2,1,Friendly,Beijing,China PR,FALSE
+1983-07-20,China PR,Thailand,2,1,Great Wall Cup,Beijing,China PR,FALSE
 1983-07-20,Guinea-Bissau,Senegal,1,1,Amílcar Cabral Cup,Nouakchott,Mauritania,TRUE
 1983-07-20,Mauritania,Cape Verde,2,0,Amílcar Cabral Cup,Nouakchott,Mauritania,FALSE
 1983-07-21,Argentina,Paraguay,0,0,Copa Félix Bogado,Buenos Aires,Argentina,FALSE
@@ -13210,13 +13210,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1984-06-20,Iceland,Norway,0,1,Friendly,Reykjavík,Iceland,FALSE
 1984-06-20,Portugal,Romania,1,0,UEFA Euro,Nantes,France,TRUE
 1984-06-21,Brazil,Uruguay,1,0,Friendly,Curitiba,Brazil,FALSE
-1984-06-21,China PR,India,2,0,Friendly,Beijing,China PR,FALSE
+1984-06-21,China PR,India,2,0,Great Wall Cup,Beijing,China PR,FALSE
 1984-06-22,Trinidad and Tobago,India,3,0,Friendly,Arima,Trinidad and Tobago,FALSE
 1984-06-23,France,Portugal,3,2,UEFA Euro,Marseille,France,FALSE
 1984-06-23,Morocco,Senegal,2,1,Friendly,Casablanca,Morocco,FALSE
 1984-06-24,Denmark,Spain,1,1,UEFA Euro,Lyon,France,TRUE
 1984-06-24,Honduras,Panama,1,0,FIFA World Cup qualification,Tegucigalpa,Honduras,FALSE
-1984-06-25,China PR,Iran,1,0,Friendly,Beijing,China PR,FALSE
 1984-06-27,El Salvador,Guatemala,3,1,Friendly,San Salvador,El Salvador,FALSE
 1984-06-27,France,Spain,2,0,UEFA Euro,Paris,France,FALSE
 1984-06-30,Kenya,Cameroon,1,3,Friendly,Nairobi,Kenya,FALSE
@@ -14380,7 +14379,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1986-07-29,Ghana,Nigeria,2,0,Friendly,Paynesville,Liberia,TRUE
 1986-07-30,India,Thailand,3,1,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
 1986-07-30,Liberia,Ivory Coast,0,2,Friendly,Monrovia,Liberia,FALSE
-1986-07-31,China PR,Congo,1,1,Friendly,Beijing,China PR,FALSE
+1986-07-31,China PR,Congo,1,1,Great Wall Cup,Beijing,China PR,FALSE
 1986-07-31,Ghana,Togo,1,1,Friendly,Monrovia,Liberia,TRUE
 1986-08-01,Liberia,Guinea,2,1,Friendly,Monrovia,Liberia,FALSE
 1986-08-01,Malaysia,Japan,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,FALSE
@@ -15048,19 +15047,19 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1988-05-17,Scotland,Colombia,0,0,Rous Cup,Glasgow,Scotland,FALSE
 1988-05-19,Canada,Greece,0,1,Friendly,Montréal,Canada,FALSE
 1988-05-19,Finland,Colombia,1,3,Friendly,Helsinki,Finland,FALSE
-1988-05-21,Canada,Greece,0,3,Friendly,Toronto,Canada,FALSE
+1988-05-21,Canada,Greece,0,3,Matthews Cup,Toronto,Canada,FALSE
 1988-05-21,England,Scotland,1,0,Rous Cup,London,England,FALSE
 1988-05-21,Northern Ireland,Malta,3,0,FIFA World Cup qualification,Belfast,Northern Ireland,FALSE
 1988-05-22,Republic of Ireland,Poland,3,1,Friendly,Dublin,Republic of Ireland,FALSE
-1988-05-23,Chile,Greece,0,1,Friendly,Toronto,Canada,TRUE
+1988-05-23,Chile,Greece,0,1,Matthews Cup,Toronto,Canada,TRUE
 1988-05-24,England,Colombia,1,1,Rous Cup,London,England,FALSE
 1988-05-24,Netherlands,Bulgaria,1,2,Friendly,Rotterdam,Netherlands,FALSE
 1988-05-25,Burkina Faso,Ghana,3,0,Friendly,Ouagadougou,Burkina Faso,FALSE
-1988-05-25,Canada,Chile,1,0,Friendly,Toronto,Canada,FALSE
+1988-05-25,Canada,Chile,1,0,Matthews Cup,Toronto,Canada,FALSE
 1988-05-25,Nepal,Hong Kong,0,0,AFC Asian Cup qualification,Kathmandu,Nepal,FALSE
 1988-05-26,Syria,North Korea,2,1,AFC Asian Cup qualification,Kathmandu,Nepal,TRUE
 1988-05-27,Iran,Hong Kong,2,0,AFC Asian Cup qualification,Kathmandu,Nepal,TRUE
-1988-05-28,Canada,Greece,0,0,Friendly,Toronto,Canada,FALSE
+1988-05-28,Canada,Greece,0,0,Matthews Cup,Toronto,Canada,FALSE
 1988-05-28,Nepal,North Korea,0,1,AFC Asian Cup qualification,Kathmandu,Nepal,FALSE
 1988-05-28,Switzerland,England,0,1,Friendly,Basel,Switzerland,FALSE
 1988-05-29,Puerto Rico,Jamaica,1,2,FIFA World Cup qualification,San Juan,Puerto Rico,FALSE
@@ -16440,6 +16439,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1991-01-16,Spain,Portugal,1,1,Friendly,Castellón de la Plana,Spain,FALSE
 1991-01-17,India,Hungary,1,2,Nehru Cup,Trivandrum,India,FALSE
 1991-01-20,India,Zambia,1,0,Nehru Cup,Trivandrum,India,FALSE
+1991-01-21,Cameroon,Algeria,0,0,Dakar Tournament,Dakar,Senegal,TRUE
+1991-01-21,Senegal,Ivory Coast,0,0,Dakar Tournament,Dakar,Senegal,FALSE
+1991-01-22,Senegal,Algeria,2,2,Dakar Tournament,Dakar,Senegal,FALSE
+1991-01-23,Ivory Coast,Cameroon,1,1,Dakar Tournament,Dakar,Senegal,TRUE
 1991-01-23,Greece,Portugal,3,2,UEFA Euro qualification,Athens,Greece,FALSE
 1991-01-23,Hungary,Zambia,4,1,Nehru Cup,Trivandrum,India,TRUE
 1991-01-24,India,Russia,1,3,Nehru Cup,Trivandrum,India,FALSE
