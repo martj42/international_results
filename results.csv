@@ -12454,7 +12454,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1982-08-09,Ghana,India,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
 1982-08-09,Malaysia,Pakistan,4,1,Friendly,Dhaka,Bangladesh,TRUE
 1982-08-09,Senegal,United Arab Emirates,3,1,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
-1982-08-10,South Korea,Malaysia,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
+1982-08-10,Malaysia,South Korea,1,2,Merdeka Tournament,Kuala Lumpur,Malaysia,FALSE
 1982-08-11,Denmark,Finland,3,2,Nordic Championship,Copenhagen,Denmark,FALSE
 1982-08-11,Indonesia,Senegal,2,2,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
 1982-08-11,Norway,Sweden,1,0,Nordic Championship,Oslo,Norway,FALSE
@@ -28924,7 +28924,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2006-11-19,Găgăuzia,Greenland,0,2,ELF Cup,Kyrenia,Northern Cyprus,TRUE
 2006-11-19,Kyrgyzstan,Zanzibar,0,1,ELF Cup,Kyrenia,Northern Cyprus,TRUE
 2006-11-19,Tibet,Tajikistan,0,3,ELF Cup,Güzelyurt,Northern Cyprus,TRUE
-2006-11-19,Crimea,Northern Cyprus,0,5,ELF Cup,Lefkoşa,Northern Cyprus,TRUE
+2006-11-19,Northern Cyprus,Crimea,5,0,ELF Cup,Lefkoşa,Northern Cyprus,FALSE
 2006-11-20,Cambodia,East Timor,4,1,AFF Championship,Bacolod,Philippines,TRUE
 2006-11-20,Occitania,Sápmi,0,7,Viva World Cup,Costebelle,France,FALSE
 2006-11-20,Găgăuzia,Kyrgyzstan,1,6,ELF Cup,Gazimağusa,Northern Cyprus,TRUE
@@ -31838,8 +31838,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2009-10-26,Kuwait,Syria,1,0,Friendly,Al-Jahra,Kuwait,FALSE
 2009-10-26,Zimbabwe,Botswana,1,0,COSAFA Cup,Bulawayo,Zimbabwe,FALSE
 2009-10-26,South Africa,Angola,2,0,COSAFA Cup,Bulawayo,Zimbabwe,TRUE
-2009-10-28,South Africa,Zimbabwe,1,1,COSAFA Cup,Harare,Zimbabwe,TRUE
 2009-10-28,Curaçao,French Guiana,1,4,Friendly,Paramaribo,Suriname,TRUE
+2009-10-28,Zimbabwe,South Africa,1,1,COSAFA Cup,Harare,Zimbabwe,FALSE
 2009-10-29,Mozambique,Zambia,0,2,COSAFA Cup,Bulawayo,Zimbabwe,TRUE
 2009-10-30,Guyana,Curaçao,1,0,Friendly,Paramaribo,Suriname,TRUE
 2009-10-30,Suriname,French Guiana,4,0,Friendly,Paramaribo,Suriname,FALSE
@@ -39672,7 +39672,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-01-20,Angola,Cameroon,1,0,African Nations Championship,Agadir,Morocco,TRUE
 2018-01-20,Congo,Burkina Faso,2,0,African Nations Championship,Agadir,Morocco,TRUE
 2018-01-21,Mauritania,Guinea,0,1,African Nations Championship,Marrakech,Morocco,TRUE
-2018-01-21,Sudan,Morocco,0,0,African Nations Championship,Casablanca,Morocco,TRUE
+2018-01-21,Morocco,Sudan,0,0,African Nations Championship,Casablanca,Morocco,FALSE
 2018-01-22,Namibia,Zambia,1,1,African Nations Championship,Casablanca,Morocco,TRUE
 2018-01-22,Uganda,Ivory Coast,0,0,African Nations Championship,Marrakech,Morocco,TRUE
 2018-01-23,Equatorial Guinea,Nigeria,1,3,African Nations Championship,Agadir,Morocco,TRUE
@@ -40379,8 +40379,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-11-03,Malaysia,Maldives,3,0,Friendly,Kuala Lumpur,Malaysia,FALSE
 2018-11-08,Cambodia,Malaysia,0,1,AFF Championship,Phnom Penh,Cambodia,FALSE
 2018-11-08,Laos,Vietnam,0,3,AFF Championship,Vientiane,Laos,FALSE
-2018-11-09,Timor-Leste,Thailand,0,7,AFF Championship,Bangkok,Thailand,TRUE
 2018-11-09,Singapore,Indonesia,1,0,AFF Championship,Kallang,Singapore,FALSE
+2018-11-09,Thailand,Timor-Leste,7,0,AFF Championship,Bangkok,Thailand,FALSE
 2018-11-11,North Korea,Mongolia,4,1,EAFF Championship,Taipei,Taiwan,TRUE
 2018-11-11,Taiwan,Hong Kong,1,2,EAFF Championship,Taipei,Taiwan,FALSE
 2018-11-12,Myanmar,Cambodia,4,1,AFF Championship,Mandalay,Myanmar,FALSE
@@ -40570,8 +40570,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-01-09,Japan,Turkmenistan,3,2,AFC Asian Cup,Abu Dhabi,United Arab Emirates,TRUE
 2019-01-09,Uzbekistan,Oman,2,1,AFC Asian Cup,Sharjah,United Arab Emirates,TRUE
 2019-01-10,Bahrain,Thailand,0,1,AFC Asian Cup,Dubai,United Arab Emirates,TRUE
-2019-01-10,India,United Arab Emirates,0,2,AFC Asian Cup,Abu Dhabi,United Arab Emirates,TRUE
 2019-01-10,Jordan,Syria,2,0,AFC Asian Cup,Al Ain,United Arab Emirates,TRUE
+2019-01-10,United Arab Emirates,India,2,0,AFC Asian Cup,Abu Dhabi,United Arab Emirates,FALSE
 2019-01-11,Estonia,Finland,2,1,Friendly,Doha,Qatar,TRUE
 2019-01-11,Iceland,Sweden,2,2,Friendly,Doha,Qatar,TRUE
 2019-01-11,Palestine,Australia,0,3,AFC Asian Cup,Dubai,United Arab Emirates,TRUE
@@ -40610,7 +40610,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-01-25,United Arab Emirates,Australia,1,0,AFC Asian Cup,Al Ain,United Arab Emirates,FALSE
 2019-01-27,United States,Panama,3,0,Friendly,Glendale,United States,FALSE
 2019-01-28,Iran,Japan,0,3,AFC Asian Cup,Al Ain,United Arab Emirates,TRUE
-2019-01-29,Qatar,United Arab Emirates,4,0,AFC Asian Cup,Abu Dhabi,United Arab Emirates,TRUE
+2019-01-29,United Arab Emirates,Qatar,0,4,AFC Asian Cup,Abu Dhabi,United Arab Emirates,FALSE
 2019-02-01,Japan,Qatar,1,3,AFC Asian Cup,Abu Dhabi,United Arab Emirates,TRUE
 2019-02-02,United States,Costa Rica,2,0,Friendly,San Jose,United States,FALSE
 2019-02-21,Kazakhstan,Moldova,1,0,Friendly,Belek,Turkey,TRUE
@@ -40786,11 +40786,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-06-03,Székely Land,Western Armenia,0,5,CONIFA European Football Cup,Askeran,Azerbaijan,TRUE
 2019-06-03,South Ossetia,Padania,2,1,CONIFA European Football Cup,Stepanakert,Azerbaijan,TRUE
 2019-06-04,Comoros,Malawi,1,2,COSAFA Cup,Durban,South Africa,TRUE
-2019-06-04,Uganda,South Africa,1,1,COSAFA Cup,Durban,South Africa,TRUE
 2019-06-04,Artsakh,Abkhazia,1,1,CONIFA European Football Cup,Martuni,Azerbaijan,FALSE
 2019-06-04,Chameria,Sápmi,4,0,CONIFA European Football Cup,Martakert,Azerbaijan,TRUE
 2019-06-04,South Ossetia,Székely Land,2,2,CONIFA European Football Cup,Askeran,Azerbaijan,TRUE
 2019-06-04,Padania,Western Armenia,1,1,CONIFA European Football Cup,Stepanakert,Azerbaijan,TRUE
+2019-06-04,South Africa,Uganda,1,1,COSAFA Cup,Durban,South Africa,FALSE
 2019-06-05,Lesotho,Botswana,1,2,COSAFA Cup,Durban,South Africa,TRUE
 2019-06-05,Zimbabwe,Zambia,0,0,COSAFA Cup,Durban,South Africa,TRUE
 2019-06-05,Brazil,Qatar,2,0,Friendly,Brasilia,Brazil,FALSE
@@ -40979,9 +40979,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-06-22,Nigeria,Burundi,1,0,African Cup of Nations,Alexandria,Egypt,TRUE
 2019-06-22,Guinea,Madagascar,2,2,African Cup of Nations,Alexandria,Egypt,TRUE
 2019-06-22,Bolivia,Venezuela,1,3,Copa América,Belo Horizonte,Brazil,TRUE
-2019-06-22,Peru,Brazil,0,5,Copa América,São Paulo,Brazil,TRUE
 2019-06-22,Guyana,Panama,2,4,Gold Cup,Cleveland,United States,TRUE
 2019-06-22,United States,Trinidad and Tobago,6,0,Gold Cup,Cleveland,United States,FALSE
+2019-06-22,Brazil,Peru,5,0,Copa América,São Paulo,Brazil,FALSE
 2019-06-23,Senegal,Tanzania,2,0,African Cup of Nations,Cairo,Egypt,TRUE
 2019-06-23,Algeria,Kenya,2,0,African Cup of Nations,Cairo,Egypt,TRUE
 2019-06-23,Morocco,Namibia,1,0,African Cup of Nations,Cairo,Egypt,TRUE
@@ -42133,7 +42133,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-03-28,Tunisia,Equatorial Guinea,2,1,African Cup of Nations qualification,Radès,Tunisia,FALSE
 2021-03-28,Tanzania,Libya,1,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,FALSE
 2021-03-29,Ecuador,Bolivia,2,1,Friendly,Guayaquil,Ecuador,FALSE
-2021-03-29,India,United Arab Emirates,0,6,Friendly,Dubai,United Arab Emirates,TRUE
 2021-03-29,Kuwait,Lebanon,1,1,Friendly,Dubai,United Arab Emirates,TRUE
 2021-03-29,Nepal,Bangladesh,2,1,Friendly,Kathmandu,Nepal,FALSE
 2021-03-29,Uzbekistan,Iraq,0,1,Friendly,Tashkent,Uzbekistan,FALSE
@@ -42146,6 +42145,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-03-29,Egypt,Comoros,4,0,African Cup of Nations qualification,Cairo,Egypt,FALSE
 2021-03-29,Algeria,Botswana,5,0,African Cup of Nations qualification,Algiers,Algeria,FALSE
 2021-03-29,Zimbabwe,Zambia,0,2,African Cup of Nations qualification,Harare,Zimbabwe,FALSE
+2021-03-29,United Arab Emirates,India,6,0,Friendly,Dubai,United Arab Emirates,FALSE
 2021-03-30,Bahrain,Jordan,1,2,Friendly,Riffa,Bahrain,FALSE
 2021-03-30,Costa Rica,Mexico,0,1,Friendly,Wiener Neustadt,Austria,TRUE
 2021-03-30,Iran,Syria,3,0,Friendly,Tehran,Iran,FALSE
@@ -42241,18 +42241,18 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-06-03,Mexico,Costa Rica,0,0,CONCACAF Nations League,Denver,United States,TRUE
 2021-06-03,United States,Honduras,1,0,CONCACAF Nations League,Denver,United States,FALSE
 2021-06-03,Nepal,Taiwan,2,0,FIFA World Cup qualification,Kuwait City,Kuwait,TRUE
-2021-06-03,Australia,Kuwait,3,0,FIFA World Cup qualification,Kuwait City,Kuwait,TRUE
 2021-06-03,Iran,Hong Kong,3,1,FIFA World Cup qualification,Arad,Iran,FALSE
 2021-06-03,Bahrain,Cambodia,8,0,FIFA World Cup qualification,Riffa,Bahrain,FALSE
 2021-06-03,Palestine,Singapore,4,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,TRUE
 2021-06-03,Bangladesh,Afghanistan,1,1,FIFA World Cup qualification,Doha,Qatar,TRUE
-2021-06-03,India,Qatar,0,1,FIFA World Cup qualification,Doha,Qatar,TRUE
 2021-06-03,United Arab Emirates,Malaysia,4,0,FIFA World Cup qualification,Dubai,United Arab Emirates,FALSE
 2021-06-03,Thailand,Indonesia,2,2,FIFA World Cup qualification,Dubai,United Arab Emirates,TRUE
 2021-06-03,Bolivia,Venezuela,3,1,FIFA World Cup qualification,La Paz,Bolivia,FALSE
 2021-06-03,Uruguay,Paraguay,0,0,FIFA World Cup qualification,Montevideo,Uruguay,FALSE
 2021-06-03,Argentina,Chile,1,1,FIFA World Cup qualification,Santiago del Estero,Argentina,FALSE
 2021-06-03,Peru,Colombia,0,3,FIFA World Cup qualification,Lima,Peru,FALSE
+2021-06-03,Kuwait,Australia,0,3,FIFA World Cup qualification,Kuwait City,Kuwait,FALSE
+2021-06-03,Qatar,India,1,0,FIFA World Cup qualification,Doha,Qatar,FALSE
 2021-06-04,Faroe Islands,Iceland,0,1,Friendly,Tórshavn,Faroe Islands,FALSE
 2021-06-04,Finland,Estonia,0,1,Friendly,Helsinki,Finland,FALSE
 2021-06-04,Hungary,Cyprus,1,0,Friendly,Budapest,Hungary,FALSE
@@ -42312,14 +42312,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-06-07,Nepal,Jordan,0,3,FIFA World Cup qualification,Kuwait City,Kuwait,TRUE
 2021-06-07,Australia,Taiwan,5,1,FIFA World Cup qualification,Kuwait City,Kuwait,TRUE
 2021-06-07,Iraq,Cambodia,4,1,FIFA World Cup qualification,Arad,Iran,TRUE
-2021-06-07,Iran,Bahrain,3,0,FIFA World Cup qualification,Riffa,Bahrain,TRUE
 2021-06-07,Uzbekistan,Singapore,5,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,TRUE
 2021-06-07,Bangladesh,India,0,2,FIFA World Cup qualification,Doha,Qatar,TRUE
-2021-06-07,Oman,Qatar,0,1,FIFA World Cup qualification,Doha,Qatar,TRUE
 2021-06-07,Kyrgyzstan,Mongolia,0,1,FIFA World Cup qualification,Osaka,Japan,TRUE
 2021-06-07,Japan,Tajikistan,4,1,FIFA World Cup qualification,Suita,Japan,FALSE
 2021-06-07,United Arab Emirates,Thailand,3,1,FIFA World Cup qualification,Dubai,United Arab Emirates,FALSE
 2021-06-07,Vietnam,Indonesia,4,0,FIFA World Cup qualification,Dubai,United Arab Emirates,TRUE
+2021-06-07,Bahrain,Iran,0,3,FIFA World Cup qualification,Riffa,Bahrain,FALSE
+2021-06-07,Qatar,Oman,1,0,FIFA World Cup qualification,Doha,Qatar,FALSE
 2021-06-08,Benin,Zambia,2,2,Friendly,Cotonou,Benin,FALSE
 2021-06-08,Cameroon,Nigeria,0,0,Friendly,Wiener Neustadt,Austria,TRUE
 2021-06-08,Czech Republic,Albania,3,1,Friendly,Prague,Czech Republic,FALSE
@@ -42349,10 +42349,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-06-08,Paraguay,Brazil,0,2,FIFA World Cup qualification,Asunción,Paraguay,FALSE
 2021-06-08,Chile,Bolivia,1,1,FIFA World Cup qualification,Santiago,Chile,FALSE
 2021-06-09,Turkmenistan,Lebanon,3,2,FIFA World Cup qualification,Goyang,South Korea,TRUE
-2021-06-09,Sri Lanka,South Korea,0,5,FIFA World Cup qualification,Goyang,South Korea,TRUE
 2021-06-09,Niger,Congo,0,1,Friendly,Antalya,Turkey,TRUE
 2021-06-09,Portugal,Israel,4,0,Friendly,Lisbon,Portugal,FALSE
 2021-06-09,United States,Costa Rica,4,0,Friendly,Sandy,United States,FALSE
+2021-06-09,South Korea,Sri Lanka,5,0,FIFA World Cup qualification,Goyang,South Korea,FALSE
 2021-06-10,Estonia,Latvia,2,1,Baltic Cup,Tallinn,Estonia,FALSE
 2021-06-10,South Africa,Uganda,3,2,Friendly,Johannesburg,South Africa,FALSE
 2021-06-11,Philippines,Guam,3,0,FIFA World Cup qualification,Sharjah,United Arab Emirates,TRUE
@@ -42361,11 +42361,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-06-11,Kuwait,Jordan,0,0,FIFA World Cup qualification,Kuwait City,Kuwait,FALSE
 2021-06-11,Cambodia,Iran,0,10,FIFA World Cup qualification,Isa Town,Bahrain,TRUE
 2021-06-11,Hong Kong,Iraq,0,1,FIFA World Cup qualification,Arad,Iran,TRUE
-2021-06-11,Singapore,Saudi Arabia,0,3,FIFA World Cup qualification,Riyadh,Saudi Arabia,TRUE
 2021-06-11,Yemen,Uzbekistan,0,1,FIFA World Cup qualification,Riyadh,Saudi Arabia,TRUE
 2021-06-11,Afghanistan,Oman,1,2,FIFA World Cup qualification,Doha,Qatar,TRUE
 2021-06-11,Myanmar,Kyrgyzstan,1,8,FIFA World Cup qualification,Osaka,Japan,TRUE
-2021-06-11,Indonesia,United Arab Emirates,0,5,FIFA World Cup qualification,Dubai,United Arab Emirates,TRUE
 2021-06-11,Malaysia,Vietnam,1,2,FIFA World Cup qualification,Dubai,United Arab Emirates,TRUE
 2021-06-11,DR Congo,Mali,1,1,Friendly,Radès,Tunisia,TRUE
 2021-06-11,Guinea,Niger,2,1,Friendly,Antalya,Turkey,TRUE
@@ -42373,6 +42371,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-06-11,Mauritania,Liberia,1,0,Friendly,Tunis,Tunisia,TRUE
 2021-06-11,Tunisia,Algeria,0,2,Friendly,Radès,Tunisia,FALSE
 2021-06-11,Italy,Turkey,3,0,UEFA Euro,Rome,Italy,FALSE
+2021-06-11,Saudi Arabia,Singapore,3,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,FALSE
+2021-06-11,United Arab Emirates,Indonesia,5,0,FIFA World Cup qualification,Dubai,United Arab Emirates,FALSE
 2021-06-12,Haiti,Canada,0,1,FIFA World Cup qualification,Port au Prince,Haiti,FALSE
 2021-06-12,Panama,Curaçao,2,1,FIFA World Cup qualification,Panama City,Panama,FALSE
 2021-06-12,Saint Kitts and Nevis,El Salvador,0,4,FIFA World Cup qualification,Basseterre,Saint Kitts and Nevis,FALSE
@@ -42399,7 +42399,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-06-15,Philippines,Maldives,1,1,FIFA World Cup qualification,Suzhou,China PR,TRUE
 2021-06-15,China PR,Syria,3,1,FIFA World Cup qualification,Suzhou,China PR,FALSE
 2021-06-15,Australia,Jordan,1,0,FIFA World Cup qualification,Kuwait City,Kuwait,TRUE
-2021-06-15,Taiwan,Kuwait,1,2,FIFA World Cup qualification,Kuwait City,Kuwait,TRUE
 2021-06-15,Bahrain,Hong Kong,4,0,FIFA World Cup qualification,Riffa,Bahrain,FALSE
 2021-06-15,Iran,Iraq,1,0,FIFA World Cup qualification,Arad,Iran,FALSE
 2021-06-15,Palestine,Yemen,3,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,TRUE
@@ -42417,6 +42416,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-06-15,Djibouti,Somalia,1,0,Friendly,Djibouti City,Djibouti,FALSE
 2021-06-15,Hungary,Portugal,0,3,UEFA Euro,Budapest,Hungary,FALSE
 2021-06-15,Germany,France,0,1,UEFA Euro,Munich,Germany,FALSE
+2021-06-15,Kuwait,Taiwan,2,1,FIFA World Cup qualification,Kuwait City,Kuwait,FALSE
 2021-06-16,Turkey,Wales,0,2,UEFA Euro,Baku,Azerbaijan,TRUE
 2021-06-16,Italy,Switzerland,3,0,UEFA Euro,Rome,Italy,FALSE
 2021-06-16,Russia,Finland,1,0,UEFA Euro,Saint Petersburg,Russia,FALSE
@@ -42738,7 +42738,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-09-24,El Salvador,Guatemala,0,2,Friendly,Washington,United States,FALSE
 2021-09-30,Egypt,Liberia,2,0,Friendly,Alexandria,Egypt,FALSE
 2021-10-01,Sri Lanka,Bangladesh,0,1,SAFF Cup,Malé,Maldives,TRUE
-2021-10-01,Nepal,Maldives,1,0,SAFF Cup,Malé,Maldives,TRUE
+2021-10-01,Maldives,Nepal,0,1,SAFF Cup,Malé,Maldives,FALSE
 2021-10-04,Bangladesh,India,1,1,SAFF Cup,Malé,Maldives,TRUE
 2021-10-04,Sri Lanka,Nepal,2,3,SAFF Cup,Malé,Maldives,TRUE
 2021-10-06,Sudan,Guinea,1,1,FIFA World Cup qualification,Marrakech,Morocco,TRUE
@@ -42810,12 +42810,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-10-09,Togo,Congo,1,1,FIFA World Cup qualification,Lomé,Togo,FALSE
 2021-10-09,Senegal,Namibia,4,1,FIFA World Cup qualification,Thiès,Senegal,FALSE
 2021-10-09,Guinea,Sudan,2,2,FIFA World Cup qualification,Agadir,Morocco,TRUE
-2021-10-09,Guinea-Bissau,Morocco,0,3,FIFA World Cup qualification,Casablanca,Morocco,TRUE
 2021-10-09,Curaçao,New Zealand,1,2,Friendly,Riffa,Bahrain,TRUE
 2021-10-09,Gambia,Sierra Leone,1,2,Friendly,El Jadida,Morocco,TRUE
 2021-10-09,Portugal,Qatar,3,0,Friendly,Faro-Loulé,Portugal,FALSE
 2021-10-09,Uzbekistan,Malaysia,5,1,Friendly,Amman,Jordan,TRUE
 2021-10-09,Guam,Cambodia,0,1,AFC Asian Cup qualification,Isa Town,Bahrain,TRUE
+2021-10-09,Morocco,Guinea-Bissau,3,0,FIFA World Cup qualification,Casablanca,Morocco,FALSE
 2021-10-10,Costa Rica,El Salvador,2,1,FIFA World Cup qualification,San José,Costa Rica,FALSE
 2021-10-10,Jamaica,Canada,0,0,FIFA World Cup qualification,Kingston,Jamaica,FALSE
 2021-10-10,Panama,United States,1,0,FIFA World Cup qualification,Panama City,Panama,FALSE
@@ -42879,18 +42879,18 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-10-12,South Africa,Ethiopia,1,0,FIFA World Cup qualification,Johannesburg,South Africa,FALSE
 2021-10-12,Namibia,Senegal,1,3,FIFA World Cup qualification,Johannesburg,South Africa,TRUE
 2021-10-12,Congo,Togo,1,2,FIFA World Cup qualification,Brazzaville,Congo,FALSE
-2021-10-12,Guinea,Morocco,1,4,FIFA World Cup qualification,Agadir,Morocco,TRUE
 2021-10-12,Bahrain,New Zealand,0,1,Friendly,Riffa,Bahrain,FALSE
 2021-10-12,Jordan,Uzbekistan,3,0,Friendly,Amman,Jordan,FALSE
 2021-10-12,Republic of Ireland,Qatar,4,0,Friendly,Dublin,Republic of Ireland,FALSE
 2021-10-12,South Sudan,Gambia,1,2,Friendly,El Jadida,Morocco,TRUE
 2021-10-12,Cambodia,Guam,2,1,AFC Asian Cup qualification,Isa Town,Bahrain,TRUE
+2021-10-12,Morocco,Guinea,4,1,FIFA World Cup qualification,Agadir,Morocco,FALSE
 2021-10-13,Honduras,Jamaica,0,2,FIFA World Cup qualification,San Pedro Sula,Honduras,FALSE
 2021-10-13,United States,Costa Rica,2,1,FIFA World Cup qualification,Columbus,United States,FALSE
 2021-10-13,Canada,Panama,4,1,FIFA World Cup qualification,Toronto,Canada,FALSE
 2021-10-13,El Salvador,Mexico,0,2,FIFA World Cup qualification,San Salvador,El Salvador,FALSE
 2021-10-13,Bangladesh,Nepal,1,1,SAFF Cup,Malé,Maldives,TRUE
-2021-10-13,India,Maldives,3,1,SAFF Cup,Malé,Maldives,TRUE
+2021-10-13,Maldives,India,1,3,SAFF Cup,Malé,Maldives,FALSE
 2021-10-14,Bolivia,Paraguay,4,0,FIFA World Cup qualification,La Paz,Bolivia,FALSE
 2021-10-14,Colombia,Ecuador,0,0,FIFA World Cup qualification,Barranquilla,Colombia,FALSE
 2021-10-14,Argentina,Peru,1,0,FIFA World Cup qualification,Buenos Aires,Argentina,FALSE
