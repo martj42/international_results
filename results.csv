@@ -5371,22 +5371,25 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1963-03-31,Bolivia,Brazil,5,4,Copa América,Cochabamba,Bolivia,FALSE
 1963-03-31,Colombia,Ecuador,3,4,Copa América,La Paz,Bolivia,TRUE
 1963-03-31,Czechoslovakia,German DR,1,1,UEFA Euro qualification,Prague,Czechoslovakia,FALSE
-1963-03-31,Lebanon,Kuwait,6,0,UAFA Cup,Beirut,Lebanon,FALSE
+1963-03-31,Lebanon,Kuwait,6,0,Arab Cup,Beirut,Lebanon,FALSE
+1963-03-31,Syria,Jordan,4,0,Arab Cup,Beirut,Lebanon,TRUE
 1963-03-31,Suriname,Trinidad and Tobago,3,1,Friendly,Paramaribo,Suriname,FALSE
 1963-03-31,Switzerland,Netherlands,1,1,UEFA Euro qualification,Berne,Switzerland,FALSE
 1963-04-02,Suriname,Trinidad and Tobago,1,2,Friendly,Paramaribo,Suriname,FALSE
-1963-04-02,Syria,Tunisia,0,1,UAFA Cup,Beirut,Lebanon,TRUE
+1963-04-02,Syria,Tunisia,0,1,Arab Cup,Beirut,Lebanon,TRUE
+1963-04-02,Kuwait,Jordan,4,0,Arab Cup,Beirut,Lebanon,TRUE
 1963-04-03,Honduras,Curaçao,1,4,CONCACAF Championship,San Salvador,El Salvador,TRUE
 1963-04-03,Northern Ireland,Wales,1,4,British Championship,Belfast,Northern Ireland,FALSE
-1963-04-04,Jordan,Tunisia,0,4,UAFA Cup,Beirut,Lebanon,TRUE
+1963-04-04,Jordan,Tunisia,0,4,Arab Cup,Beirut,Lebanon,TRUE
+1963-04-04,Lebanon,Syria,2,3,Arab Cup,Beirut,Lebanon,FALSE
 1963-04-04,Suriname,Trinidad and Tobago,4,3,Friendly,Paramaribo,Suriname,FALSE
 1963-04-05,Costa Rica,Curaçao,1,0,CONCACAF Championship,San Salvador,El Salvador,TRUE
 1963-04-06,England,Scotland,1,2,British Championship,London,England,FALSE
-1963-04-06,Kuwait,Tunisia,1,5,UAFA Cup,Beirut,Lebanon,TRUE
-1963-04-06,Lebanon,Jordan,5,0,UAFA Cup,Beirut,Lebanon,FALSE
+1963-04-06,Kuwait,Tunisia,1,5,Arab Cup,Beirut,Lebanon,TRUE
+1963-04-06,Lebanon,Jordan,5,0,Arab Cup,Beirut,Lebanon,FALSE
 1963-04-07,El Salvador,Curaçao,3,2,CONCACAF Championship,San Salvador,El Salvador,FALSE
-1963-04-07,Kuwait,Syria,0,4,UAFA Cup,Beirut,Lebanon,TRUE
-1963-04-07,Lebanon,Tunisia,0,1,UAFA Cup,Beirut,Lebanon,FALSE
+1963-04-07,Kuwait,Syria,0,4,Arab Cup,Beirut,Lebanon,TRUE
+1963-04-07,Lebanon,Tunisia,0,1,Arab Cup,Beirut,Lebanon,FALSE
 1963-04-13,Brazil,Argentina,2,3,Copa Roca,São Paulo,Brazil,FALSE
 1963-04-16,Brazil,Argentina,5,2,Copa Roca,Rio de Janeiro,Brazil,FALSE
 1963-04-16,Guadeloupe,Martinique,3,0,Friendly,Basse-Terre,Guadeloupe,FALSE
@@ -5735,17 +5738,18 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1964-11-04,Italy,Finland,6,1,FIFA World Cup qualification,Genoa,Italy,FALSE
 1964-11-08,Luxembourg,Norway,0,2,FIFA World Cup qualification,Luxembourg,Luxembourg,FALSE
 1964-11-11,France,Norway,1,0,FIFA World Cup qualification,Paris,France,FALSE
-1964-11-13,Jordan,Lebanon,0,0,UAFA Cup,Kuwait City,Kuwait,TRUE
-1964-11-13,Kuwait,Iraq,0,1,UAFA Cup,Kuwait City,Kuwait,FALSE
+1964-11-13,Jordan,Lebanon,0,0,Arab Cup,Kuwait City,Kuwait,TRUE
+1964-11-13,Kuwait,Iraq,0,1,Arab Cup,Kuwait City,Kuwait,FALSE
 1964-11-14,Switzerland,Northern Ireland,2,1,FIFA World Cup qualification,Lausanne,Switzerland,FALSE
-1964-11-15,Kuwait,Jordan,2,0,UAFA Cup,Kuwait City,Kuwait,FALSE
-1964-11-15,Libya,Lebanon,2,1,UAFA Cup,Kuwait City,Kuwait,TRUE
+1964-11-14,Libya,Lebanon,2,1,Arab Cup,Kuwait City,Kuwait,TRUE
+1964-11-15,Kuwait,Jordan,2,0,Arab Cup,Kuwait City,Kuwait,FALSE
 1964-11-15,Portugal,Spain,2,1,Friendly,Porto,Portugal,FALSE
-1964-11-16,Kuwait,Libya,1,1,UAFA Cup,Kuwait City,Kuwait,FALSE
-1964-11-17,Iraq,Lebanon,1,0,UAFA Cup,Kuwait City,Kuwait,TRUE
-1964-11-17,Jordan,Libya,2,5,UAFA Cup,Kuwait City,Kuwait,TRUE
+1964-11-16,Iraq,Lebanon,1,0,Arab Cup,Kuwait City,Kuwait,TRUE
+1964-11-16,Jordan,Libya,2,5,Arab Cup,Kuwait City,Kuwait,TRUE
+1964-11-17,Kuwait,Lebanon,2,3,Arab Cup,Kuwait City,Kuwait,FALSE
+1964-11-17,Iraq,Libya,1,1,Arab Cup,Kuwait City,Kuwait,TRUE
 1964-11-18,England,Wales,2,1,British Championship,London,England,FALSE
-1964-11-19,Kuwait,Lebanon,2,3,UAFA Cup,Kuwait City,Kuwait,FALSE
+1964-11-19,Kuwait,Libya,1,1,Arab Cup,Kuwait City,Kuwait,FALSE
 1964-11-22,Yugoslavia,Russia,1,1,Friendly,Belgrade,Yugoslavia,FALSE
 1964-11-25,Paraguay,Argentina,3,0,Copa Chevallier Boutell,Asunción,Paraguay,FALSE
 1964-11-25,Scotland,Northern Ireland,3,2,British Championship,Glasgow,Scotland,FALSE
@@ -6110,32 +6114,33 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1966-03-25,Panama,El Salvador,1,0,Friendly,Panama City,Panama,FALSE
 1966-03-27,Libya,Malta,0,1,Friendly,Tripoli,Libya,FALSE
 1966-03-30,Wales,Northern Ireland,1,4,British Championship,Cardiff,Wales,FALSE
-1966-04-01,Bahrain,Kuwait,4,4,UAFA Cup,Baghdad,Iraq,TRUE
-1966-04-01,Iraq,Lebanon,0,0,UAFA Cup,Baghdad,Iraq,FALSE
 1966-04-01,Montenegro,Russia,0,1,Friendly,Titograd,Yugoslavia,FALSE
-1966-04-02,Libya,Palestine,0,0,UAFA Cup,Baghdad,Iraq,TRUE
+1966-04-01,Libya,Palestine,0,0,Arab Cup,Baghdad,Iraq,TRUE
+1966-04-01,Iraq,Kuwait,3,1,Arab Cup,Baghdad,Iraq,FALSE
 1966-04-02,Scotland,England,3,4,British Championship,Glasgow,Scotland,FALSE
-1966-04-02,Syria,Yemen,4,1,UAFA Cup,Baghdad,Iraq,TRUE
-1966-04-03,Bahrain,Lebanon,1,6,UAFA Cup,Baghdad,Iraq,TRUE
-1966-04-03,Iraq,Jordan,2,1,UAFA Cup,Baghdad,Iraq,FALSE
+1966-04-02,Syria,Yemen,4,1,Arab Cup,Baghdad,Iraq,TRUE
+1966-04-02,Iraq,Jordan,2,1,Arab Cup,Baghdad,Iraq,FALSE
+1966-04-02,Lebanon,Bahrain,6,1,Arab Cup,Baghdad,Iraq,TRUE
+1966-04-03,Libya,Oman,21,0,Arab Cup,Baghdad,Iraq,TRUE
 1966-04-03,Kenya,Uganda,3,3,Friendly,Nairobi,Kenya,FALSE
-1966-04-04,Libya,Syria,0,0,UAFA Cup,Baghdad,Iraq,TRUE
-1966-04-04,Palestine,Yemen,7,0,UAFA Cup,Baghdad,Iraq,TRUE
-1966-04-05,Iraq,Kuwait,3,1,UAFA Cup,Baghdad,Iraq,FALSE
-1966-04-05,Jordan,Lebanon,1,2,UAFA Cup,Baghdad,Iraq,TRUE
+1966-04-03,Kuwait,Lebanon,1,2,Arab Cup,Baghdad,Iraq,TRUE
+1966-04-04,Libya,Syria,0,0,Arab Cup,Baghdad,Iraq,TRUE
+1966-04-04,Palestine,Yemen,7,0,Arab Cup,Baghdad,Iraq,TRUE
+1966-04-05,Jordan,Lebanon,1,2,Arab Cup,Baghdad,Iraq,TRUE
+1966-04-05,Iraq,Bahrain,10,1,Arab Cup,Baghdad,Iraq,FALSE
+1966-04-06,Bahrain,Kuwait,4,4,Arab Cup,Habbaniyah,Iraq,TRUE
 1966-04-06,Israel,Finland,7,1,Friendly,Jaffa,Israel,FALSE
-1966-04-06,Libya,Yemen,14,0,UAFA Cup,Baghdad,Iraq,TRUE
-1966-04-06,Palestine,Syria,1,3,UAFA Cup,Baghdad,Iraq,TRUE
-1966-04-07,Iraq,Bahrain,10,1,UAFA Cup,Baghdad,Iraq,FALSE
-1966-04-07,Jordan,Kuwait,2,2,UAFA Cup,Baghdad,Iraq,TRUE
-1966-04-08,Iraq,Libya,3,1,UAFA Cup,Baghdad,Iraq,FALSE
-1966-04-08,Lebanon,Syria,0,1,UAFA Cup,Baghdad,Iraq,TRUE
-1966-04-09,Bahrain,Jordan,1,2,UAFA Cup,Baghdad,Iraq,TRUE
-1966-04-09,Kuwait,Lebanon,1,2,UAFA Cup,Baghdad,Iraq,TRUE
+1966-04-06,Libya,Yemen,13,0,Arab Cup,Kut,Iraq,TRUE
+1966-04-06,Palestine,Syria,1,3,Arab Cup,Baghdad,Iraq,TRUE
+1966-04-07,Iraq,Lebanon,0,0,Arab Cup,Baghdad,Iraq,FALSE
+1966-04-07,Bahrain,Jordan,1,5,Arab Cup,Baghdad,Iraq,TRUE
+1966-04-08,Jordan,Kuwait,0,4,Arab Cup,Baghdad,Iraq,TRUE
+1966-04-09,Iraq,Libya,3,1,Arab Cup,Baghdad,Iraq,FALSE
+1966-04-09,Lebanon,Syria,0,1,Arab Cup,Baghdad,Iraq,TRUE
 1966-04-09,Nigeria,Togo,1,1,Friendly,Lagos,Nigeria,FALSE
 1966-04-10,Benin,Ghana,2,5,Friendly,Cotonou,Dahomey,FALSE
-1966-04-10,Iraq,Syria,2,1,UAFA Cup,Baghdad,Iraq,FALSE
-1966-04-10,Libya,Lebanon,6,1,UAFA Cup,Baghdad,Iraq,TRUE
+1966-04-10,Iraq,Syria,2,1,Arab Cup,Baghdad,Iraq,FALSE
+1966-04-10,Libya,Lebanon,6,1,Arab Cup,Baghdad,Iraq,TRUE
 1966-04-17,Chile,Brazil,0,1,Copa Bernardo O'Higgins,Santiago,Chile,FALSE
 1966-04-17,Netherlands,Belgium,3,1,Friendly,Rotterdam,Netherlands,FALSE
 1966-04-20,Chile,Brazil,2,1,Copa Bernardo O'Higgins,Viña del Mar,Chile,FALSE
@@ -8098,29 +8103,31 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1971-12-22,Iraq,Lebanon,4,1,AFC Asian Cup qualification,Kuwait City,Kuwait,TRUE
 1971-12-24,Kuwait,Iraq,0,1,AFC Asian Cup qualification,Kuwait City,Kuwait,FALSE
 1971-12-24,Lebanon,Jordan,2,0,AFC Asian Cup qualification,Kuwait City,Kuwait,TRUE
-1972-01-01,Algeria,Palestine,2,0,Friendly,Baghdad,Iraq,TRUE
-1972-01-01,Iraq,Egypt,0,0,Friendly,Baghdad,Iraq,FALSE
-1972-01-01,Kuwait,Libya,3,2,Friendly,Baghdad,Iraq,TRUE
-1972-01-01,Syria,Yemen DPR,1,0,Friendly,Baghdad,Iraq,TRUE
+1972-01-01,Algeria,Palestine,2,0,Palestine Cup,Baghdad,Iraq,TRUE
+1972-01-01,Iraq,Egypt,0,0,Palestine Cup,Baghdad,Iraq,FALSE
+1972-01-01,Kuwait,Libya,3,2,Palestine Cup,Baghdad,Iraq,TRUE
+1972-01-01,Syria,Yemen DPR,1,0,Palestine Cup,Baghdad,Iraq,TRUE
 1972-01-01,Zambia,China PR,3,3,Friendly,Lusaka,Zambia,FALSE
-1972-01-04,Algeria,Qatar,3,0,Friendly,Baghdad,Iraq,TRUE
-1972-01-04,Palestine,Syria,1,3,Friendly,Baghdad,Iraq,TRUE
-1972-01-05,Egypt,Kuwait,2,0,Friendly,Baghdad,Iraq,TRUE
-1972-01-05,Iraq,Libya,3,0,Friendly,Baghdad,Iraq,FALSE
-1972-01-06,Palestine,Yemen DPR,1,2,Friendly,Baghdad,Iraq,TRUE
-1972-01-06,Syria,Qatar,3,2,Friendly,Baghdad,Iraq,TRUE
-1972-01-07,Egypt,Libya,1,1,Friendly,Baghdad,Iraq,TRUE
-1972-01-07,Iraq,Kuwait,3,1,Friendly,Baghdad,Iraq,FALSE
-1972-01-08,Algeria,Syria,0,1,Friendly,Baghdad,Iraq,TRUE
-1972-01-08,Qatar,Yemen DPR,1,2,Friendly,Baghdad,Iraq,TRUE
+1972-01-04,Algeria,Qatar,3,0,Palestine Cup,Baghdad,Iraq,TRUE
+1972-01-04,Palestine,Syria,1,3,Palestine Cup,Baghdad,Iraq,TRUE
+1972-01-05,Egypt,Kuwait,2,0,Palestine Cup,Baghdad,Iraq,TRUE
+1972-01-05,Iraq,Libya,3,0,Palestine Cup,Baghdad,Iraq,FALSE
+1972-01-06,Palestine,Yemen DPR,1,2,Palestine Cup,Baghdad,Iraq,TRUE
+1972-01-06,Syria,Qatar,3,2,Palestine Cup,Baghdad,Iraq,TRUE
+1972-01-07,Egypt,Libya,1,1,Palestine Cup,Baghdad,Iraq,TRUE
+1972-01-07,Iraq,Kuwait,3,1,Palestine Cup,Baghdad,Iraq,FALSE
+1972-01-08,Algeria,Syria,0,1,Palestine Cup,Baghdad,Iraq,TRUE
+1972-01-08,Qatar,Yemen DPR,1,2,Palestine Cup,Baghdad,Iraq,TRUE
 1972-01-09,Burkina Faso,Nigeria,3,3,Friendly,Ouagadougou,Upper Volta,FALSE
 1972-01-09,Senegal,Congo,0,2,Friendly,Dakar,Senegal,FALSE
-1972-01-10,Algeria,Yemen DPR,4,1,Friendly,Baghdad,Iraq,TRUE
-1972-01-10,Palestine,Qatar,7,2,Friendly,Baghdad,Iraq,TRUE
+1972-01-10,Algeria,Yemen DPR,4,1,Palestine Cup,Baghdad,Iraq,TRUE
+1972-01-10,Palestine,Qatar,7,2,Palestine Cup,Baghdad,Iraq,TRUE
 1972-01-12,Guinea,Congo,0,1,Friendly,Conakry,Guinea,FALSE
-1972-01-12,Iraq,Algeria,3,1,Friendly,Baghdad,Iraq,FALSE
+1972-01-12,Iraq,Algeria,3,1,Palestine Cup,Baghdad,Iraq,FALSE
 1972-01-12,Spain,Hungary,1,0,Friendly,Madrid,Spain,FALSE
-1972-01-13,Algeria,Syria,3,1,Friendly,Baghdad,Iraq,TRUE
+1972-01-12,Egypt,Syria,4,2,Palestine Cup,Baghdad,Iraq,TRUE
+1972-01-13,Algeria,Syria,3,1,Palestine Cup,Baghdad,Iraq,TRUE
+1972-01-14,Iraq,Egypt,1,3,Palestine Cup,Baghdad,Iraq,FALSE
 1972-01-18,Somalia,China PR,1,3,Friendly,Mogadishu,Somalia,FALSE
 1972-01-20,Togo,Benin,4,0,Friendly,Lomé,Togo,FALSE
 1972-01-27,Mexico,Chile,2,0,Friendly,Guadalajara,Mexico,FALSE
@@ -8723,6 +8730,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1973-07-18,Chile,Argentina,3,1,Copa Carlos Dittborn,Santiago,Chile,FALSE
 1973-07-19,Iceland,German DR,0,2,Friendly,Reykjavík,Iceland,FALSE
 1973-07-19,Israel,Uruguay,1,2,Friendly,Ramat-Gan,Israel,FALSE
+1973-07-21,Syria,Palestine,1,1,Palestine Cup,Tripoli,Libya,TRUE
 1973-07-24,Chile,Bolivia,3,0,Friendly,Santiago,Chile,FALSE
 1973-07-25,Norway,North Korea,3,0,Friendly,Bergen,Norway,FALSE
 1973-07-26,Cambodia,Singapore,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
@@ -8767,43 +8775,45 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1973-08-10,Cambodia,Singapore,0,3,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
 1973-08-10,Malaysia,Myanmar,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,FALSE
 1973-08-10,United States,Poland,0,4,Friendly,San Francisco,United States,FALSE
-1973-08-11,Libya,United Arab Emirates,2,2,Friendly,Benghazi,Libya,FALSE
+1973-08-11,Libya,United Arab Emirates,2,2,Palestine Cup,Benghazi,Libya,FALSE
 1973-08-11,South Korea,Kuwait,0,1,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
 1973-08-11,South Korea,Myanmar,1,2,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
 1973-08-12,Bangladesh,Thailand,0,2,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
-1973-08-12,Egypt,Yemen DPR,6,1,Friendly,Tripoli,Libya,TRUE
+1973-08-12,Egypt,Yemen DPR,6,1,Palestine Cup,Tripoli,Libya,TRUE
 1973-08-12,Malaysia,Kuwait,3,1,Merdeka Tournament,Kuala Lumpur,Malaysia,FALSE
 1973-08-12,New Zealand,Iran,0,0,Friendly,Auckland,New Zealand,FALSE
 1973-08-12,United States,Poland,1,0,Friendly,New Britain,United States,FALSE
 1973-08-12,Zambia,Kenya,2,0,FIFA World Cup qualification,Ndola,Zambia,FALSE
-1973-08-13,Algeria,United Arab Emirates,2,0,Friendly,Benghazi,Libya,TRUE
-1973-08-13,Iraq,Yemen,2,0,Friendly,Benghazi,Libya,TRUE
+1973-08-13,Algeria,United Arab Emirates,2,0,Palestine Cup,Benghazi,Libya,TRUE
+1973-08-13,Iraq,Yemen,2,0,Palestine Cup,Benghazi,Libya,TRUE
 1973-08-13,Singapore,Bangladesh,0,1,Friendly,Kallang,Singapore,FALSE
-1973-08-13,Syria,Tunisia,1,4,Friendly,Tripoli,Libya,TRUE
-1973-08-14,Libya,Yemen,10,0,Friendly,Benghazi,Libya,FALSE
-1973-08-15,Algeria,Iraq,0,0,Friendly,Benghazi,Libya,TRUE
+1973-08-13,Palestine,Yemen DPR,1,0,Palestine Cup,Tripoli,Libya,TRUE
+1973-08-13,Syria,Tunisia,1,4,Palestine Cup,Tripoli,Libya,TRUE
+1973-08-14,Libya,Yemen,10,0,Palestine Cup,Benghazi,Libya,FALSE
+1973-08-15,Algeria,Iraq,0,0,Palestine Cup,Benghazi,Libya,TRUE
 1973-08-15,Congo,Uganda,3,2,Friendly,Brazzaville,Congo,FALSE
-1973-08-15,Egypt,Tunisia,0,1,Friendly,Tripoli,Libya,TRUE
+1973-08-15,Egypt,Tunisia,0,1,Palestine Cup,Tripoli,Libya,TRUE
 1973-08-15,Singapore,India,4,5,Friendly,Kallang,Singapore,FALSE
-1973-08-16,Syria,Yemen DPR,7,1,Friendly,Tripoli,Libya,TRUE
-1973-08-17,Algeria,Yemen,15,1,Friendly,Benghazi,Libya,TRUE
+1973-08-16,Yemen,United Arab Emirates,1,1,Palestine Cup,Benghazi,Libya,FALSE
+1973-08-16,Syria,Yemen DPR,7,1,Palestine Cup,Tripoli,Libya,TRUE
+1973-08-16,Egypt,Palestine,2,0,Palestine Cup,Tripoli,Libya,TRUE
+1973-08-17,Algeria,Yemen,15,1,Palestine Cup,Benghazi,Libya,TRUE
 1973-08-18,Australia,Iran,3,0,FIFA World Cup qualification,Sydney,Australia,FALSE
-1973-08-18,Egypt,Palestine,2,0,Friendly,Tripoli,Libya,TRUE
-1973-08-18,Libya,Iraq,0,0,Friendly,Benghazi,Libya,FALSE
+1973-08-18,Libya,Iraq,0,0,Palestine Cup,Benghazi,Libya,FALSE
 1973-08-19,Bulgaria,Poland,0,2,Friendly,Varna,Bulgaria,FALSE
 1973-08-19,DR Congo,Ghana,4,1,FIFA World Cup qualification,Kinshasa,Zaïre,FALSE
 1973-08-19,Kenya,Zambia,2,2,FIFA World Cup qualification,Nairobi,Kenya,FALSE
-1973-08-19,Tunisia,Yemen DPR,2,0,Friendly,Tripoli,Libya,TRUE
-1973-08-20,Egypt,Syria,0,2,Friendly,Tripoli,Libya,TRUE
-1973-08-20,Iraq,United Arab Emirates,3,1,Friendly,Benghazi,Libya,TRUE
-1973-08-21,Libya,Algeria,0,2,Friendly,Benghazi,Libya,FALSE
-1973-08-21,Palestine,Tunisia,2,6,Friendly,Tripoli,Libya,TRUE
+1973-08-19,Tunisia,Yemen DPR,2,0,Palestine Cup,Tripoli,Libya,TRUE
+1973-08-20,Egypt,Syria,0,2,Palestine Cup,Tripoli,Libya,TRUE
+1973-08-20,Iraq,United Arab Emirates,3,1,Palestine Cup,Benghazi,Libya,TRUE
+1973-08-21,Libya,Algeria,0,2,Palestine Cup,Benghazi,Libya,FALSE
+1973-08-21,Palestine,Tunisia,2,6,Palestine Cup,Tripoli,Libya,TRUE
 1973-08-22,Netherlands,Iceland,5,0,FIFA World Cup qualification,Amsterdam,Netherlands,FALSE
-1973-08-23,Algeria,Syria,0,0,Friendly,Benghazi,Libya,TRUE
-1973-08-23,Iraq,Tunisia,0,2,Friendly,Tripoli,Libya,TRUE
+1973-08-23,Algeria,Syria,0,0,Palestine Cup,Benghazi,Libya,TRUE
+1973-08-23,Iraq,Tunisia,0,2,Palestine Cup,Tripoli,Libya,TRUE
 1973-08-24,Iran,Australia,2,0,FIFA World Cup qualification,Teheran,Iran,FALSE
-1973-08-25,Algeria,Iraq,0,0,Friendly,Tripoli,Libya,TRUE
-1973-08-26,Syria,Tunisia,0,4,Friendly,Tripoli,Libya,TRUE
+1973-08-25,Algeria,Iraq,0,0,Palestine Cup,Tripoli,Libya,TRUE
+1973-08-26,Syria,Tunisia,0,4,Palestine Cup,Tripoli,Libya,TRUE
 1973-08-29,Finland,Sweden,1,2,Nordic Championship,Helsinki,Finland,FALSE
 1973-08-29,Netherlands,Iceland,8,1,FIFA World Cup qualification,Deventer,Netherlands,FALSE
 1973-09-02,Bolivia,Paraguay,1,2,FIFA World Cup qualification,La Paz,Bolivia,FALSE
@@ -9628,31 +9638,31 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1975-11-29,Romania,Russia,2,2,Friendly,Bucharest,Romania,FALSE
 1975-12-03,Portugal,Cyprus,1,0,UEFA Euro qualification,Setúbal,Portugal,FALSE
 1975-12-17,Scotland,Romania,1,1,UEFA Euro qualification,Glasgow,Scotland,FALSE
-1975-12-19,Egypt,Yemen DPR,5,0,Friendly,Tunis,Tunisia,TRUE
-1975-12-19,Palestine,Sudan,0,0,Friendly,Tunis,Tunisia,TRUE
-1975-12-19,Tunisia,United Arab Emirates,3,0,Friendly,Tunis,Tunisia,FALSE
+1975-12-19,Egypt,Yemen DPR,5,0,Palestine Cup,Tunis,Tunisia,TRUE
+1975-12-19,Palestine,Sudan,0,0,Palestine Cup,Tunis,Tunisia,TRUE
+1975-12-19,Tunisia,United Arab Emirates,3,0,Palestine Cup,Tunis,Tunisia,FALSE
 1975-12-20,Malawi,Eswatini,2,0,Friendly,Blantyre,Malawi,FALSE
 1975-12-20,Turkey,Germany,0,5,Friendly,Istanbul,Turkey,FALSE
 1975-12-21,Myanmar,South Korea,1,3,King's Cup,Bangkok,Thailand,TRUE
-1975-12-21,Iraq,United Arab Emirates,5,0,Friendly,Tunis,Tunisia,TRUE
-1975-12-21,Libya,Syria,2,3,Friendly,Tunis,Tunisia,TRUE
+1975-12-21,Iraq,United Arab Emirates,5,0,Palestine Cup,Tunis,Tunisia,TRUE
+1975-12-21,Libya,Syria,2,3,Palestine Cup,Tunis,Tunisia,TRUE
 1975-12-21,Malaysia,Singapore,0,0,King's Cup,Bangkok,Thailand,TRUE
 1975-12-21,Malta,Bulgaria,0,2,UEFA Euro qualification,Gżira,Malta,FALSE
-1975-12-21,Palestine,Sudan,0,1,Friendly,Tunis,Tunisia,TRUE
-1975-12-21,Saudi Arabia,Yemen DPR,0,1,Friendly,Tunis,Tunisia,TRUE
+1975-12-21,Palestine,Sudan,0,1,Palestine Cup,Tunis,Tunisia,TRUE
+1975-12-21,Saudi Arabia,Yemen DPR,0,1,Palestine Cup,Tunis,Tunisia,TRUE
 1975-12-22,Malawi,Eswatini,0,0,Friendly,Blantyre,Malawi,FALSE
-1975-12-23,Egypt,Saudi Arabia,2,1,Friendly,Tunis,Tunisia,TRUE
-1975-12-23,Libya,Syria,1,0,Friendly,Tunis,Tunisia,TRUE
+1975-12-23,Egypt,Saudi Arabia,2,1,Palestine Cup,Tunis,Tunisia,TRUE
+1975-12-23,Libya,Syria,1,0,Palestine Cup,Tunis,Tunisia,TRUE
 1975-12-23,Thailand,South Korea,2,1,King's Cup,Bangkok,Thailand,FALSE
-1975-12-23,Tunisia,Iraq,1,1,Friendly,Tunis,Tunisia,FALSE
+1975-12-23,Tunisia,Iraq,1,1,Palestine Cup,Tunis,Tunisia,FALSE
 1975-12-24,Myanmar,Singapore,6,0,King's Cup,Bangkok,Thailand,TRUE
 1975-12-26,Bermuda,Suriname,1,5,Friendly,Hamilton,Bermuda,FALSE
-1975-12-26,Egypt,Sudan,3,1,Friendly,Tunis,Tunisia,TRUE
-1975-12-26,Iraq,Syria,4,0,Friendly,Tunis,Tunisia,TRUE
+1975-12-26,Egypt,Sudan,3,1,Palestine Cup,Tunis,Tunisia,TRUE
+1975-12-26,Iraq,Syria,4,0,Palestine Cup,Tunis,Tunisia,TRUE
 1975-12-26,Thailand,Singapore,0,1,King's Cup,Bangkok,Thailand,FALSE
 1975-12-27,Myanmar,Malaysia,2,1,King's Cup,Bangkok,Thailand,TRUE
-1975-12-28,Egypt,Iraq,1,0,Friendly,Tunis,Tunisia,TRUE
-1975-12-28,Sudan,Syria,1,0,Friendly,Tunis,Tunisia,TRUE
+1975-12-28,Egypt,Iraq,1,0,Palestine Cup,Tunis,Tunisia,TRUE
+1975-12-28,Sudan,Syria,1,0,Palestine Cup,Tunis,Tunisia,TRUE
 1975-12-29,Thailand,Malaysia,1,0,King's Cup,Bangkok,Thailand,FALSE
 1975-12-30,Italy,Greece,3,2,Friendly,Florence,Italy,FALSE
 1975-12-30,South Korea,Singapore,5,0,King's Cup,Bangkok,Thailand,TRUE
@@ -13903,30 +13913,30 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1985-06-30,Colombia,Venezuela,2,0,FIFA World Cup qualification,Bogotá,Colombia,FALSE
 1985-06-30,Guadeloupe,Suriname,2,2,CFU Caribbean Cup,Bridgetown,Barbados,TRUE
 1985-07-01,Réunion,DR Congo,1,2,Friendly,Saint-Paul,Réunion,FALSE
-1985-07-03,Saudi Arabia,Jordan,4,0,UAFA Cup,Ta'if,Saudi Arabia,FALSE
-1985-07-04,Bahrain,Iraq,1,1,UAFA Cup,Ta'if,Saudi Arabia,TRUE
+1985-07-03,Saudi Arabia,Jordan,4,0,Arab Cup,Ta'if,Saudi Arabia,FALSE
+1985-07-04,Bahrain,Iraq,1,1,Arab Cup,Ta'if,Saudi Arabia,TRUE
 1985-07-04,Fiji,Tahiti,0,1,Friendly,Suva,Fiji,FALSE
 1985-07-04,Malawi,DR Congo,0,1,Friendly,Saint-Paul,Réunion,TRUE
-1985-07-05,Jordan,Qatar,0,2,UAFA Cup,Ta'if,Saudi Arabia,TRUE
-1985-07-06,Bahrain,Mauritania,2,0,UAFA Cup,Ta'if,Saudi Arabia,TRUE
+1985-07-05,Jordan,Qatar,0,2,Arab Cup,Ta'if,Saudi Arabia,TRUE
+1985-07-06,Bahrain,Mauritania,2,0,Arab Cup,Ta'if,Saudi Arabia,TRUE
 1985-07-06,Malawi,Tanzania,0,0,Friendly,Blantyre,Malawi,FALSE
 1985-07-06,Nigeria,Tunisia,1,0,FIFA World Cup qualification,Lagos,Nigeria,FALSE
 1985-07-07,Réunion,Malawi,2,8,Friendly,Saint-Paul,Réunion,FALSE
-1985-07-07,Saudi Arabia,Qatar,1,0,UAFA Cup,Ta'if,Saudi Arabia,FALSE
-1985-07-08,Iraq,Mauritania,2,0,UAFA Cup,Ta'if,Saudi Arabia,TRUE
+1985-07-07,Saudi Arabia,Qatar,1,0,Arab Cup,Ta'if,Saudi Arabia,FALSE
+1985-07-08,Iraq,Mauritania,2,0,Arab Cup,Ta'if,Saudi Arabia,TRUE
 1985-07-08,Malawi,Tanzania,2,0,Friendly,Lilongwe,Malawi,FALSE
 1985-07-09,Cape Verde,Angola,0,0,Friendly,Mindelo,Cape Verde,FALSE
 1985-07-09,Kenya,DR Congo,0,1,Friendly,Nairobi,Kenya,FALSE
 1985-07-10,Angola,Guinea-Bissau,3,1,Friendly,Praia,Cape Verde,TRUE
-1985-07-10,Bahrain,Qatar,1,1,UAFA Cup,Ta'if,Saudi Arabia,TRUE
+1985-07-10,Bahrain,Qatar,1,1,Arab Cup,Ta'if,Saudi Arabia,TRUE
 1985-07-10,Iceland,Faroe Islands,9,0,Friendly,Keflavík,Iceland,FALSE
 1985-07-10,Malawi,Tanzania,0,0,Friendly,Mzuzu,Malawi,FALSE
-1985-07-10,Saudi Arabia,Iraq,2,3,UAFA Cup,Ta'if,Saudi Arabia,FALSE
+1985-07-10,Saudi Arabia,Iraq,2,3,Arab Cup,Ta'if,Saudi Arabia,FALSE
 1985-07-11,Fiji,Tahiti,0,1,Friendly,Suva,Fiji,FALSE
-1985-07-12,Bahrain,Iraq,0,1,UAFA Cup,Ta'if,Saudi Arabia,TRUE
+1985-07-12,Bahrain,Iraq,0,1,Arab Cup,Ta'if,Saudi Arabia,TRUE
 1985-07-12,Egypt,Morocco,0,0,FIFA World Cup qualification,Cairo,Egypt,FALSE
 1985-07-12,Iceland,Faroe Islands,1,0,Friendly,Akranes,Iceland,FALSE
-1985-07-12,Saudi Arabia,Qatar,0,0,UAFA Cup,Ta'if,Saudi Arabia,FALSE
+1985-07-12,Saudi Arabia,Qatar,0,0,Arab Cup,Ta'if,Saudi Arabia,FALSE
 1985-07-13,Algeria,Zambia,2,0,FIFA World Cup qualification,Algiers,Algeria,FALSE
 1985-07-14,Fiji,Tahiti,1,2,Friendly,Suva,Fiji,FALSE
 1985-07-14,Ghana,Libya,0,0,FIFA World Cup qualification,Accra,Ghana,FALSE
@@ -14815,7 +14825,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1987-12-10,Cuba,Ghana,1,1,Friendly,Luanda,Angola,TRUE
 1987-12-10,New Caledonia,Papua New Guinea,2,0,South Pacific Games,Nouméa,New Caledonia,FALSE
 1987-12-10,Tahiti,Wallis Islands and Futuna,4,0,South Pacific Games,Nouméa,New Caledonia,TRUE
-1987-12-11,Algeria,Tunisia,0,0,UAFA Cup,Algiers,Algeria,FALSE
+1987-12-11,Algeria,Tunisia,0,0,Arab Cup qualification,Algiers,Algeria,FALSE
 1987-12-11,Chad,Gabon,1,1,UDEAC Cup,N'Djamena,Chad,FALSE
 1987-12-12,American Samoa,Wallis Islands and Futuna,1,5,South Pacific Games,Nouméa,New Caledonia,TRUE
 1987-12-12,Brazil,Germany,1,1,Friendly,Brasília,Brazil,FALSE
@@ -14824,11 +14834,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1987-12-13,Burkina Faso,Mali,2,1,Friendly,Ouagadougou,Burkina Faso,FALSE
 1987-12-13,Ethiopia,Tanzania,0,0,CECAFA Cup,Addis Abeba,Ethiopia,FALSE
 1987-12-13,Malawi,Zimbabwe,1,1,CECAFA Cup,Addis Abeba,Ethiopia,TRUE
-1987-12-13,Mauritania,Tunisia,1,2,UAFA Cup,Algiers,Algeria,TRUE
+1987-12-13,Mauritania,Tunisia,1,2,Arab Cup qualification,Algiers,Algeria,TRUE
 1987-12-13,Togo,Ivory Coast,1,0,Friendly,Lomé,Togo,FALSE
 1987-12-14,Kenya,Zanzibar,0,0,CECAFA Cup,Addis Abeba,Ethiopia,TRUE
 1987-12-14,Uganda,Zambia,4,0,CECAFA Cup,Addis Abeba,Ethiopia,TRUE
-1987-12-15,Algeria,Mauritania,3,0,UAFA Cup,Algiers,Algeria,FALSE
+1987-12-15,Algeria,Mauritania,3,0,Arab Cup qualification,Algiers,Algeria,FALSE
 1987-12-15,American Samoa,Papua New Guinea,0,20,South Pacific Games,Nouméa,New Caledonia,TRUE
 1987-12-15,Chad,Equatorial Guinea,4,0,UDEAC Cup,N'Djamena,Chad,FALSE
 1987-12-15,New Caledonia,Wallis Islands and Futuna,5,1,South Pacific Games,Nouméa,New Caledonia,FALSE
@@ -15132,43 +15142,32 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1988-07-07,Antigua and Barbuda,Trinidad and Tobago,1,1,CFU Caribbean Cup,Fort-de-France,Martinique,TRUE
 1988-07-07,Australia,Brazil,0,1,Friendly,Melbourne,Australia,FALSE
 1988-07-07,Martinique,Guadeloupe,2,1,CFU Caribbean Cup,Fort-de-France,Martinique,FALSE
-1988-07-08,Algeria,Syria,1,1,UAFA Cup,Amman,Jordan,TRUE
-1988-07-08,Jordan,Bahrain,0,0,UAFA Cup,Amman,Jordan,FALSE
+1988-07-08,Jordan,Bahrain,0,0,Arab Cup,Amman,Jordan,FALSE
 1988-07-08,Malawi,Zambia,0,1,Friendly,Lilongwe,Malawi,FALSE
 1988-07-09,Antigua and Barbuda,Guadeloupe,0,0,CFU Caribbean Cup,Fort-de-France,Martinique,TRUE
 1988-07-09,Australia,Saudi Arabia,3,0,Friendly,Sydney,Australia,FALSE
-1988-07-09,Egypt,Saudi Arabia,0,0,UAFA Cup,Amman,Jordan,TRUE
-1988-07-09,Iraq,Tunisia,1,1,UAFA Cup,Amman,Jordan,TRUE
+1988-07-09,Iraq,Tunisia,1,1,Arab Cup,Amman,Jordan,TRUE
 1988-07-09,Martinique,Trinidad and Tobago,0,3,CFU Caribbean Cup,Fort-de-France,Martinique,FALSE
-1988-07-10,Algeria,Bahrain,0,0,UAFA Cup,Amman,Jordan,TRUE
 1988-07-10,Argentina,Brazil,0,0,Friendly,Melbourne,Australia,TRUE
-1988-07-10,Jordan,Kuwait,0,1,UAFA Cup,Amman,Jordan,FALSE
 1988-07-10,Malawi,Zambia,1,1,Friendly,Mzuzu,Malawi,FALSE
-1988-07-11,Iraq,Lebanon,0,0,UAFA Cup,Amman,Jordan,TRUE
-1988-07-11,Saudi Arabia,Tunisia,1,1,UAFA Cup,Amman,Jordan,TRUE
-1988-07-12,Algeria,Kuwait,1,0,UAFA Cup,Amman,Jordan,TRUE
-1988-07-12,Bahrain,Syria,1,2,UAFA Cup,Amman,Jordan,TRUE
+1988-07-11,Iraq,Lebanon,0,0,Arab Cup,Amman,Jordan,TRUE
+1988-07-12,Bahrain,Syria,1,2,Arab Cup,Amman,Jordan,TRUE
 1988-07-13,Brazil,Saudi Arabia,4,1,Friendly,Melbourne,Australia,TRUE
-1988-07-13,Egypt,Tunisia,1,0,UAFA Cup,Amman,Jordan,TRUE
-1988-07-13,Lebanon,Saudi Arabia,1,0,UAFA Cup,Amman,Jordan,TRUE
+1988-07-13,Egypt,Tunisia,1,0,Arab Cup,Amman,Jordan,TRUE
 1988-07-14,Australia,Argentina,4,1,Friendly,Sydney,Australia,FALSE
-1988-07-14,Jordan,Algeria,2,1,UAFA Cup,Amman,Jordan,FALSE
-1988-07-14,Kuwait,Syria,0,1,UAFA Cup,Amman,Jordan,TRUE
 1988-07-15,Canada,Poland,1,2,Friendly,Toronto,Canada,FALSE
-1988-07-15,Egypt,Lebanon,3,0,UAFA Cup,Amman,Jordan,TRUE
-1988-07-15,Iraq,Saudi Arabia,2,0,UAFA Cup,Amman,Jordan,TRUE
+1988-07-15,Egypt,Lebanon,3,0,Arab Cup,Amman,Jordan,TRUE
 1988-07-16,Argentina,Saudi Arabia,2,0,Friendly,Canberra,Australia,TRUE
-1988-07-16,Bahrain,Kuwait,1,1,UAFA Cup,Amman,Jordan,TRUE
-1988-07-16,Jordan,Syria,2,0,UAFA Cup,Amman,Jordan,FALSE
+1988-07-16,Jordan,Syria,2,0,Arab Cup,Amman,Jordan,FALSE
 1988-07-16,Uganda,Malawi,1,0,FIFA World Cup qualification,Kampala,Uganda,FALSE
 1988-07-17,Australia,Brazil,0,2,Friendly,Sydney,Australia,FALSE
 1988-07-17,Costa Rica,Panama,1,1,FIFA World Cup qualification,Alajuela,Costa Rica,FALSE
-1988-07-17,Egypt,Iraq,0,0,UAFA Cup,Amman,Jordan,TRUE
-1988-07-17,Lebanon,Tunisia,1,1,UAFA Cup,Amman,Jordan,TRUE
-1988-07-19,Egypt,Syria,0,0,UAFA Cup,Amman,Jordan,TRUE
-1988-07-19,Jordan,Iraq,0,3,UAFA Cup,Amman,Jordan,FALSE
-1988-07-21,Iraq,Syria,1,1,UAFA Cup,Amman,Jordan,TRUE
-1988-07-21,Jordan,Egypt,0,2,UAFA Cup,Amman,Jordan,FALSE
+1988-07-17,Egypt,Iraq,0,0,Arab Cup,Amman,Jordan,TRUE
+1988-07-17,Lebanon,Tunisia,1,1,Arab Cup,Amman,Jordan,TRUE
+1988-07-19,Egypt,Syria,0,0,Arab Cup,Amman,Jordan,TRUE
+1988-07-19,Jordan,Iraq,0,3,Arab Cup,Amman,Jordan,FALSE
+1988-07-21,Iraq,Syria,1,1,Arab Cup,Amman,Jordan,TRUE
+1988-07-21,Jordan,Egypt,0,2,Arab Cup,Amman,Jordan,FALSE
 1988-07-24,Burkina Faso,Niger,1,0,Friendly,Ouagadougou,Burkina Faso,FALSE
 1988-07-24,Jamaica,United States,0,0,FIFA World Cup qualification,Kingston,Jamaica,FALSE
 1988-07-25,Benin,Ghana,1,1,Friendly,Ouagadougou,Burkina Faso,TRUE
@@ -17264,6 +17263,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1992-09-02,Lithuania,Georgia,1,0,Friendly,Kaunas,Lithuania,FALSE
 1992-09-03,Canada,United States,0,2,Friendly,Saint John,Canada,FALSE
 1992-09-04,Solomon Islands,Australia,1,2,FIFA World Cup qualification,Honiara,Solomon Islands,FALSE
+1992-09-08,Egypt,Jordan,1,1,Arab Cup,Aleppo,Syria,TRUE
+1992-09-09,Syria,Saudi Arabia,1,1,Arab Cup,Aleppo,Syria,FALSE
 1992-09-09,Bulgaria,France,2,0,FIFA World Cup qualification,Sofia,Bulgaria,FALSE
 1992-09-09,Denmark,Germany,1,2,Friendly,Copenhagen,Denmark,FALSE
 1992-09-09,Finland,Sweden,0,1,FIFA World Cup qualification,Helsinki,Finland,FALSE
@@ -17276,10 +17277,18 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1992-09-09,Spain,England,1,0,Friendly,Santander,Spain,FALSE
 1992-09-09,Switzerland,Scotland,3,1,FIFA World Cup qualification,Berne,Switzerland,FALSE
 1992-09-09,Wales,Faroe Islands,6,0,FIFA World Cup qualification,Cardiff,Wales,FALSE
+1992-09-10,Kuwait,Jordan,4,1,Arab Cup,Aleppo,Syria,TRUE
+1992-09-11,Syria,Palestine,0,0,Arab Cup,Aleppo,Syria,FALSE
 1992-09-11,Tahiti,Australia,0,3,FIFA World Cup qualification,Papeete,French Polynesia,TRUE
+1992-09-12,Egypt,Kuwait,1,0,Arab Cup,Aleppo,Syria,TRUE
 1992-09-12,Fiji,Vanuatu,3,0,FIFA World Cup qualification,Nausori,Fiji,FALSE
+1992-09-13,Saudi Arabia,Palestine,2,1,Arab Cup,Aleppo,Syria,TRUE
 1992-09-13,El Salvador,Honduras,3,1,Friendly,San Salvador,El Salvador,FALSE
 1992-09-14,Turkmenistan,Kazakhstan,1,1,Friendly,Ashgabat,Turkmenistan,FALSE
+1992-09-15,Syria,Egypt,0,0,Arab Cup,Aleppo,Syria,FALSE
+1992-09-15,Saudi Arabia,Kuwait,2,0,Arab Cup,Aleppo,Syria,TRUE
+1992-09-17,Syria,Kuwait,1,2,Arab Cup,Aleppo,Syria,FALSE
+1992-09-17,Egypt,Saudi Arabia,3,2,Arab Cup,Aleppo,Syria,TRUE
 1992-09-17,Georgia,Azerbaijan,6,3,Friendly,Gurjaani,Georgia,FALSE
 1992-09-18,Honduras,El Salvador,1,1,Friendly,San Pedro Sula,Honduras,FALSE
 1992-09-20,Australia,Tahiti,2,0,FIFA World Cup qualification,Brisbane,Australia,FALSE
@@ -21501,16 +21510,16 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1998-07-18,Malawi,Zimbabwe,1,0,Friendly,Blantyre,Malawi,FALSE
 1998-07-18,Uganda,Kenya,3,3,Friendly,Kampala,Uganda,FALSE
 1998-07-19,Mozambique,Angola,1,1,COSAFA Cup,Maputo,Mozambique,FALSE
-1998-07-20,Lebanon,Palestine,3,1,UAFA Cup,Beirut,Lebanon,FALSE
+1998-07-20,Lebanon,Palestine,3,1,Arab Cup qualification,Beirut,Lebanon,FALSE
 1998-07-20,Malawi,Zimbabwe,0,0,Friendly,Lilongwe,Malawi,FALSE
-1998-07-20,Syria,Jordan,3,0,UAFA Cup,Beirut,Lebanon,TRUE
+1998-07-20,Syria,Jordan,3,0,Arab Cup qualification,Beirut,Lebanon,TRUE
 1998-07-22,Curaçao,Haiti,0,4,CFU Caribbean Cup,Kingston,Jamaica,TRUE
 1998-07-22,Jamaica,Cayman Islands,4,0,CFU Caribbean Cup,Kingston,Jamaica,FALSE
 1998-07-22,Martinique,Dominica,5,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,TRUE
 1998-07-22,Senegal,Cape Verde,1,0,Friendly,Dakar,Senegal,FALSE
 1998-07-22,Trinidad and Tobago,Antigua and Barbuda,3,2,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,FALSE
-1998-07-23,Lebanon,Jordan,0,2,UAFA Cup,Beirut,Lebanon,FALSE
-1998-07-23,Palestine,Syria,1,2,UAFA Cup,Beirut,Lebanon,TRUE
+1998-07-23,Lebanon,Jordan,0,2,Arab Cup qualification,Beirut,Lebanon,FALSE
+1998-07-23,Palestine,Syria,1,2,Arab Cup qualification,Beirut,Lebanon,TRUE
 1998-07-24,Antigua and Barbuda,Dominica,2,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,TRUE
 1998-07-24,Burkina Faso,Niger,1,0,Friendly,Ouagadougou,Burkina Faso,FALSE
 1998-07-24,Cayman Islands,Haiti,0,1,CFU Caribbean Cup,Kingston,Jamaica,TRUE
@@ -21520,8 +21529,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1998-07-26,Antigua and Barbuda,Martinique,5,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,TRUE
 1998-07-26,Curaçao,Cayman Islands,0,2,CFU Caribbean Cup,Kingston,Jamaica,TRUE
 1998-07-26,Jamaica,Haiti,2,1,CFU Caribbean Cup,Kingston,Jamaica,FALSE
-1998-07-26,Jordan,Palestine,1,1,UAFA Cup,Beirut,Lebanon,TRUE
-1998-07-26,Lebanon,Syria,0,1,UAFA Cup,Beirut,Lebanon,FALSE
+1998-07-26,Jordan,Palestine,1,1,Arab Cup qualification,Beirut,Lebanon,TRUE
+1998-07-26,Lebanon,Syria,0,1,Arab Cup qualification,Beirut,Lebanon,FALSE
 1998-07-26,Niger,Ivory Coast,1,0,Friendly,Niamey,Niger,FALSE
 1998-07-26,Senegal,Mali,3,1,Friendly,Dakar,Senegal,FALSE
 1998-07-26,Trinidad and Tobago,Dominica,8,0,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,FALSE
@@ -21662,29 +21671,29 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1998-09-19,Solomon Islands,Papua New Guinea,2,1,Friendly,Honiara,Solomon Islands,FALSE
 1998-09-20,Togo,Mali,0,1,Friendly,Lomé,Togo,FALSE
 1998-09-22,Oman,Zambia,2,0,Friendly,Muscat,Oman,FALSE
-1998-09-22,Qatar,Libya,2,1,UAFA Cup,Doha,Qatar,FALSE
+1998-09-22,Qatar,Libya,2,1,Arab Cup,Doha,Qatar,FALSE
 1998-09-23,Brazil,Serbia,1,1,Friendly,São Luís,Brazil,FALSE
 1998-09-23,Estonia,Egypt,2,2,Friendly,Tallinn,Estonia,FALSE
 1998-09-23,Spain,Russia,1,0,Friendly,Granada,Spain,FALSE
-1998-09-24,Libya,Jordan,1,2,UAFA Cup,Doha,Qatar,TRUE
+1998-09-24,Libya,Jordan,1,2,Arab Cup,Doha,Qatar,TRUE
 1998-09-24,Oman,Zambia,1,1,Friendly,Muscat,Oman,FALSE
 1998-09-25,Australia,Fiji,3,1,Oceania Nations Cup,Brisbane,Australia,FALSE
 1998-09-25,New Zealand,Tahiti,1,0,Oceania Nations Cup,Brisbane,Australia,TRUE
-1998-09-26,Kuwait,Syria,4,0,UAFA Cup,Doha,Qatar,TRUE
-1998-09-26,Qatar,Jordan,2,0,UAFA Cup,Doha,Qatar,FALSE
+1998-09-26,Kuwait,Syria,4,0,Arab Cup,Doha,Qatar,TRUE
+1998-09-26,Qatar,Jordan,2,0,Arab Cup,Doha,Qatar,FALSE
 1998-09-27,Mali,Burkina Faso,1,0,Friendly,Bamako,Mali,FALSE
-1998-09-27,Saudi Arabia,Lebanon,4,1,UAFA Cup,Doha,Qatar,TRUE
-1998-09-27,United Arab Emirates,Sudan,4,1,UAFA Cup,Doha,Qatar,TRUE
+1998-09-27,Saudi Arabia,Lebanon,4,1,Arab Cup,Doha,Qatar,TRUE
+1998-09-27,United Arab Emirates,Sudan,4,1,Arab Cup,Doha,Qatar,TRUE
 1998-09-27,Zimbabwe,Zambia,0,1,COSAFA Cup,Harare,Zimbabwe,FALSE
 1998-09-28,Australia,Cook Islands,16,0,Oceania Nations Cup,Brisbane,Australia,FALSE
 1998-09-28,New Zealand,Vanuatu,8,1,Oceania Nations Cup,Brisbane,Australia,TRUE
 1998-09-29,North Macedonia,Egypt,2,2,Friendly,Kumanovo,North Macedonia,FALSE
-1998-09-29,Qatar,United Arab Emirates,2,1,UAFA Cup,Doha,Qatar,FALSE
-1998-09-29,Saudi Arabia,Kuwait,2,1,UAFA Cup,Doha,Qatar,TRUE
+1998-09-29,Qatar,United Arab Emirates,2,1,Arab Cup,Doha,Qatar,FALSE
+1998-09-29,Saudi Arabia,Kuwait,2,1,Arab Cup,Doha,Qatar,TRUE
 1998-09-30,Fiji,Cook Islands,3,0,Oceania Nations Cup,Brisbane,Australia,TRUE
 1998-09-30,Tahiti,Vanuatu,5,1,Oceania Nations Cup,Brisbane,Australia,TRUE
-1998-10-01,Kuwait,United Arab Emirates,4,1,UAFA Cup,Doha,Qatar,TRUE
-1998-10-01,Qatar,Saudi Arabia,1,3,UAFA Cup,Doha,Qatar,FALSE
+1998-10-01,Kuwait,United Arab Emirates,4,1,Arab Cup,Doha,Qatar,TRUE
+1998-10-01,Qatar,Saudi Arabia,1,3,Arab Cup,Doha,Qatar,FALSE
 1998-10-02,Australia,Tahiti,4,1,Oceania Nations Cup,Brisbane,Australia,FALSE
 1998-10-02,New Zealand,Fiji,1,0,Oceania Nations Cup,Brisbane,Australia,TRUE
 1998-10-03,Bahrain,Sudan,2,3,Friendly,Manama,Bahrain,FALSE
@@ -25324,49 +25333,49 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2002-12-15,Ghana,Nigeria,0,1,Friendly,Accra,Ghana,FALSE
 2002-12-15,Indonesia,Myanmar,0,0,AFF Championship,Jakarta,Indonesia,FALSE
 2002-12-15,Vietnam,Cambodia,9,2,AFF Championship,Jakarta,Indonesia,TRUE
-2002-12-16,Palestine,Jordan,1,1,UAFA Cup,Kuwait City,Kuwait,TRUE
+2002-12-16,Palestine,Jordan,1,1,Arab Cup,Kuwait City,Kuwait,TRUE
 2002-12-16,United Arab Emirates,Egypt,1,2,Friendly,Abu Dhabi,United Arab Emirates,FALSE
 2002-12-17,Indonesia,Cambodia,4,2,AFF Championship,Jakarta,Indonesia,FALSE
 2002-12-17,Philippines,Myanmar,1,6,AFF Championship,Jakarta,Indonesia,TRUE
-2002-12-17,Saudi Arabia,Bahrain,2,1,UAFA Cup,Kuwait City,Kuwait,TRUE
-2002-12-17,Yemen,Syria,0,4,UAFA Cup,Kuwait City,Kuwait,TRUE
-2002-12-18,Kuwait,Sudan,1,0,UAFA Cup,Kuwait City,Kuwait,FALSE
+2002-12-17,Saudi Arabia,Bahrain,2,1,Arab Cup,Kuwait City,Kuwait,TRUE
+2002-12-17,Yemen,Syria,0,4,Arab Cup,Kuwait City,Kuwait,TRUE
+2002-12-18,Kuwait,Sudan,1,0,Arab Cup,Kuwait City,Kuwait,FALSE
 2002-12-18,Singapore,Malaysia,0,4,AFF Championship,Singapore,Singapore,FALSE
 2002-12-18,Thailand,Laos,5,1,AFF Championship,Singapore,Singapore,TRUE
-2002-12-19,Bahrain,Syria,2,0,UAFA Cup,Kuwait City,Kuwait,TRUE
+2002-12-19,Bahrain,Syria,2,0,Arab Cup,Kuwait City,Kuwait,TRUE
 2002-12-19,Myanmar,Cambodia,5,0,AFF Championship,Jakarta,Indonesia,TRUE
-2002-12-19,Saudi Arabia,Lebanon,1,0,UAFA Cup,Kuwait City,Kuwait,TRUE
+2002-12-19,Saudi Arabia,Lebanon,1,0,Arab Cup,Kuwait City,Kuwait,TRUE
 2002-12-19,Vietnam,Philippines,4,1,AFF Championship,Jakarta,Indonesia,TRUE
-2002-12-20,Jordan,Sudan,2,1,UAFA Cup,Kuwait City,Kuwait,TRUE
+2002-12-20,Jordan,Sudan,2,1,Arab Cup,Kuwait City,Kuwait,TRUE
 2002-12-20,Singapore,Laos,2,1,AFF Championship,Singapore,Singapore,FALSE
 2002-12-20,Thailand,Malaysia,1,3,AFF Championship,Singapore,Singapore,TRUE
-2002-12-21,Bahrain,Yemen,3,1,UAFA Cup,Kuwait City,Kuwait,TRUE
+2002-12-21,Bahrain,Yemen,3,1,Arab Cup,Kuwait City,Kuwait,TRUE
 2002-12-21,Cambodia,Philippines,1,0,AFF Championship,Jakarta,Indonesia,TRUE
 2002-12-21,Indonesia,Vietnam,2,2,AFF Championship,Jakarta,Indonesia,FALSE
-2002-12-21,Syria,Lebanon,4,1,UAFA Cup,Kuwait City,Kuwait,TRUE
+2002-12-21,Syria,Lebanon,4,1,Arab Cup,Kuwait City,Kuwait,TRUE
 2002-12-22,Egypt,Ghana,0,0,Friendly,Cairo,Egypt,FALSE
 2002-12-22,Malaysia,Laos,1,1,AFF Championship,Singapore,Singapore,TRUE
 2002-12-22,Singapore,Thailand,1,1,AFF Championship,Singapore,Singapore,FALSE
 2002-12-23,Myanmar,Vietnam,2,4,AFF Championship,Jakarta,Indonesia,TRUE
 2002-12-23,Indonesia,Philippines,13,1,AFF Championship,Jakarta,Indonesia,FALSE
-2002-12-23,Kuwait,Jordan,1,2,UAFA Cup,Kuwait City,Kuwait,FALSE
-2002-12-23,Sudan,Palestine,2,2,UAFA Cup,Kuwait City,Kuwait,TRUE
-2002-12-24,Lebanon,Yemen,4,2,UAFA Cup,Kuwait City,Kuwait,TRUE
-2002-12-24,Syria,Saudi Arabia,0,3,UAFA Cup,Kuwait City,Kuwait,TRUE
-2002-12-25,Kuwait,Palestine,3,3,UAFA Cup,Kuwait City,Kuwait,FALSE
-2002-12-26,Lebanon,Bahrain,0,0,UAFA Cup,Kuwait City,Kuwait,TRUE
-2002-12-26,Yemen,Saudi Arabia,2,2,UAFA Cup,Kuwait City,Kuwait,TRUE
+2002-12-23,Kuwait,Jordan,1,2,Arab Cup,Kuwait City,Kuwait,FALSE
+2002-12-23,Sudan,Palestine,2,2,Arab Cup,Kuwait City,Kuwait,TRUE
+2002-12-24,Lebanon,Yemen,4,2,Arab Cup,Kuwait City,Kuwait,TRUE
+2002-12-24,Syria,Saudi Arabia,0,3,Arab Cup,Kuwait City,Kuwait,TRUE
+2002-12-25,Kuwait,Palestine,3,3,Arab Cup,Kuwait City,Kuwait,FALSE
+2002-12-26,Lebanon,Bahrain,0,0,Arab Cup,Kuwait City,Kuwait,TRUE
+2002-12-26,Yemen,Saudi Arabia,2,2,Arab Cup,Kuwait City,Kuwait,TRUE
 2002-12-27,Indonesia,Malaysia,1,0,AFF Championship,Jakarta,Indonesia,FALSE
 2002-12-27,Niger,Burkina Faso,1,1,Friendly,Niamey,Niger,FALSE
 2002-12-27,Vietnam,Thailand,0,4,AFF Championship,Jakarta,Indonesia,TRUE
 2002-12-27,Andalusia,Chile,3,2,Friendly,Málaga,Spain,FALSE
-2002-12-28,Jordan,Bahrain,1,2,UAFA Cup,Kuwait City,Kuwait,TRUE
+2002-12-28,Jordan,Bahrain,1,2,Arab Cup,Kuwait City,Kuwait,TRUE
 2002-12-28,Basque Country,North Macedonia,1,1,Friendly,Bilbao,Spain,FALSE
 2002-12-28,Catalonia,China PR,2,0,Friendly,Barcelona,Spain,FALSE
 2002-12-29,Indonesia,Thailand,2,2,AFF Championship,Jakarta,Indonesia,FALSE
 2002-12-29,Niger,Mali,2,2,Friendly,Niamey,Niger,FALSE
 2002-12-29,Vietnam,Malaysia,2,1,AFF Championship,Jakarta,Indonesia,TRUE
-2002-12-30,Saudi Arabia,Bahrain,1,0,UAFA Cup,Kuwait City,Kuwait,TRUE
+2002-12-30,Saudi Arabia,Bahrain,1,0,Arab Cup,Kuwait City,Kuwait,TRUE
 2003-01-10,India,Pakistan,0,1,SAFF Cup,Dhaka,Bangladesh,TRUE
 2003-01-10,Sri Lanka,Afghanistan,1,0,SAFF Cup,Dhaka,Bangladesh,TRUE
 2003-01-11,Bangladesh,Nepal,1,0,SAFF Cup,Dhaka,Bangladesh,FALSE
@@ -28978,20 +28987,20 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2006-12-10,Rwanda,Uganda,0,0,CECAFA Cup,Addis Abeba,Ethiopia,TRUE
 2006-12-10,United Arab Emirates,Slovakia,1,2,Friendly,Abu Dhabi,United Arab Emirates,FALSE
 2006-12-10,Zambia,Sudan,0,0,CECAFA Cup,Addis Abeba,Ethiopia,TRUE
-2006-12-14,Yemen,Comoros,2,0,UAFA Cup qualification,Sana'a,Yemen,FALSE
+2006-12-14,Yemen,Comoros,2,0,Arab Cup qualification,Sana'a,Yemen,FALSE
 2006-12-15,Réunion,Mayotte,3,1,Friendly,Saint-Denis,Réunion,FALSE
-2006-12-17,Djibouti,Comoros,2,4,UAFA Cup qualification,Sana'a,Yemen,TRUE
-2006-12-20,Yemen,Djibouti,4,1,UAFA Cup qualification,Sana'a,Yemen,FALSE
-2006-12-21,Lebanon,Mauritania,0,0,UAFA Cup qualification,Beirut,Lebanon,FALSE
-2006-12-21,Sudan,Somalia,6,1,UAFA Cup qualification,Beirut,Lebanon,TRUE
-2006-12-24,Lebanon,Somalia,4,0,UAFA Cup qualification,Beirut,Lebanon,FALSE
+2006-12-17,Djibouti,Comoros,2,4,Arab Cup qualification,Sana'a,Yemen,TRUE
+2006-12-20,Yemen,Djibouti,4,1,Arab Cup qualification,Sana'a,Yemen,FALSE
+2006-12-21,Lebanon,Mauritania,0,0,Arab Cup qualification,Beirut,Lebanon,FALSE
+2006-12-21,Sudan,Somalia,6,1,Arab Cup qualification,Beirut,Lebanon,TRUE
+2006-12-24,Lebanon,Somalia,4,0,Arab Cup qualification,Beirut,Lebanon,FALSE
 2006-12-24,Singapore,Kazakhstan,0,0,King's Cup,Bangkok,Thailand,TRUE
-2006-12-24,Sudan,Mauritania,2,0,UAFA Cup qualification,Beirut,Lebanon,TRUE
+2006-12-24,Sudan,Mauritania,2,0,Arab Cup qualification,Beirut,Lebanon,TRUE
 2006-12-24,Thailand,Vietnam,2,1,King's Cup,Bangkok,Thailand,FALSE
 2006-12-26,Thailand,Singapore,2,0,King's Cup,Bangkok,Thailand,FALSE
 2006-12-26,Vietnam,Kazakhstan,2,1,King's Cup,Bangkok,Thailand,TRUE
-2006-12-27,Lebanon,Sudan,0,0,UAFA Cup qualification,Beirut,Lebanon,FALSE
-2006-12-27,Somalia,Mauritania,2,8,UAFA Cup qualification,Beirut,Lebanon,TRUE
+2006-12-27,Lebanon,Sudan,0,0,Arab Cup qualification,Beirut,Lebanon,FALSE
+2006-12-27,Somalia,Mauritania,2,8,Arab Cup qualification,Beirut,Lebanon,TRUE
 2006-12-27,Basque Country,Serbia,4,0,Friendly,Bilbao,Spain,FALSE
 2006-12-28,Martinique,Saint Vincent and the Grenadines,2,2,Friendly,Saint-Joseph,Martinique,FALSE
 2006-12-28,Singapore,Vietnam,2,3,King's Cup,Bangkok,Thailand,TRUE
@@ -34355,28 +34364,23 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2012-06-19,Ukraine,England,0,1,UEFA Euro,Donets'k,Ukraine,FALSE
 2012-06-21,Czech Republic,Portugal,0,1,UEFA Euro,Warsaw,Poland,TRUE
 2012-06-22,Germany,Greece,4,2,UEFA Euro,Gdańsk,Poland,TRUE
-2012-06-22,Saudi Arabia,Kuwait,4,0,UAFA Cup,Ta’if,Saudi Arabia,FALSE
-2012-06-23,Libya,Yemen,3,1,UAFA Cup,Jeddah,Saudi Arabia,TRUE
-2012-06-23,Morocco,Bahrain,4,0,UAFA Cup,Jeddah,Saudi Arabia,TRUE
+2012-06-22,Saudi Arabia,Kuwait,4,0,Arab Cup,Ta’if,Saudi Arabia,FALSE
+2012-06-23,Libya,Yemen,3,1,Arab Cup,Jeddah,Saudi Arabia,TRUE
 2012-06-23,Spain,France,2,0,UEFA Euro,Donets'k,Ukraine,TRUE
 2012-06-24,England,Italy,0,0,UEFA Euro,Kyïv,Ukraine,TRUE
-2012-06-24,Iraq,Lebanon,1,0,UAFA Cup,Jeddah,Saudi Arabia,TRUE
-2012-06-25,Kuwait,Palestine,2,0,UAFA Cup,Ta’if,Saudi Arabia,TRUE
-2012-06-26,Bahrain,Yemen,0,2,UAFA Cup,Jeddah,Saudi Arabia,TRUE
-2012-06-26,Libya,Morocco,0,0,UAFA Cup,Jeddah,Saudi Arabia,TRUE
-2012-06-27,Lebanon,Sudan,0,2,UAFA Cup,Jeddah,Saudi Arabia,TRUE
+2012-06-24,Iraq,Lebanon,1,0,Arab Cup,Jeddah,Saudi Arabia,TRUE
+2012-06-25,Kuwait,Palestine,2,0,Arab Cup,Ta’if,Saudi Arabia,TRUE
+2012-06-26,Bahrain,Yemen,0,2,Arab Cup,Jeddah,Saudi Arabia,TRUE
+2012-06-27,Lebanon,Sudan,0,2,Arab Cup,Jeddah,Saudi Arabia,TRUE
 2012-06-27,Portugal,Spain,0,0,UEFA Euro,Donets'k,Ukraine,TRUE
 2012-06-28,Germany,Italy,1,2,UEFA Euro,Warsaw,Poland,TRUE
-2012-06-28,Saudi Arabia,Palestine,2,2,UAFA Cup,Ta’if,Saudi Arabia,FALSE
-2012-06-29,Libya,Bahrain,2,1,UAFA Cup,Ta’if,Saudi Arabia,TRUE
-2012-06-29,Yemen,Morocco,0,4,UAFA Cup,Jeddah,Saudi Arabia,TRUE
+2012-06-28,Saudi Arabia,Palestine,2,2,Arab Cup,Ta’if,Saudi Arabia,FALSE
+2012-06-29,Libya,Bahrain,2,1,Arab Cup,Ta’if,Saudi Arabia,TRUE
 2012-06-30,Central African Republic,Egypt,1,1,African Cup of Nations qualification,Bangui,Central African Republic,FALSE
-2012-06-30,Sudan,Iraq,1,1,UAFA Cup,Jeddah,Saudi Arabia,TRUE
+2012-06-30,Sudan,Iraq,1,1,Arab Cup,Jeddah,Saudi Arabia,TRUE
 2012-07-01,Spain,Italy,4,0,UEFA Euro,Kyïv,Ukraine,TRUE
-2012-07-03,Morocco,Iraq,2,1,UAFA Cup,Jeddah,Saudi Arabia,TRUE
-2012-07-03,Saudi Arabia,Libya,0,2,UAFA Cup,Jeddah,Saudi Arabia,FALSE
-2012-07-05,Saudi Arabia,Iraq,0,1,UAFA Cup,Jeddah,Saudi Arabia,FALSE
-2012-07-06,Libya,Morocco,1,1,UAFA Cup,Jeddah,Saudi Arabia,TRUE
+2012-07-03,Saudi Arabia,Libya,0,2,Arab Cup,Jeddah,Saudi Arabia,FALSE
+2012-07-05,Saudi Arabia,Iraq,0,1,Arab Cup,Jeddah,Saudi Arabia,FALSE
 2012-07-06,Malawi,Zambia,1,0,Friendly,Blantyre,Malawi,FALSE
 2012-07-07,British Virgin Islands,Anguilla,1,0,Friendly,Road Town,British Virgin Islands,FALSE
 2012-07-10,South Sudan,Uganda,2,2,Friendly,Juba,South Sudan,FALSE
@@ -40301,7 +40305,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-10-13,North Macedonia,Liechtenstein,4,1,UEFA Nations League,Skopje,North Macedonia,FALSE
 2018-10-13,China PR,India,0,0,Friendly,Suzhou,China PR,FALSE
 2018-10-13,Myanmar,Bolivia,0,3,Friendly,Yangon,Myanmar,FALSE
-2018-10-13,Oman,Philippines,1,1,Friendly,Al Rayyan,Oman,FALSE
+2018-10-13,Oman,Philippines,1,1,Friendly,Al Rayyan,Qatar,TRUE
 2018-10-13,Uzbekistan,North Korea,2,0,Friendly,Tashkent,Uzbekistan,FALSE
 2018-10-13,Equatorial Guinea,Madagascar,0,1,African Cup of Nations qualification,Bata,Equatorial Guinea,FALSE
 2018-10-13,Nigeria,Libya,4,0,African Cup of Nations qualification,Uyo,Nigeria,FALSE
@@ -42434,33 +42438,32 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-06-19,Spain,Poland,1,1,UEFA Euro,Seville,Spain,FALSE
 2021-06-19,Hungary,France,1,1,UEFA Euro,Budapest,Hungary,FALSE
 2021-06-19,Germany,Portugal,4,2,UEFA Euro,Munich,Germany,FALSE
-2021-06-19,Libya,Sudan,0,1,FIFA Arab Cup qualification,Doha,Qatar,TRUE
+2021-06-19,Libya,Sudan,0,1,Arab Cup qualification,Doha,Qatar,TRUE
 2021-06-20,Italy,Wales,1,0,UEFA Euro,Rome,Italy,FALSE
 2021-06-20,Switzerland,Turkey,3,1,UEFA Euro,Baku,Azerbaijan,TRUE
 2021-06-20,Venezuela,Ecuador,2,2,Copa América,Rio de Janeiro,Brazil,TRUE
 2021-06-20,Colombia,Peru,1,2,Copa América,Goiânia,Brazil,TRUE
-2021-06-20,Oman,Somalia,2,1,FIFA Arab Cup qualification,Doha,Qatar,TRUE
+2021-06-20,Oman,Somalia,2,1,Arab Cup qualification,Doha,Qatar,TRUE
 2021-06-21,Denmark,Russia,4,1,UEFA Euro,Copenhagen,Denmark,FALSE
 2021-06-21,Finland,Belgium,0,2,UEFA Euro,Saint Petersburg,Russia,TRUE
 2021-06-21,Netherlands,North Macedonia,3,0,UEFA Euro,Amsterdam,Netherlands,FALSE
 2021-06-21,Ukraine,Austria,0,1,UEFA Euro,Bucharest,Romania,TRUE
 2021-06-21,Uruguay,Chile,1,1,Copa América,Cuiaba,Brazil,TRUE
 2021-06-21,Argentina,Paraguay,1,0,Copa América,Brasilia,Brazil,TRUE
-2021-06-21,Jordan,South Sudan,3,0,FIFA Arab Cup qualification,Doha,Qatar,TRUE
 2021-06-22,Scotland,Croatia,1,3,UEFA Euro,Glasgow,Scotland,FALSE
 2021-06-22,England,Czech Republic,1,0,UEFA Euro,London,England,FALSE
-2021-06-22,Mauritania,Yemen,2,0,FIFA Arab Cup qualification,Doha,Qatar,TRUE
+2021-06-22,Mauritania,Yemen,2,0,Arab Cup qualification,Doha,Qatar,TRUE
 2021-06-23,Spain,Slovakia,5,0,UEFA Euro,Seville,Spain,FALSE
 2021-06-23,Sweden,Poland,3,2,UEFA Euro,Saint Petersburg,Russia,TRUE
 2021-06-23,Germany,Hungary,2,2,UEFA Euro,Munich,Germany,FALSE
 2021-06-23,Portugal,France,2,2,UEFA Euro,Budapest,Hungary,TRUE
 2021-06-23,Ecuador,Peru,2,2,Copa América,Goiânia,Brazil,TRUE
 2021-06-23,Brazil,Colombia,2,1,Copa América,Rio de Janeiro,Brazil,FALSE
-2021-06-23,Lebanon,Djibouti,1,0,FIFA Arab Cup qualification,Doha,Qatar,TRUE
+2021-06-23,Lebanon,Djibouti,1,0,Arab Cup qualification,Doha,Qatar,TRUE
 2021-06-24,Bolivia,Uruguay,0,2,Copa América,Cuiaba,Brazil,TRUE
 2021-06-24,Chile,Paraguay,0,2,Copa América,Brasilia,Brazil,TRUE
-2021-06-24,Palestine,Comoros,5,1,FIFA Arab Cup qualification,Doha,Qatar,TRUE
-2021-06-25,Bahrain,Kuwait,2,0,FIFA Arab Cup qualification,Doha,Qatar,TRUE
+2021-06-24,Palestine,Comoros,5,1,Arab Cup qualification,Doha,Qatar,TRUE
+2021-06-25,Bahrain,Kuwait,2,0,Arab Cup qualification,Doha,Qatar,TRUE
 2021-06-26,Italy,Austria,2,1,UEFA Euro,London,England,TRUE
 2021-06-26,Wales,Denmark,0,4,UEFA Euro,Amsterdam,Netherlands,TRUE
 2021-06-27,Netherlands,Czech Republic,0,2,UEFA Euro,Budapest,Hungary,TRUE
@@ -42916,7 +42919,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-11-11,Tanzania,DR Congo,0,3,FIFA World Cup qualification,Dar es Salaam,Tanzania,FALSE
 2021-11-11,Benin,Madagascar,2,0,FIFA World Cup qualification,Cotonou,Benin,FALSE
 2021-11-11,Lebanon,Iran,1,2,FIFA World Cup qualification,Sidon,Lebanon,FALSE
-2021-11-11,Iraq,Syria,1,1,FIFA World Cup qualification,Al Rayyan,Oman,TRUE
+2021-11-11,Iraq,Syria,1,1,FIFA World Cup qualification,Al Rayyan,Qatar,TRUE
 2021-11-11,South Korea,United Arab Emirates,1,0,FIFA World Cup qualification,Goyang,South Korea,FALSE
 2021-11-11,China PR,Oman,1,1,FIFA World Cup qualification,Sharjah,United Arab Emirates,TRUE
 2021-11-11,Vietnam,Japan,0,1,FIFA World Cup qualification,Hanoi,Vietnam,FALSE
@@ -43022,7 +43025,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-11-16,Libya,Angola,1,1,FIFA World Cup qualification,Benghazi,Libya,FALSE
 2021-11-16,Morocco,Guinea,3,0,FIFA World Cup qualification,Casablanca,Morocco,FALSE
 2021-11-16,Lebanon,United Arab Emirates,0,1,FIFA World Cup qualification,Sidon,Lebanon,FALSE
-2021-11-16,Iraq,South Korea,0,3,FIFA World Cup qualification,Al Rayyan,Oman,TRUE
+2021-11-16,Iraq,South Korea,0,3,FIFA World Cup qualification,Al Rayyan,Qatar,TRUE
 2021-11-16,Syria,Iran,0,3,FIFA World Cup qualification,Amman,Jordan,TRUE
 2021-11-16,China PR,Australia,1,1,FIFA World Cup qualification,Sharjah,United Arab Emirates,TRUE
 2021-11-16,Vietnam,Saudi Arabia,0,1,FIFA World Cup qualification,Hanoi,Vietnam,FALSE
@@ -43044,3 +43047,36 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-11-16,Argentina,Brazil,0,0,FIFA World Cup qualification,San Juan,Argentina,FALSE
 2021-11-16,Chile,Ecuador,0,2,FIFA World Cup qualification,Santiago,Chile,FALSE
 2021-11-19,Sri Lanka,Seychelles,3,3,Mahinda Rajapaksa Cup,Columbo,Sri Lanka,FALSE
+2021-11-25,Indonesia,Myanmar,4,1,Friendly,Antalya,Turkey,TRUE
+2021-11-30,Iraq,Oman,1,1,Arab Cup,Al Wakrah,Qatar,TRUE
+2021-11-30,Qatar,Bahrain,1,0,Arab Cup,Al Khor,Qatar,FALSE
+2021-11-30,Tunisia,Mauritania,5,1,Arab Cup,Al Rayyan,Qatar,TRUE
+2021-11-30,United Arab Emirates,Syria,2,1,Arab Cup,Doha,Qatar,TRUE
+2021-12-01,Morocco,Palestine,4,0,Arab Cup,Al Wakrah,Qatar,TRUE
+2021-12-01,Saudi Arabia,Jordan,0,1,Arab Cup,Al Rayyan,Qatar,TRUE
+2021-12-01,Algeria,Sudan,4,0,Arab Cup,Al Rayyan,Qatar,TRUE
+2021-12-01,Egypt,Lebanon,1,0,Arab Cup,Doha,Qatar,TRUE
+2021-12-03,Bahrain,Iraq,0,0,Arab Cup,Doha,Qatar,TRUE
+2021-12-03,Qatar,Oman,2,1,Arab Cup,Al Rayyan,Qatar,FALSE
+2021-12-03,Mauritania,United Arab Emirates,0,1,Arab Cup,Doha,Qatar,TRUE
+2021-12-03,Syria,Tunisia,2,0,Arab Cup,Al Khor,Qatar,TRUE
+2021-12-04,Jordan,Morocco,0,4,Arab Cup,Al Rayyan,Qatar,TRUE
+2021-12-04,Palestine,Saudi Arabia,1,1,Arab Cup,Al Rayyan,Qatar,TRUE
+2021-12-04,Lebanon,Algeria,0,2,Arab Cup,Al Wakrah,Qatar,TRUE
+2021-12-04,Sudan,Egypt,0,5,Arab Cup,Doha,Qatar,TRUE
+2021-12-06,Oman,Bahrain,3,0,Arab Cup,Al Rayyan,Qatar,TRUE
+2021-12-06,Qatar,Iraq,3,0,Arab Cup,Al Khor,Qatar,FALSE
+2021-12-06,Syria,Mauritania,1,2,Arab Cup,Al Wakrah,Qatar,TRUE
+2021-12-06,Tunisia,United Arab Emirates,1,0,Arab Cup,Doha,Qatar,TRUE
+2021-12-07,Jordan,Palestine,5,1,Arab Cup,Doha,Qatar,TRUE
+2021-12-07,Morocco,Saudi Arabia,1,0,Arab Cup,Doha,Qatar,TRUE
+2021-12-07,Algeria,Egypt,1,1,Arab Cup,Al Wakrah,Qatar,TRUE
+2021-12-07,Lebanon,Sudan,1,0,Arab Cup,Al Rayyan,Qatar,TRUE
+2021-12-10,Tunisia,Oman,2,1,Arab Cup,Al Rayyan,Qatar,TRUE
+2021-12-10,Qatar,United Arab Emirates,5,0,Arab Cup,Al Khor,Qatar,FALSE
+2021-12-11,Egypt,Jordan,NA,NA,Arab Cup,Al Wakrah,Qatar,TRUE
+2021-12-11,Morocco,Algeria,NA,NA,Arab Cup,Doha,Qatar,TRUE
+2021-12-15,Tunisia,NA,NA,NA,Arab Cup,Doha,Qatar,TRUE
+2021-12-15,Qatar,NA,NA,NA,Arab Cup,Doha,Qatar,FALSE
+2021-12-18,NA,NA,NA,NA,Arab Cup,Doha,Qatar,NA
+2021-12-18,NA,NA,NA,NA,Arab Cup,Al Khor,Qatar,NA
