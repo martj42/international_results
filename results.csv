@@ -43077,11 +43077,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-12-09,Tanzania,Uganda,0,2,Friendly,Dar es Salaam,Tanzania,FALSE
 2021-12-10,Tunisia,Oman,2,1,Arab Cup,Al Rayyan,Qatar,TRUE
 2021-12-10,Qatar,United Arab Emirates,5,0,Arab Cup,Al Khor,Qatar,FALSE
-2021-12-11,Egypt,Jordan,NA,NA,Arab Cup,Al Wakrah,Qatar,TRUE
-2021-12-11,Morocco,Algeria,NA,NA,Arab Cup,Doha,Qatar,TRUE
-2021-12-11,El Salvador,Chile,NA,NA,Friendly,Los Angeles,United States,TRUE
-2021-12-15,Tunisia,NA,NA,NA,Arab Cup,Doha,Qatar,TRUE
-2021-12-15,Qatar,NA,NA,NA,Arab Cup,Doha,Qatar,FALSE
-2021-12-18,NA,NA,NA,NA,Arab Cup,Doha,Qatar,NA
-2021-12-18,NA,NA,NA,NA,Arab Cup,Al Khor,Qatar,NA
-2021-12-18,United States,Bosnia and Herzegovina,NA,NA,Friendly,Los Angeles,United States,FALSE
+2021-12-11,Egypt,Jordan,3,1,Arab Cup,Al Wakrah,Qatar,TRUE
+2021-12-11,Morocco,Algeria,2,2,Arab Cup,Doha,Qatar,TRUE
+2021-12-11,El Salvador,Chile,0,1,Friendly,Los Angeles,United States,TRUE
+2021-12-15,Tunisia,Egypt,1,0,Arab Cup,Doha,Qatar,TRUE
+2021-12-15,Qatar,Algeria,1,2,Arab Cup,Doha,Qatar,FALSE
+2021-12-18,Qatar,Egypt,0,0,Arab Cup,Doha,Qatar,FALSE
+2021-12-18,Tunisia,Algeria,0,2,Arab Cup,Al Khor,Qatar,TRUE
+2021-12-18,United States,Bosnia and Herzegovina,1,0,Friendly,Los Angeles,United States,FALSE
