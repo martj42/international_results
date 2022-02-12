@@ -18,7 +18,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1881-02-26,England,Wales,0,1,Friendly,Blackburn,England,FALSE
 1881-03-12,England,Scotland,1,6,Friendly,London,England,FALSE
 1881-03-14,Wales,Scotland,1,5,Friendly,Wrexham,Wales,FALSE
-1882-02-18,Northern Ireland,England,0,13,Friendly,Belfast,Republic of Ireland,FALSE
+1882-02-18,Northern Ireland,England,0,13,Friendly,Belfast,Ireland,FALSE
 1882-02-25,Wales,Northern Ireland,7,1,Friendly,Wrexham,Wales,FALSE
 1882-03-11,Scotland,England,5,1,Friendly,Glasgow,Scotland,FALSE
 1882-03-13,Wales,England,5,3,Friendly,Wrexham,Wales,FALSE
@@ -27,10 +27,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1883-02-24,England,Northern Ireland,7,0,Friendly,Liverpool,England,FALSE
 1883-03-10,England,Scotland,2,3,Friendly,Sheffield,England,FALSE
 1883-03-12,Wales,Scotland,0,3,Friendly,Wrexham,Wales,FALSE
-1883-03-17,Northern Ireland,Wales,1,1,Friendly,Belfast,Republic of Ireland,FALSE
-1884-01-26,Northern Ireland,Scotland,0,5,British Championship,Belfast,Republic of Ireland,FALSE
+1883-03-17,Northern Ireland,Wales,1,1,Friendly,Belfast,Ireland,FALSE
+1884-01-26,Northern Ireland,Scotland,0,5,British Championship,Belfast,Ireland,FALSE
 1884-02-09,Wales,Northern Ireland,6,0,British Championship,Wrexham,Wales,FALSE
-1884-02-23,Northern Ireland,England,1,8,British Championship,Belfast,Republic of Ireland,FALSE
+1884-02-23,Northern Ireland,England,1,8,British Championship,Belfast,Ireland,FALSE
 1884-03-15,Scotland,England,1,0,British Championship,Glasgow,Scotland,FALSE
 1884-03-17,Wales,England,0,4,British Championship,Wrexham,Wales,FALSE
 1884-03-29,Scotland,Wales,4,1,British Championship,Glasgow,Scotland,FALSE
@@ -39,11 +39,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1885-03-14,Scotland,Northern Ireland,8,2,British Championship,Glasgow,Scotland,FALSE
 1885-03-21,England,Scotland,1,1,British Championship,London,England,FALSE
 1885-03-23,Wales,Scotland,1,8,British Championship,Wrexham,Wales,FALSE
-1885-04-11,Northern Ireland,Wales,2,8,British Championship,Belfast,Republic of Ireland,FALSE
+1885-04-11,Northern Ireland,Wales,2,8,British Championship,Belfast,Ireland,FALSE
 1885-11-28,United States,Canada,0,1,Friendly,Newark,United States,FALSE
 1886-02-27,Wales,Northern Ireland,5,0,British Championship,Wrexham,Wales,FALSE
-1886-03-13,Northern Ireland,England,1,6,British Championship,Belfast,Republic of Ireland,FALSE
-1886-03-20,Northern Ireland,Scotland,2,7,British Championship,Belfast,Republic of Ireland,FALSE
+1886-03-13,Northern Ireland,England,1,6,British Championship,Belfast,Ireland,FALSE
+1886-03-20,Northern Ireland,Scotland,2,7,British Championship,Belfast,Ireland,FALSE
 1886-03-27,Scotland,England,1,1,British Championship,Glasgow,Scotland,FALSE
 1886-03-29,Wales,England,1,3,British Championship,Wrexham,Wales,FALSE
 1886-04-10,Scotland,Wales,4,1,British Championship,Glasgow,Scotland,FALSE
@@ -51,38 +51,38 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1887-02-05,England,Northern Ireland,7,0,British Championship,Sheffield,England,FALSE
 1887-02-19,Scotland,Northern Ireland,4,1,British Championship,Glasgow,Scotland,FALSE
 1887-02-26,England,Wales,4,0,British Championship,London,England,FALSE
-1887-03-12,Northern Ireland,Wales,4,1,British Championship,Belfast,Republic of Ireland,FALSE
+1887-03-12,Northern Ireland,Wales,4,1,British Championship,Belfast,Ireland,FALSE
 1887-03-19,England,Scotland,2,3,British Championship,Blackburn,England,FALSE
 1887-03-21,Wales,Scotland,0,2,British Championship,Wrexham,Wales,FALSE
 1888-02-04,England,Wales,5,1,British Championship,Crewe,England,FALSE
 1888-03-03,Wales,Northern Ireland,11,0,British Championship,Wrexham,Wales,FALSE
 1888-03-10,Scotland,Wales,5,1,British Championship,Edinburgh,Scotland,FALSE
 1888-03-17,Scotland,England,0,5,British Championship,Glasgow,Scotland,FALSE
-1888-03-24,Northern Ireland,Scotland,2,10,British Championship,Belfast,Republic of Ireland,FALSE
-1888-04-07,Northern Ireland,England,1,5,British Championship,Belfast,Republic of Ireland,FALSE
+1888-03-24,Northern Ireland,Scotland,2,10,British Championship,Belfast,Ireland,FALSE
+1888-04-07,Northern Ireland,England,1,5,British Championship,Belfast,Ireland,FALSE
 1888-09-19,Scotland,Canada,4,0,Friendly,Glasgow,Scotland,FALSE
 1889-02-23,England,Wales,4,1,British Championship,Stoke-on-Trent,England,FALSE
 1889-03-02,England,Northern Ireland,6,1,British Championship,Liverpool,England,FALSE
 1889-03-09,Scotland,Northern Ireland,7,0,British Championship,Glasgow,Scotland,FALSE
 1889-04-13,England,Scotland,2,3,British Championship,London,England,FALSE
 1889-04-15,Wales,Scotland,0,0,British Championship,Wrexham,Wales,FALSE
-1889-04-27,Northern Ireland,Wales,1,3,British Championship,Belfast,Republic of Ireland,FALSE
+1889-04-27,Northern Ireland,Wales,1,3,British Championship,Belfast,Ireland,FALSE
 1890-02-08,Wales,Northern Ireland,5,2,British Championship,Shrewsbury,England,TRUE
-1890-03-15,Northern Ireland,England,1,9,British Championship,Belfast,Republic of Ireland,FALSE
+1890-03-15,Northern Ireland,England,1,9,British Championship,Belfast,Ireland,FALSE
 1890-03-15,Wales,England,1,3,British Championship,Wrexham,Wales,FALSE
 1890-03-22,Scotland,Wales,5,0,British Championship,Paisley,Scotland,FALSE
-1890-03-29,Northern Ireland,Scotland,1,4,British Championship,Belfast,Republic of Ireland,FALSE
+1890-03-29,Northern Ireland,Scotland,1,4,British Championship,Belfast,Ireland,FALSE
 1890-04-05,Scotland,England,1,1,British Championship,Glasgow,Scotland,FALSE
-1891-02-07,Northern Ireland,Wales,7,2,British Championship,Belfast,Republic of Ireland,FALSE
+1891-02-07,Northern Ireland,Wales,7,2,British Championship,Belfast,Ireland,FALSE
 1891-03-07,England,Wales,4,1,British Championship,Sunderland,England,FALSE
 1891-03-07,England,Northern Ireland,6,1,British Championship,Wolverhampton,England,FALSE
 1891-03-21,Wales,Scotland,3,4,British Championship,Wrexham,Wales,FALSE
 1891-03-28,Scotland,Northern Ireland,2,1,British Championship,Glasgow,Scotland,FALSE
 1891-04-06,England,Scotland,2,1,British Championship,Blackburn,England,FALSE
 1892-02-27,Wales,Northern Ireland,1,1,British Championship,Bangor,Wales,FALSE
-1892-03-05,Northern Ireland,England,0,2,British Championship,Belfast,Republic of Ireland,FALSE
+1892-03-05,Northern Ireland,England,0,2,British Championship,Belfast,Ireland,FALSE
 1892-03-05,Wales,England,0,2,British Championship,Wrexham,Wales,FALSE
-1892-03-19,Northern Ireland,Scotland,2,3,British Championship,Belfast,Republic of Ireland,FALSE
+1892-03-19,Northern Ireland,Scotland,2,3,British Championship,Belfast,Ireland,FALSE
 1892-03-26,Scotland,Wales,6,1,British Championship,Edinburgh,Scotland,FALSE
 1892-04-02,Scotland,England,1,4,British Championship,Glasgow,Scotland,FALSE
 1893-02-25,England,Northern Ireland,6,1,British Championship,Birmingham,England,FALSE
@@ -91,58 +91,58 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1893-03-25,Scotland,Northern Ireland,6,1,British Championship,Glasgow,Scotland,FALSE
 1893-04-01,England,Scotland,5,2,British Championship,Richmond,England,FALSE
 1894-02-24,Wales,Northern Ireland,4,1,British Championship,Swansea,Wales,FALSE
-1894-03-03,Northern Ireland,England,2,2,British Championship,Belfast,Republic of Ireland,FALSE
+1894-03-03,Northern Ireland,England,2,2,British Championship,Belfast,Ireland,FALSE
 1894-03-12,Wales,England,1,5,British Championship,Wrexham,Wales,FALSE
 1894-03-24,Scotland,Wales,5,2,British Championship,Kilmarnock,Scotland,FALSE
-1894-03-31,Northern Ireland,Scotland,1,2,British Championship,Belfast,Republic of Ireland,FALSE
+1894-03-31,Northern Ireland,Scotland,1,2,British Championship,Belfast,Ireland,FALSE
 1894-04-07,Scotland,England,2,2,British Championship,Glasgow,Scotland,FALSE
 1895-03-09,England,Northern Ireland,9,0,British Championship,Derby,England,FALSE
-1895-03-16,Northern Ireland,Wales,2,2,British Championship,Belfast,Republic of Ireland,FALSE
+1895-03-16,Northern Ireland,Wales,2,2,British Championship,Belfast,Ireland,FALSE
 1895-03-18,England,Wales,1,1,British Championship,London,England,FALSE
 1895-03-23,Wales,Scotland,2,2,British Championship,Wrexham,Wales,FALSE
 1895-03-30,Scotland,Northern Ireland,3,1,British Championship,Glasgow,Scotland,FALSE
 1895-04-06,England,Scotland,3,0,British Championship,Liverpool,England,FALSE
 1896-02-29,Wales,Northern Ireland,6,1,British Championship,Wrexham,Wales,FALSE
-1896-03-07,Northern Ireland,England,0,2,British Championship,Belfast,Republic of Ireland,FALSE
+1896-03-07,Northern Ireland,England,0,2,British Championship,Belfast,Ireland,FALSE
 1896-03-16,Wales,England,1,9,British Championship,Cardiff,Wales,FALSE
 1896-03-21,Scotland,Wales,4,0,British Championship,Dundee,Scotland,FALSE
-1896-03-28,Northern Ireland,Scotland,3,3,British Championship,Belfast,Republic of Ireland,FALSE
+1896-03-28,Northern Ireland,Scotland,3,3,British Championship,Belfast,Ireland,FALSE
 1896-04-04,Scotland,England,2,1,British Championship,Glasgow,Scotland,FALSE
 1897-02-20,England,Northern Ireland,6,0,British Championship,Nottingham,England,FALSE
-1897-03-06,Northern Ireland,Wales,4,3,British Championship,Belfast,Republic of Ireland,FALSE
+1897-03-06,Northern Ireland,Wales,4,3,British Championship,Belfast,Ireland,FALSE
 1897-03-20,Wales,Scotland,2,2,British Championship,Wrexham,Wales,FALSE
 1897-03-27,Scotland,Northern Ireland,5,1,British Championship,Glasgow,Scotland,FALSE
 1897-03-29,England,Wales,4,0,British Championship,Sheffield,England,FALSE
 1897-04-03,England,Scotland,1,2,British Championship,London,England,FALSE
 1898-02-19,Wales,Northern Ireland,0,1,British Championship,Llandudno,Wales,FALSE
-1898-03-05,Northern Ireland,England,2,3,British Championship,Belfast,Republic of Ireland,FALSE
+1898-03-05,Northern Ireland,England,2,3,British Championship,Belfast,Ireland,FALSE
 1898-03-19,Scotland,Wales,5,2,British Championship,Motherwell,Scotland,FALSE
-1898-03-26,Northern Ireland,Scotland,0,3,British Championship,Belfast,Republic of Ireland,FALSE
+1898-03-26,Northern Ireland,Scotland,0,3,British Championship,Belfast,Ireland,FALSE
 1898-03-28,Wales,England,0,3,British Championship,Wrexham,Wales,FALSE
 1898-04-02,Scotland,England,1,3,British Championship,Glasgow,Scotland,FALSE
 1899-02-18,England,Northern Ireland,13,2,British Championship,Sunderland,England,FALSE
-1899-03-04,Northern Ireland,Wales,1,0,British Championship,Belfast,Republic of Ireland,FALSE
+1899-03-04,Northern Ireland,Wales,1,0,British Championship,Belfast,Ireland,FALSE
 1899-03-18,Wales,Scotland,0,6,British Championship,Wrexham,Wales,FALSE
 1899-03-20,England,Wales,4,0,British Championship,Bristol,England,FALSE
 1899-03-25,Scotland,Northern Ireland,9,1,British Championship,Glasgow,Scotland,FALSE
 1899-04-08,England,Scotland,2,1,British Championship,Birmingham,England,FALSE
 1900-02-03,Scotland,Wales,5,2,British Championship,Aberdeen,Scotland,FALSE
 1900-02-24,Wales,Northern Ireland,2,0,British Championship,Llandudno,Wales,FALSE
-1900-03-03,Northern Ireland,Scotland,0,3,British Championship,Belfast,Republic of Ireland,FALSE
-1900-03-17,Northern Ireland,England,0,2,British Championship,Dublin,Republic of Ireland,FALSE
+1900-03-03,Northern Ireland,Scotland,0,3,British Championship,Belfast,Ireland,FALSE
+1900-03-17,Northern Ireland,England,0,2,British Championship,Dublin,Ireland,FALSE
 1900-03-26,Wales,England,1,1,British Championship,Cardiff,Wales,FALSE
 1900-04-07,Scotland,England,4,1,British Championship,Glasgow,Scotland,FALSE
 1901-02-23,Scotland,Northern Ireland,11,0,British Championship,Glasgow,Scotland,FALSE
 1901-03-02,Wales,Scotland,1,1,British Championship,Wrexham,Wales,FALSE
 1901-03-09,England,Northern Ireland,3,0,British Championship,Southampton,England,FALSE
 1901-03-18,England,Wales,6,0,British Championship,Newcastle,England,FALSE
-1901-03-23,Northern Ireland,Wales,0,1,British Championship,Belfast,Republic of Ireland,FALSE
+1901-03-23,Northern Ireland,Wales,0,1,British Championship,Belfast,Ireland,FALSE
 1901-03-30,England,Scotland,2,2,British Championship,London,England,FALSE
 1902-02-22,Wales,Northern Ireland,0,3,British Championship,Cardiff,Wales,FALSE
-1902-03-01,Northern Ireland,Scotland,1,5,British Championship,Belfast,Republic of Ireland,FALSE
+1902-03-01,Northern Ireland,Scotland,1,5,British Championship,Belfast,Ireland,FALSE
 1902-03-03,Wales,England,0,0,British Championship,Wrexham,Wales,FALSE
 1902-03-15,Scotland,Wales,5,1,British Championship,Greenock,Scotland,FALSE
-1902-03-22,Northern Ireland,England,0,1,British Championship,Belfast,Republic of Ireland,FALSE
+1902-03-22,Northern Ireland,England,0,1,British Championship,Belfast,Ireland,FALSE
 1902-05-03,England,Scotland,2,2,British Championship,Birmingham,England,FALSE
 1902-07-20,Uruguay,Argentina,0,6,Friendly,Montevideo,Uruguay,FALSE
 1902-10-12,Austria,Hungary,5,0,Friendly,Vienna,Austria,FALSE
@@ -150,17 +150,17 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1903-03-02,England,Wales,2,1,British Championship,Portsmouth,England,FALSE
 1903-03-09,Wales,Scotland,0,1,British Championship,Cardiff,Wales,FALSE
 1903-03-21,Scotland,Northern Ireland,0,2,British Championship,Glasgow,Scotland,FALSE
-1903-03-28,Northern Ireland,Wales,2,0,British Championship,Belfast,Republic of Ireland,FALSE
+1903-03-28,Northern Ireland,Wales,2,0,British Championship,Belfast,Ireland,FALSE
 1903-04-04,England,Scotland,1,2,British Championship,Sheffield,England,FALSE
 1903-04-05,Hungary,Czechoslovakia,2,1,Friendly,Budapest,Hungary,FALSE
 1903-06-11,Hungary,Austria,3,2,Friendly,Budapest,Hungary,FALSE
 1903-09-13,Argentina,Uruguay,2,3,Friendly,Buenos Aires,Argentina,FALSE
 1903-10-11,Austria,Hungary,4,2,Friendly,Vienna,Austria,FALSE
 1904-02-29,Wales,England,2,2,British Championship,Wrexham,Wales,FALSE
-1904-03-12,Northern Ireland,England,1,3,British Championship,Belfast,Republic of Ireland,FALSE
+1904-03-12,Northern Ireland,England,1,3,British Championship,Belfast,Ireland,FALSE
 1904-03-12,Scotland,Wales,1,1,British Championship,Dundee,Scotland,FALSE
 1904-03-21,Wales,Northern Ireland,0,1,British Championship,Bangor,Wales,FALSE
-1904-03-26,Northern Ireland,Scotland,1,1,British Championship,Dublin,Republic of Ireland,FALSE
+1904-03-26,Northern Ireland,Scotland,1,1,British Championship,Dublin,Ireland,FALSE
 1904-04-09,Scotland,England,0,1,British Championship,Glasgow,Scotland,FALSE
 1904-05-01,Belgium,France,3,3,Friendly,Brussels,Belgium,FALSE
 1904-06-02,Hungary,Austria,3,0,Friendly,Budapest,Hungary,FALSE
@@ -171,15 +171,15 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1905-03-18,Scotland,Northern Ireland,4,0,British Championship,Glasgow,Scotland,FALSE
 1905-03-27,England,Wales,3,1,British Championship,Liverpool,England,FALSE
 1905-04-01,England,Scotland,1,0,British Championship,London,England,FALSE
-1905-04-08,Northern Ireland,Wales,2,2,British Championship,Belfast,Republic of Ireland,FALSE
+1905-04-08,Northern Ireland,Wales,2,2,British Championship,Belfast,Ireland,FALSE
 1905-04-09,Hungary,Austria,0,0,Friendly,Budapest,Hungary,FALSE
 1905-04-30,Belgium,Netherlands,1,4,Friendly,Antwerp,Belgium,FALSE
 1905-05-07,Belgium,France,7,0,Friendly,Brussels,Belgium,FALSE
 1905-05-14,Netherlands,Belgium,4,0,Friendly,Rotterdam,Netherlands,FALSE
 1905-08-15,Argentina,Uruguay,0,0,Copa Lipton,Buenos Aires,Argentina,FALSE
-1906-02-17,Northern Ireland,England,0,5,British Championship,Belfast,Republic of Ireland,FALSE
+1906-02-17,Northern Ireland,England,0,5,British Championship,Belfast,Ireland,FALSE
 1906-03-03,Scotland,Wales,0,2,British Championship,Edinburgh,Scotland,FALSE
-1906-03-17,Northern Ireland,Scotland,0,1,British Championship,Dublin,Republic of Ireland,FALSE
+1906-03-17,Northern Ireland,Scotland,0,1,British Championship,Dublin,Ireland,FALSE
 1906-03-19,Wales,England,0,1,British Championship,Cardiff,Wales,FALSE
 1906-04-01,Hungary,Czechoslovakia,1,1,Friendly,Budapest,Hungary,FALSE
 1906-04-02,Wales,Northern Ireland,4,4,British Championship,Wrexham,Wales,FALSE
@@ -192,7 +192,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1906-10-21,Argentina,Uruguay,2,1,Copa Newton,Buenos Aires,Argentina,FALSE
 1906-11-04,Hungary,Austria,3,1,Friendly,Budapest,Hungary,FALSE
 1907-02-16,England,Northern Ireland,1,0,British Championship,Liverpool,England,FALSE
-1907-02-23,Northern Ireland,Wales,2,3,British Championship,Belfast,Republic of Ireland,FALSE
+1907-02-23,Northern Ireland,Wales,2,3,British Championship,Belfast,Ireland,FALSE
 1907-03-04,Wales,Scotland,1,0,British Championship,Wrexham,Wales,FALSE
 1907-03-16,Scotland,Northern Ireland,3,0,British Championship,Glasgow,Scotland,FALSE
 1907-03-18,England,Wales,1,1,British Championship,London,England,FALSE
@@ -204,10 +204,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1907-05-09,Netherlands,Belgium,1,2,Friendly,Haarlem,Netherlands,FALSE
 1907-10-06,Czechoslovakia,Hungary,5,3,Friendly,Prague,Bohemia,FALSE
 1907-11-03,Hungary,Austria,4,1,Friendly,Budapest,Hungary,FALSE
-1908-02-15,Northern Ireland,England,1,3,British Championship,Belfast,Republic of Ireland,FALSE
+1908-02-15,Northern Ireland,England,1,3,British Championship,Belfast,Ireland,FALSE
 1908-03-07,Scotland,Wales,2,1,British Championship,Dundee,Scotland,FALSE
 1908-03-08,Switzerland,France,1,2,Friendly,Geneva,Switzerland,FALSE
-1908-03-14,Northern Ireland,Scotland,0,5,British Championship,Dublin,Republic of Ireland,FALSE
+1908-03-14,Northern Ireland,Scotland,0,5,British Championship,Dublin,Ireland,FALSE
 1908-03-16,Wales,England,1,7,British Championship,Wrexham,Wales,FALSE
 1908-03-29,Belgium,Netherlands,1,4,Friendly,Antwerp,Belgium,FALSE
 1908-04-04,Scotland,England,1,1,British Championship,Glasgow,Scotland,FALSE
@@ -234,7 +234,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1909-03-01,Wales,Scotland,3,2,British Championship,Wrexham,Wales,FALSE
 1909-03-15,England,Wales,2,0,British Championship,Nottingham,England,FALSE
 1909-03-15,Scotland,Northern Ireland,5,0,British Championship,Glasgow,Scotland,FALSE
-1909-03-20,Northern Ireland,Wales,2,3,British Championship,Belfast,Republic of Ireland,FALSE
+1909-03-20,Northern Ireland,Wales,2,3,British Championship,Belfast,Ireland,FALSE
 1909-03-21,Belgium,Netherlands,1,4,Friendly,Antwerp,Belgium,FALSE
 1909-04-03,England,Scotland,2,0,British Championship,London,England,FALSE
 1909-04-04,Germany,Switzerland,1,0,Friendly,Karlsruhe,Germany,FALSE
@@ -250,11 +250,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1909-09-19,Uruguay,Argentina,2,2,Copa Newton,Montevideo,Uruguay,FALSE
 1909-10-10,Argentina,Uruguay,3,1,Copa Premio Honor Argentino,Buenos Aires,Argentina,FALSE
 1909-11-07,Hungary,Austria,2,2,Friendly,Budapest,Hungary,FALSE
-1910-02-12,Northern Ireland,England,1,1,British Championship,Belfast,Republic of Ireland,FALSE
+1910-02-12,Northern Ireland,England,1,1,British Championship,Belfast,Ireland,FALSE
 1910-03-05,Scotland,Wales,1,0,British Championship,Kilmarnock,Scotland,FALSE
 1910-03-13,Belgium,Netherlands,3,2,Friendly,Antwerp,Belgium,FALSE
 1910-03-14,Wales,England,0,1,British Championship,Cardiff,Wales,FALSE
-1910-03-19,Northern Ireland,Scotland,1,0,British Championship,Belfast,Republic of Ireland,FALSE
+1910-03-19,Northern Ireland,Scotland,1,0,British Championship,Belfast,Ireland,FALSE
 1910-04-02,Scotland,England,2,0,British Championship,Glasgow,Scotland,FALSE
 1910-04-03,France,Belgium,0,4,Friendly,Gentilly,France,FALSE
 1910-04-03,Switzerland,Germany,2,3,Friendly,Basel,Switzerland,FALSE
@@ -279,7 +279,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1911-01-01,France,Hungary,0,3,Friendly,Maisons-Alfort,France,FALSE
 1911-01-06,Italy,Hungary,0,1,Friendly,Milan,Italy,FALSE
 1911-01-08,Switzerland,Hungary,2,0,Friendly,Zürich,Switzerland,FALSE
-1911-01-28,Northern Ireland,Wales,1,2,British Championship,Belfast,Republic of Ireland,FALSE
+1911-01-28,Northern Ireland,Wales,1,2,British Championship,Belfast,Ireland,FALSE
 1911-02-11,England,Northern Ireland,2,1,British Championship,Derby,England,FALSE
 1911-03-06,Wales,Scotland,2,2,British Championship,Cardiff,Wales,FALSE
 1911-03-13,England,Wales,3,0,British Championship,London,England,FALSE
@@ -310,14 +310,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1911-11-05,Hungary,Austria,2,0,Friendly,Budapest,Hungary,FALSE
 1911-12-17,Germany,Hungary,1,4,Friendly,Munich,Germany,FALSE
 1912-01-28,France,Belgium,1,1,Friendly,Saint-Ouen,France,FALSE
-1912-02-10,Northern Ireland,England,1,6,British Championship,Dublin,Republic of Ireland,FALSE
+1912-02-10,Northern Ireland,England,1,6,British Championship,Dublin,Ireland,FALSE
 1912-02-10,France,Catalonia,7,0,Friendly,Paris,France,FALSE
 1912-02-18,France,Switzerland,4,1,Friendly,Saint-Ouen,France,FALSE
 1912-02-20,Belgium,Switzerland,9,2,Friendly,Antwerp,Belgium,FALSE
 1912-03-02,Scotland,Wales,1,0,British Championship,Edinburgh,Scotland,FALSE
 1912-03-10,Belgium,Netherlands,1,2,Friendly,Antwerp,Belgium,FALSE
 1912-03-11,Wales,England,0,2,British Championship,Wrexham,Wales,FALSE
-1912-03-16,Northern Ireland,Scotland,1,4,British Championship,Belfast,Republic of Ireland,FALSE
+1912-03-16,Northern Ireland,Scotland,1,4,British Championship,Belfast,Ireland,FALSE
 1912-03-17,Italy,France,3,4,Friendly,Turin,Italy,FALSE
 1912-03-23,Scotland,England,1,1,British Championship,Glasgow,Scotland,FALSE
 1912-03-24,Netherlands,Germany,5,5,Friendly,Zwolle,Netherlands,FALSE
@@ -349,13 +349,13 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1912-12-01,Catalonia,France,1,0,Friendly,Barcelona,Spain,FALSE
 1912-12-22,Italy,Austria,1,3,Friendly,Genoa,Italy,FALSE
 1913-01-12,France,Italy,1,0,Friendly,Saint-Ouen,France,FALSE
-1913-01-18,Northern Ireland,Wales,0,1,British Championship,Belfast,Republic of Ireland,FALSE
-1913-02-15,Northern Ireland,England,2,1,British Championship,Belfast,Republic of Ireland,FALSE
+1913-01-18,Northern Ireland,Wales,0,1,British Championship,Belfast,Ireland,FALSE
+1913-02-15,Northern Ireland,England,2,1,British Championship,Belfast,Ireland,FALSE
 1913-02-16,Belgium,France,3,0,Friendly,Brussels,Belgium,FALSE
 1913-03-03,Wales,Scotland,0,0,British Championship,Wrexham,Wales,FALSE
 1913-03-09,Belgium,Netherlands,3,3,Friendly,Antwerp,Belgium,FALSE
 1913-03-09,Switzerland,France,1,4,Friendly,Geneva,Switzerland,FALSE
-1913-03-15,Northern Ireland,Scotland,1,2,British Championship,Dublin,Republic of Ireland,FALSE
+1913-03-15,Northern Ireland,Scotland,1,2,British Championship,Dublin,Ireland,FALSE
 1913-03-17,England,Wales,4,3,British Championship,Bristol,England,FALSE
 1913-04-05,England,Scotland,1,0,British Championship,London,England,FALSE
 1913-04-20,France,Luxembourg,8,0,Friendly,Saint-Ouen,France,FALSE
@@ -390,7 +390,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1914-02-14,England,Northern Ireland,0,3,British Championship,Middlesbrough,England,FALSE
 1914-02-28,Scotland,Wales,0,0,British Championship,Glasgow,Scotland,FALSE
 1914-03-08,France,Switzerland,2,2,Friendly,Saint-Ouen,France,FALSE
-1914-03-14,Northern Ireland,Scotland,1,1,British Championship,Belfast,Republic of Ireland,FALSE
+1914-03-14,Northern Ireland,Scotland,1,1,British Championship,Belfast,Ireland,FALSE
 1914-03-15,Belgium,Netherlands,2,4,Friendly,Antwerp,Belgium,FALSE
 1914-03-16,Wales,England,0,2,British Championship,Cardiff,Wales,FALSE
 1914-03-29,Italy,France,2,0,Friendly,Turin,Italy,FALSE
@@ -530,11 +530,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1919-10-05,Austria,Hungary,2,0,Friendly,Vienna,Austria,FALSE
 1919-10-12,Sweden,Denmark,3,0,Friendly,Stockholm,Sweden,FALSE
 1919-10-19,Argentina,Uruguay,6,1,Copa Premio Honor Argentino,Buenos Aires,Argentina,FALSE
-1919-10-25,Northern Ireland,England,1,1,British Championship,Belfast,Republic of Ireland,FALSE
+1919-10-25,Northern Ireland,England,1,1,British Championship,Belfast,Ireland,FALSE
 1919-11-09,Hungary,Austria,3,2,Friendly,Budapest,Hungary,FALSE
 1919-12-07,Uruguay,Argentina,4,2,Friendly,Montevideo,Uruguay,FALSE
 1920-01-18,Italy,France,9,4,Friendly,Milan,Italy,FALSE
-1920-02-14,Northern Ireland,Wales,2,2,British Championship,Belfast,Republic of Ireland,FALSE
+1920-02-14,Northern Ireland,Wales,2,2,British Championship,Belfast,Ireland,FALSE
 1920-02-26,Wales,Scotland,1,1,British Championship,Cardiff,Wales,FALSE
 1920-02-29,Switzerland,France,0,2,Friendly,Geneva,Switzerland,FALSE
 1920-03-13,Scotland,Northern Ireland,3,0,British Championship,Glasgow,Scotland,FALSE
@@ -570,7 +570,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1920-11-07,Hungary,Austria,1,2,Friendly,Budapest,Hungary,FALSE
 1921-02-12,Scotland,Wales,2,1,British Championship,Aberdeen,Scotland,FALSE
 1921-02-20,France,Italy,1,2,Friendly,Marseille,France,FALSE
-1921-02-26,Northern Ireland,Scotland,0,2,British Championship,Belfast,Republic of Ireland,FALSE
+1921-02-26,Northern Ireland,Scotland,0,2,British Championship,Belfast,Ireland,FALSE
 1921-03-06,Belgium,France,3,1,Friendly,Forest,Belgium,FALSE
 1921-03-06,Italy,Switzerland,2,1,Friendly,Milan,Italy,FALSE
 1921-03-14,Wales,England,0,0,British Championship,Cardiff,Wales,FALSE
@@ -611,7 +611,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1921-10-09,Sweden,Denmark,0,0,Friendly,Stockholm,Sweden,FALSE
 1921-10-12,Brazil,Paraguay,3,0,Copa América,Buenos Aires,Argentina,TRUE
 1921-10-16,Argentina,Paraguay,3,0,Copa América,Buenos Aires,Argentina,FALSE
-1921-10-22,Northern Ireland,England,1,1,British Championship,Belfast,Republic of Ireland,FALSE
+1921-10-22,Northern Ireland,England,1,1,British Championship,Belfast,Ireland,FALSE
 1921-10-23,Brazil,Uruguay,1,2,Copa América,Buenos Aires,Argentina,TRUE
 1921-10-28,Czechoslovakia,Yugoslavia,6,1,Friendly,Prague,Czechoslovakia,FALSE
 1921-10-30,Argentina,Uruguay,1,0,Copa América,Buenos Aires,Argentina,FALSE
@@ -11060,7 +11060,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1979-08-29,Poland,Romania,3,0,Friendly,Warsaw,Poland,FALSE
 1979-08-29,Solomon Islands,Wallis Islands and Futuna,6,0,South Pacific Games,Suva,Fiji,TRUE
 1979-08-29,Tahiti,Tonga,8,0,South Pacific Games,Suva,Fiji,TRUE
-1979-08-29,Fiji,Papua New Guinea,0,0,South Pacific Games,Suva,Fiji,TRUE
+1979-08-29,Fiji,Papua New Guinea,0,0,South Pacific Games,Suva,Fiji,FALSE
 1979-08-30,Fiji,Kiribati,24,0,South Pacific Games,Nausori,Fiji,FALSE
 1979-08-30,Guam,New Caledonia,1,10,South Pacific Games,Suva,Fiji,TRUE
 1979-08-30,Peru,Uruguay,2,0,Friendly,Lima,Peru,FALSE
@@ -35437,7 +35437,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2013-07-14,Frøya,Falkland Islands,1,2,Island Games,Hamilton,Bermuda,TRUE
 2013-07-15,El Salvador,Haiti,1,0,Gold Cup,Houston,United States,TRUE
 2013-07-15,Honduras,Trinidad and Tobago,0,2,Gold Cup,Houston,United States,TRUE
-2013-07-15,Bermuda,Falkland Islands,8,0,Island Games,Hamilton,Bermuda,TRUE
+2013-07-15,Bermuda,Falkland Islands,8,0,Island Games,Hamilton,Bermuda,FALSE
 2013-07-15,Greenland,Frøya,12,0,Island Games,Hamilton,Bermuda,TRUE
 2013-07-16,Cuba,Belize,4,0,Gold Cup,East Hartford,United States,TRUE
 2013-07-16,Namibia,Mozambique,0,1,COSAFA Cup,Kitwe,Zambia,TRUE
@@ -40193,7 +40193,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-09-09,United States Virgin Islands,Canada,0,8,CONCACAF Nations League qualification,Bradenton,United States,TRUE
 2018-09-09,Aruba,Bermuda,3,1,CONCACAF Nations League qualification,Willemstad,Netherlands Antilles,TRUE
 2018-09-09,Jamaica,Cayman Islands,4,0,CONCACAF Nations League qualification,Kingston,Jamaica,FALSE
-2018-09-09,Saint Kitts and Nevis,Puerto Rico,1,0,CONCACAF Nations League qualification,Basseterre,Saint Kitts and Nevis,TRUE
+2018-09-09,Saint Kitts and Nevis,Puerto Rico,1,0,CONCACAF Nations League qualification,Basseterre,Saint Kitts and Nevis,FALSE
 2018-09-10,Portugal,Italy,1,0,UEFA Nations League,Lisbon,Portugal,FALSE
 2018-09-10,Sweden,Turkey,2,3,UEFA Nations League,Stockholm,Sweden,FALSE
 2018-09-10,Scotland,Albania,2,0,UEFA Nations League,Glasgow,Scotland,FALSE
@@ -40476,7 +40476,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-11-18,Turks and Caicos Islands,Saint Vincent and the Grenadines,3,2,CONCACAF Nations League qualification,Providenciales,Turks and Caicos Islands,FALSE
 2018-11-18,Bahamas,Anguilla,1,1,CONCACAF Nations League qualification,Nassau,Bahamas,FALSE
 2018-11-18,Barbados,United States Virgin Islands,3,0,CONCACAF Nations League qualification,Bridgetown,Barbados,FALSE
-2018-11-18,Saint Kitts and Nevis,Canada,0,1,CONCACAF Nations League qualification,Basseterre,Saint Kitts and Nevis,TRUE
+2018-11-18,Saint Kitts and Nevis,Canada,0,1,CONCACAF Nations League qualification,Basseterre,Saint Kitts and Nevis,FALSE
 2018-11-19,Germany,Netherlands,2,2,UEFA Nations League,Gelsenkirchen,Germany,FALSE
 2018-11-19,Czech Republic,Slovakia,1,0,UEFA Nations League,Prague,Czech Republic,FALSE
 2018-11-19,Denmark,Republic of Ireland,0,0,UEFA Nations League,Aarhus,Denmark,FALSE
@@ -40834,7 +40834,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-06-07,Lesotho,Zimbabwe,2,2,COSAFA Cup,Durban,South Africa,TRUE
 2019-06-07,South Africa,Malawi,0,0,COSAFA Cup,Durban,South Africa,FALSE
 2019-06-07,Argentina,Nicaragua,5,1,Friendly,San Juan,Argentina,FALSE
-2019-06-07,China PR,Philippines,2,0,Friendly,Guangzhou,China PR,TRUE
+2019-06-07,China PR,Philippines,2,0,Friendly,Guangzhou,China PR,FALSE
 2019-06-07,Fiji,Tahiti,1,1,Friendly,Port Vila,Vanuatu,TRUE
 2019-06-07,Ivory Coast,Comoros,3,1,Friendly,Boulogne-Sur-Mer,Ivory Coast,FALSE
 2019-06-07,Kenya,Madagascar,1,0,Friendly,Bondoufle,Kenya,FALSE
@@ -41121,9 +41121,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-08-04,Zimbabwe,Mauritius,3,1,African Nations Championship qualification,Bulawayo,Zimbabwe,FALSE
 2019-08-04,Mali,Guinea-Bissau,3,0,African Nations Championship qualification,Bamako,Mali,FALSE
 2019-08-04,Togo,Benin,1,0,African Nations Championship qualification,Lomé,Togo,FALSE
-2019-08-11,Saint Vincent and the Grenadines,Trinidad and Tobago,1,0,Friendly,Georgetown,Saint Vincent and the Grenadines,TRUE
+2019-08-11,Saint Vincent and the Grenadines,Trinidad and Tobago,1,0,Friendly,Georgetown,Saint Vincent and the Grenadines,FALSE
 2019-08-14,Dominican Republic,Guatemala,0,0,Friendly,Santiago de los Caballeros,Dominican Republic,FALSE
-2019-08-27,Saint Kitts and Nevis,Antigua and Barbuda,4,3,Friendly,Basseterre,Saint Kitts and Nevis,TRUE
+2019-08-27,Saint Kitts and Nevis,Antigua and Barbuda,4,3,Friendly,Basseterre,Saint Kitts and Nevis,FALSE
 2019-08-28,Belize,Saint Vincent and the Grenadines,1,1,Friendly,Belmopan,Belize,FALSE
 2019-08-28,Taiwan,Guam,3,0,Friendly,Kaohsiung,Taiwan,FALSE
 2019-08-29,United Arab Emirates,Dominican Republic,4,0,Friendly,Riffa,Bahrain,TRUE
@@ -41187,7 +41187,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-09-06,Ivory Coast,Benin,1,2,Friendly,Caen,Egypt,TRUE
 2019-09-06,Morocco,Burkina Faso,1,1,Friendly,Marrakech,Morocco,FALSE
 2019-09-06,Tunisia,Mauritania,1,0,Friendly,Radès,Tunisia,FALSE
-2019-09-06,United States,Mexico,0,3,Friendly,East Rutherford,United States,TRUE
+2019-09-06,United States,Mexico,0,3,Friendly,East Rutherford,United States,FALSE
 2019-09-06,Estonia,Belarus,1,2,UEFA Euro qualification,Tallinn,Estonia,FALSE
 2019-09-06,Germany,Netherlands,2,4,UEFA Euro qualification,Hamburg,Germany,FALSE
 2019-09-06,Wales,Azerbaijan,2,1,UEFA Euro qualification,Cardiff,Wales,FALSE
@@ -41306,7 +41306,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-09-10,Eswatini,Djibouti,0,0,FIFA World Cup qualification,Manzini,Eswatini,FALSE
 2019-09-10,Togo,Comoros,2,0,FIFA World Cup qualification,Lomé,Togo,FALSE
 2019-09-10,Zimbabwe,Somalia,3,1,FIFA World Cup qualification,Harare,Zimbabwe,FALSE
-2019-09-18,DR Congo,Rwanda,2,3,Friendly,Kinshasa,DR Congo,TRUE
+2019-09-18,DR Congo,Rwanda,2,3,Friendly,Kinshasa,DR Congo,FALSE
 2019-09-21,Burundi,Uganda,0,3,African Nations Championship qualification,Bujumbura,Burundi,FALSE
 2019-09-21,Algeria,Morocco,0,0,African Nations Championship qualification,Blida,Algeria,FALSE
 2019-09-21,Tunisia,Libya,1,0,African Nations Championship qualification,Radès,Tunisia,FALSE
@@ -42156,7 +42156,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-03-29,Burkina Faso,South Sudan,1,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,FALSE
 2021-03-29,Malawi,Uganda,1,0,African Cup of Nations qualification,Lilongwe,Malawi,FALSE
 2021-03-29,Angola,Gabon,2,0,African Cup of Nations qualification,Luanda,Angola,FALSE
-2021-03-29,DR Congo,Gambia,1,0,African Cup of Nations qualification,Kinshasa,DR Congo,TRUE
+2021-03-29,DR Congo,Gambia,1,0,African Cup of Nations qualification,Kinshasa,DR Congo,FALSE
 2021-03-29,Togo,Kenya,1,2,African Cup of Nations qualification,Lomé,Togo,FALSE
 2021-03-29,Egypt,Comoros,4,0,African Cup of Nations qualification,Cairo,Egypt,FALSE
 2021-03-29,Algeria,Botswana,5,0,African Cup of Nations qualification,Algiers,Algeria,FALSE
@@ -42778,7 +42778,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-10-07,Nigeria,Central African Republic,0,1,FIFA World Cup qualification,Lagos,Nigeria,FALSE
 2021-10-07,Rwanda,Uganda,0,1,FIFA World Cup qualification,Kigali,Rwanda,FALSE
 2021-10-07,Mali,Kenya,5,0,FIFA World Cup qualification,Agadir,Morocco,TRUE
-2021-10-07,DR Congo,Madagascar,2,0,FIFA World Cup qualification,Kinshasa,DR Congo,TRUE
+2021-10-07,DR Congo,Madagascar,2,0,FIFA World Cup qualification,Kinshasa,DR Congo,FALSE
 2021-10-07,Tanzania,Benin,0,1,FIFA World Cup qualification,Dar es Salaam,Tanzania,FALSE
 2021-10-07,Ecuador,Bolivia,3,0,FIFA World Cup qualification,Guayaquil,Ecuador,FALSE
 2021-10-07,Venezuela,Brazil,1,3,FIFA World Cup qualification,Caracas,Venezuela,FALSE
@@ -42955,7 +42955,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-11-12,Gabon,Libya,1,0,FIFA World Cup qualification,Franceville,Gabon,FALSE
 2021-11-12,Angola,Egypt,2,2,FIFA World Cup qualification,Luanda,Angola,FALSE
 2021-11-12,Guinea,Guinea-Bissau,0,0,FIFA World Cup qualification,Conakry,Guinea,FALSE
-2021-11-12,Sudan,Morocco,0,3,FIFA World Cup qualification,Rabat,Morocco,TRUE
+2021-11-12,Morocco,Sudan,3,0,FIFA World Cup qualification,Rabat,Morocco,FALSE
 2021-11-12,Canada,Costa Rica,1,0,FIFA World Cup qualification,Edmonton,Canada,FALSE
 2021-11-12,Honduras,Panama,2,3,FIFA World Cup qualification,San Pedro Sula,Honduras,FALSE
 2021-11-12,El Salvador,Jamaica,1,1,FIFA World Cup qualification,San Salvador,El Salvador,FALSE
