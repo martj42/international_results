@@ -41802,6 +41802,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2020-10-08,Paraguay,Peru,2,2,FIFA World Cup qualification,Asunción,Paraguay,FALSE
 2020-10-08,Uruguay,Chile,2,1,FIFA World Cup qualification,Montevideo,Uruguay,FALSE
 2020-10-08,Argentina,Ecuador,1,0,FIFA World Cup qualification,Buenos Aires,Argentina,FALSE
+2020-10-08,Iceland,Romania,2,1,UEFA Euro qualification,Reykjavík,Iceland,FALSE
+2020-10-08,Bulgaria,Hungary,1,3,UEFA Euro qualification,Sofia,Bulgaria,FALSE
+2020-10-08,Bosnia and Herzegovina,Northern Ireland,1,1,UEFA Euro qualification,Sarajevo,Bosnia and Herzegovina,FALSE
+2020-10-08,Slovakia,Republic of Ireland,0,0,UEFA Euro qualification,Bratislava,Slovakia,FALSE
+2020-10-08,Scotland,Israel,0,0,UEFA Euro qualification,Glasgow,Scotland,FALSE
+2020-10-08,Norway,Serbia,1,2,UEFA Euro qualification,Oslo,Norway,FALSE
+2020-10-08,Georgia,Belarus,1,0,UEFA Euro qualification,Tbilisi,Georgia,FALSE
+2020-10-08,North Macedonia,Kosovo,2,1,UEFA Euro qualification,Skopje,North Macedonia,FALSE
 2020-10-09,Burkina Faso,DR Congo,3,0,Friendly,Mohammedia,Morocco,TRUE
 2020-10-09,Congo,Gambia,0,1,Friendly,Parchal,Portugal,TRUE
 2020-10-09,Japan,Cameroon,0,0,Friendly,Utrecht,Netherlands,TRUE
@@ -41913,6 +41921,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2020-11-11,San Marino,Latvia,0,3,Friendly,Serravalle,San Marino,FALSE
 2020-11-11,Slovenia,Azerbaijan,0,0,Friendly,Ljubljana,Slovenia,FALSE
 2020-11-11,Turkey,Croatia,3,3,Friendly,Istanbul,Turkey,FALSE
+2020-11-12,Hungary,Iceland,2,1,UEFA Euro qualification,Budapest,Hungary,FALSE
+2020-11-12,Northern Ireland,Slovakia,1,2,UEFA Euro qualification,Belfast,Northern Ireland,FALSE
+2020-11-12,Serbia,Scotland,1,1,UEFA Euro qualification,Belgrade,Serbia,FALSE
+2020-11-12,Georgia,North Macedonia,0,1,UEFA Euro qualification,Tbilisi,Georgia,FALSE
 2020-11-12,Bosnia and Herzegovina,Iran,0,2,Friendly,Sarajevo,Bosnia and Herzegovina,FALSE
 2020-11-12,England,Republic of Ireland,3,0,Friendly,London,England,FALSE
 2020-11-12,Jordan,Iraq,0,0,Friendly,Dubai,United Arab Emirates,TRUE
