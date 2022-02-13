@@ -11458,7 +11458,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1980-07-30,Panama,Honduras,0,2,FIFA World Cup qualification,Panama City,Panama,FALSE
 1980-08-01,Haiti,Trinidad and Tobago,2,0,FIFA World Cup qualification,Port-au-Prince,Haiti,FALSE
 1980-08-03,Basque Country,Hungary,1,5,Friendly,Vitoria-Gasteiz,Spain,FALSE
-1980-08-05,United Arab Emirates,Iran,0,2,Friendly,Ai Ain,United Arab Emirates,FALSE
+1980-08-05,United Arab Emirates,Iran,0,2,Friendly,Al Ain,United Arab Emirates,FALSE
 1980-08-07,United Arab Emirates,Iran,0,3,Friendly,Abu Dhabi,United Arab Emirates,FALSE
 1980-08-10,Mozambique,Lesotho,6,1,African Cup of Nations qualification,Maputo,Mozambique,FALSE
 1980-08-10,Panama,Costa Rica,1,1,FIFA World Cup qualification,Panama City,Panama,FALSE
@@ -12194,7 +12194,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1981-12-16,Bulgaria,Portugal,5,2,Friendly,Haskovo,Bulgaria,FALSE
 1981-12-16,Spain,Belgium,2,0,Friendly,Valencia,Spain,FALSE
 1981-12-19,Saudi Arabia,New Zealand,0,5,FIFA World Cup qualification,Riyadh,Saudi Arabia,FALSE
-1981-12-29,United Arab Emirates,Tunisia,1,4,Friendly,Ai Ain,United Arab Emirates,FALSE
+1981-12-29,United Arab Emirates,Tunisia,1,4,Friendly,Al Ain,United Arab Emirates,FALSE
 1982-01-10,China PR,New Zealand,1,2,FIFA World Cup qualification,Kallang,Singapore,TRUE
 1982-01-17,Cameroon,Congo,2,1,Friendly,Yaoundé,Cameroon,FALSE
 1982-01-17,Ethiopia,Tanzania,0,2,Friendly,Addis Ababa,Ethiopia,FALSE
@@ -18681,7 +18681,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1994-10-26,Estonia,Finland,0,7,Friendly,Tallinn,Estonia,FALSE
 1994-10-26,Saudi Arabia,Trinidad and Tobago,1,0,Friendly,Riyadh,Saudi Arabia,FALSE
 1994-10-28,United Arab Emirates,Senegal,3,2,Friendly,Abu Dhabi,United Arab Emirates,FALSE
-1994-10-29,Kuwait,Iceland,0,1,Friendly,Ai Ain,United Arab Emirates,TRUE
+1994-10-29,Kuwait,Iceland,0,1,Friendly,Al Ain,United Arab Emirates,TRUE
 1994-11-03,United Arab Emirates,Qatar,2,0,Gulf Cup,Abu Dhabi,United Arab Emirates,FALSE
 1994-11-04,Bahrain,Kuwait,2,1,Gulf Cup,Abu Dhabi,United Arab Emirates,TRUE
 1994-11-04,Oman,Saudi Arabia,1,2,Gulf Cup,Abu Dhabi,United Arab Emirates,TRUE
@@ -20058,7 +20058,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1996-10-06,Zambia,Mozambique,1,0,African Cup of Nations qualification,Lusaka,Zambia,FALSE
 1996-10-07,Oman,Azerbaijan,2,0,Friendly,Muscat,Oman,FALSE
 1996-10-08,Bosnia and Herzegovina,Croatia,1,4,FIFA World Cup qualification,Bologna,Italy,TRUE
-1996-10-08,Kuwait,Cyprus,1,1,Friendly,Ai Ain,United Arab Emirates,TRUE
+1996-10-08,Kuwait,Cyprus,1,1,Friendly,Al Ain,United Arab Emirates,TRUE
 1996-10-08,Luxembourg,Bulgaria,1,2,FIFA World Cup qualification,Luxembourg,Luxembourg,FALSE
 1996-10-08,Uruguay,Bolivia,1,0,FIFA World Cup qualification,Montevideo,Uruguay,FALSE
 1996-10-09,Albania,Portugal,0,3,FIFA World Cup qualification,Tirana,Albania,FALSE
@@ -27060,7 +27060,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2004-09-08,Moldova,Italy,0,1,FIFA World Cup qualification,Chișinău,Moldova,FALSE
 2004-09-08,Netherlands,Czech Republic,2,0,FIFA World Cup qualification,Amsterdam,Netherlands,FALSE
 2004-09-08,Norway,Belarus,1,1,FIFA World Cup qualification,Oslo,Norway,FALSE
-2004-09-08,Palestine,Uzbekistan,0,3,FIFA World Cup qualification,Rayyan,Qatar,TRUE
+2004-09-08,Palestine,Uzbekistan,0,3,FIFA World Cup qualification,Al Rayyan,Qatar,TRUE
 2004-09-08,Panama,United States,1,1,FIFA World Cup qualification,Panama City,Panama,FALSE
 2004-09-08,Poland,England,1,2,FIFA World Cup qualification,Chorzów,Poland,FALSE
 2004-09-08,Portugal,Estonia,4,0,FIFA World Cup qualification,Leiria,Portugal,FALSE
@@ -27311,11 +27311,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2004-12-10,Malaysia,Philippines,4,1,AFF Championship,Kuala Lumpur,Malaysia,FALSE
 2004-12-10,Qatar,United Arab Emirates,2,2,Gulf Cup,Doha,Qatar,FALSE
 2004-12-10,Thailand,Myanmar,1,1,AFF Championship,Kuala Lumpur,Malaysia,TRUE
-2004-12-11,Bahrain,Yemen,1,1,Gulf Cup,Rayyan,Qatar,TRUE
+2004-12-11,Bahrain,Yemen,1,1,Gulf Cup,Al Rayyan,Qatar,TRUE
 2004-12-11,Ethiopia,Burundi,2,1,CECAFA Cup,Addis Ababa,Ethiopia,FALSE
 2004-12-11,Laos,Cambodia,2,1,AFF Championship,Hanoi,Vietnam,TRUE
 2004-12-11,Rwanda,Zanzibar,4,2,CECAFA Cup,Addis Ababa,Ethiopia,TRUE
-2004-12-11,Saudi Arabia,Kuwait,1,2,Gulf Cup,Rayyan,Qatar,TRUE
+2004-12-11,Saudi Arabia,Kuwait,1,2,Gulf Cup,Al Rayyan,Qatar,TRUE
 2004-12-11,Vietnam,Indonesia,0,3,AFF Championship,Hanoi,Vietnam,FALSE
 2004-12-12,British Virgin Islands,Trinidad and Tobago,0,4,CFU Caribbean Cup qualification,Road Town,British Virgin Islands,FALSE
 2004-12-12,Cuba,Martinique,2,0,CFU Caribbean Cup qualification,Havana,Cuba,FALSE
@@ -27331,10 +27331,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2004-12-13,Qatar,Iraq,3,3,Gulf Cup,Doha,Qatar,FALSE
 2004-12-13,Singapore,Laos,6,2,AFF Championship,Hanoi,Vietnam,TRUE
 2004-12-13,Zanzibar,Tanzania,4,2,CECAFA Cup,Addis Ababa,Ethiopia,TRUE
-2004-12-14,Kuwait,Bahrain,1,1,Gulf Cup,Rayyan,Qatar,TRUE
+2004-12-14,Kuwait,Bahrain,1,1,Gulf Cup,Al Rayyan,Qatar,TRUE
 2004-12-14,Malaysia,Thailand,2,1,AFF Championship,Kuala Lumpur,Malaysia,FALSE
 2004-12-14,Philippines,Timor-Leste,2,1,AFF Championship,Kuala Lumpur,Malaysia,TRUE
-2004-12-14,Saudi Arabia,Yemen,2,0,Gulf Cup,Rayyan,Qatar,TRUE
+2004-12-14,Saudi Arabia,Yemen,2,0,Gulf Cup,Al Rayyan,Qatar,TRUE
 2004-12-14,Somalia,Kenya,0,1,CECAFA Cup,Addis Ababa,Ethiopia,TRUE
 2004-12-14,Sudan,Uganda,2,1,CECAFA Cup,Addis Ababa,Ethiopia,TRUE
 2004-12-15,Cambodia,Singapore,0,3,AFF Championship,Hải Phòng,Vietnam,TRUE
@@ -27344,11 +27344,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2004-12-15,Tanzania,Burundi,0,2,CECAFA Cup,Addis Ababa,Ethiopia,TRUE
 2004-12-15,Vietnam,Laos,3,0,AFF Championship,Hanoi,Vietnam,FALSE
 2004-12-16,Myanmar,Timor-Leste,3,1,AFF Championship,Kuala Lumpur,Malaysia,TRUE
-2004-12-16,Iraq,United Arab Emirates,1,1,Gulf Cup,Rayyan,Qatar,TRUE
+2004-12-16,Iraq,United Arab Emirates,1,1,Gulf Cup,Al Rayyan,Qatar,TRUE
 2004-12-16,Japan,Germany,0,3,Friendly,Yokohama,Japan,FALSE
 2004-12-16,Qatar,Oman,2,1,Gulf Cup,Doha,Qatar,FALSE
 2004-12-16,Thailand,Philippines,3,1,AFF Championship,Kuala Lumpur,Malaysia,TRUE
-2004-12-17,Bahrain,Saudi Arabia,3,0,Gulf Cup,Rayyan,Qatar,TRUE
+2004-12-17,Bahrain,Saudi Arabia,3,0,Gulf Cup,Al Rayyan,Qatar,TRUE
 2004-12-17,Burundi,Zanzibar,2,1,CECAFA Cup,Addis Ababa,Ethiopia,TRUE
 2004-12-17,Ethiopia,Tanzania,2,0,CECAFA Cup,Addis Ababa,Ethiopia,FALSE
 2004-12-17,Kuwait,Yemen,3,0,Gulf Cup,Doha,Qatar,TRUE
@@ -27361,7 +27361,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2004-12-19,South Korea,Germany,3,1,Friendly,Busan,South Korea,FALSE
 2004-12-19,Tanzania,Rwanda,1,5,CECAFA Cup,Addis Ababa,Ethiopia,TRUE
 2004-12-19,Trinidad and Tobago,British Virgin Islands,2,0,CFU Caribbean Cup qualification,Macoya,Trinidad and Tobago,FALSE
-2004-12-20,Oman,Bahrain,3,2,Gulf Cup,Rayyan,Qatar,TRUE
+2004-12-20,Oman,Bahrain,3,2,Gulf Cup,Al Rayyan,Qatar,TRUE
 2004-12-20,Qatar,Kuwait,2,0,Gulf Cup,Doha,Qatar,FALSE
 2004-12-21,Martinique,Cuba,0,2,CFU Caribbean Cup qualification,Fort-de-France,Martinique,FALSE
 2004-12-21,Thailand,Germany,1,5,Friendly,Bangkok,Thailand,FALSE
@@ -27500,7 +27500,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2005-03-13,Hong Kong,North Korea,0,2,EAFF Championship,Taipei,Taiwan,TRUE
 2005-03-14,Saudi Arabia,Egypt,0,1,Friendly,Dammam,Saudi Arabia,FALSE
 2005-03-16,Zimbabwe,Botswana,1,1,Friendly,Harare,Zimbabwe,FALSE
-2005-03-18,Kuwait,Armenia,3,1,Friendly,Ai Ain,United Arab Emirates,TRUE
+2005-03-18,Kuwait,Armenia,3,1,Friendly,Al Ain,United Arab Emirates,TRUE
 2005-03-18,Saudi Arabia,Finland,1,4,Friendly,Dammam,Saudi Arabia,FALSE
 2005-03-19,Gabon,Congo,0,0,Friendly,Libreville,Gabon,FALSE
 2005-03-19,Lesotho,Namibia,1,2,Friendly,Maseru,Lesotho,FALSE
@@ -28118,21 +28118,21 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2005-11-30,Djibouti,Uganda,1,6,CECAFA Cup,Kigali,Rwanda,TRUE
 2005-11-30,Rwanda,Eritrea,3,2,CECAFA Cup,Kigali,Rwanda,FALSE
 2005-12-01,Ethiopia,Sudan,3,1,CECAFA Cup,Kigali,Rwanda,TRUE
-2005-12-01,Iraq,Palestine,4,0,Friendly,Rayyan,Qatar,TRUE
+2005-12-01,Iraq,Palestine,4,0,Friendly,Al Rayyan,Qatar,TRUE
 2005-12-01,Somalia,Uganda,0,7,CECAFA Cup,Kigali,Rwanda,TRUE
 2005-12-02,Burundi,Eritrea,0,0,CECAFA Cup,Kigali,Rwanda,TRUE
 2005-12-02,Tanzania,Zanzibar,1,1,CECAFA Cup,Kigali,Rwanda,TRUE
 2005-12-02,United Arab Emirates,Libya,1,1,Friendly,Sharjah,United Arab Emirates,FALSE
 2005-12-03,Djibouti,Ethiopia,0,6,CECAFA Cup,Kigali,Rwanda,TRUE
 2005-12-03,Oman,Syria,1,3,Friendly,Doha,Qatar,TRUE
-2005-12-03,Saudi Arabia,Palestine,2,0,Friendly,Rayyan,Qatar,TRUE
+2005-12-03,Saudi Arabia,Palestine,2,0,Friendly,Al Rayyan,Qatar,TRUE
 2005-12-03,Sudan,Uganda,0,3,CECAFA Cup,Kigali,Rwanda,TRUE
 2005-12-04,Bahrain,Syria,2,2,Friendly,Doha,Qatar,TRUE
 2005-12-04,Eritrea,Tanzania,0,1,CECAFA Cup,Kigali,Rwanda,TRUE
 2005-12-04,Rwanda,Burundi,2,0,CECAFA Cup,Kigali,Rwanda,FALSE
 2005-12-05,Djibouti,Sudan,0,4,CECAFA Cup,Kigali,Rwanda,TRUE
 2005-12-05,Ethiopia,Somalia,3,1,CECAFA Cup,Kigali,Rwanda,TRUE
-2005-12-05,Iraq,Saudi Arabia,5,1,Friendly,Rayyan,Qatar,TRUE
+2005-12-05,Iraq,Saudi Arabia,5,1,Friendly,Al Rayyan,Qatar,TRUE
 2005-12-06,Bahrain,Oman,2,2,Friendly,Doha,Qatar,TRUE
 2005-12-06,Rwanda,Tanzania,3,1,CECAFA Cup,Kigali,Rwanda,FALSE
 2005-12-07,Maldives,Afghanistan,9,1,SAFF Cup,Karachi,Pakistan,TRUE
@@ -29331,7 +29331,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2007-06-05,Algeria,Argentina,3,4,Friendly,Barcelona,Spain,TRUE
 2007-06-05,Jamaica,Chile,0,1,Friendly,Kingston,Jamaica,FALSE
 2007-06-05,Japan,Colombia,0,0,Kirin Cup,Saitama,Japan,FALSE
-2007-06-05,Kuwait,Portugal,1,1,Friendly,al-Salmiya,Kuwait,FALSE
+2007-06-05,Kuwait,Portugal,1,1,Friendly,Salmiya,Kuwait,FALSE
 2007-06-05,Mexico,Paraguay,0,1,Friendly,Mexico City,Mexico,FALSE
 2007-06-05,Turkey,Brazil,0,0,Friendly,Dortmund,Germany,TRUE
 2007-06-06,Andorra,Israel,0,2,UEFA Euro qualification,Sant Julià de Lòria,Andorra,FALSE
@@ -29730,7 +29730,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2007-10-08,Bangladesh,Tajikistan,1,1,FIFA World Cup qualification,Dhaka,Bangladesh,FALSE
 2007-10-08,Lebanon,India,4,1,FIFA World Cup qualification,Sidon,Lebanon,FALSE
 2007-10-08,Oman,Nepal,2,0,FIFA World Cup qualification,Muscat,Oman,FALSE
-2007-10-08,Palestine,Singapore,0,4,FIFA World Cup qualification,Rayyan,Qatar,TRUE
+2007-10-08,Palestine,Singapore,0,4,FIFA World Cup qualification,Al Rayyan,Qatar,TRUE
 2007-10-08,Syria,Afghanistan,3,0,FIFA World Cup qualification,Damascus,Syria,FALSE
 2007-10-08,Thailand,Macau,6,1,FIFA World Cup qualification,Bangkok,Thailand,FALSE
 2007-10-08,Vietnam,United Arab Emirates,0,1,FIFA World Cup qualification,Hanoi,Vietnam,FALSE
@@ -31908,8 +31908,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2009-11-14,Vietnam,Syria,0,1,AFC Asian Cup qualification,Hanoi,Vietnam,FALSE
 2009-11-14,Wales,Scotland,3,0,Friendly,Cardiff,Wales,FALSE
 2009-11-15,Ghana,Mali,2,2,FIFA World Cup qualification,Kumasi,Ghana,FALSE
-2009-11-15,Iraq,Azerbaijan,1,0,Friendly,Ai Ain,United Arab Emirates,TRUE
-2009-11-15,United Arab Emirates,Czech Republic,0,0,Friendly,Ai Ain,United Arab Emirates,FALSE
+2009-11-15,Iraq,Azerbaijan,1,0,Friendly,Al Ain,United Arab Emirates,TRUE
+2009-11-15,United Arab Emirates,Czech Republic,0,0,Friendly,Al Ain,United Arab Emirates,FALSE
 2009-11-17,Belgium,Qatar,2,0,Friendly,Sedan,France,TRUE
 2009-11-17,Oman,Brazil,0,2,Friendly,Muscat,Oman,FALSE
 2009-11-17,Slovakia,Chile,1,2,Friendly,Žilina,Slovakia,FALSE
@@ -31917,7 +31917,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2009-11-18,Algeria,Egypt,1,0,FIFA World Cup qualification,Omdurman,Sudan,TRUE
 2009-11-18,Angola,Ghana,0,0,Friendly,Luanda,Angola,FALSE
 2009-11-18,Austria,Spain,1,5,Friendly,Vienna,Austria,FALSE
-2009-11-18,Azerbaijan,Czech Republic,2,0,Friendly,Ai Ain,United Arab Emirates,TRUE
+2009-11-18,Azerbaijan,Czech Republic,2,0,Friendly,Al Ain,United Arab Emirates,TRUE
 2009-11-18,Bahrain,Yemen,4,0,AFC Asian Cup qualification,Riffa,Bahrain,FALSE
 2009-11-18,Bosnia and Herzegovina,Portugal,0,1,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,FALSE
 2009-11-18,Denmark,United States,3,1,Friendly,Aarhus,Denmark,FALSE
@@ -31938,7 +31938,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2009-11-18,Syria,Vietnam,0,0,AFC Asian Cup qualification,Aleppo,Syria,FALSE
 2009-11-18,Thailand,Singapore,0,1,AFC Asian Cup qualification,Bangkok,Thailand,FALSE
 2009-11-18,Ukraine,Greece,0,1,FIFA World Cup qualification,Donets'k,Ukraine,FALSE
-2009-11-18,United Arab Emirates,Iraq,0,1,Friendly,Ai Ain,United Arab Emirates,FALSE
+2009-11-18,United Arab Emirates,Iraq,0,1,Friendly,Al Ain,United Arab Emirates,FALSE
 2009-11-18,Uruguay,Costa Rica,1,1,FIFA World Cup qualification,Montevideo,Uruguay,FALSE
 2009-11-21,Zambia,North Korea,4,1,Friendly,Lusaka,Zambia,FALSE
 2009-11-22,China PR,Lebanon,1,0,AFC Asian Cup qualification,Hangzhou,China PR,FALSE
@@ -32853,24 +32853,24 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2011-01-05,Egypt,Tanzania,5,1,Nile Basin Tournament,Cairo,Egypt,FALSE
 2011-01-05,Kenya,Sudan,1,0,Nile Basin Tournament,Cairo,Egypt,TRUE
 2011-01-05,Uganda,Burundi,3,1,Nile Basin Tournament,Cairo,Egypt,TRUE
-2011-01-05,United Arab Emirates,Australia,0,0,Friendly,Ai Ain,United Arab Emirates,FALSE
+2011-01-05,United Arab Emirates,Australia,0,0,Friendly,Al Ain,United Arab Emirates,FALSE
 2011-01-07,Qatar,Uzbekistan,0,2,AFC Asian Cup,Doha,Qatar,FALSE
 2011-01-08,DR Congo,Kenya,1,0,Nile Basin Tournament,Cairo,Egypt,TRUE
 2011-01-08,Egypt,Uganda,1,0,Nile Basin Tournament,Cairo,Egypt,FALSE
 2011-01-08,Kuwait,China PR,0,2,AFC Asian Cup,Doha,Qatar,TRUE
 2011-01-08,Tanzania,Burundi,1,1,Nile Basin Tournament,Cairo,Egypt,TRUE
 2011-01-09,Japan,Jordan,1,1,AFC Asian Cup,Doha,Qatar,TRUE
-2011-01-09,Saudi Arabia,Syria,1,2,AFC Asian Cup,Rayyan,Qatar,TRUE
+2011-01-09,Saudi Arabia,Syria,1,2,AFC Asian Cup,Al Rayyan,Qatar,TRUE
 2011-01-10,India,Australia,0,4,AFC Asian Cup,Doha,Qatar,TRUE
 2011-01-10,South Korea,Bahrain,2,1,AFC Asian Cup,Doha,Qatar,TRUE
 2011-01-11,DR Congo,Sudan,2,1,Nile Basin Tournament,Cairo,Egypt,TRUE
 2011-01-11,Egypt,Burundi,3,0,Nile Basin Tournament,Ismaila,Egypt,FALSE
-2011-01-11,Iraq,Iran,1,2,AFC Asian Cup,Rayyan,Qatar,TRUE
+2011-01-11,Iraq,Iran,1,2,AFC Asian Cup,Al Rayyan,Qatar,TRUE
 2011-01-11,North Korea,United Arab Emirates,0,0,AFC Asian Cup,Doha,Qatar,TRUE
 2011-01-11,Uganda,Tanzania,1,1,Nile Basin Tournament,Cairo,Egypt,TRUE
 2011-01-12,Qatar,China PR,2,0,AFC Asian Cup,Doha,Qatar,FALSE
 2011-01-12,Uzbekistan,Kuwait,2,1,AFC Asian Cup,Doha,Qatar,TRUE
-2011-01-13,Jordan,Saudi Arabia,1,0,AFC Asian Cup,Rayyan,Qatar,TRUE
+2011-01-13,Jordan,Saudi Arabia,1,0,AFC Asian Cup,Al Rayyan,Qatar,TRUE
 2011-01-13,Syria,Japan,1,2,AFC Asian Cup,Doha,Qatar,TRUE
 2011-01-14,Australia,South Korea,1,1,AFC Asian Cup,Doha,Qatar,TRUE
 2011-01-14,Bahrain,India,5,2,AFC Asian Cup,Doha,Qatar,TRUE
@@ -32880,7 +32880,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2011-01-14,El Salvador,Nicaragua,2,0,UNCAF Cup,Panama City,Panama,TRUE
 2011-01-14,Panama,Belize,2,0,UNCAF Cup,Panama City,Panama,FALSE
 2011-01-15,Iran,North Korea,1,0,AFC Asian Cup,Doha,Qatar,TRUE
-2011-01-15,United Arab Emirates,Iraq,0,1,AFC Asian Cup,Rayyan,Qatar,TRUE
+2011-01-15,United Arab Emirates,Iraq,0,1,AFC Asian Cup,Al Rayyan,Qatar,TRUE
 2011-01-16,Belize,El Salvador,2,5,UNCAF Cup,Panama City,Panama,TRUE
 2011-01-16,China PR,Uzbekistan,2,2,AFC Asian Cup,Doha,Qatar,TRUE
 2011-01-16,Guatemala,Costa Rica,0,2,UNCAF Cup,Panama City,Panama,TRUE
@@ -32890,14 +32890,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2011-01-17,DR Congo,Kenya,1,0,Nile Basin Tournament,Ismaila,Egypt,TRUE
 2011-01-17,Egypt,Uganda,3,1,Nile Basin Tournament,Ismaila,Egypt,FALSE
 2011-01-17,Jordan,Syria,2,1,AFC Asian Cup,Doha,Qatar,TRUE
-2011-01-17,Saudi Arabia,Japan,0,5,AFC Asian Cup,Rayyan,Qatar,TRUE
+2011-01-17,Saudi Arabia,Japan,0,5,AFC Asian Cup,Al Rayyan,Qatar,TRUE
 2011-01-18,Australia,Bahrain,1,0,AFC Asian Cup,Doha,Qatar,TRUE
 2011-01-18,Honduras,Guatemala,3,1,UNCAF Cup,Panama City,Panama,TRUE
 2011-01-18,South Korea,India,4,1,AFC Asian Cup,Doha,Qatar,TRUE
 2011-01-18,Nicaragua,Belize,1,1,UNCAF Cup,Panama City,Panama,TRUE
 2011-01-18,Panama,El Salvador,2,0,UNCAF Cup,Panama City,Panama,FALSE
 2011-01-19,Botswana,Sweden,1,2,Friendly,Cape Town,South Africa,TRUE
-2011-01-19,Iraq,North Korea,1,0,AFC Asian Cup,Rayyan,Qatar,TRUE
+2011-01-19,Iraq,North Korea,1,0,AFC Asian Cup,Al Rayyan,Qatar,TRUE
 2011-01-19,United Arab Emirates,Iran,0,3,AFC Asian Cup,Doha,Qatar,TRUE
 2011-01-21,Honduras,El Salvador,2,0,UNCAF Cup,Panama City,Panama,TRUE
 2011-01-21,Nicaragua,Guatemala,1,2,UNCAF Cup,Panama City,Panama,TRUE
@@ -33332,7 +33332,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2011-07-17,Chile,Venezuela,1,2,Copa América,San Juan,Argentina,TRUE
 2011-07-17,Iran,Madagascar,1,0,Friendly,Tehran,Iran,FALSE
 2011-07-17,Qatar,India,1,2,Friendly,Doha,Qatar,FALSE
-2011-07-17,United Arab Emirates,Lebanon,6,2,Friendly,Ai Ain,United Arab Emirates,FALSE
+2011-07-17,United Arab Emirates,Lebanon,6,2,Friendly,Al Ain,United Arab Emirates,FALSE
 2011-07-18,Singapore,Taiwan,3,2,Friendly,Singapore,Singapore,FALSE
 2011-07-19,Peru,Uruguay,0,2,Copa América,La Plata,Argentina,TRUE
 2011-07-20,Paraguay,Venezuela,0,0,Copa América,Mendoza,Argentina,TRUE
@@ -33350,7 +33350,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2011-07-23,Syria,Tajikistan,0,3,FIFA World Cup qualification,Amman,Jordan,TRUE
 2011-07-23,Thailand,Palestine,1,0,FIFA World Cup qualification,Buriram,Thailand,FALSE
 2011-07-23,Turkmenistan,Indonesia,1,1,FIFA World Cup qualification,Ashgabat,Turkmenistan,FALSE
-2011-07-23,United Arab Emirates,India,3,0,FIFA World Cup qualification,Ai Ain,United Arab Emirates,FALSE
+2011-07-23,United Arab Emirates,India,3,0,FIFA World Cup qualification,Al Ain,United Arab Emirates,FALSE
 2011-07-23,Uzbekistan,Kyrgyzstan,4,0,FIFA World Cup qualification,Tashkent,Uzbekistan,FALSE
 2011-07-24,Liberia,Gambia,3,2,Friendly,Paynesville,Liberia,FALSE
 2011-07-24,Uruguay,Paraguay,3,0,Copa América,Buenos Aires,Argentina,TRUE
@@ -33369,7 +33369,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2011-07-28,Philippines,Kuwait,1,2,FIFA World Cup qualification,Manila,Philippines,FALSE
 2011-07-28,Tajikistan,Syria,3,0,FIFA World Cup qualification,Tursunzoda,Tajikistan,FALSE
 2011-07-28,Vietnam,Qatar,2,1,FIFA World Cup qualification,Hanoi,Vietnam,FALSE
-2011-07-28,Yemen,Iraq,0,0,FIFA World Cup qualification,Ai Ain,United Arab Emirates,TRUE
+2011-07-28,Yemen,Iraq,0,0,FIFA World Cup qualification,Al Ain,United Arab Emirates,TRUE
 2011-07-30,Vanuatu,Solomon Islands,2,0,Friendly,Port Vila,Vanuatu,FALSE
 2011-07-31,Eswatini,Botswana,0,2,Friendly,Pretoria,South Africa,TRUE
 2011-08-07,El Salvador,Venezuela,2,1,Friendly,Washington,United States,TRUE
@@ -33436,7 +33436,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2011-08-22,Tuvalu,Samoa,3,0,Friendly,Nausori,Fiji,TRUE
 2011-08-24,Guyana,India,2,1,Friendly,Providence,Guyana,FALSE
 2011-08-24,Thailand,Singapore,0,0,Friendly,Bangkok,Thailand,FALSE
-2011-08-25,United Arab Emirates,Qatar,3,1,Friendly,Ai Ain,United Arab Emirates,FALSE
+2011-08-25,United Arab Emirates,Qatar,3,1,Friendly,Al Ain,United Arab Emirates,FALSE
 2011-08-26,Bahrain,Sudan,1,0,Friendly,Riffa,Bahrain,FALSE
 2011-08-27,Angola,DR Congo,1,2,Friendly,Dundo,Angola,FALSE
 2011-08-27,Fiji,Tahiti,3,0,Pacific Games,Boulari,New Caledonia,TRUE
@@ -33506,7 +33506,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2011-09-02,Trinidad and Tobago,Bermuda,1,0,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,FALSE
 2011-09-02,Turkey,Kazakhstan,2,1,UEFA Euro qualification,Istanbul,Turkey,FALSE
 2011-09-02,Ukraine,Uruguay,2,3,Friendly,Kharkiv,Ukraine,FALSE
-2011-09-02,United Arab Emirates,Kuwait,2,3,FIFA World Cup qualification,Ai Ain,United Arab Emirates,FALSE
+2011-09-02,United Arab Emirates,Kuwait,2,3,FIFA World Cup qualification,Al Ain,United Arab Emirates,FALSE
 2011-09-02,United States,Costa Rica,0,1,Friendly,Carson,United States,FALSE
 2011-09-02,Wales,Montenegro,2,1,UEFA Euro qualification,Cardiff,Wales,FALSE
 2011-09-03,Burkina Faso,Equatorial Guinea,1,0,Friendly,Bobo Dioulasso,Burkina Faso,FALSE
@@ -35805,7 +35805,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2013-11-15,Ukraine,France,2,0,FIFA World Cup qualification,Kyiv,Ukraine,FALSE
 2013-11-15,United Arab Emirates,Hong Kong,4,0,AFC Asian Cup qualification,Abu Dhabi,United Arab Emirates,FALSE
 2013-11-15,Vietnam,Uzbekistan,0,3,AFC Asian Cup qualification,Hanoi,Vietnam,FALSE
-2013-11-15,Yemen,Qatar,1,4,AFC Asian Cup qualification,Ai Ain,United Arab Emirates,TRUE
+2013-11-15,Yemen,Qatar,1,4,AFC Asian Cup qualification,Al Ain,United Arab Emirates,TRUE
 2013-11-16,Aruba,Bonaire,1,2,ABCS Tournament,Willemstad,Curaçao,TRUE
 2013-11-16,Curaçao,Suriname,1,3,ABCS Tournament,Willemstad,Curaçao,FALSE
 2013-11-16,Equatorial Guinea,Spain,1,2,Friendly,Malabo,Equatorial Guinea,FALSE
@@ -36016,7 +36016,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2014-03-05,Uzbekistan,United Arab Emirates,1,1,AFC Asian Cup qualification,Tashkent,Uzbekistan,FALSE
 2014-03-05,Vietnam,Hong Kong,3,1,AFC Asian Cup qualification,Hanoi,Vietnam,FALSE
 2014-03-05,Wales,Iceland,3,1,Friendly,Cardiff,Wales,FALSE
-2014-03-05,Yemen,Malaysia,1,2,AFC Asian Cup qualification,Ai Ain,United Arab Emirates,TRUE
+2014-03-05,Yemen,Malaysia,1,2,AFC Asian Cup qualification,Al Ain,United Arab Emirates,TRUE
 2014-03-05,Zambia,Uganda,2,1,Friendly,Ndola,Zambia,FALSE
 2014-03-07,Lesotho,Eswatini,0,1,Friendly,Maseru,Lesotho,FALSE
 2014-03-09,Lesotho,Eswatini,0,0,Friendly,Maseru,Lesotho,FALSE
@@ -38569,7 +38569,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2016-11-09,Sri Lanka,Macau,1,1,AFC Challenge Cup,Kuching,Malaysia,TRUE
 2016-11-09,Syria,Singapore,2,0,Friendly,Paroi,Malaysia,TRUE
 2016-11-09,Tajikistan,Turkmenistan,3,0,Friendly,Dushanbe,Tajikistan,FALSE
-2016-11-09,United Arab Emirates,Bahrain,2,0,Friendly,Ai Ain,United Arab Emirates,FALSE
+2016-11-09,United Arab Emirates,Bahrain,2,0,Friendly,Al Ain,United Arab Emirates,FALSE
 2016-11-10,Brazil,Argentina,3,0,FIFA World Cup qualification,Belo Horizonte,Brazil,FALSE
 2016-11-10,Colombia,Chile,0,0,FIFA World Cup qualification,Barranquilla,Colombia,FALSE
 2016-11-10,Iran,Papua New Guinea,8,1,Friendly,Shah Alam,Malaysia,TRUE
@@ -38703,7 +38703,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2017-01-08,Ivory Coast,Sweden,2,1,Friendly,Abu Dhabi,United Arab Emirates,TRUE
 2017-01-08,Libya,Senegal,1,2,Friendly,Brazzaville,Congo,TRUE
 2017-01-08,Trinidad and Tobago,Haiti,3,4,CFU Caribbean Cup qualification,Couva,Trinidad and Tobago,FALSE
-2017-01-09,Morocco,Finland,0,1,Friendly,Ai Ain,United Arab Emirates,TRUE
+2017-01-09,Morocco,Finland,0,1,Friendly,Al Ain,United Arab Emirates,TRUE
 2017-01-10,Algeria,Mauritania,6,0,Friendly,Sidi Moussa,Algeria,FALSE
 2017-01-10,Cameroon,Zimbabwe,1,1,Friendly,Yaoundé,Cameroon,FALSE
 2017-01-10,China PR,Iceland,0,2,Friendly,Nanning,China PR,FALSE
@@ -38794,7 +38794,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2017-03-23,Qatar,Iran,0,1,FIFA World Cup qualification,Doha,Qatar,FALSE
 2017-03-23,Syria,Uzbekistan,1,0,FIFA World Cup qualification,Paya Rumput,Malaysia,TRUE
 2017-03-23,Thailand,Saudi Arabia,0,3,FIFA World Cup qualification,Bangkok,Thailand,FALSE
-2017-03-23,United Arab Emirates,Japan,0,2,FIFA World Cup qualification,Ai Ain,United Arab Emirates,FALSE
+2017-03-23,United Arab Emirates,Japan,0,2,FIFA World Cup qualification,Al Ain,United Arab Emirates,FALSE
 2017-03-23,Uruguay,Brazil,1,4,FIFA World Cup qualification,Montevideo,Uruguay,FALSE
 2017-03-23,Venezuela,Peru,2,2,FIFA World Cup qualification,Maturín,Venezuela,FALSE
 2017-03-24,Austria,Moldova,2,0,FIFA World Cup qualification,Vienna,Austria,FALSE
@@ -39245,7 +39245,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2017-08-26,Iraq,Syria,1,1,Friendly,Paya Rumput,Malaysia,TRUE
 2017-08-29,Bahrain,Jordan,0,0,Friendly,Isa Town,Bahrain,FALSE
 2017-08-29,Myanmar,Malaysia,1,0,Friendly,Yangon,Myanmar,FALSE
-2017-08-29,United Arab Emirates,Saudi Arabia,2,1,FIFA World Cup qualification,Ai Ain,United Arab Emirates,FALSE
+2017-08-29,United Arab Emirates,Saudi Arabia,2,1,FIFA World Cup qualification,Al Ain,United Arab Emirates,FALSE
 2017-08-30,Oman,Afghanistan,2,0,Friendly,Muscat,Oman,FALSE
 2017-08-31,Belgium,Gibraltar,9,0,FIFA World Cup qualification,Liège,Belgium,FALSE
 2017-08-31,Brazil,Ecuador,2,0,FIFA World Cup qualification,Porto Alegre,Brazil,FALSE
@@ -39579,7 +39579,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2017-11-14,Tajikistan,Yemen,0,0,AFC Asian Cup qualification,Hisor,Tajikistan,FALSE
 2017-11-14,Trinidad and Tobago,Guyana,1,1,Friendly,Couva,Trinidad and Tobago,FALSE
 2017-11-14,Turkmenistan,Taiwan,2,1,AFC Asian Cup qualification,Balkanabat,Turkmenistan,FALSE
-2017-11-14,United Arab Emirates,Uzbekistan,1,0,Friendly,Ai Ain,United Arab Emirates,FALSE
+2017-11-14,United Arab Emirates,Uzbekistan,1,0,Friendly,Al Ain,United Arab Emirates,FALSE
 2017-11-14,Vietnam,Afghanistan,0,0,AFC Asian Cup qualification,Hanoi,Vietnam,FALSE
 2017-11-14,Wales,Panama,1,1,Friendly,Cardiff,Wales,FALSE
 2017-11-15,Australia,Honduras,3,1,FIFA World Cup qualification,Sydney,Australia,FALSE
@@ -40315,7 +40315,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-10-13,El Salvador,Barbados,3,0,CONCACAF Nations League qualification,San Salvador,El Salvador,FALSE
 2018-10-14,Poland,Italy,0,1,UEFA Nations League,Chorzów,Poland,FALSE
 2018-10-14,Russia,Turkey,2,0,UEFA Nations League,Sochi,Russia,FALSE
-2018-10-14,Israel,Albania,2,0,UEFA Nations League,Beer Sheva,Israel,FALSE
+2018-10-14,Israel,Albania,2,0,UEFA Nations League,Beersheba,Israel,FALSE
 2018-10-14,Romania,Serbia,0,0,UEFA Nations League,Bucharest,Romania,FALSE
 2018-10-14,Lithuania,Montenegro,1,4,UEFA Nations League,Vilnius,Lithuania,FALSE
 2018-10-14,Faroe Islands,Kosovo,1,1,UEFA Nations League,Tórshavn,Faroe Islands,FALSE
@@ -41152,7 +41152,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-09-05,Faroe Islands,Sweden,0,4,UEFA Euro qualification,Tórshavn,Faroe Islands,FALSE
 2019-09-05,Norway,Malta,2,0,UEFA Euro qualification,Oslo,Norway,FALSE
 2019-09-05,Romania,Spain,1,2,UEFA Euro qualification,Bucharest,Romania,FALSE
-2019-09-05,Israel,North Macedonia,1,1,UEFA Euro qualification,Beer Sheva,Israel,FALSE
+2019-09-05,Israel,North Macedonia,1,1,UEFA Euro qualification,Beersheba,Israel,FALSE
 2019-09-05,Armenia,Italy,1,3,UEFA Euro qualification,Yerevan,Armenia,FALSE
 2019-09-05,Bosnia and Herzegovina,Liechtenstein,5,0,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,FALSE
 2019-09-05,Finland,Greece,1,0,UEFA Euro qualification,Tampere,Finland,FALSE
@@ -41455,7 +41455,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-10-15,Faroe Islands,Malta,1,0,UEFA Euro qualification,Tórshavn,Faroe Islands,FALSE
 2019-10-15,Sweden,Spain,1,1,UEFA Euro qualification,Stockholm,Sweden,FALSE
 2019-10-15,Romania,Norway,1,1,UEFA Euro qualification,Bucharest,Romania,FALSE
-2019-10-15,Israel,Latvia,3,1,UEFA Euro qualification,Beer Sheva,Israel,FALSE
+2019-10-15,Israel,Latvia,3,1,UEFA Euro qualification,Beersheba,Israel,FALSE
 2019-10-15,Finland,Armenia,3,0,UEFA Euro qualification,Turku,Finland,FALSE
 2019-10-15,Liechtenstein,Italy,0,5,UEFA Euro qualification,Vaduz,Liechtenstein,FALSE
 2019-10-15,Greece,Bosnia and Herzegovina,2,1,UEFA Euro qualification,Athens,Greece,FALSE
@@ -42885,7 +42885,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-10-12,Ukraine,Bosnia and Herzegovina,1,1,FIFA World Cup qualification,Lviv,Ukraine,FALSE
 2021-10-12,Faroe Islands,Scotland,0,1,FIFA World Cup qualification,Tórshavn,Faroe Islands,FALSE
 2021-10-12,Denmark,Austria,1,0,FIFA World Cup qualification,Copenhagen,Denmark,FALSE
-2021-10-12,Israel,Moldova,2,1,FIFA World Cup qualification,Beer Sheva,Israel,FALSE
+2021-10-12,Israel,Moldova,2,1,FIFA World Cup qualification,Beersheba,Israel,FALSE
 2021-10-12,England,Hungary,1,1,FIFA World Cup qualification,London,England,FALSE
 2021-10-12,Albania,Poland,0,1,FIFA World Cup qualification,Tirana,Albania,FALSE
 2021-10-12,San Marino,Andorra,0,3,FIFA World Cup qualification,Serravalle,San Marino,FALSE
