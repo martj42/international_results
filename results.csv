@@ -3510,11 +3510,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1953-06-08,United States,England,3,6,Friendly,New York,United States,FALSE
 1953-06-11,Sweden,France,1,0,Friendly,Solna,Sweden,FALSE
 1953-06-14,German DR,Bulgaria,0,0,Friendly,Dresden,German DR,FALSE
-1953-06-28,Czechoslovakia,Romania,2,0,FIFA World Cup qualification,Prague,Czechoslovakia,FALSE
 1953-06-20,Singapore,Philippines,3,1,Friendly,Kallang,Singapore,FALSE
 1953-06-21,Denmark,Sweden,1,3,Nordic Championship,Copenhagen,Denmark,FALSE
 1953-06-24,Norway,Saarland,2,3,FIFA World Cup qualification,Oslo,Norway,FALSE
 1953-06-27,Switzerland,Denmark,1,4,Friendly,Basel,Switzerland,FALSE
+1953-06-28,Czechoslovakia,Romania,2,0,FIFA World Cup qualification,Prague,Czechoslovakia,FALSE
 1953-06-28,Romania,Bulgaria,3,1,FIFA World Cup qualification,Bucharest,Romania,FALSE
 1953-07-05,Argentina,Spain,1,0,Friendly,Buenos Aires,Argentina,FALSE
 1953-07-05,Sweden,Hungary,2,4,Friendly,Solna,Sweden,FALSE
@@ -6974,7 +6974,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1968-10-23,Wales,Italy,0,1,FIFA World Cup qualification,Cardiff,Wales,FALSE
 1968-10-24,Zambia,Tanzania,2,1,Friendly,Lusaka,Zambia,FALSE
 1968-10-26,Uruguay,Mexico,0,2,Friendly,Montevideo,Uruguay,FALSE
-1968-11-03,United States,Canada,1,0,FIFA World Cup qualification,Atlanta,United States,FALSE
 1968-10-27,Bulgaria,Netherlands,2,0,FIFA World Cup qualification,Sofia,Bulgaria,FALSE
 1968-10-27,Portugal,Romania,3,0,FIFA World Cup qualification,Oeiras,Portugal,FALSE
 1968-10-27,Yugoslavia,Spain,0,0,FIFA World Cup qualification,Belgrade,Yugoslavia,FALSE
@@ -6982,6 +6981,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1968-10-28,Nigeria,Thailand,7,2,Friendly,León,Mexico,TRUE
 1968-10-30,Poland,Republic of Ireland,1,0,Friendly,Chorzów,Poland,FALSE
 1968-10-31,Brazil,Mexico,1,2,Friendly,Rio de Janeiro,Brazil,FALSE
+1968-11-03,United States,Canada,1,0,FIFA World Cup qualification,Atlanta,United States,FALSE
 1968-11-03,Brazil,Mexico,2,1,Friendly,Belo Horizonte,Brazil,FALSE
 1968-11-03,Morocco,Senegal,1,0,FIFA World Cup qualification,Casablanca,Morocco,FALSE
 1968-11-03,United States,Bermuda,6,2,FIFA World Cup qualification,Kansas City,United States,FALSE
@@ -26402,7 +26402,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2004-02-12,Jordan,Indonesia,2,1,Friendly,Amman,Jordan,FALSE
 2004-02-13,Nigeria,Mali,2,1,African Cup of Nations,Monastir,Tunisia,TRUE
 2004-02-13,Qatar,Bahrain,2,0,Friendly,Doha,Qatar,FALSE
-2004-02-14,Belarus,Estonia,1,2,Friendly,Ta' Qali,Malta,TRUE
+2004-02-14,Belarus,Estonia,1,2,Friendly,Ta'Qali,Malta,TRUE
 2004-02-14,South Korea,Oman,5,0,Friendly,Ulsan,South Korea,FALSE
 2004-02-14,Malta,Moldova,0,0,Malta International Tournament,Attard,Malta,FALSE
 2004-02-14,Tunisia,Morocco,2,1,African Cup of Nations,Radès,Tunisia,FALSE
@@ -43168,8 +43168,23 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-01-27,Bahrain,Uganda,3,1,Friendly,Riffa,Bahrain,FALSE
 2022-01-27,Indonesia,Timor-Leste,4,1,Friendly,Gianyar,Indonesia,FALSE
 2022-01-27,Uzbekistan,South Sudan,3,0,Friendly,Dubai,United Arab Emirates,TRUE
+2022-01-27,Jamaica,Mexico,1,2,FIFA World Cup qualification,Kingston,Jamaica,FALSE
+2022-01-27,United States,El Salvador,1,0,FIFA World Cup qualification,Columbus,United States,FALSE
+2022-01-27,Honduras,Canada,0,2,FIFA World Cup qualification,San Pedro Sula,Honduras,FALSE
+2022-01-27,Costa Rica,Panama,1,0,FIFA World Cup qualification,San José,Costa Rica,FALSE
+2022-01-27,Lebanon,South Korea,0,1,FIFA World Cup qualification,Sidon,Lebanon,FALSE
+2022-01-27,Iran,Iraq,1,0,FIFA World Cup qualification,Tehran,Iran,FALSE
+2022-01-27,United Arab Emirates,Syria,2,0,FIFA World Cup qualification,Dubai,United Arab Emirates,FALSE
+2022-01-27,Japan,China PR,2,0,FIFA World Cup qualification,Saitama,Japan,FALSE
+2022-01-27,Australia,Vietnam,4,0,FIFA World Cup qualification,Melbourne,Australia,FALSE
+2022-01-27,Saudi Arabia,Oman,1,0,FIFA World Cup qualification,Jeddah,Saudi Arabia,FALSE
+2022-01-27,Ecuador,Brazil,1,1,FIFA World Cup qualification,Quito,Ecuador,FALSE
+2022-01-27,Paraguay,Uruguay,0,1,FIFA World Cup qualification,Asunción,Paraguay,FALSE
+2022-01-27,Chile,Argentina,1,2,FIFA World Cup qualification,Calama,Chile,FALSE
 2022-01-28,Jordan,New Zealand,3,1,Friendly,Abu Dhabi,United Arab Emirates,TRUE
 2022-01-28,Suriname,Barbados,1,0,Friendly,Paramaribo,Suriname,FALSE
+2022-01-28,Colombia,Peru,0,1,FIFA World Cup qualification,Barranquilla,Colombia,FALSE
+2022-01-28,Venezuela,Bolivia,4,1,FIFA World Cup qualification,Barinas,Venezuela,FALSE
 2022-01-29,Kuwait,Libya,2,0,Friendly,Kuwait City,Kuwait,FALSE
 2022-01-29,Nepal,Mauritius,1,0,Friendly,Kathmandu,Nepal,FALSE
 2022-01-29,Nicaragua,Belize,4,0,Friendly,Managua,Nicaragua,FALSE
@@ -43178,12 +43193,184 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-01-30,Indonesia,Timor-Leste,3,0,Friendly,Gianyar,Indonesia,FALSE
 2022-01-30,Egypt,Morocco,2,1,African Cup of Nations,Yaoundé,Cameroon,TRUE
 2022-01-30,Senegal,Equatorial Guinea,3,1,African Cup of Nations,Yaoundé,Cameroon,TRUE
+2022-01-30,Canada,United States,2,0,FIFA World Cup qualification,Hamilton,Canada,FALSE
+2022-01-30,Mexico,Costa Rica,0,0,FIFA World Cup qualification,Mexico City,Mexico,FALSE
+2022-01-30,Panama,Jamaica,3,2,FIFA World Cup qualification,Panama City,Panama,FALSE
+2022-01-30,Honduras,El Salvador,0,2,FIFA World Cup qualification,San Pedro Sula,Honduras,FALSE
 2022-02-01,Bahrain,DR Congo,1,0,Friendly,Riffa,Bahrain,FALSE
 2022-02-01,Kuwait,Libya,0,2,Friendly,Kuwait City,Kuwait,FALSE
 2022-02-01,Nepal,Mauritius,1,0,Friendly,Kathmandu,Nepal,FALSE
 2022-02-01,Nicaragua,Belize,1,1,Friendly,Managua,Nicaragua,FALSE
 2022-02-01,Suriname,Guyana,2,1,Friendly,Paramaribo,Suriname,FALSE
+2022-02-01,Lebanon,Iraq,1,1,FIFA World Cup qualification,Sidon,Lebanon,FALSE
+2022-02-01,Iran,United Arab Emirates,1,0,FIFA World Cup qualification,Tehran,Iran,FALSE
+2022-02-01,Syria,South Korea,0,2,FIFA World Cup qualification,Dubai,United Arab Emirates,TRUE
+2022-02-01,Vietnam,China PR,3,1,FIFA World Cup qualification,Hanoi,Vietnam,FALSE
+2022-02-01,Japan,Saudi Arabia,2,0,FIFA World Cup qualification,Saitama,Japan,FALSE
+2022-02-01,Oman,Australia,2,2,FIFA World Cup qualification,Muscat,Oman,FALSE
+2022-02-01,Bolivia,Chile,2,3,FIFA World Cup qualification,La Paz,Bolivia,FALSE
+2022-02-01,Uruguay,Venezuela,4,1,FIFA World Cup qualification,Montevideo,Uruguay,FALSE
+2022-02-01,Argentina,Colombia,1,0,FIFA World Cup qualification,Córdoba,Argentina,FALSE
+2022-02-01,Peru,Ecuador,1,1,FIFA World Cup qualification,Lima,Peru,FALSE
+2022-02-01,Brazil,Paraguay,4,0,FIFA World Cup qualification,Belo Horizonte,Brazil,FALSE
 2022-02-02,Burkina Faso,Senegal,1,3,African Cup of Nations,Yaoundé,Cameroon,TRUE
+2022-02-02,United States,Honduras,3,0,FIFA World Cup qualification,Saint Paul,United States,FALSE
+2022-02-02,Jamaica,Costa Rica,0,1,FIFA World Cup qualification,Kingston,Jamaica,FALSE
+2022-02-02,El Salvador,Canada,0,2,FIFA World Cup qualification,San Salvador,El Salvador,FALSE
+2022-02-02,Mexico,Panama,1,0,FIFA World Cup qualification,Mexico City,Mexico,FALSE
 2022-02-03,Cameroon,Egypt,0,0,African Cup of Nations,Yaoundé,Cameroon,FALSE
 2022-02-05,Cameroon,Burkina Faso,3,3,African Cup of Nations,Yaoundé,Cameroon,FALSE
 2022-02-06,Senegal,Egypt,0,0,African Cup of Nations,Yaoundé,Cameroon,TRUE
+2022-03-17,Cook Islands,Solomon Islands,0,2,FIFA World Cup qualification,Doha,Qatar,TRUE
+2022-03-18,Papua New Guinea,New Zealand,0,1,FIFA World Cup qualification,Doha,Qatar,TRUE
+2022-03-18,New Caledonia,Fiji,1,2,FIFA World Cup qualification,Doha,Qatar,TRUE
+2022-03-18,Iraq,Zambia,3,1,Friendly,Baghdad,Iraq,FALSE
+2022-03-19,Mauritius,Seychelles,0,0,Friendly,Saint Pierre,Mauritius,FALSE
+2022-03-21,Papua New Guinea,New Caledonia,1,0,FIFA World Cup qualification,Doha,Qatar,TRUE
+2022-03-21,New Zealand,Fiji,4,0,FIFA World Cup qualification,Doha,Qatar,TRUE
+2022-03-23,Bahrain,India,2,1,Friendly,Riffa,Bahrain,FALSE
+2022-03-23,Gibraltar,Grenada,0,0,Friendly,Gibraltar,Gibraltar,FALSE
+2022-03-23,Guinea-Bissau,Equatorial Guinea,3,0,Friendly,Óbidos,Portugal,TRUE
+2022-03-23,Laos,Mongolia,1,0,Friendly,Vientiane,Laos,FALSE
+2022-03-23,Malaysia,Philippines,2,0,Friendly,Kallang,Singapore,TRUE
+2022-03-23,Mozambique,Niger,1,1,Friendly,Nouakchott,Mauritania,TRUE
+2022-03-23,Tanzania,Central African Republic,3,1,Friendly,Dar es Salaam,Tanzania,FALSE
+2022-03-24,Jamaica,El Salvador,1,1,FIFA World Cup qualification,Kingston,Jamaica,FALSE
+2022-03-24,Mexico,United States,0,0,FIFA World Cup qualification,Mexico City,Mexico,FALSE
+2022-03-24,Panama,Honduras,1,1,FIFA World Cup qualification,Panama City,Panama,FALSE
+2022-03-24,Costa Rica,Canada,1,0,FIFA World Cup qualification,San José,Costa Rica,FALSE
+2022-03-24,Lebanon,Syria,0,3,FIFA World Cup qualification,Sidon,Lebanon,FALSE
+2022-03-24,Iraq,United Arab Emirates,1,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,TRUE
+2022-03-24,South Korea,Iran,2,0,FIFA World Cup qualification,Seoul,South Korea,FALSE
+2022-03-24,China PR,Saudi Arabia,1,1,FIFA World Cup qualification,Sharjah,United Arab Emirates,TRUE
+2022-03-24,Vietnam,Oman,0,1,FIFA World Cup qualification,Hanoi,Vietnam,FALSE
+2022-03-24,Australia,Japan,0,2,FIFA World Cup qualification,Sydney,Australia,FALSE
+2022-03-24,Solomon Islands,Tahiti,3,1,FIFA World Cup qualification,Doha,Qatar,TRUE
+2022-03-24,Fiji,Papua New Guinea,1,2,FIFA World Cup qualification,Doha,Qatar,TRUE
+2022-03-24,New Zealand,New Caledonia,7,1,FIFA World Cup qualification,Doha,Qatar,TRUE
+2022-03-24,Colombia,Bolivia,3,0,FIFA World Cup qualification,Barranquilla,Colombia,FALSE
+2022-03-24,Brazil,Chile,4,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,FALSE
+2022-03-24,Paraguay,Ecuador,3,1,FIFA World Cup qualification,Ciudad del Este,Paraguay,FALSE
+2022-03-24,Uruguay,Peru,1,0,FIFA World Cup qualification,Montevideo,Uruguay,FALSE
+2022-03-24,Italy,North Macedonia,0,1,FIFA World Cup qualification,Palermo,Italy,FALSE
+2022-03-24,Portugal,Turkey,3,1,FIFA World Cup qualification,Porto,Portugal,FALSE
+2022-03-24,Sweden,Czech Republic,1,0,FIFA World Cup qualification,Stockholm,Sweden,FALSE
+2022-03-24,Wales,Austria,2,1,FIFA World Cup qualification,Cardiff,Wales,FALSE
+2022-03-24,Armenia,Montenegro,1,0,Friendly,Yerevan,Armenia,FALSE
+2022-03-24,Guatemala,Cuba,1,0,Friendly,Antigua Guatemala,Guatemala,FALSE
+2022-03-24,Hungary,Serbia,0,1,Friendly,Budapest,Hungary,FALSE
+2022-03-24,Kosovo,Burkina Faso,5,0,Friendly,Pristina,Kosovo,FALSE
+2022-03-24,Liberia,Benin,0,4,Friendly,Antalya,Turkey,TRUE
+2022-03-24,Maldives,Bangladesh,2,0,Friendly,Malé,Maldives,FALSE
+2022-03-24,Scotland,Poland,1,1,Friendly,Glasgow,Scotland,FALSE
+2022-03-24,Thailand,Nepal,2,0,Friendly,Chonburi,Thailand,FALSE
+2022-03-24,Togo,Sierra Leone,3,0,Friendly,Antalya,Turkey,TRUE
+2022-03-25,Cameroon,Algeria,0,1,FIFA World Cup qualification,Douala,Cameroon,FALSE
+2022-03-25,DR Congo,Morocco,1,1,FIFA World Cup qualification,Kinshasa,DR Congo,FALSE
+2022-03-25,Egypt,Senegal,1,0,FIFA World Cup qualification,Cairo,Egypt,FALSE
+2022-03-25,Ghana,Nigeria,0,0,FIFA World Cup qualification,Kumasi,Ghana,FALSE
+2022-03-25,Mali,Tunisia,0,1,FIFA World Cup qualification,Bamako,Mali,FALSE
+2022-03-25,Argentina,Venezuela,3,0,FIFA World Cup qualification,Buenos Aires,Argentina,FALSE
+2022-03-25,Andorra,Saint Kitts and Nevis,1,0,Friendly,Andorra la Vella,Andorra,FALSE
+2022-03-25,Bosnia and Herzegovina,Georgia,0,1,Friendly,Zenica,Bosnia and Herzegovina,FALSE
+2022-03-25,Cape Verde,Liechtenstein,6,0,Friendly,San Pedro del Pinatar,Spain,TRUE
+2022-03-25,Comoros,Ethiopia,2,1,Friendly,Moroni,Comoros,FALSE
+2022-03-25,Congo,Zambia,1,3,Friendly,Antalya,Turkey,TRUE
+2022-03-25,France,Ivory Coast,2,1,Friendly,Marseille,France,FALSE
+2022-03-25,Latvia,Kuwait,1,1,Friendly,Ta'Qali,Malta,TRUE
+2022-03-25,Luxembourg,Northern Ireland,1,3,Friendly,Luxembourg,Luxembourg,FALSE
+2022-03-25,Malta,Azerbaijan,1,0,Friendly,Ta'Qali,Malta,FALSE
+2022-03-25,Norway,Slovakia,2,0,Friendly,Oslo,Norway,FALSE
+2022-03-25,Romania,Greece,0,1,Friendly,Bucharest,Romania,FALSE
+2022-03-25,San Marino,Lithuania,1,2,Friendly,Serravalle,San Marino,FALSE
+2022-03-25,South Africa,Guinea,0,0,Friendly,Kortrijk,Belgium,TRUE
+2022-03-25,Tajikistan,Uganda,1,1,Nazruz Cup,Namangan,Uzbekistan,TRUE
+2022-03-25,Trinidad and Tobago,Barbados,9,0,Friendly,Port of Spain,Trinidad and Tobago,FALSE
+2022-03-25,Uzbekistan,Kyrgyzstan,3,1,Nazruz Cup,Namangan,Uzbekistan,FALSE
+2022-03-26,Angola,Guinea-Bissau,3,2,Friendly,Óbidos,Portugal,TRUE
+2022-03-26,Bahrain,Burundi,1,0,Friendly,Arad,Iran,TRUE
+2022-03-26,Belarus,India,3,0,Friendly,Isa Town,Bahrain,TRUE
+2022-03-26,Central African Republic,Sudan,0,0,Friendly,Dar es Salaam,Tanzania,TRUE
+2022-03-26,Croatia,Slovenia,1,1,Friendly,Al Rayyan,Qatar,TRUE
+2022-03-26,England,Switzerland,2,1,Friendly,London,England,FALSE
+2022-03-26,Finland,Iceland,1,1,Friendly,Murcia,Spain,TRUE
+2022-03-26,Germany,Israel,2,0,Friendly,Sinsheim,Germany,FALSE
+2022-03-26,Gibraltar,Faroe Islands,0,0,Friendly,Gibraltar,Gibraltar,FALSE
+2022-03-26,Libya,Niger,2,1,Friendly,Nouakchott,Mauritania,TRUE
+2022-03-26,Mauritania,Mozambique,2,1,Friendly,Nouakchott,Mauritania,FALSE
+2022-03-26,Netherlands,Denmark,4,2,Friendly,Amsterdam,Netherlands,FALSE
+2022-03-26,Qatar,Bulgaria,2,1,Friendly,Al Rayyan,Qatar,FALSE
+2022-03-26,Republic of Ireland,Belgium,2,2,Friendly,Dublin,Republic of Ireland,FALSE
+2022-03-26,Singapore,Malaysia,2,1,Friendly,Kallang,Singapore,FALSE
+2022-03-26,Spain,Albania,2,1,Friendly,Barcelona,Spain,FALSE
+2022-03-27,El Salvador,Costa Rica,1,2,FIFA World Cup qualification,San Salvador,El Salvador,FALSE
+2022-03-27,Canada,Jamaica,4,0,FIFA World Cup qualification,Toronto,Canada,FALSE
+2022-03-27,Honduras,Mexico,0,1,FIFA World Cup qualification,San Pedro Sula,Honduras,FALSE
+2022-03-27,United States,Panama,5,1,FIFA World Cup qualification,Orlando,United States,FALSE
+2022-03-27,New Zealand,Tahiti,1,0,FIFA World Cup qualification,Doha,Qatar,TRUE
+2022-03-27,Solomon Islands,Papua New Guinea,3,2,FIFA World Cup qualification,Doha,Qatar,TRUE
+2022-03-27,Barbados,Guyana,0,5,Friendly,Port of Spain,Trinidad and Tobago,TRUE
+2022-03-27,Belize,Cuba,0,3,Friendly,Belmopan,Belize,FALSE
+2022-03-27,Benin,Zambia,2,1,Friendly,Antalya,Turkey,TRUE
+2022-03-27,Guatemala,Haiti,2,1,Friendly,Fort Lauderdale,United States,TRUE
+2022-03-27,Laos,Brunei Darussalam,3,2,Friendly,Vientiane,Laos,FALSE
+2022-03-27,Thailand,Suriname,1,0,Friendly,Pathum Thani,Thailand,FALSE
+2022-03-28,Andorra,Grenada,1,0,Friendly,Andorra la Vella,Andorra,FALSE
+2022-03-28,Cape Verde,San Marino,2,0,Friendly,San Pedro del Pinatar,Spain,TRUE
+2022-03-28,Montenegro,Greece,1,0,Friendly,Podgorica,Montenegro,FALSE
+2022-03-28,Vanuatu,Fiji,1,2,Friendly,Doha,Qatar,TRUE
+2022-03-29,Algeria,Cameroon,1,2,FIFA World Cup qualification,Blida,Algeria,FALSE
+2022-03-29,Morocco,DR Congo,4,1,FIFA World Cup qualification,Casablanca,Morocco,FALSE
+2022-03-29,Nigeria,Ghana,1,1,FIFA World Cup qualification,Abuja,Nigeria,FALSE
+2022-03-29,Senegal,Egypt,1,0,FIFA World Cup qualification,Diamniadio,Senegal,FALSE
+2022-03-29,Tunisia,Mali,0,0,FIFA World Cup qualification,Tunis,Tunisia,FALSE
+2022-03-29,Iran,Lebanon,2,0,FIFA World Cup qualification,Mashhad,Iran,FALSE
+2022-03-29,Syria,Iraq,1,1,FIFA World Cup qualification,Dubai,United Arab Emirates,TRUE
+2022-03-29,United Arab Emirates,South Korea,1,0,FIFA World Cup qualification,Dubai,United Arab Emirates,FALSE
+2022-03-29,Japan,Vietnam,1,1,FIFA World Cup qualification,Saitama,Japan,FALSE
+2022-03-29,Oman,China PR,2,0,FIFA World Cup qualification,Muscat,Oman,FALSE
+2022-03-29,Saudi Arabia,Australia,1,0,FIFA World Cup qualification,Jeddah,Saudi Arabia,FALSE
+2022-03-29,Ecuador,Argentina,1,1,FIFA World Cup qualification,Guayaquil,Ecuador,FALSE
+2022-03-29,Peru,Paraguay,2,0,FIFA World Cup qualification,Lima,Peru,FALSE
+2022-03-29,Bolivia,Brazil,0,4,FIFA World Cup qualification,La Paz,Bolivia,FALSE
+2022-03-29,Venezuela,Colombia,0,1,FIFA World Cup qualification,Guayana,Venezuela,FALSE
+2022-03-29,Chile,Uruguay,0,2,FIFA World Cup qualification,Santiago,Chile,FALSE
+2022-03-29,Poland,Sweden,2,0,FIFA World Cup qualification,Chorzów,Poland,FALSE
+2022-03-29,Portugal,North Macedonia,2,0,FIFA World Cup qualification,Porto,Portugal,FALSE
+2022-03-29,Albania,Georgia,0,0,Friendly,Tirana,Albania,FALSE
+2022-03-29,Angola,Equatorial Guinea,0,0,Friendly,Óbidos,Portugal,TRUE
+2022-03-29,Austria,Scotland,2,2,Friendly,Vienna,Austria,FALSE
+2022-03-29,Azerbaijan,Latvia,0,1,Friendly,Ta'Qali,Malta,TRUE
+2022-03-29,Bahrain,Belarus,0,1,Friendly,Riffa,Bahrain,FALSE
+2022-03-29,Bangladesh,Mongolia,0,0,Friendly,Sylhet,Bangladesh,FALSE
+2022-03-29,Belgium,Burkina Faso,3,0,Friendly,Anderlecht,Belgium,FALSE
+2022-03-29,Bosnia and Herzegovina,Luxembourg,1,0,Friendly,Zenica,Bosnia and Herzegovina,FALSE
+2022-03-29,Congo,Sierra Leone,1,2,Friendly,Antalya,Turkey,TRUE
+2022-03-29,Croatia,Bulgaria,2,1,Friendly,Al Rayyan,Qatar,TRUE
+2022-03-29,Denmark,Serbia,3,0,Friendly,Copenhagen,Denmark,FALSE
+2022-03-29,England,Ivory Coast,3,0,Friendly,London,England,FALSE
+2022-03-29,Faroe Islands,Liechtenstein,1,0,Friendly,San Pedro del Pinatar,Spain,TRUE
+2022-03-29,Finland,Slovakia,0,2,Friendly,Murcia,Spain,TRUE
+2022-03-29,France,South Africa,5,0,Friendly,Villeneuve D'Ascq,Algeria,TRUE
+2022-03-29,Israel,Romania,2,2,Friendly,Netanya,Israel,FALSE
+2022-03-29,Liberia,Burundi,1,2,Friendly,Antalya,Turkey,TRUE
+2022-03-29,Malta,Kuwait,2,0,Friendly,Ta'Qali,Malta,FALSE
+2022-03-29,Mauritania,Libya,2,0,Friendly,Nouakchott,Mauritania,FALSE
+2022-03-29,Netherlands,Germany,1,1,Friendly,Amsterdam,Netherlands,FALSE
+2022-03-29,Northern Ireland,Hungary,0,1,Friendly,Belfast,Northern Ireland,FALSE
+2022-03-29,Norway,Armenia,9,0,Friendly,Oslo,Norway,FALSE
+2022-03-29,Qatar,Slovenia,0,0,Friendly,Al Rayyan,Qatar,FALSE
+2022-03-29,Republic of Ireland,Lithuania,1,0,Friendly,Dublin,Republic of Ireland,FALSE
+2022-03-29,Singapore,Philippines,2,0,Friendly,Kallang,Singapore,FALSE
+2022-03-29,Spain,Iceland,5,0,Friendly,La Coruña,Spain,FALSE
+2022-03-29,Switzerland,Kosovo,1,1,Friendly,Zürich,Switzerland,FALSE
+2022-03-29,Tanzania,Sudan,1,1,Friendly,Dar es Salaam,Tanzania,FALSE
+2022-03-29,Togo,Benin,1,1,Friendly,Antalya,Turkey,TRUE
+2022-03-29,Trinidad and Tobago,Guyana,1,1,Friendly,Port of Spain,Trinidad and Tobago,FALSE
+2022-03-29,Turkey,Italy,2,3,Friendly,Konya,Turkey,FALSE
+2022-03-29,Wales,Czech Republic,1,1,Friendly,Cardiff,Wales,FALSE
+2022-03-30,Mexico,El Salvador,2,0,FIFA World Cup qualification,Mexico City,Mexico,FALSE
+2022-03-30,Costa Rica,United States,2,0,FIFA World Cup qualification,San José,Costa Rica,FALSE
+2022-03-30,Panama,Canada,1,0,FIFA World Cup qualification,Panama City,Panama,FALSE
+2022-03-30,Jamaica,Honduras,2,1,FIFA World Cup qualification,Kingston,Jamaica,FALSE
+2022-03-30,Solomon Islands,New Zealand,0,5,FIFA World Cup qualification,Doha,Qatar,TRUE
