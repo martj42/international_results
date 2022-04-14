@@ -43231,6 +43231,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-03-23,Bahrain,India,2,1,Friendly,Riffa,Bahrain,FALSE
 2022-03-23,Gibraltar,Grenada,0,0,Friendly,Gibraltar,Gibraltar,FALSE
 2022-03-23,Guinea-Bissau,Equatorial Guinea,3,0,Friendly,Óbidos,Portugal,TRUE
+2022-03-23,Guadeloupe,Cape Verde,0,2,Friendly,Orléans,France,TRUE
 2022-03-23,Laos,Mongolia,1,0,Friendly,Vientiane,Laos,FALSE
 2022-03-23,Malaysia,Philippines,2,0,Friendly,Kallang,Singapore,TRUE
 2022-03-23,Mozambique,Niger,1,1,Friendly,Nouakchott,Mauritania,TRUE
@@ -43284,9 +43285,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-03-25,Romania,Greece,0,1,Friendly,Bucharest,Romania,FALSE
 2022-03-25,San Marino,Lithuania,1,2,Friendly,Serravalle,San Marino,FALSE
 2022-03-25,South Africa,Guinea,0,0,Friendly,Kortrijk,Belgium,TRUE
-2022-03-25,Tajikistan,Uganda,1,1,Nazruz Cup,Namangan,Uzbekistan,TRUE
+2022-03-25,Tajikistan,Uganda,1,1,Navruz Cup,Namangan,Uzbekistan,TRUE
 2022-03-25,Trinidad and Tobago,Barbados,9,0,Friendly,Port of Spain,Trinidad and Tobago,FALSE
-2022-03-25,Uzbekistan,Kyrgyzstan,3,1,Nazruz Cup,Namangan,Uzbekistan,FALSE
+2022-03-25,Uzbekistan,Kyrgyzstan,3,1,Navruz Cup,Namangan,Uzbekistan,FALSE
 2022-03-26,Angola,Guinea-Bissau,3,2,Friendly,Óbidos,Portugal,TRUE
 2022-03-26,Bahrain,Burundi,1,0,Friendly,Arad,Iran,TRUE
 2022-03-26,Belarus,India,3,0,Friendly,Isa Town,Bahrain,TRUE
@@ -43314,6 +43315,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-03-27,Benin,Zambia,2,1,Friendly,Antalya,Turkey,TRUE
 2022-03-27,Guatemala,Haiti,2,1,Friendly,Fort Lauderdale,United States,TRUE
 2022-03-27,Laos,Brunei Darussalam,3,2,Friendly,Vientiane,Laos,FALSE
+2022-03-27,Liberia,Sierra Leone,0,1,Friendly,Antalya,Turkey,TRUE
 2022-03-27,Thailand,Suriname,1,0,Friendly,Pathum Thani,Thailand,FALSE
 2022-03-28,Andorra,Grenada,1,0,Friendly,Andorra la Vella,Andorra,FALSE
 2022-03-28,Cape Verde,San Marino,2,0,Friendly,San Pedro del Pinatar,Spain,TRUE
@@ -43369,6 +43371,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-03-29,Trinidad and Tobago,Guyana,1,1,Friendly,Port of Spain,Trinidad and Tobago,FALSE
 2022-03-29,Turkey,Italy,2,3,Friendly,Konya,Turkey,FALSE
 2022-03-29,Wales,Czech Republic,1,1,Friendly,Cardiff,Wales,FALSE
+2022-03-29,Tajikistan,Kyrgyzstan,1,0,Navruz Cup,Namangan,Uzbekistan,TRUE
+2022-03-29,Uzbekistan,Uganda,4,2,Navruz Cup,Namangan,Uzbekistan,FALSE
 2022-03-30,Mexico,El Salvador,2,0,FIFA World Cup qualification,Mexico City,Mexico,FALSE
 2022-03-30,Costa Rica,United States,2,0,FIFA World Cup qualification,San José,Costa Rica,FALSE
 2022-03-30,Panama,Canada,1,0,FIFA World Cup qualification,Panama City,Panama,FALSE
