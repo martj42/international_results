@@ -5322,13 +5322,13 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1963-02-06,Pakistan,China PR,0,2,Friendly,Karachi,Pakistan,FALSE
 1963-02-17,Paraguay,Bolivia,3,0,Copa Paz del Chaco,Asunción,Paraguay,FALSE
 1963-02-19,Paraguay,Bolivia,5,1,Copa Paz del Chaco,Asunción,Paraguay,FALSE
-1963-02-23,Jamaica,Haiti,3,2,Friendly,Kingston,Jamaica,FALSE
+1963-02-23,Jamaica,Haiti,3,2,Phillip Seaga Cup,Kingston,Jamaica,FALSE
 1963-02-24,Mali,Senegal,3,1,Friendly,Kumasi,Ghana,TRUE
 1963-02-27,France,England,5,2,UEFA Euro qualification,Paris,France,FALSE
-1963-02-27,Jamaica,Curaçao,1,2,Friendly,Kingston,Jamaica,FALSE
+1963-02-27,Jamaica,Curaçao,1,2,Phillip Seaga Cup,Kingston,Jamaica,FALSE
 1963-02-27,Nigeria,Senegal,4,0,Friendly,Kumasi,Ghana,TRUE
 1963-03-02,Guatemala,Honduras,1,2,Friendly,Guatemala,Guatemala,FALSE
-1963-03-02,Haiti,Curaçao,0,0,Friendly,Kingston,Jamaica,TRUE
+1963-03-02,Haiti,Curaçao,0,1,Phillip Seaga Cup,Kingston,Jamaica,TRUE
 1963-03-03,Ghana,Mali,4,0,Friendly,Accra,Ghana,FALSE
 1963-03-03,Netherlands,Belgium,0,1,Friendly,Rotterdam,Netherlands,FALSE
 1963-03-03,Paraguay,Brazil,2,2,Friendly,Asunción,Paraguay,FALSE
@@ -5351,6 +5351,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1963-03-20,Wales,Hungary,1,1,UEFA Euro qualification,Cardiff,Wales,FALSE
 1963-03-21,Bolivia,Peru,3,2,Copa América,La Paz,Bolivia,FALSE
 1963-03-23,Guatemala,Panama,2,2,CONCACAF Championship,San Salvador,El Salvador,TRUE
+1963-03-23,El Salvador,Nicaragua,6,1,CONCACAF Championship,San Salvador,El Salvador,FALSE
 1963-03-23,Uruguay,Chile,3,2,Copa Juan Pinto Durán,Montevideo,Uruguay,FALSE
 1963-03-24,Argentina,Brazil,3,0,Copa América,La Paz,Bolivia,TRUE
 1963-03-24,Bolivia,Paraguay,2,0,Copa América,Cochabamba,Bolivia,FALSE
@@ -5358,8 +5359,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1963-03-24,Costa Rica,Jamaica,6,0,CONCACAF Championship,Santa Ana,El Salvador,TRUE
 1963-03-24,Mexico,Curaçao,1,2,CONCACAF Championship,Santa Ana,El Salvador,TRUE
 1963-03-24,Uganda,Ethiopia,1,7,Friendly,Kampala,Uganda,FALSE
+1963-03-25,Honduras,Nicaragua,1,0,CONCACAF Championship,San Salvador,El Salvador,TRUE
+1963-03-25,El Salvador,Panama,1,1,CONCACAF Championship,San Salvador,El Salvador,FALSE
 1963-03-27,Brazil,Ecuador,2,2,Copa América,Cochabamba,Bolivia,TRUE
 1963-03-27,Guatemala,Nicaragua,3,1,CONCACAF Championship,San Salvador,El Salvador,TRUE
+1963-03-27,El Salvador,Honduras,2,2,CONCACAF Championship,San Salvador,El Salvador,FALSE
 1963-03-27,Paraguay,Peru,4,1,Copa América,Cochabamba,Bolivia,TRUE
 1963-03-27,Turkey,Italy,0,1,UEFA Euro qualification,Istanbul,Turkey,FALSE
 1963-03-28,Bolivia,Argentina,3,2,Copa América,La Paz,Bolivia,FALSE
@@ -5369,6 +5373,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1963-03-29,Nicaragua,Panama,0,5,CONCACAF Championship,San Salvador,El Salvador,TRUE
 1963-03-30,Costa Rica,Mexico,0,0,CONCACAF Championship,Santa Ana,El Salvador,TRUE
 1963-03-30,Jamaica,Curaçao,1,2,CONCACAF Championship,Santa Ana,El Salvador,TRUE
+1963-03-31,Panama,Honduras,1,0,CONCACAF Championship,San Salvador,El Salvador,TRUE
+1963-03-31,El Salvador,Guatemala,1,1,CONCACAF Championship,San Salvador,El Salvador,FALSE
 1963-03-31,Argentina,Paraguay,1,1,Copa América,La Paz,Bolivia,TRUE
 1963-03-31,Belgium,Yugoslavia,0,1,UEFA Euro qualification,Brussels,Belgium,FALSE
 1963-03-31,Bolivia,Brazil,5,4,Copa América,Cochabamba,Bolivia,FALSE
@@ -5382,15 +5388,18 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1963-04-02,Syria,Tunisia,0,1,Arab Cup,Beirut,Lebanon,TRUE
 1963-04-02,Kuwait,Jordan,4,0,Arab Cup,Beirut,Lebanon,TRUE
 1963-04-03,Honduras,Curaçao,1,4,CONCACAF Championship,San Salvador,El Salvador,TRUE
+1963-04-03,El Salvador,Costa Rica,1,4,CONCACAF Championship,San Salvador,El Salvador,FALSE
 1963-04-03,Northern Ireland,Wales,1,4,British Championship,Belfast,Northern Ireland,FALSE
 1963-04-04,Jordan,Tunisia,0,4,Arab Cup,Beirut,Lebanon,TRUE
 1963-04-04,Lebanon,Syria,2,3,Arab Cup,Beirut,Lebanon,FALSE
 1963-04-04,Suriname,Trinidad and Tobago,4,3,Friendly,Paramaribo,Suriname,FALSE
 1963-04-05,Costa Rica,Curaçao,1,0,CONCACAF Championship,San Salvador,El Salvador,TRUE
+1963-04-05,El Salvador,Honduras,3,0,CONCACAF Championship,San Salvador,El Salvador,FALSE
 1963-04-06,England,Scotland,1,2,British Championship,London,England,FALSE
 1963-04-06,Kuwait,Tunisia,1,5,Arab Cup,Beirut,Lebanon,TRUE
 1963-04-06,Lebanon,Jordan,5,0,Arab Cup,Beirut,Lebanon,FALSE
 1963-04-07,El Salvador,Curaçao,3,2,CONCACAF Championship,San Salvador,El Salvador,FALSE
+1963-04-07,Costa Rica,Honduras,2,1,CONCACAF Championship,San Salvador,El Salvador,TRUE
 1963-04-07,Kuwait,Syria,0,4,Arab Cup,Beirut,Lebanon,TRUE
 1963-04-07,Lebanon,Tunisia,0,1,Arab Cup,Beirut,Lebanon,FALSE
 1963-04-13,Brazil,Argentina,2,3,Copa Roca,São Paulo,Brazil,FALSE
@@ -5822,12 +5831,16 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1965-03-27,Malaysia,Japan,1,1,Friendly,Kuala Lumpur,Malaysia,FALSE
 1965-03-28,Costa Rica,Curaçao,6,0,CONCACAF Championship,Guatemala,Guatemala,TRUE
 1965-03-28,El Salvador,Mexico,0,2,CONCACAF Championship,Guatemala,Guatemala,TRUE
+1965-03-28,Guatemala,Haiti,3,0,CONCACAF Championship,Guatemala,Guatemala,FALSE
 1965-03-29,Guinea,Senegal,3,1,African Cup of Nations qualification,Conakry,Guinea,FALSE
 1965-03-30,El Salvador,Curaçao,1,1,CONCACAF Championship,Guatemala,Guatemala,TRUE
+1965-03-30,Costa Rica,Haiti,3,1,CONCACAF Championship,Guatemala,Guatemala,TRUE
 1965-03-31,Northern Ireland,Wales,0,5,British Championship,Belfast,Northern Ireland,FALSE
 1965-04-01,Mexico,Curaçao,5,0,CONCACAF Championship,Guatemala,Guatemala,TRUE
+1965-04-01,Guatemala,Costa Rica,0,0,CONCACAF Championship,Guatemala,Guatemala,FALSE
 1965-04-03,Peru,Paraguay,0,1,Friendly,Lima,Peru,FALSE
 1965-04-04,Ethiopia,Kenya,2,1,African Cup of Nations qualification,Addis Ababa,Ethiopia,FALSE
+1965-04-04,Guatemala,El Salvador,4,1,CONCACAF Championship,Guatemala,Guatemala,FALSE
 1965-04-04,Haiti,Mexico,0,3,CONCACAF Championship,Guatemala,Guatemala,TRUE
 1965-04-06,Costa Rica,Mexico,1,1,CONCACAF Championship,Guatemala,Guatemala,TRUE
 1965-04-06,Guatemala,Curaçao,3,2,CONCACAF Championship,Guatemala,Guatemala,FALSE
@@ -5838,6 +5851,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1965-04-10,England,Scotland,2,2,British Championship,London,England,FALSE
 1965-04-11,Albania,Switzerland,0,2,FIFA World Cup qualification,Tirana,Albania,FALSE
 1965-04-11,Guatemala,Mexico,1,2,CONCACAF Championship,Guatemala,Guatemala,FALSE
+1965-04-11,El Salvador,Haiti,3,1,CONCACAF Championship,Guatemala,Guatemala,TRUE
 1965-04-14,Ghana,DR Congo,4,1,Friendly,Accra,Ghana,FALSE
 1965-04-15,Chile,Peru,4,1,Copa del Pacífico,Santiago,Chile,FALSE
 1965-04-18,Ethiopia,Sudan,1,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,FALSE
@@ -6428,6 +6442,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1967-01-13,Curaçao,Trinidad and Tobago,1,2,CONCACAF Championship qualification,Kingston,Jamaica,TRUE
 1967-01-13,Uruguay,Bolivia,4,0,Copa América,Montevideo,Uruguay,FALSE
 1967-01-14,Jamaica,Cuba,2,1,CONCACAF Championship qualification,Kingston,Jamaica,FALSE
+1967-01-16,Haiti,Trinidad and Tobago,4,2,CONCACAF Championship qualification,Kingston,Jamaica,TRUE
 1967-01-17,Curaçao,Cuba,2,2,CONCACAF Championship qualification,Kingston,Jamaica,TRUE
 1967-01-17,Egypt,German DR,1,2,Friendly,Cairo,United Arab Republic,TRUE
 1967-01-18,Argentina,Paraguay,4,1,Copa América,Montevideo,Uruguay,TRUE
@@ -6463,13 +6478,13 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1967-02-02,Uruguay,Argentina,1,0,Copa América,Montevideo,Uruguay,FALSE
 1967-02-03,Mali,Congo,1,0,Friendly,Bamako,Mali,FALSE
 1967-02-05,Tunisia,Cameroon,4,0,African Cup of Nations qualification,Tunis,Tunisia,FALSE
+1967-02-09,Nicaragua,Panama,3,1,CONCACAF Championship qualification,Guatemala,Guatemala,TRUE
 1967-02-12,Burkina Faso,Algeria,1,2,African Cup of Nations qualification,Ouagadougou,Upper Volta,FALSE
 1967-02-12,Ghana,Nigeria,2,0,Friendly,Accra,Ghana,FALSE
 1967-02-12,Iraq,German DR,1,1,Friendly,Baghdad,Iraq,FALSE
-1967-02-13,Guatemala,Panama,3,1,CONCACAF Championship qualification,Guatemala,Guatemala,FALSE
+1967-02-12,Guatemala,Panama,3,1,CONCACAF Championship qualification,Guatemala,Guatemala,FALSE
+1967-02-14,Guatemala,Nicaragua,3,1,CONCACAF Championship qualification,Guatemala,Guatemala,FALSE
 1967-02-15,Greece,Libya,4,0,Friendly,Athens,Greece,FALSE
-1967-02-15,Guatemala,Nicaragua,3,1,CONCACAF Championship qualification,Guatemala,Guatemala,FALSE
-1967-02-17,Nicaragua,Panama,3,1,CONCACAF Championship qualification,Guatemala,Guatemala,TRUE
 1967-02-18,Togo,DR Congo,2,4,Friendly,Lomé,Togo,FALSE
 1967-02-19,Ethiopia,Kenya,2,0,Friendly,Khartoum,Sudan,TRUE
 1967-02-19,Ghana,Ivory Coast,2,2,Friendly,Accra,Ghana,FALSE
@@ -6486,20 +6501,28 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1967-02-28,France,Corsica,0,2,Friendly,Marseille,France,FALSE
 1967-03-05,Benin,Congo,1,1,Friendly,Cotonou,Dahomey,FALSE
 1967-03-05,Ivory Coast,Liberia,1,1,Friendly,Abidjan,Ivory Coast,FALSE
+1967-03-05,Honduras,Trinidad and Tobago,1,0,CONCACAF Championship,Tegucigalpa,Honduras,FALSE
+1967-03-06,Haiti,Guatemala,1,2,CONCACAF Championship,Tegucigalpa,Honduras,TRUE
 1967-03-06,Mexico,Nicaragua,4,0,CONCACAF Championship,Tegucigalpa,Honduras,TRUE
 1967-03-07,Libya,Sudan,1,1,Friendly,Tripoli,Libya,FALSE
 1967-03-08,Greece,Romania,1,2,Friendly,Athens,Greece,FALSE
 1967-03-08,Haiti,Trinidad and Tobago,2,3,CONCACAF Championship,Tegucigalpa,Honduras,TRUE
+1967-03-08,Honduras,Guatemala,1,1,CONCACAF Championship,Tegucigalpa,Honduras,FALSE
 1967-03-10,Guatemala,Mexico,1,0,CONCACAF Championship,Tegucigalpa,Honduras,TRUE
+1967-03-10,Haiti,Nicaragua,2,1,CONCACAF Championship,Tegucigalpa,Honduras,TRUE
 1967-03-10,Iraq,Sudan,2,2,Friendly,Tripoli,Libya,TRUE
 1967-03-12,Libya,Iraq,0,1,Friendly,Tripoli,Libya,FALSE
+1967-03-12,Honduras,Guatemala,0,0,CONCACAF Championship,Tegucigalpa,Honduras,FALSE
 1967-03-12,Mexico,Trinidad and Tobago,4,0,CONCACAF Championship,Tegucigalpa,Honduras,TRUE
 1967-03-12,Nigeria,Ivory Coast,0,0,African Cup of Nations qualification,Lagos,Nigeria,FALSE
 1967-03-14,Haiti,Mexico,0,1,CONCACAF Championship,Tegucigalpa,Honduras,TRUE
+1967-03-14,Trinidad and Guatemala,Guatemala,0,2,CONCACAF Championship,Tegucigalpa,Honduras,TRUE
 1967-03-16,Nicaragua,Trinidad and Tobago,1,3,CONCACAF Championship,Tegucigalpa,Honduras,TRUE
+1967-03-16,Honduras,Haiti,2,0,CONCACAF Championship,Tegucigalpa,Honduras,FALSE
 1967-03-18,DR Congo,Sudan,3,2,African Cup of Nations qualification,Kinshasa,DR Congo,FALSE
 1967-03-19,Congo,Ghana,3,1,Friendly,Brazzaville,Congo,FALSE
 1967-03-19,Honduras,Mexico,0,1,CONCACAF Championship,Tegucigalpa,Honduras,FALSE
+1967-03-19,Guatemala,Nicaragua,2,0,CONCACAF Championship,Tegucigalpa,Honduras,TRUE
 1967-03-19,Luxembourg,Belgium,0,5,UEFA Euro qualification,Luxembourg,Luxembourg,FALSE
 1967-03-22,Algeria,Hungary,0,1,Friendly,Algiers,Algeria,FALSE
 1967-03-22,Cyprus,Italy,0,2,UEFA Euro qualification,Nicosia,Cyprus,FALSE
@@ -7122,7 +7145,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1969-04-16,Portugal,Switzerland,0,2,FIFA World Cup qualification,Lisbon,Portugal,FALSE
 1969-04-16,Scotland,Germany,1,1,FIFA World Cup qualification,Glasgow,Scotland,FALSE
 1969-04-19,Cyprus,Austria,1,2,FIFA World Cup qualification,Nicosia,Cyprus,FALSE
-1969-04-20,Haiti,United States,2,0,FIFA World Cup qualification,Port-au-Prince,Haiti,FALSE
+1969-04-20,Haiti,United States,2,0,CONCACAF Championship qualification,Port-au-Prince,Haiti,FALSE
 1969-04-20,Poland,Luxembourg,8,1,FIFA World Cup qualification,Cracow,Poland,FALSE
 1969-04-23,Bulgaria,Luxembourg,2,1,FIFA World Cup qualification,Sofia,Bulgaria,FALSE
 1969-04-23,Israel,Austria,1,1,Friendly,Ramat-Gan,Israel,FALSE
@@ -7151,7 +7174,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1969-05-10,Nigeria,Ghana,2,1,FIFA World Cup qualification,Ibadan,Nigeria,FALSE
 1969-05-10,Northern Ireland,Wales,0,0,British Championship,Belfast,Northern Ireland,FALSE
 1969-05-11,Sudan,Ethiopia,3,1,FIFA World Cup qualification,Khartoum,Sudan,FALSE
-1969-05-11,United States,Haiti,0,1,FIFA World Cup qualification,San Diego,United States,FALSE
+1969-05-11,United States,Haiti,0,1,CONCACAF Championship qualification,San Diego,United States,FALSE
 1969-05-14,El Salvador,Peru,1,4,Friendly,San Salvador,El Salvador,FALSE
 1969-05-14,Switzerland,Romania,0,1,FIFA World Cup qualification,Lausanne,Switzerland,FALSE
 1969-05-17,Scotland,Cyprus,8,0,FIFA World Cup qualification,Glasgow,Scotland,FALSE
@@ -7315,6 +7338,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1969-10-18,South Korea,Japan,2,0,FIFA World Cup qualification,Seoul,South Korea,FALSE
 1969-10-19,Yugoslavia,Belgium,4,0,FIFA World Cup qualification,Skopje,Yugoslavia,FALSE
 1969-10-20,South Korea,Australia,1,1,FIFA World Cup qualification,Seoul,South Korea,FALSE
+1969-10-21,Mexico,Bermuda,3,0,CONCACAF Championship qualification,Mexico City,Mexico,FALSE
 1969-10-22,Germany,Scotland,3,2,FIFA World Cup qualification,Hamburg,Germany,FALSE
 1969-10-22,Hungary,Denmark,3,0,FIFA World Cup qualification,Budapest,Hungary,FALSE
 1969-10-22,Netherlands,Bulgaria,1,1,FIFA World Cup qualification,Rotterdam,Netherlands,FALSE
@@ -7331,11 +7355,13 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1969-11-01,France,Sweden,3,0,FIFA World Cup qualification,Paris,France,FALSE
 1969-11-01,Indonesia,Thailand,4,0,Merdeka Tournament,Ipoh,Malaysia,TRUE
 1969-11-01,Indonesia,South Korea,3,0,Merdeka Tournament,Ipoh,Malaysia,TRUE
+1969-11-02,Bermuda,Mexico,2,1,CONCACAF Championship qualification,Hamilton,Bermuda,FALSE
 1969-11-02,Myanmar,India,6,0,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
 1969-11-02,Egypt,Sudan,3,1,Friendly,Cairo,Egypt,FALSE
 1969-11-02,Singapore,Western Australia,4,2,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
 1969-11-02,Switzerland,Portugal,1,1,FIFA World Cup qualification,Berne,Switzerland,FALSE
 1969-11-03,Malaysia,South Korea,4,1,Merdeka Tournament,Kuala Lumpur,Malaysia,FALSE
+1969-11-03,Jamaica,Panama,1,1,CONCACAF Championship qualification,Kingston,Jamaica,FALSE
 1969-11-04,Myanmar,Western Australia,5,2,Merdeka Tournament,Ipoh,Malaysia,TRUE
 1969-11-04,India,Singapore,3,0,Merdeka Tournament,Ipoh,Malaysia,TRUE
 1969-11-04,Italy,Wales,4,1,FIFA World Cup qualification,Rome,Italy,FALSE
@@ -7383,6 +7409,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1969-11-23,Laos,Malaysia,1,1,King's Cup,Bangkok,Thailand,TRUE
 1969-11-23,Thailand,South Korea,0,0,King's Cup,Bangkok,Thailand,FALSE
 1969-11-23,Zimbabwe,Australia,1,1,FIFA World Cup qualification,Maputo,Mozambique,TRUE
+1969-11-23,Costa Rica,Jamaica,3,0,CONCACAF Championship,San José,Costa Rica,FALSE
 1969-11-24,Indonesia,Western Australia,3,1,King's Cup,Bangkok,Thailand,TRUE
 1969-11-24,Singapore,Vietnam Republic,1,1,King's Cup,Bangkok,Thailand,TRUE
 1969-11-26,Indonesia,Laos,3,0,King's Cup,Bangkok,Thailand,TRUE
@@ -7390,19 +7417,24 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1969-11-27,Australia,Zimbabwe,0,0,FIFA World Cup qualification,Maputo,Mozambique,TRUE
 1969-11-27,Costa Rica,Curaçao,2,1,CONCACAF Championship,San José,Costa Rica,FALSE
 1969-11-27,Jamaica,Mexico,0,2,CONCACAF Championship,San José,Costa Rica,TRUE
+1969-11-27,Mexico,Jamaica,2,0,CONCACAF Championship,San José,Costa Rica,TRUE
 1969-11-28,Indonesia,South Korea,0,1,King's Cup,Bangkok,Thailand,TRUE
 1969-11-28,Laos,Vietnam Republic,0,7,King's Cup,Bangkok,Thailand,TRUE
 1969-11-29,Guatemala,Curaçao,6,1,CONCACAF Championship,San José,Costa Rica,TRUE
 1969-11-29,Zimbabwe,Australia,1,3,FIFA World Cup qualification,Maputo,Mozambique,TRUE
 1969-11-30,Jamaica,Trinidad and Tobago,2,3,CONCACAF Championship,San José,Costa Rica,TRUE
+1969-11-30,Costa Rica,Mexico,2,0,CONCACAF Championship,San José,Costa Rica,FALSE
 1969-12-01,Malawi,Zimbabwe,2,2,Friendly,Blantyre,Malawi,FALSE
 1969-12-02,Curaçao,Trinidad and Tobago,3,1,CONCACAF Championship,San José,Costa Rica,TRUE
+1969-12-02,Mexico,Guatemala,0,1,CONCACAF Championship,San José,Costa Rica,TRUE
 1969-12-03,Czechoslovakia,Hungary,4,1,FIFA World Cup qualification,Marseille,France,TRUE
 1969-12-04,Costa Rica,Trinidad and Tobago,5,0,CONCACAF Championship,San José,Costa Rica,FALSE
 1969-12-04,Israel,Australia,1,0,FIFA World Cup qualification,Ramat-Gan,Israel,FALSE
+1969-12-04,Jamaica,Guatemala,0,0,CONCACAF Championship,San José,Costa Rica,TRUE
 1969-12-04,Mexico,Curaçao,2,2,CONCACAF Championship,San José,Costa Rica,TRUE
 1969-12-05,Algeria,North Korea,1,3,Friendly,Algiers,Algeria,FALSE
 1969-12-06,Jamaica,Curaçao,1,2,CONCACAF Championship,San José,Costa Rica,TRUE
+1969-12-07,Mexico,Trinidad and Tobago,0,0,CONCACAF Championship,San José,Costa Rica,TRUE
 1969-12-07,Costa Rica,Guatemala,1,1,CONCACAF Championship,San José,Costa Rica,FALSE
 1969-12-07,Luxembourg,Bulgaria,1,3,FIFA World Cup qualification,Luxembourg,Luxembourg,FALSE
 1969-12-08,Iraq,German DR,1,1,Friendly,Baghdad,Iraq,FALSE
@@ -7963,27 +7995,30 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1971-09-01,Hungary,Yugoslavia,2,1,Friendly,Budapest,Hungary,FALSE
 1971-09-01,Senegal,Guinea,0,0,African Cup of Nations qualification,Dakar,Senegal,FALSE
 1971-09-04,Austria,Sweden,1,0,UEFA Euro qualification,Vienna,Austria,FALSE
-1971-09-07,Honduras,Guatemala,1,0,CONCACAF Championship qualification,Tegucigalpa,Honduras,FALSE
+1971-09-05,Honduras,Guatemala,1,0,CONCACAF Championship qualification,Tegucigalpa,Honduras,FALSE
 1971-09-08,Denmark,Finland,0,0,Nordic Championship,Copenhagen,Denmark,FALSE
 1971-09-08,Germany,Mexico,5,0,Friendly,Hanover,Germany,FALSE
 1971-09-08,Norway,France,1,3,UEFA Euro qualification,Oslo,Norway,FALSE
 1971-09-09,Fiji,New Caledonia,1,5,South Pacific Games,Papeete,French Polynesia,TRUE
 1971-09-09,Tahiti,Papua New Guinea,2,2,South Pacific Games,Papeete,French Polynesia,FALSE
+1971-09-09,El Salvador,Nicaragua,3,2,CONCACAF Championship qualification,San Salvador,El Salvador,FALSE
 1971-09-10,South Korea,Iran,2,0,Friendly,Seoul,South Korea,FALSE
 1971-09-11,Cook Islands,Papua New Guinea,1,16,South Pacific Games,Papeete,French Polynesia,TRUE
 1971-09-11,Fiji,Vanuatu,4,6,South Pacific Games,Papeete,French Polynesia,TRUE
 1971-09-12,South Korea,Iran,0,2,Friendly,Seoul,South Korea,FALSE
+1971-09-12,Guatemala,Honduras,1,1,CONCACAF Championship qualification,Guatemala,Guatemala,FALSE
 1971-09-13,New Caledonia,Vanuatu,0,0,South Pacific Games,Papeete,French Polynesia,TRUE
 1971-09-13,Tahiti,Cook Islands,30,0,South Pacific Games,Papeete,French Polynesia,FALSE
-1971-09-14,Guatemala,Honduras,1,1,CONCACAF Championship qualification,Guatemala,Guatemala,FALSE
 1971-09-15,Cook Islands,Fiji,1,15,South Pacific Games,Papeete,French Polynesia,TRUE
 1971-09-15,El Salvador,Nicaragua,1,0,CONCACAF Championship qualification,San Salvador,El Salvador,FALSE
+1971-09-15,Suriname,Guyana,4,1,CONCACAF Championship qualification,Paramaribo,Suriname,FALSE
 1971-09-16,New Caledonia,Papua New Guinea,4,0,South Pacific Games,Papeete,French Polynesia,TRUE
 1971-09-16,Tahiti,Vanuatu,1,2,South Pacific Games,Papeete,French Polynesia,FALSE
 1971-09-18,German DR,Mexico,1,1,Friendly,Leipzig,German DR,FALSE
 1971-09-18,Russia,India,5,0,Friendly,Moscow,Soviet Union,FALSE
 1971-09-18,Tahiti,Papua New Guinea,8,1,South Pacific Games,Papeete,French Polynesia,FALSE
 1971-09-18,New Caledonia,Vanuatu,7,1,South Pacific Games,Papeete,French Polynesia,TRUE
+1971-09-21,Guyana,Suriname,2,3,CONCACAF Championship qualification,Georgetown,Guyana,FALSE
 1971-09-22,Finland,Romania,0,4,UEFA Euro qualification,Helsinki,Finland,FALSE
 1971-09-22,Poland,Turkey,5,1,UEFA Euro qualification,Cracow,Poland,FALSE
 1971-09-22,Russia,Northern Ireland,1,0,UEFA Euro qualification,Moscow,Soviet Union,FALSE
@@ -8002,6 +8037,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1971-10-02,Tanzania,Zanzibar,1,1,Friendly,Nairobi,Kenya,TRUE
 1971-10-03,Kenya,Uganda,2,0,Friendly,Nairobi,Kenya,FALSE
 1971-10-04,Cuba,Jamaica,0,0,CONCACAF Championship qualification,Havana,Cuba,FALSE
+1971-10-06,Bermuda,Mexico,0,2,CONCACAF Championship qualification,Hamilton,Bermuda,FALSE
+1971-10-06,Mexico,Bermuda,4,0,CONCACAF Championship qualification,Mexico City,Mexico,FALSE
 1971-10-08,Lesotho,Malawi,0,0,Friendly,Maseru,Lesotho,FALSE
 1971-10-09,France,Hungary,0,2,UEFA Euro qualification,Colombes,France,FALSE
 1971-10-09,Italy,Sweden,3,0,UEFA Euro qualification,Milan,Italy,FALSE
@@ -8054,8 +8091,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1971-11-17,Netherlands,Luxembourg,8,0,UEFA Euro qualification,Eindhoven,Netherlands,FALSE
 1971-11-19,Iraq,Kuwait,3,1,Friendly,Baghdad,Iraq,FALSE
 1971-11-20,Italy,Austria,2,2,UEFA Euro qualification,Rome,Italy,FALSE
+1971-11-20,Cuba,Costa Rica,0,3,CONCACAF Championship,Port of Spain,Trinidad and Tobago,TRUE
 1971-11-21,Australia,Israel,1,3,Friendly,Melbourne,Australia,FALSE
 1971-11-21,Haiti,Mexico,0,0,CONCACAF Championship,San Fernando,Trinidad and Tobago,TRUE
+1971-11-21,Trinidad and Tobago,Honduras,1,1,CONCACAF Championship,San Fernando,Trinidad and Tobago,FALSE
 1971-11-21,Portugal,Belgium,1,1,UEFA Euro qualification,Lisbon,Portugal,FALSE
 1971-11-23,Cuba,Honduras,3,1,CONCACAF Championship,Port of Spain,Trinidad and Tobago,TRUE
 1971-11-24,Costa Rica,Haiti,0,0,CONCACAF Championship,Port of Spain,Trinidad and Tobago,TRUE
@@ -8063,11 +8102,13 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1971-11-24,Romania,Wales,2,0,UEFA Euro qualification,Bucharest,Romania,FALSE
 1971-11-24,Spain,Cyprus,7,0,UEFA Euro qualification,Granada,Spain,FALSE
 1971-11-26,Trinidad and Tobago,Mexico,0,2,CONCACAF Championship,Port of Spain,Trinidad and Tobago,FALSE
+1971-11-27,Costa Rica,Honduras,2,1,CONCACAF Championship,Port of Spain,Trinidad and Tobago,TRUE
 1971-11-27,Grenada,Saint Lucia,5,2,Windward Islands Tournament,Roseau,Dominica,TRUE
 1971-11-27,Nigeria,Burkina Faso,4,0,Friendly,Lagos,Nigeria,FALSE
 1971-11-28,Cuba,Mexico,0,1,CONCACAF Championship,San Fernando,Trinidad and Tobago,TRUE
 1971-11-28,Dominica,Saint Vincent and the Grenadines,3,0,Windward Islands Tournament,Roseau,Dominica,FALSE
 1971-11-28,Trinidad and Tobago,Haiti,1,6,CONCACAF Championship,Arima,Trinidad and Tobago,FALSE
+1971-11-30,Trinidad and Tobago,Cuba,2,2,CONCACAF Championship,Port of Spain,Trinidad and Tobago,FALSE
 1971-11-30,Barbados,Curaçao,1,3,Friendly,Bridgetown,Barbados,FALSE
 1971-11-30,Grenada,Saint Vincent and the Grenadines,1,1,Windward Islands Tournament,Roseau,Dominica,TRUE
 1971-11-30,Togo,Burkina Faso,1,0,Friendly,Lomé,Togo,FALSE
@@ -8082,6 +8123,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1971-12-04,Dominica,Grenada,3,0,Windward Islands Tournament,Roseau,Dominica,FALSE
 1971-12-04,Honduras,Mexico,1,2,CONCACAF Championship,Port of Spain,Trinidad and Tobago,TRUE
 1971-12-04,Sierra Leone,Nigeria,0,1,Friendly,Freetown,Sierra Leone,FALSE
+1971-12-05,Trinidad and Tobago,Costa Rica,3,1,CONCACAF Championship,Port of Spain,Trinidad and Tobago,FALSE
 1971-12-05,Kenya,Zambia,1,0,Friendly,Kisumu,Kenya,FALSE
 1971-12-05,Tanzania,Burundi,4,1,Friendly,Dar es Salaam,Tanzania,FALSE
 1971-12-05,Turkey,Poland,1,0,UEFA Euro qualification,Izmir,Turkey,FALSE
