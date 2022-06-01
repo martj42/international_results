@@ -43278,6 +43278,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-03-23,Malaysia,Philippines,2,0,Friendly,Kallang,Singapore,TRUE
 2022-03-23,Mozambique,Niger,1,1,Friendly,Nouakchott,Mauritania,TRUE
 2022-03-23,Tanzania,Central African Republic,3,1,Friendly,Dar es Salaam,Tanzania,FALSE
+2022-03-23,Chad,Gambia,0,1,African Cup of Nations qualification,Yaoundé,Cameroon,TRUE
+2022-03-23,Djibouti,South Sudan,2,4,African Cup of Nations qualification,Alexandria,Egypt,TRUE
+2022-03-23,Seychelles,Lesotho,0,0,African Cup of Nations qualification,Saint Pierre,Mauritius,TRUE
+2022-03-23,Somalia,Eswatini,0,3,African Cup of Nations qualification,Dar es Salaam,Tanzania,TRUE
 2022-03-24,Jamaica,El Salvador,1,1,FIFA World Cup qualification,Kingston,Jamaica,FALSE
 2022-03-24,Mexico,United States,0,0,FIFA World Cup qualification,Mexico City,Mexico,FALSE
 2022-03-24,Panama,Honduras,1,1,FIFA World Cup qualification,Panama City,Panama,FALSE
@@ -43308,6 +43312,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-03-24,Scotland,Poland,1,1,Friendly,Glasgow,Scotland,FALSE
 2022-03-24,Thailand,Nepal,2,0,Friendly,Chonburi,Thailand,FALSE
 2022-03-24,Togo,Sierra Leone,3,0,Friendly,Antalya,Turkey,TRUE
+2022-03-24,Estonia,Cyprus,0,0,UEFA Nations League,Tallinn,Estonia,FALSE
+2022-03-24,Moldova,Kazakhstan,1,2,UEFA Nations League,Chișinău,Moldova,FALSE
+2022-03-24,Mauritius,Sao Tome e Principe,3,0,African Cup of Nations qualification,Saint Pierre,Mauritius,FALSE
 2022-03-25,Cameroon,Algeria,0,1,FIFA World Cup qualification,Douala,Cameroon,FALSE
 2022-03-25,DR Congo,Morocco,1,1,FIFA World Cup qualification,Kinshasa,DR Congo,FALSE
 2022-03-25,Egypt,Senegal,1,0,FIFA World Cup qualification,Cairo,Egypt,FALSE
@@ -43356,9 +43363,13 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-03-27,Belize,Cuba,0,3,Friendly,Belmopan,Belize,FALSE
 2022-03-27,Benin,Zambia,2,1,Friendly,Antalya,Turkey,TRUE
 2022-03-27,Guatemala,Haiti,2,1,Friendly,Fort Lauderdale,United States,TRUE
-2022-03-27,Laos,Brunei Darussalam,3,2,Friendly,Vientiane,Laos,FALSE
+2022-03-27,Laos,Brunei,3,2,Friendly,Vientiane,Laos,FALSE
 2022-03-27,Liberia,Sierra Leone,0,1,Friendly,Antalya,Turkey,TRUE
 2022-03-27,Thailand,Suriname,1,0,Friendly,Pathum Thani,Thailand,FALSE
+2022-03-27,South Sudan,Djibouti,1,0,African Cup of Nations qualification,Entebbe,Uganda,TRUE
+2022-03-27,Lesotho,Seychelles,3,1,African Cup of Nations qualification,Soweto,South Africa,TRUE
+2022-03-27,Eswatini,Somalia,2,1,African Cup of Nations qualification,Mbombela,South Africa,TRUE
+2022-03-27,Mauritius,Sao Tome e Principe,3,3,African Cup of Nations qualification,Belle Vue Harel,Mauritius,FALSE
 2022-03-28,Andorra,Grenada,1,0,Friendly,Andorra la Vella,Andorra,FALSE
 2022-03-28,Cape Verde,San Marino,2,0,Friendly,San Pedro del Pinatar,Spain,TRUE
 2022-03-28,Montenegro,Greece,1,0,Friendly,Podgorica,Montenegro,FALSE
@@ -43415,8 +43426,27 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-03-29,Wales,Czech Republic,1,1,Friendly,Cardiff,Wales,FALSE
 2022-03-29,Tajikistan,Kyrgyzstan,1,0,Navruz Cup,Namangan,Uzbekistan,TRUE
 2022-03-29,Uzbekistan,Uganda,4,2,Navruz Cup,Namangan,Uzbekistan,FALSE
+2022-03-29,Cyprus,Estonia,2,0,UEFA Nations League,Larnaca,Cyprus,FALSE
+2022-03-29,Kazakhstan,Moldova,0,1,UEFA Nations League,Nur-Sultan,Kazakhstan,FALSE
+2022-03-29,Gambia,Chad,2,2,African Cup of Nations qualification,Agadir,Morocco,TRUE
 2022-03-30,Mexico,El Salvador,2,0,FIFA World Cup qualification,Mexico City,Mexico,FALSE
 2022-03-30,Costa Rica,United States,2,0,FIFA World Cup qualification,San José,Costa Rica,FALSE
 2022-03-30,Panama,Canada,1,0,FIFA World Cup qualification,Panama City,Panama,FALSE
 2022-03-30,Jamaica,Honduras,2,1,FIFA World Cup qualification,Kingston,Jamaica,FALSE
 2022-03-30,Solomon Islands,New Zealand,0,5,FIFA World Cup qualification,Doha,Qatar,TRUE
+2022-04-24,El Salvador,Guatemala,0,4,Friendly,San Jose,United States,TRUE
+2022-04-27,Mexico,Guatemala,0,0,Friendly,Orlando,United States,TRUE
+2022-05-12,Bahamas,Turks and Caicos Islands,4,2,Friendly,Nassau,Bahamas,FALSE
+2022-05-12,Dominica,St Vincent and the Grenadines,2,1,Friendly,Roseau,Dominica,FALSE
+2022-05-14,Bahamas,Turks and Caicos Islands,1,2,Friendly,Nassau,Bahamas,FALSE
+2022-05-15,Dominica,St Vincent and the Grenadines,3,1,Friendly,Roseau,Dominica,FALSE
+2022-05-24,Mozambique,Eswatini,0,1,Friendly,Maputo,Mozambique,FALSE
+2022-05-27,Bahrain,Myanmar,2,0,Friendly,Pathum Thani,Thailand,TRUE
+2022-05-27,Malaysia,Brunei,4,0,Friendly,Kuala Lumpur,Malaysia,FALSE
+2022-05-27,Thailand,Turkmenistan,1,0,Friendly,Sisaket,Thailand,FALSE
+2022-05-28,Ethiopia,Lesotho,1,1,Friendly,Adama,Ethiopia,FALSE
+2022-05-28,India,Jordan,0,2,Friendly,Doha,Qatar,TRUE
+2022-05-28,Mexico,Nigeria,2,1,Friendly,Arlington,United States,TRUE
+2022-05-29,United Arab Emirates,Gambia,1,1,Friendly,Dubai,United Arab Emirates,FALSE
+2022-05-30,Ethiopia,Lesotho,1,1,Friendly,Adama,Ethiopia,FALSE
+2022-05-31,Thailand,Bahrain,1,2,Friendly,Pathum Thani,Thailand,FALSE
