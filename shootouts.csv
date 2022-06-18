@@ -21,6 +21,7 @@ date,home_team,away_team,winner
 1976-06-20,Czechoslovakia,Germany,Czechoslovakia
 1976-12-22,South Korea,Malaysia,Malaysia
 1977-01-09,Tunisia,Morocco,Tunisia
+1977-03-22,Argentina,Iran,Argentina
 1977-07-27,Iran,Morocco,Iran
 1977-08-31,Paraguay,Argentina,Paraguay
 1979-01-13,Guinea-Bissau,Mali,Mali
@@ -49,6 +50,7 @@ date,home_team,away_team,winner
 1983-04-24,Mauritius,Ethiopia,Ethiopia
 1983-07-18,Hong Kong,Thailand,Thailand
 1983-08-28,Morocco,Nigeria,Nigeria
+1983-10-20,Brazil,Paraguay,Brazil
 1983-12-15,Ivory Coast,Mali,Ivory Coast
 1983-12-18,Mali,Nigeria,Mali
 1984-02-16,Sierra Leone,Mali,Sierra Leone
@@ -97,6 +99,7 @@ date,home_team,away_team,winner
 1988-05-28,Canada,Greece,Canada
 1988-07-19,Egypt,Syria,Syria
 1988-07-21,Iraq,Syria,Iraq
+1988-09-29,Chile,Ecuador,Ecuador
 1988-10-16,Eswatini,Tanzania,Eswatini
 1988-12-06,Central African Republic,Gabon,Gabon
 1988-12-17,China PR,Iran,Iran
@@ -125,6 +128,7 @@ date,home_team,away_team,winner
 1991-06-14,South Korea,Australia,South Korea
 1991-06-16,Italy,Russia,Italy
 1991-07-07,United States,Honduras,United States
+1991-08-08,Czechoslovakia,Yugoslavia,Czechoslovakia
 1991-09-20,Fiji,Solomon Islands,Fiji
 1991-09-28,Egypt,Mali,Egypt
 1992-01-23,Cameroon,Ivory Coast,Ivory Coast
@@ -135,6 +139,8 @@ date,home_team,away_team,winner
 1992-09-15,Syria,Egypt,Egypt
 1992-11-08,China PR,United Arab Emirates,China PR
 1992-11-25,Uganda,Zambia,Uganda
+1993-01-23,Japan,Switzerland,Switzerland
+1993-02-20,Finland,Estonia,Finland
 1993-02-24,Argentina,Denmark,Argentina
 1993-05-27,Bolivia,Paraguay,Bolivia
 1993-05-28,Martinique,Saint Kitts and Nevis,Martinique
@@ -150,6 +156,7 @@ date,home_team,away_team,winner
 1994-07-10,Romania,Sweden,Sweden
 1994-07-17,Brazil,Italy,Brazil
 1994-12-08,Tanzania,Uganda,Tanzania
+1995-01-10,Denmark,Mexico,Denmark
 1995-01-13,Mexico,Nigeria,Mexico
 1995-02-26,Japan,South Korea,Japan
 1995-03-31,India,Bangladesh,India
@@ -228,6 +235,7 @@ date,home_team,away_team,winner
 2000-05-11,Senegal,Mali,Senegal
 2000-05-20,Malawi,Angola,Angola
 2000-05-21,Barbados,Cuba,Barbados
+2000-06-04,France,Japan,France
 2000-06-07,Iran,Egypt,Egypt
 2000-06-11,Lesotho,Zambia,Lesotho
 2000-06-29,Netherlands,Italy,Italy
@@ -325,9 +333,12 @@ date,home_team,away_team,winner
 2006-02-04,Nigeria,Tunisia,Nigeria
 2006-02-04,Cameroon,Ivory Coast,Ivory Coast
 2006-02-10,Egypt,Ivory Coast,Egypt
+2006-02-28,Finland,Kazakhstan,Kazakhstan
+2006-03-01,Finland,Belarus,Finland
 2006-04-29,Lesotho,Mozambique,Lesotho
 2006-04-30,Mauritius,Mozambique,Mozambique
 2006-05-21,Botswana,South Africa,Botswana
+2006-06-03,Northern Cyprus,Zanzibar,Northern Cyprus
 2006-06-26,Switzerland,Ukraine,Ukraine
 2006-06-30,Germany,Argentina,Germany
 2006-07-01,England,Portugal,Portugal
@@ -346,12 +357,16 @@ date,home_team,away_team,winner
 2008-06-20,Croatia,Turkey,Turkey
 2008-06-22,Spain,Italy,Spain
 2008-07-27,Zambia,Zimbabwe,Zambia
+2009-06-26,Provence,Sápmi,Sápmi
 2009-07-23,Costa Rica,Mexico,Mexico
 2009-10-28,Zimbabwe,South Africa,Zimbabwe
 2010-01-25,Zambia,Nigeria,Nigeria
 2010-06-29,Paraguay,Japan,Paraguay
 2010-07-02,Uruguay,Ghana,Uruguay
 2011-01-25,Japan,South Korea,Japan
+2011-02-08,Romania,Ukraine,Ukraine
+2011-02-09,Sweden,Ukraine,Ukraine
+2011-06-08,Uruguay,Netherlands,Uruguay
 2011-06-18,Costa Rica,Honduras,Honduras
 2011-06-19,Panama,El Salvador,Panama
 2011-07-16,Argentina,Uruguay,Uruguay
@@ -363,6 +378,7 @@ date,home_team,away_team,winner
 2012-06-24,England,Italy,Italy
 2012-06-27,Portugal,Spain,Spain
 2012-11-21,Argentina,Brazil,Brazil
+2013-01-23,Sweden,North Korea,Sweden
 2013-02-02,South Africa,Mali,Mali
 2013-02-06,Burkina Faso,Ghana,Burkina Faso
 2013-06-27,Spain,Italy,Spain
@@ -392,6 +408,7 @@ date,home_team,away_team,winner
 2015-07-25,United States,Panama,Panama
 2015-10-13,El Salvador,Guatemala,Guatemala
 2016-02-03,DR Congo,Guinea,DR Congo
+2016-05-27,Corsica,Basque Country,Basque Country
 2016-06-03,Bosnia and Herzegovina,Denmark,Bosnia and Herzegovina
 2016-06-03,Thailand,Syria,Thailand
 2016-06-03,Vietnam,Hong Kong,Vietnam
@@ -417,7 +434,7 @@ date,home_team,away_team,winner
 2018-03-22,Thailand,Gabon,Thailand
 2018-03-24,Angola,Zimbabwe,Angola
 2018-06-02,Zambia,Namibia,Zambia
-2018-06-03,Andorra,Cape Verde,Andorra
+2018-06-03,Andorra,Cape Verde,Cape Verde
 2018-06-03,South Africa,Madagascar,Madagascar
 2018-06-03,Zimbabwe,Botswana,Zimbabwe
 2018-06-06,Lesotho,Zimbabwe,Zimbabwe
@@ -473,6 +490,7 @@ date,home_team,away_team,winner
 2022-02-05,Cameroon,Burkina Faso,Cameroon
 2022-02-06,Senegal,Egypt,Senegal
 2022-03-25,Tajikistan,Uganda,Uganda
+2022-03-29,Kazakhstan,Moldova,Kazakhstan
 2022-03-29,Senegal,Egypt,Senegal
 2022-06-13,Australia,Peru,Australia
 2022-06-14,Chile,Ghana,Ghana

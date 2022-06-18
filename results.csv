@@ -2662,6 +2662,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1946-11-27,England,Netherlands,8,2,Friendly,Huddersfield,England,FALSE
 1946-11-27,Scotland,Northern Ireland,0,0,British Championship,Glasgow,Scotland,FALSE
 1946-12-01,Italy,Austria,3,2,Friendly,Milan,Italy,FALSE
+1947-01-05,Venezuela,Bolivia,2,2,Bolivarian Games,Lima,Peru,TRUE
 1947-01-05,Portugal,Switzerland,2,2,Friendly,Lisbon,Portugal,FALSE
 1947-01-26,Portugal,Spain,4,1,Friendly,Oeiras,Portugal,FALSE
 1947-02-12,Jamaica,Trinidad and Tobago,0,0,Friendly,Kingston,Jamaica,FALSE
@@ -2870,7 +2871,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1948-07-15,Madagascar,Réunion,2,1,Friendly,Curepipe,Mauritius,TRUE
 1948-07-17,Mauritius,Madagascar,4,1,Friendly,Curepipe,Mauritius,FALSE
 1948-07-19,Mauritius,Réunion,5,1,Friendly,Curepipe,Mauritius,FALSE
-1948-08-02,Sweden,Austria,3,0,Friendly,London,England,FALSE
+1948-08-02,Sweden,Austria,3,0,Friendly,London,England,TRUE
 1948-08-06,Norway,United States,11,0,Friendly,Oslo,Norway,FALSE
 1948-08-11,Northern Ireland,United States,5,0,Friendly,Belfast,Northern Ireland,FALSE
 1948-08-14,New Zealand,Australia,0,6,Friendly,Wellington,New Zealand,FALSE
@@ -9239,28 +9240,28 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1974-09-25,Czechoslovakia,German DR,3,1,Friendly,Prague,Czechoslovakia,FALSE
 1974-09-25,Denmark,Spain,1,2,UEFA Euro qualification,Copenhagen,Denmark,FALSE
 1974-09-25,Finland,Netherlands,1,3,UEFA Euro qualification,Helsinki,Finland,FALSE
-1974-09-26,Syria,Palestine,2,0,Friendly,Damascus,Syria,FALSE
-1974-09-27,Algeria,Lebanon,4,1,Friendly,Damascus,Syria,TRUE
+1974-09-26,Syria,Palestine,2,0,Kuneitra Cup,Damascus,Syria,FALSE
+1974-09-27,Algeria,Lebanon,4,1,Kuneitra Cup,Damascus,Syria,TRUE
 1974-09-28,Austria,Hungary,1,0,Friendly,Vienna,Austria,FALSE
 1974-09-28,Japan,South Korea,4,1,Friendly,Tokyo,Japan,FALSE
-1974-09-28,Yemen,Sudan,0,6,Friendly,Damascus,Syria,TRUE
+1974-09-28,Yemen,Sudan,0,6,Kuneitra Cup,Damascus,Syria,TRUE
 1974-09-28,Yugoslavia,Italy,1,0,Friendly,Zagreb,Yugoslavia,FALSE
-1974-09-29,Algeria,Jordan,6,0,Friendly,Damascus,Syria,TRUE
-1974-09-30,Libya,Yemen,9,1,Friendly,Damascus,Syria,TRUE
-1974-09-30,Palestine,Sudan,1,3,Friendly,Damascus,Syria,TRUE
-1974-10-01,Morocco,Tunisia,3,1,Friendly,Damascus,Syria,TRUE
-1974-10-02,Libya,Palestine,0,0,Friendly,Damascus,Syria,TRUE
-1974-10-03,Algeria,Tunisia,0,1,Friendly,Damascus,Syria,TRUE
-1974-10-04,Libya,Sudan,1,3,Friendly,Damascus,Syria,TRUE
-1974-10-04,Syria,Yemen,6,0,Friendly,Damascus,Syria,FALSE
-1974-10-06,Palestine,Yemen,7,1,Friendly,Damascus,Syria,TRUE
-1974-10-07,Morocco,Sudan,2,0,Friendly,Damascus,Syria,TRUE
+1974-09-29,Algeria,Jordan,6,0,Kuneitra Cup,Damascus,Syria,TRUE
+1974-09-30,Libya,Yemen,9,1,Kuneitra Cup,Damascus,Syria,TRUE
+1974-09-30,Palestine,Sudan,1,3,Kuneitra Cup,Damascus,Syria,TRUE
+1974-10-01,Morocco,Tunisia,3,1,Kuneitra Cup,Damascus,Syria,TRUE
+1974-10-02,Libya,Palestine,0,0,Kuneitra Cup,Damascus,Syria,TRUE
+1974-10-03,Algeria,Tunisia,0,1,Kuneitra Cup,Damascus,Syria,TRUE
+1974-10-04,Libya,Sudan,1,3,Kuneitra Cup,Damascus,Syria,TRUE
+1974-10-04,Syria,Yemen,6,0,Kuneitra Cup,Damascus,Syria,FALSE
+1974-10-06,Palestine,Yemen,7,1,Kuneitra Cup,Damascus,Syria,TRUE
+1974-10-07,Morocco,Sudan,2,0,Kuneitra Cup,Damascus,Syria,TRUE
 1974-10-09,Denmark,Iceland,2,1,Friendly,Aalborg,Denmark,FALSE
 1974-10-09,German DR,Canada,2,0,Friendly,Frankfurt an der Oder,German DR,FALSE
 1974-10-09,Netherlands,Switzerland,1,0,Friendly,Rotterdam,Netherlands,FALSE
 1974-10-09,Poland,Finland,3,0,UEFA Euro qualification,Poznań,Poland,FALSE
-1974-10-09,Sudan,Tunisia,1,3,Friendly,Damascus,Syria,TRUE
-1974-10-09,Syria,Morocco,1,1,Friendly,Damascus,Syria,FALSE
+1974-10-09,Sudan,Tunisia,1,3,Kuneitra Cup,Damascus,Syria,TRUE
+1974-10-09,Syria,Morocco,1,1,Kuneitra Cup,Damascus,Syria,FALSE
 1974-10-12,Argentina,Spain,1,1,Friendly,Buenos Aires,Argentina,FALSE
 1974-10-12,Belgium,France,2,1,UEFA Euro qualification,Brussels,Belgium,FALSE
 1974-10-12,German DR,Iceland,1,1,UEFA Euro qualification,Magdeburg,German DR,FALSE
@@ -10222,7 +10223,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1977-03-20,New Zealand,Taiwan,6,0,FIFA World Cup qualification,Auckland,New Zealand,FALSE
 1977-03-20,Tunisia,Russia,0,3,Friendly,Tunis,Tunisia,FALSE
 1977-03-21,Qatar,Kuwait,1,4,FIFA World Cup qualification,Doha,Qatar,FALSE
-1977-03-22,Argentina,Iran,1,1,Friendly,Madrid,Spain,TRUE
+1977-03-22,Argentina,Iran,1,1,Real Madrid 75th Anniversary Cup,Madrid,Spain,TRUE
 1977-03-23,Czechoslovakia,Greece,4,0,Friendly,Prague,Czechoslovakia,FALSE
 1977-03-23,Romania,Turkey,4,0,Balkan Cup,Bucharest,Romania,FALSE
 1977-03-23,Syria,Morocco,0,2,Friendly,Damascus,Syria,FALSE
@@ -17576,6 +17577,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1993-01-20,India,Finland,0,0,Nehru Cup,Madras,India,FALSE
 1993-01-20,Italy,Mexico,2,0,Friendly,Florence,Italy,FALSE
 1993-01-22,Cameroon,Finland,0,0,Nehru Cup,Madras,India,TRUE
+1993-01-23,Japan,Switzerland,1,1,Friendly,Hong Kong,Hong Kong,TRUE
 1993-01-23,Ghana,Niger,4,0,Friendly,Kumasi,Ghana,FALSE
 1993-01-23,Guinea-Bissau,Algeria,1,4,African Cup of Nations qualification,Bissau,Guinea-Bissau,FALSE
 1993-01-23,Venezuela,Peru,0,0,Friendly,Puerto Ordaz,Venezuela,FALSE
@@ -33252,7 +33254,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2011-06-07,United States,Canada,2,0,Gold Cup,Detroit,United States,FALSE
 2011-06-07,Venezuela,Spain,0,3,Friendly,Puerto la Cruz,Venezuela,FALSE
 2011-06-08,China PR,North Korea,2,0,Friendly,Guiyang,China PR,FALSE
-2011-06-08,Uruguay,Netherlands,1,1,Friendly,Montevideo,Uruguay,FALSE
+2011-06-08,Uruguay,Netherlands,1,1,Copa Confraternidad,Montevideo,Uruguay,FALSE
 2011-06-09,Costa Rica,El Salvador,1,1,Gold Cup,Charlotte,United States,TRUE
 2011-06-09,Cuba,Mexico,0,5,Gold Cup,Charlotte,United States,TRUE
 2011-06-09,Poland,France,0,1,Friendly,Warsaw,Poland,FALSE
@@ -36956,7 +36958,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2015-03-27,Liechtenstein,Austria,0,5,UEFA Euro qualification,Vaduz,Liechtenstein,FALSE
 2015-03-27,North Macedonia,Belarus,1,2,UEFA Euro qualification,Skopje,North Macedonia,FALSE
 2015-03-27,Moldova,Sweden,0,2,UEFA Euro qualification,Chișinău,Moldova,FALSE
-2015-03-27,Montenegro,Russia,0,3,UEFA Euro qualification,Podgorica,Montenegro,FALSE
 2015-03-27,Slovakia,Luxembourg,3,0,UEFA Euro qualification,Žilina,Slovakia,FALSE
 2015-03-27,Slovenia,San Marino,6,0,UEFA Euro qualification,Ljubljana,Slovenia,FALSE
 2015-03-27,Spain,Ukraine,1,0,UEFA Euro qualification,Seville,Spain,FALSE
@@ -42558,7 +42559,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-07-03,Ukraine,England,0,4,UEFA Euro,Rome,Italy,TRUE
 2021-07-03,Mexico,Nigeria,4,0,Friendly,Nashville,United States,TRUE
 2021-07-03,Uruguay,Colombia,0,0,Copa América,Brasília,Brazil,TRUE
-2021-07-03,Argentina,Ecuador,3,0,Copa América,Goiânia,Brazil,FALSE
+2021-07-03,Argentina,Ecuador,3,0,Copa América,Goiânia,Brazil,TRUE
 2021-07-03,Guatemala,Guyana,4,0,Gold Cup qualification,Fort Lauderdale,United States,TRUE
 2021-07-03,Cuba,French Guiana,0,3,Gold Cup qualification,Fort Lauderdale,United States,TRUE
 2021-07-03,Guadeloupe,Bahamas,2,0,Gold Cup qualification,Fort Lauderdale,United States,TRUE
@@ -42807,7 +42808,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-09-09,Uruguay,Ecuador,1,0,FIFA World Cup qualification,Montevideo,Uruguay,FALSE
 2021-09-09,Argentina,Bolivia,3,0,FIFA World Cup qualification,Buenos Aires,Argentina,FALSE
 2021-09-09,Brazil,Peru,2,0,FIFA World Cup qualification,Recife,Brazil,FALSE
-2021-09-24,El Salvador,Guatemala,0,2,Friendly,Washington,United States,FALSE
+2021-09-24,El Salvador,Guatemala,0,2,Friendly,Washington,United States,TRUE
 2021-09-30,Egypt,Liberia,2,0,Friendly,Alexandria,Egypt,FALSE
 2021-10-01,Sri Lanka,Bangladesh,0,1,SAFF Cup,Malé,Maldives,TRUE
 2021-10-01,Maldives,Nepal,0,1,SAFF Cup,Malé,Maldives,FALSE
@@ -43564,7 +43565,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-06-05,United States,Uruguay,0,0,Friendly,Kansas City,United States,FALSE
 2022-06-06,Equatorial Guinea,Libya,2,0,African Cup of Nations qualification,Malabo,Equatorial Guinea,FALSE
 2022-06-06,Honduras,Curaçao,1,2,CONCACAF Nations League,San Pedro Sula,Honduras,FALSE
-2022-06-06,Saint Vincent and the Grenadines,Nicaragua,2,2,CONCACAF Nations League,Kingstown,Saint Vincent and the Grenadines,TRUE
+2022-06-06,Saint Vincent and the Grenadines,Nicaragua,2,2,CONCACAF Nations League,Kingstown,Saint Vincent and the Grenadines,FALSE
 2022-06-06,Trinidad and Tobago,Bahamas,1,0,CONCACAF Nations League,Port of Spain,Trinidad and Tobago,FALSE
 2022-06-06,Bonaire,Sint Maarten,2,2,CONCACAF Nations League,Willemstad,Curaçao,TRUE
 2022-06-06,United States Virgin Islands,Turks and Caicos Islands,3,2,CONCACAF Nations League,Saint Croix,United States Virgin Islands,FALSE
@@ -43644,7 +43645,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-06-09,San Marino,Iceland,0,1,Friendly,Serravalle,San Marino,FALSE
 2022-06-09,Saudi Arabia,Venezuela,0,1,Friendly,Murcia,Spain,TRUE
 2022-06-10,United States,Grenada,5,0,CONCACAF Nations League,Austin,United States,FALSE
-2022-06-10,Saint Vincent and the Grenadines,Trinidad and Tobago,0,2,CONCACAF Nations League,Kingstown,Saint Vincent and the Grenadines,TRUE
+2022-06-10,Saint Vincent and the Grenadines,Trinidad and Tobago,0,2,CONCACAF Nations League,Kingstown,Saint Vincent and the Grenadines,FALSE
 2022-06-10,Bahamas,Nicaragua,0,2,CONCACAF Nations League,Nassau,Bahamas,FALSE
 2022-06-10,Dominican Republic,Guatemala,1,1,CONCACAF Nations League,Santo Domingo,Dominican Republic,FALSE
 2022-06-10,Austria,France,1,1,UEFA Nations League,Vienna,Austria,FALSE
@@ -43690,7 +43691,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-06-12,Cuba,Antigua and Barbuda,3,1,CONCACAF Nations League,Santiago,Cuba,FALSE
 2022-06-12,Guadeloupe,Barbados,2,1,CONCACAF Nations League,Les Abymes,Guadeloupe,FALSE
 2022-06-12,Saint Kitts and Nevis,Saint Martin,1,1,CONCACAF Nations League,Basseterre,Saint Kitts and Nevis,FALSE
-2022-06-12,Saint Lucia,Anguilla,2,0,CONCACAF Nations League,Gros Islet,Saint Lucia,TRUE
+2022-06-12,Saint Lucia,Anguilla,2,0,CONCACAF Nations League,Gros Islet,Saint Lucia,FALSE
 2022-06-12,Puerto Rico,British Virgin Islands,6,0,CONCACAF Nations League,Mayagüez,Puerto Rico,FALSE
 2022-06-12,Spain,Czech Republic,2,0,UEFA Nations League,Málaga,Spain,FALSE
 2022-06-12,Switzerland,Portugal,1,0,UEFA Nations League,Geneva,Switzerland,FALSE
