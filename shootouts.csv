@@ -3,6 +3,9 @@ date,home_team,away_team,winner
 1971-11-14,South Korea,Vietnam Republic,South Korea
 1972-05-17,Thailand,South Korea,South Korea
 1972-05-19,Thailand,Cambodia,Thailand
+1973-04-21,Senegal,Ghana,Ghana
+1973-06-14,Guinea,Mali,Guinea
+1973-06-14,Mauritius,Tanzania,Mauritius
 1973-07-26,Malaysia,Kuwait,Malaysia
 1973-07-26,Cambodia,Singapore,Singapore
 1973-07-27,Bangladesh,Thailand,Thailand
@@ -16,16 +19,19 @@ date,home_team,away_team,winner
 1974-10-09,Syria,Morocco,Morocco
 1974-11-22,Libya,Tunisia,Tunisia
 1974-12-18,South Korea,Malaysia,South Korea
+1975-07-13,Morocco,Ghana,Morocco
 1975-11-09,Kenya,Malawi,Kenya
 1975-12-23,Libya,Syria,Syria
 1976-06-20,Czechoslovakia,Germany,Czechoslovakia
 1976-12-22,South Korea,Malaysia,Malaysia
 1977-01-09,Tunisia,Morocco,Tunisia
 1977-03-22,Argentina,Iran,Argentina
+1977-06-26,Zambia,Algeria,Zambia
 1977-07-27,Iran,Morocco,Iran
 1977-08-31,Paraguay,Argentina,Paraguay
 1979-01-13,Guinea-Bissau,Mali,Mali
 1979-01-14,Guinea-Bissau,Guinea,Guinea
+1979-04-29,Cameroon,Guinea,Guinea
 1979-05-22,Argentina,Netherlands,Argentina
 1980-02-16,Gambia,Mauritania,Gambia
 1980-03-19,Algeria,Egypt,Algeria
@@ -423,7 +429,7 @@ date,home_team,away_team,winner
 2016-06-30,Poland,Portugal,Portugal
 2016-07-02,Germany,Italy,Germany
 2017-01-11,Chile,Croatia,Chile
-2017-01-14,China PR,Croatia,China
+2017-01-14,China PR,Croatia,China PR
 2017-02-01,Burkina Faso,Egypt,Egypt
 2017-06-28,Portugal,Chile,Chile
 2017-07-01,Namibia,Lesotho,Lesotho
@@ -462,6 +468,8 @@ date,home_team,away_team,winner
 2019-07-08,Ghana,Tunisia,Tunisia
 2019-07-11,Ivory Coast,Algeria,Algeria
 2019-09-08,Tanzania,Burundi,Tanzania
+2019-10-13,Chad,Liberia,Chad
+2019-10-13,Gambia,Djibouti,Gambia
 2020-10-08,Bosnia and Herzegovina,Northern Ireland,Northern Ireland
 2020-10-08,Slovakia,Republic of Ireland,Slovakia
 2020-10-08,Scotland,Israel,Scotland
