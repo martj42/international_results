@@ -43954,8 +43954,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-09-23,DR Congo,Burkina Faso,0,1,Friendly,Casablanca,Morocco,TRUE
 2022-09-23,Egypt,Niger,3,0,Friendly,Alexandria,Egypt,FALSE
 2022-09-23,Iran,Uruguay,1,0,Friendly,St Polten,Austria,TRUE
-2022-09-23,Iraq,Oman,1,1,Friendly,Amman,Jordan,TRUE
-2022-09-23,Jordan,Syria,2,0,Friendly,Amman,Jordan,FALSE
+2022-09-23,Iraq,Oman,1,1,Jordan International Tournament,Amman,Jordan,TRUE
+2022-09-23,Jordan,Syria,2,0,Jordan International Tournament,Amman,Jordan,FALSE
 2022-09-23,South Korea,Costa Rica,2,2,Friendly,Goyang,South Korea,FALSE
 2022-09-23,Mali,Zambia,1,0,Friendly,Bamako,Mali,FALSE
 2022-09-23,Morocco,Chile,2,0,Friendly,Barcelona,Spain,TRUE
@@ -44008,8 +44008,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-09-25,Andorra,Latvia,1,1,UEFA Nations League,Andorra la Vella,Andorra,FALSE
 2022-09-25,Moldova,Liechtenstein,2,0,UEFA Nations League,Chișinău,Moldova,FALSE
 2022-09-26,Ethiopia,Sudan,2,2,Friendly,Addis Ababa,Ethiopia,FALSE
-2022-09-26,Iraq,Syria,1,0,Friendly,Amman,Jordan,TRUE
-2022-09-26,Jordan,Oman,1,0,Friendly,Amman,Jordan,FALSE
+2022-09-26,Iraq,Syria,1,0,Jordan International Tournament,Amman,Jordan,TRUE
+2022-09-26,Jordan,Oman,1,0,Jordan International Tournament,Amman,Jordan,FALSE
 2022-09-26,England,Germany,3,3,UEFA Nations League,London,England,FALSE
 2022-09-26,Hungary,Italy,0,2,UEFA Nations League,Budapest,Hungary,FALSE
 2022-09-26,Montenegro,Finland,0,2,UEFA Nations League,Podgorica,Montenegro,FALSE
