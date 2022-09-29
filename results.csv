@@ -43919,6 +43919,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-06-18,Mapuche,Aymara,3,1,CONIFA South America Football Cup,Linares,Chile,TRUE
 2022-06-19,Aymara,Maule Sur,0,1,CONIFA South America Football Cup,Linares,Chile,TRUE
 2022-08-31,Mexico,Paraguay,0,1,Friendly,Atlanta,United States,TRUE
+2022-09-17,Fiji,New Caledonia,1,0,MSG Prime Minister's Cup,Luganville,Vanuatu,TRUE
+2022-09-17,Solomon Islands,New Caledonia,1,0,MSG Prime Minister's Cup,Luganville,Vanuatu,TRUE
 2022-09-21,Brunei Darussalam,Maldives,0,3,Friendly,Bandar Seri Begawan,Brunei,TRUE
 2022-09-21,Hong Kong,Myanmar,2,0,Friendly,Hong Kong,Hong Kong,FALSE
 2022-09-21,Libya,Uganda,0,0,Friendly,Benghazi,Libya,FALSE
@@ -43931,6 +43933,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-09-22,Iceland,Venezuela,1,0,Friendly,Maria Enzersdorf,Austria,TRUE
 2022-09-22,Suriname,Nicaragua,2,1,Friendly,Almere,Netherlands,TRUE
 2022-09-22,Thailand,Malaysia,1,1,King's Cup,Chiang Mai,Thailand,FALSE
+2022-09-22,Trinidad and Tobago,Tajikistan,1,2,King's Cup,Chiang Mai,Thailand,TRUE
 2022-09-22,Croatia,Denmark,2,1,UEFA Nations League,Zagreb,Croatia,FALSE
 2022-09-22,France,Austria,2,0,UEFA Nations League,Paris,France,FALSE
 2022-09-22,Belgium,Wales,2,1,UEFA Nations League,Brussels,Belgium,FALSE
@@ -43990,6 +43993,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-09-24,Serbia,Sweden,4,1,UEFA Nations League,Belgrade,Serbia,FALSE
 2022-09-24,Northern Ireland,Kosovo,2,1,UEFA Nations League,Belfast,Northern Ireland,FALSE
 2022-09-24,Cyprus,Greece,1,0,UEFA Nations League,Larnaca,Cyprus,FALSE
+2022-09-25,Thailand,Trinidad and Tobago,2,1,King's Cup,Chiang Mai,Thailand,FALSE
+2022-09-25,Malaysia,Tajikistan,0,0,King's Cup,Chiang Mai,Thailand,TRUE
 2022-09-25,New Zealand,Australia,0,2,Friendly,Auckland,New Zealand,FALSE
 2022-09-25,Niger,Liberia,0,0,Friendly,Cairo,Egypt,TRUE
 2022-09-25,Austria,Croatia,1,3,UEFA Nations League,Vienna,Austria,FALSE
@@ -44012,6 +44017,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-09-26,Gibraltar,Georgia,1,2,UEFA Nations League,Gibraltar,Gibraltar,FALSE
 2022-09-26,North Macedonia,Bulgaria,0,1,UEFA Nations League,Skopje,North Macedonia,FALSE
 2022-09-26,San Marino,Estonia,0,4,UEFA Nations League,Serravalle,San Marino,FALSE
+2022-09-27,Fiji,Papua New Guinea,0,1,MSG Prime Minister's Cup,Luganville,Vanuatu,TRUE
 2022-09-27,Algeria,Nigeria,2,1,Friendly,Oran,Algeria,FALSE
 2022-09-27,Argentina,Jamaica,3,0,Friendly,Harrison,United States,TRUE
 2022-09-27,Bahrain,Panama,0,2,Friendly,Riffa,Bahrain,FALSE
@@ -44052,3 +44058,4 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-09-27,Sweden,Slovenia,1,1,UEFA Nations League,Stockholm,Sweden,FALSE
 2022-09-27,Kosovo,Cyprus,5,1,UEFA Nations League,Pristina,Kosovo,FALSE
 2022-09-27,Greece,Northern Ireland,3,1,UEFA Nations League,Athens,Greece,FALSE
+2022-09-30,Fiji,Solomon Islands,,,MSG Prime Minister's Cup,Luganville,Vanuatu,TRUE
