@@ -2716,11 +2716,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1947-07-05,New Zealand,South Africa,0,6,Friendly,Dunedin,New Zealand,FALSE
 1947-07-06,Bulgaria,Romania,2,3,Balkan Cup,Sofia,Bulgaria,FALSE
 1947-07-12,New Zealand,South Africa,3,8,Friendly,Wellington,New Zealand,FALSE
-1947-07-13,Mexico,United States,5,0,"NAFU Championship",Havana,Cuba,TRUE
-1947-07-17,Cuba,Mexico,1,3,"NAFU Championship",Havana,Cuba,FALSE
+1947-07-13,Mexico,United States,5,0,NAFU Championship,Havana,Cuba,TRUE
+1947-07-17,Cuba,Mexico,1,3,NAFU Championship,Havana,Cuba,FALSE
 1947-07-19,New Zealand,South Africa,1,4,Friendly,Auckland,New Zealand,FALSE
 1947-07-19,Poland,Romania,1,2,Friendly,Warsaw,Poland,FALSE
-1947-07-20,Cuba,United States,5,2,"NAFU Championship",Havana,Cuba,FALSE
+1947-07-20,Cuba,United States,5,2,NAFU Championship,Havana,Cuba,FALSE
 1947-07-24,Iceland,Norway,2,4,Friendly,Reykjavík,Iceland,FALSE
 1947-08-17,Hungary,Bulgaria,9,0,Balkan Cup,Budapest,Hungary,FALSE
 1947-08-20,Hungary,Albania,3,0,Balkan Cup,Budapest,Hungary,FALSE
@@ -16325,7 +16325,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1990-05-08,Andalusia,Uruguay,1,1,Friendly,Seville,Spain,FALSE
 1990-05-09,United States,Poland,3,1,Friendly,Hershey,United States,FALSE
 1990-05-13,Brazil,German DR,3,3,Friendly,Rio de Janeiro,Brazil,FALSE
-1990-05-13,Canada,Mexico,2,1,"NAFU Championship",Burnaby,Canada,FALSE
+1990-05-13,Canada,Mexico,2,1,NAFU Championship,Burnaby,Canada,FALSE
 1990-05-13,Dominica,French Guiana,1,1,CFU Caribbean Cup qualification,Roseau,Dominica,FALSE
 1990-05-13,Saint Lucia,Bermuda,0,2,CFU Caribbean Cup qualification,Castries,Saint Lucia,FALSE
 1990-05-15,England,Denmark,1,0,Friendly,London,England,FALSE
@@ -16675,12 +16675,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1991-03-05,Algeria,Tunisia,2,1,Friendly,Annaba,Algeria,FALSE
 1991-03-09,Uganda,Sudan,0,1,Friendly,Kampala,Uganda,FALSE
 1991-03-12,Liechtenstein,Switzerland,0,6,Friendly,Balzers,Liechtenstein,FALSE
-1991-03-12,United States,Mexico,2,2,"NAFU Championship",Los Angeles,United States,FALSE
+1991-03-12,United States,Mexico,2,2,NAFU Championship,Los Angeles,United States,FALSE
 1991-03-13,Argentina,Mexico,0,0,Friendly,Buenos Aires,Argentina,FALSE
 1991-03-13,Netherlands,Malta,1,0,UEFA Euro qualification,Rotterdam,Netherlands,FALSE
 1991-03-13,Poland,Finland,1,1,Friendly,Warsaw,Poland,FALSE
-1991-03-14,Canada,Mexico,0,3,"NAFU Championship",Los Angeles,United States,TRUE
-1991-03-16,United States,Canada,2,0,"NAFU Championship",Torrance,United States,FALSE
+1991-03-14,Canada,Mexico,0,3,NAFU Championship,Los Angeles,United States,TRUE
+1991-03-16,United States,Canada,2,0,NAFU Championship,Torrance,United States,FALSE
 1991-03-27,Argentina,Brazil,3,3,Friendly,Buenos Aires,Argentina,FALSE
 1991-03-27,Belgium,Wales,1,1,UEFA Euro qualification,Brussels,Belgium,FALSE
 1991-03-27,Czechoslovakia,Poland,4,0,Friendly,Olomouc,Czechoslovakia,FALSE
@@ -44065,3 +44065,87 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-10-26,Saudi Arabia,Albania,1,1,Friendly,Abu Dhabi,United Arab Emirates,TRUE
 2022-10-27,Qatar,Honduras,1,0,Friendly,Marbella,Spain,TRUE
 2022-10-30,Saudi Arabia,Honduras,0,0,Friendly,Abu Dhabi,United Arab Emirates,TRUE
+2022-11-06,Saudi Arabia,Iceland,1,0,Friendly,Abu Dhabi,United Arab Emirates,TRUE
+2022-11-07,Qatar,Panama,2,1,Friendly,Marbella,Spain,TRUE
+2022-11-09,Albania,Qatar,0,1,Friendly,Marbella,Spain,TRUE
+2022-11-09,Cameroon,Jamaica,1,1,Friendly,Yaoundé,Cameroon,FALSE
+2022-11-09,Costa Rica,Nigeria,2,0,Friendly,San José,Costa Rica,FALSE
+2022-11-09,Mexico,Iraq,4,0,Friendly,Girona,Spain,TRUE
+2022-11-10,Iran,Nicaragua,1,0,Friendly,Tehran,Iran,FALSE
+2022-11-10,Saudi Arabia,Panama,1,1,Friendly,Abu Dhabi,United Arab Emirates,TRUE
+2022-11-11,Bahrain,Canada,2,2,Friendly,Isa Town,Bahrain,FALSE
+2022-11-11,South Korea,Iceland,1,0,Friendly,Hwaseong,South Korea,FALSE
+2022-11-12,Iraq,Ecuador,0,0,Friendly,Madrid,Spain,TRUE
+2022-11-13,Syria,Algeria,0,1,Friendly,Sharjah,United Arab Emirates,TRUE
+2022-11-15,Venezuela,Panama,2,2,Friendly,Al Hamriyah,United Arab Emirates,TRUE
+2022-11-16,Albania,Italy,1,3,Friendly,Tirana,Albania,FALSE
+2022-11-16,Algeria,Mali,1,1,Friendly,Oran,Algeria,FALSE
+2022-11-16,Andorra,Austria,0,1,Friendly,Malaga,Spain,TRUE
+2022-11-16,Cyprus,Bulgaria,0,2,Friendly,Larnaca,Cyprus,FALSE
+2022-11-16,Czech Republic,Faroe Islands,5,0,Friendly,Olomouc,Czech Republic,FALSE
+2022-11-16,Dominican Republic,Cuba,2,4,Friendly,Santiago de los Caballeros,Dominican Republic,FALSE
+2022-11-16,Gibraltar,Liechtenstein,2,0,Friendly,Gibraltar,Gibraltar,FALSE
+2022-11-16,Iran,Tunisia,0,2,Friendly,Doha,Qatar,TRUE
+2022-11-16,Ivory Coast,Burundi,4,0,Friendly,Marrakech,Morocco,TRUE
+2022-11-16,Kosovo,Armenia,2,2,Friendly,Pristina,Kosovo,FALSE
+2022-11-16,Mexico,Sweden,1,2,Friendly,Girona,Spain,TRUE
+2022-11-16,Moldova,Azerbaijan,1,2,Friendly,Chișinău,Moldova,FALSE
+2022-11-16,Nepal,Pakistan,1,0,Friendly,Kathmandu,Nepal,FALSE
+2022-11-16,Nicaragua,El Salvador,1,0,Friendly,Managua,Nicaragua,FALSE
+2022-11-16,Oman,Germany,0,1,Friendly,Muscat,Oman,FALSE
+2022-11-16,Peru,Paraguay,1,0,Friendly,Lima,Peru,FALSE
+2022-11-16,Poland,Chile,1,0,Friendly,Warsaw,Poland,FALSE
+2022-11-16,Saudi Arabia,Croatia,0,1,Friendly,Riyadh,Saudi Arabia,FALSE
+2022-11-16,Turkey,Scotland,2,1,Friendly,Diyarbakir,Turkey,FALSE
+2022-11-16,United Arab Emirates,Argentina,0,5,Friendly,Abu Dhabi,United Arab Emirates,FALSE
+2022-11-16,Uzbekistan,Kazakhstan,2,0,Friendly,Tashkent,Uzbekistan,FALSE
+2022-11-16,Lithuania,Iceland,0,0,Baltic Cup,Kaunas,Lithuania,FALSE
+2022-11-16,Latvia,Estonia,1,1,Baltic Cup,Riga,Latvia,FALSE
+2022-11-20,Qatar,Ecuador,NA,NA,FIFA World Cup,Al Khor,Qatar,FALSE
+2022-11-21,Senegal,Netherlands,NA,NA,FIFA World Cup,Doha,Qatar,TRUE
+2022-11-21,England,Iran,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-21,United States,Wales,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-22,Argentina,Saudi Arabia,NA,NA,FIFA World Cup,Lusail,Qatar,TRUE
+2022-11-22,Mexico,Poland,NA,NA,FIFA World Cup,Doha,Qatar,TRUE
+2022-11-22,Denmark,Tunisia,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-22,France,Australia,NA,NA,FIFA World Cup,Al Wakrah,Qatar,TRUE
+2022-11-23,Germany,Japan,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-23,Spain,Costa Rica,NA,NA,FIFA World Cup,Doha,Qatar,TRUE
+2022-11-23,Morocco,Croatia,NA,NA,FIFA World Cup,Al Khor,Qatar,TRUE
+2022-11-23,Belgium,Canada,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-24,Switzerland,Cameroon,NA,NA,FIFA World Cup,Al Wakrah,Qatar,TRUE
+2022-11-24,Brazil,Serbia,NA,NA,FIFA World Cup,Lusail,Qatar,TRUE
+2022-11-24,Uruguay,South Korea,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-24,Portugal,Ghana,NA,NA,FIFA World Cup,Doha,Qatar,TRUE
+2022-11-25,Qatar,Senegal,NA,NA,FIFA World Cup,Doha,Qatar,FALSE
+2022-11-25,Netherlands,Ecuador,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-25,Wales,Iran,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-25,England,United States,NA,NA,FIFA World Cup,Al Khor,Qatar,TRUE
+2022-11-26,Poland,Saudi Arabia,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-26,Argentina,Mexico,NA,NA,FIFA World Cup,Lusail,Qatar,TRUE
+2022-11-26,Tunisia,Australia,NA,NA,FIFA World Cup,Al Wakrah,Qatar,TRUE
+2022-11-26,France,Denmark,NA,NA,FIFA World Cup,Doha,Qatar,TRUE
+2022-11-27,Japan,Costa Rica,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-27,Spain,Germany,NA,NA,FIFA World Cup,Al Khor,Qatar,TRUE
+2022-11-27,Belgium,Morocco,NA,NA,FIFA World Cup,Doha,Qatar,TRUE
+2022-11-27,Croatia,Canada,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-28,Cameroon,Serbia,NA,NA,FIFA World Cup,Al Wakrah,Qatar,TRUE
+2022-11-28,Brazil,Switzerland,NA,NA,FIFA World Cup,Doha,Qatar,TRUE
+2022-11-28,South Korea,Ghana,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-28,Portugal,Uruguay,NA,NA,FIFA World Cup,Lusail,Qatar,TRUE
+2022-11-29,Ecuador,Senegal,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-29,Qatar,Netherlands,NA,NA,FIFA World Cup,Al Khor,Qatar,FALSE
+2022-11-29,Wales,England,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-29,Iran,United States,NA,NA,FIFA World Cup,Doha,Qatar,TRUE
+2022-11-30,Poland,Argentina,NA,NA,FIFA World Cup,Doha,Qatar,TRUE
+2022-11-30,Saudi Arabia,Mexico,NA,NA,FIFA World Cup,Lusail,Qatar,TRUE
+2022-11-30,Australia,Denmark,NA,NA,FIFA World Cup,Al Wakrah,Qatar,TRUE
+2022-11-30,Tunisia,France,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-12-01,Japan,Spain,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-12-01,Costa Rica,Germany,NA,NA,FIFA World Cup,Al Khor,Qatar,TRUE
+2022-12-01,Croatia,Belgium,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-12-01,Canada,Morocco,NA,NA,FIFA World Cup,Doha,Qatar,TRUE
+2022-12-02,Serbia,Switzerland,NA,NA,FIFA World Cup,Doha,Qatar,TRUE
+2022-12-02,Cameroon,Brazil,NA,NA,FIFA World Cup,Lusail,Qatar,TRUE
+2022-12-02,Ghana,Uruguay,NA,NA,FIFA World Cup,Al Wakrah,Qatar,TRUE
+2022-12-02,South Korea,Portugal,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
