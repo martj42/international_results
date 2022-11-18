@@ -16239,8 +16239,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1990-02-28,France,Germany,2,1,Friendly,Montpellier,France,FALSE
 1990-03-01,Bahrain,Oman,0,0,Gulf Cup,Kuwait City,Kuwait,TRUE
 1990-03-02,Algeria,Nigeria,5,1,African Cup of Nations,Algiers,Algeria,FALSE
+1990-03-02,Ivory Coast,Egypt,3,1,African Cup of Nations,Algiers,Algeria,TRUE
 1990-03-03,Cameroon,Zambia,0,1,African Cup of Nations,Annaba,Algeria,TRUE
-1990-03-03,Ivory Coast,Egypt,3,1,African Cup of Nations,Algiers,Algeria,TRUE
 1990-03-03,Senegal,Kenya,0,0,African Cup of Nations,Annaba,Algeria,TRUE
 1990-03-04,Oman,Qatar,2,4,Gulf Cup,Kuwait City,Kuwait,TRUE
 1990-03-05,Algeria,Ivory Coast,3,0,African Cup of Nations,Algiers,Algeria,FALSE

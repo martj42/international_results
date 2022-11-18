@@ -2278,6 +2278,57 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1968-06-08,Italy,Yugoslavia,Italy,Angelo Domenghini,80,FALSE,FALSE
 1968-06-10,Italy,Yugoslavia,Italy,Gigi Riva,12,FALSE,FALSE
 1968-06-10,Italy,Yugoslavia,Italy,Pietro Anastasi,31,FALSE,FALSE
+1970-02-06,Cameroon,Ivory Coast,Ivory Coast,Laurent Pokou,25,FALSE,FALSE
+1970-02-06,Cameroon,Ivory Coast,Ivory Coast,Laurent Pokou,45,FALSE,FALSE
+1970-02-06,Cameroon,Ivory Coast,Cameroon,Emmanuel Koum,57,FALSE,FALSE
+1970-02-06,Cameroon,Ivory Coast,Cameroon,Gaston Paul N'Doga,60,FALSE,FALSE
+1970-02-06,Cameroon,Ivory Coast,Cameroon,Emmanuel Koum,66,FALSE,FALSE
+1970-02-06,Sudan,Ethiopia,Sudan,Ali Gagarin,43,FALSE,FALSE
+1970-02-06,Sudan,Ethiopia,Sudan,Omar Ali Hasab El-Rasoul,47,FALSE,FALSE
+1970-02-06,Sudan,Ethiopia,Sudan,Nasr Eddin Abbas,85,FALSE,FALSE
+1970-02-07,Egypt,Guinea,Egypt,Ali Abo Greisha,5,FALSE,FALSE
+1970-02-07,Egypt,Guinea,Egypt,Ali Abo Greisha,10,FALSE,FALSE
+1970-02-07,Egypt,Guinea,Guinea,Soriba Soumah,25,FALSE,TRUE
+1970-02-07,Egypt,Guinea,Egypt,Taha Basry,66,FALSE,FALSE
+1970-02-07,Egypt,Guinea,Egypt,Hassan El-Shazly,73,FALSE,TRUE
+1970-02-07,Ghana,DR Congo,Ghana,Kwasi Owusu,29,FALSE,FALSE
+1970-02-07,Ghana,DR Congo,Ghana,Kwasi Owusu,32,FALSE,FALSE
+1970-02-08,Cameroon,Ethiopia,Ethiopia,Mengistu Worku,12,FALSE,FALSE
+1970-02-08,Cameroon,Ethiopia,Cameroon,Jean-Marie Tsébo,21,FALSE,FALSE
+1970-02-08,Cameroon,Ethiopia,Cameroon,Jean Manga-Onguéné,43,FALSE,FALSE
+1970-02-08,Cameroon,Ethiopia,Cameroon,Gaston Paul N'Doga,70,FALSE,FALSE
+1970-02-08,Cameroon,Ethiopia,Ethiopia,Mengistu Worku,75,FALSE,FALSE
+1970-02-08,Ivory Coast,Sudan,Ivory Coast,François Tahi,89,FALSE,FALSE
+1970-02-09,DR Congo,Guinea,Guinea,Petit Sory,5,FALSE,FALSE
+1970-02-09,DR Congo,Guinea,Guinea,Soriba Soumah,55,FALSE,TRUE
+1970-02-09,DR Congo,Guinea,DR Congo,André Kalonzo,70,FALSE,FALSE
+1970-02-09,DR Congo,Guinea,DR Congo,Léon Mungamuni,72,FALSE,FALSE
+1970-02-09,Egypt,Ghana,Ghana,Ibrahim Sunday,60,FALSE,FALSE
+1970-02-09,Egypt,Ghana,Egypt,Sayed Abdel Razek,70,FALSE,FALSE
+1970-02-10,Ivory Coast,Ethiopia,Ivory Coast,Diomandé Losseni,16,FALSE,FALSE
+1970-02-10,Ivory Coast,Ethiopia,Ivory Coast,Laurent Pokou,21,FALSE,FALSE
+1970-02-10,Ivory Coast,Ethiopia,Ethiopia,Mengistu Worku,33,FALSE,FALSE
+1970-02-10,Ivory Coast,Ethiopia,Ivory Coast,Laurent Pokou,60,FALSE,FALSE
+1970-02-10,Ivory Coast,Ethiopia,Ivory Coast,Laurent Pokou,71,FALSE,FALSE
+1970-02-10,Ivory Coast,Ethiopia,Ivory Coast,Laurent Pokou,80,FALSE,FALSE
+1970-02-10,Ivory Coast,Ethiopia,Ivory Coast,Laurent Pokou,87,FALSE,FALSE
+1970-02-10,Sudan,Cameroon,Sudan,Nasr Eddin Abbas,20,FALSE,FALSE
+1970-02-10,Sudan,Cameroon,Cameroon,Jean-Marie Tsébo,34,FALSE,FALSE
+1970-02-10,Sudan,Cameroon,Sudan,Omar Ali Hasab El-Rasoul,60,FALSE,FALSE
+1970-02-11,Egypt,DR Congo,Egypt,Ali Abo Greisha,71,FALSE,FALSE
+1970-02-11,Guinea,Ghana,Guinea,Thiam Ousmane Tolo,10,FALSE,FALSE
+1970-02-11,Guinea,Ghana,Ghana,Kwasi Owusu,50,FALSE,FALSE
+1970-02-14,Egypt,Sudan,Sudan,Muhamad El-Basheer El-Asyad,83,FALSE,FALSE
+1970-02-14,Egypt,Sudan,Egypt,Hassan El-Shazly,84,FALSE,FALSE
+1970-02-14,Egypt,Sudan,Sudan,Muhamad El-Basheer El-Asyad,102,FALSE,FALSE
+1970-02-14,Ivory Coast,Ghana,Ghana,Ibrahim Sunday,21,FALSE,FALSE
+1970-02-14,Ivory Coast,Ghana,Ivory Coast,Diomandé Losseni,78,FALSE,FALSE
+1970-02-14,Ivory Coast,Ghana,Ghana,Malik Jabir,100,FALSE,FALSE
+1970-02-16,Egypt,Ivory Coast,Egypt,Hassan El-Shazly,3,FALSE,FALSE
+1970-02-16,Egypt,Ivory Coast,Egypt,Hassan El-Shazly,14,FALSE,FALSE
+1970-02-16,Egypt,Ivory Coast,Egypt,Hassan El-Shazly,50,FALSE,FALSE
+1970-02-16,Egypt,Ivory Coast,Ivory Coast,Laurent Pokou,72,FALSE,FALSE
+1970-02-16,Sudan,Ghana,Sudan,Omar Ali Hasab El-Rasoul,12,FALSE,FALSE
 1970-06-02,Bulgaria,Peru,Bulgaria,Dinko Dermendzhiev,13,FALSE,FALSE
 1970-06-02,Bulgaria,Peru,Bulgaria,Hristo Bonev,49,FALSE,FALSE
 1970-06-02,Bulgaria,Peru,Peru,Alberto Gallardo,50,FALSE,FALSE
@@ -2373,6 +2424,59 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1970-06-21,Brazil,Italy,Brazil,Gérson,65,FALSE,FALSE
 1970-06-21,Brazil,Italy,Brazil,Jairzinho,71,FALSE,FALSE
 1970-06-21,Brazil,Italy,Brazil,Carlos Alberto Torres,86,FALSE,FALSE
+1972-02-23,Cameroon,Kenya,Cameroon,Jean-Baptiste N'Doga,7,FALSE,FALSE
+1972-02-23,Cameroon,Kenya,Cameroon,Paul-Gaston N'Dongo,20,FALSE,FALSE
+1972-02-23,Cameroon,Kenya,Kenya,Jonathan Niva,44,FALSE,FALSE
+1972-02-24,Mali,Togo,Mali,Bakary Traoré,10,FALSE,FALSE
+1972-02-24,Mali,Togo,Togo,Edmond Apéti Kaolo,45,FALSE,TRUE
+1972-02-24,Mali,Togo,Mali,Fantamady Keita,46,FALSE,FALSE
+1972-02-24,Mali,Togo,Mali,Bako Touré,49,FALSE,FALSE
+1972-02-24,Mali,Togo,Togo,Edmond Apéti Kaolo,60,FALSE,FALSE
+1972-02-24,Mali,Togo,Togo,Covi Adé,81,FALSE,FALSE
+1972-02-25,Congo,Morocco,Morocco,Ahmed Faras,34,FALSE,FALSE
+1972-02-25,Congo,Morocco,Congo,Paul Moukila,45,FALSE,FALSE
+1972-02-25,DR Congo,Sudan,DR Congo,Mayanga Maku,53,FALSE,FALSE
+1972-02-25,DR Congo,Sudan,Sudan,Omar Ali Hasab El-Rasoul,55,FALSE,FALSE
+1972-02-26,Cameroon,Togo,Cameroon,Joseph Yegba Maya,64,FALSE,FALSE
+1972-02-26,Cameroon,Togo,Cameroon,Simo Emmanuel Mvé,79,FALSE,FALSE
+1972-02-26,Mali,Kenya,Mali,Fantamady Keita,45,FALSE,FALSE
+1972-02-26,Mali,Kenya,Kenya,Daniel Arudhi Nicodémus,60,FALSE,FALSE
+1972-02-27,DR Congo,Congo,DR Congo,Jean Kalala N'Tumba,16,FALSE,FALSE
+1972-02-27,DR Congo,Congo,DR Congo,Jean Kalala N'Tumba,59,FALSE,FALSE
+1972-02-27,Morocco,Sudan,Morocco,Ahmed Faras,32,FALSE,FALSE
+1972-02-27,Morocco,Sudan,Sudan,Bushara Abdel-Nadief,49,FALSE,FALSE
+1972-02-28,Cameroon,Mali,Mali,Fantamady Keita,43,FALSE,FALSE
+1972-02-28,Cameroon,Mali,Cameroon,François N'Doumbé,67,FALSE,FALSE
+1972-02-28,Togo,Kenya,Kenya,Peter Ouma,30,FALSE,FALSE
+1972-02-28,Togo,Kenya,Togo,Edmond Apéti Kaolo,60,FALSE,FALSE
+1972-02-29,Congo,Sudan,Congo,Jean-Michel M'Bono,8,FALSE,FALSE
+1972-02-29,Congo,Sudan,Congo,François M'Pelé,32,FALSE,FALSE
+1972-02-29,Congo,Sudan,Sudan,Kamal Abdel Wahab,37,FALSE,FALSE
+1972-02-29,Congo,Sudan,Sudan,Ahmed Bushara Wahba,44,FALSE,FALSE
+1972-02-29,Congo,Sudan,Congo,Jonas Bahamboula,46,FALSE,FALSE
+1972-02-29,Congo,Sudan,Congo,Jean-Michel M'Bono,55,FALSE,FALSE
+1972-02-29,Morocco,DR Congo,DR Congo,Mayanga Maku,3,FALSE,FALSE
+1972-02-29,Morocco,DR Congo,Morocco,Ahmed Faras,36,FALSE,FALSE
+1972-03-02,Cameroon,Congo,Congo,Noël Birindi Minga,31,FALSE,FALSE
+1972-03-02,DR Congo,Mali,DR Congo,Jean Kalala N'Tumba,6,FALSE,FALSE
+1972-03-02,DR Congo,Mali,Mali,Adama Traoré,17,FALSE,FALSE
+1972-03-02,DR Congo,Mali,Mali,Fantamady Keita,48,FALSE,FALSE
+1972-03-02,DR Congo,Mali,DR Congo,Kakoko Etepé,61,FALSE,FALSE
+1972-03-02,DR Congo,Mali,Mali,Bako Touré,68,FALSE,FALSE
+1972-03-02,DR Congo,Mali,DR Congo,Gary Ngassebe,78,FALSE,FALSE
+1972-03-02,DR Congo,Mali,Mali,Fantamady Keita,92,FALSE,FALSE
+1972-03-04,Cameroon,DR Congo,Cameroon,Jean-Paul Akono,4,FALSE,TRUE
+1972-03-04,Cameroon,DR Congo,DR Congo,Kakoko Etepé,13,FALSE,FALSE
+1972-03-04,Cameroon,DR Congo,DR Congo,Mayanga Maku,17,FALSE,FALSE
+1972-03-04,Cameroon,DR Congo,Cameroon,Paul-Gaston N'Dongo,31,FALSE,FALSE
+1972-03-04,Cameroon,DR Congo,Cameroon,Norbert Owona,32,FALSE,FALSE
+1972-03-04,Cameroon,DR Congo,Cameroon,Philippe Michel Mouthé,34,FALSE,FALSE
+1972-03-04,Cameroon,DR Congo,Cameroon,Jean-Baptiste N'Doga,42,FALSE,FALSE
+1972-03-05,Congo,Mali,Mali,Moussa Diakhité,42,FALSE,FALSE
+1972-03-05,Congo,Mali,Congo,Jean-Michel M'Bono,57,FALSE,FALSE
+1972-03-05,Congo,Mali,Congo,Jean-Michel M'Bono,59,FALSE,FALSE
+1972-03-05,Congo,Mali,Congo,François M'Pelé,63,FALSE,FALSE
+1972-03-05,Congo,Mali,Mali,Moussa Traoré,75,FALSE,FALSE
 1972-06-14,Belgium,Germany,Germany,Gerd Müller,24,FALSE,FALSE
 1972-06-14,Belgium,Germany,Germany,Gerd Müller,71,FALSE,FALSE
 1972-06-14,Belgium,Germany,Belgium,Odilon Polleunis,83,FALSE,FALSE
@@ -2383,6 +2487,60 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1972-06-18,Germany,Russia,Germany,Gerd Müller,27,FALSE,FALSE
 1972-06-18,Germany,Russia,Germany,Herbert Wimmer,52,FALSE,FALSE
 1972-06-18,Germany,Russia,Germany,Gerd Müller,58,FALSE,FALSE
+1974-03-01,Egypt,Uganda,Egypt,Ali Abo Greisha,6,FALSE,FALSE
+1974-03-01,Egypt,Uganda,Uganda,Stanley Mubiru,28,FALSE,FALSE
+1974-03-01,Egypt,Uganda,Egypt,Ali Khalil,52,FALSE,FALSE
+1974-03-02,Zambia,Ivory Coast,Zambia,Simon Kaushi,2,FALSE,FALSE
+1974-03-03,Congo,Mauritius,Congo,Paul Moukila,46,FALSE,FALSE
+1974-03-03,Congo,Mauritius,Congo,Sebastien Lakou,47,FALSE,FALSE
+1974-03-03,DR Congo,Guinea,DR Congo,Ndaye Mulamba,18,FALSE,FALSE
+1974-03-03,DR Congo,Guinea,Guinea,Bangaly Sylla,25,FALSE,FALSE
+1974-03-03,DR Congo,Guinea,DR Congo,Ndaye Mulamba,65,FALSE,FALSE
+1974-03-04,Egypt,Zambia,Egypt,Gamal Abdel Azim,4,FALSE,FALSE
+1974-03-04,Egypt,Zambia,Zambia,Godfrey Chitalu,10,FALSE,FALSE
+1974-03-04,Egypt,Zambia,Egypt,Taha Basri,18,FALSE,FALSE
+1974-03-04,Egypt,Zambia,Egypt,Ali Abo Greisha,52,FALSE,FALSE
+1974-03-04,Ivory Coast,Uganda,Ivory Coast,Kobinan Kouman,37,FALSE,FALSE
+1974-03-04,Ivory Coast,Uganda,Uganda,Stanley Mubiru,53,FALSE,FALSE
+1974-03-04,Ivory Coast,Uganda,Uganda,Stanley Mubiru,60,FALSE,FALSE
+1974-03-04,Ivory Coast,Uganda,Ivory Coast,Kobinan Kouman,78,FALSE,FALSE
+1974-03-05,Congo,DR Congo,DR Congo,Mayanga Maku,25,FALSE,FALSE
+1974-03-05,Congo,DR Congo,Congo,Jean-Michel M'Bono,70,FALSE,FALSE
+1974-03-05,Congo,DR Congo,Congo,Noël Birindi Minga,81,FALSE,FALSE
+1974-03-05,Guinea,Mauritius,Guinea,Morciré Sylla,52,FALSE,FALSE
+1974-03-05,Guinea,Mauritius,Guinea,Morciré Sylla,64,FALSE,FALSE
+1974-03-05,Guinea,Mauritius,Mauritius,Daniel Imbert,88,FALSE,FALSE
+1974-03-06,Egypt,Ivory Coast,Egypt,Hassan El-Shazly,1,FALSE,FALSE
+1974-03-06,Egypt,Ivory Coast,Egypt,Ali Khalil,44,FALSE,FALSE
+1974-03-06,Zambia,Uganda,Zambia,Obby Kapita,60,FALSE,FALSE
+1974-03-07,Congo,Guinea,Guinea,Soriba Soumah,60,FALSE,TRUE
+1974-03-07,Congo,Guinea,Congo,Jacques Ndomba,65,FALSE,FALSE
+1974-03-07,DR Congo,Mauritius,DR Congo,Ndaye Mulamba,15,FALSE,FALSE
+1974-03-07,DR Congo,Mauritius,DR Congo,Mayanga Maku,19,FALSE,FALSE
+1974-03-07,DR Congo,Mauritius,DR Congo,Kakoko Etepé,38,FALSE,FALSE
+1974-03-07,DR Congo,Mauritius,Mauritius,Daniel Imbert,61,FALSE,FALSE
+1974-03-07,DR Congo,Mauritius,DR Congo,Mayanga Maku,76,FALSE,FALSE
+1974-03-09,Congo,Zambia,Zambia,Joseph Mapulanga,49,FALSE,FALSE
+1974-03-09,Congo,Zambia,Zambia,Bernard Chanda,70,FALSE,FALSE
+1974-03-09,Congo,Zambia,Congo,François M'Pelé,76,FALSE,FALSE
+1974-03-09,Congo,Zambia,Congo,André Mbouta,81,FALSE,FALSE
+1974-03-09,Congo,Zambia,Zambia,Bernard Chanda,97,FALSE,FALSE
+1974-03-09,Congo,Zambia,Zambia,Bernard Chanda,111,FALSE,FALSE
+1974-03-09,Egypt,DR Congo,Egypt,Mwepu Ilunga,41,TRUE,FALSE
+1974-03-09,Egypt,DR Congo,Egypt,Ali Abo Greisha,54,FALSE,FALSE
+1974-03-09,Egypt,DR Congo,DR Congo,Ndaye Mulamba,55,FALSE,FALSE
+1974-03-09,Egypt,DR Congo,DR Congo,Kidumu Mantantu,61,FALSE,FALSE
+1974-03-09,Egypt,DR Congo,DR Congo,Ndaye Mulamba,72,FALSE,FALSE
+1974-03-11,Congo,Egypt,Egypt,Mostafa Abdou,5,FALSE,FALSE
+1974-03-11,Congo,Egypt,Egypt,Hassan Shehata,18,FALSE,FALSE
+1974-03-11,Congo,Egypt,Egypt,Ali Abo Greisha,62,FALSE,FALSE
+1974-03-11,Congo,Egypt,Egypt,Hassan Shehata,80,FALSE,FALSE
+1974-03-12,DR Congo,Zambia,Zambia,Simon Kaushi,40,FALSE,FALSE
+1974-03-12,DR Congo,Zambia,DR Congo,Ndaye Mulamba,65,FALSE,FALSE
+1974-03-12,DR Congo,Zambia,DR Congo,Ndaye Mulamba,117,FALSE,FALSE
+1974-03-12,DR Congo,Zambia,Zambia,Brighton Sinyangwe,120,FALSE,FALSE
+1974-03-14,DR Congo,Zambia,DR Congo,Ndaye Mulamba,30,FALSE,FALSE
+1974-03-14,DR Congo,Zambia,DR Congo,Ndaye Mulamba,76,FALSE,FALSE
 1974-06-14,DR Congo,Scotland,Scotland,Peter Lorimer,26,FALSE,FALSE
 1974-06-14,DR Congo,Scotland,Scotland,Joe Jordan,34,FALSE,FALSE
 1974-06-14,German DR,Australia,German DR,Colin Curran,58,TRUE,FALSE
@@ -2559,6 +2717,60 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1975-10-22,Peru,Colombia,Peru,Juan Carlos Oblitas,18,FALSE,FALSE
 1975-10-22,Peru,Colombia,Peru,Oswaldo Ramírez,44,FALSE,FALSE
 1975-10-28,Colombia,Peru,Peru,Hugo Sotil,25,FALSE,FALSE
+1976-02-29,Egypt,Guinea,Egypt,Taha Basri,43,FALSE,FALSE
+1976-02-29,Egypt,Guinea,Guinea,Bengally Sylla,44,FALSE,TRUE
+1976-02-29,Ethiopia,Uganda,Ethiopia,Solomon Sheferahu,2,FALSE,FALSE
+1976-02-29,Ethiopia,Uganda,Ethiopia,Tesfaye Seyoum,83,FALSE,FALSE
+1976-03-01,Morocco,Sudan,Morocco,Chérif Fetoui,1,FALSE,FALSE
+1976-03-01,Morocco,Sudan,Sudan,Ali Gagarin,9,FALSE,FALSE
+1976-03-01,Morocco,Sudan,Morocco,Ahmed Abouali,58,FALSE,FALSE
+1976-03-01,Morocco,Sudan,Sudan,Ali Gagarin,79,FALSE,TRUE
+1976-03-01,Nigeria,DR Congo,Nigeria,Baba Otu Mohammed,28,FALSE,FALSE
+1976-03-01,Nigeria,DR Congo,Nigeria,Sam Ojebode,37,FALSE,TRUE
+1976-03-01,Nigeria,DR Congo,Nigeria,Baba Otu Mohammed,44,FALSE,FALSE
+1976-03-01,Nigeria,DR Congo,DR Congo,Kabasu Babo,51,FALSE,FALSE
+1976-03-01,Nigeria,DR Congo,DR Congo,Mbungu Ekofa,58,FALSE,FALSE
+1976-03-01,Nigeria,DR Congo,Nigeria,Thompson Usiyan,90,FALSE,FALSE
+1976-03-03,Egypt,Uganda,Uganda,Denis Obua,21,FALSE,FALSE
+1976-03-03,Egypt,Uganda,Egypt,Mustafa Abdou,26,FALSE,FALSE
+1976-03-03,Egypt,Uganda,Egypt,Taha Basri,32,FALSE,FALSE
+1976-03-03,Ethiopia,Guinea,Guinea,Mamadou Aliou Keita,15,FALSE,FALSE
+1976-03-03,Ethiopia,Guinea,Ethiopia,Solomon Sheferahu,40,FALSE,FALSE
+1976-03-03,Ethiopia,Guinea,Guinea,Petit Sory,85,FALSE,FALSE
+1976-03-04,Morocco,DR Congo,Morocco,Abdelâali Zahraoui,80,FALSE,FALSE
+1976-03-04,Nigeria,Sudan,Nigeria,Thompson Usiyan,8,FALSE,FALSE
+1976-03-05,Ethiopia,Egypt,Egypt,Hassan Shehata,26,FALSE,FALSE
+1976-03-05,Ethiopia,Egypt,Ethiopia,Mohamed Ali,46,FALSE,FALSE
+1976-03-05,Guinea,Uganda,Guinea,Mamadou Aliou Keita,2,FALSE,FALSE
+1976-03-05,Guinea,Uganda,Guinea,Bengally Sylla,20,FALSE,FALSE
+1976-03-05,Guinea,Uganda,Uganda,Jimmy Muguwa,85,FALSE,FALSE
+1976-03-06,DR Congo,Sudan,Sudan,Ali Gagarin,14,FALSE,FALSE
+1976-03-06,DR Congo,Sudan,DR Congo,Ndaye Mulamba,41,FALSE,FALSE
+1976-03-06,Morocco,Nigeria,Morocco,Ahmed Faras,8,FALSE,FALSE
+1976-03-06,Morocco,Nigeria,Morocco,Abdellah Tazi,19,FALSE,FALSE
+1976-03-06,Morocco,Nigeria,Morocco,Larbi Chebbak,81,FALSE,FALSE
+1976-03-06,Morocco,Nigeria,Nigeria,Sam Ojebode,81,FALSE,FALSE
+1976-03-09,Guinea,Nigeria,Nigeria,Mudashiru Lawal,55,FALSE,FALSE
+1976-03-09,Guinea,Nigeria,Guinea,Papa Camara,88,FALSE,FALSE
+1976-03-09,Morocco,Egypt,Morocco,Ahmed Faras,23,FALSE,FALSE
+1976-03-09,Morocco,Egypt,Egypt,Ahmed Abou Rehab,34,FALSE,FALSE
+1976-03-09,Morocco,Egypt,Morocco,Abdelâali Zahraoui,88,FALSE,FALSE
+1976-03-11,Guinea,Egypt,Guinea,Mamadou Aliou Keita,24,FALSE,FALSE
+1976-03-11,Guinea,Egypt,Egypt,Mustafa Abdou,33,FALSE,FALSE
+1976-03-11,Guinea,Egypt,Guinea,Ghanem Sultan,53,TRUE,FALSE
+1976-03-11,Guinea,Egypt,Guinea,Morciré Sylla,62,FALSE,FALSE
+1976-03-11,Guinea,Egypt,Guinea,Mamadou Aliou Keita,65,FALSE,FALSE
+1976-03-11,Guinea,Egypt,Egypt,Mohamed El-Seyagui,86,FALSE,FALSE
+1976-03-11,Morocco,Nigeria,Nigeria,Baba Otu Mohammed,57,FALSE,FALSE
+1976-03-11,Morocco,Nigeria,Morocco,Ahmed Faras,82,FALSE,FALSE
+1976-03-11,Morocco,Nigeria,Morocco,Redouane Guezzar,87,FALSE,FALSE
+1976-03-14,Guinea,Morocco,Guinea,Chérif Souleymane,33,FALSE,FALSE
+1976-03-14,Guinea,Morocco,Morocco,Ahmed Makrouh,86,FALSE,FALSE
+1976-03-14,Nigeria,Egypt,Egypt,Mahmoud El Khatib,7,FALSE,FALSE
+1976-03-14,Nigeria,Egypt,Nigeria,Haruna Ilerika,35,FALSE,FALSE
+1976-03-14,Nigeria,Egypt,Nigeria,Haruna Ilerika,62,FALSE,FALSE
+1976-03-14,Nigeria,Egypt,Nigeria,Mudashiru Lawal,82,FALSE,FALSE
+1976-03-14,Nigeria,Egypt,Egypt,Osama Khalil,86,FALSE,FALSE
 1976-06-16,Czechoslovakia,Netherlands,Czechoslovakia,Anton Ondruš,19,FALSE,FALSE
 1976-06-16,Czechoslovakia,Netherlands,Netherlands,Anton Ondruš,73,TRUE,FALSE
 1976-06-16,Czechoslovakia,Netherlands,Czechoslovakia,Zdeněk Nehoda,114,FALSE,FALSE
@@ -2578,6 +2790,44 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1976-06-20,Czechoslovakia,Germany,Czechoslovakia,Karol Dobiaš,25,FALSE,FALSE
 1976-06-20,Czechoslovakia,Germany,Germany,Dieter Müller,28,FALSE,FALSE
 1976-06-20,Czechoslovakia,Germany,Germany,Bernd Hölzenbein,89,FALSE,FALSE
+1978-03-05,Ghana,Zambia,Zambia,Obby Kapita,8,FALSE,FALSE
+1978-03-05,Ghana,Zambia,Ghana,Opoku Afriyie,21,FALSE,FALSE
+1978-03-05,Ghana,Zambia,Ghana,Karim Abdul Razak,55,FALSE,FALSE
+1978-03-05,Nigeria,Burkina Faso,Nigeria,Christian Chukwu,17,FALSE,FALSE
+1978-03-05,Nigeria,Burkina Faso,Nigeria,Adokiye Amiesimaka,31,FALSE,FALSE
+1978-03-05,Nigeria,Burkina Faso,Nigeria,Segun Odegbami,44,FALSE,FALSE
+1978-03-05,Nigeria,Burkina Faso,Burkina Faso,Hubert Hien,50,FALSE,FALSE
+1978-03-05,Nigeria,Burkina Faso,Burkina Faso,Mamadaou Koïta,52,FALSE,FALSE
+1978-03-05,Nigeria,Burkina Faso,Nigeria,Segun Odegbami,82,FALSE,FALSE
+1978-03-06,Morocco,Tunisia,Morocco,Hassan Amcharrat,29,FALSE,FALSE
+1978-03-06,Morocco,Tunisia,Tunisia,Ali Kaabi,63,FALSE,FALSE
+1978-03-06,Uganda,Congo,Uganda,Phillip Omondi,1,FALSE,FALSE
+1978-03-06,Uganda,Congo,Uganda,Edward Semwanga,31,FALSE,FALSE
+1978-03-06,Uganda,Congo,Congo,Jacques Mamounoubala,80,FALSE,FALSE
+1978-03-06,Uganda,Congo,Uganda,Godfrey Kisitu,81,FALSE,FALSE
+1978-03-08,Nigeria,Ghana,Nigeria,Segun Odegbami,33,FALSE,FALSE
+1978-03-08,Nigeria,Ghana,Ghana,Willie Klutse,76,FALSE,FALSE
+1978-03-08,Zambia,Burkina Faso,Zambia,Patrick Phiri,20,FALSE,FALSE
+1978-03-08,Zambia,Burkina Faso,Zambia,Bizwell Phiri,88,FALSE,FALSE
+1978-03-09,Morocco,Congo,Morocco,Hassan Amcharrat,28,FALSE,FALSE
+1978-03-09,Tunisia,Uganda,Tunisia,Mohsen Labidi,36,FALSE,FALSE
+1978-03-09,Tunisia,Uganda,Tunisia,Abderraouf Ben Aziza,38,FALSE,FALSE
+1978-03-09,Tunisia,Uganda,Uganda,Samuel Musenze,71,FALSE,FALSE
+1978-03-09,Tunisia,Uganda,Tunisia,Abderraouf Ben Aziza,83,FALSE,FALSE
+1978-03-10,Ghana,Burkina Faso,Ghana,George Alhassan,3,FALSE,FALSE
+1978-03-10,Ghana,Burkina Faso,Ghana,Mohammed Ahmed,52,FALSE,FALSE
+1978-03-10,Ghana,Burkina Faso,Ghana,George Alhassan,59,FALSE,FALSE
+1978-03-11,Uganda,Morocco,Uganda,Godfrey Kisitu,13,FALSE,FALSE
+1978-03-11,Uganda,Morocco,Uganda,Moses Msereko,32,FALSE,FALSE
+1978-03-11,Uganda,Morocco,Uganda,Phillip Omondi,36,FALSE,FALSE
+1978-03-14,Ghana,Tunisia,Ghana,Karim Abdul Razak,57,FALSE,FALSE
+1978-03-14,Uganda,Nigeria,Uganda,Abdulla Nasur,11,FALSE,FALSE
+1978-03-14,Uganda,Nigeria,Nigeria,Martins Eyo,54,FALSE,FALSE
+1978-03-14,Uganda,Nigeria,Uganda,Phillip Omondi,58,FALSE,FALSE
+1978-03-16,Ghana,Uganda,Ghana,Opoku Afriyie,38,FALSE,FALSE
+1978-03-16,Ghana,Uganda,Ghana,Opoku Afriyie,64,FALSE,FALSE
+1978-03-16,Nigeria,Tunisia,Tunisia,Mohamed Akid,19,FALSE,FALSE
+1978-03-16,Nigeria,Tunisia,Nigeria,Baba Otu Mohammed,42,FALSE,FALSE
 1978-06-02,Argentina,Hungary,Hungary,Károly Csapó,9,FALSE,FALSE
 1978-06-02,Argentina,Hungary,Argentina,Leopoldo Luque,14,FALSE,FALSE
 1978-06-02,Argentina,Hungary,Argentina,Daniel Bertoni,83,FALSE,FALSE
@@ -2743,6 +2993,39 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1979-11-28,Paraguay,Chile,Paraguay,Milciades Morel,36,FALSE,FALSE
 1979-11-28,Paraguay,Chile,Paraguay,Julio César Romero,85,FALSE,FALSE
 1979-12-05,Chile,Paraguay,Chile,Carlos Rivas,10,FALSE,FALSE
+1980-03-08,Egypt,Ivory Coast,Ivory Coast,Ani Gome,7,FALSE,FALSE
+1980-03-08,Egypt,Ivory Coast,Egypt,Maher Hammam,8,FALSE,FALSE
+1980-03-08,Egypt,Ivory Coast,Egypt,Mokhtar Mokhtar,20,FALSE,FALSE
+1980-03-08,Nigeria,Tanzania,Nigeria,Muda Lawal,11,FALSE,FALSE
+1980-03-08,Nigeria,Tanzania,Nigeria,Ifeanyi Onyedika,35,FALSE,FALSE
+1980-03-08,Nigeria,Tanzania,Tanzania,Juma Mkambi,54,FALSE,FALSE
+1980-03-08,Nigeria,Tanzania,Nigeria,Segun Odegbami,85,FALSE,FALSE
+1980-03-09,Morocco,Guinea,Morocco,Tahir Mustapha,7,FALSE,FALSE
+1980-03-09,Morocco,Guinea,Guinea,Moussa Camara,8,FALSE,FALSE
+1980-03-12,Egypt,Tanzania,Egypt,Hassan Shehata,32,FALSE,FALSE
+1980-03-12,Egypt,Tanzania,Egypt,Mussad Nur,38,FALSE,FALSE
+1980-03-12,Egypt,Tanzania,Tanzania,Thuwein Waziri,86,FALSE,FALSE
+1980-03-13,Algeria,Morocco,Algeria,Lakhdar Belloumi,90,FALSE,FALSE
+1980-03-13,Ghana,Guinea,Ghana,Willie Klutse,69,FALSE,FALSE
+1980-03-15,Ivory Coast,Tanzania,Ivory Coast,Kobenan Koma,7,FALSE,FALSE
+1980-03-15,Ivory Coast,Tanzania,Tanzania,Thuwein Waziri,59,FALSE,FALSE
+1980-03-15,Nigeria,Egypt,Nigeria,Okey Isima,15,FALSE,FALSE
+1980-03-16,Algeria,Guinea,Algeria,Tedj Bensaoula,12,FALSE,FALSE
+1980-03-16,Algeria,Guinea,Algeria,Lakhdar Belloumi,37,FALSE,FALSE
+1980-03-16,Algeria,Guinea,Algeria,Tedj Bensaoula,49,FALSE,FALSE
+1980-03-16,Algeria,Guinea,Guinea,Ibrahima Diawara,82,FALSE,FALSE
+1980-03-16,Algeria,Guinea,Guinea,Sidouba Bangoura,90,FALSE,FALSE
+1980-03-16,Morocco,Ghana,Morocco,Khalid Labied,44,FALSE,FALSE
+1980-03-19,Algeria,Egypt,Egypt,Mahmoud El Khatib,32,FALSE,FALSE
+1980-03-19,Algeria,Egypt,Egypt,Ramadan El Sayed,47,FALSE,FALSE
+1980-03-19,Algeria,Egypt,Algeria,Salah Assad,55,FALSE,TRUE
+1980-03-19,Algeria,Egypt,Algeria,Hocine Benmiloudi,62,FALSE,FALSE
+1980-03-19,Nigeria,Morocco,Nigeria,Felix Owolabi,9,FALSE,FALSE
+1980-03-21,Morocco,Egypt,Morocco,Khalid Labied,9,FALSE,FALSE
+1980-03-21,Morocco,Egypt,Morocco,Khalid Labied,78,FALSE,FALSE
+1980-03-22,Nigeria,Algeria,Nigeria,Segun Odegbami,2,FALSE,FALSE
+1980-03-22,Nigeria,Algeria,Nigeria,Segun Odegbami,42,FALSE,FALSE
+1980-03-22,Nigeria,Algeria,Nigeria,Muda Lawal,50,FALSE,FALSE
 1980-06-11,Czechoslovakia,Germany,Germany,Karl-Heinz Rummenigge,57,FALSE,FALSE
 1980-06-11,Netherlands,Greece,Netherlands,Kees Kist,65,FALSE,TRUE
 1980-06-12,Belgium,England,England,Ray Wilkins,26,FALSE,FALSE
@@ -2770,6 +3053,38 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1980-06-22,Belgium,Germany,Germany,Horst Hrubesch,10,FALSE,FALSE
 1980-06-22,Belgium,Germany,Belgium,René Vandereycken,75,FALSE,TRUE
 1980-06-22,Belgium,Germany,Germany,Horst Hrubesch,88,FALSE,FALSE
+1982-03-05,Cameroon,Tunisia,Tunisia,Kamel Gabsi,60,FALSE,FALSE
+1982-03-05,Cameroon,Tunisia,Cameroon,Grégoire M'Bida,61,FALSE,FALSE
+1982-03-05,Libya,Ghana,Ghana,George Alhassan,28,FALSE,FALSE
+1982-03-05,Libya,Ghana,Libya,Abdel Razak Jaranah,58,FALSE,FALSE
+1982-03-05,Libya,Ghana,Libya,Fawzi Al-Issawi,76,FALSE,FALSE
+1982-03-05,Libya,Ghana,Ghana,Samuel Opoku Nti,89,FALSE,FALSE
+1982-03-07,Algeria,Zambia,Algeria,Chaabane Merzekane,85,FALSE,FALSE
+1982-03-07,Nigeria,Ethiopia,Nigeria,Stephen Keshi,27,FALSE,FALSE
+1982-03-07,Nigeria,Ethiopia,Nigeria,Ademola Adeshina,40,FALSE,FALSE
+1982-03-07,Nigeria,Ethiopia,Nigeria,Stephen Keshi,84,FALSE,FALSE
+1982-03-09,Libya,Tunisia,Libya,Kamel Seddik,42,TRUE,FALSE
+1982-03-09,Libya,Tunisia,Libya,Faraj Al-Bor'osi,89,FALSE,FALSE
+1982-03-10,Algeria,Nigeria,Nigeria,Emmanuel Osigwe,40,FALSE,FALSE
+1982-03-10,Algeria,Nigeria,Algeria,Okey Isima,44,TRUE,FALSE
+1982-03-10,Algeria,Nigeria,Algeria,Salah Assad,65,FALSE,FALSE
+1982-03-10,Zambia,Ethiopia,Zambia,Geofrey Munshya,68,FALSE,FALSE
+1982-03-12,Ghana,Tunisia,Ghana,John Ebow Essien,28,FALSE,FALSE
+1982-03-13,Zambia,Nigeria,Zambia,Peter Kaumba,25,FALSE,FALSE
+1982-03-13,Zambia,Nigeria,Zambia,Aaron Njovu,80,FALSE,FALSE
+1982-03-13,Zambia,Nigeria,Zambia,Peter Fregene,81,TRUE,FALSE
+1982-03-16,Ghana,Algeria,Ghana,George Alhassan,4,FALSE,FALSE
+1982-03-16,Ghana,Algeria,Algeria,Djamel Zidane,29,FALSE,FALSE
+1982-03-16,Ghana,Algeria,Algeria,Salah Assad,62,FALSE,FALSE
+1982-03-16,Ghana,Algeria,Ghana,Samuel Opoku Nti,90,FALSE,FALSE
+1982-03-16,Ghana,Algeria,Ghana,George Alhassan,103,FALSE,FALSE
+1982-03-16,Libya,Zambia,Zambia,Peter Kaumba,29,FALSE,FALSE
+1982-03-16,Libya,Zambia,Libya,Ali Al-Beshari,38,FALSE,FALSE
+1982-03-16,Libya,Zambia,Libya,Ali Al-Beshari,84,FALSE,FALSE
+1982-03-18,Zambia,Algeria,Zambia,Peter Kaumba,2,FALSE,FALSE
+1982-03-18,Zambia,Algeria,Zambia,Geofrey Munshya,25,FALSE,FALSE
+1982-03-19,Ghana,Libya,Ghana,George Alhassan,35,FALSE,FALSE
+1982-03-19,Ghana,Libya,Libya,Ali Al-Beshari,70,FALSE,FALSE
 1982-06-13,Argentina,Belgium,Belgium,Erwin Vandenbergh,62,FALSE,FALSE
 1982-06-14,Brazil,Russia,Russia,Andriy Bal,34,FALSE,FALSE
 1982-06-14,Brazil,Russia,Brazil,Sócrates,75,FALSE,FALSE
@@ -2971,6 +3286,45 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1983-10-27,Uruguay,Brazil,Uruguay,Víctor Diogo,80,FALSE,FALSE
 1983-11-04,Brazil,Uruguay,Brazil,Jorginho Putinatti,23,FALSE,FALSE
 1983-11-04,Brazil,Uruguay,Uruguay,Carlos Aguilera,77,FALSE,FALSE
+1984-03-04,Egypt,Cameroon,Egypt,Taher Abouzaid,78,FALSE,FALSE
+1984-03-04,Ivory Coast,Togo,Ivory Coast,Tia Koffi,27,FALSE,FALSE
+1984-03-04,Ivory Coast,Togo,Ivory Coast,Youssouf Falikou Fofana,62,FALSE,FALSE
+1984-03-04,Ivory Coast,Togo,Ivory Coast,Michel Goba,75,FALSE,FALSE
+1984-03-05,Algeria,Malawi,Algeria,Nasser Bouiche,29,FALSE,FALSE
+1984-03-05,Algeria,Malawi,Algeria,Lakhdar Belloumi,36,FALSE,FALSE
+1984-03-05,Algeria,Malawi,Algeria,Ali Fergani,38,FALSE,FALSE
+1984-03-05,Ghana,Nigeria,Nigeria,Henry Nwosu,13,FALSE,FALSE
+1984-03-05,Ghana,Nigeria,Ghana,Samuel Opoku N'ti,19,FALSE,FALSE
+1984-03-05,Ghana,Nigeria,Nigeria,Shibuzor Ehilegbu,31,FALSE,FALSE
+1984-03-07,Cameroon,Togo,Cameroon,Bonaventure Djonkep,7,FALSE,FALSE
+1984-03-07,Cameroon,Togo,Cameroon,Théophile Abega,21,FALSE,FALSE
+1984-03-07,Cameroon,Togo,Cameroon,Ibrahim Aoudou,45,FALSE,FALSE
+1984-03-07,Cameroon,Togo,Togo,Rafiou Moutairou,56,FALSE,FALSE
+1984-03-07,Cameroon,Togo,Cameroon,Théophile Abega,61,FALSE,FALSE
+1984-03-07,Ivory Coast,Egypt,Ivory Coast,Pascal Miézan,53,FALSE,FALSE
+1984-03-07,Ivory Coast,Egypt,Egypt,Taher Abouzaid,66,FALSE,FALSE
+1984-03-07,Ivory Coast,Egypt,Egypt,Taher Abouzaid,72,FALSE,FALSE
+1984-03-08,Algeria,Ghana,Algeria,Djamel Menad,75,FALSE,FALSE
+1984-03-08,Algeria,Ghana,Algeria,Tedj Bensaoula,85,FALSE,FALSE
+1984-03-08,Malawi,Nigeria,Malawi,Harry Waya,7,FALSE,TRUE
+1984-03-08,Malawi,Nigeria,Malawi,Clifton Msiya,35,FALSE,FALSE
+1984-03-08,Malawi,Nigeria,Nigeria,Clement Temile,39,FALSE,FALSE
+1984-03-08,Malawi,Nigeria,Nigeria,Clement Temile,41,FALSE,FALSE
+1984-03-10,Ivory Coast,Cameroon,Cameroon,Roger Milla,42,FALSE,FALSE
+1984-03-10,Ivory Coast,Cameroon,Cameroon,Bonaventure Djonkep,61,FALSE,FALSE
+1984-03-11,Ghana,Malawi,Ghana,Seth Amphadu,32,FALSE,FALSE
+1984-03-14,Egypt,Nigeria,Egypt,Emad Soliman,25,FALSE,FALSE
+1984-03-14,Egypt,Nigeria,Egypt,Taher Abouzaid,38,FALSE,FALSE
+1984-03-14,Egypt,Nigeria,Nigeria,Stephen Keshi,43,FALSE,TRUE
+1984-03-14,Egypt,Nigeria,Nigeria,Ali Bala,75,FALSE,FALSE
+1984-03-17,Algeria,Egypt,Algeria,Rabah Madjer,68,FALSE,FALSE
+1984-03-17,Algeria,Egypt,Algeria,Lakhdar Belloumi,71,FALSE,FALSE
+1984-03-17,Algeria,Egypt,Egypt,Magdi Abdelghani,76,FALSE,TRUE
+1984-03-17,Algeria,Egypt,Algeria,Hocine Yahi,90,FALSE,FALSE
+1984-03-18,Cameroon,Nigeria,Nigeria,Muda Lawal,10,FALSE,FALSE
+1984-03-18,Cameroon,Nigeria,Cameroon,Rene N'Djeya,32,FALSE,FALSE
+1984-03-18,Cameroon,Nigeria,Cameroon,Théophile Abega,79,FALSE,FALSE
+1984-03-18,Cameroon,Nigeria,Cameroon,Ernest Ebongué,84,FALSE,FALSE
 1984-06-12,France,Denmark,France,Michel Platini,78,FALSE,FALSE
 1984-06-13,Belgium,Yugoslavia,Belgium,Erwin Vandenbergh,28,FALSE,FALSE
 1984-06-13,Belgium,Yugoslavia,Belgium,Georges Grün,45,FALSE,FALSE
@@ -3012,6 +3366,37 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1984-06-24,Denmark,Spain,Spain,Antonio Maceda,67,FALSE,FALSE
 1984-06-27,France,Spain,France,Michel Platini,57,FALSE,FALSE
 1984-06-27,France,Spain,France,Bruno Bellone,90,FALSE,FALSE
+1986-03-07,Ivory Coast,Mozambique,Ivory Coast,Abdoulaye Traoré,25,FALSE,FALSE
+1986-03-07,Ivory Coast,Mozambique,Ivory Coast,Abdoulaye Traoré,74,FALSE,FALSE
+1986-03-07,Ivory Coast,Mozambique,Ivory Coast,Kouassi N'Dri,86,FALSE,FALSE
+1986-03-07,Senegal,Egypt,Senegal,Thierno Youm,67,FALSE,FALSE
+1986-03-08,Cameroon,Zambia,Cameroon,Roger Milla,46,FALSE,FALSE
+1986-03-08,Cameroon,Zambia,Zambia,Michael Chabala,65,FALSE,FALSE
+1986-03-08,Cameroon,Zambia,Cameroon,Louis-Paul M'Fédé,67,FALSE,FALSE
+1986-03-08,Cameroon,Zambia,Zambia,Kalusha Bwalya,77,FALSE,TRUE
+1986-03-08,Cameroon,Zambia,Cameroon,Louis-Paul M'Fédé,82,FALSE,TRUE
+1986-03-10,Egypt,Ivory Coast,Egypt,Shawky Gharieb,73,FALSE,FALSE
+1986-03-10,Egypt,Ivory Coast,Egypt,Gamal Abdelhamid,83,FALSE,FALSE
+1986-03-10,Senegal,Mozambique,Senegal,Pape Fall,28,FALSE,FALSE
+1986-03-10,Senegal,Mozambique,Senegal,Jules Bocandé,83,FALSE,FALSE
+1986-03-11,Cameroon,Morocco,Morocco,Abdelkrim Merry,63,FALSE,FALSE
+1986-03-11,Cameroon,Morocco,Cameroon,Roger Milla,89,FALSE,FALSE
+1986-03-13,Egypt,Mozambique,Egypt,Taher Abouzaid,13,FALSE,FALSE
+1986-03-13,Egypt,Mozambique,Egypt,Taher Abouzaid,15,FALSE,FALSE
+1986-03-13,Ivory Coast,Senegal,Ivory Coast,Abdoulaye Traoré,71,FALSE,FALSE
+1986-03-14,Cameroon,Algeria,Algeria,Rabah Madjer,61,FALSE,FALSE
+1986-03-14,Cameroon,Algeria,Cameroon,André Kana-Biyik,66,FALSE,FALSE
+1986-03-14,Cameroon,Algeria,Cameroon,André Kana-Biyik,70,FALSE,FALSE
+1986-03-14,Cameroon,Algeria,Cameroon,Roger Milla,72,FALSE,FALSE
+1986-03-14,Cameroon,Algeria,Algeria,Karim Maroc,73,FALSE,FALSE
+1986-03-14,Morocco,Zambia,Morocco,Jones Chilengi,18,TRUE,FALSE
+1986-03-17,Cameroon,Ivory Coast,Cameroon,Roger Milla,46,FALSE,FALSE
+1986-03-17,Egypt,Morocco,Egypt,Taher Abouzeid,79,FALSE,FALSE
+1986-03-20,Ivory Coast,Morocco,Ivory Coast,Oumar Ben Salah,8,FALSE,FALSE
+1986-03-20,Ivory Coast,Morocco,Ivory Coast,Lucien Kassi-Kouadio,38,FALSE,FALSE
+1986-03-20,Ivory Coast,Morocco,Morocco,Abdelfettah Rhiati,44,FALSE,FALSE
+1986-03-20,Ivory Coast,Morocco,Ivory Coast,Lucien Kassi-Kouadio,68,FALSE,TRUE
+1986-03-20,Ivory Coast,Morocco,Morocco,Mohammed Sahil,85,FALSE,FALSE
 1986-05-31,Bulgaria,Italy,Italy,Alessandro Altobelli,44,FALSE,FALSE
 1986-05-31,Bulgaria,Italy,Bulgaria,Nasko Sirakov,85,FALSE,FALSE
 1986-06-01,Canada,France,France,Jean-Pierre Papin,79,FALSE,FALSE
@@ -3177,6 +3562,29 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1987-07-11,Argentina,Colombia,Colombia,Juan Jairo Galeano,27,FALSE,FALSE
 1987-07-11,Argentina,Colombia,Argentina,Claudio Caniggia,86,FALSE,FALSE
 1987-07-12,Chile,Uruguay,Uruguay,Pablo Bengoechea,56,FALSE,FALSE
+1988-03-13,Ivory Coast,Algeria,Algeria,Lakhdar Belloumi,16,FALSE,FALSE
+1988-03-13,Ivory Coast,Algeria,Ivory Coast,Abdoulaye Traoré,48,FALSE,FALSE
+1988-03-13,Morocco,DR Congo,Morocco,Abdelkrim Merry,43,FALSE,TRUE
+1988-03-13,Morocco,DR Congo,DR Congo,Vita Lutonadio,88,FALSE,FALSE
+1988-03-14,Cameroon,Egypt,Cameroon,Roger Milla,5,FALSE,FALSE
+1988-03-14,Nigeria,Kenya,Nigeria,Rashidi Yekini,6,FALSE,FALSE
+1988-03-14,Nigeria,Kenya,Nigeria,Humphrey Edobor,13,FALSE,FALSE
+1988-03-14,Nigeria,Kenya,Nigeria,Ndubuisi Okosieme,33,FALSE,FALSE
+1988-03-16,Ivory Coast,DR Congo,DR Congo,Eugène Kabongo,37,FALSE,FALSE
+1988-03-16,Ivory Coast,DR Congo,Ivory Coast,Abdoulaye Traoré,74,FALSE,FALSE
+1988-03-16,Morocco,Algeria,Morocco,Mustafa El Haddaoui,52,FALSE,FALSE
+1988-03-17,Cameroon,Nigeria,Nigeria,Samuel Okwaraji,2,FALSE,FALSE
+1988-03-17,Cameroon,Nigeria,Cameroon,Roger Milla,21,FALSE,FALSE
+1988-03-17,Egypt,Kenya,Egypt,Gamal Abdelhamid,2,FALSE,FALSE
+1988-03-17,Egypt,Kenya,Egypt,Ayman Younes,58,FALSE,FALSE
+1988-03-17,Egypt,Kenya,Egypt,Gamal Abdelhamid,65,FALSE,FALSE
+1988-03-19,Algeria,DR Congo,Algeria,Abdelkader Ferhaoui,36,FALSE,FALSE
+1988-03-23,Morocco,Cameroon,Cameroon,Cyrille Makanaky,78,FALSE,FALSE
+1988-03-23,Nigeria,Algeria,Nigeria,Abdelrazak Belgharbi,36,TRUE,FALSE
+1988-03-23,Nigeria,Algeria,Algeria,Rachid Maâtar,86,FALSE,FALSE
+1988-03-26,Morocco,Algeria,Morocco,Hassan Nader,67,FALSE,FALSE
+1988-03-26,Morocco,Algeria,Algeria,Lakhdar Belloumi,87,FALSE,FALSE
+1988-03-27,Cameroon,Nigeria,Cameroon,Emmanuel Kundé,55,FALSE,TRUE
 1988-06-10,Germany,Italy,Italy,Roberto Mancini,52,FALSE,FALSE
 1988-06-10,Germany,Italy,Germany,Andreas Brehme,55,FALSE,FALSE
 1988-06-11,Denmark,Spain,Spain,Míchel,5,FALSE,FALSE
@@ -3266,6 +3674,36 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1989-07-14,Brazil,Paraguay,Brazil,Bebeto,52,FALSE,FALSE
 1989-07-14,Brazil,Paraguay,Brazil,Romário,58,FALSE,FALSE
 1989-07-16,Brazil,Uruguay,Brazil,Romário,49,FALSE,FALSE
+1990-03-02,Algeria,Nigeria,Algeria,Rabah Madjer,36,FALSE,FALSE
+1990-03-02,Algeria,Nigeria,Algeria,Rabah Madjer,58,FALSE,FALSE
+1990-03-02,Algeria,Nigeria,Algeria,Djamel Menad,69,FALSE,FALSE
+1990-03-02,Algeria,Nigeria,Algeria,Djamel Menad,72,FALSE,FALSE
+1990-03-02,Algeria,Nigeria,Nigeria,Emmanuel Okocha,82,FALSE,FALSE
+1990-03-02,Algeria,Nigeria,Algeria,Djamel Amani,88,FALSE,FALSE
+1990-03-02,Ivory Coast,Egypt,Ivory Coast,Abdoulaye Traoré,53,FALSE,FALSE
+1990-03-02,Ivory Coast,Egypt,Ivory Coast,Abdoulaye Traoré,60,FALSE,FALSE
+1990-03-02,Ivory Coast,Egypt,Ivory Coast,Serge Maguy,73,FALSE,FALSE
+1990-03-02,Ivory Coast,Egypt,Egypt,Adel Abdelrahman,75,FALSE,FALSE
+1990-03-03,Zambia,Cameroon,Zambia,Webster Chikabala,58,FALSE,FALSE
+1990-03-05,Algeria,Ivory Coast,Algeria,Djamel Menad,23,FALSE,FALSE
+1990-03-05,Algeria,Ivory Coast,Algeria,Tahar Chérif El-Ouazzani,81,FALSE,FALSE
+1990-03-05,Algeria,Ivory Coast,Algeria,Chérif Oudjani,82,FALSE,FALSE
+1990-03-05,Nigeria,Egypt,Nigeria,Rashidi Yekini,8,FALSE,FALSE
+1990-03-06,Senegal,Cameroon,Senegal,Mamadou Diallo,45,FALSE,FALSE
+1990-03-06,Senegal,Cameroon,Senegal,Moussa N'Dao,56,FALSE,FALSE
+1990-03-06,Zambia,Kenya,Zambia,Linos Makwaza,40,FALSE,FALSE
+1990-03-08,Algeria,Egypt,Algeria,Djamel Amani,39,FALSE,FALSE
+1990-03-08,Algeria,Egypt,Algeria,Moussa Saïb,43,FALSE,FALSE
+1990-03-08,Nigeria,Ivory Coast,Nigeria,Rashidi Yekini,3,FALSE,FALSE
+1990-03-09,Cameroon,Kenya,Cameroon,Emmanuel Maboang,28,FALSE,FALSE
+1990-03-09,Cameroon,Kenya,Cameroon,Emmanuel Maboang,69,FALSE,FALSE
+1990-03-12,Algeria,Senegal,Algeria,Djamel Menad,4,FALSE,FALSE
+1990-03-12,Algeria,Senegal,Senegal,Abdelhakim Serrar,20,TRUE,FALSE
+1990-03-12,Algeria,Senegal,Algeria,Djamel Amani,62,FALSE,FALSE
+1990-03-12,Zambia,Nigeria,Nigeria,Uche Okechukwu,18,FALSE,FALSE
+1990-03-12,Zambia,Nigeria,Nigeria,Rashidi Yekini,77,FALSE,FALSE
+1990-03-15,Zambia,Senegal,Zambia,Webster Chikabala,73,FALSE,FALSE
+1990-03-16,Algeria,Nigeria,Algeria,Chérif Oudjani,38,FALSE,FALSE
 1990-06-08,Argentina,Cameroon,Cameroon,François Omam-Biyik,67,FALSE,FALSE
 1990-06-09,Italy,Austria,Italy,Salvatore Schillaci,78,FALSE,FALSE
 1990-06-09,Russia,Romania,Romania,Marius Lăcătuș,41,FALSE,FALSE
@@ -3454,6 +3892,40 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1991-07-21,Argentina,Colombia,Colombia,Antony de Ávila,70,FALSE,FALSE
 1991-07-21,Chile,Brazil,Brazil,Mazinho Oliveira,8,FALSE,FALSE
 1991-07-21,Chile,Brazil,Brazil,Luís Henrique,55,FALSE,FALSE
+1992-01-12,Cameroon,Morocco,Cameroon,André Kana-Biyik,23,FALSE,FALSE
+1992-01-12,Nigeria,Senegal,Nigeria,Samson Siasia,13,FALSE,FALSE
+1992-01-12,Nigeria,Senegal,Senegal,Jules Bocandé,36,FALSE,FALSE
+1992-01-12,Nigeria,Senegal,Nigeria,Stephen Keshi,89,FALSE,FALSE
+1992-01-13,Ivory Coast,Algeria,Ivory Coast,Ben Badi,14,FALSE,FALSE
+1992-01-13,Ivory Coast,Algeria,Ivory Coast,Youssouf Falikou Fofana,25,FALSE,FALSE
+1992-01-13,Ivory Coast,Algeria,Ivory Coast,Joël Tiéhi,89,FALSE,FALSE
+1992-01-13,Zambia,Egypt,Zambia,Kalusha Bwalya,61,FALSE,FALSE
+1992-01-14,Morocco,DR Congo,Morocco,Said Rokbi,89,FALSE,FALSE
+1992-01-14,Morocco,DR Congo,DR Congo,Andre Kona N'Gole,90,FALSE,FALSE
+1992-01-14,Nigeria,Kenya,Nigeria,Rashidi Yekini,7,FALSE,FALSE
+1992-01-14,Nigeria,Kenya,Nigeria,Rashidi Yekini,15,FALSE,FALSE
+1992-01-14,Nigeria,Kenya,Kenya,Mickey Weche,89,FALSE,TRUE
+1992-01-15,Ghana,Zambia,Ghana,Abedi Pele,64,FALSE,FALSE
+1992-01-16,Cameroon,DR Congo,DR Congo,Tueba Menayane,1,FALSE,FALSE
+1992-01-16,Cameroon,DR Congo,Cameroon,François Omam-Biyik,15,FALSE,FALSE
+1992-01-16,Senegal,Kenya,Senegal,Souleymane Sané,46,FALSE,FALSE
+1992-01-16,Senegal,Kenya,Senegal,Jules Bocandé,68,FALSE,FALSE
+1992-01-16,Senegal,Kenya,Senegal,Victor Diagne,89,FALSE,FALSE
+1992-01-17,Algeria,Congo,Congo,Pierre Tchibota,6,FALSE,FALSE
+1992-01-17,Algeria,Congo,Algeria,Nacer Bouiche,44,FALSE,FALSE
+1992-01-17,Ghana,Egypt,Ghana,Tony Yeboah,89,FALSE,FALSE
+1992-01-19,Cameroon,Senegal,Cameroon,Ernest Ebongué,89,FALSE,FALSE
+1992-01-19,Nigeria,DR Congo,Nigeria,Rashidi Yekini,22,FALSE,FALSE
+1992-01-20,Ghana,Congo,Ghana,Anthony Yeboah,29,FALSE,FALSE
+1992-01-20,Ghana,Congo,Congo,Pierre Tchibota,52,FALSE,FALSE
+1992-01-20,Ghana,Congo,Ghana,Abedi Pele,57,FALSE,FALSE
+1992-01-20,Ivory Coast,Zambia,Ivory Coast,Donald-Olivier Sié,94,FALSE,FALSE
+1992-01-23,Ghana,Nigeria,Nigeria,Mutiu Adepoju,11,FALSE,FALSE
+1992-01-23,Ghana,Nigeria,Ghana,Abedi Pele,43,FALSE,FALSE
+1992-01-23,Ghana,Nigeria,Ghana,Prince Polley,54,FALSE,FALSE
+1992-01-25,Nigeria,Cameroon,Nigeria,Friday Ekpo,75,FALSE,FALSE
+1992-01-25,Nigeria,Cameroon,Cameroon,Emmanuel Maboang,85,FALSE,FALSE
+1992-01-25,Nigeria,Cameroon,Nigeria,Rashidi Yekini,88,FALSE,FALSE
 1992-06-10,Sweden,France,Sweden,Jan Eriksson,24,FALSE,FALSE
 1992-06-10,Sweden,France,France,Jean-Pierre Papin,58,FALSE,FALSE
 1992-06-12,Netherlands,Scotland,Netherlands,Dennis Bergkamp,75,FALSE,FALSE
@@ -3550,6 +4022,50 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1993-07-04,Argentina,Mexico,Argentina,Gabriel Batistuta,63,FALSE,FALSE
 1993-07-04,Argentina,Mexico,Mexico,Benjamín Galindo,67,FALSE,TRUE
 1993-07-04,Argentina,Mexico,Argentina,Gabriel Batistuta,74,FALSE,FALSE
+1994-03-26,Nigeria,Gabon,Nigeria,Rashidi Yekini,18,FALSE,FALSE
+1994-03-26,Nigeria,Gabon,Nigeria,Mutiu Adepoju,72,FALSE,FALSE
+1994-03-26,Nigeria,Gabon,Nigeria,Rashidi Yekini,88,FALSE,FALSE
+1994-03-26,Tunisia,Mali,Mali,Fernand Coulibaly,25,FALSE,FALSE
+1994-03-26,Tunisia,Mali,Mali,Modibo Sidibé,34,FALSE,FALSE
+1994-03-27,Ghana,Guinea,Ghana,Charles Akunnor,87,FALSE,FALSE
+1994-03-27,Ivory Coast,Sierra Leone,Ivory Coast,Joël Tiéhi,19,FALSE,FALSE
+1994-03-27,Ivory Coast,Sierra Leone,Ivory Coast,Tchiressoua Guel,35,FALSE,FALSE
+1994-03-27,Ivory Coast,Sierra Leone,Ivory Coast,Joël Tiéhi,63,FALSE,FALSE
+1994-03-27,Ivory Coast,Sierra Leone,Ivory Coast,Joël Tiéhi,70,FALSE,FALSE
+1994-03-28,Egypt,Gabon,Egypt,Ayman Mansour,1,FALSE,FALSE
+1994-03-28,Egypt,Gabon,Egypt,Hamza El-Gamal,22,FALSE,FALSE
+1994-03-28,Egypt,Gabon,Egypt,Bashir Abdel Samad,55,FALSE,FALSE
+1994-03-28,Egypt,Gabon,Egypt,Bashir Abdel Samad,59,FALSE,FALSE
+1994-03-28,Mali,DR Congo,DR Congo,Basaula Lemba,48,FALSE,FALSE
+1994-03-29,Senegal,Guinea,Guinea,Aboubacar Titi Camara,44,FALSE,FALSE
+1994-03-29,Senegal,Guinea,Senegal,Momath Gueye,46,FALSE,TRUE
+1994-03-29,Senegal,Guinea,Senegal,Athanas Tendeng,50,FALSE,FALSE
+1994-03-30,Tunisia,DR Congo,Tunisia,Faouzi Rouissi,43,FALSE,TRUE
+1994-03-30,Tunisia,DR Congo,DR Congo,Nsumbu Ngoy,55,FALSE,FALSE
+1994-03-31,Ghana,Senegal,Ghana,Prince Opoku Polley,42,FALSE,FALSE
+1994-03-31,Zambia,Ivory Coast,Zambia,Kenneth Malitoli,79,FALSE,FALSE
+1994-04-02,DR Congo,Nigeria,Nigeria,Rashidi Yekini,51,FALSE,FALSE
+1994-04-02,DR Congo,Nigeria,Nigeria,Rashidi Yekini,71,FALSE,TRUE
+1994-04-02,Egypt,Mali,Mali,Soumaila Traoré,64,FALSE,FALSE
+1994-04-03,Ghana,Ivory Coast,Ivory Coast,Joël Tiéhi,30,FALSE,FALSE
+1994-04-03,Ghana,Ivory Coast,Ghana,Charles Akonnor,77,FALSE,FALSE
+1994-04-03,Ghana,Ivory Coast,Ivory Coast,Abdoulaye Traoré,81,FALSE,FALSE
+1994-04-03,Zambia,Senegal,Zambia,Evans Sakala,38,FALSE,FALSE
+1994-04-06,Nigeria,Ivory Coast,Ivory Coast,Michel Bassolé,19,FALSE,FALSE
+1994-04-06,Nigeria,Ivory Coast,Nigeria,Ben Iroha,26,FALSE,FALSE
+1994-04-06,Nigeria,Ivory Coast,Ivory Coast,Michel Bassolé,31,FALSE,FALSE
+1994-04-06,Nigeria,Ivory Coast,Nigeria,Rashidi Yekini,40,FALSE,FALSE
+1994-04-06,Zambia,Mali,Zambia,Elijah Litana,8,FALSE,FALSE
+1994-04-06,Zambia,Mali,Zambia,Zeddy Saileti,30,FALSE,FALSE
+1994-04-06,Zambia,Mali,Zambia,Kalusha Bwalya,47,FALSE,FALSE
+1994-04-06,Zambia,Mali,Zambia,Kenneth Malitoli,73,FALSE,FALSE
+1994-04-10,Ivory Coast,Mali,Ivory Coast,Adama Klofie Koné,2,FALSE,FALSE
+1994-04-10,Ivory Coast,Mali,Mali,Amadou Pathé Diallo,46,FALSE,FALSE
+1994-04-10,Ivory Coast,Mali,Ivory Coast,Ahmed Ouattara,67,FALSE,FALSE
+1994-04-10,Ivory Coast,Mali,Ivory Coast,Donald-Olivier Sie,70,FALSE,FALSE
+1994-04-10,Nigeria,Zambia,Zambia,Elijah Litana,3,FALSE,FALSE
+1994-04-10,Nigeria,Zambia,Nigeria,Emmanuel Amuneke,5,FALSE,FALSE
+1994-04-10,Nigeria,Zambia,Nigeria,Emmanuel Amuneke,47,FALSE,FALSE
 1994-06-17,Germany,Bolivia,Germany,Jürgen Klinsmann,61,FALSE,FALSE
 1994-06-17,Spain,South Korea,Spain,Julio Salinas,51,FALSE,FALSE
 1994-06-17,Spain,South Korea,Spain,Ion Andoni Goikoetxea,55,FALSE,FALSE
@@ -3760,6 +4276,84 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1995-07-22,Colombia,United States,Colombia,Freddy Rincón,76,FALSE,FALSE
 1995-07-23,Uruguay,Brazil,Brazil,Túlio Maravilha,30,FALSE,FALSE
 1995-07-23,Uruguay,Brazil,Uruguay,Pablo Bengoechea,51,FALSE,FALSE
+1996-01-13,South Africa,Cameroon,South Africa,Phil Masinga,15,FALSE,FALSE
+1996-01-13,South Africa,Cameroon,South Africa,Mark Williams,37,FALSE,FALSE
+1996-01-13,South Africa,Cameroon,South Africa,John Moshoeu,55,FALSE,FALSE
+1996-01-14,Ghana,Ivory Coast,Ghana,Tony Yeboah,20,FALSE,FALSE
+1996-01-14,Ghana,Ivory Coast,Ghana,Abedi Pele,70,FALSE,FALSE
+1996-01-15,Egypt,Angola,Egypt,Ahmed El-Kass,30,FALSE,FALSE
+1996-01-15,Egypt,Angola,Egypt,Ahmed El-Kass,33,FALSE,FALSE
+1996-01-15,Egypt,Angola,Angola,Joaquim Alberto Silva,77,FALSE,FALSE
+1996-01-15,Sierra Leone,Burkina Faso,Sierra Leone,Gbassay Sessay,11,FALSE,FALSE
+1996-01-15,Sierra Leone,Burkina Faso,Burkina Faso,Aboubakari Ouédraogo,74,FALSE,FALSE
+1996-01-15,Sierra Leone,Burkina Faso,Sierra Leone,Mohamed Kallon,89,FALSE,FALSE
+1996-01-16,Gabon,Liberia,Liberia,Kelvin Sebwe,5,FALSE,TRUE
+1996-01-16,Gabon,Liberia,Liberia,Mass Sarr Jr.,54,FALSE,FALSE
+1996-01-16,Gabon,Liberia,Gabon,Guy Nzeng,59,FALSE,FALSE
+1996-01-16,Tunisia,Mozambique,Mozambique,Tico-Tico,4,FALSE,FALSE
+1996-01-16,Tunisia,Mozambique,Tunisia,Hédi Berkhissa,24,FALSE,FALSE
+1996-01-18,Algeria,Sierra Leone,Algeria,Ali Meçabih,41,FALSE,FALSE
+1996-01-18,Algeria,Sierra Leone,Algeria,Ali Meçabih,63,FALSE,FALSE
+1996-01-18,Cameroon,Egypt,Cameroon,François Omam-Biyik,36,FALSE,TRUE
+1996-01-18,Cameroon,Egypt,Egypt,Ali Maher,48,FALSE,FALSE
+1996-01-18,Cameroon,Egypt,Cameroon,Alphonse Tchami,59,FALSE,FALSE
+1996-01-19,Gabon,DR Congo,Gabon,Brice Mackaya,21,FALSE,TRUE
+1996-01-19,Gabon,DR Congo,Gabon,Aurelien Bekogo,34,FALSE,FALSE
+1996-01-19,Ghana,Tunisia,Ghana,Abedi Pele,50,FALSE,FALSE
+1996-01-19,Ghana,Tunisia,Tunisia,Imed Ben Younes,72,FALSE,FALSE
+1996-01-19,Ghana,Tunisia,Ghana,Charles Akonnor,77,FALSE,FALSE
+1996-01-20,South Africa,Angola,South Africa,Mark Williams,57,FALSE,FALSE
+1996-01-20,Zambia,Burkina Faso,Zambia,Kenneth Malitoli,18,FALSE,FALSE
+1996-01-20,Zambia,Burkina Faso,Zambia,Kalusha Bwalya,24,FALSE,FALSE
+1996-01-20,Zambia,Burkina Faso,Zambia,Kalusha Bwalya,35,FALSE,FALSE
+1996-01-20,Zambia,Burkina Faso,Zambia,Dennis Lota,44,FALSE,FALSE
+1996-01-20,Zambia,Burkina Faso,Zambia,Johnson Bwalya,45,FALSE,FALSE
+1996-01-20,Zambia,Burkina Faso,Burkina Faso,Issouf Traoré,53,FALSE,FALSE
+1996-01-21,Ivory Coast,Mozambique,Ivory Coast,Joël Tiéhi,32,FALSE,FALSE
+1996-01-24,Algeria,Burkina Faso,Algeria,Khaled Lounici,2,FALSE,FALSE
+1996-01-24,Algeria,Burkina Faso,Algeria,Billel Dziri,75,FALSE,FALSE
+1996-01-24,Algeria,Burkina Faso,Burkina Faso,Boureima Zongo,83,FALSE,FALSE
+1996-01-24,Angola,Cameroon,Cameroon,François Omam-Biyik,25,FALSE,FALSE
+1996-01-24,Angola,Cameroon,Angola,Joni,38,FALSE,TRUE
+1996-01-24,Angola,Cameroon,Angola,Paulo António Alves,57,FALSE,FALSE
+1996-01-24,Angola,Cameroon,Angola,Joaquim Alberto Silva,80,FALSE,FALSE
+1996-01-24,Angola,Cameroon,Cameroon,George Mouyémé,82,FALSE,FALSE
+1996-01-24,Angola,Cameroon,Cameroon,Hélder Vicente de Jesus Serafin,90,TRUE,FALSE
+1996-01-24,South Africa,Egypt,Egypt,Ahmed El-Kass,7,FALSE,FALSE
+1996-01-24,Zambia,Sierra Leone,Zambia,Kalusha Bwalya,2,FALSE,FALSE
+1996-01-24,Zambia,Sierra Leone,Zambia,Kalusha Bwalya,9,FALSE,FALSE
+1996-01-24,Zambia,Sierra Leone,Zambia,Kalusha Bwalya,84,FALSE,FALSE
+1996-01-24,Zambia,Sierra Leone,Zambia,Mordon Malitoli,87,FALSE,FALSE
+1996-01-25,DR Congo,Liberia,DR Congo,Roger Lukaku,5,FALSE,TRUE
+1996-01-25,DR Congo,Liberia,DR Congo,Liombi Essende,72,FALSE,FALSE
+1996-01-25,Ghana,Mozambique,Ghana,Abedi Pele,42,FALSE,FALSE
+1996-01-25,Ghana,Mozambique,Ghana,Felix Aboagye,68,FALSE,FALSE
+1996-01-25,Tunisia,Ivory Coast,Tunisia,Imed Ben Younes,32,FALSE,FALSE
+1996-01-25,Tunisia,Ivory Coast,Tunisia,Imed Ben Younes,38,FALSE,FALSE
+1996-01-25,Tunisia,Ivory Coast,Tunisia,Abdelkader Ben Hassen,48,FALSE,FALSE
+1996-01-25,Tunisia,Ivory Coast,Ivory Coast,Moussa Traoré,84,FALSE,FALSE
+1996-01-27,South Africa,Algeria,South Africa,Mark Fish,72,FALSE,FALSE
+1996-01-27,South Africa,Algeria,Algeria,Tarek Lazizi,84,FALSE,FALSE
+1996-01-27,South Africa,Algeria,South Africa,John Moshoeu,85,FALSE,FALSE
+1996-01-27,Zambia,Egypt,Egypt,Samir Kamouna,43,FALSE,FALSE
+1996-01-27,Zambia,Egypt,Zambia,Elijah Litana,58,FALSE,FALSE
+1996-01-27,Zambia,Egypt,Zambia,Vincent Mutale,65,FALSE,FALSE
+1996-01-27,Zambia,Egypt,Zambia,Dennis Lota,76,FALSE,FALSE
+1996-01-28,Gabon,Tunisia,Tunisia,Zoubeir Baya,10,FALSE,FALSE
+1996-01-28,Gabon,Tunisia,Gabon,Brice Mackaya,16,FALSE,FALSE
+1996-01-28,Ghana,DR Congo,Ghana,Tony Yeboah,22,FALSE,FALSE
+1996-01-31,South Africa,Ghana,South Africa,John Moshoeu,22,FALSE,FALSE
+1996-01-31,South Africa,Ghana,South Africa,Shaun Bartlett,46,FALSE,FALSE
+1996-01-31,South Africa,Ghana,South Africa,John Moshoeu,87,FALSE,FALSE
+1996-01-31,Zambia,Tunisia,Tunisia,Adel Sellimi,16,FALSE,FALSE
+1996-01-31,Zambia,Tunisia,Tunisia,Zoubeir Baya,20,FALSE,FALSE
+1996-01-31,Zambia,Tunisia,Tunisia,Kaies Ghodhbane,47,FALSE,FALSE
+1996-01-31,Zambia,Tunisia,Zambia,Dennis Lota,68,FALSE,FALSE
+1996-01-31,Zambia,Tunisia,Tunisia,Adel Sellimi,85,FALSE,TRUE
+1996-01-31,Zambia,Tunisia,Zambia,Hillary Makasa,90,FALSE,FALSE
+1996-02-03,Ghana,Zambia,Zambia,Johnson Bwalya,51,FALSE,FALSE
+1996-02-03,South Africa,Tunisia,South Africa,Mark Williams,73,FALSE,FALSE
+1996-02-03,South Africa,Tunisia,South Africa,Mark Williams,75,FALSE,FALSE
 1996-06-08,England,Switzerland,England,Alan Shearer,23,FALSE,FALSE
 1996-06-08,England,Switzerland,Switzerland,Kubilay Türkyilmaz,83,FALSE,TRUE
 1996-06-09,Denmark,Portugal,Denmark,Brian Laudrup,22,FALSE,FALSE
@@ -3891,6 +4485,99 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1997-06-29,Bolivia,Brazil,Bolivia,Erwin Sánchez,45,FALSE,FALSE
 1997-06-29,Bolivia,Brazil,Brazil,Ronaldo,79,FALSE,FALSE
 1997-06-29,Bolivia,Brazil,Brazil,Zé Roberto,90,FALSE,FALSE
+1998-02-07,Burkina Faso,Cameroon,Cameroon,Alphonse Tchami,20,FALSE,FALSE
+1998-02-08,Algeria,Guinea,Guinea,Souleymane Oularé,19,FALSE,FALSE
+1998-02-08,Ivory Coast,Namibia,Ivory Coast,Joël Tiéhi,2,FALSE,FALSE
+1998-02-08,Ivory Coast,Namibia,Ivory Coast,Ibrahima Bakayoko,34,FALSE,FALSE
+1998-02-08,Ivory Coast,Namibia,Ivory Coast,Joël Tiéhi,39,FALSE,FALSE
+1998-02-08,Ivory Coast,Namibia,Namibia,Eliphas Shivute,46,FALSE,FALSE
+1998-02-08,Ivory Coast,Namibia,Namibia,Ricardo Mannetti,70,FALSE,FALSE
+1998-02-08,Ivory Coast,Namibia,Namibia,Eliphas Shivute,73,FALSE,FALSE
+1998-02-08,Ivory Coast,Namibia,Ivory Coast,Lassina Diabaté,83,FALSE,FALSE
+1998-02-09,DR Congo,Togo,DR Congo,Jerry Tondelua,57,FALSE,TRUE
+1998-02-09,DR Congo,Togo,DR Congo,Jerry Tondelua,73,FALSE,TRUE
+1998-02-09,DR Congo,Togo,Togo,Massamasso Tchangai,90,FALSE,FALSE
+1998-02-09,Ghana,Tunisia,Ghana,Alex Nyarko,8,FALSE,FALSE
+1998-02-09,Ghana,Tunisia,Ghana,Mohammed Gargo,90,FALSE,FALSE
+1998-02-09,Morocco,Zambia,Morocco,Ahmed Bahja,37,FALSE,FALSE
+1998-02-09,Morocco,Zambia,Zambia,Tenant Chilumba,87,FALSE,FALSE
+1998-02-10,Egypt,Mozambique,Egypt,Hossam Hassan,14,FALSE,FALSE
+1998-02-10,Egypt,Mozambique,Egypt,Hossam Hassan,44,FALSE,FALSE
+1998-02-11,Burkina Faso,Algeria,Burkina Faso,Kassoum Ouédraogo,65,FALSE,TRUE
+1998-02-11,Burkina Faso,Algeria,Burkina Faso,Seydou Traoré,77,FALSE,FALSE
+1998-02-11,Burkina Faso,Algeria,Algeria,Moussa Saïb,82,FALSE,TRUE
+1998-02-11,Cameroon,Guinea,Cameroon,Alphonse Tchami,9,FALSE,FALSE
+1998-02-11,Cameroon,Guinea,Cameroon,Pierre Womé,44,FALSE,FALSE
+1998-02-11,Cameroon,Guinea,Guinea,Souleymane Oularé,46,FALSE,FALSE
+1998-02-11,Cameroon,Guinea,Guinea,Souleymane Oularé,77,FALSE,FALSE
+1998-02-11,Ivory Coast,South Africa,South Africa,Helman Mkhalele,8,FALSE,TRUE
+1998-02-11,Ivory Coast,South Africa,Ivory Coast,Ahmed Ouattara,88,FALSE,FALSE
+1998-02-12,Angola,Namibia,Namibia,Gervatius Uri Khob,20,FALSE,FALSE
+1998-02-12,Angola,Namibia,Namibia,Robert Nauseb,33,FALSE,FALSE
+1998-02-12,Angola,Namibia,Angola,Lázaro Oliveira,46,FALSE,FALSE
+1998-02-12,Angola,Namibia,Namibia,Gervatius Uri Khob,51,FALSE,FALSE
+1998-02-12,Angola,Namibia,Angola,Paulo Jorge Da Silva,67,FALSE,TRUE
+1998-02-12,Angola,Namibia,Angola,Miguel Pereira,86,FALSE,FALSE
+1998-02-12,Togo,Ghana,Togo,Franck Doté,26,FALSE,FALSE
+1998-02-12,Togo,Ghana,Ghana,Samuel Johnson,83,FALSE,TRUE
+1998-02-12,Togo,Ghana,Togo,Mohamed Kader,90,FALSE,FALSE
+1998-02-12,Tunisia,DR Congo,Tunisia,Mehdi Ben Slimane,31,FALSE,FALSE
+1998-02-12,Tunisia,DR Congo,DR Congo,Papi Kimoto,36,FALSE,FALSE
+1998-02-12,Tunisia,DR Congo,Tunisia,Ziad Tlemçani,76,FALSE,FALSE
+1998-02-13,Egypt,Zambia,Egypt,Hossam Hassan,34,FALSE,FALSE
+1998-02-13,Egypt,Zambia,Egypt,Hossam Hassan,57,FALSE,FALSE
+1998-02-13,Egypt,Zambia,Egypt,Hossam Hassan,71,FALSE,FALSE
+1998-02-13,Egypt,Zambia,Egypt,Yasser Radwan,80,FALSE,FALSE
+1998-02-13,Morocco,Mozambique,Morocco,Saïd Chiba,39,FALSE,FALSE
+1998-02-13,Morocco,Mozambique,Morocco,Ali Elkhattabi,40,FALSE,FALSE
+1998-02-13,Morocco,Mozambique,Morocco,Youssef Fertout,82,FALSE,FALSE
+1998-02-15,Burkina Faso,Guinea,Burkina Faso,Romeo Kambou,85,FALSE,FALSE
+1998-02-15,Cameroon,Algeria,Algeria,Billel Dziri,40,FALSE,FALSE
+1998-02-15,Cameroon,Algeria,Cameroon,Joseph-Désiré Job,47,FALSE,FALSE
+1998-02-15,Cameroon,Algeria,Cameroon,Alphonse Tchami,65,FALSE,FALSE
+1998-02-16,DR Congo,Ghana,DR Congo,Bijou Kisombe Mundaba,77,FALSE,FALSE
+1998-02-16,Ivory Coast,Angola,Ivory Coast,Tchiressoua Guel,8,FALSE,FALSE
+1998-02-16,Ivory Coast,Angola,Ivory Coast,Tchiressoua Guel,23,FALSE,FALSE
+1998-02-16,Ivory Coast,Angola,Angola,Paulo Jorge Da Silva,27,FALSE,FALSE
+1998-02-16,Ivory Coast,Angola,Ivory Coast,Joël Tiéhi,43,FALSE,FALSE
+1998-02-16,Ivory Coast,Angola,Angola,Quinzinho,52,FALSE,FALSE
+1998-02-16,Ivory Coast,Angola,Ivory Coast,Ibrahima Bakayoko,56,FALSE,FALSE
+1998-02-16,Ivory Coast,Angola,Ivory Coast,Joël Tiéhi,81,FALSE,TRUE
+1998-02-16,South Africa,Namibia,South Africa,Benni McCarthy,8,FALSE,FALSE
+1998-02-16,South Africa,Namibia,South Africa,Benni McCarthy,11,FALSE,FALSE
+1998-02-16,South Africa,Namibia,South Africa,Benni McCarthy,19,FALSE,FALSE
+1998-02-16,South Africa,Namibia,South Africa,Benni McCarthy,21,FALSE,FALSE
+1998-02-16,South Africa,Namibia,Namibia,Simon Uutoni,68,FALSE,FALSE
+1998-02-16,Tunisia,Togo,Togo,Komlan Assignon,4,FALSE,TRUE
+1998-02-16,Tunisia,Togo,Tunisia,Ziad Tlemçani,9,FALSE,FALSE
+1998-02-16,Tunisia,Togo,Tunisia,Mehdi Ben Slimane,12,FALSE,FALSE
+1998-02-16,Tunisia,Togo,Tunisia,Hassen Gabsi,80,FALSE,FALSE
+1998-02-17,Morocco,Egypt,Morocco,Mustapha Hadji,90,FALSE,FALSE
+1998-02-17,Zambia,Mozambique,Zambia,Rotson Kilambe,16,FALSE,FALSE
+1998-02-17,Zambia,Mozambique,Zambia,Kalusha Bwalya,43,FALSE,FALSE
+1998-02-17,Zambia,Mozambique,Mozambique,Avelino Salvador Maluana,57,FALSE,FALSE
+1998-02-17,Zambia,Mozambique,Zambia,Masauso Tembo,73,FALSE,FALSE
+1998-02-20,Cameroon,DR Congo,DR Congo,Jerry Tondelua,30,FALSE,FALSE
+1998-02-21,Tunisia,Burkina Faso,Burkina Faso,Kassoum Ouédraogo,45,FALSE,TRUE
+1998-02-21,Tunisia,Burkina Faso,Tunisia,Hassen Gabsi,89,FALSE,FALSE
+1998-02-22,Morocco,South Africa,South Africa,Benni McCarthy,22,FALSE,FALSE
+1998-02-22,Morocco,South Africa,Morocco,Saïd Chiba,36,FALSE,FALSE
+1998-02-22,Morocco,South Africa,South Africa,David Nyathi,79,FALSE,FALSE
+1998-02-25,Burkina Faso,Egypt,Egypt,Hossam Hassan,40,FALSE,FALSE
+1998-02-25,Burkina Faso,Egypt,Egypt,Hossam Hassan,71,FALSE,FALSE
+1998-02-25,DR Congo,South Africa,DR Congo,Eddy Bembuana-Keve,48,FALSE,FALSE
+1998-02-25,DR Congo,South Africa,South Africa,Benni McCarthy,60,FALSE,FALSE
+1998-02-25,DR Congo,South Africa,South Africa,Benni McCarthy,112,FALSE,FALSE
+1998-02-27,DR Congo,Burkina Faso,Burkina Faso,Alassane Ouédraogo,6,FALSE,FALSE
+1998-02-27,DR Congo,Burkina Faso,Burkina Faso,Oumar Barro,52,FALSE,FALSE
+1998-02-27,DR Congo,Burkina Faso,Burkina Faso,Sidi Napon,56,FALSE,FALSE
+1998-02-27,DR Congo,Burkina Faso,DR Congo,Lokenge Mungongo,76,FALSE,FALSE
+1998-02-27,DR Congo,Burkina Faso,Burkina Faso,Ibrahima Tallé,86,FALSE,FALSE
+1998-02-27,DR Congo,Burkina Faso,DR Congo,Jean-Kasongo Banza,88,FALSE,FALSE
+1998-02-27,DR Congo,Burkina Faso,DR Congo,Jerry Tondelua,89,FALSE,FALSE
+1998-02-27,DR Congo,Burkina Faso,DR Congo,Lokenge Mungongo,90,FALSE,FALSE
+1998-02-28,South Africa,Egypt,Egypt,Ahmed Hassan,5,FALSE,FALSE
+1998-02-28,South Africa,Egypt,Egypt,Tarek Mostafa,13,FALSE,FALSE
 1998-06-10,Brazil,Scotland,Brazil,César Sampaio,5,FALSE,FALSE
 1998-06-10,Brazil,Scotland,Scotland,John Collins,38,FALSE,TRUE
 1998-06-10,Brazil,Scotland,Brazil,Tom Boyd,74,TRUE,FALSE
@@ -4136,6 +4823,79 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1999-07-18,Brazil,Uruguay,Brazil,Rivaldo,20,FALSE,FALSE
 1999-07-18,Brazil,Uruguay,Brazil,Rivaldo,27,FALSE,FALSE
 1999-07-18,Brazil,Uruguay,Brazil,Ronaldo,46,FALSE,FALSE
+2000-01-22,Ghana,Cameroon,Cameroon,Marc-Vivien Foé,19,FALSE,FALSE
+2000-01-22,Ghana,Cameroon,Ghana,Kwame Ayew,57,FALSE,FALSE
+2000-01-23,Egypt,Zambia,Egypt,Yasser Radwan,37,FALSE,FALSE
+2000-01-23,Egypt,Zambia,Egypt,Hossam Hassan,50,FALSE,FALSE
+2000-01-23,Nigeria,Tunisia,Nigeria,Jay-Jay Okocha,28,FALSE,FALSE
+2000-01-23,Nigeria,Tunisia,Tunisia,Adel Sellimi,49,FALSE,FALSE
+2000-01-23,Nigeria,Tunisia,Nigeria,Jay-Jay Okocha,58,FALSE,FALSE
+2000-01-23,Nigeria,Tunisia,Nigeria,Victor Ikpeba,71,FALSE,FALSE
+2000-01-23,Nigeria,Tunisia,Nigeria,Victor Ikpeba,77,FALSE,FALSE
+2000-01-23,Nigeria,Tunisia,Tunisia,Zoubeir Baya,90,FALSE,FALSE
+2000-01-23,South Africa,Gabon,Gabon,Shiva N'Zigou,21,FALSE,FALSE
+2000-01-23,South Africa,Gabon,South Africa,Dumisa Ngobe,43,FALSE,FALSE
+2000-01-23,South Africa,Gabon,South Africa,Shaun Bartlett,55,FALSE,FALSE
+2000-01-23,South Africa,Gabon,South Africa,Shaun Bartlett,78,FALSE,FALSE
+2000-01-24,Ivory Coast,Togo,Togo,Lantame Ouadja,19,FALSE,FALSE
+2000-01-24,Ivory Coast,Togo,Ivory Coast,Tchiressoua Guel,38,FALSE,TRUE
+2000-01-25,Burkina Faso,Senegal,Senegal,Henri Camara,4,FALSE,FALSE
+2000-01-25,Burkina Faso,Senegal,Senegal,Pape Sarr,45,FALSE,FALSE
+2000-01-25,Burkina Faso,Senegal,Burkina Faso,Ousmane Sanou,65,FALSE,FALSE
+2000-01-25,Burkina Faso,Senegal,Senegal,Salif Keita,86,FALSE,FALSE
+2000-01-25,Morocco,Congo,Morocco,Salaheddine Bassir,85,FALSE,FALSE
+2000-01-27,Ghana,Togo,Ghana,Kwame Ayew,28,FALSE,FALSE
+2000-01-27,Ghana,Togo,Ghana,Otto Addo,37,FALSE,FALSE
+2000-01-27,South Africa,DR Congo,South Africa,Shaun Bartlett,44,FALSE,FALSE
+2000-01-28,Cameroon,Ivory Coast,Cameroon,Raymond Kalla,29,FALSE,FALSE
+2000-01-28,Cameroon,Ivory Coast,Cameroon,Samuel Eto'o,45,FALSE,FALSE
+2000-01-28,Cameroon,Ivory Coast,Cameroon,Patrick M'Boma,90,FALSE,FALSE
+2000-01-28,Egypt,Senegal,Egypt,Hossam Hassan,39,FALSE,FALSE
+2000-01-29,Algeria,Gabon,Algeria,Farid Ghazi,12,FALSE,FALSE
+2000-01-29,Algeria,Gabon,Algeria,Abdelhafid Tasfaout,41,FALSE,FALSE
+2000-01-29,Algeria,Gabon,Algeria,Billel Dziri,89,FALSE,FALSE
+2000-01-29,Algeria,Gabon,Gabon,Bruno Zita Mbanangoyé,89,FALSE,FALSE
+2000-01-29,Zambia,Burkina Faso,Zambia,Dennis Lota,16,FALSE,FALSE
+2000-01-29,Zambia,Burkina Faso,Burkina Faso,Alassane Ouédraogo,90,FALSE,FALSE
+2000-01-31,Cameroon,Togo,Togo,Massamasso Tchangai,18,FALSE,FALSE
+2000-01-31,Ghana,Ivory Coast,Ivory Coast,Bonaventure Kalou,45,FALSE,FALSE
+2000-01-31,Ghana,Ivory Coast,Ivory Coast,Donald-Olivier Sié,84,FALSE,FALSE
+2000-02-01,Egypt,Burkina Faso,Burkina Faso,Ismaël Koudou,10,FALSE,FALSE
+2000-02-01,Egypt,Burkina Faso,Burkina Faso,Ousmane Sanou,24,FALSE,FALSE
+2000-02-01,Egypt,Burkina Faso,Egypt,Ahmed Salah Hosny,30,FALSE,FALSE
+2000-02-01,Egypt,Burkina Faso,Egypt,Hossam Hassan,75,FALSE,TRUE
+2000-02-01,Egypt,Burkina Faso,Egypt,Hany Ramzy,85,FALSE,FALSE
+2000-02-01,Egypt,Burkina Faso,Egypt,Abdel Halim Ali,90,FALSE,FALSE
+2000-02-01,Zambia,Senegal,Senegal,Henri Camara,47,FALSE,FALSE
+2000-02-01,Zambia,Senegal,Zambia,Laughter Chilembe,52,FALSE,FALSE
+2000-02-01,Zambia,Senegal,Senegal,Abdoulaye M'Baye,80,FALSE,FALSE
+2000-02-01,Zambia,Senegal,Zambia,Kalusha Bwalya,87,FALSE,TRUE
+2000-02-02,South Africa,Algeria,South Africa,Shaun Bartlett,2,FALSE,FALSE
+2000-02-02,South Africa,Algeria,Algeria,Fawzi Moussouni,53,FALSE,FALSE
+2000-02-03,Nigeria,Morocco,Nigeria,Finidi George,28,FALSE,FALSE
+2000-02-03,Nigeria,Morocco,Nigeria,Julius Aghahowa,81,FALSE,FALSE
+2000-02-03,Tunisia,Congo,Tunisia,Radhi Jaïdi,18,FALSE,FALSE
+2000-02-06,Cameroon,Algeria,Cameroon,Samuel Eto'o,7,FALSE,FALSE
+2000-02-06,Cameroon,Algeria,Cameroon,Marc-Vivien Foé,24,FALSE,FALSE
+2000-02-06,Cameroon,Algeria,Algeria,Abdelhafid Tasfaout,79,FALSE,FALSE
+2000-02-06,South Africa,Ghana,South Africa,Siyabonga Nomvethe,42,FALSE,FALSE
+2000-02-07,Egypt,Tunisia,Tunisia,Khaled Badra,22,FALSE,TRUE
+2000-02-07,Nigeria,Senegal,Senegal,Khalilou Fadiga,7,FALSE,FALSE
+2000-02-07,Nigeria,Senegal,Nigeria,Julius Aghahowa,85,FALSE,FALSE
+2000-02-07,Nigeria,Senegal,Nigeria,Julius Aghahowa,92,FALSE,FALSE
+2000-02-10,Cameroon,Tunisia,Cameroon,Patrick M'Boma,49,FALSE,FALSE
+2000-02-10,Cameroon,Tunisia,Cameroon,Samuel Eto'o,81,FALSE,FALSE
+2000-02-10,Cameroon,Tunisia,Cameroon,Patrick M'Boma,85,FALSE,FALSE
+2000-02-10,Nigeria,South Africa,Nigeria,Tijani Babangida,1,FALSE,FALSE
+2000-02-10,Nigeria,South Africa,Nigeria,Tijani Babangida,34,FALSE,FALSE
+2000-02-12,South Africa,Tunisia,South Africa,Shaun Bartlett,11,FALSE,FALSE
+2000-02-12,South Africa,Tunisia,Tunisia,Ali Zitouni,27,FALSE,FALSE
+2000-02-12,South Africa,Tunisia,South Africa,Siyabonga Nomvethe,62,FALSE,FALSE
+2000-02-12,South Africa,Tunisia,Tunisia,Ali Zitouni,89,FALSE,FALSE
+2000-02-13,Nigeria,Cameroon,Cameroon,Samuel Eto'o,26,FALSE,FALSE
+2000-02-13,Nigeria,Cameroon,Cameroon,Patrick M'Boma,31,FALSE,FALSE
+2000-02-13,Nigeria,Cameroon,Nigeria,Raphael Chukwu,45,FALSE,FALSE
+2000-02-13,Nigeria,Cameroon,Nigeria,Jay-Jay Okocha,47,FALSE,FALSE
 2000-06-10,Belgium,Sweden,Belgium,Bart Goor,43,FALSE,FALSE
 2000-06-10,Belgium,Sweden,Belgium,Émile Mpenza,46,FALSE,FALSE
 2000-06-10,Belgium,Sweden,Sweden,Johan Mjällby,53,FALSE,FALSE
@@ -4281,6 +5041,54 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2001-07-29,Uruguay,Honduras,Uruguay,Joe Emerson Bizera,22,FALSE,FALSE
 2001-07-29,Uruguay,Honduras,Honduras,Júnior Izaguirre,42,FALSE,FALSE
 2001-07-29,Uruguay,Honduras,Uruguay,Andrés Martínez,45,FALSE,FALSE
+2002-01-19,Mali,Liberia,Liberia,George Weah,45,FALSE,FALSE
+2002-01-19,Mali,Liberia,Mali,Seydou Keita,87,FALSE,FALSE
+2002-01-20,Cameroon,DR Congo,Cameroon,Patrick M'Boma,40,FALSE,FALSE
+2002-01-20,Egypt,Senegal,Senegal,Lamine Diatta,82,FALSE,FALSE
+2002-01-21,Algeria,Nigeria,Nigeria,Julius Aghahowa,43,FALSE,FALSE
+2002-01-25,Cameroon,Ivory Coast,Cameroon,Patrick M'Boma,85,FALSE,FALSE
+2002-01-25,Egypt,Tunisia,Egypt,Hazem Emam,23,FALSE,FALSE
+2002-01-25,Liberia,Algeria,Liberia,Prince Akim Daye,7,FALSE,FALSE
+2002-01-25,Liberia,Algeria,Algeria,Nassim Akrour,45,FALSE,FALSE
+2002-01-25,Liberia,Algeria,Liberia,Kelvin Sebwe,72,FALSE,FALSE
+2002-01-25,Liberia,Algeria,Algeria,Nasreddine Kraouche,90,FALSE,FALSE
+2002-01-26,Burkina Faso,Morocco,Morocco,Hicham Zerouali,23,FALSE,FALSE
+2002-01-26,Burkina Faso,Morocco,Burkina Faso,Moumouni Dagano,58,FALSE,FALSE
+2002-01-26,Burkina Faso,Morocco,Morocco,Hicham Zerouali,85,FALSE,FALSE
+2002-01-26,Senegal,Zambia,Senegal,Souleymane Camara,90,FALSE,FALSE
+2002-01-28,Liberia,Nigeria,Nigeria,Julius Aghahowa,63,FALSE,FALSE
+2002-01-28,Mali,Algeria,Mali,Mamadou Bagayoko,18,FALSE,FALSE
+2002-01-28,Mali,Algeria,Mali,Bassala Touré,24,FALSE,FALSE
+2002-01-29,Cameroon,Togo,Cameroon,Lucien Mettomo,52,FALSE,FALSE
+2002-01-29,Cameroon,Togo,Cameroon,Samuel Eto'o,80,FALSE,FALSE
+2002-01-29,Cameroon,Togo,Cameroon,Salomon Olembé,89,FALSE,FALSE
+2002-01-29,DR Congo,Ivory Coast,DR Congo,Yves Yuvuladio,28,FALSE,FALSE
+2002-01-29,DR Congo,Ivory Coast,DR Congo,Shabani Nonda,66,FALSE,FALSE
+2002-01-29,DR Congo,Ivory Coast,DR Congo,Papi Kimoto,81,FALSE,TRUE
+2002-01-29,DR Congo,Ivory Coast,Ivory Coast,Kandia Traoré,86,FALSE,FALSE
+2002-01-30,Burkina Faso,Ghana,Burkina Faso,Koh Traoré,81,FALSE,FALSE
+2002-01-30,Burkina Faso,Ghana,Ghana,Isaac Boakye,90,FALSE,FALSE
+2002-01-30,Burkina Faso,Ghana,Ghana,Isaac Boakye,90,FALSE,FALSE
+2002-01-30,South Africa,Morocco,South Africa,Sibusiso Zuma,42,FALSE,FALSE
+2002-01-30,South Africa,Morocco,South Africa,Thabo Mngomeni,48,FALSE,FALSE
+2002-01-30,South Africa,Morocco,South Africa,Siyabonga Nomvethe,51,FALSE,FALSE
+2002-01-30,South Africa,Morocco,Morocco,Rachid Benmahmoud,77,FALSE,TRUE
+2002-01-31,Egypt,Zambia,Egypt,Mido,35,FALSE,FALSE
+2002-01-31,Egypt,Zambia,Egypt,Hazem Emam,53,FALSE,FALSE
+2002-01-31,Egypt,Zambia,Zambia,Gift Kampamba,89,FALSE,FALSE
+2002-02-03,Nigeria,Ghana,Nigeria,Garba Lawal,80,FALSE,FALSE
+2002-02-03,South Africa,Mali,Mali,Bassala Touré,60,FALSE,FALSE
+2002-02-03,South Africa,Mali,Mali,Dramane Coulibaly,90,FALSE,FALSE
+2002-02-04,Cameroon,Egypt,Cameroon,Patrick M'Boma,62,FALSE,FALSE
+2002-02-04,Senegal,DR Congo,Senegal,Salif Diao,30,FALSE,FALSE
+2002-02-04,Senegal,DR Congo,Senegal,El Hadji Diouf,86,FALSE,FALSE
+2002-02-07,Mali,Cameroon,Cameroon,Salomon Olembé,39,FALSE,FALSE
+2002-02-07,Mali,Cameroon,Cameroon,Salomon Olembé,45,FALSE,FALSE
+2002-02-07,Mali,Cameroon,Cameroon,Marc-Vivien Foé,84,FALSE,FALSE
+2002-02-07,Nigeria,Senegal,Senegal,Papa Bouba Diop,54,FALSE,FALSE
+2002-02-07,Nigeria,Senegal,Nigeria,Julius Aghahowa,88,FALSE,FALSE
+2002-02-07,Nigeria,Senegal,Senegal,Salif Diao,97,FALSE,FALSE
+2002-02-09,Nigeria,Mali,Nigeria,Yakubu,29,FALSE,FALSE
 2002-05-31,France,Senegal,Senegal,Papa Bouba Diop,30,FALSE,FALSE
 2002-06-01,Germany,Saudi Arabia,Germany,Miroslav Klose,20,FALSE,FALSE
 2002-06-01,Germany,Saudi Arabia,Germany,Miroslav Klose,25,FALSE,FALSE
@@ -4442,6 +5250,94 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2002-06-29,South Korea,Turkey,South Korea,Song Chong-gug,90,FALSE,FALSE
 2002-06-30,Germany,Brazil,Brazil,Ronaldo,67,FALSE,FALSE
 2002-06-30,Germany,Brazil,Brazil,Ronaldo,79,FALSE,FALSE
+2004-01-24,Tunisia,Rwanda,Tunisia,Ziad Jaziri,27,FALSE,FALSE
+2004-01-24,Tunisia,Rwanda,Rwanda,João Elias,41,FALSE,FALSE
+2004-01-24,Tunisia,Rwanda,Tunisia,Francileudo Santos,57,FALSE,FALSE
+2004-01-25,Cameroon,Algeria,Cameroon,Patrick M'Boma,43,FALSE,FALSE
+2004-01-25,Cameroon,Algeria,Algeria,Brahim Zafour,52,FALSE,FALSE
+2004-01-25,DR Congo,Guinea,DR Congo,Alain Masudi,35,FALSE,FALSE
+2004-01-25,DR Congo,Guinea,Guinea,Titi Camara,68,FALSE,FALSE
+2004-01-25,DR Congo,Guinea,Guinea,Pascal Feindouno,81,FALSE,FALSE
+2004-01-25,Zimbabwe,Egypt,Zimbabwe,Peter Ndlovu,46,FALSE,FALSE
+2004-01-25,Zimbabwe,Egypt,Egypt,Tamer Abdel Hamid,58,FALSE,FALSE
+2004-01-25,Zimbabwe,Egypt,Egypt,Mohamed Barakat,63,FALSE,FALSE
+2004-01-26,Kenya,Mali,Mali,Mohamed Sissoko,28,FALSE,FALSE
+2004-01-26,Kenya,Mali,Kenya,Titus Mulama,58,FALSE,FALSE
+2004-01-26,Kenya,Mali,Mali,Frédéric Kanouté,63,FALSE,FALSE
+2004-01-26,Kenya,Mali,Mali,Frédéric Kanouté,81,FALSE,FALSE
+2004-01-27,Nigeria,Morocco,Morocco,Youssouf Hadji,77,FALSE,FALSE
+2004-01-27,South Africa,Benin,South Africa,Siyabonga Nomvethe,58,FALSE,FALSE
+2004-01-27,South Africa,Benin,South Africa,Siyabonga Nomvethe,76,FALSE,FALSE
+2004-01-28,Rwanda,Guinea,Guinea,Titi Camara,49,FALSE,FALSE
+2004-01-28,Rwanda,Guinea,Rwanda,Karim Kamanzi,90,FALSE,FALSE
+2004-01-28,Tunisia,DR Congo,Tunisia,Francileudo Santos,55,FALSE,FALSE
+2004-01-28,Tunisia,DR Congo,Tunisia,Najeh Braham,65,FALSE,FALSE
+2004-01-28,Tunisia,DR Congo,Tunisia,Francileudo Santos,87,FALSE,FALSE
+2004-01-29,Algeria,Egypt,Algeria,Mamar Mamouni,13,FALSE,FALSE
+2004-01-29,Algeria,Egypt,Egypt,Ahmed Belal,25,FALSE,FALSE
+2004-01-29,Algeria,Egypt,Algeria,Hocine Achiou,86,FALSE,FALSE
+2004-01-29,Cameroon,Zimbabwe,Zimbabwe,Peter Ndlovu,8,FALSE,FALSE
+2004-01-29,Cameroon,Zimbabwe,Cameroon,Patrick M'Boma,31,FALSE,FALSE
+2004-01-29,Cameroon,Zimbabwe,Cameroon,Modeste M'Bami,40,FALSE,FALSE
+2004-01-29,Cameroon,Zimbabwe,Cameroon,Patrick M'Boma,44,FALSE,FALSE
+2004-01-29,Cameroon,Zimbabwe,Zimbabwe,Peter Ndlovu,47,FALSE,TRUE
+2004-01-29,Cameroon,Zimbabwe,Cameroon,Patrick M'Boma,65,FALSE,FALSE
+2004-01-29,Cameroon,Zimbabwe,Cameroon,Modeste M'Bami,67,FALSE,FALSE
+2004-01-29,Cameroon,Zimbabwe,Zimbabwe,Esrom Nyandoro,89,FALSE,FALSE
+2004-01-30,Burkina Faso,Mali,Mali,Frédéric Kanouté,34,FALSE,FALSE
+2004-01-30,Burkina Faso,Mali,Mali,Mahamadou Diarra,37,FALSE,FALSE
+2004-01-30,Burkina Faso,Mali,Burkina Faso,Dieudonné Minoungou,50,FALSE,FALSE
+2004-01-30,Burkina Faso,Mali,Mali,Soumaïla Coulibaly,78,FALSE,FALSE
+2004-01-30,Senegal,Kenya,Senegal,Mamadou Niang,4,FALSE,FALSE
+2004-01-30,Senegal,Kenya,Senegal,Papa Bouba Diop,19,FALSE,FALSE
+2004-01-30,Senegal,Kenya,Senegal,Mamadou Niang,31,FALSE,FALSE
+2004-01-31,Morocco,Benin,Morocco,Marouane Chamakh,17,FALSE,FALSE
+2004-01-31,Morocco,Benin,Morocco,Anicet Adjamossi,73,TRUE,FALSE
+2004-01-31,Morocco,Benin,Morocco,Abdeslam Ouaddou,75,FALSE,FALSE
+2004-01-31,Morocco,Benin,Morocco,Talal El Karkouri,80,FALSE,FALSE
+2004-01-31,Nigeria,South Africa,Nigeria,Joseph Yobo,4,FALSE,FALSE
+2004-01-31,Nigeria,South Africa,Nigeria,Jay-Jay Okocha,64,FALSE,TRUE
+2004-01-31,Nigeria,South Africa,Nigeria,Osaze Odemwingie,81,FALSE,FALSE
+2004-01-31,Nigeria,South Africa,Nigeria,Osaze Odemwingie,83,FALSE,FALSE
+2004-02-01,Rwanda,DR Congo,Rwanda,Saïd Abed Makasi,74,FALSE,FALSE
+2004-02-01,Tunisia,Guinea,Tunisia,Selim Ben Achour,58,FALSE,FALSE
+2004-02-01,Tunisia,Guinea,Guinea,Titi Camara,84,FALSE,FALSE
+2004-02-02,Burkina Faso,Kenya,Kenya,Emmanuel Ake,51,FALSE,FALSE
+2004-02-02,Burkina Faso,Kenya,Kenya,Dennis Oliech,64,FALSE,FALSE
+2004-02-02,Burkina Faso,Kenya,Kenya,John Baraza,83,FALSE,FALSE
+2004-02-02,Senegal,Mali,Mali,Dramane Traoré,34,FALSE,FALSE
+2004-02-02,Senegal,Mali,Senegal,Habib Beye,45,FALSE,FALSE
+2004-02-03,Algeria,Zimbabwe,Zimbabwe,Adam Ndlovu,65,FALSE,FALSE
+2004-02-03,Algeria,Zimbabwe,Zimbabwe,Joel Lupahla,71,FALSE,FALSE
+2004-02-03,Algeria,Zimbabwe,Algeria,Hocine Achiou,73,FALSE,FALSE
+2004-02-04,Morocco,South Africa,South Africa,Patrick Mayo,29,FALSE,FALSE
+2004-02-04,Morocco,South Africa,Morocco,Youssef Safri,38,FALSE,TRUE
+2004-02-04,Nigeria,Benin,Nigeria,Garba Lawal,35,FALSE,FALSE
+2004-02-04,Nigeria,Benin,Nigeria,John Utaka,76,FALSE,FALSE
+2004-02-04,Nigeria,Benin,Benin,Moussa Latoundji,90,FALSE,FALSE
+2004-02-07,Mali,Guinea,Guinea,Pascal Feindouno,15,FALSE,FALSE
+2004-02-07,Mali,Guinea,Mali,Frédéric Kanouté,45,FALSE,FALSE
+2004-02-07,Mali,Guinea,Mali,Mahamadou Diarra,90,FALSE,FALSE
+2004-02-07,Tunisia,Senegal,Tunisia,Jawhar Mnari,65,FALSE,FALSE
+2004-02-08,Cameroon,Nigeria,Cameroon,Samuel Eto'o,42,FALSE,FALSE
+2004-02-08,Cameroon,Nigeria,Nigeria,Jay-Jay Okocha,45,FALSE,FALSE
+2004-02-08,Cameroon,Nigeria,Nigeria,John Utaka,73,FALSE,FALSE
+2004-02-08,Morocco,Algeria,Algeria,Abdelmalek Cherrad,84,FALSE,FALSE
+2004-02-08,Morocco,Algeria,Morocco,Marouane Chamakh,90,FALSE,FALSE
+2004-02-08,Morocco,Algeria,Morocco,Youssouf Hadji,113,FALSE,FALSE
+2004-02-08,Morocco,Algeria,Morocco,Jawad Zairi,120,FALSE,FALSE
+2004-02-11,Morocco,Mali,Morocco,Youssef Mokhtari,14,FALSE,FALSE
+2004-02-11,Morocco,Mali,Morocco,Youssef Mokhtari,58,FALSE,FALSE
+2004-02-11,Morocco,Mali,Morocco,Youssouf Hadji,80,FALSE,FALSE
+2004-02-11,Morocco,Mali,Morocco,Nabil Baha,90,FALSE,FALSE
+2004-02-11,Tunisia,Nigeria,Nigeria,Jay-Jay Okocha,67,FALSE,TRUE
+2004-02-11,Tunisia,Nigeria,Tunisia,Khaled Badra,82,FALSE,TRUE
+2004-02-13,Nigeria,Mali,Nigeria,Jay-Jay Okocha,16,FALSE,FALSE
+2004-02-13,Nigeria,Mali,Nigeria,Osaze Odemwingie,52,FALSE,FALSE
+2004-02-13,Nigeria,Mali,Mali,Sedonoude Abouta,70,FALSE,FALSE
+2004-02-14,Tunisia,Morocco,Tunisia,Francileudo Santos,5,FALSE,FALSE
+2004-02-14,Tunisia,Morocco,Morocco,Youssef Mokhtari,38,FALSE,FALSE
+2004-02-14,Tunisia,Morocco,Tunisia,Ziad Jaziri,52,FALSE,FALSE
 2004-06-12,Portugal,Greece,Greece,Giorgos Karagounis,7,FALSE,FALSE
 2004-06-12,Portugal,Greece,Greece,Angelos Basinas,51,FALSE,TRUE
 2004-06-12,Portugal,Greece,Portugal,Cristiano Ronaldo,90,FALSE,FALSE
@@ -4597,6 +5493,79 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2004-07-25,Argentina,Brazil,Brazil,Luisão,45,FALSE,FALSE
 2004-07-25,Argentina,Brazil,Argentina,César Delgado,87,FALSE,FALSE
 2004-07-25,Argentina,Brazil,Brazil,Adriano,90,FALSE,FALSE
+2006-01-20,Egypt,Libya,Egypt,Mido,18,FALSE,FALSE
+2006-01-20,Egypt,Libya,Egypt,Mohamed Aboutrika,22,FALSE,FALSE
+2006-01-20,Egypt,Libya,Egypt,Ahmed Hassan,78,FALSE,FALSE
+2006-01-21,Cameroon,Angola,Cameroon,Samuel Eto'o,20,FALSE,FALSE
+2006-01-21,Cameroon,Angola,Angola,Flávio Amado,31,FALSE,TRUE
+2006-01-21,Cameroon,Angola,Cameroon,Samuel Eto'o,39,FALSE,FALSE
+2006-01-21,Cameroon,Angola,Cameroon,Samuel Eto'o,78,FALSE,FALSE
+2006-01-21,Morocco,Ivory Coast,Ivory Coast,Didier Drogba,39,FALSE,TRUE
+2006-01-21,Togo,DR Congo,DR Congo,Tresor Mputu,45,FALSE,FALSE
+2006-01-21,Togo,DR Congo,DR Congo,Lomana LuaLua,64,FALSE,FALSE
+2006-01-22,South Africa,Guinea,Guinea,Sambégou Bangoura,78,FALSE,FALSE
+2006-01-22,South Africa,Guinea,Guinea,Ousmane Bangoura,88,FALSE,FALSE
+2006-01-22,Tunisia,Zambia,Zambia,James Chamanga,9,FALSE,FALSE
+2006-01-22,Tunisia,Zambia,Tunisia,Francileudo Santos,35,FALSE,FALSE
+2006-01-22,Tunisia,Zambia,Tunisia,Riadh Bouazizi,53,FALSE,FALSE
+2006-01-22,Tunisia,Zambia,Tunisia,Francileudo Santos,82,FALSE,FALSE
+2006-01-22,Tunisia,Zambia,Tunisia,Francileudo Santos,90,FALSE,FALSE
+2006-01-23,Nigeria,Ghana,Nigeria,Taye Taiwo,85,FALSE,FALSE
+2006-01-23,Zimbabwe,Senegal,Senegal,Henri Camara,59,FALSE,FALSE
+2006-01-23,Zimbabwe,Senegal,Senegal,Issa Ba,80,FALSE,FALSE
+2006-01-24,Libya,Ivory Coast,Ivory Coast,Didier Drogba,10,FALSE,FALSE
+2006-01-24,Libya,Ivory Coast,Libya,Abdesalam Kames,42,FALSE,FALSE
+2006-01-24,Libya,Ivory Coast,Ivory Coast,Yaya Touré,74,FALSE,FALSE
+2006-01-25,Cameroon,Togo,Cameroon,Samuel Eto'o,68,FALSE,FALSE
+2006-01-25,Cameroon,Togo,Cameroon,Albert Meyong,85,FALSE,FALSE
+2006-01-26,Tunisia,South Africa,Tunisia,Francileudo Santos,32,FALSE,FALSE
+2006-01-26,Tunisia,South Africa,Tunisia,Selim Benachour,58,FALSE,FALSE
+2006-01-26,Zambia,Guinea,Zambia,Elijah Tana,33,FALSE,FALSE
+2006-01-26,Zambia,Guinea,Guinea,Pascal Feindouno,73,FALSE,TRUE
+2006-01-26,Zambia,Guinea,Guinea,Pascal Feindouno,90,FALSE,FALSE
+2006-01-27,Ghana,Senegal,Ghana,Matthew Amoah,13,FALSE,FALSE
+2006-01-27,Nigeria,Zimbabwe,Nigeria,Christian Obodo,57,FALSE,FALSE
+2006-01-27,Nigeria,Zimbabwe,Nigeria,Mikel John Obi,60,FALSE,FALSE
+2006-01-28,Egypt,Ivory Coast,Egypt,Emad Moteab,8,FALSE,FALSE
+2006-01-28,Egypt,Ivory Coast,Ivory Coast,Arouna Koné,43,FALSE,FALSE
+2006-01-28,Egypt,Ivory Coast,Egypt,Mohamed Aboutrika,61,FALSE,FALSE
+2006-01-28,Egypt,Ivory Coast,Egypt,Emad Moteab,69,FALSE,FALSE
+2006-01-29,Angola,Togo,Angola,Flávio Amado,9,FALSE,FALSE
+2006-01-29,Angola,Togo,Togo,Mohamed Kader,24,FALSE,FALSE
+2006-01-29,Angola,Togo,Angola,Flávio Amado,38,FALSE,FALSE
+2006-01-29,Angola,Togo,Togo,Chérif Touré Mamam,67,FALSE,FALSE
+2006-01-29,Angola,Togo,Angola,Norberto Maurito,86,FALSE,FALSE
+2006-01-29,Cameroon,DR Congo,Cameroon,Geremi,31,FALSE,FALSE
+2006-01-29,Cameroon,DR Congo,Cameroon,Samuel Eto'o,33,FALSE,FALSE
+2006-01-30,Tunisia,Guinea,Guinea,Ousmane Bangoura,16,FALSE,FALSE
+2006-01-30,Tunisia,Guinea,Guinea,Pascal Feindouno,70,FALSE,FALSE
+2006-01-30,Tunisia,Guinea,Guinea,Kaba Diawara,90,FALSE,FALSE
+2006-01-30,Zambia,South Africa,Zambia,Christopher Katongo,75,FALSE,FALSE
+2006-01-31,Ghana,Zimbabwe,Zimbabwe,Issah Gabriel Ahmed,60,TRUE,FALSE
+2006-01-31,Ghana,Zimbabwe,Zimbabwe,Benjani Mwaruwari,68,FALSE,FALSE
+2006-01-31,Ghana,Zimbabwe,Ghana,Baba Adamu,90,FALSE,FALSE
+2006-01-31,Nigeria,Senegal,Senegal,Souleymane Camara,58,FALSE,FALSE
+2006-01-31,Nigeria,Senegal,Nigeria,Obafemi Martins,79,FALSE,FALSE
+2006-01-31,Nigeria,Senegal,Nigeria,Obafemi Martins,88,FALSE,FALSE
+2006-02-03,Egypt,DR Congo,Egypt,Ahmed Hassan,33,FALSE,TRUE
+2006-02-03,Egypt,DR Congo,Egypt,Hossam Hassan,39,FALSE,FALSE
+2006-02-03,Egypt,DR Congo,DR Congo,Abdel-Zaher El-Saqqa,45,TRUE,FALSE
+2006-02-03,Egypt,DR Congo,Egypt,Emad Moteab,58,FALSE,FALSE
+2006-02-03,Egypt,DR Congo,Egypt,Ahmed Hassan,89,FALSE,FALSE
+2006-02-03,Guinea,Senegal,Guinea,Kaba Diawara,24,FALSE,FALSE
+2006-02-03,Guinea,Senegal,Senegal,Papa Bouba Diop,61,FALSE,FALSE
+2006-02-03,Guinea,Senegal,Senegal,Mamadou Niang,83,FALSE,FALSE
+2006-02-03,Guinea,Senegal,Guinea,Pascal Feindouno,90,FALSE,FALSE
+2006-02-03,Guinea,Senegal,Senegal,Henri Camara,90,FALSE,FALSE
+2006-02-04,Cameroon,Ivory Coast,Ivory Coast,Bakari Koné,92,FALSE,FALSE
+2006-02-04,Cameroon,Ivory Coast,Cameroon,Albert Meyong,95,FALSE,FALSE
+2006-02-04,Nigeria,Tunisia,Nigeria,Victor Obinna,6,FALSE,FALSE
+2006-02-04,Nigeria,Tunisia,Tunisia,Karim Haggui,49,FALSE,FALSE
+2006-02-07,Egypt,Senegal,Egypt,Ahmed Hassan,37,FALSE,TRUE
+2006-02-07,Egypt,Senegal,Senegal,Mamadou Niang,52,FALSE,FALSE
+2006-02-07,Egypt,Senegal,Egypt,Amr Zaki,81,FALSE,FALSE
+2006-02-07,Nigeria,Ivory Coast,Ivory Coast,Didier Drogba,47,FALSE,FALSE
+2006-02-09,Senegal,Nigeria,Nigeria,Garba Lawal,79,FALSE,FALSE
 2006-06-09,Germany,Costa Rica,Germany,Philipp Lahm,6,FALSE,FALSE
 2006-06-09,Germany,Costa Rica,Costa Rica,Paulo Wanchope,12,FALSE,FALSE
 2006-06-09,Germany,Costa Rica,Germany,Miroslav Klose,17,FALSE,FALSE
@@ -4830,6 +5799,105 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2007-07-15,Brazil,Argentina,Brazil,Júlio Baptista,4,FALSE,FALSE
 2007-07-15,Brazil,Argentina,Brazil,Roberto Ayala,40,TRUE,FALSE
 2007-07-15,Brazil,Argentina,Brazil,Dani Alves,69,FALSE,FALSE
+2008-01-20,Ghana,Guinea,Ghana,Asamoah Gyan,55,FALSE,TRUE
+2008-01-20,Ghana,Guinea,Guinea,Oumar Kalabane,65,FALSE,FALSE
+2008-01-20,Ghana,Guinea,Ghana,Sulley Muntari,90,FALSE,FALSE
+2008-01-21,Mali,Benin,Mali,Frédéric Kanouté,49,FALSE,TRUE
+2008-01-21,Namibia,Morocco,Morocco,Soufiane Alloudi,1,FALSE,FALSE
+2008-01-21,Namibia,Morocco,Morocco,Soufiane Alloudi,5,FALSE,FALSE
+2008-01-21,Namibia,Morocco,Namibia,Brian Brendell,24,FALSE,FALSE
+2008-01-21,Namibia,Morocco,Morocco,Soufiane Alloudi,28,FALSE,FALSE
+2008-01-21,Namibia,Morocco,Morocco,Tarik Sektioui,40,FALSE,TRUE
+2008-01-21,Namibia,Morocco,Morocco,Monsef Zerka,74,FALSE,FALSE
+2008-01-21,Nigeria,Ivory Coast,Ivory Coast,Salomon Kalou,66,FALSE,FALSE
+2008-01-22,Egypt,Cameroon,Egypt,Hosny Abd Rabo,14,FALSE,TRUE
+2008-01-22,Egypt,Cameroon,Egypt,Mohamed Zidan,17,FALSE,FALSE
+2008-01-22,Egypt,Cameroon,Egypt,Mohamed Zidan,45,FALSE,FALSE
+2008-01-22,Egypt,Cameroon,Cameroon,Samuel Eto'o,51,FALSE,FALSE
+2008-01-22,Egypt,Cameroon,Egypt,Hosny Abd Rabo,82,FALSE,FALSE
+2008-01-22,Egypt,Cameroon,Cameroon,Samuel Eto'o,90,FALSE,TRUE
+2008-01-22,Sudan,Zambia,Zambia,James Chamanga,2,FALSE,FALSE
+2008-01-22,Sudan,Zambia,Zambia,Jacob Mulenga,50,FALSE,FALSE
+2008-01-22,Sudan,Zambia,Zambia,Felix Katongo,59,FALSE,FALSE
+2008-01-23,South Africa,Angola,Angola,Manucho,29,FALSE,FALSE
+2008-01-23,South Africa,Angola,South Africa,Elrio van Heerden,87,FALSE,FALSE
+2008-01-23,Tunisia,Senegal,Tunisia,Issam Jemâa,9,FALSE,FALSE
+2008-01-23,Tunisia,Senegal,Senegal,Moustapha Bayal Sall,45,FALSE,FALSE
+2008-01-23,Tunisia,Senegal,Senegal,Diomansy Kamara,66,FALSE,FALSE
+2008-01-23,Tunisia,Senegal,Tunisia,Mejdi Traoui,82,FALSE,FALSE
+2008-01-24,Ghana,Namibia,Ghana,Junior Agogo,41,FALSE,FALSE
+2008-01-24,Guinea,Morocco,Guinea,Pascal Feindouno,11,FALSE,FALSE
+2008-01-24,Guinea,Morocco,Guinea,Ismaël Bangoura,59,FALSE,FALSE
+2008-01-24,Guinea,Morocco,Morocco,Hicham Aboucherouane,60,FALSE,FALSE
+2008-01-24,Guinea,Morocco,Guinea,Pascal Feindouno,63,FALSE,TRUE
+2008-01-24,Guinea,Morocco,Morocco,Abdeslam Ouaddou,90,FALSE,FALSE
+2008-01-25,Ivory Coast,Benin,Ivory Coast,Didier Drogba,40,FALSE,FALSE
+2008-01-25,Ivory Coast,Benin,Ivory Coast,Yaya Touré,44,FALSE,FALSE
+2008-01-25,Ivory Coast,Benin,Ivory Coast,Abdul Kader Keïta,53,FALSE,FALSE
+2008-01-25,Ivory Coast,Benin,Ivory Coast,Aruna Dindane,63,FALSE,FALSE
+2008-01-25,Ivory Coast,Benin,Benin,Razak Omotoyossi,90,FALSE,FALSE
+2008-01-26,Cameroon,Zambia,Cameroon,Geremi Njitap,28,FALSE,FALSE
+2008-01-26,Cameroon,Zambia,Cameroon,Joseph-Désiré Job,32,FALSE,FALSE
+2008-01-26,Cameroon,Zambia,Cameroon,Achille Emana,44,FALSE,FALSE
+2008-01-26,Cameroon,Zambia,Cameroon,Samuel Eto'o,66,FALSE,TRUE
+2008-01-26,Cameroon,Zambia,Cameroon,Joseph-Désiré Job,82,FALSE,FALSE
+2008-01-26,Cameroon,Zambia,Zambia,Chris Katongo,90,FALSE,FALSE
+2008-01-26,Egypt,Sudan,Egypt,Hosny Abd Rabo,29,FALSE,TRUE
+2008-01-26,Egypt,Sudan,Egypt,Mohamed Aboutrika,78,FALSE,FALSE
+2008-01-26,Egypt,Sudan,Egypt,Mohamed Aboutrika,83,FALSE,FALSE
+2008-01-27,Senegal,Angola,Senegal,Abdoulaye Faye,20,FALSE,FALSE
+2008-01-27,Senegal,Angola,Angola,Manucho,50,FALSE,FALSE
+2008-01-27,Senegal,Angola,Angola,Manucho,67,FALSE,FALSE
+2008-01-27,Senegal,Angola,Angola,Flávio Amado,78,FALSE,FALSE
+2008-01-27,Tunisia,South Africa,Tunisia,Francileudo dos Santos,8,FALSE,FALSE
+2008-01-27,Tunisia,South Africa,Tunisia,Chaouki Ben Saada,32,FALSE,FALSE
+2008-01-27,Tunisia,South Africa,Tunisia,Francileudo dos Santos,34,FALSE,FALSE
+2008-01-27,Tunisia,South Africa,South Africa,Katlego Mphela,87,FALSE,FALSE
+2008-01-28,Ghana,Morocco,Ghana,Michael Essien,26,FALSE,FALSE
+2008-01-28,Ghana,Morocco,Ghana,Sulley Muntari,45,FALSE,FALSE
+2008-01-28,Guinea,Namibia,Guinea,Souleymane Youla,62,FALSE,FALSE
+2008-01-28,Guinea,Namibia,Namibia,Brian Brendell,80,FALSE,FALSE
+2008-01-29,Ivory Coast,Mali,Ivory Coast,Didier Drogba,9,FALSE,FALSE
+2008-01-29,Ivory Coast,Mali,Ivory Coast,Marc Zoro,54,FALSE,FALSE
+2008-01-29,Ivory Coast,Mali,Ivory Coast,Boubacar Sanogo,86,FALSE,FALSE
+2008-01-29,Nigeria,Benin,Nigeria,Mikel John Obi,53,FALSE,FALSE
+2008-01-29,Nigeria,Benin,Nigeria,Yakubu,86,FALSE,FALSE
+2008-01-30,Cameroon,Sudan,Cameroon,Samuel Eto'o,27,FALSE,TRUE
+2008-01-30,Cameroon,Sudan,Cameroon,Mohammed Ali El Khider,33,TRUE,FALSE
+2008-01-30,Cameroon,Sudan,Cameroon,Samuel Eto'o,90,FALSE,FALSE
+2008-01-30,Egypt,Zambia,Egypt,Amr Zaki,15,FALSE,FALSE
+2008-01-30,Egypt,Zambia,Zambia,Chris Katongo,88,FALSE,FALSE
+2008-01-31,Senegal,South Africa,South Africa,Elrio van Heerden,14,FALSE,FALSE
+2008-01-31,Senegal,South Africa,Senegal,Henri Camara,36,FALSE,FALSE
+2008-02-03,Ghana,Nigeria,Nigeria,Yakubu,35,FALSE,TRUE
+2008-02-03,Ghana,Nigeria,Ghana,Michael Essien,45,FALSE,FALSE
+2008-02-03,Ghana,Nigeria,Ghana,Junior Agogo,83,FALSE,FALSE
+2008-02-03,Ivory Coast,Guinea,Ivory Coast,Abdul Kader Keïta,25,FALSE,FALSE
+2008-02-03,Ivory Coast,Guinea,Ivory Coast,Didier Drogba,70,FALSE,FALSE
+2008-02-03,Ivory Coast,Guinea,Ivory Coast,Salomon Kalou,72,FALSE,FALSE
+2008-02-03,Ivory Coast,Guinea,Ivory Coast,Salomon Kalou,81,FALSE,FALSE
+2008-02-03,Ivory Coast,Guinea,Ivory Coast,Bakari Koné,85,FALSE,FALSE
+2008-02-04,Egypt,Angola,Egypt,Hosny Abd Rabo,23,FALSE,TRUE
+2008-02-04,Egypt,Angola,Angola,Manucho,27,FALSE,FALSE
+2008-02-04,Egypt,Angola,Egypt,Amr Zaki,38,FALSE,FALSE
+2008-02-04,Tunisia,Cameroon,Cameroon,Stéphane Mbia,18,FALSE,FALSE
+2008-02-04,Tunisia,Cameroon,Cameroon,Geremi Njitap,27,FALSE,FALSE
+2008-02-04,Tunisia,Cameroon,Tunisia,Chaouki Ben Saada,34,FALSE,FALSE
+2008-02-04,Tunisia,Cameroon,Tunisia,Yassine Chikhaoui,81,FALSE,FALSE
+2008-02-04,Tunisia,Cameroon,Cameroon,Stéphane Mbia,93,FALSE,FALSE
+2008-02-07,Ghana,Cameroon,Cameroon,Alain N'Kong,72,FALSE,FALSE
+2008-02-07,Ivory Coast,Egypt,Egypt,Ahmed Fathy,12,FALSE,FALSE
+2008-02-07,Ivory Coast,Egypt,Egypt,Amr Zaki,61,FALSE,FALSE
+2008-02-07,Ivory Coast,Egypt,Ivory Coast,Abdul Kader Keïta,63,FALSE,FALSE
+2008-02-07,Ivory Coast,Egypt,Egypt,Amr Zaki,67,FALSE,FALSE
+2008-02-07,Ivory Coast,Egypt,Egypt,Mohamed Aboutrika,90,FALSE,FALSE
+2008-02-09,Ghana,Ivory Coast,Ghana,Sulley Muntari,10,FALSE,FALSE
+2008-02-09,Ghana,Ivory Coast,Ivory Coast,Boubacar Sanogo,24,FALSE,FALSE
+2008-02-09,Ghana,Ivory Coast,Ivory Coast,Boubacar Sanogo,32,FALSE,FALSE
+2008-02-09,Ghana,Ivory Coast,Ghana,Quincy Owusu-Abeyie,70,FALSE,FALSE
+2008-02-09,Ghana,Ivory Coast,Ghana,Junior Agogo,80,FALSE,FALSE
+2008-02-09,Ghana,Ivory Coast,Ghana,Haminu Draman,84,FALSE,FALSE
+2008-02-10,Cameroon,Egypt,Egypt,Mohamed Aboutrika,76,FALSE,FALSE
 2008-06-07,Portugal,Turkey,Portugal,Pepe,61,FALSE,FALSE
 2008-06-07,Portugal,Turkey,Portugal,Raul Meireles,90,FALSE,FALSE
 2008-06-07,Switzerland,Czech Republic,Czech Republic,Václav Svěrkoš,71,FALSE,FALSE
@@ -4907,6 +5975,77 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2008-06-26,Russia,Spain,Spain,Dani Güiza,73,FALSE,FALSE
 2008-06-26,Russia,Spain,Spain,David Silva,82,FALSE,FALSE
 2008-06-29,Germany,Spain,Spain,Fernando Torres,33,FALSE,FALSE
+2010-01-10,Angola,Mali,Angola,Flávio Amado,36,FALSE,FALSE
+2010-01-10,Angola,Mali,Angola,Flávio Amado,42,FALSE,FALSE
+2010-01-10,Angola,Mali,Angola,Sebastião Gilberto,67,FALSE,TRUE
+2010-01-10,Angola,Mali,Angola,Manucho,74,FALSE,TRUE
+2010-01-10,Angola,Mali,Mali,Seydou Keita,79,FALSE,FALSE
+2010-01-10,Angola,Mali,Mali,Frédéric Kanouté,88,FALSE,FALSE
+2010-01-10,Angola,Mali,Mali,Seydou Keita,90,FALSE,FALSE
+2010-01-10,Angola,Mali,Mali,Mustapha Yatabaré,90,FALSE,FALSE
+2010-01-11,Malawi,Algeria,Malawi,Russel Mwafulirwa,17,FALSE,FALSE
+2010-01-11,Malawi,Algeria,Malawi,Elvis Kafoteka,35,FALSE,FALSE
+2010-01-11,Malawi,Algeria,Malawi,Davi Banda,48,FALSE,FALSE
+2010-01-12,Egypt,Nigeria,Nigeria,Chinedu Obasi,12,FALSE,FALSE
+2010-01-12,Egypt,Nigeria,Egypt,Emad Moteab,34,FALSE,FALSE
+2010-01-12,Egypt,Nigeria,Egypt,Ahmed Hassan,54,FALSE,FALSE
+2010-01-12,Egypt,Nigeria,Egypt,Gedo,87,FALSE,FALSE
+2010-01-12,Mozambique,Benin,Benin,Razak Omotoyossi,14,FALSE,TRUE
+2010-01-12,Mozambique,Benin,Benin,Dario Khan,20,TRUE,FALSE
+2010-01-12,Mozambique,Benin,Mozambique,Almiro Lobo,29,FALSE,FALSE
+2010-01-12,Mozambique,Benin,Mozambique,Carlos Fumo Gonçalves,54,FALSE,FALSE
+2010-01-13,Cameroon,Gabon,Gabon,Daniel Cousin,17,FALSE,FALSE
+2010-01-13,Zambia,Tunisia,Zambia,Jacob Mulenga,19,FALSE,FALSE
+2010-01-13,Zambia,Tunisia,Tunisia,Zouheir Dhaouadi,40,FALSE,FALSE
+2010-01-14,Angola,Malawi,Angola,Flávio Amado,49,FALSE,FALSE
+2010-01-14,Angola,Malawi,Angola,Manucho,55,FALSE,FALSE
+2010-01-14,Mali,Algeria,Algeria,Rafik Halliche,43,FALSE,FALSE
+2010-01-15,Ivory Coast,Ghana,Ivory Coast,Gervinho,23,FALSE,FALSE
+2010-01-15,Ivory Coast,Ghana,Ivory Coast,Siaka Tiéné,66,FALSE,FALSE
+2010-01-15,Ivory Coast,Ghana,Ivory Coast,Didier Drogba,90,FALSE,FALSE
+2010-01-15,Ivory Coast,Ghana,Ghana,Asamoah Gyan,90,FALSE,TRUE
+2010-01-16,Egypt,Mozambique,Egypt,Dario Khan,47,TRUE,FALSE
+2010-01-16,Egypt,Mozambique,Egypt,Gedo,81,FALSE,FALSE
+2010-01-16,Nigeria,Benin,Nigeria,Yakubu,42,FALSE,TRUE
+2010-01-17,Cameroon,Zambia,Zambia,Jacob Mulenga,8,FALSE,FALSE
+2010-01-17,Cameroon,Zambia,Cameroon,Geremi Njitap,68,FALSE,FALSE
+2010-01-17,Cameroon,Zambia,Cameroon,Samuel Eto'o,72,FALSE,FALSE
+2010-01-17,Cameroon,Zambia,Zambia,Christopher Katongo,81,FALSE,TRUE
+2010-01-17,Cameroon,Zambia,Cameroon,Mohammadou Idrissou,86,FALSE,FALSE
+2010-01-18,Mali,Malawi,Mali,Frédéric Kanouté,1,FALSE,FALSE
+2010-01-18,Mali,Malawi,Mali,Seydou Keita,3,FALSE,FALSE
+2010-01-18,Mali,Malawi,Malawi,Russel Mwafulirwa,58,FALSE,FALSE
+2010-01-18,Mali,Malawi,Mali,Mamadou Bagayoko,85,FALSE,FALSE
+2010-01-19,Burkina Faso,Ghana,Ghana,André Ayew,30,FALSE,FALSE
+2010-01-20,Egypt,Benin,Egypt,Ahmed Elmohamady,7,FALSE,FALSE
+2010-01-20,Egypt,Benin,Egypt,Emad Moteab,23,FALSE,FALSE
+2010-01-20,Nigeria,Mozambique,Nigeria,Peter Odemwingie,45,FALSE,FALSE
+2010-01-20,Nigeria,Mozambique,Nigeria,Peter Odemwingie,47,FALSE,FALSE
+2010-01-20,Nigeria,Mozambique,Nigeria,Obafemi Martins,86,FALSE,FALSE
+2010-01-21,Cameroon,Tunisia,Tunisia,Amine Chermiti,1,FALSE,FALSE
+2010-01-21,Cameroon,Tunisia,Cameroon,Samuel Eto'o,47,FALSE,FALSE
+2010-01-21,Cameroon,Tunisia,Tunisia,Aurélien Chedjou,63,TRUE,FALSE
+2010-01-21,Cameroon,Tunisia,Cameroon,Landry N'Guémo,64,FALSE,FALSE
+2010-01-21,Gabon,Zambia,Zambia,Rainford Kalaba,28,FALSE,FALSE
+2010-01-21,Gabon,Zambia,Zambia,James Chamanga,62,FALSE,FALSE
+2010-01-21,Gabon,Zambia,Gabon,Fabrice Do Marcolino,83,FALSE,FALSE
+2010-01-24,Angola,Ghana,Ghana,Asamoah Gyan,15,FALSE,FALSE
+2010-01-24,Ivory Coast,Algeria,Ivory Coast,Salomon Kalou,4,FALSE,FALSE
+2010-01-24,Ivory Coast,Algeria,Algeria,Karim Matmour,39,FALSE,FALSE
+2010-01-24,Ivory Coast,Algeria,Ivory Coast,Abdul Kader Keïta,89,FALSE,FALSE
+2010-01-24,Ivory Coast,Algeria,Algeria,Madjid Bougherra,90,FALSE,FALSE
+2010-01-24,Ivory Coast,Algeria,Algeria,Hameur Bouazza,92,FALSE,FALSE
+2010-01-25,Egypt,Cameroon,Cameroon,Achille Emaná,25,FALSE,FALSE
+2010-01-25,Egypt,Cameroon,Egypt,Ahmed Hassan,37,FALSE,FALSE
+2010-01-25,Egypt,Cameroon,Egypt,Gedo,92,FALSE,FALSE
+2010-01-25,Egypt,Cameroon,Egypt,Ahmed Hassan,104,FALSE,FALSE
+2010-01-28,Algeria,Egypt,Egypt,Hosny Abd Rabo,38,FALSE,TRUE
+2010-01-28,Algeria,Egypt,Egypt,Mohamed Zidan,65,FALSE,FALSE
+2010-01-28,Algeria,Egypt,Egypt,Mohamed Abdel-Shafy,80,FALSE,FALSE
+2010-01-28,Algeria,Egypt,Egypt,Gedo,90,FALSE,FALSE
+2010-01-28,Ghana,Nigeria,Ghana,Asamoah Gyan,21,FALSE,FALSE
+2010-01-30,Nigeria,Algeria,Nigeria,Victor Obinna,56,FALSE,FALSE
+2010-01-31,Ghana,Egypt,Egypt,Gedo,85,FALSE,FALSE
 2010-06-11,South Africa,Mexico,South Africa,Siphiwe Tshabalala,55,FALSE,FALSE
 2010-06-11,South Africa,Mexico,Mexico,Rafael Márquez,79,FALSE,FALSE
 2010-06-12,Argentina,Nigeria,Argentina,Gabriel Heinze,6,FALSE,FALSE
@@ -5106,6 +6245,21 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2011-07-24,Uruguay,Paraguay,Uruguay,Luis Suárez,11,FALSE,FALSE
 2011-07-24,Uruguay,Paraguay,Uruguay,Diego Forlán,41,FALSE,FALSE
 2011-07-24,Uruguay,Paraguay,Uruguay,Diego Forlán,89,FALSE,FALSE
+2012-02-04,Ivory Coast,Equatorial Guinea,Ivory Coast,Didier Drogba,35,FALSE,FALSE
+2012-02-04,Ivory Coast,Equatorial Guinea,Ivory Coast,Didier Drogba,69,FALSE,FALSE
+2012-02-04,Ivory Coast,Equatorial Guinea,Ivory Coast,Yaya Touré,81,FALSE,FALSE
+2012-02-04,Zambia,Sudan,Zambia,Stophira Sunzu,15,FALSE,FALSE
+2012-02-04,Zambia,Sudan,Zambia,Christopher Katongo,66,FALSE,FALSE
+2012-02-04,Zambia,Sudan,Zambia,James Chamanga,86,FALSE,FALSE
+2012-02-05,Gabon,Mali,Gabon,Éric Mouloungui,54,FALSE,FALSE
+2012-02-05,Gabon,Mali,Mali,Cheick Diabaté,85,FALSE,FALSE
+2012-02-05,Ghana,Tunisia,Ghana,John Mensah,9,FALSE,FALSE
+2012-02-05,Ghana,Tunisia,Tunisia,Saber Khelifa,41,FALSE,FALSE
+2012-02-05,Ghana,Tunisia,Ghana,André Ayew,100,FALSE,FALSE
+2012-02-08,Mali,Ivory Coast,Ivory Coast,Gervinho,45,FALSE,FALSE
+2012-02-08,Zambia,Ghana,Zambia,Emmanuel Mayuka,78,FALSE,FALSE
+2012-02-11,Ghana,Mali,Mali,Cheick Diabaté,23,FALSE,FALSE
+2012-02-11,Ghana,Mali,Mali,Cheick Diabaté,80,FALSE,FALSE
 2012-06-08,Poland,Greece,Poland,Robert Lewandowski,17,FALSE,FALSE
 2012-06-08,Poland,Greece,Greece,Dimitris Salpingidis,51,FALSE,FALSE
 2012-06-08,Russia,Czech Republic,Russia,Alan Dzagoev,15,FALSE,FALSE
@@ -5182,6 +6336,25 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2012-07-01,Spain,Italy,Spain,Jordi Alba,41,FALSE,FALSE
 2012-07-01,Spain,Italy,Spain,Fernando Torres,84,FALSE,FALSE
 2012-07-01,Spain,Italy,Spain,Juan Mata,88,FALSE,FALSE
+2013-02-02,Ghana,Cape Verde,Ghana,Mubarak Wakaso,54,FALSE,TRUE
+2013-02-02,Ghana,Cape Verde,Ghana,Mubarak Wakaso,90,FALSE,FALSE
+2013-02-02,South Africa,Mali,South Africa,Tokelo Rantie,31,FALSE,FALSE
+2013-02-02,South Africa,Mali,Mali,Seydou Keita,58,FALSE,FALSE
+2013-02-03,Burkina Faso,Togo,Burkina Faso,Jonathan Pitroipa,105,FALSE,FALSE
+2013-02-03,Ivory Coast,Nigeria,Nigeria,Emmanuel Emenike,43,FALSE,FALSE
+2013-02-03,Ivory Coast,Nigeria,Ivory Coast,Cheick Tioté,50,FALSE,FALSE
+2013-02-03,Ivory Coast,Nigeria,Nigeria,Sunday Mba,78,FALSE,FALSE
+2013-02-06,Burkina Faso,Ghana,Ghana,Mubarak Wakaso,13,FALSE,TRUE
+2013-02-06,Burkina Faso,Ghana,Burkina Faso,Aristide Bancé,60,FALSE,FALSE
+2013-02-06,Mali,Nigeria,Nigeria,Uwa Elderson Echiéjilé,25,FALSE,FALSE
+2013-02-06,Mali,Nigeria,Nigeria,Brown Ideye,30,FALSE,FALSE
+2013-02-06,Mali,Nigeria,Nigeria,Emmanuel Emenike,60,FALSE,FALSE
+2013-02-06,Mali,Nigeria,Mali,Cheick Fantamady Diarra,75,FALSE,FALSE
+2013-02-09,Mali,Ghana,Mali,Mamadou Samassa,21,FALSE,FALSE
+2013-02-09,Mali,Ghana,Mali,Seydou Keita,48,FALSE,FALSE
+2013-02-09,Mali,Ghana,Ghana,Kwadwo Asamoah,82,FALSE,FALSE
+2013-02-09,Mali,Ghana,Mali,Sigamary Diarra,90,FALSE,FALSE
+2013-02-10,Nigeria,Burkina Faso,Nigeria,Sunday Mba,40,FALSE,FALSE
 2014-06-12,Brazil,Croatia,Croatia,Marcelo,12,TRUE,FALSE
 2014-06-12,Brazil,Croatia,Brazil,Neymar,29,FALSE,FALSE
 2014-06-12,Brazil,Croatia,Brazil,Neymar,71,FALSE,TRUE
@@ -5353,6 +6526,29 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2014-07-12,Brazil,Netherlands,Netherlands,Daley Blind,17,FALSE,FALSE
 2014-07-12,Brazil,Netherlands,Netherlands,Georginio Wijnaldum,90,FALSE,FALSE
 2014-07-13,Germany,Argentina,Germany,Mario Götze,113,FALSE,FALSE
+2015-01-31,Congo,DR Congo,Congo,Férébory Doré,55,FALSE,FALSE
+2015-01-31,Congo,DR Congo,Congo,Thievy Bifouma,62,FALSE,FALSE
+2015-01-31,Congo,DR Congo,DR Congo,Dieumerci Mbokani,65,FALSE,FALSE
+2015-01-31,Congo,DR Congo,DR Congo,Jeremy Bokila,75,FALSE,FALSE
+2015-01-31,Congo,DR Congo,DR Congo,Joël Kimwaki,81,FALSE,FALSE
+2015-01-31,Congo,DR Congo,DR Congo,Dieumerci Mbokani,90,FALSE,FALSE
+2015-01-31,Tunisia,Equatorial Guinea,Tunisia,Ahmed Akaïchi,70,FALSE,FALSE
+2015-01-31,Tunisia,Equatorial Guinea,Equatorial Guinea,Javier Balboa,90,FALSE,TRUE
+2015-01-31,Tunisia,Equatorial Guinea,Equatorial Guinea,Javier Balboa,102,FALSE,FALSE
+2015-02-01,Ghana,Guinea,Ghana,Christian Atsu,4,FALSE,FALSE
+2015-02-01,Ghana,Guinea,Ghana,Kwesi Appiah,44,FALSE,FALSE
+2015-02-01,Ghana,Guinea,Ghana,Christian Atsu,61,FALSE,FALSE
+2015-02-01,Ivory Coast,Algeria,Ivory Coast,Wilfried Bony,26,FALSE,FALSE
+2015-02-01,Ivory Coast,Algeria,Algeria,Hillal Soudani,51,FALSE,FALSE
+2015-02-01,Ivory Coast,Algeria,Ivory Coast,Wilfried Bony,68,FALSE,FALSE
+2015-02-01,Ivory Coast,Algeria,Ivory Coast,Gervinho,90,FALSE,FALSE
+2015-02-04,DR Congo,Ivory Coast,Ivory Coast,Yaya Touré,20,FALSE,FALSE
+2015-02-04,DR Congo,Ivory Coast,DR Congo,Dieumerci Mbokani,24,FALSE,TRUE
+2015-02-04,DR Congo,Ivory Coast,Ivory Coast,Gervinho,41,FALSE,FALSE
+2015-02-04,DR Congo,Ivory Coast,Ivory Coast,Wilfried Kanon,68,FALSE,FALSE
+2015-02-05,Ghana,Equatorial Guinea,Ghana,Jordan Ayew,42,FALSE,TRUE
+2015-02-05,Ghana,Equatorial Guinea,Ghana,Mubarak Wakaso,45,FALSE,FALSE
+2015-02-05,Ghana,Equatorial Guinea,Ghana,André Ayew,75,FALSE,FALSE
 2015-06-11,Chile,Ecuador,Chile,Arturo Vidal,66,FALSE,TRUE
 2015-06-11,Chile,Ecuador,Chile,Eduardo Vargas,83,FALSE,FALSE
 2015-06-13,Argentina,Paraguay,Argentina,Sergio Agüero,28,FALSE,FALSE
@@ -5611,6 +6807,72 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2016-07-07,France,Germany,France,Antoine Griezmann,45,FALSE,TRUE
 2016-07-07,France,Germany,France,Antoine Griezmann,72,FALSE,FALSE
 2016-07-10,France,Portugal,Portugal,Eder,109,FALSE,FALSE
+2017-01-14,Burkina Faso,Cameroon,Cameroon,Benjamin Moukandjo,35,FALSE,FALSE
+2017-01-14,Burkina Faso,Cameroon,Burkina Faso,Issoufou Dayo,75,FALSE,FALSE
+2017-01-14,Gabon,Guinea-Bissau,Gabon,Pierre-Emerick Aubameyang,52,FALSE,FALSE
+2017-01-14,Gabon,Guinea-Bissau,Guinea-Bissau,Juary Soares,90,FALSE,FALSE
+2017-01-15,Algeria,Zimbabwe,Algeria,Riyad Mahrez,12,FALSE,FALSE
+2017-01-15,Algeria,Zimbabwe,Zimbabwe,Kudakwashe Mahachi,17,FALSE,FALSE
+2017-01-15,Algeria,Zimbabwe,Zimbabwe,Nyasha Mushekwi,29,FALSE,TRUE
+2017-01-15,Algeria,Zimbabwe,Algeria,Riyad Mahrez,82,FALSE,FALSE
+2017-01-15,Tunisia,Senegal,Senegal,Sadio Mané,10,FALSE,TRUE
+2017-01-15,Tunisia,Senegal,Senegal,Kara Mbodji,30,FALSE,FALSE
+2017-01-16,DR Congo,Morocco,DR Congo,Junior Kabananga,55,FALSE,FALSE
+2017-01-17,Ghana,Uganda,Ghana,André Ayew,32,FALSE,TRUE
+2017-01-18,Cameroon,Guinea-Bissau,Guinea-Bissau,Piqueti,13,FALSE,FALSE
+2017-01-18,Cameroon,Guinea-Bissau,Cameroon,Sébastien Siani,61,FALSE,FALSE
+2017-01-18,Cameroon,Guinea-Bissau,Cameroon,Michael Ngadeu-Ngadjui,78,FALSE,FALSE
+2017-01-18,Gabon,Burkina Faso,Burkina Faso,Préjuce Nakoulma,23,FALSE,FALSE
+2017-01-18,Gabon,Burkina Faso,Gabon,Pierre-Emerick Aubameyang,38,FALSE,TRUE
+2017-01-19,Algeria,Tunisia,Tunisia,Aïssa Mandi,50,TRUE,FALSE
+2017-01-19,Algeria,Tunisia,Tunisia,Naïm Sliti,66,FALSE,TRUE
+2017-01-19,Algeria,Tunisia,Algeria,Sofiane Hanni,90,FALSE,FALSE
+2017-01-19,Senegal,Zimbabwe,Senegal,Sadio Mané,9,FALSE,FALSE
+2017-01-19,Senegal,Zimbabwe,Senegal,Henri Saivet,13,FALSE,FALSE
+2017-01-20,Ivory Coast,DR Congo,DR Congo,Neeskens Kebano,10,FALSE,FALSE
+2017-01-20,Ivory Coast,DR Congo,Ivory Coast,Wilfried Bony,25,FALSE,FALSE
+2017-01-20,Ivory Coast,DR Congo,DR Congo,Junior Kabananga,28,FALSE,FALSE
+2017-01-20,Ivory Coast,DR Congo,Ivory Coast,Serey Dié,67,FALSE,FALSE
+2017-01-20,Morocco,Togo,Togo,Mathieu Dossevi,5,FALSE,FALSE
+2017-01-20,Morocco,Togo,Morocco,Aziz Bouhaddouz,14,FALSE,FALSE
+2017-01-20,Morocco,Togo,Morocco,Romain Saïss,21,FALSE,FALSE
+2017-01-20,Morocco,Togo,Morocco,Youssef En-Nesyri,72,FALSE,FALSE
+2017-01-21,Egypt,Uganda,Egypt,Abdallah Said,89,FALSE,FALSE
+2017-01-21,Ghana,Mali,Ghana,Asamoah Gyan,21,FALSE,FALSE
+2017-01-22,Guinea-Bissau,Burkina Faso,Burkina Faso,Rudinilson Silva,12,TRUE,FALSE
+2017-01-22,Guinea-Bissau,Burkina Faso,Burkina Faso,Bertrand Traoré,58,FALSE,FALSE
+2017-01-23,Senegal,Algeria,Algeria,Islam Slimani,10,FALSE,FALSE
+2017-01-23,Senegal,Algeria,Senegal,Papakouli Diop,43,FALSE,FALSE
+2017-01-23,Senegal,Algeria,Algeria,Islam Slimani,52,FALSE,FALSE
+2017-01-23,Senegal,Algeria,Senegal,Moussa Sow,53,FALSE,FALSE
+2017-01-23,Zimbabwe,Tunisia,Tunisia,Naïm Sliti,9,FALSE,FALSE
+2017-01-23,Zimbabwe,Tunisia,Tunisia,Youssef Msakni,22,FALSE,FALSE
+2017-01-23,Zimbabwe,Tunisia,Tunisia,Taha Yassine Khenissi,36,FALSE,FALSE
+2017-01-23,Zimbabwe,Tunisia,Zimbabwe,Knowledge Musona,42,FALSE,FALSE
+2017-01-23,Zimbabwe,Tunisia,Tunisia,Wahbi Khazri,45,FALSE,TRUE
+2017-01-23,Zimbabwe,Tunisia,Zimbabwe,Tendai Ndoro,58,FALSE,FALSE
+2017-01-24,Morocco,Ivory Coast,Morocco,Rachid Alioui,64,FALSE,FALSE
+2017-01-24,Togo,DR Congo,DR Congo,Junior Kabananga,29,FALSE,FALSE
+2017-01-24,Togo,DR Congo,DR Congo,Firmin Ndombe Mubele,54,FALSE,FALSE
+2017-01-24,Togo,DR Congo,Togo,Kodjo Fo-Doh Laba,69,FALSE,FALSE
+2017-01-24,Togo,DR Congo,DR Congo,Paul-José M'Poku,80,FALSE,FALSE
+2017-01-25,Egypt,Ghana,Egypt,Mohamed Salah,11,FALSE,FALSE
+2017-01-25,Uganda,Mali,Uganda,Farouk Miya,70,FALSE,FALSE
+2017-01-25,Uganda,Mali,Mali,Yves Bissouma,73,FALSE,FALSE
+2017-01-28,Burkina Faso,Tunisia,Burkina Faso,Aristide Bancé,81,FALSE,FALSE
+2017-01-28,Burkina Faso,Tunisia,Burkina Faso,Préjuce Nakoulma,85,FALSE,FALSE
+2017-01-29,DR Congo,Ghana,Ghana,Jordan Ayew,63,FALSE,FALSE
+2017-01-29,DR Congo,Ghana,DR Congo,Paul-José M'Poku,68,FALSE,FALSE
+2017-01-29,DR Congo,Ghana,Ghana,André Ayew,78,FALSE,TRUE
+2017-01-29,Egypt,Morocco,Egypt,Kahraba,88,FALSE,FALSE
+2017-02-01,Burkina Faso,Egypt,Egypt,Mohamed Salah,66,FALSE,FALSE
+2017-02-01,Burkina Faso,Egypt,Burkina Faso,Aristide Bancé,73,FALSE,FALSE
+2017-02-02,Cameroon,Ghana,Cameroon,Michael Ngadeu-Ngadjui,72,FALSE,FALSE
+2017-02-02,Cameroon,Ghana,Cameroon,Christian Bassogog,90,FALSE,FALSE
+2017-02-04,Burkina Faso,Ghana,Burkina Faso,Alain Traoré,89,FALSE,FALSE
+2017-02-05,Cameroon,Egypt,Egypt,Mohamed Elneny,22,FALSE,FALSE
+2017-02-05,Cameroon,Egypt,Cameroon,Nicolas Nkoulou,59,FALSE,FALSE
+2017-02-05,Cameroon,Egypt,Cameroon,Vincent Aboubakar,88,FALSE,FALSE
 2018-06-14,Russia,Saudi Arabia,Russia,Yury Gazinsky,12,FALSE,FALSE
 2018-06-14,Russia,Saudi Arabia,Russia,Denis Cheryshev,43,FALSE,FALSE
 2018-06-14,Russia,Saudi Arabia,Russia,Artem Dzyuba,71,FALSE,FALSE
@@ -5811,6 +7073,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-06-21,Ecuador,Chile,Chile,José Pedro Fuenzalida,8,FALSE,FALSE
 2019-06-21,Ecuador,Chile,Ecuador,Enner Valencia,26,FALSE,TRUE
 2019-06-21,Ecuador,Chile,Chile,Alexis Sánchez,51,FALSE,FALSE
+2019-06-21,Egypt,Zimbabwe,Egypt,Trézéguet,41,FALSE,FALSE
 2019-06-22,Bolivia,Venezuela,Venezuela,Darwin Machís,2,FALSE,FALSE
 2019-06-22,Bolivia,Venezuela,Venezuela,Darwin Machís,55,FALSE,FALSE
 2019-06-22,Bolivia,Venezuela,Bolivia,Leonel Justiniano,82,FALSE,FALSE
@@ -5820,26 +7083,127 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-06-22,Brazil,Peru,Brazil,Everton Soares,32,FALSE,FALSE
 2019-06-22,Brazil,Peru,Brazil,Dani Alves,53,FALSE,FALSE
 2019-06-22,Brazil,Peru,Brazil,Willian,90,FALSE,FALSE
+2019-06-22,DR Congo,Uganda,Uganda,Patrick Kaddu,14,FALSE,FALSE
+2019-06-22,DR Congo,Uganda,Uganda,Emmanuel Okwi,48,FALSE,FALSE
+2019-06-22,Guinea,Madagascar,Guinea,Sory Kaba,34,FALSE,FALSE
+2019-06-22,Guinea,Madagascar,Madagascar,Anicet Abel,49,FALSE,FALSE
+2019-06-22,Guinea,Madagascar,Madagascar,Carolus Andriamatsinoro,55,FALSE,FALSE
+2019-06-22,Guinea,Madagascar,Guinea,François Kamano,66,FALSE,TRUE
+2019-06-22,Nigeria,Burundi,Nigeria,Odion Ighalo,77,FALSE,FALSE
+2019-06-23,Algeria,Kenya,Algeria,Baghdad Bounedjah,34,FALSE,TRUE
+2019-06-23,Algeria,Kenya,Algeria,Riyad Mahrez,43,FALSE,FALSE
 2019-06-23,Colombia,Paraguay,Colombia,Gustavo Cuéllar,31,FALSE,FALSE
+2019-06-23,Morocco,Namibia,Morocco,Itamunua Keimuine,89,TRUE,FALSE
 2019-06-23,Qatar,Argentina,Argentina,Lautaro Martínez,4,FALSE,FALSE
 2019-06-23,Qatar,Argentina,Argentina,Sergio Agüero,82,FALSE,FALSE
+2019-06-23,Senegal,Tanzania,Senegal,Keita Baldé,28,FALSE,FALSE
+2019-06-23,Senegal,Tanzania,Senegal,Krépin Diatta,64,FALSE,FALSE
 2019-06-24,Chile,Uruguay,Uruguay,Edinson Cavani,82,FALSE,FALSE
 2019-06-24,Ecuador,Japan,Japan,Shoya Nakajima,15,FALSE,FALSE
 2019-06-24,Ecuador,Japan,Ecuador,Ángel Mena,35,FALSE,FALSE
+2019-06-24,Ivory Coast,South Africa,Ivory Coast,Jonathan Kodjia,64,FALSE,FALSE
+2019-06-24,Mali,Mauritania,Mali,Abdoulay Diaby,37,FALSE,FALSE
+2019-06-24,Mali,Mauritania,Mali,Moussa Marega,45,FALSE,TRUE
+2019-06-24,Mali,Mauritania,Mali,Adama Traoré,55,FALSE,FALSE
+2019-06-24,Mali,Mauritania,Mauritania,Moctar Sidi El Hacen,72,FALSE,TRUE
+2019-06-24,Mali,Mauritania,Mali,Adama Traoré,74,FALSE,FALSE
+2019-06-24,Tunisia,Angola,Tunisia,Youssef Msakni,34,FALSE,TRUE
+2019-06-24,Tunisia,Angola,Angola,Djalma Campos,73,FALSE,FALSE
+2019-06-25,Cameroon,Guinea-Bissau,Cameroon,Banana Yaya,66,FALSE,FALSE
+2019-06-25,Cameroon,Guinea-Bissau,Cameroon,Stéphane Bahoken,69,FALSE,FALSE
+2019-06-25,Ghana,Benin,Benin,Mickaël Poté,2,FALSE,FALSE
+2019-06-25,Ghana,Benin,Ghana,André Ayew,9,FALSE,FALSE
+2019-06-25,Ghana,Benin,Ghana,Jordan Ayew,42,FALSE,FALSE
+2019-06-25,Ghana,Benin,Benin,Mickaël Poté,63,FALSE,FALSE
+2019-06-26,Egypt,DR Congo,Egypt,Ahmed Elmohamady,25,FALSE,FALSE
+2019-06-26,Egypt,DR Congo,Egypt,Mohamed Salah,43,FALSE,FALSE
+2019-06-26,Nigeria,Guinea,Nigeria,Kenneth Omeruo,73,FALSE,FALSE
+2019-06-26,Uganda,Zimbabwe,Uganda,Emmanuel Okwi,12,FALSE,FALSE
+2019-06-26,Uganda,Zimbabwe,Zimbabwe,Khama Billiat,40,FALSE,FALSE
+2019-06-27,Kenya,Tanzania,Tanzania,Simon Msuva,6,FALSE,FALSE
+2019-06-27,Kenya,Tanzania,Kenya,Michael Olunga,39,FALSE,FALSE
+2019-06-27,Kenya,Tanzania,Tanzania,Mbwana Samatta,40,FALSE,FALSE
+2019-06-27,Kenya,Tanzania,Kenya,Johanna Omolo,62,FALSE,FALSE
+2019-06-27,Kenya,Tanzania,Kenya,Michael Olunga,80,FALSE,FALSE
+2019-06-27,Madagascar,Burundi,Madagascar,Marco Ilaimaharitra,76,FALSE,FALSE
+2019-06-27,Senegal,Algeria,Algeria,Youcef Belaïli,49,FALSE,FALSE
+2019-06-28,Morocco,Ivory Coast,Morocco,Youssef En-Nesyri,23,FALSE,FALSE
+2019-06-28,South Africa,Namibia,South Africa,Bongani Zungu,68,FALSE,FALSE
+2019-06-28,Tunisia,Mali,Mali,Diadie Samassékou,60,FALSE,FALSE
+2019-06-28,Tunisia,Mali,Tunisia,Wahbi Khazri,70,FALSE,FALSE
 2019-06-28,Venezuela,Argentina,Argentina,Lautaro Martínez,10,FALSE,FALSE
 2019-06-28,Venezuela,Argentina,Argentina,Giovani Lo Celso,74,FALSE,FALSE
+2019-06-30,Burundi,Guinea,Guinea,Mohamed Yattara,25,FALSE,FALSE
+2019-06-30,Burundi,Guinea,Guinea,Mohamed Yattara,52,FALSE,FALSE
+2019-06-30,Madagascar,Nigeria,Madagascar,Lalaïna Nomenjanahary,13,FALSE,FALSE
+2019-06-30,Madagascar,Nigeria,Madagascar,Carolus Andriamatsinoro,53,FALSE,FALSE
+2019-06-30,Uganda,Egypt,Egypt,Mohamed Salah,36,FALSE,FALSE
+2019-06-30,Uganda,Egypt,Egypt,Ahmed Elmohamady,45,FALSE,FALSE
+2019-06-30,Zimbabwe,DR Congo,DR Congo,Jonathan Bolingi,4,FALSE,FALSE
+2019-06-30,Zimbabwe,DR Congo,DR Congo,Cédric Bakambu,34,FALSE,FALSE
+2019-06-30,Zimbabwe,DR Congo,DR Congo,Cédric Bakambu,65,FALSE,TRUE
+2019-06-30,Zimbabwe,DR Congo,DR Congo,Britt Assombalonga,78,FALSE,FALSE
+2019-07-01,Kenya,Senegal,Senegal,Ismaïla Sarr,63,FALSE,FALSE
+2019-07-01,Kenya,Senegal,Senegal,Sadio Mané,71,FALSE,FALSE
+2019-07-01,Kenya,Senegal,Senegal,Sadio Mané,78,FALSE,TRUE
+2019-07-01,Namibia,Ivory Coast,Ivory Coast,Max Gradel,39,FALSE,FALSE
+2019-07-01,Namibia,Ivory Coast,Ivory Coast,Serey Dié,58,FALSE,FALSE
+2019-07-01,Namibia,Ivory Coast,Namibia,Joslin Kamatuka,71,FALSE,FALSE
+2019-07-01,Namibia,Ivory Coast,Ivory Coast,Wilfried Zaha,84,FALSE,FALSE
+2019-07-01,Namibia,Ivory Coast,Ivory Coast,Maxwel Cornet,89,FALSE,FALSE
+2019-07-01,South Africa,Morocco,Morocco,Mbark Boussoufa,90,FALSE,FALSE
+2019-07-01,Tanzania,Algeria,Algeria,Islam Slimani,35,FALSE,FALSE
+2019-07-01,Tanzania,Algeria,Algeria,Adam Ounas,39,FALSE,FALSE
+2019-07-01,Tanzania,Algeria,Algeria,Adam Ounas,45,FALSE,FALSE
+2019-07-02,Angola,Mali,Mali,Amadou Haidara,37,FALSE,FALSE
 2019-07-02,Brazil,Argentina,Brazil,Gabriel Jesus,19,FALSE,FALSE
 2019-07-02,Brazil,Argentina,Brazil,Roberto Firmino,71,FALSE,FALSE
+2019-07-02,Guinea-Bissau,Ghana,Ghana,Jordan Ayew,46,FALSE,FALSE
+2019-07-02,Guinea-Bissau,Ghana,Ghana,Thomas Partey,72,FALSE,FALSE
 2019-07-03,Chile,Peru,Peru,Edison Flores,21,FALSE,FALSE
 2019-07-03,Chile,Peru,Peru,Yoshimar Yotún,38,FALSE,FALSE
 2019-07-03,Chile,Peru,Peru,Paolo Guerrero,90,FALSE,FALSE
+2019-07-05,Morocco,Benin,Benin,Moise Adilehou,53,FALSE,FALSE
+2019-07-05,Morocco,Benin,Morocco,Youssef En-Nesyri,76,FALSE,FALSE
+2019-07-05,Uganda,Senegal,Senegal,Sadio Mané,15,FALSE,FALSE
 2019-07-06,Argentina,Chile,Argentina,Sergio Agüero,12,FALSE,FALSE
 2019-07-06,Argentina,Chile,Argentina,Paulo Dybala,22,FALSE,FALSE
 2019-07-06,Argentina,Chile,Chile,Arturo Vidal,59,FALSE,TRUE
+2019-07-06,Egypt,South Africa,South Africa,Thembinkosi Lorch,85,FALSE,FALSE
+2019-07-06,Nigeria,Cameroon,Nigeria,Odion Ighalo,19,FALSE,FALSE
+2019-07-06,Nigeria,Cameroon,Cameroon,Stéphane Bahoken,41,FALSE,FALSE
+2019-07-06,Nigeria,Cameroon,Cameroon,Clinton N'Jie,44,FALSE,FALSE
+2019-07-06,Nigeria,Cameroon,Nigeria,Odion Ighalo,63,FALSE,FALSE
+2019-07-06,Nigeria,Cameroon,Nigeria,Alex Iwobi,66,FALSE,FALSE
+2019-07-07,Algeria,Guinea,Algeria,Youcef Belaïli,24,FALSE,FALSE
+2019-07-07,Algeria,Guinea,Algeria,Riyad Mahrez,57,FALSE,FALSE
+2019-07-07,Algeria,Guinea,Algeria,Adam Ounas,82,FALSE,FALSE
 2019-07-07,Brazil,Peru,Brazil,Everton Soares,15,FALSE,FALSE
 2019-07-07,Brazil,Peru,Peru,Paolo Guerrero,44,FALSE,TRUE
 2019-07-07,Brazil,Peru,Brazil,Gabriel Jesus,45,FALSE,FALSE
 2019-07-07,Brazil,Peru,Brazil,Richarlison,90,FALSE,TRUE
+2019-07-07,Madagascar,DR Congo,Madagascar,Ibrahim Amada,9,FALSE,FALSE
+2019-07-07,Madagascar,DR Congo,DR Congo,Cédric Bakambu,21,FALSE,FALSE
+2019-07-07,Madagascar,DR Congo,Madagascar,Faneva Imà Andriatsima,77,FALSE,FALSE
+2019-07-07,Madagascar,DR Congo,DR Congo,Chancel Mbemba,90,FALSE,FALSE
+2019-07-08,Ghana,Tunisia,Tunisia,Taha Yassine Khenissi,73,FALSE,FALSE
+2019-07-08,Ghana,Tunisia,Ghana,Rami Bedoui,90,TRUE,FALSE
+2019-07-08,Mali,Ivory Coast,Ivory Coast,Wilfried Zaha,76,FALSE,FALSE
+2019-07-10,Nigeria,South Africa,Nigeria,Samuel Chukwueze,27,FALSE,FALSE
+2019-07-10,Nigeria,South Africa,South Africa,Bongani Zungu,71,FALSE,FALSE
+2019-07-10,Nigeria,South Africa,Nigeria,William Troost-Ekong,89,FALSE,FALSE
+2019-07-10,Senegal,Benin,Senegal,Idrissa Gueye,70,FALSE,FALSE
+2019-07-11,Ivory Coast,Algeria,Algeria,Sofiane Feghouli,20,FALSE,FALSE
+2019-07-11,Ivory Coast,Algeria,Ivory Coast,Jonathan Kodjia,62,FALSE,FALSE
+2019-07-11,Madagascar,Tunisia,Tunisia,Ferjani Sassi,52,FALSE,FALSE
+2019-07-11,Madagascar,Tunisia,Tunisia,Youssef Msakni,60,FALSE,FALSE
+2019-07-11,Madagascar,Tunisia,Tunisia,Naïm Sliti,90,FALSE,FALSE
+2019-07-14,Algeria,Nigeria,Algeria,William Troost-Ekong,40,TRUE,FALSE
+2019-07-14,Algeria,Nigeria,Nigeria,Odion Ighalo,72,FALSE,TRUE
+2019-07-14,Algeria,Nigeria,Algeria,Riyad Mahrez,90,FALSE,FALSE
+2019-07-14,Senegal,Tunisia,Senegal,Dylan Bronn,101,TRUE,FALSE
+2019-07-17,Tunisia,Nigeria,Nigeria,Odion Ighalo,3,FALSE,FALSE
+2019-07-19,Senegal,Algeria,Algeria,Baghdad Bounedjah,2,FALSE,FALSE
 2021-06-11,Italy,Turkey,Italy,Merih Demiral,53,TRUE,FALSE
 2021-06-11,Italy,Turkey,Italy,Ciro Immobile,66,FALSE,FALSE
 2021-06-11,Italy,Turkey,Italy,Lorenzo Insigne,79,FALSE,FALSE
@@ -6047,3 +7411,103 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-07-10,Brazil,Argentina,Argentina,Ángel Di María,22,FALSE,FALSE
 2021-07-11,England,Italy,England,Luke Shaw,2,FALSE,FALSE
 2021-07-11,England,Italy,Italy,Leonardo Bonucci,67,FALSE,FALSE
+2022-01-09,Cameroon,Burkina Faso,Burkina Faso,Gustavo Sangaré,24,FALSE,FALSE
+2022-01-09,Cameroon,Burkina Faso,Cameroon,Vincent Aboubakar,40,FALSE,TRUE
+2022-01-09,Cameroon,Burkina Faso,Cameroon,Vincent Aboubakar,45,FALSE,TRUE
+2022-01-09,Ethiopia,Cape Verde,Cape Verde,Júlio Tavares,45,FALSE,FALSE
+2022-01-10,Comoros,Gabon,Gabon,Aaron Boupendza,16,FALSE,FALSE
+2022-01-10,Guinea,Malawi,Guinea,Issiaga Sylla,35,FALSE,FALSE
+2022-01-10,Morocco,Ghana,Morocco,Sofiane Boufal,83,FALSE,FALSE
+2022-01-10,Senegal,Zimbabwe,Senegal,Sadio Mané,90,FALSE,TRUE
+2022-01-11,Nigeria,Egypt,Nigeria,Kelechi Iheanacho,30,FALSE,FALSE
+2022-01-12,Equatorial Guinea,Ivory Coast,Ivory Coast,Max Gradel,5,FALSE,FALSE
+2022-01-12,Mauritania,Gambia,Gambia,Ablie Jallow,10,FALSE,FALSE
+2022-01-12,Tunisia,Mali,Mali,Ibrahima Koné,48,FALSE,TRUE
+2022-01-13,Cameroon,Ethiopia,Ethiopia,Dawa Hotessa,4,FALSE,FALSE
+2022-01-13,Cameroon,Ethiopia,Cameroon,Karl Toko Ekambi,8,FALSE,FALSE
+2022-01-13,Cameroon,Ethiopia,Cameroon,Vincent Aboubakar,53,FALSE,FALSE
+2022-01-13,Cameroon,Ethiopia,Cameroon,Vincent Aboubakar,55,FALSE,FALSE
+2022-01-13,Cameroon,Ethiopia,Cameroon,Karl Toko Ekambi,68,FALSE,FALSE
+2022-01-13,Cape Verde,Burkina Faso,Burkina Faso,Hassane Bandé,39,FALSE,FALSE
+2022-01-14,Gabon,Ghana,Ghana,André Ayew,18,FALSE,FALSE
+2022-01-14,Gabon,Ghana,Gabon,Jim Allevinah,88,FALSE,FALSE
+2022-01-14,Malawi,Zimbabwe,Zimbabwe,Ishmael Wadi,38,FALSE,FALSE
+2022-01-14,Malawi,Zimbabwe,Malawi,Gabadinho Mhango,43,FALSE,FALSE
+2022-01-14,Malawi,Zimbabwe,Malawi,Gabadinho Mhango,58,FALSE,FALSE
+2022-01-14,Morocco,Comoros,Morocco,Selim Amallah,16,FALSE,FALSE
+2022-01-14,Morocco,Comoros,Morocco,Zakaria Aboukhlal,88,FALSE,FALSE
+2022-01-15,Guinea-Bissau,Egypt,Egypt,Mohamed Salah,69,FALSE,FALSE
+2022-01-15,Nigeria,Sudan,Nigeria,Samuel Chukwueze,3,FALSE,FALSE
+2022-01-15,Nigeria,Sudan,Nigeria,Taiwo Awoniyi,45,FALSE,FALSE
+2022-01-15,Nigeria,Sudan,Nigeria,Moses Simon,46,FALSE,FALSE
+2022-01-15,Nigeria,Sudan,Sudan,Walieldin Khedr,70,FALSE,TRUE
+2022-01-16,Algeria,Equatorial Guinea,Equatorial Guinea,Esteban Obiang,70,FALSE,FALSE
+2022-01-16,Gambia,Mali,Mali,Ibrahima Koné,79,FALSE,TRUE
+2022-01-16,Gambia,Mali,Gambia,Musa Barrow,90,FALSE,TRUE
+2022-01-16,Ivory Coast,Sierra Leone,Ivory Coast,Sébastien Haller,25,FALSE,FALSE
+2022-01-16,Ivory Coast,Sierra Leone,Sierra Leone,Musa Noah Kamara,55,FALSE,FALSE
+2022-01-16,Ivory Coast,Sierra Leone,Ivory Coast,Nicolas Pépé,65,FALSE,FALSE
+2022-01-16,Ivory Coast,Sierra Leone,Sierra Leone,Alhaji Kamara,90,FALSE,FALSE
+2022-01-16,Tunisia,Mauritania,Tunisia,Hamza Mathlouthi,4,FALSE,FALSE
+2022-01-16,Tunisia,Mauritania,Tunisia,Wahbi Khazri,9,FALSE,FALSE
+2022-01-16,Tunisia,Mauritania,Tunisia,Wahbi Khazri,64,FALSE,FALSE
+2022-01-16,Tunisia,Mauritania,Tunisia,Seifeddine Jaziri,66,FALSE,FALSE
+2022-01-17,Burkina Faso,Ethiopia,Burkina Faso,Cyrille Bayala,25,FALSE,FALSE
+2022-01-17,Burkina Faso,Ethiopia,Ethiopia,Getaneh Kebede,52,FALSE,TRUE
+2022-01-17,Cape Verde,Cameroon,Cameroon,Vincent Aboubakar,39,FALSE,FALSE
+2022-01-17,Cape Verde,Cameroon,Cape Verde,Garry Rodrigues,53,FALSE,FALSE
+2022-01-18,Gabon,Morocco,Gabon,Jim Allevinah,21,FALSE,FALSE
+2022-01-18,Gabon,Morocco,Morocco,Sofiane Boufal,74,FALSE,TRUE
+2022-01-18,Gabon,Morocco,Gabon,Nayef Aguerd,81,TRUE,FALSE
+2022-01-18,Gabon,Morocco,Morocco,Achraf Hakimi,84,FALSE,FALSE
+2022-01-18,Ghana,Comoros,Comoros,El Fardou Ben Nabouhane,4,FALSE,FALSE
+2022-01-18,Ghana,Comoros,Comoros,Ahmed Mogni,62,FALSE,FALSE
+2022-01-18,Ghana,Comoros,Ghana,Richmond Boakye,64,FALSE,FALSE
+2022-01-18,Ghana,Comoros,Ghana,Alexander Djiku,77,FALSE,FALSE
+2022-01-18,Ghana,Comoros,Comoros,Ahmed Mogni,85,FALSE,FALSE
+2022-01-18,Zimbabwe,Guinea,Zimbabwe,Knowledge Musona,26,FALSE,FALSE
+2022-01-18,Zimbabwe,Guinea,Zimbabwe,Kudakwashe Mahachi,43,FALSE,FALSE
+2022-01-18,Zimbabwe,Guinea,Guinea,Naby Keïta,49,FALSE,FALSE
+2022-01-19,Egypt,Sudan,Egypt,Mohamed Abdelmonem,35,FALSE,FALSE
+2022-01-19,Guinea-Bissau,Nigeria,Nigeria,Umar Sadiq,56,FALSE,FALSE
+2022-01-19,Guinea-Bissau,Nigeria,Nigeria,William Troost-Ekong,75,FALSE,FALSE
+2022-01-20,Gambia,Tunisia,Gambia,Ablie Jallow,90,FALSE,FALSE
+2022-01-20,Ivory Coast,Algeria,Ivory Coast,Franck Kessié,22,FALSE,FALSE
+2022-01-20,Ivory Coast,Algeria,Ivory Coast,Ibrahim Sangaré,39,FALSE,FALSE
+2022-01-20,Ivory Coast,Algeria,Ivory Coast,Nicolas Pépé,54,FALSE,FALSE
+2022-01-20,Ivory Coast,Algeria,Algeria,Sofiane Bendebka,73,FALSE,FALSE
+2022-01-20,Mali,Mauritania,Mali,Massadio Haïdara,2,FALSE,FALSE
+2022-01-20,Mali,Mauritania,Mali,Ibrahima Koné,49,FALSE,TRUE
+2022-01-20,Sierra Leone,Equatorial Guinea,Equatorial Guinea,Pablo Ganet,38,FALSE,FALSE
+2022-01-23,Burkina Faso,Gabon,Burkina Faso,Bertrand Traoré,28,FALSE,FALSE
+2022-01-23,Burkina Faso,Gabon,Gabon,Adama Guira,90,TRUE,FALSE
+2022-01-23,Nigeria,Tunisia,Tunisia,Youssef Msakni,47,FALSE,FALSE
+2022-01-24,Cameroon,Comoros,Cameroon,Karl Toko Ekambi,29,FALSE,FALSE
+2022-01-24,Cameroon,Comoros,Cameroon,Vincent Aboubakar,70,FALSE,FALSE
+2022-01-24,Cameroon,Comoros,Comoros,Youssouf M'Changama,81,FALSE,FALSE
+2022-01-24,Guinea,Gambia,Gambia,Musa Barrow,71,FALSE,FALSE
+2022-01-25,Morocco,Malawi,Malawi,Gabadinho Mhango,7,FALSE,FALSE
+2022-01-25,Morocco,Malawi,Morocco,Youssef En-Nesyri,45,FALSE,FALSE
+2022-01-25,Morocco,Malawi,Morocco,Achraf Hakimi,70,FALSE,FALSE
+2022-01-25,Senegal,Cape Verde,Senegal,Sadio Mané,63,FALSE,FALSE
+2022-01-25,Senegal,Cape Verde,Senegal,Bamba Dieng,90,FALSE,FALSE
+2022-01-29,Burkina Faso,Tunisia,Burkina Faso,Dango Ouattara,45,FALSE,FALSE
+2022-01-29,Gambia,Cameroon,Cameroon,Karl Toko Ekambi,50,FALSE,FALSE
+2022-01-29,Gambia,Cameroon,Cameroon,Karl Toko Ekambi,57,FALSE,FALSE
+2022-01-30,Egypt,Morocco,Morocco,Sofiane Boufal,7,FALSE,TRUE
+2022-01-30,Egypt,Morocco,Egypt,Mohamed Salah,53,FALSE,FALSE
+2022-01-30,Egypt,Morocco,Egypt,Trézéguet,100,FALSE,FALSE
+2022-01-30,Senegal,Equatorial Guinea,Senegal,Famara Diédhiou,28,FALSE,FALSE
+2022-01-30,Senegal,Equatorial Guinea,Equatorial Guinea,Jannick Buyla,57,FALSE,FALSE
+2022-01-30,Senegal,Equatorial Guinea,Senegal,Cheikhou Kouyaté,68,FALSE,FALSE
+2022-01-30,Senegal,Equatorial Guinea,Senegal,Ismaïla Sarr,79,FALSE,FALSE
+2022-02-02,Burkina Faso,Senegal,Senegal,Abdou Diallo,70,FALSE,FALSE
+2022-02-02,Burkina Faso,Senegal,Senegal,Idrissa Gueye,76,FALSE,FALSE
+2022-02-02,Burkina Faso,Senegal,Burkina Faso,Blati Touré,82,FALSE,FALSE
+2022-02-02,Burkina Faso,Senegal,Senegal,Sadio Mané,87,FALSE,FALSE
+2022-02-05,Burkina Faso,Cameroon,Burkina Faso,Steeve Yago,24,FALSE,FALSE
+2022-02-05,Burkina Faso,Cameroon,Burkina Faso,André Onana,43,TRUE,FALSE
+2022-02-05,Burkina Faso,Cameroon,Burkina Faso,Djibril Ouattara,49,FALSE,FALSE
+2022-02-05,Burkina Faso,Cameroon,Cameroon,Stéphane Bahoken,71,FALSE,FALSE
+2022-02-05,Burkina Faso,Cameroon,Cameroon,Vincent Aboubakar,85,FALSE,FALSE
+2022-02-05,Burkina Faso,Cameroon,Cameroon,Vincent Aboubakar,87,FALSE,FALSE
