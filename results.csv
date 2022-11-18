@@ -3761,6 +3761,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1955-03-13,Chile,Uruguay,2,2,Copa América,Santiago,Chile,FALSE
 1955-03-13,Ecuador,Peru,2,4,Copa América,Santiago,Chile,TRUE
 1955-03-13,Netherlands,Denmark,1,1,Friendly,Amsterdam,Netherlands,FALSE
+1955-03-16,Argentina,Peru,2,2,Copa América,Santiago,Chile,TRUE
 1955-03-16,Ecuador,Paraguay,0,2,Copa América,Santiago,Chile,TRUE
 1955-03-17,Spain,France,1,2,Friendly,Madrid,Spain,FALSE
 1955-03-20,Chile,Paraguay,5,0,Copa América,Santiago,Chile,FALSE
@@ -3776,7 +3777,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1955-04-03,Netherlands,Belgium,1,0,Friendly,Amsterdam,Netherlands,FALSE
 1955-04-20,Northern Ireland,Wales,2,3,British Championship,Belfast,Northern Ireland,FALSE
 1955-04-24,Austria,Hungary,2,2,International Cup,Vienna,Austria,FALSE
-1955-03-16,Argentina,Peru,2,2,Copa América,Santiago,Chile,TRUE
 1955-05-01,Republic of Ireland,Netherlands,1,0,Friendly,Dublin,Republic of Ireland,FALSE
 1955-05-01,Switzerland,Austria,2,3,International Cup,Berne,Switzerland,FALSE
 1955-05-04,Scotland,Portugal,3,0,Friendly,Glasgow,Scotland,FALSE
