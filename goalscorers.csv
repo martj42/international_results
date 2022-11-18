@@ -3823,6 +3823,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1996-06-26,England,Germany,Germany,Stefan Kuntz,16,FALSE,FALSE
 1996-06-30,Czech Republic,Germany,Czech Republic,Patrik Berger,59,FALSE,TRUE
 1996-06-30,Czech Republic,Germany,Germany,Oliver Bierhoff,73,FALSE,FALSE
+1996-06-30,Czech Republic,Germany,Germany,Oliver Bierhoff,95,FALSE,FALSE
 1997-06-11,Chile,Paraguay,Paraguay,Roberto Acuña,28,FALSE,FALSE
 1997-06-12,Bolivia,Venezuela,Bolivia,Milton Coimbra,60,FALSE,FALSE
 1997-06-12,Peru,Uruguay,Peru,Martín Hidalgo,75,FALSE,FALSE
@@ -4022,6 +4023,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1998-06-27,Brazil,Chile,Chile,Marcelo Salas,70,FALSE,FALSE
 1998-06-27,Brazil,Chile,Brazil,Ronaldo,72,FALSE,FALSE
 1998-06-27,Italy,Norway,Italy,Christian Vieri,18,FALSE,FALSE
+1998-06-28,France,Paraguay,France,Laurent Blanc,114,FALSE,FALSE
 1998-06-28,Nigeria,Denmark,Denmark,Peter Møller,3,FALSE,FALSE
 1998-06-28,Nigeria,Denmark,Denmark,Brian Laudrup,12,FALSE,FALSE
 1998-06-28,Nigeria,Denmark,Denmark,Ebbe Sand,58,FALSE,FALSE
@@ -4215,8 +4217,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2000-06-25,Spain,France,France,Youri Djorkaeff,44,FALSE,FALSE
 2000-06-28,France,Portugal,Portugal,Nuno Gomes,19,FALSE,FALSE
 2000-06-28,France,Portugal,France,Thierry Henry,51,FALSE,FALSE
+2000-06-28,France,Portugal,France,Zinedine Zidane,117,FALSE,FALSE
 2000-07-02,France,Italy,Italy,Marco Delvecchio,55,FALSE,FALSE
 2000-07-02,France,Italy,France,Sylvain Wiltord,90,FALSE,FALSE
+2000-07-02,France,Italy,France,David Trezeguet,103,FALSE,FALSE
 2001-07-11,Colombia,Venezuela,Colombia,Freddy Grisales,15,FALSE,FALSE
 2001-07-11,Colombia,Venezuela,Colombia,Víctor Aristizábal,59,FALSE,TRUE
 2001-07-11,Ecuador,Chile,Chile,Reinaldo Navia,29,FALSE,FALSE
@@ -4415,6 +4419,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2002-06-16,Spain,Republic of Ireland,Republic of Ireland,Robbie Keane,90,FALSE,TRUE
 2002-06-16,Sweden,Senegal,Sweden,Henrik Larsson,11,FALSE,FALSE
 2002-06-16,Sweden,Senegal,Senegal,Henri Camara,37,FALSE,FALSE
+2002-06-16,Sweden,Senegal,Senegal,Henri Camara,104,FALSE,FALSE
 2002-06-17,Brazil,Belgium,Brazil,Rivaldo,67,FALSE,FALSE
 2002-06-17,Brazil,Belgium,Brazil,Ronaldo,87,FALSE,FALSE
 2002-06-17,Mexico,United States,United States,Brian McBride,8,FALSE,FALSE
@@ -4422,10 +4427,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2002-06-18,Japan,Turkey,Turkey,Ümit Davala,12,FALSE,FALSE
 2002-06-18,South Korea,Italy,Italy,Christian Vieri,18,FALSE,FALSE
 2002-06-18,South Korea,Italy,South Korea,Seol Ki-Hyeon,88,FALSE,FALSE
+2002-06-18,South Korea,Italy,South Korea,Ahn Jung-hwan,117,FALSE,FALSE
 2002-06-21,England,Brazil,England,Michael Owen,23,FALSE,FALSE
 2002-06-21,England,Brazil,Brazil,Rivaldo,45,FALSE,FALSE
 2002-06-21,England,Brazil,Brazil,Ronaldinho,50,FALSE,FALSE
 2002-06-21,Germany,United States,Germany,Michael Ballack,39,FALSE,FALSE
+2002-06-22,Senegal,Turkey,Turkey,İlhan Mansız,94,FALSE,FALSE
 2002-06-25,South Korea,Germany,Germany,Michael Ballack,75,FALSE,FALSE
 2002-06-26,Brazil,Turkey,Brazil,Ronaldo,49,FALSE,FALSE
 2002-06-29,South Korea,Turkey,Turkey,Hakan Şükür,1,FALSE,FALSE
@@ -4510,6 +4517,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2004-06-30,Portugal,Netherlands,Portugal,Cristiano Ronaldo,26,FALSE,FALSE
 2004-06-30,Portugal,Netherlands,Portugal,Maniche,58,FALSE,FALSE
 2004-06-30,Portugal,Netherlands,Netherlands,Jorge Andrade,63,TRUE,FALSE
+2004-07-01,Greece,Czech Republic,Greece,Traianos Dellas,105,FALSE,FALSE
 2004-07-04,Portugal,Greece,Greece,Angelos Charisteas,57,FALSE,FALSE
 2004-07-06,Peru,Bolivia,Bolivia,Joaquín Botero,35,FALSE,FALSE
 2004-07-06,Peru,Bolivia,Bolivia,Lorgio Álvarez,57,FALSE,FALSE
@@ -5175,276 +5183,140 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2012-07-01,Spain,Italy,Spain,Fernando Torres,84,FALSE,FALSE
 2012-07-01,Spain,Italy,Spain,Juan Mata,88,FALSE,FALSE
 2014-06-12,Brazil,Croatia,Croatia,Marcelo,12,TRUE,FALSE
-2014-06-12,Brazil,Croatia,Croatia,Marcelo,12,TRUE,FALSE
-2014-06-12,Brazil,Croatia,Brazil,Neymar,29,FALSE,FALSE
 2014-06-12,Brazil,Croatia,Brazil,Neymar,29,FALSE,FALSE
 2014-06-12,Brazil,Croatia,Brazil,Neymar,71,FALSE,TRUE
-2014-06-12,Brazil,Croatia,Brazil,Neymar,71,FALSE,TRUE
-2014-06-12,Brazil,Croatia,Brazil,Oscar,90,FALSE,FALSE
 2014-06-12,Brazil,Croatia,Brazil,Oscar,90,FALSE,FALSE
 2014-06-13,Chile,Australia,Chile,Alexis Sánchez,12,FALSE,FALSE
-2014-06-13,Chile,Australia,Chile,Alexis Sánchez,12,FALSE,FALSE
-2014-06-13,Chile,Australia,Chile,Jorge Valdivia,14,FALSE,FALSE
 2014-06-13,Chile,Australia,Chile,Jorge Valdivia,14,FALSE,FALSE
 2014-06-13,Chile,Australia,Australia,Tim Cahill,35,FALSE,FALSE
-2014-06-13,Chile,Australia,Australia,Tim Cahill,35,FALSE,FALSE
-2014-06-13,Chile,Australia,Chile,Jean Beausejour,90,FALSE,FALSE
 2014-06-13,Chile,Australia,Chile,Jean Beausejour,90,FALSE,FALSE
 2014-06-13,Mexico,Cameroon,Mexico,Oribe Peralta,61,FALSE,FALSE
-2014-06-13,Mexico,Cameroon,Mexico,Oribe Peralta,61,FALSE,FALSE
-2014-06-13,Spain,Netherlands,Spain,Xabi Alonso,27,FALSE,TRUE
 2014-06-13,Spain,Netherlands,Spain,Xabi Alonso,27,FALSE,TRUE
 2014-06-13,Spain,Netherlands,Netherlands,Robin van Persie,44,FALSE,FALSE
-2014-06-13,Spain,Netherlands,Netherlands,Robin van Persie,44,FALSE,FALSE
-2014-06-13,Spain,Netherlands,Netherlands,Arjen Robben,53,FALSE,FALSE
 2014-06-13,Spain,Netherlands,Netherlands,Arjen Robben,53,FALSE,FALSE
 2014-06-13,Spain,Netherlands,Netherlands,Stefan de Vrij,64,FALSE,FALSE
-2014-06-13,Spain,Netherlands,Netherlands,Stefan de Vrij,64,FALSE,FALSE
-2014-06-13,Spain,Netherlands,Netherlands,Robin van Persie,72,FALSE,FALSE
 2014-06-13,Spain,Netherlands,Netherlands,Robin van Persie,72,FALSE,FALSE
 2014-06-13,Spain,Netherlands,Netherlands,Arjen Robben,80,FALSE,FALSE
-2014-06-13,Spain,Netherlands,Netherlands,Arjen Robben,80,FALSE,FALSE
-2014-06-14,Colombia,Greece,Colombia,Pablo Armero,5,FALSE,FALSE
 2014-06-14,Colombia,Greece,Colombia,Pablo Armero,5,FALSE,FALSE
 2014-06-14,Colombia,Greece,Colombia,Teófilo Gutiérrez,58,FALSE,FALSE
-2014-06-14,Colombia,Greece,Colombia,Teófilo Gutiérrez,58,FALSE,FALSE
-2014-06-14,Colombia,Greece,Colombia,James Rodríguez,90,FALSE,FALSE
 2014-06-14,Colombia,Greece,Colombia,James Rodríguez,90,FALSE,FALSE
 2014-06-14,England,Italy,Italy,Claudio Marchisio,35,FALSE,FALSE
-2014-06-14,England,Italy,Italy,Claudio Marchisio,35,FALSE,FALSE
-2014-06-14,England,Italy,England,Daniel Sturridge,37,FALSE,FALSE
 2014-06-14,England,Italy,England,Daniel Sturridge,37,FALSE,FALSE
 2014-06-14,England,Italy,Italy,Mario Balotelli,50,FALSE,FALSE
-2014-06-14,England,Italy,Italy,Mario Balotelli,50,FALSE,FALSE
-2014-06-14,Ivory Coast,Japan,Japan,Keisuke Honda,16,FALSE,FALSE
 2014-06-14,Ivory Coast,Japan,Japan,Keisuke Honda,16,FALSE,FALSE
 2014-06-14,Ivory Coast,Japan,Ivory Coast,Wilfried Bony,64,FALSE,FALSE
-2014-06-14,Ivory Coast,Japan,Ivory Coast,Wilfried Bony,64,FALSE,FALSE
-2014-06-14,Ivory Coast,Japan,Ivory Coast,Gervinho,66,FALSE,FALSE
 2014-06-14,Ivory Coast,Japan,Ivory Coast,Gervinho,66,FALSE,FALSE
 2014-06-14,Uruguay,Costa Rica,Uruguay,Edinson Cavani,24,FALSE,TRUE
-2014-06-14,Uruguay,Costa Rica,Uruguay,Edinson Cavani,24,FALSE,TRUE
-2014-06-14,Uruguay,Costa Rica,Costa Rica,Joel Campbell,54,FALSE,FALSE
 2014-06-14,Uruguay,Costa Rica,Costa Rica,Joel Campbell,54,FALSE,FALSE
 2014-06-14,Uruguay,Costa Rica,Costa Rica,Óscar Duarte,57,FALSE,FALSE
-2014-06-14,Uruguay,Costa Rica,Costa Rica,Óscar Duarte,57,FALSE,FALSE
-2014-06-14,Uruguay,Costa Rica,Costa Rica,Marco Ureña,84,FALSE,FALSE
 2014-06-14,Uruguay,Costa Rica,Costa Rica,Marco Ureña,84,FALSE,FALSE
 2014-06-15,Argentina,Bosnia and Herzegovina,Argentina,Sead Kolašinac,3,TRUE,FALSE
-2014-06-15,Argentina,Bosnia and Herzegovina,Argentina,Sead Kolašinac,3,TRUE,FALSE
-2014-06-15,Argentina,Bosnia and Herzegovina,Argentina,Lionel Messi,65,FALSE,FALSE
 2014-06-15,Argentina,Bosnia and Herzegovina,Argentina,Lionel Messi,65,FALSE,FALSE
 2014-06-15,Argentina,Bosnia and Herzegovina,Bosnia and Herzegovina,Vedad Ibišević,85,FALSE,FALSE
-2014-06-15,Argentina,Bosnia and Herzegovina,Bosnia and Herzegovina,Vedad Ibišević,85,FALSE,FALSE
-2014-06-15,France,Honduras,France,Karim Benzema,45,FALSE,TRUE
 2014-06-15,France,Honduras,France,Karim Benzema,45,FALSE,TRUE
 2014-06-15,France,Honduras,France,Noel Valladares,48,TRUE,FALSE
-2014-06-15,France,Honduras,France,Noel Valladares,48,TRUE,FALSE
-2014-06-15,France,Honduras,France,Karim Benzema,72,FALSE,FALSE
 2014-06-15,France,Honduras,France,Karim Benzema,72,FALSE,FALSE
 2014-06-15,Switzerland,Ecuador,Ecuador,Enner Valencia,22,FALSE,FALSE
-2014-06-15,Switzerland,Ecuador,Ecuador,Enner Valencia,22,FALSE,FALSE
-2014-06-15,Switzerland,Ecuador,Switzerland,Admir Mehmedi,48,FALSE,FALSE
 2014-06-15,Switzerland,Ecuador,Switzerland,Admir Mehmedi,48,FALSE,FALSE
 2014-06-15,Switzerland,Ecuador,Switzerland,Haris Seferovic,90,FALSE,FALSE
-2014-06-15,Switzerland,Ecuador,Switzerland,Haris Seferovic,90,FALSE,FALSE
-2014-06-16,Germany,Portugal,Germany,Thomas Müller,12,FALSE,TRUE
 2014-06-16,Germany,Portugal,Germany,Thomas Müller,12,FALSE,TRUE
 2014-06-16,Germany,Portugal,Germany,Mats Hummels,32,FALSE,FALSE
-2014-06-16,Germany,Portugal,Germany,Mats Hummels,32,FALSE,FALSE
-2014-06-16,Germany,Portugal,Germany,Thomas Müller,45,FALSE,FALSE
 2014-06-16,Germany,Portugal,Germany,Thomas Müller,45,FALSE,FALSE
 2014-06-16,Germany,Portugal,Germany,Thomas Müller,78,FALSE,FALSE
-2014-06-16,Germany,Portugal,Germany,Thomas Müller,78,FALSE,FALSE
-2014-06-16,Ghana,United States,United States,Clint Dempsey,1,FALSE,FALSE
 2014-06-16,Ghana,United States,United States,Clint Dempsey,1,FALSE,FALSE
 2014-06-16,Ghana,United States,Ghana,André Ayew,82,FALSE,FALSE
-2014-06-16,Ghana,United States,Ghana,André Ayew,82,FALSE,FALSE
-2014-06-16,Ghana,United States,United States,John Brooks,86,FALSE,FALSE
 2014-06-16,Ghana,United States,United States,John Brooks,86,FALSE,FALSE
 2014-06-17,Belgium,Algeria,Algeria,Sofiane Feghouli,25,FALSE,TRUE
-2014-06-17,Belgium,Algeria,Algeria,Sofiane Feghouli,25,FALSE,TRUE
-2014-06-17,Belgium,Algeria,Belgium,Marouane Fellaini,70,FALSE,FALSE
 2014-06-17,Belgium,Algeria,Belgium,Marouane Fellaini,70,FALSE,FALSE
 2014-06-17,Belgium,Algeria,Belgium,Dries Mertens,80,FALSE,FALSE
-2014-06-17,Belgium,Algeria,Belgium,Dries Mertens,80,FALSE,FALSE
-2014-06-17,Russia,South Korea,South Korea,Lee Keun-ho,68,FALSE,FALSE
 2014-06-17,Russia,South Korea,South Korea,Lee Keun-ho,68,FALSE,FALSE
 2014-06-17,Russia,South Korea,Russia,Aleksandr Kerzhakov,74,FALSE,FALSE
-2014-06-17,Russia,South Korea,Russia,Aleksandr Kerzhakov,74,FALSE,FALSE
-2014-06-18,Australia,Netherlands,Netherlands,Arjen Robben,20,FALSE,FALSE
 2014-06-18,Australia,Netherlands,Netherlands,Arjen Robben,20,FALSE,FALSE
 2014-06-18,Australia,Netherlands,Australia,Tim Cahill,21,FALSE,FALSE
-2014-06-18,Australia,Netherlands,Australia,Tim Cahill,21,FALSE,FALSE
-2014-06-18,Australia,Netherlands,Australia,Mile Jedinak,54,FALSE,TRUE
 2014-06-18,Australia,Netherlands,Australia,Mile Jedinak,54,FALSE,TRUE
 2014-06-18,Australia,Netherlands,Netherlands,Robin van Persie,58,FALSE,FALSE
-2014-06-18,Australia,Netherlands,Netherlands,Robin van Persie,58,FALSE,FALSE
-2014-06-18,Australia,Netherlands,Netherlands,Memphis Depay,68,FALSE,FALSE
 2014-06-18,Australia,Netherlands,Netherlands,Memphis Depay,68,FALSE,FALSE
 2014-06-18,Cameroon,Croatia,Croatia,Ivica Olić,11,FALSE,FALSE
-2014-06-18,Cameroon,Croatia,Croatia,Ivica Olić,11,FALSE,FALSE
-2014-06-18,Cameroon,Croatia,Croatia,Ivan Perišić,48,FALSE,FALSE
 2014-06-18,Cameroon,Croatia,Croatia,Ivan Perišić,48,FALSE,FALSE
 2014-06-18,Cameroon,Croatia,Croatia,Mario Mandžukić,61,FALSE,FALSE
-2014-06-18,Cameroon,Croatia,Croatia,Mario Mandžukić,61,FALSE,FALSE
-2014-06-18,Cameroon,Croatia,Croatia,Mario Mandžukić,73,FALSE,FALSE
 2014-06-18,Cameroon,Croatia,Croatia,Mario Mandžukić,73,FALSE,FALSE
 2014-06-18,Spain,Chile,Chile,Eduardo Vargas,20,FALSE,FALSE
-2014-06-18,Spain,Chile,Chile,Eduardo Vargas,20,FALSE,FALSE
-2014-06-18,Spain,Chile,Chile,Charles Aránguiz,43,FALSE,FALSE
 2014-06-18,Spain,Chile,Chile,Charles Aránguiz,43,FALSE,FALSE
 2014-06-19,Colombia,Ivory Coast,Colombia,James Rodríguez,64,FALSE,FALSE
-2014-06-19,Colombia,Ivory Coast,Colombia,James Rodríguez,64,FALSE,FALSE
-2014-06-19,Colombia,Ivory Coast,Colombia,Juan Fernando Quintero,70,FALSE,FALSE
 2014-06-19,Colombia,Ivory Coast,Colombia,Juan Fernando Quintero,70,FALSE,FALSE
 2014-06-19,Colombia,Ivory Coast,Ivory Coast,Gervinho,73,FALSE,FALSE
-2014-06-19,Colombia,Ivory Coast,Ivory Coast,Gervinho,73,FALSE,FALSE
-2014-06-19,Uruguay,England,Uruguay,Luis Suárez,39,FALSE,FALSE
 2014-06-19,Uruguay,England,Uruguay,Luis Suárez,39,FALSE,FALSE
 2014-06-19,Uruguay,England,England,Wayne Rooney,75,FALSE,FALSE
-2014-06-19,Uruguay,England,England,Wayne Rooney,75,FALSE,FALSE
-2014-06-19,Uruguay,England,Uruguay,Luis Suárez,85,FALSE,FALSE
 2014-06-19,Uruguay,England,Uruguay,Luis Suárez,85,FALSE,FALSE
 2014-06-20,Honduras,Ecuador,Honduras,Carlo Costly,31,FALSE,FALSE
-2014-06-20,Honduras,Ecuador,Honduras,Carlo Costly,31,FALSE,FALSE
-2014-06-20,Honduras,Ecuador,Ecuador,Enner Valencia,34,FALSE,FALSE
 2014-06-20,Honduras,Ecuador,Ecuador,Enner Valencia,34,FALSE,FALSE
 2014-06-20,Honduras,Ecuador,Ecuador,Enner Valencia,65,FALSE,FALSE
-2014-06-20,Honduras,Ecuador,Ecuador,Enner Valencia,65,FALSE,FALSE
-2014-06-20,Italy,Costa Rica,Costa Rica,Bryan Ruiz,44,FALSE,FALSE
 2014-06-20,Italy,Costa Rica,Costa Rica,Bryan Ruiz,44,FALSE,FALSE
 2014-06-20,Switzerland,France,France,Olivier Giroud,17,FALSE,FALSE
-2014-06-20,Switzerland,France,France,Olivier Giroud,17,FALSE,FALSE
-2014-06-20,Switzerland,France,France,Blaise Matuidi,18,FALSE,FALSE
 2014-06-20,Switzerland,France,France,Blaise Matuidi,18,FALSE,FALSE
 2014-06-20,Switzerland,France,France,Mathieu Valbuena,40,FALSE,FALSE
-2014-06-20,Switzerland,France,France,Mathieu Valbuena,40,FALSE,FALSE
-2014-06-20,Switzerland,France,France,Karim Benzema,67,FALSE,FALSE
 2014-06-20,Switzerland,France,France,Karim Benzema,67,FALSE,FALSE
 2014-06-20,Switzerland,France,France,Moussa Sissoko,73,FALSE,FALSE
-2014-06-20,Switzerland,France,France,Moussa Sissoko,73,FALSE,FALSE
-2014-06-20,Switzerland,France,Switzerland,Blerim Džemaili,81,FALSE,FALSE
 2014-06-20,Switzerland,France,Switzerland,Blerim Džemaili,81,FALSE,FALSE
 2014-06-20,Switzerland,France,Switzerland,Granit Xhaka,87,FALSE,FALSE
-2014-06-20,Switzerland,France,Switzerland,Granit Xhaka,87,FALSE,FALSE
-2014-06-21,Argentina,Iran,Argentina,Lionel Messi,90,FALSE,FALSE
 2014-06-21,Argentina,Iran,Argentina,Lionel Messi,90,FALSE,FALSE
 2014-06-21,Germany,Ghana,Germany,Mario Götze,51,FALSE,FALSE
-2014-06-21,Germany,Ghana,Germany,Mario Götze,51,FALSE,FALSE
-2014-06-21,Germany,Ghana,Ghana,André Ayew,54,FALSE,FALSE
 2014-06-21,Germany,Ghana,Ghana,André Ayew,54,FALSE,FALSE
 2014-06-21,Germany,Ghana,Ghana,Asamoah Gyan,63,FALSE,FALSE
-2014-06-21,Germany,Ghana,Ghana,Asamoah Gyan,63,FALSE,FALSE
-2014-06-21,Germany,Ghana,Germany,Miroslav Klose,71,FALSE,FALSE
 2014-06-21,Germany,Ghana,Germany,Miroslav Klose,71,FALSE,FALSE
 2014-06-21,Nigeria,Bosnia and Herzegovina,Nigeria,Peter Odemwingie,29,FALSE,FALSE
-2014-06-21,Nigeria,Bosnia and Herzegovina,Nigeria,Peter Odemwingie,29,FALSE,FALSE
-2014-06-22,Belgium,Russia,Belgium,Divock Origi,88,FALSE,FALSE
 2014-06-22,Belgium,Russia,Belgium,Divock Origi,88,FALSE,FALSE
 2014-06-22,South Korea,Algeria,Algeria,Islam Slimani,26,FALSE,FALSE
-2014-06-22,South Korea,Algeria,Algeria,Islam Slimani,26,FALSE,FALSE
-2014-06-22,South Korea,Algeria,Algeria,Rafik Halliche,28,FALSE,FALSE
 2014-06-22,South Korea,Algeria,Algeria,Rafik Halliche,28,FALSE,FALSE
 2014-06-22,South Korea,Algeria,Algeria,Abdelmoumene Djabou,38,FALSE,FALSE
-2014-06-22,South Korea,Algeria,Algeria,Abdelmoumene Djabou,38,FALSE,FALSE
-2014-06-22,South Korea,Algeria,South Korea,Son Heung-min,50,FALSE,FALSE
 2014-06-22,South Korea,Algeria,South Korea,Son Heung-min,50,FALSE,FALSE
 2014-06-22,South Korea,Algeria,Algeria,Yacine Brahimi,62,FALSE,FALSE
-2014-06-22,South Korea,Algeria,Algeria,Yacine Brahimi,62,FALSE,FALSE
-2014-06-22,South Korea,Algeria,South Korea,Koo Ja-cheol,72,FALSE,FALSE
 2014-06-22,South Korea,Algeria,South Korea,Koo Ja-cheol,72,FALSE,FALSE
 2014-06-22,United States,Portugal,Portugal,Nani,5,FALSE,FALSE
-2014-06-22,United States,Portugal,Portugal,Nani,5,FALSE,FALSE
-2014-06-22,United States,Portugal,United States,Jermaine Jones,64,FALSE,FALSE
 2014-06-22,United States,Portugal,United States,Jermaine Jones,64,FALSE,FALSE
 2014-06-22,United States,Portugal,United States,Clint Dempsey,81,FALSE,FALSE
-2014-06-22,United States,Portugal,United States,Clint Dempsey,81,FALSE,FALSE
-2014-06-22,United States,Portugal,Portugal,Silvestre Varela,90,FALSE,FALSE
 2014-06-22,United States,Portugal,Portugal,Silvestre Varela,90,FALSE,FALSE
 2014-06-23,Australia,Spain,Spain,David Villa,36,FALSE,FALSE
-2014-06-23,Australia,Spain,Spain,David Villa,36,FALSE,FALSE
-2014-06-23,Australia,Spain,Spain,Fernando Torres,69,FALSE,FALSE
 2014-06-23,Australia,Spain,Spain,Fernando Torres,69,FALSE,FALSE
 2014-06-23,Australia,Spain,Spain,Juan Mata,82,FALSE,FALSE
-2014-06-23,Australia,Spain,Spain,Juan Mata,82,FALSE,FALSE
-2014-06-23,Brazil,Cameroon,Brazil,Neymar,17,FALSE,FALSE
 2014-06-23,Brazil,Cameroon,Brazil,Neymar,17,FALSE,FALSE
 2014-06-23,Brazil,Cameroon,Cameroon,Joël Matip,26,FALSE,FALSE
-2014-06-23,Brazil,Cameroon,Cameroon,Joël Matip,26,FALSE,FALSE
-2014-06-23,Brazil,Cameroon,Brazil,Neymar,35,FALSE,FALSE
 2014-06-23,Brazil,Cameroon,Brazil,Neymar,35,FALSE,FALSE
 2014-06-23,Brazil,Cameroon,Brazil,Fred,49,FALSE,FALSE
-2014-06-23,Brazil,Cameroon,Brazil,Fred,49,FALSE,FALSE
-2014-06-23,Brazil,Cameroon,Brazil,Fernandinho,84,FALSE,FALSE
 2014-06-23,Brazil,Cameroon,Brazil,Fernandinho,84,FALSE,FALSE
 2014-06-23,Croatia,Mexico,Mexico,Rafael Márquez,72,FALSE,FALSE
-2014-06-23,Croatia,Mexico,Mexico,Rafael Márquez,72,FALSE,FALSE
-2014-06-23,Croatia,Mexico,Mexico,Andrés Guardado,75,FALSE,FALSE
 2014-06-23,Croatia,Mexico,Mexico,Andrés Guardado,75,FALSE,FALSE
 2014-06-23,Croatia,Mexico,Mexico,Javier Hernández,82,FALSE,FALSE
-2014-06-23,Croatia,Mexico,Mexico,Javier Hernández,82,FALSE,FALSE
-2014-06-23,Croatia,Mexico,Croatia,Ivan Perišić,87,FALSE,FALSE
 2014-06-23,Croatia,Mexico,Croatia,Ivan Perišić,87,FALSE,FALSE
 2014-06-23,Netherlands,Chile,Netherlands,Leroy Fer,77,FALSE,FALSE
-2014-06-23,Netherlands,Chile,Netherlands,Leroy Fer,77,FALSE,FALSE
-2014-06-23,Netherlands,Chile,Netherlands,Memphis Depay,90,FALSE,FALSE
 2014-06-23,Netherlands,Chile,Netherlands,Memphis Depay,90,FALSE,FALSE
 2014-06-24,Greece,Ivory Coast,Greece,Andreas Samaris,42,FALSE,FALSE
-2014-06-24,Greece,Ivory Coast,Greece,Andreas Samaris,42,FALSE,FALSE
-2014-06-24,Greece,Ivory Coast,Ivory Coast,Wilfried Bony,74,FALSE,FALSE
 2014-06-24,Greece,Ivory Coast,Ivory Coast,Wilfried Bony,74,FALSE,FALSE
 2014-06-24,Greece,Ivory Coast,Greece,Georgios Samaras,90,FALSE,TRUE
-2014-06-24,Greece,Ivory Coast,Greece,Georgios Samaras,90,FALSE,TRUE
-2014-06-24,Italy,Uruguay,Uruguay,Diego Godín,81,FALSE,FALSE
 2014-06-24,Italy,Uruguay,Uruguay,Diego Godín,81,FALSE,FALSE
 2014-06-24,Japan,Colombia,Colombia,Juan Cuadrado,17,FALSE,TRUE
-2014-06-24,Japan,Colombia,Colombia,Juan Cuadrado,17,FALSE,TRUE
-2014-06-24,Japan,Colombia,Japan,Shinji Okazaki,45,FALSE,FALSE
 2014-06-24,Japan,Colombia,Japan,Shinji Okazaki,45,FALSE,FALSE
 2014-06-24,Japan,Colombia,Colombia,Jackson Martínez,55,FALSE,FALSE
-2014-06-24,Japan,Colombia,Colombia,Jackson Martínez,55,FALSE,FALSE
-2014-06-24,Japan,Colombia,Colombia,Jackson Martínez,82,FALSE,FALSE
 2014-06-24,Japan,Colombia,Colombia,Jackson Martínez,82,FALSE,FALSE
 2014-06-24,Japan,Colombia,Colombia,James Rodríguez,90,FALSE,FALSE
-2014-06-24,Japan,Colombia,Colombia,James Rodríguez,90,FALSE,FALSE
-2014-06-25,Bosnia and Herzegovina,Iran,Bosnia and Herzegovina,Edin Džeko,23,FALSE,FALSE
 2014-06-25,Bosnia and Herzegovina,Iran,Bosnia and Herzegovina,Edin Džeko,23,FALSE,FALSE
 2014-06-25,Bosnia and Herzegovina,Iran,Bosnia and Herzegovina,Miralem Pjanić,59,FALSE,FALSE
-2014-06-25,Bosnia and Herzegovina,Iran,Bosnia and Herzegovina,Miralem Pjanić,59,FALSE,FALSE
-2014-06-25,Bosnia and Herzegovina,Iran,Iran,Reza Ghoochannejhad,82,FALSE,FALSE
 2014-06-25,Bosnia and Herzegovina,Iran,Iran,Reza Ghoochannejhad,82,FALSE,FALSE
 2014-06-25,Bosnia and Herzegovina,Iran,Bosnia and Herzegovina,Avdija Vršajević,83,FALSE,FALSE
-2014-06-25,Bosnia and Herzegovina,Iran,Bosnia and Herzegovina,Avdija Vršajević,83,FALSE,FALSE
-2014-06-25,Honduras,Switzerland,Switzerland,Xherdan Shaqiri,6,FALSE,FALSE
 2014-06-25,Honduras,Switzerland,Switzerland,Xherdan Shaqiri,6,FALSE,FALSE
 2014-06-25,Honduras,Switzerland,Switzerland,Xherdan Shaqiri,31,FALSE,FALSE
-2014-06-25,Honduras,Switzerland,Switzerland,Xherdan Shaqiri,31,FALSE,FALSE
-2014-06-25,Honduras,Switzerland,Switzerland,Xherdan Shaqiri,71,FALSE,FALSE
 2014-06-25,Honduras,Switzerland,Switzerland,Xherdan Shaqiri,71,FALSE,FALSE
 2014-06-25,Nigeria,Argentina,Argentina,Lionel Messi,3,FALSE,FALSE
-2014-06-25,Nigeria,Argentina,Argentina,Lionel Messi,3,FALSE,FALSE
-2014-06-25,Nigeria,Argentina,Nigeria,Ahmed Musa,4,FALSE,FALSE
 2014-06-25,Nigeria,Argentina,Nigeria,Ahmed Musa,4,FALSE,FALSE
 2014-06-25,Nigeria,Argentina,Argentina,Lionel Messi,45,FALSE,FALSE
-2014-06-25,Nigeria,Argentina,Argentina,Lionel Messi,45,FALSE,FALSE
-2014-06-25,Nigeria,Argentina,Nigeria,Ahmed Musa,47,FALSE,FALSE
 2014-06-25,Nigeria,Argentina,Nigeria,Ahmed Musa,47,FALSE,FALSE
 2014-06-25,Nigeria,Argentina,Argentina,Marcos Rojo,50,FALSE,FALSE
-2014-06-25,Nigeria,Argentina,Argentina,Marcos Rojo,50,FALSE,FALSE
-2014-06-26,Algeria,Russia,Russia,Aleksandr Kokorin,6,FALSE,FALSE
 2014-06-26,Algeria,Russia,Russia,Aleksandr Kokorin,6,FALSE,FALSE
 2014-06-26,Algeria,Russia,Algeria,Islam Slimani,60,FALSE,FALSE
-2014-06-26,Algeria,Russia,Algeria,Islam Slimani,60,FALSE,FALSE
-2014-06-26,Portugal,Ghana,Portugal,John Boye,31,TRUE,FALSE
 2014-06-26,Portugal,Ghana,Portugal,John Boye,31,TRUE,FALSE
 2014-06-26,Portugal,Ghana,Ghana,Asamoah Gyan,57,FALSE,FALSE
-2014-06-26,Portugal,Ghana,Ghana,Asamoah Gyan,57,FALSE,FALSE
-2014-06-26,Portugal,Ghana,Portugal,Cristiano Ronaldo,80,FALSE,FALSE
 2014-06-26,Portugal,Ghana,Portugal,Cristiano Ronaldo,80,FALSE,FALSE
 2014-06-26,South Korea,Belgium,Belgium,Jan Vertonghen,78,FALSE,FALSE
-2014-06-26,South Korea,Belgium,Belgium,Jan Vertonghen,78,FALSE,FALSE
-2014-06-26,United States,Germany,Germany,Thomas Müller,55,FALSE,FALSE
 2014-06-26,United States,Germany,Germany,Thomas Müller,55,FALSE,FALSE
 2014-06-28,Brazil,Chile,Brazil,David Luiz,18,FALSE,FALSE
 2014-06-28,Brazil,Chile,Chile,Alexis Sánchez,32,FALSE,FALSE
@@ -5740,248 +5612,126 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2016-07-07,France,Germany,France,Antoine Griezmann,72,FALSE,FALSE
 2016-07-10,France,Portugal,Portugal,Eder,109,FALSE,FALSE
 2018-06-14,Russia,Saudi Arabia,Russia,Yury Gazinsky,12,FALSE,FALSE
-2018-06-14,Russia,Saudi Arabia,Russia,Yury Gazinsky,12,FALSE,FALSE
 2018-06-14,Russia,Saudi Arabia,Russia,Denis Cheryshev,43,FALSE,FALSE
-2018-06-14,Russia,Saudi Arabia,Russia,Denis Cheryshev,43,FALSE,FALSE
-2018-06-14,Russia,Saudi Arabia,Russia,Artem Dzyuba,71,FALSE,FALSE
 2018-06-14,Russia,Saudi Arabia,Russia,Artem Dzyuba,71,FALSE,FALSE
 2018-06-14,Russia,Saudi Arabia,Russia,Denis Cheryshev,90,FALSE,FALSE
 2018-06-14,Russia,Saudi Arabia,Russia,Aleksandr Golovin,90,FALSE,FALSE
-2018-06-14,Russia,Saudi Arabia,Russia,Denis Cheryshev,90,FALSE,FALSE
-2018-06-14,Russia,Saudi Arabia,Russia,Aleksandr Golovin,90,FALSE,FALSE
-2018-06-15,Egypt,Uruguay,Uruguay,José María Giménez,89,FALSE,FALSE
 2018-06-15,Egypt,Uruguay,Uruguay,José María Giménez,89,FALSE,FALSE
 2018-06-15,Morocco,Iran,Iran,Aziz Bouhaddouz,90,TRUE,FALSE
-2018-06-15,Morocco,Iran,Iran,Aziz Bouhaddouz,90,TRUE,FALSE
-2018-06-15,Portugal,Spain,Portugal,Cristiano Ronaldo,4,FALSE,TRUE
 2018-06-15,Portugal,Spain,Portugal,Cristiano Ronaldo,4,FALSE,TRUE
 2018-06-15,Portugal,Spain,Spain,Diego Costa,24,FALSE,FALSE
-2018-06-15,Portugal,Spain,Spain,Diego Costa,24,FALSE,FALSE
-2018-06-15,Portugal,Spain,Portugal,Cristiano Ronaldo,44,FALSE,FALSE
 2018-06-15,Portugal,Spain,Portugal,Cristiano Ronaldo,44,FALSE,FALSE
 2018-06-15,Portugal,Spain,Spain,Diego Costa,55,FALSE,FALSE
-2018-06-15,Portugal,Spain,Spain,Diego Costa,55,FALSE,FALSE
-2018-06-15,Portugal,Spain,Spain,Nacho,58,FALSE,FALSE
 2018-06-15,Portugal,Spain,Spain,Nacho,58,FALSE,FALSE
 2018-06-15,Portugal,Spain,Portugal,Cristiano Ronaldo,88,FALSE,FALSE
-2018-06-15,Portugal,Spain,Portugal,Cristiano Ronaldo,88,FALSE,FALSE
-2018-06-16,Argentina,Iceland,Argentina,Sergio Agüero,19,FALSE,FALSE
 2018-06-16,Argentina,Iceland,Argentina,Sergio Agüero,19,FALSE,FALSE
 2018-06-16,Argentina,Iceland,Iceland,Alfreð Finnbogason,23,FALSE,FALSE
-2018-06-16,Argentina,Iceland,Iceland,Alfreð Finnbogason,23,FALSE,FALSE
-2018-06-16,Croatia,Nigeria,Croatia,Oghenekaro Etebo,32,TRUE,FALSE
 2018-06-16,Croatia,Nigeria,Croatia,Oghenekaro Etebo,32,TRUE,FALSE
 2018-06-16,Croatia,Nigeria,Croatia,Luka Modrić,71,FALSE,TRUE
-2018-06-16,Croatia,Nigeria,Croatia,Luka Modrić,71,FALSE,TRUE
-2018-06-16,France,Australia,France,Antoine Griezmann,58,FALSE,TRUE
 2018-06-16,France,Australia,France,Antoine Griezmann,58,FALSE,TRUE
 2018-06-16,France,Australia,Australia,Mile Jedinak,62,FALSE,TRUE
-2018-06-16,France,Australia,Australia,Mile Jedinak,62,FALSE,TRUE
-2018-06-16,France,Australia,France,Aziz Behich,81,TRUE,FALSE
 2018-06-16,France,Australia,France,Aziz Behich,81,TRUE,FALSE
 2018-06-16,Peru,Denmark,Denmark,Yussuf Poulsen,59,FALSE,FALSE
-2018-06-16,Peru,Denmark,Denmark,Yussuf Poulsen,59,FALSE,FALSE
-2018-06-17,Brazil,Switzerland,Brazil,Philippe Coutinho,20,FALSE,FALSE
 2018-06-17,Brazil,Switzerland,Brazil,Philippe Coutinho,20,FALSE,FALSE
 2018-06-17,Brazil,Switzerland,Switzerland,Steven Zuber,50,FALSE,FALSE
-2018-06-17,Brazil,Switzerland,Switzerland,Steven Zuber,50,FALSE,FALSE
-2018-06-17,Costa Rica,Serbia,Serbia,Aleksandar Kolarov,56,FALSE,FALSE
 2018-06-17,Costa Rica,Serbia,Serbia,Aleksandar Kolarov,56,FALSE,FALSE
 2018-06-17,Germany,Mexico,Mexico,Hirving Lozano,35,FALSE,FALSE
-2018-06-17,Germany,Mexico,Mexico,Hirving Lozano,35,FALSE,FALSE
-2018-06-18,Belgium,Panama,Belgium,Dries Mertens,47,FALSE,FALSE
 2018-06-18,Belgium,Panama,Belgium,Dries Mertens,47,FALSE,FALSE
 2018-06-18,Belgium,Panama,Belgium,Romelu Lukaku,69,FALSE,FALSE
-2018-06-18,Belgium,Panama,Belgium,Romelu Lukaku,69,FALSE,FALSE
-2018-06-18,Belgium,Panama,Belgium,Romelu Lukaku,75,FALSE,FALSE
 2018-06-18,Belgium,Panama,Belgium,Romelu Lukaku,75,FALSE,FALSE
 2018-06-18,Sweden,South Korea,Sweden,Andreas Granqvist,65,FALSE,TRUE
-2018-06-18,Sweden,South Korea,Sweden,Andreas Granqvist,65,FALSE,TRUE
-2018-06-18,Tunisia,England,England,Harry Kane,11,FALSE,FALSE
 2018-06-18,Tunisia,England,England,Harry Kane,11,FALSE,FALSE
 2018-06-18,Tunisia,England,Tunisia,Ferjani Sassi,35,FALSE,TRUE
-2018-06-18,Tunisia,England,Tunisia,Ferjani Sassi,35,FALSE,TRUE
-2018-06-18,Tunisia,England,England,Harry Kane,90,FALSE,FALSE
 2018-06-18,Tunisia,England,England,Harry Kane,90,FALSE,FALSE
 2018-06-19,Colombia,Japan,Japan,Shinji Kagawa,6,FALSE,TRUE
-2018-06-19,Colombia,Japan,Japan,Shinji Kagawa,6,FALSE,TRUE
-2018-06-19,Colombia,Japan,Colombia,Juan Fernando Quintero,39,FALSE,FALSE
 2018-06-19,Colombia,Japan,Colombia,Juan Fernando Quintero,39,FALSE,FALSE
 2018-06-19,Colombia,Japan,Japan,Yuya Osako,73,FALSE,FALSE
-2018-06-19,Colombia,Japan,Japan,Yuya Osako,73,FALSE,FALSE
-2018-06-19,Poland,Senegal,Senegal,Thiago Cionek,37,TRUE,FALSE
 2018-06-19,Poland,Senegal,Senegal,Thiago Cionek,37,TRUE,FALSE
 2018-06-19,Poland,Senegal,Senegal,M'Baye Niang,60,FALSE,FALSE
-2018-06-19,Poland,Senegal,Senegal,M'Baye Niang,60,FALSE,FALSE
-2018-06-19,Poland,Senegal,Poland,Grzegorz Krychowiak,86,FALSE,FALSE
 2018-06-19,Poland,Senegal,Poland,Grzegorz Krychowiak,86,FALSE,FALSE
 2018-06-19,Russia,Egypt,Russia,Ahmed Fathy,47,TRUE,FALSE
-2018-06-19,Russia,Egypt,Russia,Ahmed Fathy,47,TRUE,FALSE
-2018-06-19,Russia,Egypt,Russia,Denis Cheryshev,59,FALSE,FALSE
 2018-06-19,Russia,Egypt,Russia,Denis Cheryshev,59,FALSE,FALSE
 2018-06-19,Russia,Egypt,Russia,Artem Dzyuba,62,FALSE,FALSE
-2018-06-19,Russia,Egypt,Russia,Artem Dzyuba,62,FALSE,FALSE
-2018-06-19,Russia,Egypt,Egypt,Mohamed Salah,73,FALSE,TRUE
 2018-06-19,Russia,Egypt,Egypt,Mohamed Salah,73,FALSE,TRUE
 2018-06-20,Iran,Spain,Spain,Diego Costa,54,FALSE,FALSE
-2018-06-20,Iran,Spain,Spain,Diego Costa,54,FALSE,FALSE
-2018-06-20,Portugal,Morocco,Portugal,Cristiano Ronaldo,4,FALSE,FALSE
 2018-06-20,Portugal,Morocco,Portugal,Cristiano Ronaldo,4,FALSE,FALSE
 2018-06-20,Uruguay,Saudi Arabia,Uruguay,Luis Suárez,23,FALSE,FALSE
-2018-06-20,Uruguay,Saudi Arabia,Uruguay,Luis Suárez,23,FALSE,FALSE
-2018-06-21,Argentina,Croatia,Croatia,Ante Rebić,53,FALSE,FALSE
 2018-06-21,Argentina,Croatia,Croatia,Ante Rebić,53,FALSE,FALSE
 2018-06-21,Argentina,Croatia,Croatia,Luka Modrić,80,FALSE,FALSE
-2018-06-21,Argentina,Croatia,Croatia,Luka Modrić,80,FALSE,FALSE
-2018-06-21,Argentina,Croatia,Croatia,Ivan Rakitić,90,FALSE,FALSE
 2018-06-21,Argentina,Croatia,Croatia,Ivan Rakitić,90,FALSE,FALSE
 2018-06-21,Denmark,Australia,Denmark,Christian Eriksen,7,FALSE,FALSE
-2018-06-21,Denmark,Australia,Denmark,Christian Eriksen,7,FALSE,FALSE
 2018-06-21,Denmark,Australia,Australia,Mile Jedinak,38,FALSE,TRUE
-2018-06-21,Denmark,Australia,Australia,Mile Jedinak,38,FALSE,TRUE
-2018-06-21,France,Peru,France,Kylian Mbappé,34,FALSE,FALSE
 2018-06-21,France,Peru,France,Kylian Mbappé,34,FALSE,FALSE
 2018-06-22,Brazil,Costa Rica,Brazil,Philippe Coutinho,90,FALSE,FALSE
 2018-06-22,Brazil,Costa Rica,Brazil,Neymar,90,FALSE,FALSE
-2018-06-22,Brazil,Costa Rica,Brazil,Philippe Coutinho,90,FALSE,FALSE
-2018-06-22,Brazil,Costa Rica,Brazil,Neymar,90,FALSE,FALSE
-2018-06-22,Nigeria,Iceland,Nigeria,Ahmed Musa,49,FALSE,FALSE
 2018-06-22,Nigeria,Iceland,Nigeria,Ahmed Musa,49,FALSE,FALSE
 2018-06-22,Nigeria,Iceland,Nigeria,Ahmed Musa,75,FALSE,FALSE
-2018-06-22,Nigeria,Iceland,Nigeria,Ahmed Musa,75,FALSE,FALSE
-2018-06-22,Serbia,Switzerland,Serbia,Aleksandar Mitrović,5,FALSE,FALSE
 2018-06-22,Serbia,Switzerland,Serbia,Aleksandar Mitrović,5,FALSE,FALSE
 2018-06-22,Serbia,Switzerland,Switzerland,Granit Xhaka,52,FALSE,FALSE
-2018-06-22,Serbia,Switzerland,Switzerland,Granit Xhaka,52,FALSE,FALSE
-2018-06-22,Serbia,Switzerland,Switzerland,Xherdan Shaqiri,90,FALSE,FALSE
 2018-06-22,Serbia,Switzerland,Switzerland,Xherdan Shaqiri,90,FALSE,FALSE
 2018-06-23,Belgium,Tunisia,Belgium,Eden Hazard,6,FALSE,TRUE
-2018-06-23,Belgium,Tunisia,Belgium,Eden Hazard,6,FALSE,TRUE
-2018-06-23,Belgium,Tunisia,Belgium,Romelu Lukaku,16,FALSE,FALSE
 2018-06-23,Belgium,Tunisia,Belgium,Romelu Lukaku,16,FALSE,FALSE
 2018-06-23,Belgium,Tunisia,Tunisia,Dylan Bronn,18,FALSE,FALSE
-2018-06-23,Belgium,Tunisia,Tunisia,Dylan Bronn,18,FALSE,FALSE
 2018-06-23,Belgium,Tunisia,Belgium,Romelu Lukaku,45,FALSE,FALSE
-2018-06-23,Belgium,Tunisia,Belgium,Romelu Lukaku,45,FALSE,FALSE
-2018-06-23,Belgium,Tunisia,Belgium,Eden Hazard,51,FALSE,FALSE
 2018-06-23,Belgium,Tunisia,Belgium,Eden Hazard,51,FALSE,FALSE
 2018-06-23,Belgium,Tunisia,Belgium,Michy Batshuayi,90,FALSE,FALSE
 2018-06-23,Belgium,Tunisia,Tunisia,Wahbi Khazri,90,FALSE,FALSE
-2018-06-23,Belgium,Tunisia,Belgium,Michy Batshuayi,90,FALSE,FALSE
-2018-06-23,Belgium,Tunisia,Tunisia,Wahbi Khazri,90,FALSE,FALSE
-2018-06-23,Germany,Sweden,Sweden,Ola Toivonen,32,FALSE,FALSE
 2018-06-23,Germany,Sweden,Sweden,Ola Toivonen,32,FALSE,FALSE
 2018-06-23,Germany,Sweden,Germany,Marco Reus,48,FALSE,FALSE
-2018-06-23,Germany,Sweden,Germany,Marco Reus,48,FALSE,FALSE
-2018-06-23,Germany,Sweden,Germany,Toni Kroos,90,FALSE,FALSE
 2018-06-23,Germany,Sweden,Germany,Toni Kroos,90,FALSE,FALSE
 2018-06-23,South Korea,Mexico,Mexico,Carlos Vela,26,FALSE,TRUE
-2018-06-23,South Korea,Mexico,Mexico,Carlos Vela,26,FALSE,TRUE
-2018-06-23,South Korea,Mexico,Mexico,Javier Hernández,66,FALSE,FALSE
 2018-06-23,South Korea,Mexico,Mexico,Javier Hernández,66,FALSE,FALSE
 2018-06-23,South Korea,Mexico,South Korea,Son Heung-min,90,FALSE,FALSE
-2018-06-23,South Korea,Mexico,South Korea,Son Heung-min,90,FALSE,FALSE
-2018-06-24,England,Panama,England,John Stones,8,FALSE,FALSE
 2018-06-24,England,Panama,England,John Stones,8,FALSE,FALSE
 2018-06-24,England,Panama,England,Harry Kane,22,FALSE,TRUE
-2018-06-24,England,Panama,England,Harry Kane,22,FALSE,TRUE
-2018-06-24,England,Panama,England,Jesse Lingard,36,FALSE,FALSE
 2018-06-24,England,Panama,England,Jesse Lingard,36,FALSE,FALSE
 2018-06-24,England,Panama,England,John Stones,40,FALSE,FALSE
-2018-06-24,England,Panama,England,John Stones,40,FALSE,FALSE
-2018-06-24,England,Panama,England,Harry Kane,45,FALSE,TRUE
 2018-06-24,England,Panama,England,Harry Kane,45,FALSE,TRUE
 2018-06-24,England,Panama,England,Harry Kane,62,FALSE,FALSE
-2018-06-24,England,Panama,England,Harry Kane,62,FALSE,FALSE
-2018-06-24,England,Panama,Panama,Felipe Baloy,78,FALSE,FALSE
 2018-06-24,England,Panama,Panama,Felipe Baloy,78,FALSE,FALSE
 2018-06-24,Japan,Senegal,Senegal,Sadio Mané,11,FALSE,FALSE
-2018-06-24,Japan,Senegal,Senegal,Sadio Mané,11,FALSE,FALSE
-2018-06-24,Japan,Senegal,Japan,Takashi Inui,34,FALSE,FALSE
 2018-06-24,Japan,Senegal,Japan,Takashi Inui,34,FALSE,FALSE
 2018-06-24,Japan,Senegal,Senegal,Moussa Wagué,71,FALSE,FALSE
-2018-06-24,Japan,Senegal,Senegal,Moussa Wagué,71,FALSE,FALSE
-2018-06-24,Japan,Senegal,Japan,Keisuke Honda,78,FALSE,FALSE
 2018-06-24,Japan,Senegal,Japan,Keisuke Honda,78,FALSE,FALSE
 2018-06-24,Poland,Colombia,Colombia,Yerry Mina,40,FALSE,FALSE
-2018-06-24,Poland,Colombia,Colombia,Yerry Mina,40,FALSE,FALSE
-2018-06-24,Poland,Colombia,Colombia,Radamel Falcao,70,FALSE,FALSE
 2018-06-24,Poland,Colombia,Colombia,Radamel Falcao,70,FALSE,FALSE
 2018-06-24,Poland,Colombia,Colombia,Juan Cuadrado,75,FALSE,FALSE
-2018-06-24,Poland,Colombia,Colombia,Juan Cuadrado,75,FALSE,FALSE
-2018-06-25,Iran,Portugal,Portugal,Ricardo Quaresma,45,FALSE,FALSE
 2018-06-25,Iran,Portugal,Portugal,Ricardo Quaresma,45,FALSE,FALSE
 2018-06-25,Iran,Portugal,Iran,Karim Ansarifard,90,FALSE,TRUE
-2018-06-25,Iran,Portugal,Iran,Karim Ansarifard,90,FALSE,TRUE
-2018-06-25,Russia,Uruguay,Uruguay,Luis Suárez,10,FALSE,FALSE
 2018-06-25,Russia,Uruguay,Uruguay,Luis Suárez,10,FALSE,FALSE
 2018-06-25,Russia,Uruguay,Uruguay,Denis Cheryshev,23,TRUE,FALSE
-2018-06-25,Russia,Uruguay,Uruguay,Denis Cheryshev,23,TRUE,FALSE
-2018-06-25,Russia,Uruguay,Uruguay,Edinson Cavani,90,FALSE,FALSE
 2018-06-25,Russia,Uruguay,Uruguay,Edinson Cavani,90,FALSE,FALSE
 2018-06-25,Saudi Arabia,Egypt,Egypt,Mohamed Salah,22,FALSE,FALSE
-2018-06-25,Saudi Arabia,Egypt,Egypt,Mohamed Salah,22,FALSE,FALSE
-2018-06-25,Saudi Arabia,Egypt,Saudi Arabia,Salman Al-Faraj,45,FALSE,TRUE
 2018-06-25,Saudi Arabia,Egypt,Saudi Arabia,Salman Al-Faraj,45,FALSE,TRUE
 2018-06-25,Saudi Arabia,Egypt,Saudi Arabia,Salem Al-Dawsari,90,FALSE,FALSE
-2018-06-25,Saudi Arabia,Egypt,Saudi Arabia,Salem Al-Dawsari,90,FALSE,FALSE
-2018-06-25,Spain,Morocco,Morocco,Khalid Boutaïb,14,FALSE,FALSE
 2018-06-25,Spain,Morocco,Morocco,Khalid Boutaïb,14,FALSE,FALSE
 2018-06-25,Spain,Morocco,Spain,Isco,19,FALSE,FALSE
-2018-06-25,Spain,Morocco,Spain,Isco,19,FALSE,FALSE
-2018-06-25,Spain,Morocco,Morocco,Youssef En-Nesyri,81,FALSE,FALSE
 2018-06-25,Spain,Morocco,Morocco,Youssef En-Nesyri,81,FALSE,FALSE
 2018-06-25,Spain,Morocco,Spain,Iago Aspas,90,FALSE,FALSE
-2018-06-25,Spain,Morocco,Spain,Iago Aspas,90,FALSE,FALSE
-2018-06-26,Australia,Peru,Peru,André Carrillo,18,FALSE,FALSE
 2018-06-26,Australia,Peru,Peru,André Carrillo,18,FALSE,FALSE
 2018-06-26,Australia,Peru,Peru,Paolo Guerrero,50,FALSE,FALSE
-2018-06-26,Australia,Peru,Peru,Paolo Guerrero,50,FALSE,FALSE
-2018-06-26,Iceland,Croatia,Croatia,Milan Badelj,53,FALSE,FALSE
 2018-06-26,Iceland,Croatia,Croatia,Milan Badelj,53,FALSE,FALSE
 2018-06-26,Iceland,Croatia,Iceland,Gylfi Sigurðsson,76,FALSE,TRUE
-2018-06-26,Iceland,Croatia,Iceland,Gylfi Sigurðsson,76,FALSE,TRUE
-2018-06-26,Iceland,Croatia,Croatia,Ivan Perišić,90,FALSE,FALSE
 2018-06-26,Iceland,Croatia,Croatia,Ivan Perišić,90,FALSE,FALSE
 2018-06-26,Nigeria,Argentina,Argentina,Lionel Messi,14,FALSE,FALSE
-2018-06-26,Nigeria,Argentina,Argentina,Lionel Messi,14,FALSE,FALSE
-2018-06-26,Nigeria,Argentina,Nigeria,Victor Moses,51,FALSE,TRUE
 2018-06-26,Nigeria,Argentina,Nigeria,Victor Moses,51,FALSE,TRUE
 2018-06-26,Nigeria,Argentina,Argentina,Marcos Rojo,86,FALSE,FALSE
-2018-06-26,Nigeria,Argentina,Argentina,Marcos Rojo,86,FALSE,FALSE
-2018-06-27,Mexico,Sweden,Sweden,Ludwig Augustinsson,50,FALSE,FALSE
 2018-06-27,Mexico,Sweden,Sweden,Ludwig Augustinsson,50,FALSE,FALSE
 2018-06-27,Mexico,Sweden,Sweden,Andreas Granqvist,62,FALSE,TRUE
-2018-06-27,Mexico,Sweden,Sweden,Andreas Granqvist,62,FALSE,TRUE
-2018-06-27,Mexico,Sweden,Sweden,Edson Álvarez,74,TRUE,FALSE
 2018-06-27,Mexico,Sweden,Sweden,Edson Álvarez,74,TRUE,FALSE
 2018-06-27,Serbia,Brazil,Brazil,Paulinho,36,FALSE,FALSE
-2018-06-27,Serbia,Brazil,Brazil,Paulinho,36,FALSE,FALSE
-2018-06-27,Serbia,Brazil,Brazil,Thiago Silva,68,FALSE,FALSE
 2018-06-27,Serbia,Brazil,Brazil,Thiago Silva,68,FALSE,FALSE
 2018-06-27,South Korea,Germany,South Korea,Kim Young-gwon,90,FALSE,FALSE
 2018-06-27,South Korea,Germany,South Korea,Son Heung-min,90,FALSE,FALSE
-2018-06-27,South Korea,Germany,South Korea,Kim Young-gwon,90,FALSE,FALSE
-2018-06-27,South Korea,Germany,South Korea,Son Heung-min,90,FALSE,FALSE
-2018-06-27,Switzerland,Costa Rica,Switzerland,Blerim Džemaili,31,FALSE,FALSE
 2018-06-27,Switzerland,Costa Rica,Switzerland,Blerim Džemaili,31,FALSE,FALSE
 2018-06-27,Switzerland,Costa Rica,Costa Rica,Kendall Waston,56,FALSE,FALSE
-2018-06-27,Switzerland,Costa Rica,Costa Rica,Kendall Waston,56,FALSE,FALSE
-2018-06-27,Switzerland,Costa Rica,Switzerland,Josip Drmić,88,FALSE,FALSE
 2018-06-27,Switzerland,Costa Rica,Switzerland,Josip Drmić,88,FALSE,FALSE
 2018-06-27,Switzerland,Costa Rica,Costa Rica,Yann Sommer,90,TRUE,FALSE
-2018-06-27,Switzerland,Costa Rica,Costa Rica,Yann Sommer,90,TRUE,FALSE
-2018-06-28,England,Belgium,Belgium,Adnan Januzaj,51,FALSE,FALSE
 2018-06-28,England,Belgium,Belgium,Adnan Januzaj,51,FALSE,FALSE
 2018-06-28,Japan,Poland,Poland,Jan Bednarek,59,FALSE,FALSE
-2018-06-28,Japan,Poland,Poland,Jan Bednarek,59,FALSE,FALSE
-2018-06-28,Panama,Tunisia,Panama,Yassine Meriah,33,TRUE,FALSE
 2018-06-28,Panama,Tunisia,Panama,Yassine Meriah,33,TRUE,FALSE
 2018-06-28,Panama,Tunisia,Tunisia,Fakhreddine Ben Youssef,51,FALSE,FALSE
-2018-06-28,Panama,Tunisia,Tunisia,Fakhreddine Ben Youssef,51,FALSE,FALSE
 2018-06-28,Panama,Tunisia,Tunisia,Wahbi Khazri,66,FALSE,FALSE
-2018-06-28,Panama,Tunisia,Tunisia,Wahbi Khazri,66,FALSE,FALSE
-2018-06-28,Senegal,Colombia,Colombia,Yerry Mina,74,FALSE,FALSE
 2018-06-28,Senegal,Colombia,Colombia,Yerry Mina,74,FALSE,FALSE
 2018-06-30,France,Argentina,France,Antoine Griezmann,13,FALSE,TRUE
 2018-06-30,France,Argentina,Argentina,Ángel Di María,41,FALSE,FALSE
