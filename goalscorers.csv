@@ -1,4 +1,296 @@
 date,home_team,away_team,team,scorer,minute,own_goal,penalty
+1916-07-02,Chile,Uruguay,Uruguay,José Piendibene,44,FALSE,FALSE
+1916-07-02,Chile,Uruguay,Uruguay,Isabelino Gradín,55,FALSE,FALSE
+1916-07-02,Chile,Uruguay,Uruguay,Isabelino Gradín,70,FALSE,FALSE
+1916-07-02,Chile,Uruguay,Uruguay,José Piendibene,75,FALSE,FALSE
+1916-07-06,Argentina,Chile,Argentina,Alberto Ohaco,2,FALSE,FALSE
+1916-07-06,Argentina,Chile,Chile,Telésforo Báez,44,FALSE,FALSE
+1916-07-06,Argentina,Chile,Argentina,Juan Domingo Brown,60,FALSE,TRUE
+1916-07-06,Argentina,Chile,Argentina,Juan Domingo Brown,62,FALSE,TRUE
+1916-07-06,Argentina,Chile,Argentina,Alberto Marcovecchio,67,FALSE,FALSE
+1916-07-06,Argentina,Chile,Argentina,Alberto Ohaco,75,FALSE,FALSE
+1916-07-06,Argentina,Chile,Argentina,Alberto Marcovecchio,81,FALSE,FALSE
+1916-07-08,Brazil,Chile,Brazil,Demóstenes Correia de Syllos,29,FALSE,FALSE
+1916-07-08,Brazil,Chile,Chile,Hernando Salazar,85,FALSE,FALSE
+1916-07-10,Argentina,Brazil,Argentina,José Durand Laguna,10,FALSE,FALSE
+1916-07-10,Argentina,Brazil,Brazil,Manoel Alencar Monte,23,FALSE,FALSE
+1916-07-12,Brazil,Uruguay,Brazil,Arthur Friedenreich,8,FALSE,FALSE
+1916-07-12,Brazil,Uruguay,Uruguay,Isabelino Gradín,58,FALSE,FALSE
+1916-07-12,Brazil,Uruguay,Uruguay,Jose Tognola,77,FALSE,FALSE
+1917-09-30,Uruguay,Chile,Uruguay,Carlos Scarone,20,FALSE,FALSE
+1917-09-30,Uruguay,Chile,Uruguay,Ángel Romano,44,FALSE,FALSE
+1917-09-30,Uruguay,Chile,Uruguay,Carlos Scarone,62,FALSE,TRUE
+1917-09-30,Uruguay,Chile,Uruguay,Ángel Romano,75,FALSE,FALSE
+1917-10-03,Argentina,Brazil,Brazil,Neco,8,FALSE,FALSE
+1917-10-03,Argentina,Brazil,Argentina,Pedro Calomino,15,FALSE,FALSE
+1917-10-03,Argentina,Brazil,Brazil,Silvio Lagreca,39,FALSE,TRUE
+1917-10-03,Argentina,Brazil,Argentina,Alberto Ohaco,56,FALSE,TRUE
+1917-10-03,Argentina,Brazil,Argentina,Alberto Ohaco,58,FALSE,TRUE
+1917-10-03,Argentina,Brazil,Argentina,Antonio Blanco,80,FALSE,FALSE
+1917-10-06,Argentina,Chile,Argentina,Luis García,76,TRUE,FALSE
+1917-10-07,Uruguay,Brazil,Uruguay,Héctor Scarone,8,FALSE,FALSE
+1917-10-07,Uruguay,Brazil,Uruguay,Ángel Romano,17,FALSE,FALSE
+1917-10-07,Uruguay,Brazil,Uruguay,Ángel Romano,77,FALSE,FALSE
+1917-10-07,Uruguay,Brazil,Uruguay,Carlos Scarone,86,FALSE,FALSE
+1917-10-12,Brazil,Chile,Brazil,Caetano Izzo,21,FALSE,FALSE
+1917-10-12,Brazil,Chile,Brazil,Neco,23,FALSE,FALSE
+1917-10-12,Brazil,Chile,Brazil,Haroldo Domingues,26,FALSE,FALSE
+1917-10-12,Brazil,Chile,Brazil,Amílcar Barbuy,41,FALSE,FALSE
+1917-10-12,Brazil,Chile,Brazil,Haroldo Domingues,59,FALSE,FALSE
+1917-10-14,Uruguay,Argentina,Uruguay,Héctor Scarone,62,FALSE,FALSE
+1919-05-11,Brazil,Chile,Brazil,Arthur Friedenreich,19,FALSE,FALSE
+1919-05-11,Brazil,Chile,Brazil,Neco,21,FALSE,FALSE
+1919-05-11,Brazil,Chile,Brazil,Arthur Friedenreich,38,FALSE,FALSE
+1919-05-11,Brazil,Chile,Brazil,Arthur Friedenreich,76,FALSE,FALSE
+1919-05-11,Brazil,Chile,Brazil,Haroldo Domingues,79,FALSE,FALSE
+1919-05-11,Brazil,Chile,Brazil,Neco,83,FALSE,FALSE
+1919-05-13,Argentina,Uruguay,Uruguay,Carlos Scarone,19,FALSE,FALSE
+1919-05-13,Argentina,Uruguay,Uruguay,Héctor Scarone,23,FALSE,FALSE
+1919-05-13,Argentina,Uruguay,Argentina,Carlos Izaguirre,34,FALSE,FALSE
+1919-05-13,Argentina,Uruguay,Argentina,Manuel Varela,79,TRUE,FALSE
+1919-05-13,Argentina,Uruguay,Uruguay,Isabelino Gradín,85,FALSE,FALSE
+1919-05-17,Chile,Uruguay,Uruguay,Carlos Scarone,31,FALSE,FALSE
+1919-05-17,Chile,Uruguay,Uruguay,José Pérez,43,FALSE,FALSE
+1919-05-18,Brazil,Argentina,Brazil,Heitor,22,FALSE,FALSE
+1919-05-18,Brazil,Argentina,Brazil,Amílcar Barbuy,57,FALSE,FALSE
+1919-05-18,Brazil,Argentina,Argentina,Carlos Izaguirre,65,FALSE,FALSE
+1919-05-18,Brazil,Argentina,Brazil,Adolpho Millón Junior,77,FALSE,FALSE
+1919-05-22,Argentina,Chile,Argentina,Edwin Clarcke,10,FALSE,FALSE
+1919-05-22,Argentina,Chile,Argentina,Carlos Izaguirre,13,FALSE,FALSE
+1919-05-22,Argentina,Chile,Argentina,Edwin Clarcke,23,FALSE,FALSE
+1919-05-22,Argentina,Chile,Chile,Alfredo France,33,FALSE,FALSE
+1919-05-22,Argentina,Chile,Argentina,Edwin Clarcke,62,FALSE,FALSE
+1919-05-26,Brazil,Uruguay,Uruguay,Isabelino Gradín,13,FALSE,FALSE
+1919-05-26,Brazil,Uruguay,Uruguay,Carlos Scarone,17,FALSE,FALSE
+1919-05-26,Brazil,Uruguay,Brazil,Neco,29,FALSE,FALSE
+1919-05-26,Brazil,Uruguay,Brazil,Neco,63,FALSE,FALSE
+1919-05-29,Brazil,Uruguay,Brazil,Arthur Friedenreich,122,FALSE,FALSE
+1920-09-11,Chile,Brazil,Brazil,Ismael Alvariza,53,FALSE,FALSE
+1920-09-12,Uruguay,Argentina,Uruguay,José Piendibene,10,FALSE,FALSE
+1920-09-12,Uruguay,Argentina,Argentina,Raúl Echeverría,75,FALSE,FALSE
+1920-09-18,Brazil,Uruguay,Uruguay,Ángel Romano,23,FALSE,FALSE
+1920-09-18,Brazil,Uruguay,Uruguay,Antonio Urdinarán,26,FALSE,TRUE
+1920-09-18,Brazil,Uruguay,Uruguay,José Pérez,29,FALSE,FALSE
+1920-09-18,Brazil,Uruguay,Uruguay,Antonio Campolo,48,FALSE,FALSE
+1920-09-18,Brazil,Uruguay,Uruguay,Ángel Romano,60,FALSE,FALSE
+1920-09-18,Brazil,Uruguay,Uruguay,José Pérez,65,FALSE,FALSE
+1920-09-20,Chile,Argentina,Argentina,Miguel Dellavalle,13,FALSE,FALSE
+1920-09-20,Chile,Argentina,Chile,Hernando Bolados,30,FALSE,FALSE
+1920-09-25,Argentina,Brazil,Argentina,Raúl Echeverría,40,FALSE,FALSE
+1920-09-25,Argentina,Brazil,Argentina,Julio Libonatti,73,FALSE,FALSE
+1920-10-03,Chile,Uruguay,Uruguay,Ángel Romano,37,FALSE,FALSE
+1920-10-03,Chile,Uruguay,Chile,Aurelio Domínguez,60,FALSE,FALSE
+1920-10-03,Chile,Uruguay,Uruguay,José Pérez,65,FALSE,FALSE
+1921-10-02,Argentina,Brazil,Argentina,Julio Libonatti,27,FALSE,FALSE
+1921-10-09,Paraguay,Uruguay,Uruguay,José Piendibene,9,FALSE,FALSE
+1921-10-09,Paraguay,Uruguay,Uruguay,José Piendibene,66,FALSE,FALSE
+1921-10-09,Paraguay,Uruguay,Uruguay,José Piendibene,83,FALSE,FALSE
+1921-10-12,Brazil,Paraguay,Brazil,Ernesto Duarte Machado da Silva,21,FALSE,FALSE
+1921-10-12,Brazil,Paraguay,Brazil,Ernesto Duarte Machado da Silva,44,FALSE,FALSE
+1921-10-12,Brazil,Paraguay,Brazil,Aníbal Médicis Candiota,46,FALSE,FALSE
+1921-10-16,Argentina,Paraguay,Argentina,Julio Libonatti,1,FALSE,FALSE
+1921-10-16,Argentina,Paraguay,Argentina,Julio Libonatti,71,FALSE,FALSE
+1921-10-16,Argentina,Paraguay,Argentina,Julio Libonatti,76,FALSE,FALSE
+1921-10-23,Brazil,Uruguay,Uruguay,Ángel Romano,1,FALSE,FALSE
+1921-10-23,Brazil,Uruguay,Uruguay,Ángel Romano,8,FALSE,FALSE
+1921-10-23,Brazil,Uruguay,Brazil,José Carlos Guimarães,53,FALSE,FALSE
+1921-10-30,Argentina,Uruguay,Argentina,Julio Libonatti,57,FALSE,FALSE
+1922-09-17,Brazil,Chile,Brazil,Altino Marcondes,9,FALSE,FALSE
+1922-09-17,Brazil,Chile,Chile,Manuel Bravo Paredes,41,FALSE,FALSE
+1922-09-23,Chile,Uruguay,Uruguay,Juan Carlos Heguy,10,FALSE,FALSE
+1922-09-23,Chile,Uruguay,Uruguay,Antonio Urdinarán,19,FALSE,TRUE
+1922-09-24,Brazil,Paraguay,Brazil,Amílcar Barbuy,14,FALSE,FALSE
+1922-09-24,Brazil,Paraguay,Paraguay,Gerardo Rivas,71,FALSE,FALSE
+1922-09-28,Argentina,Chile,Argentina,Angel Chiessa,10,FALSE,FALSE
+1922-09-28,Argentina,Chile,Argentina,Julio Francia,36,FALSE,FALSE
+1922-09-28,Argentina,Chile,Argentina,Julio Francia,41,FALSE,FALSE
+1922-09-28,Argentina,Chile,Argentina,José Gaslini,75,FALSE,FALSE
+1922-10-05,Chile,Paraguay,Paraguay,Julio Ramírez,5,FALSE,FALSE
+1922-10-05,Chile,Paraguay,Paraguay,Ildefonso López,78,FALSE,FALSE
+1922-10-05,Chile,Paraguay,Paraguay,Luis Fretes,86,FALSE,FALSE
+1922-10-08,Argentina,Uruguay,Uruguay,Felipe Buffoni,43,FALSE,FALSE
+1922-10-12,Paraguay,Uruguay,Paraguay,Carlos Elizeche,7,FALSE,FALSE
+1922-10-15,Brazil,Argentina,Brazil,Neco,42,FALSE,FALSE
+1922-10-15,Brazil,Argentina,Brazil,Amílcar Barbuy,86,FALSE,TRUE
+1922-10-18,Argentina,Paraguay,Argentina,Julio Francia,63,FALSE,FALSE
+1922-10-18,Argentina,Paraguay,Argentina,Julio Francia,79,FALSE,TRUE
+1922-10-22,Brazil,Paraguay,Brazil,Neco,11,FALSE,FALSE
+1922-10-22,Brazil,Paraguay,Brazil,Xavier Camargo,48,FALSE,FALSE
+1922-10-22,Brazil,Paraguay,Brazil,Xavier Camargo,89,FALSE,FALSE
+1923-10-29,Argentina,Paraguay,Paraguay,Gerardo Rivas,10,FALSE,FALSE
+1923-10-29,Argentina,Paraguay,Argentina,Blas Saruppo,18,FALSE,FALSE
+1923-10-29,Argentina,Paraguay,Paraguay,Agustín Zelada,49,FALSE,FALSE
+1923-10-29,Argentina,Paraguay,Argentina,Vicente Aguirre,58,FALSE,FALSE
+1923-10-29,Argentina,Paraguay,Paraguay,Luis Fretes,65,FALSE,FALSE
+1923-10-29,Argentina,Paraguay,Argentina,Vicente Aguirre,77,FALSE,FALSE
+1923-10-29,Argentina,Paraguay,Argentina,Vicente Aguirre,86,FALSE,FALSE
+1923-11-04,Uruguay,Paraguay,Uruguay,Héctor Scarone,11,FALSE,FALSE
+1923-11-04,Uruguay,Paraguay,Uruguay,Pedro Petrone,87,FALSE,FALSE
+1923-11-11,Brazil,Paraguay,Paraguay,Ildefonso López,56,FALSE,FALSE
+1923-11-18,Argentina,Brazil,Argentina,Cesáreo Onzari,11,FALSE,FALSE
+1923-11-18,Argentina,Brazil,Brazil,Nilo Braga,15,FALSE,FALSE
+1923-11-18,Argentina,Brazil,Argentina,Blas Saruppo,76,FALSE,FALSE
+1923-11-25,Uruguay,Brazil,Uruguay,Pedro Petrone,56,FALSE,FALSE
+1923-11-25,Uruguay,Brazil,Brazil,Nilo Braga,59,FALSE,FALSE
+1923-11-25,Uruguay,Brazil,Uruguay,José Cea,75,FALSE,FALSE
+1923-12-02,Uruguay,Argentina,Uruguay,Pedro Petrone,28,FALSE,FALSE
+1923-12-02,Uruguay,Argentina,Uruguay,Pascual Somma,88,FALSE,FALSE
+1924-10-19,Uruguay,Chile,Uruguay,Pedro Petrone,40,FALSE,FALSE
+1924-10-19,Uruguay,Chile,Uruguay,Pedro Petrone,53,FALSE,FALSE
+1924-10-19,Uruguay,Chile,Uruguay,Pedro Zingone,73,FALSE,FALSE
+1924-10-19,Uruguay,Chile,Uruguay,Ángel Romano,78,FALSE,FALSE
+1924-10-19,Uruguay,Chile,Uruguay,Pedro Petrone,88,FALSE,FALSE
+1924-10-25,Argentina,Chile,Argentina,Gabino Sosa,5,FALSE,FALSE
+1924-10-25,Argentina,Chile,Argentina,Juan Loyarte,78,FALSE,FALSE
+1924-10-26,Uruguay,Paraguay,Uruguay,Pedro Petrone,28,FALSE,FALSE
+1924-10-26,Uruguay,Paraguay,Uruguay,Ángel Romano,37,FALSE,FALSE
+1924-10-26,Uruguay,Paraguay,Uruguay,José Cea,53,FALSE,FALSE
+1924-10-26,Uruguay,Paraguay,Paraguay,Paisano Urbita Sosa,77,FALSE,FALSE
+1924-11-01,Chile,Paraguay,Chile,David Arellano,6,FALSE,FALSE
+1924-11-01,Chile,Paraguay,Paraguay,Ildefonso López,15,FALSE,FALSE
+1924-11-01,Chile,Paraguay,Paraguay,Ildefonso López,33,FALSE,FALSE
+1924-11-01,Chile,Paraguay,Paraguay,Gerardo Rivas,52,FALSE,FALSE
+1925-11-29,Argentina,Paraguay,Argentina,Manuel Seoane,2,FALSE,FALSE
+1925-11-29,Argentina,Paraguay,Argentina,Martin Sánchez,72,FALSE,FALSE
+1925-12-06,Brazil,Paraguay,Brazil,Anfilogino Marques,16,FALSE,FALSE
+1925-12-06,Brazil,Paraguay,Brazil,Arthur Friedenreich,18,FALSE,FALSE
+1925-12-06,Brazil,Paraguay,Paraguay,Gerardo Rivas,25,FALSE,FALSE
+1925-12-06,Brazil,Paraguay,Brazil,Severino Da Silva,30,FALSE,FALSE
+1925-12-06,Brazil,Paraguay,Brazil,Severino Da Silva,52,FALSE,FALSE
+1925-12-06,Brazil,Paraguay,Paraguay,Gerardo Rivas,55,FALSE,FALSE
+1925-12-06,Brazil,Paraguay,Brazil,Nilo Braga,72,FALSE,FALSE
+1925-12-13,Argentina,Brazil,Brazil,Nilo Braga,22,FALSE,FALSE
+1925-12-13,Argentina,Brazil,Argentina,Manuel Seoane,41,FALSE,FALSE
+1925-12-13,Argentina,Brazil,Argentina,Manuel Seoane,48,FALSE,FALSE
+1925-12-13,Argentina,Brazil,Argentina,Alfredo Garasini,72,FALSE,FALSE
+1925-12-13,Argentina,Brazil,Argentina,Manuel Seoane,74,FALSE,FALSE
+1925-12-17,Brazil,Paraguay,Brazil,Nilo Braga,30,FALSE,FALSE
+1925-12-17,Brazil,Paraguay,Brazil,Severino Da Silva,57,FALSE,FALSE
+1925-12-17,Brazil,Paraguay,Paraguay,Luis Fretes,58,FALSE,FALSE
+1925-12-17,Brazil,Paraguay,Brazil,Severino Da Silva,61,FALSE,FALSE
+1925-12-20,Argentina,Paraguay,Paraguay,Manuel Fleitas Solich,15,FALSE,FALSE
+1925-12-20,Argentina,Paraguay,Argentina,Domingo Tarasconi,22,FALSE,FALSE
+1925-12-20,Argentina,Paraguay,Argentina,Manuel Seoane,32,FALSE,FALSE
+1925-12-20,Argentina,Paraguay,Argentina,Juan Carlos Irurieta,63,FALSE,FALSE
+1925-12-25,Argentina,Brazil,Brazil,Arthur Friedenreich,27,FALSE,FALSE
+1925-12-25,Argentina,Brazil,Brazil,Nilo Braga,30,FALSE,FALSE
+1925-12-25,Argentina,Brazil,Argentina,Antonio Cerroti,41,FALSE,FALSE
+1925-12-25,Argentina,Brazil,Argentina,Manuel Seoane,55,FALSE,FALSE
+1926-10-12,Chile,Bolivia,Chile,Manuel Ramírez,10,FALSE,FALSE
+1926-10-12,Chile,Bolivia,Chile,Guillermo Subiabre,14,FALSE,FALSE
+1926-10-12,Chile,Bolivia,Chile,David Arellano,15,FALSE,FALSE
+1926-10-12,Chile,Bolivia,Chile,David Arellano,41,FALSE,FALSE
+1926-10-12,Chile,Bolivia,Chile,Humberto Moreno,47,FALSE,FALSE
+1926-10-12,Chile,Bolivia,Chile,David Arellano,80,FALSE,FALSE
+1926-10-12,Chile,Bolivia,Chile,David Arellano,84,FALSE,FALSE
+1926-10-12,Chile,Bolivia,Bolivia,Teófilo Aguilar,89,FALSE,FALSE
+1926-10-16,Argentina,Bolivia,Argentina,Roberto Cherro,9,FALSE,FALSE
+1926-10-16,Argentina,Bolivia,Argentina,Roberto Cherro,19,FALSE,FALSE
+1926-10-16,Argentina,Bolivia,Argentina,Gabino Sosa,31,FALSE,FALSE
+1926-10-16,Argentina,Bolivia,Argentina,Benjamín Delgado,43,FALSE,FALSE
+1926-10-16,Argentina,Bolivia,Argentina,Antonio de Miguel,74,FALSE,FALSE
+1926-10-17,Chile,Uruguay,Uruguay,René Borjas,22,FALSE,FALSE
+1926-10-17,Chile,Uruguay,Uruguay,Héctor Castro,32,FALSE,FALSE
+1926-10-17,Chile,Uruguay,Uruguay,Héctor Scarone,55,FALSE,FALSE
+1926-10-17,Chile,Uruguay,Chile,Guillermo Subiabre,65,FALSE,TRUE
+1926-10-20,Argentina,Paraguay,Argentina,Gabino Sosa,11,FALSE,FALSE
+1926-10-20,Argentina,Paraguay,Argentina,Roberto Cherro,16,FALSE,FALSE
+1926-10-20,Argentina,Paraguay,Argentina,Gabino Sosa,32,FALSE,FALSE
+1926-10-20,Argentina,Paraguay,Argentina,Benjamín Delgado,40,FALSE,FALSE
+1926-10-20,Argentina,Paraguay,Argentina,Benjamín Delgado,42,FALSE,FALSE
+1926-10-20,Argentina,Paraguay,Argentina,Antonio de Miguel,52,FALSE,FALSE
+1926-10-20,Argentina,Paraguay,Argentina,Gabino Sosa,59,FALSE,FALSE
+1926-10-20,Argentina,Paraguay,Argentina,Gabino Sosa,87,FALSE,FALSE
+1926-10-23,Bolivia,Paraguay,Paraguay,Ceferino Ramírez,16,FALSE,FALSE
+1926-10-23,Bolivia,Paraguay,Paraguay,Ceferino Ramírez,24,FALSE,FALSE
+1926-10-23,Bolivia,Paraguay,Paraguay,J. Ramírez,45,FALSE,FALSE
+1926-10-23,Bolivia,Paraguay,Paraguay,J. Ramírez,58,FALSE,FALSE
+1926-10-23,Bolivia,Paraguay,Paraguay,J. Ramírez,63,FALSE,FALSE
+1926-10-23,Bolivia,Paraguay,Bolivia,Carlos Soto,88,FALSE,FALSE
+1926-10-23,Bolivia,Paraguay,Paraguay,Ildefonso López,88,FALSE,FALSE
+1926-10-24,Argentina,Uruguay,Uruguay,René Borjas,22,FALSE,FALSE
+1926-10-24,Argentina,Uruguay,Uruguay,Héctor Castro,73,FALSE,FALSE
+1926-10-28,Bolivia,Uruguay,Uruguay,Héctor Scarone,9,FALSE,FALSE
+1926-10-28,Bolivia,Uruguay,Uruguay,Héctor Scarone,12,FALSE,FALSE
+1926-10-28,Bolivia,Uruguay,Uruguay,Héctor Scarone,28,FALSE,FALSE
+1926-10-28,Bolivia,Uruguay,Uruguay,Héctor Scarone,39,FALSE,FALSE
+1926-10-28,Bolivia,Uruguay,Uruguay,Ángel Romano,67,FALSE,FALSE
+1926-10-28,Bolivia,Uruguay,Uruguay,Héctor Scarone,81,FALSE,FALSE
+1926-10-31,Chile,Argentina,Chile,Guillermo Saavedra,25,FALSE,FALSE
+1926-10-31,Chile,Argentina,Argentina,Domingo Tarasconi,87,FALSE,FALSE
+1926-11-01,Paraguay,Uruguay,Uruguay,Héctor Castro,16,FALSE,FALSE
+1926-11-01,Paraguay,Uruguay,Uruguay,Héctor Castro,23,FALSE,FALSE
+1926-11-01,Paraguay,Uruguay,Uruguay,Héctor Castro,32,FALSE,FALSE
+1926-11-01,Paraguay,Uruguay,Uruguay,Zoilo Saldombide,47,FALSE,TRUE
+1926-11-01,Paraguay,Uruguay,Paraguay,Manuel Fleitas Solich,58,FALSE,TRUE
+1926-11-01,Paraguay,Uruguay,Uruguay,Héctor Castro,72,FALSE,FALSE
+1926-11-01,Paraguay,Uruguay,Uruguay,Zoilo Saldombide,82,FALSE,FALSE
+1926-11-03,Chile,Paraguay,Chile,David Arellano,21,FALSE,FALSE
+1926-11-03,Chile,Paraguay,Chile,Manuel Ramírez,42,FALSE,FALSE
+1926-11-03,Chile,Paraguay,Chile,David Arellano,64,FALSE,FALSE
+1926-11-03,Chile,Paraguay,Chile,David Arellano,71,FALSE,FALSE
+1926-11-03,Chile,Paraguay,Chile,Manuel Ramírez,82,FALSE,FALSE
+1926-11-03,Chile,Paraguay,Paraguay,Luis Vargas Peña,85,FALSE,FALSE
+1927-10-30,Argentina,Bolivia,Argentina,Segundo Luna,18,FALSE,FALSE
+1927-10-30,Argentina,Bolivia,Argentina,Alfredo Carricaberry,20,FALSE,FALSE
+1927-10-30,Argentina,Bolivia,Argentina,Humberto Recanatini,24,FALSE,TRUE
+1927-10-30,Argentina,Bolivia,Argentina,Manuel Seoane,29,FALSE,FALSE
+1927-10-30,Argentina,Bolivia,Argentina,Alfredo Carricaberry,36,FALSE,FALSE
+1927-10-30,Argentina,Bolivia,Bolivia,Mario Alborta,42,FALSE,FALSE
+1927-10-30,Argentina,Bolivia,Argentina,Segundo Luna,56,FALSE,FALSE
+1927-10-30,Argentina,Bolivia,Argentina,Manuel Seoane,79,FALSE,FALSE
+1927-11-01,Peru,Uruguay,Uruguay,Daniel Ulloa,49,TRUE,FALSE
+1927-11-01,Peru,Uruguay,Uruguay,Antonio Sacco,52,FALSE,FALSE
+1927-11-01,Peru,Uruguay,Uruguay,Antonio Sacco,71,FALSE,FALSE
+1927-11-01,Peru,Uruguay,Uruguay,Héctor Castro,75,FALSE,FALSE
+1927-11-06,Bolivia,Uruguay,Uruguay,Pedro Petrone,18,FALSE,FALSE
+1927-11-06,Bolivia,Uruguay,Uruguay,Roberto Figueroa,19,FALSE,FALSE
+1927-11-06,Bolivia,Uruguay,Uruguay,Juan Arremón,43,FALSE,FALSE
+1927-11-06,Bolivia,Uruguay,Uruguay,Pedro Petrone,65,FALSE,FALSE
+1927-11-06,Bolivia,Uruguay,Uruguay,Roberto Figueroa,67,FALSE,FALSE
+1927-11-06,Bolivia,Uruguay,Uruguay,Héctor Castro,68,FALSE,FALSE
+1927-11-06,Bolivia,Uruguay,Uruguay,Roberto Figueroa,69,FALSE,FALSE
+1927-11-06,Bolivia,Uruguay,Uruguay,Pedro Petrone,81,FALSE,FALSE
+1927-11-06,Bolivia,Uruguay,Uruguay,Héctor Scarone,86,FALSE,FALSE
+1927-11-13,Peru,Bolivia,Bolivia,José Bustamante,13,FALSE,FALSE
+1927-11-13,Peru,Bolivia,Bolivia,José Bustamante,14,FALSE,FALSE
+1927-11-13,Peru,Bolivia,Peru,Demetrio Neyra,31,FALSE,FALSE
+1927-11-13,Peru,Bolivia,Peru,Jorge Sarmiento,41,FALSE,FALSE
+1927-11-13,Peru,Bolivia,Peru,Alberto Montellanos,43,FALSE,FALSE
+1927-11-20,Argentina,Uruguay,Uruguay,Héctor Scarone,33,FALSE,FALSE
+1927-11-20,Argentina,Uruguay,Argentina,Humberto Recanatini,56,FALSE,TRUE
+1927-11-20,Argentina,Uruguay,Argentina,Segundo Luna,70,FALSE,FALSE
+1927-11-20,Argentina,Uruguay,Uruguay,Héctor Scarone,79,FALSE,FALSE
+1927-11-20,Argentina,Uruguay,Argentina,Adhemar Canavesi,85,TRUE,FALSE
+1927-11-27,Peru,Argentina,Argentina,Manuel Ferreira,1,FALSE,FALSE
+1927-11-27,Peru,Argentina,Peru,Alejandro Villanueva,3,FALSE,FALSE
+1927-11-27,Peru,Argentina,Argentina,Juan Maglio,22,FALSE,FALSE
+1927-11-27,Peru,Argentina,Argentina,Juan Maglio,25,FALSE,FALSE
+1927-11-27,Peru,Argentina,Argentina,Manuel Ferreira,30,FALSE,FALSE
+1927-11-27,Peru,Argentina,Argentina,Alfredo Carricaberry,38,FALSE,FALSE
+1929-11-01,Paraguay,Uruguay,Paraguay,Aurelio González,16,FALSE,FALSE
+1929-11-01,Paraguay,Uruguay,Paraguay,Diógenes Domínguez,55,FALSE,FALSE
+1929-11-01,Paraguay,Uruguay,Paraguay,Aurelio González,86,FALSE,FALSE
+1929-11-03,Argentina,Peru,Argentina,Carlos Peucelle,6,FALSE,FALSE
+1929-11-03,Argentina,Peru,Argentina,Adolfo Zumelzú,38,FALSE,FALSE
+1929-11-03,Argentina,Peru,Argentina,Adolfo Zumelzú,58,FALSE,FALSE
+1929-11-10,Argentina,Paraguay,Argentina,Mario Evaristo,7,FALSE,FALSE
+1929-11-10,Argentina,Paraguay,Argentina,Manuel Ferreira,24,FALSE,FALSE
+1929-11-10,Argentina,Paraguay,Argentina,Manuel Ferreira,48,FALSE,FALSE
+1929-11-10,Argentina,Paraguay,Argentina,Roberto Cherro,50,FALSE,FALSE
+1929-11-10,Argentina,Paraguay,Paraguay,Diógenes Domínguez,56,FALSE,FALSE
+1929-11-11,Peru,Uruguay,Uruguay,Lorenzo Fernández,21,FALSE,FALSE
+1929-11-11,Peru,Uruguay,Uruguay,Lorenzo Fernández,29,FALSE,FALSE
+1929-11-11,Peru,Uruguay,Uruguay,Lorenzo Fernández,43,FALSE,FALSE
+1929-11-11,Peru,Uruguay,Uruguay,José Leandro Andrade,69,FALSE,FALSE
+1929-11-11,Peru,Uruguay,Peru,Agustín Lizarbe,81,FALSE,FALSE
+1929-11-16,Paraguay,Peru,Paraguay,Lino Nessi,10,FALSE,FALSE
+1929-11-16,Paraguay,Peru,Paraguay,Aurelio González,55,FALSE,FALSE
+1929-11-16,Paraguay,Peru,Paraguay,Aurelio González,63,FALSE,FALSE
+1929-11-16,Paraguay,Peru,Paraguay,Aurelio González,69,FALSE,FALSE
+1929-11-16,Paraguay,Peru,Paraguay,Diógenes Domínguez,82,FALSE,FALSE
+1929-11-17,Argentina,Uruguay,Argentina,Manuel Ferreira,14,FALSE,FALSE
+1929-11-17,Argentina,Uruguay,Argentina,Mario Evaristo,77,FALSE,FALSE
 1930-07-13,Belgium,United States,United States,Bart McGhee,23,FALSE,FALSE
 1930-07-13,Belgium,United States,United States,Tom Florie,45,FALSE,FALSE
 1930-07-13,Belgium,United States,United States,Bert Patenaude,69,FALSE,FALSE
@@ -139,6 +431,93 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1934-06-10,Italy,Czechoslovakia,Czechoslovakia,Antonín Puč,71,FALSE,FALSE
 1934-06-10,Italy,Czechoslovakia,Italy,Raimundo Orsi,81,FALSE,FALSE
 1934-06-10,Italy,Czechoslovakia,Italy,Angelo Schiavio,95,FALSE,FALSE
+1935-01-06,Argentina,Chile,Chile,Arturo Carmona,8,FALSE,FALSE
+1935-01-06,Argentina,Chile,Argentina,Miguel Angel Lauri,28,FALSE,FALSE
+1935-01-06,Argentina,Chile,Argentina,Arturo Arrieta,49,FALSE,FALSE
+1935-01-06,Argentina,Chile,Argentina,Diego García,57,FALSE,FALSE
+1935-01-06,Argentina,Chile,Argentina,Herminio Masantonio,71,FALSE,FALSE
+1935-01-13,Peru,Uruguay,Uruguay,Héctor Castro,80,FALSE,FALSE
+1935-01-18,Chile,Uruguay,Uruguay,Aníbal Ciocca,33,FALSE,FALSE
+1935-01-18,Chile,Uruguay,Uruguay,Aníbal Ciocca,35,FALSE,FALSE
+1935-01-18,Chile,Uruguay,Chile,Carlos Giudice,54,FALSE,FALSE
+1935-01-20,Peru,Argentina,Peru,Teodoro Fernández,2,FALSE,FALSE
+1935-01-20,Peru,Argentina,Argentina,Herminio Masantonio,10,FALSE,FALSE
+1935-01-20,Peru,Argentina,Argentina,Diego García,50,FALSE,FALSE
+1935-01-20,Peru,Argentina,Argentina,Herminio Masantonio,61,FALSE,FALSE
+1935-01-20,Peru,Argentina,Argentina,Herminio Masantonio,81,FALSE,FALSE
+1935-01-26,Peru,Chile,Peru,Alberto Montellanos,5,FALSE,FALSE
+1935-01-27,Argentina,Uruguay,Uruguay,Héctor Castro,18,FALSE,FALSE
+1935-01-27,Argentina,Uruguay,Uruguay,José Taboada,28,FALSE,FALSE
+1935-01-27,Argentina,Uruguay,Uruguay,Aníbal Ciocca,36,FALSE,FALSE
+1936-12-27,Brazil,Peru,Brazil,Roberto Emílio da Cunha,7,FALSE,FALSE
+1936-12-27,Brazil,Peru,Brazil,Afonso Guimarães da Silva,30,FALSE,FALSE
+1936-12-27,Brazil,Peru,Peru,Teodoro Fernández,55,FALSE,FALSE
+1936-12-27,Brazil,Peru,Brazil,Niginho,57,FALSE,FALSE
+1936-12-27,Brazil,Peru,Peru,Alejandro Villanueva,58,FALSE,FALSE
+1936-12-30,Argentina,Chile,Argentina,Francisco Varallo,30,FALSE,FALSE
+1936-12-30,Argentina,Chile,Argentina,Francisco Varallo,43,FALSE,FALSE
+1936-12-30,Argentina,Chile,Chile,Raúl Toro Julio,73,FALSE,FALSE
+1937-01-02,Paraguay,Uruguay,Paraguay,Amadeo Ortega,9,FALSE,FALSE
+1937-01-02,Paraguay,Uruguay,Uruguay,Severino Varela,16,FALSE,FALSE
+1937-01-02,Paraguay,Uruguay,Uruguay,Severino Varela,28,FALSE,FALSE
+1937-01-02,Paraguay,Uruguay,Paraguay,Aurelio González,35,FALSE,FALSE
+1937-01-02,Paraguay,Uruguay,Paraguay,Adolfo Erico,38,FALSE,TRUE
+1937-01-02,Paraguay,Uruguay,Paraguay,Amadeo Ortega,79,FALSE,FALSE
+1937-01-03,Brazil,Chile,Brazil,Patesko,2,FALSE,FALSE
+1937-01-03,Brazil,Chile,Brazil,Carvalho Leite,6,FALSE,FALSE
+1937-01-03,Brazil,Chile,Chile,José Avendaño,19,FALSE,FALSE
+1937-01-03,Brazil,Chile,Chile,Raúl Toro Julio,25,FALSE,FALSE
+1937-01-03,Brazil,Chile,Brazil,Patesko,26,FALSE,FALSE
+1937-01-03,Brazil,Chile,Brazil,Luíz Mesquita de Oliveira,35,FALSE,FALSE
+1937-01-03,Brazil,Chile,Brazil,Luíz Mesquita de Oliveira,40,FALSE,FALSE
+1937-01-03,Brazil,Chile,Chile,Guillermo Riveros,40,FALSE,FALSE
+1937-01-03,Brazil,Chile,Brazil,Roberto Emílio da Cunha,68,FALSE,FALSE
+1937-01-03,Brazil,Chile,Chile,Raúl Toro Julio,73,FALSE,FALSE
+1937-01-06,Peru,Uruguay,Uruguay,Adelaido Camaití,16,FALSE,FALSE
+1937-01-06,Peru,Uruguay,Peru,Teodoro Fernández,29,FALSE,FALSE
+1937-01-06,Peru,Uruguay,Uruguay,Severino Varela,31,FALSE,FALSE
+1937-01-06,Peru,Uruguay,Peru,Adolfo Magallanes,40,FALSE,FALSE
+1937-01-06,Peru,Uruguay,Uruguay,Severino Varela,56,FALSE,FALSE
+1937-01-06,Peru,Uruguay,Uruguay,Juan Píriz,79,FALSE,FALSE
+1937-01-09,Argentina,Paraguay,Argentina,Alejandro Scopelli,5,FALSE,FALSE
+1937-01-09,Argentina,Paraguay,Argentina,Enrique García,8,FALSE,FALSE
+1937-01-09,Argentina,Paraguay,Argentina,Alberto Zozaya,33,FALSE,FALSE
+1937-01-09,Argentina,Paraguay,Argentina,Alejandro Scopelli,54,FALSE,FALSE
+1937-01-09,Argentina,Paraguay,Argentina,Alberto Zozaya,75,FALSE,FALSE
+1937-01-09,Argentina,Paraguay,Argentina,Alberto Zozaya,82,FALSE,FALSE
+1937-01-09,Argentina,Paraguay,Paraguay,Aurelio González,86,FALSE,FALSE
+1937-01-10,Chile,Uruguay,Chile,Raúl Toro Julio,17,FALSE,FALSE
+1937-01-10,Chile,Uruguay,Chile,Manuel Arancibia,59,FALSE,FALSE
+1937-01-10,Chile,Uruguay,Chile,Raúl Toro Julio,83,FALSE,FALSE
+1937-01-13,Brazil,Paraguay,Brazil,Patesko,31,FALSE,FALSE
+1937-01-13,Brazil,Paraguay,Brazil,Luíz Mesquita de Oliveira,42,FALSE,FALSE
+1937-01-13,Brazil,Paraguay,Brazil,Luíz Mesquita de Oliveira,51,FALSE,FALSE
+1937-01-13,Brazil,Paraguay,Brazil,Carvalho Leite,59,FALSE,FALSE
+1937-01-13,Brazil,Paraguay,Brazil,Patesko,67,FALSE,FALSE
+1937-01-16,Argentina,Peru,Argentina,Alberto Zozaya,55,FALSE,FALSE
+1937-01-17,Chile,Paraguay,Paraguay,Juan Amarilla,5,FALSE,FALSE
+1937-01-17,Chile,Paraguay,Chile,Raúl Toro Julio,8,FALSE,FALSE
+1937-01-17,Chile,Paraguay,Chile,Raúl Toro Julio,32,FALSE,FALSE
+1937-01-17,Chile,Paraguay,Paraguay,Martín Flor,47,FALSE,FALSE
+1937-01-17,Chile,Paraguay,Paraguay,Raúl Núñez Velloso,78,FALSE,FALSE
+1937-01-19,Brazil,Uruguay,Uruguay,Segundo Villadóniga,1,FALSE,FALSE
+1937-01-19,Brazil,Uruguay,Brazil,Carvalho Leite,36,FALSE,FALSE
+1937-01-19,Brazil,Uruguay,Uruguay,Juan Píriz,66,FALSE,FALSE
+1937-01-19,Brazil,Uruguay,Brazil,Antônio Almeida,72,FALSE,FALSE
+1937-01-19,Brazil,Uruguay,Brazil,Niginho,77,FALSE,FALSE
+1937-01-21,Chile,Peru,Peru,Jorge Alcalde,1,FALSE,FALSE
+1937-01-21,Chile,Peru,Chile,Guillermo Torres,16,FALSE,FALSE
+1937-01-21,Chile,Peru,Peru,Jorge Alcalde,26,FALSE,FALSE
+1937-01-21,Chile,Peru,Chile,Arturo Carmona,70,FALSE,FALSE
+1937-01-23,Argentina,Uruguay,Uruguay,Eduardo Ithurbide,5,FALSE,FALSE
+1937-01-23,Argentina,Uruguay,Uruguay,Juan Píriz,51,FALSE,FALSE
+1937-01-23,Argentina,Uruguay,Uruguay,Severino Varela,58,FALSE,FALSE
+1937-01-23,Argentina,Uruguay,Argentina,Francisco Varallo,63,FALSE,FALSE
+1937-01-23,Argentina,Uruguay,Argentina,Alberto Zozaya,68,FALSE,FALSE
+1937-01-24,Paraguay,Peru,Peru,José María Lavalle,43,FALSE,FALSE
+1937-01-30,Argentina,Brazil,Argentina,Enrique García,48,FALSE,FALSE
+1937-02-01,Argentina,Brazil,Argentina,Vicente de la Mata,102,FALSE,FALSE
+1937-02-01,Argentina,Brazil,Argentina,Vicente de la Mata,112,FALSE,FALSE
 1938-06-04,Germany,Switzerland,Germany,Josef Gauchel,29,FALSE,FALSE
 1938-06-04,Germany,Switzerland,Switzerland,André Abegglen,43,FALSE,FALSE
 1938-06-05,Brazil,Poland,Brazil,Leônidas da Silva,18,FALSE,FALSE
@@ -223,10 +602,557 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1938-06-19,Hungary,Italy,Italy,Gino Colaussi,35,FALSE,FALSE
 1938-06-19,Hungary,Italy,Hungary,György Sárosi,70,FALSE,FALSE
 1938-06-19,Hungary,Italy,Italy,Silvio Piola,82,FALSE,FALSE
-1950-06-24,Brazil,Mexico,Brazil,Ademir Marques de Menezes,30,FALSE,FALSE
+1939-01-15,Chile,Paraguay,Chile,Enrique Sorrel,8,FALSE,FALSE
+1939-01-15,Chile,Paraguay,Paraguay,Tiberio Godoy,10,FALSE,FALSE
+1939-01-15,Chile,Paraguay,Paraguay,Tiberio Godoy,24,FALSE,FALSE
+1939-01-15,Chile,Paraguay,Paraguay,Marcial Barrios,47,FALSE,FALSE
+1939-01-15,Chile,Paraguay,Paraguay,Marcial Barrios,75,FALSE,FALSE
+1939-01-15,Chile,Paraguay,Paraguay,Ricardo Aquino,88,FALSE,FALSE
+1939-01-15,Peru,Ecuador,Peru,Teodoro Fernández,6,FALSE,FALSE
+1939-01-15,Peru,Ecuador,Peru,Jorge Alcalde,16,FALSE,FALSE
+1939-01-15,Peru,Ecuador,Peru,Teodoro Fernández,34,FALSE,FALSE
+1939-01-15,Peru,Ecuador,Ecuador,Marino Alcívar,55,FALSE,FALSE
+1939-01-15,Peru,Ecuador,Peru,Jorge Alcalde,58,FALSE,FALSE
+1939-01-15,Peru,Ecuador,Peru,Teodoro Fernández,77,FALSE,FALSE
+1939-01-15,Peru,Ecuador,Ecuador,Marino Alcívar,89,FALSE,FALSE
+1939-01-22,Ecuador,Uruguay,Uruguay,Roberto Porta,22,FALSE,FALSE
+1939-01-22,Ecuador,Uruguay,Uruguay,Severino Varela,53,FALSE,FALSE
+1939-01-22,Ecuador,Uruguay,Uruguay,Severino Varela,55,FALSE,FALSE
+1939-01-22,Ecuador,Uruguay,Uruguay,Pedro Lago,65,FALSE,FALSE
+1939-01-22,Ecuador,Uruguay,Uruguay,Pedro Lago,70,FALSE,FALSE
+1939-01-22,Ecuador,Uruguay,Uruguay,Severino Varela,81,FALSE,FALSE
+1939-01-22,Peru,Chile,Peru,Teodoro Fernández,46,FALSE,FALSE
+1939-01-22,Peru,Chile,Chile,Alfonso Domínguez,55,FALSE,FALSE
+1939-01-22,Peru,Chile,Peru,Teodoro Fernández,65,FALSE,TRUE
+1939-01-22,Peru,Chile,Peru,Jorge Alcalde,80,FALSE,FALSE
+1939-01-29,Chile,Uruguay,Chile,Raúl Muñoz,3,FALSE,FALSE
+1939-01-29,Chile,Uruguay,Uruguay,Severino Varela,11,FALSE,FALSE
+1939-01-29,Chile,Uruguay,Uruguay,Adelaido Camaití,30,FALSE,FALSE
+1939-01-29,Chile,Uruguay,Chile,Roberto Luco,39,FALSE,FALSE
+1939-01-29,Chile,Uruguay,Uruguay,Oscar Chirimini,73,FALSE,FALSE
+1939-01-29,Peru,Paraguay,Peru,Teodoro Fernández,11,FALSE,FALSE
+1939-01-29,Peru,Paraguay,Peru,Teodoro Fernández,30,FALSE,FALSE
+1939-01-29,Peru,Paraguay,Peru,Jorge Alcalde,78,FALSE,FALSE
+1939-02-05,Chile,Ecuador,Chile,Raúl Toro Julio,6,FALSE,FALSE
+1939-02-05,Chile,Ecuador,Chile,José Avendaño,15,FALSE,FALSE
+1939-02-05,Chile,Ecuador,Chile,Enrique Sorrel,19,FALSE,TRUE
+1939-02-05,Chile,Ecuador,Ecuador,Manuel Arenas,35,FALSE,FALSE
+1939-02-05,Chile,Ecuador,Chile,José Avendaño,79,FALSE,FALSE
+1939-02-05,Paraguay,Uruguay,Uruguay,Pedro Lago,14,FALSE,FALSE
+1939-02-05,Paraguay,Uruguay,Uruguay,Severino Varela,40,FALSE,TRUE
+1939-02-05,Paraguay,Uruguay,Paraguay,Marcial Barrios,59,FALSE,FALSE
+1939-02-05,Paraguay,Uruguay,Uruguay,Roberto Porta,66,FALSE,FALSE
+1939-02-12,Ecuador,Paraguay,Paraguay,Eduardo Mingo,4,FALSE,FALSE
+1939-02-12,Ecuador,Paraguay,Paraguay,Tiberio Godoy,61,FALSE,FALSE
+1939-02-12,Ecuador,Paraguay,Paraguay,Eustaquio Barreiro,63,FALSE,FALSE
+1939-02-12,Ecuador,Paraguay,Ecuador,Manuel Arenas,75,FALSE,FALSE
+1939-02-12,Peru,Uruguay,Peru,Jorge Alcalde,7,FALSE,FALSE
+1939-02-12,Peru,Uruguay,Peru,Víctor Bielich,35,FALSE,FALSE
+1939-02-12,Peru,Uruguay,Uruguay,Roberto Porta,44,FALSE,FALSE
+1941-02-02,Chile,Ecuador,Chile,Raúl Toro Julio,10,FALSE,FALSE
+1941-02-02,Chile,Ecuador,Chile,Enrique Sorrel,18,FALSE,FALSE
+1941-02-02,Chile,Ecuador,Chile,Raúl Pérez,25,FALSE,FALSE
+1941-02-02,Chile,Ecuador,Chile,Armando Contreras,43,FALSE,FALSE
+1941-02-02,Chile,Ecuador,Chile,Enrique Sorrel,78,FALSE,FALSE
+1941-02-09,Chile,Peru,Chile,Raúl Pérez,20,FALSE,FALSE
+1941-02-09,Ecuador,Uruguay,Uruguay,Ismael Rivero,9,FALSE,FALSE
+1941-02-09,Ecuador,Uruguay,Uruguay,Schubert Gambetta,16,FALSE,FALSE
+1941-02-09,Ecuador,Uruguay,Uruguay,Ismael Rivero,23,FALSE,FALSE
+1941-02-09,Ecuador,Uruguay,Uruguay,Roberto Porta,39,FALSE,FALSE
+1941-02-09,Ecuador,Uruguay,Uruguay,Jorge Laurido,75,TRUE,FALSE
+1941-02-09,Ecuador,Uruguay,Uruguay,Ismael Rivero,87,FALSE,FALSE
+1941-02-12,Argentina,Peru,Argentina,José Manuel Moreno,2,FALSE,FALSE
+1941-02-12,Argentina,Peru,Peru,César Socarraz,53,FALSE,FALSE
+1941-02-12,Argentina,Peru,Argentina,José Manuel Moreno,72,FALSE,FALSE
+1941-02-16,Argentina,Ecuador,Argentina,Juan Marvezzi,3,FALSE,FALSE
+1941-02-16,Argentina,Ecuador,Argentina,Juan Marvezzi,17,FALSE,FALSE
+1941-02-16,Argentina,Ecuador,Argentina,Juan Marvezzi,28,FALSE,FALSE
+1941-02-16,Argentina,Ecuador,Argentina,José Manuel Moreno,30,FALSE,FALSE
+1941-02-16,Argentina,Ecuador,Argentina,Juan Marvezzi,39,FALSE,FALSE
+1941-02-16,Argentina,Ecuador,Ecuador,César Augusto Freire,47,FALSE,FALSE
+1941-02-16,Argentina,Ecuador,Argentina,Juan Marvezzi,59,FALSE,FALSE
+1941-02-16,Chile,Uruguay,Uruguay,Ubaldo Cruche,35,FALSE,FALSE
+1941-02-16,Chile,Uruguay,Uruguay,Oscar Chirimini,78,FALSE,FALSE
+1941-02-23,Argentina,Uruguay,Argentina,Antonio Sastre,53,FALSE,FALSE
+1941-02-23,Ecuador,Peru,Peru,Teodoro Fernández,25,FALSE,FALSE
+1941-02-23,Ecuador,Peru,Peru,Teodoro Fernández,32,FALSE,FALSE
+1941-02-23,Ecuador,Peru,Peru,Manuel Vallejas,36,FALSE,FALSE
+1941-02-23,Ecuador,Peru,Peru,Teodoro Fernández,48,FALSE,FALSE
+1941-02-26,Peru,Uruguay,Uruguay,Juan Pedro Riephoff,37,FALSE,FALSE
+1941-02-26,Peru,Uruguay,Uruguay,Obdulio Varela,70,FALSE,FALSE
+1941-03-04,Chile,Argentina,Argentina,Enrique García,71,FALSE,FALSE
+1942-01-10,Uruguay,Chile,Chile,Armando Contreras,1,FALSE,FALSE
+1942-01-10,Uruguay,Chile,Uruguay,Luis Ernesto Castro,7,FALSE,FALSE
+1942-01-10,Uruguay,Chile,Uruguay,Obdulio Varela,12,FALSE,FALSE
+1942-01-10,Uruguay,Chile,Uruguay,Aníbal Ciocca,15,FALSE,FALSE
+1942-01-10,Uruguay,Chile,Uruguay,Bibiano Zapirain,37,FALSE,FALSE
+1942-01-10,Uruguay,Chile,Uruguay,Roberto Porta,54,FALSE,FALSE
+1942-01-10,Uruguay,Chile,Uruguay,Luis Ernesto Castro,76,FALSE,FALSE
+1942-01-11,Argentina,Paraguay,Argentina,Raimundo Sandoval,9,FALSE,FALSE
+1942-01-11,Argentina,Paraguay,Argentina,Herminio Masantonio,30,FALSE,FALSE
+1942-01-11,Argentina,Paraguay,Argentina,Herminio Masantonio,47,FALSE,FALSE
+1942-01-11,Argentina,Paraguay,Paraguay,Vicente Sánchez,59,FALSE,FALSE
+1942-01-11,Argentina,Paraguay,Paraguay,Rubén Aveiro,75,FALSE,FALSE
+1942-01-11,Argentina,Paraguay,Paraguay,Rubén Aveiro,86,FALSE,FALSE
+1942-01-11,Argentina,Paraguay,Argentina,Angel Perucca,88,FALSE,FALSE
+1942-01-14,Brazil,Chile,Brazil,Patesko,1,FALSE,FALSE
+1942-01-14,Brazil,Chile,Brazil,Sylvio Pirillo,23,FALSE,FALSE
+1942-01-14,Brazil,Chile,Chile,Alfonso Domínguez,35,FALSE,FALSE
+1942-01-14,Brazil,Chile,Brazil,Sylvio Pirillo,63,FALSE,FALSE
+1942-01-14,Brazil,Chile,Brazil,Cláudio Cristóvão Pinho,66,FALSE,FALSE
+1942-01-14,Brazil,Chile,Brazil,Patesko,78,FALSE,FALSE
+1942-01-14,Brazil,Chile,Brazil,Sylvio Pirillo,86,FALSE,FALSE
+1942-01-17,Argentina,Brazil,Argentina,Enrique García,3,FALSE,FALSE
+1942-01-17,Argentina,Brazil,Argentina,Herminio Masantonio,27,FALSE,FALSE
+1942-01-17,Argentina,Brazil,Brazil,Servílio de Jesús,37,FALSE,FALSE
+1942-01-18,Paraguay,Peru,Peru,Adolfo Magallanes,1,FALSE,FALSE
+1942-01-18,Paraguay,Peru,Paraguay,Marcial Barrios,35,FALSE,FALSE
+1942-01-18,Uruguay,Ecuador,Uruguay,Bibiano Zapirain,1,FALSE,FALSE
+1942-01-18,Uruguay,Ecuador,Uruguay,Schubert Gambetta,13,FALSE,FALSE
+1942-01-18,Uruguay,Ecuador,Uruguay,Severino Varela,16,FALSE,FALSE
+1942-01-18,Uruguay,Ecuador,Uruguay,Roberto Porta,23,FALSE,FALSE
+1942-01-18,Uruguay,Ecuador,Uruguay,Severino Varela,24,FALSE,FALSE
+1942-01-18,Uruguay,Ecuador,Uruguay,Severino Varela,29,FALSE,FALSE
+1942-01-18,Uruguay,Ecuador,Uruguay,Roberto Porta,42,FALSE,FALSE
+1942-01-21,Brazil,Peru,Brazil,Pedro Amorim,43,FALSE,FALSE
+1942-01-21,Brazil,Peru,Brazil,Pedro Amorim,56,FALSE,FALSE
+1942-01-21,Brazil,Peru,Peru,Teodoro Fernández,73,FALSE,FALSE
+1942-01-22,Argentina,Ecuador,Argentina,Enrique García,2,FALSE,FALSE
+1942-01-22,Argentina,Ecuador,Argentina,José Manuel Moreno,12,FALSE,FALSE
+1942-01-22,Argentina,Ecuador,Argentina,José Manuel Moreno,16,FALSE,FALSE
+1942-01-22,Argentina,Ecuador,Argentina,José Manuel Moreno,22,FALSE,FALSE
+1942-01-22,Argentina,Ecuador,Argentina,Adolfo Pedernera,25,FALSE,FALSE
+1942-01-22,Argentina,Ecuador,Argentina,José Manuel Moreno,32,FALSE,FALSE
+1942-01-22,Argentina,Ecuador,Argentina,Herminio Masantonio,54,FALSE,FALSE
+1942-01-22,Argentina,Ecuador,Argentina,Herminio Masantonio,65,FALSE,FALSE
+1942-01-22,Argentina,Ecuador,Argentina,Herminio Masantonio,68,FALSE,FALSE
+1942-01-22,Argentina,Ecuador,Argentina,Herminio Masantonio,70,FALSE,FALSE
+1942-01-22,Argentina,Ecuador,Argentina,Angel Perucca,88,FALSE,FALSE
+1942-01-22,Argentina,Ecuador,Argentina,José Manuel Moreno,89,FALSE,FALSE
+1942-01-22,Chile,Paraguay,Paraguay,Marcial Barrios,33,FALSE,FALSE
+1942-01-22,Chile,Paraguay,Paraguay,Fabio Baudo Franco,54,FALSE,FALSE
+1942-01-24,Uruguay,Brazil,Uruguay,Severino Varela,32,FALSE,FALSE
+1942-01-25,Argentina,Peru,Argentina,Juan Carlos Heredia,12,FALSE,FALSE
+1942-01-25,Argentina,Peru,Peru,Teodoro Fernández,17,FALSE,FALSE
+1942-01-25,Argentina,Peru,Argentina,José Manuel Moreno,65,FALSE,FALSE
+1942-01-25,Argentina,Peru,Argentina,José Manuel Moreno,72,FALSE,FALSE
+1942-01-25,Ecuador,Paraguay,Paraguay,Fabio Baudo Franco,5,FALSE,FALSE
+1942-01-25,Ecuador,Paraguay,Ecuador,José María Jiménez,46,FALSE,FALSE
+1942-01-25,Ecuador,Paraguay,Paraguay,Eduardo Mingo,57,FALSE,FALSE
+1942-01-25,Ecuador,Paraguay,Paraguay,Gorgonio Ibarrola,62,FALSE,FALSE
+1942-01-28,Ecuador,Peru,Peru,Leopoldo Quiñónez,32,FALSE,FALSE
+1942-01-28,Ecuador,Peru,Ecuador,José María Jiménez,52,FALSE,FALSE
+1942-01-28,Ecuador,Peru,Peru,Luis Guzmán Gonzales,62,FALSE,FALSE
+1942-01-28,Uruguay,Paraguay,Uruguay,Severino Varela,9,FALSE,FALSE
+1942-01-28,Uruguay,Paraguay,Uruguay,Roberto Porta,26,FALSE,FALSE
+1942-01-28,Uruguay,Paraguay,Paraguay,Marcial Barrios,58,FALSE,FALSE
+1942-01-28,Uruguay,Paraguay,Uruguay,Aníbal Ciocca,65,FALSE,FALSE
+1942-01-31,Brazil,Ecuador,Brazil,Elba de Padua Lima,10,FALSE,FALSE
+1942-01-31,Brazil,Ecuador,Brazil,Sylvio Pirillo,12,FALSE,FALSE
+1942-01-31,Brazil,Ecuador,Ecuador,Enrique Alvarez,19,FALSE,TRUE
+1942-01-31,Brazil,Ecuador,Brazil,Sylvio Pirillo,29,FALSE,FALSE
+1942-01-31,Brazil,Ecuador,Brazil,Zizinho,60,FALSE,FALSE
+1942-01-31,Brazil,Ecuador,Brazil,Sylvio Pirillo,76,FALSE,FALSE
+1942-02-01,Uruguay,Peru,Uruguay,Oscar Chirimini,47,FALSE,FALSE
+1942-02-01,Uruguay,Peru,Uruguay,Luis Ernesto Castro,54,FALSE,FALSE
+1942-02-01,Uruguay,Peru,Uruguay,Roberto Porta,77,FALSE,FALSE
+1942-02-05,Brazil,Paraguay,Brazil,Zizinho,5,FALSE,FALSE
+1942-02-05,Brazil,Paraguay,Paraguay,Fabio Baudo Franco,23,FALSE,FALSE
+1942-02-05,Chile,Ecuador,Ecuador,Marino Alcívar,5,FALSE,FALSE
+1942-02-05,Chile,Ecuador,Chile,Alfonso Domínguez,20,FALSE,FALSE
+1942-02-05,Chile,Ecuador,Chile,Benito Armingol,42,FALSE,FALSE
+1942-02-07,Uruguay,Argentina,Uruguay,Bibiano Zapirain,57,FALSE,FALSE
+1945-01-14,Chile,Ecuador,Chile,Juan Alcántara,28,FALSE,FALSE
+1945-01-14,Chile,Ecuador,Chile,Erasmo Vera,29,FALSE,FALSE
+1945-01-14,Chile,Ecuador,Ecuador,Enrique Raymondi Chávez,30,FALSE,FALSE
+1945-01-14,Chile,Ecuador,Ecuador,José María Jiménez,44,FALSE,FALSE
+1945-01-14,Chile,Ecuador,Chile,Francisco Hormazábal,45,FALSE,FALSE
+1945-01-14,Chile,Ecuador,Ecuador,Luis Mendoza,51,FALSE,FALSE
+1945-01-14,Chile,Ecuador,Chile,Juan Alcántara,59,FALSE,FALSE
+1945-01-14,Chile,Ecuador,Chile,Guillermo Clavero,70,FALSE,FALSE
+1945-01-14,Chile,Ecuador,Chile,Juan Alcántara,81,FALSE,FALSE
+1945-01-18,Argentina,Bolivia,Argentina,René Pontoni,10,FALSE,FALSE
+1945-01-18,Argentina,Bolivia,Argentina,Rinaldo Martino,43,FALSE,FALSE
+1945-01-18,Argentina,Bolivia,Argentina,Félix Loustau,70,FALSE,FALSE
+1945-01-18,Argentina,Bolivia,Argentina,Vicente de la Mata,75,FALSE,FALSE
+1945-01-21,Brazil,Colombia,Brazil,Jorge Ceciliano,13,FALSE,FALSE
+1945-01-21,Brazil,Colombia,Brazil,Heleno de Freitas,15,FALSE,FALSE
+1945-01-21,Brazil,Colombia,Brazil,Jaime de Almeida,38,FALSE,FALSE
+1945-01-24,Chile,Bolivia,Chile,Guillermo Clavero,13,FALSE,FALSE
+1945-01-24,Chile,Bolivia,Chile,Guillermo Clavero,27,FALSE,FALSE
+1945-01-24,Chile,Bolivia,Chile,Guillermo Clavero,39,FALSE,FALSE
+1945-01-24,Chile,Bolivia,Chile,Juan Alcántara,75,FALSE,FALSE
+1945-01-24,Chile,Bolivia,Chile,Juan Alcántara,79,FALSE,FALSE
+1945-01-24,Ecuador,Uruguay,Uruguay,Atilio García,1,FALSE,FALSE
+1945-01-24,Ecuador,Uruguay,Uruguay,Roberto Porta,28,FALSE,FALSE
+1945-01-24,Ecuador,Uruguay,Ecuador,Víctor Aguayo,39,FALSE,FALSE
+1945-01-24,Ecuador,Uruguay,Uruguay,Atilio García,60,FALSE,FALSE
+1945-01-24,Ecuador,Uruguay,Uruguay,Obdulio Varela,69,FALSE,FALSE
+1945-01-24,Ecuador,Uruguay,Uruguay,Atilio García,83,FALSE,FALSE
+1945-01-28,Bolivia,Brazil,Brazil,Ademir de Menezes,48,FALSE,FALSE
+1945-01-28,Bolivia,Brazil,Brazil,Tesourinha,80,FALSE,FALSE
+1945-01-28,Colombia,Uruguay,Uruguay,Atilio García,22,FALSE,FALSE
+1945-01-28,Colombia,Uruguay,Uruguay,Juan Riephoff,25,FALSE,FALSE
+1945-01-28,Colombia,Uruguay,Uruguay,José García,37,FALSE,FALSE
+1945-01-28,Colombia,Uruguay,Uruguay,José María Ortiz,75,FALSE,FALSE
+1945-01-28,Colombia,Uruguay,Uruguay,José García,83,FALSE,FALSE
+1945-01-28,Colombia,Uruguay,Uruguay,Roberto Porta,86,FALSE,FALSE
+1945-01-28,Colombia,Uruguay,Uruguay,Atilio García,89,FALSE,FALSE
+1945-01-31,Argentina,Ecuador,Argentina,René Pontoni,11,FALSE,FALSE
+1945-01-31,Argentina,Ecuador,Argentina,Vicente de la Mata,50,FALSE,FALSE
+1945-01-31,Argentina,Ecuador,Ecuador,Víctor Aguayo,53,FALSE,FALSE
+1945-01-31,Argentina,Ecuador,Ecuador,José Mendoza,62,FALSE,FALSE
+1945-01-31,Argentina,Ecuador,Argentina,Rinaldo Martino,69,FALSE,FALSE
+1945-01-31,Argentina,Ecuador,Argentina,Manuel Pellegrina,83,FALSE,FALSE
+1945-01-31,Chile,Colombia,Chile,Desiderio Medina,48,FALSE,FALSE
+1945-01-31,Chile,Colombia,Chile,Manuel Piñeiro,80,FALSE,FALSE
+1945-02-07,Argentina,Colombia,Argentina,René Pontoni,3,FALSE,FALSE
+1945-02-07,Argentina,Colombia,Argentina,René Pontoni,7,FALSE,FALSE
+1945-02-07,Argentina,Colombia,Argentina,Norberto Doroteo Méndez,15,FALSE,FALSE
+1945-02-07,Argentina,Colombia,Argentina,Rinaldo Martino,27,FALSE,FALSE
+1945-02-07,Argentina,Colombia,Argentina,Norberto Doroteo Méndez,39,FALSE,FALSE
+1945-02-07,Argentina,Colombia,Argentina,Mario Boyé,41,FALSE,FALSE
+1945-02-07,Argentina,Colombia,Argentina,Félix Loustau,50,FALSE,FALSE
+1945-02-07,Argentina,Colombia,Colombia,Arturo Mendoza,52,FALSE,FALSE
+1945-02-07,Argentina,Colombia,Argentina,José Luis Ferraro,80,FALSE,FALSE
+1945-02-07,Argentina,Colombia,Argentina,José Luis Ferraro,81,FALSE,FALSE
+1945-02-07,Brazil,Uruguay,Brazil,Heleno de Freitas,8,FALSE,FALSE
+1945-02-07,Brazil,Uruguay,Brazil,Rui Campos,20,FALSE,FALSE
+1945-02-07,Brazil,Uruguay,Brazil,Heleno de Freitas,32,FALSE,FALSE
+1945-02-11,Chile,Argentina,Chile,Desiderio Medina,3,FALSE,FALSE
+1945-02-11,Chile,Argentina,Argentina,Norberto Doroteo Méndez,52,FALSE,FALSE
+1945-02-15,Argentina,Brazil,Argentina,Norberto Doroteo Méndez,14,FALSE,FALSE
+1945-02-15,Argentina,Brazil,Argentina,Norberto Doroteo Méndez,20,FALSE,FALSE
+1945-02-15,Argentina,Brazil,Brazil,Ademir de Menezes,32,FALSE,FALSE
+1945-02-15,Argentina,Brazil,Argentina,Norberto Doroteo Méndez,40,FALSE,FALSE
+1945-02-15,Bolivia,Uruguay,Uruguay,Nicolás Falero,26,FALSE,FALSE
+1945-02-15,Bolivia,Uruguay,Uruguay,Roberto Porta,75,FALSE,FALSE
+1945-02-18,Chile,Uruguay,Chile,Desiderio Medina,8,FALSE,FALSE
+1945-02-18,Colombia,Ecuador,Colombia,Luis González Rubio,2,FALSE,FALSE
+1945-02-18,Colombia,Ecuador,Ecuador,Víctor Aguayo,4,FALSE,FALSE
+1945-02-18,Colombia,Ecuador,Colombia,Roberto Gámez,64,FALSE,FALSE
+1945-02-18,Colombia,Ecuador,Colombia,Fulgencio Berdugo,70,FALSE,FALSE
+1945-02-21,Bolivia,Colombia,Colombia,Luis González Rubio,3,FALSE,FALSE
+1945-02-21,Bolivia,Colombia,Colombia,Fulgencio Berdugo,7,FALSE,FALSE
+1945-02-21,Bolivia,Colombia,Bolivia,Raúl Fernández,57,FALSE,FALSE
+1945-02-21,Bolivia,Colombia,Colombia,Roberto Gámez,67,FALSE,FALSE
+1945-02-21,Bolivia,Colombia,Bolivia,Zenón González,75,FALSE,FALSE
+1945-02-21,Bolivia,Colombia,Bolivia,Severo Orgaz,80,FALSE,FALSE
+1945-02-21,Brazil,Ecuador,Brazil,Ademir de Menezes,3,FALSE,FALSE
+1945-02-21,Brazil,Ecuador,Brazil,Ademir de Menezes,10,FALSE,FALSE
+1945-02-21,Brazil,Ecuador,Brazil,Heleno de Freitas,22,FALSE,FALSE
+1945-02-21,Brazil,Ecuador,Brazil,Heleno de Freitas,28,FALSE,FALSE
+1945-02-21,Brazil,Ecuador,Brazil,Zizinho,40,FALSE,FALSE
+1945-02-21,Brazil,Ecuador,Ecuador,Víctor Aguayo,42,FALSE,FALSE
+1945-02-21,Brazil,Ecuador,Ecuador,Guillermo Albornoz,49,FALSE,FALSE
+1945-02-21,Brazil,Ecuador,Brazil,Zizinho,65,FALSE,FALSE
+1945-02-21,Brazil,Ecuador,Brazil,Jair Rosa Pinto,67,FALSE,FALSE
+1945-02-21,Brazil,Ecuador,Brazil,Jair Rosa Pinto,68,FALSE,FALSE
+1945-02-21,Brazil,Ecuador,Brazil,Ademir de Menezes,75,FALSE,FALSE
+1945-02-25,Argentina,Uruguay,Argentina,Rinaldo Martino,50,FALSE,FALSE
+1945-02-28,Chile,Brazil,Brazil,Heleno de Freitas,20,FALSE,FALSE
+1946-01-12,Argentina,Paraguay,Argentina,Vicente de la Mata,6,FALSE,FALSE
+1946-01-12,Argentina,Paraguay,Argentina,Rinaldo Martino,43,FALSE,FALSE
+1946-01-16,Bolivia,Brazil,Brazil,Heleno de Freitas,47,FALSE,FALSE
+1946-01-16,Bolivia,Brazil,Brazil,Zizinho,65,FALSE,FALSE
+1946-01-16,Bolivia,Brazil,Brazil,Heleno de Freitas,78,FALSE,FALSE
+1946-01-16,Chile,Uruguay,Uruguay,José María Medina,34,FALSE,FALSE
+1946-01-19,Argentina,Bolivia,Argentina,Ángel Labruna,34,FALSE,FALSE
+1946-01-19,Argentina,Bolivia,Argentina,Norberto Doroteo Méndez,39,FALSE,FALSE
+1946-01-19,Argentina,Bolivia,Argentina,Norberto Doroteo Méndez,60,FALSE,FALSE
+1946-01-19,Argentina,Bolivia,Bolivia,Miguel Peredo,67,FALSE,FALSE
+1946-01-19,Argentina,Bolivia,Argentina,Juan Carlos Salvini,75,FALSE,FALSE
+1946-01-19,Argentina,Bolivia,Argentina,Félix Loustau,79,FALSE,FALSE
+1946-01-19,Argentina,Bolivia,Argentina,Juan Carlos Salvini,84,FALSE,FALSE
+1946-01-19,Argentina,Bolivia,Argentina,Ángel Labruna,89,FALSE,FALSE
+1946-01-19,Chile,Paraguay,Paraguay,Porfirio Rolón,14,FALSE,FALSE
+1946-01-19,Chile,Paraguay,Chile,Jorge Benjamín Araya,48,FALSE,FALSE
+1946-01-19,Chile,Paraguay,Chile,Atilio Cremaschi,68,FALSE,FALSE
+1946-01-23,Brazil,Uruguay,Brazil,Jair Rosa Pinto,1,FALSE,FALSE
+1946-01-23,Brazil,Uruguay,Brazil,Jair Rosa Pinto,16,FALSE,FALSE
+1946-01-23,Brazil,Uruguay,Uruguay,José María Medina,25,FALSE,FALSE
+1946-01-23,Brazil,Uruguay,Uruguay,José Antonio Vázquez,37,FALSE,FALSE
+1946-01-23,Brazil,Uruguay,Brazil,Heleno de Freitas,39,FALSE,FALSE
+1946-01-23,Brazil,Uruguay,Brazil,Francisco Aramburu,44,FALSE,FALSE
+1946-01-23,Brazil,Uruguay,Uruguay,José María Medina,70,FALSE,FALSE
+1946-01-26,Argentina,Chile,Argentina,Ángel Labruna,39,FALSE,FALSE
+1946-01-26,Argentina,Chile,Argentina,Ángel Labruna,60,FALSE,FALSE
+1946-01-26,Argentina,Chile,Argentina,Adolfo Pedernera,65,FALSE,FALSE
+1946-01-26,Argentina,Chile,Chile,Juan Alcántara,85,FALSE,FALSE
+1946-01-26,Bolivia,Paraguay,Bolivia,Juan Bautista Coronel,20,TRUE,FALSE
+1946-01-26,Bolivia,Paraguay,Paraguay,Alejandrino Genés,30,FALSE,FALSE
+1946-01-26,Bolivia,Paraguay,Bolivia,Zenón González,42,FALSE,FALSE
+1946-01-26,Bolivia,Paraguay,Paraguay,Delfín Benítez Cáceres,44,FALSE,FALSE
+1946-01-26,Bolivia,Paraguay,Paraguay,Juan Bautista Villalba,67,FALSE,FALSE
+1946-01-26,Bolivia,Paraguay,Paraguay,Juan Bautista Villalba,88,FALSE,FALSE
+1946-01-29,Bolivia,Uruguay,Uruguay,José María Medina,1,FALSE,FALSE
+1946-01-29,Bolivia,Uruguay,Uruguay,José María Medina,25,FALSE,FALSE
+1946-01-29,Bolivia,Uruguay,Uruguay,José María Medina,30,FALSE,FALSE
+1946-01-29,Bolivia,Uruguay,Uruguay,José García,75,FALSE,FALSE
+1946-01-29,Bolivia,Uruguay,Uruguay,José María Medina,78,FALSE,FALSE
+1946-01-29,Brazil,Paraguay,Paraguay,Juan Bautista Villalba,31,FALSE,FALSE
+1946-01-29,Brazil,Paraguay,Brazil,Norival Pereira Da Silva,63,FALSE,FALSE
+1946-02-02,Argentina,Uruguay,Argentina,Adolfo Pedernera,8,FALSE,FALSE
+1946-02-02,Argentina,Uruguay,Argentina,Ángel Labruna,46,FALSE,FALSE
+1946-02-02,Argentina,Uruguay,Uruguay,Juan Pedro Riephoff,59,FALSE,FALSE
+1946-02-02,Argentina,Uruguay,Argentina,Norberto Doroteo Méndez,72,FALSE,FALSE
+1946-02-03,Brazil,Chile,Brazil,Zizinho,4,FALSE,FALSE
+1946-02-03,Brazil,Chile,Brazil,Zizinho,41,FALSE,FALSE
+1946-02-03,Brazil,Chile,Brazil,Zizinho,46,FALSE,FALSE
+1946-02-03,Brazil,Chile,Brazil,Zizinho,71,FALSE,FALSE
+1946-02-03,Brazil,Chile,Chile,Santiago Salfate,84,FALSE,TRUE
+1946-02-03,Brazil,Chile,Brazil,Chico Aramburu,89,FALSE,FALSE
+1946-02-08,Bolivia,Chile,Chile,Jorge Benjamín Araya,9,FALSE,FALSE
+1946-02-08,Bolivia,Chile,Chile,Jorge Benjamín Araya,39,FALSE,FALSE
+1946-02-08,Bolivia,Chile,Chile,Atilio Cremaschi,49,FALSE,FALSE
+1946-02-08,Bolivia,Chile,Bolivia,Miguel Peredo,50,FALSE,FALSE
+1946-02-08,Bolivia,Chile,Chile,Atilio Cremaschi,78,FALSE,FALSE
+1946-02-08,Paraguay,Uruguay,Paraguay,Juan Bautista Villalba,37,FALSE,FALSE
+1946-02-08,Paraguay,Uruguay,Uruguay,Raúl Schiaffino,57,FALSE,FALSE
+1946-02-08,Paraguay,Uruguay,Paraguay,Albino Rodríguez,75,FALSE,FALSE
+1946-02-10,Argentina,Brazil,Argentina,Norberto Doroteo Méndez,14,FALSE,FALSE
+1946-02-10,Argentina,Brazil,Argentina,Norberto Doroteo Méndez,20,FALSE,FALSE
+1947-11-30,Ecuador,Bolivia,Ecuador,José María Jiménez,1,FALSE,FALSE
+1947-11-30,Ecuador,Bolivia,Ecuador,José María Jiménez,24,FALSE,FALSE
+1947-11-30,Ecuador,Bolivia,Bolivia,Benigno Gutiérrez,26,FALSE,FALSE
+1947-11-30,Ecuador,Bolivia,Bolivia,Benigno Gutiérrez,44,FALSE,FALSE
+1947-12-02,Argentina,Paraguay,Argentina,José Manuel Moreno,10,FALSE,FALSE
+1947-12-02,Argentina,Paraguay,Argentina,Félix Loustau,22,FALSE,FALSE
+1947-12-02,Argentina,Paraguay,Argentina,René Pontoni,40,FALSE,FALSE
+1947-12-02,Argentina,Paraguay,Argentina,René Pontoni,50,FALSE,FALSE
+1947-12-02,Argentina,Paraguay,Argentina,René Pontoni,82,FALSE,FALSE
+1947-12-02,Argentina,Paraguay,Argentina,Norberto Doroteo Méndez,87,FALSE,FALSE
+1947-12-02,Colombia,Uruguay,Uruguay,Nicolás Falero,26,FALSE,FALSE
+1947-12-02,Colombia,Uruguay,Uruguay,Julio César Britos,61,FALSE,FALSE
+1947-12-04,Argentina,Bolivia,Argentina,Norberto Doroteo Méndez,3,FALSE,FALSE
+1947-12-04,Argentina,Bolivia,Argentina,René Pontoni,22,FALSE,FALSE
+1947-12-04,Argentina,Bolivia,Argentina,Norberto Doroteo Méndez,44,FALSE,FALSE
+1947-12-04,Argentina,Bolivia,Argentina,Félix Loustau,56,FALSE,FALSE
+1947-12-04,Argentina,Bolivia,Argentina,Mario Boyé,58,FALSE,FALSE
+1947-12-04,Argentina,Bolivia,Argentina,Alfredo Di Stéfano,62,FALSE,FALSE
+1947-12-04,Argentina,Bolivia,Argentina,Mario Boyé,76,FALSE,FALSE
+1947-12-06,Chile,Uruguay,Uruguay,Raúl Sarro,3,FALSE,FALSE
+1947-12-06,Chile,Uruguay,Uruguay,Nicolás Falero,39,FALSE,FALSE
+1947-12-06,Chile,Uruguay,Uruguay,Nicolás Falero,42,FALSE,FALSE
+1947-12-06,Chile,Uruguay,Uruguay,Schubert Gambetta,68,FALSE,FALSE
+1947-12-06,Chile,Uruguay,Uruguay,Héctor Magliano,88,FALSE,FALSE
+1947-12-06,Chile,Uruguay,Uruguay,Héctor Magliano,89,FALSE,FALSE
+1947-12-06,Paraguay,Peru,Peru,Félix Castillo,17,FALSE,FALSE
+1947-12-06,Paraguay,Peru,Paraguay,Juan Bautista Villalba,38,FALSE,FALSE
+1947-12-06,Paraguay,Peru,Peru,Máximo Mosquera,63,FALSE,FALSE
+1947-12-06,Paraguay,Peru,Paraguay,Leocadio Marín,74,FALSE,FALSE
+1947-12-09,Bolivia,Uruguay,Uruguay,Héctor Magliano,9,FALSE,FALSE
+1947-12-09,Bolivia,Uruguay,Uruguay,Nicolás Falero,50,FALSE,FALSE
+1947-12-09,Bolivia,Uruguay,Uruguay,Nicolás Falero,79,FALSE,FALSE
+1947-12-09,Chile,Peru,Chile,Carlos Varela,25,FALSE,FALSE
+1947-12-09,Chile,Peru,Chile,Miguel Busquets,71,FALSE,FALSE
+1947-12-09,Chile,Peru,Peru,Valeriano López,72,FALSE,FALSE
+1947-12-11,Argentina,Peru,Peru,Carlos Gómez Sánchez,25,FALSE,FALSE
+1947-12-11,Argentina,Peru,Argentina,José Manuel Moreno,41,FALSE,FALSE
+1947-12-11,Argentina,Peru,Argentina,Alfredo Di Stéfano,55,FALSE,FALSE
+1947-12-11,Argentina,Peru,Argentina,Mario Boyé,56,FALSE,FALSE
+1947-12-11,Argentina,Peru,Peru,Valeriano López,65,FALSE,FALSE
+1947-12-11,Ecuador,Chile,Chile,Jorge Peñaloza,51,FALSE,FALSE
+1947-12-11,Ecuador,Chile,Chile,Pedro Hugo López,62,FALSE,FALSE
+1947-12-11,Ecuador,Chile,Chile,Pedro Hugo López,72,FALSE,FALSE
+1947-12-13,Paraguay,Uruguay,Uruguay,Héctor Magliano,3,FALSE,FALSE
+1947-12-13,Paraguay,Uruguay,Uruguay,Julio César Britos,47,FALSE,FALSE
+1947-12-13,Paraguay,Uruguay,Paraguay,Alejandrino Genés,52,FALSE,FALSE
+1947-12-13,Paraguay,Uruguay,Paraguay,Leocadio Marín,76,FALSE,FALSE
+1947-12-13,Paraguay,Uruguay,Paraguay,Alejandrino Genés,79,FALSE,FALSE
+1947-12-13,Paraguay,Uruguay,Paraguay,Juan Bautista Villalba,89,FALSE,FALSE
+1947-12-16,Argentina,Chile,Argentina,Alfredo Di Stéfano,12,FALSE,FALSE
+1947-12-16,Argentina,Chile,Chile,Fernando Riera,37,FALSE,FALSE
+1947-12-16,Ecuador,Uruguay,Uruguay,Nicolás Falero,19,FALSE,FALSE
+1947-12-16,Ecuador,Uruguay,Uruguay,Nicolás Falero,21,FALSE,FALSE
+1947-12-16,Ecuador,Uruguay,Uruguay,Washington Puente,24,FALSE,FALSE
+1947-12-16,Ecuador,Uruguay,Uruguay,José García,28,FALSE,FALSE
+1947-12-16,Ecuador,Uruguay,Uruguay,Raúl Sarro,35,FALSE,FALSE
+1947-12-16,Ecuador,Uruguay,Ecuador,César Garnica,51,FALSE,FALSE
+1947-12-16,Ecuador,Uruguay,Uruguay,Washington Puente,88,FALSE,FALSE
+1947-12-18,Argentina,Colombia,Argentina,Mario Fernández,7,FALSE,FALSE
+1947-12-18,Argentina,Colombia,Argentina,Alfredo Di Stéfano,30,FALSE,FALSE
+1947-12-18,Argentina,Colombia,Argentina,Mario Boyé,38,FALSE,FALSE
+1947-12-18,Argentina,Colombia,Argentina,Félix Loustau,55,FALSE,FALSE
+1947-12-18,Argentina,Colombia,Argentina,Alfredo Di Stéfano,62,FALSE,FALSE
+1947-12-18,Argentina,Colombia,Argentina,Alfredo Di Stéfano,75,FALSE,FALSE
+1947-12-18,Bolivia,Paraguay,Paraguay,Leocadio Marín,5,FALSE,FALSE
+1947-12-18,Bolivia,Paraguay,Paraguay,Alejandrino Genés,20,FALSE,FALSE
+1947-12-18,Bolivia,Paraguay,Paraguay,Enrique Ávalos,25,FALSE,FALSE
+1947-12-18,Bolivia,Paraguay,Bolivia,Zenón González,71,FALSE,FALSE
+1947-12-20,Colombia,Paraguay,Paraguay,Juan Bautista Villalba,22,FALSE,FALSE
+1947-12-20,Colombia,Paraguay,Paraguay,Juan Bautista Villalba,68,FALSE,FALSE
+1947-12-23,Chile,Paraguay,Paraguay,Juan Bautista Villalba,60,FALSE,FALSE
+1947-12-23,Colombia,Peru,Peru,Máximo Mosquera,3,FALSE,FALSE
+1947-12-23,Colombia,Peru,Colombia,Carlos Arango,48,FALSE,FALSE
+1947-12-23,Colombia,Peru,Peru,Luis Guzmán,53,FALSE,FALSE
+1947-12-23,Colombia,Peru,Peru,Carlos Gómez Sánchez,67,FALSE,FALSE
+1947-12-23,Colombia,Peru,Peru,Luis Guzmán,79,FALSE,FALSE
+1947-12-23,Colombia,Peru,Peru,Carlos Gómez Sánchez,81,FALSE,FALSE
+1947-12-25,Ecuador,Argentina,Argentina,José Manuel Moreno,30,FALSE,FALSE
+1947-12-25,Ecuador,Argentina,Argentina,Norberto Doroteo Méndez,72,FALSE,FALSE
+1947-12-25,Peru,Uruguay,Uruguay,Nicolás Falero,74,FALSE,FALSE
+1947-12-27,Bolivia,Peru,Peru,Juan Castillo,73,FALSE,FALSE
+1947-12-27,Bolivia,Peru,Peru,Luis Guzmán,82,FALSE,FALSE
+1947-12-28,Argentina,Uruguay,Argentina,Norberto Doroteo Méndez,30,FALSE,FALSE
+1947-12-28,Argentina,Uruguay,Argentina,Norberto Doroteo Méndez,46,FALSE,FALSE
+1947-12-28,Argentina,Uruguay,Uruguay,Julio César Britos,74,FALSE,FALSE
+1947-12-28,Argentina,Uruguay,Argentina,Félix Loustau,85,FALSE,FALSE
+1947-12-29,Chile,Colombia,Chile,Andrés Prieto,28,FALSE,FALSE
+1947-12-29,Chile,Colombia,Chile,Osvaldo Sáez,75,FALSE,FALSE
+1947-12-29,Chile,Colombia,Chile,Fernando Riera,78,FALSE,FALSE
+1947-12-29,Chile,Colombia,Chile,Osvaldo Sáez,88,FALSE,FALSE
+1947-12-29,Chile,Colombia,Colombia,Rafael Granados,90,FALSE,FALSE
+1947-12-29,Ecuador,Paraguay,Paraguay,Leocadio Marín,22,FALSE,FALSE
+1947-12-29,Ecuador,Paraguay,Paraguay,Alejandrino Genés,31,FALSE,FALSE
+1947-12-29,Ecuador,Paraguay,Paraguay,Leocadio Marín,58,FALSE,FALSE
+1947-12-29,Ecuador,Paraguay,Paraguay,Leocadio Marín,69,FALSE,FALSE
+1947-12-31,Bolivia,Chile,Chile,Duberty Aráoz,30,TRUE,FALSE
+1947-12-31,Bolivia,Chile,Chile,Osvaldo Sáez,44,FALSE,FALSE
+1947-12-31,Bolivia,Chile,Chile,Raimundo Infante,50,FALSE,FALSE
+1947-12-31,Bolivia,Chile,Chile,Pedro Hugo López,63,FALSE,FALSE
+1947-12-31,Bolivia,Chile,Bolivia,Armando Tapia,77,FALSE,FALSE
+1947-12-31,Bolivia,Chile,Bolivia,Arturo Tardío,84,FALSE,FALSE
+1947-12-31,Bolivia,Chile,Bolivia,Severo Orgaz,88,FALSE,FALSE
+1949-04-03,Brazil,Ecuador,Brazil,Tesourinha,3,FALSE,FALSE
+1949-04-03,Brazil,Ecuador,Brazil,Octavio Sergio da Costa,10,FALSE,FALSE
+1949-04-03,Brazil,Ecuador,Brazil,Jair Rosa Pinto,13,FALSE,FALSE
+1949-04-03,Brazil,Ecuador,Brazil,Pedro de Araújo Simão,16,FALSE,FALSE
+1949-04-03,Brazil,Ecuador,Ecuador,Sigifredo Cuchuca,18,FALSE,FALSE
+1949-04-03,Brazil,Ecuador,Brazil,Pedro de Araújo Simão,25,FALSE,FALSE
+1949-04-03,Brazil,Ecuador,Brazil,Jair Rosa Pinto,35,FALSE,FALSE
+1949-04-03,Brazil,Ecuador,Brazil,Tesourinha,42,FALSE,FALSE
+1949-04-03,Brazil,Ecuador,Brazil,Zizinho,67,FALSE,FALSE
+1949-04-03,Brazil,Ecuador,Brazil,Ademir de Menezes,88,FALSE,FALSE
+1949-04-06,Bolivia,Chile,Chile,Fernando Riera,30,FALSE,FALSE
+1949-04-06,Bolivia,Chile,Bolivia,Víctor Agustín Ugarte,59,FALSE,FALSE
+1949-04-06,Bolivia,Chile,Chile,Manuel Salamanca,71,FALSE,FALSE
+1949-04-06,Bolivia,Chile,Bolivia,Benedicto Godoy Véizaga,77,FALSE,FALSE
+1949-04-06,Bolivia,Chile,Bolivia,Benigno Gutiérrez,79,FALSE,FALSE
+1949-04-06,Colombia,Paraguay,Paraguay,César López Fretes,21,FALSE,FALSE
+1949-04-06,Colombia,Paraguay,Paraguay,Jorge Duilio Benitez,35,FALSE,FALSE
+1949-04-06,Colombia,Paraguay,Paraguay,César López Fretes,72,FALSE,FALSE
+1949-04-10,Brazil,Bolivia,Brazil,Nininho,16,FALSE,FALSE
+1949-04-10,Brazil,Bolivia,Brazil,Jair Rosa Pinto,17,FALSE,FALSE
+1949-04-10,Brazil,Bolivia,Brazil,Zizinho,25,FALSE,FALSE
+1949-04-10,Brazil,Bolivia,Brazil,Nininho,39,FALSE,FALSE
+1949-04-10,Brazil,Bolivia,Brazil,Cláudio Cristovão Pinho,49,FALSE,FALSE
+1949-04-10,Brazil,Bolivia,Brazil,Pedro Simão Aquino de Araújo,71,FALSE,FALSE
+1949-04-10,Brazil,Bolivia,Bolivia,Víctor Agustín Ugarte,75,FALSE,FALSE
+1949-04-10,Brazil,Bolivia,Brazil,Pedro Simão Aquino de Araújo,79,FALSE,FALSE
+1949-04-10,Brazil,Bolivia,Brazil,Zizinho,80,FALSE,FALSE
+1949-04-10,Brazil,Bolivia,Brazil,Cláudio Cristovão Pinho,84,FALSE,FALSE
+1949-04-10,Brazil,Bolivia,Brazil,Nininho,86,FALSE,FALSE
+1949-04-10,Colombia,Peru,Peru,Víctor Pedraza,22,FALSE,FALSE
+1949-04-10,Colombia,Peru,Peru,Manuel Drago,47,FALSE,FALSE
+1949-04-10,Colombia,Peru,Peru,Félix Castillo,85,FALSE,FALSE
+1949-04-10,Colombia,Peru,Peru,Víctor Pedraza,90,FALSE,FALSE
+1949-04-10,Ecuador,Paraguay,Paraguay,Marcial Barrios,89,FALSE,FALSE
+1949-04-13,Brazil,Chile,Brazil,Zizinho,20,FALSE,FALSE
+1949-04-13,Brazil,Chile,Brazil,Cláudio Cristovão Pinho,49,FALSE,TRUE
+1949-04-13,Brazil,Chile,Chile,Pedro Hugo López,89,FALSE,TRUE
+1949-04-13,Ecuador,Uruguay,Uruguay,Ramón Castro,15,FALSE,FALSE
+1949-04-13,Ecuador,Uruguay,Uruguay,Nelson Moreno,30,FALSE,FALSE
+1949-04-13,Ecuador,Uruguay,Ecuador,Víctor Artega,35,FALSE,FALSE
+1949-04-13,Ecuador,Uruguay,Ecuador,José Vargas,40,FALSE,FALSE
+1949-04-13,Ecuador,Uruguay,Uruguay,Ramón Castro,85,FALSE,FALSE
+1949-04-13,Paraguay,Peru,Paraguay,Marcial Barrios,38,FALSE,TRUE
+1949-04-13,Paraguay,Peru,Paraguay,Dionisio Arce,56,FALSE,FALSE
+1949-04-13,Paraguay,Peru,Paraguay,César López Fretes,67,FALSE,FALSE
+1949-04-13,Paraguay,Peru,Peru,Roberto Drago,89,FALSE,FALSE
+1949-04-17,Bolivia,Uruguay,Bolivia,Víctor Agustín Ugarte,47,FALSE,TRUE
+1949-04-17,Bolivia,Uruguay,Uruguay,Dagoberto Moll,49,FALSE,FALSE
+1949-04-17,Bolivia,Uruguay,Bolivia,Víctor Celestino Algañaraz,57,FALSE,FALSE
+1949-04-17,Bolivia,Uruguay,Bolivia,Benigno Gutiérrez,66,FALSE,FALSE
+1949-04-17,Bolivia,Uruguay,Uruguay,Ernesto Betancourt,70,FALSE,FALSE
+1949-04-17,Brazil,Colombia,Brazil,Tesourinha,20,FALSE,FALSE
+1949-04-17,Brazil,Colombia,Brazil,Millón Medeiros,24,FALSE,TRUE
+1949-04-17,Brazil,Colombia,Brazil,Orlando de Azevedo Viarina,44,FALSE,FALSE
+1949-04-17,Brazil,Colombia,Brazil,Ademir de Menezes,47,FALSE,FALSE
+1949-04-17,Brazil,Colombia,Brazil,Ademir de Menezes,87,FALSE,FALSE
+1949-04-17,Chile,Ecuador,Chile,Carlos Rojas,4,FALSE,FALSE
+1949-04-20,Chile,Colombia,Chile,Pedro Hugo López,8,FALSE,FALSE
+1949-04-20,Chile,Colombia,Colombia,Fulgencio Berdugo,56,FALSE,FALSE
+1949-04-20,Ecuador,Peru,Peru,Juan Emilio Salinas,26,FALSE,FALSE
+1949-04-20,Ecuador,Peru,Peru,Marcos Bermeo,36,TRUE,FALSE
+1949-04-20,Ecuador,Peru,Peru,Félix Castillo,50,FALSE,FALSE
+1949-04-20,Ecuador,Peru,Peru,Víctor Pedraza,85,FALSE,FALSE
+1949-04-20,Paraguay,Uruguay,Uruguay,Jose Maria Garcia,22,FALSE,FALSE
+1949-04-20,Paraguay,Uruguay,Paraguay,Dionisio Arce,65,FALSE,TRUE
+1949-04-20,Paraguay,Uruguay,Uruguay,Jose Maria Garcia,69,FALSE,FALSE
+1949-04-24,Brazil,Peru,Brazil,Gerardo Arce,11,TRUE,FALSE
+1949-04-24,Brazil,Peru,Brazil,Augusto da Costa,15,FALSE,FALSE
+1949-04-24,Brazil,Peru,Brazil,Jair Rosa Pinto,17,FALSE,FALSE
+1949-04-24,Brazil,Peru,Brazil,Jair Rosa Pinto,20,FALSE,FALSE
+1949-04-24,Brazil,Peru,Peru,Juan Emilio Salinas,44,FALSE,FALSE
+1949-04-24,Brazil,Peru,Brazil,Pedro de Araújo Simão,54,FALSE,FALSE
+1949-04-24,Brazil,Peru,Brazil,Ademir de Menezes,82,FALSE,FALSE
+1949-04-24,Brazil,Peru,Brazil,Orlando de Azevedo Viarina,88,FALSE,FALSE
+1949-04-25,Bolivia,Ecuador,Bolivia,Carlos Sánchez,6,TRUE,FALSE
+1949-04-25,Bolivia,Ecuador,Bolivia,Víctor Ugarte,14,FALSE,TRUE
+1949-04-25,Uruguay,Colombia,Colombia,Luz Gastelbondo,27,FALSE,FALSE
+1949-04-25,Uruguay,Colombia,Uruguay,Miguel Martínez,57,FALSE,FALSE
+1949-04-25,Uruguay,Colombia,Colombia,Alfredo Pérez,81,FALSE,FALSE
+1949-04-25,Uruguay,Colombia,Uruguay,Juan Ayala,86,FALSE,FALSE
+1949-04-27,Bolivia,Peru,Peru,Roberto Drago,31,FALSE,FALSE
+1949-04-27,Bolivia,Peru,Peru,Roberto Drago,74,FALSE,FALSE
+1949-04-27,Bolivia,Peru,Peru,Cornelio Heredia,77,FALSE,TRUE
+1949-04-27,Chile,Paraguay,Chile,Atilio Cremaschi,8,FALSE,FALSE
+1949-04-27,Chile,Paraguay,Paraguay,Dionisio Arce,10,FALSE,FALSE
+1949-04-27,Chile,Paraguay,Paraguay,Jorge Duilio Benitez,23,FALSE,FALSE
+1949-04-27,Chile,Paraguay,Paraguay,Dionisio Arce,39,FALSE,FALSE
+1949-04-27,Chile,Paraguay,Paraguay,Dionisio Arce,47,FALSE,FALSE
+1949-04-27,Chile,Paraguay,Chile,Ulises Ramos,72,FALSE,FALSE
+1949-04-30,Bolivia,Paraguay,Paraguay,Jorge Duilio Benitez,17,FALSE,FALSE
+1949-04-30,Bolivia,Paraguay,Paraguay,Dionisio Arce,25,FALSE,FALSE
+1949-04-30,Bolivia,Paraguay,Paraguay,Dionisio Arce,38,FALSE,FALSE
+1949-04-30,Bolivia,Paraguay,Paraguay,Pedro Fernández,51,FALSE,FALSE
+1949-04-30,Bolivia,Paraguay,Paraguay,Jorge Duilio Benitez,67,FALSE,FALSE
+1949-04-30,Bolivia,Paraguay,Paraguay,Jorge Duilio Benitez,78,FALSE,FALSE
+1949-04-30,Bolivia,Paraguay,Paraguay,Jorge Duilio Benitez,89,FALSE,FALSE
+1949-04-30,Brazil,Uruguay,Uruguay,Ramón Castro,12,FALSE,FALSE
+1949-04-30,Brazil,Uruguay,Brazil,Jair Rosa Pinto,15,FALSE,FALSE
+1949-04-30,Brazil,Uruguay,Brazil,Zizinho,24,FALSE,FALSE
+1949-04-30,Brazil,Uruguay,Brazil,Jair Rosa Pinto,40,FALSE,TRUE
+1949-04-30,Brazil,Uruguay,Brazil,Danilo Alvim,79,FALSE,FALSE
+1949-04-30,Brazil,Uruguay,Brazil,Tesourinha,89,FALSE,TRUE
+1949-04-30,Chile,Peru,Peru,Alfredo Mosquera,28,FALSE,FALSE
+1949-04-30,Chile,Peru,Peru,Félix Castillo,58,FALSE,FALSE
+1949-04-30,Chile,Peru,Peru,Alfredo Mosquera,73,FALSE,FALSE
+1949-05-03,Colombia,Ecuador,Ecuador,Enrique Cantos,23,FALSE,FALSE
+1949-05-03,Colombia,Ecuador,Colombia,Nelson Pérez,27,FALSE,FALSE
+1949-05-03,Colombia,Ecuador,Ecuador,José Vargas,44,FALSE,FALSE
+1949-05-03,Colombia,Ecuador,Ecuador,Guido Andrade,49,FALSE,FALSE
+1949-05-03,Colombia,Ecuador,Ecuador,Rafael Maldonado,74,FALSE,FALSE
+1949-05-04,Peru,Uruguay,Peru,Alfredo Mosquera,19,FALSE,FALSE
+1949-05-04,Peru,Uruguay,Peru,Félix Castillo,43,FALSE,FALSE
+1949-05-04,Peru,Uruguay,Peru,Carlos Gómez Sánchez,57,FALSE,FALSE
+1949-05-04,Peru,Uruguay,Uruguay,Dagoberto Moll,58,FALSE,FALSE
+1949-05-04,Peru,Uruguay,Peru,Carlos Gómez Sánchez,60,FALSE,FALSE
+1949-05-04,Peru,Uruguay,Uruguay,Ramón Castro,60,FALSE,FALSE
+1949-05-04,Peru,Uruguay,Uruguay,Juan Ayala,85,FALSE,FALSE
+1949-05-06,Bolivia,Colombia,Bolivia,Benedicto Godoy Véizaga,10,FALSE,FALSE
+1949-05-06,Bolivia,Colombia,Bolivia,Benigno Gutiérrez,55,FALSE,FALSE
+1949-05-06,Bolivia,Colombia,Bolivia,Nemesio Rojas,77,FALSE,FALSE
+1949-05-06,Bolivia,Colombia,Bolivia,Víctor Ugarte,81,FALSE,FALSE
+1949-05-08,Brazil,Paraguay,Brazil,Tesourinha,33,FALSE,FALSE
+1949-05-08,Brazil,Paraguay,Paraguay,Enrique Ávalos,75,FALSE,FALSE
+1949-05-08,Brazil,Paraguay,Paraguay,Jorge Duilio Benitez,85,FALSE,FALSE
+1949-05-08,Chile,Uruguay,Uruguay,Juan Ayala,35,FALSE,FALSE
+1949-05-08,Chile,Uruguay,Chile,Raimundo Infante,75,FALSE,FALSE
+1949-05-08,Chile,Uruguay,Chile,Raimundo Infante,83,FALSE,TRUE
+1949-05-08,Chile,Uruguay,Chile,Atilio Cremaschi,88,FALSE,FALSE
+1949-05-11,Brazil,Paraguay,Brazil,Ademir de Menezes,17,FALSE,FALSE
+1949-05-11,Brazil,Paraguay,Brazil,Ademir de Menezes,27,FALSE,FALSE
+1949-05-11,Brazil,Paraguay,Brazil,Tesourinha,43,FALSE,FALSE
+1949-05-11,Brazil,Paraguay,Brazil,Ademir de Menezes,48,FALSE,FALSE
+1949-05-11,Brazil,Paraguay,Brazil,Tesourinha,70,FALSE,FALSE
+1949-05-11,Brazil,Paraguay,Brazil,Jair Rosa Pinto,72,FALSE,FALSE
+1949-05-11,Brazil,Paraguay,Brazil,Jair Rosa Pinto,89,FALSE,FALSE
+1950-06-24,Brazil,Mexico,Brazil,Ademir de Menezes,30,FALSE,FALSE
 1950-06-24,Brazil,Mexico,Brazil,Jair da Rosa Pinto,65,FALSE,FALSE
 1950-06-24,Brazil,Mexico,Brazil,Baltazar,71,FALSE,FALSE
-1950-06-24,Brazil,Mexico,Brazil,Ademir Marques de Menezes,79,FALSE,FALSE
+1950-06-24,Brazil,Mexico,Brazil,Ademir de Menezes,79,FALSE,FALSE
 1950-06-25,Chile,England,England,Stan Mortensen,39,FALSE,FALSE
 1950-06-25,Chile,England,England,Wilf Mannion,51,FALSE,FALSE
 1950-06-25,Italy,Sweden,Italy,Riccardo Carapellese,7,FALSE,FALSE
@@ -257,7 +1183,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1950-06-29,Paraguay,Sweden,Sweden,Karl-Erik Palmér,26,FALSE,FALSE
 1950-06-29,Paraguay,Sweden,Paraguay,Atilio López,35,FALSE,FALSE
 1950-06-29,Paraguay,Sweden,Paraguay,César López Fretes,74,FALSE,FALSE
-1950-07-01,Brazil,Yugoslavia,Brazil,Ademir Marques de Menezes,4,FALSE,FALSE
+1950-07-01,Brazil,Yugoslavia,Brazil,Ademir de Menezes,4,FALSE,FALSE
 1950-07-01,Brazil,Yugoslavia,Brazil,Thomaz Soares da Silva,69,FALSE,FALSE
 1950-07-02,Bolivia,Uruguay,Uruguay,Óscar Míguez,14,FALSE,FALSE
 1950-07-02,Bolivia,Uruguay,Uruguay,Ernesto Vidal,18,FALSE,FALSE
@@ -280,11 +1206,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1950-07-02,Mexico,Switzerland,Switzerland,René Bader,10,FALSE,FALSE
 1950-07-02,Mexico,Switzerland,Switzerland,Charles Antenen,44,FALSE,FALSE
 1950-07-02,Mexico,Switzerland,Mexico,Horacio Casarín,89,FALSE,FALSE
-1950-07-09,Brazil,Sweden,Brazil,Ademir Marques de Menezes,17,FALSE,FALSE
-1950-07-09,Brazil,Sweden,Brazil,Ademir Marques de Menezes,36,FALSE,FALSE
+1950-07-09,Brazil,Sweden,Brazil,Ademir de Menezes,17,FALSE,FALSE
+1950-07-09,Brazil,Sweden,Brazil,Ademir de Menezes,36,FALSE,FALSE
 1950-07-09,Brazil,Sweden,Brazil,Francisco Aramburu,39,FALSE,FALSE
-1950-07-09,Brazil,Sweden,Brazil,Ademir Marques de Menezes,52,FALSE,FALSE
-1950-07-09,Brazil,Sweden,Brazil,Ademir Marques de Menezes,58,FALSE,FALSE
+1950-07-09,Brazil,Sweden,Brazil,Ademir de Menezes,52,FALSE,FALSE
+1950-07-09,Brazil,Sweden,Brazil,Ademir de Menezes,58,FALSE,FALSE
 1950-07-09,Brazil,Sweden,Sweden,Sune Andersson,67,FALSE,TRUE
 1950-07-09,Brazil,Sweden,Brazil,Maneca,85,FALSE,FALSE
 1950-07-09,Brazil,Sweden,Brazil,Francisco Aramburu,88,FALSE,FALSE
@@ -311,6 +1237,73 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1950-07-16,Spain,Sweden,Sweden,Bror Mellberg,33,FALSE,FALSE
 1950-07-16,Spain,Sweden,Sweden,Karl-Erik Palmér,80,FALSE,FALSE
 1950-07-16,Spain,Sweden,Spain,Telmo Zarra,82,FALSE,FALSE
+1953-02-22,Peru,Bolivia,Bolivia,Víctor Ugarte,53,FALSE,FALSE
+1953-02-25,Bolivia,Uruguay,Uruguay,Washington Puente,11,FALSE,FALSE
+1953-02-25,Bolivia,Uruguay,Uruguay,Carlos Romero,88,FALSE,FALSE
+1953-02-25,Chile,Paraguay,Paraguay,Rubén Fernández,54,FALSE,FALSE
+1953-02-25,Chile,Paraguay,Paraguay,Rubén Fernández,75,FALSE,FALSE
+1953-02-25,Chile,Paraguay,Paraguay,Ángel Berni,78,FALSE,FALSE
+1953-02-28,Peru,Ecuador,Peru,Óscar Gómez Sánchez,78,FALSE,FALSE
+1953-03-01,Bolivia,Brazil,Brazil,Júlio Botelho,18,FALSE,FALSE
+1953-03-01,Bolivia,Brazil,Brazil,Júlio Botelho,20,FALSE,FALSE
+1953-03-01,Bolivia,Brazil,Brazil,Francisco Rodrigues,25,FALSE,FALSE
+1953-03-01,Bolivia,Brazil,Brazil,Pinga,39,FALSE,FALSE
+1953-03-01,Bolivia,Brazil,Brazil,Júlio Botelho,42,FALSE,FALSE
+1953-03-01,Bolivia,Brazil,Brazil,Francisco Rodrigues,44,FALSE,FALSE
+1953-03-01,Bolivia,Brazil,Brazil,Júlio Botelho,52,FALSE,FALSE
+1953-03-01,Bolivia,Brazil,Brazil,Pinga,60,FALSE,FALSE
+1953-03-01,Bolivia,Brazil,Bolivia,Víctor Ugarte,73,FALSE,TRUE
+1953-03-01,Chile,Uruguay,Chile,Francisco Molina,5,FALSE,FALSE
+1953-03-01,Chile,Uruguay,Chile,Francisco Molina,55,FALSE,FALSE
+1953-03-01,Chile,Uruguay,Chile,Francisco Molina,67,FALSE,FALSE
+1953-03-01,Chile,Uruguay,Uruguay,Walter Morel,70,FALSE,FALSE
+1953-03-01,Chile,Uruguay,Uruguay,Osvaldo Balseiro,81,FALSE,FALSE
+1953-03-08,Bolivia,Ecuador,Ecuador,Eduardo Guzmán,6,FALSE,FALSE
+1953-03-08,Bolivia,Ecuador,Bolivia,Ricardo Alcón,25,FALSE,FALSE
+1953-03-08,Peru,Paraguay,Paraguay,Rubén Fernández,36,FALSE,FALSE
+1953-03-08,Peru,Paraguay,Peru,Óscar Gómez Sánchez,47,FALSE,FALSE
+1953-03-08,Peru,Paraguay,Peru,Alberto Terry,53,FALSE,FALSE
+1953-03-08,Peru,Paraguay,Paraguay,Ángel Berni,77,FALSE,FALSE
+1953-03-12,Brazil,Ecuador,Brazil,Ademir de Menezes,18,FALSE,FALSE
+1953-03-12,Brazil,Ecuador,Brazil,Cláudio Christovam de Pinho,55,FALSE,FALSE
+1953-03-12,Paraguay,Uruguay,Paraguay,Atilio López,5,FALSE,FALSE
+1953-03-12,Paraguay,Uruguay,Uruguay,Osvaldo Balseiro,36,FALSE,FALSE
+1953-03-12,Paraguay,Uruguay,Paraguay,Ángel Berni,52,FALSE,FALSE
+1953-03-12,Paraguay,Uruguay,Uruguay,Osvaldo Balseiro,55,FALSE,FALSE
+1953-03-15,Brazil,Uruguay,Brazil,Ipojucan Lins de Araújo,87,FALSE,FALSE
+1953-03-16,Bolivia,Paraguay,Paraguay,Juan Angel Romero,17,FALSE,FALSE
+1953-03-16,Bolivia,Paraguay,Paraguay,Ángel Berni,22,FALSE,FALSE
+1953-03-16,Bolivia,Paraguay,Bolivia,Ramón Santos,76,FALSE,FALSE
+1953-03-19,Chile,Ecuador,Chile,Francisco Molina,33,FALSE,FALSE
+1953-03-19,Chile,Ecuador,Chile,Francisco Molina,47,FALSE,FALSE
+1953-03-19,Chile,Ecuador,Chile,Atilio Cremaschi,70,FALSE,FALSE
+1953-03-19,Peru,Brazil,Peru,Luis Navarrete,51,FALSE,FALSE
+1953-03-23,Brazil,Chile,Brazil,Júlio Botelho,1,FALSE,FALSE
+1953-03-23,Brazil,Chile,Brazil,Zizinho,53,FALSE,FALSE
+1953-03-23,Brazil,Chile,Chile,Francisco Molina,62,FALSE,FALSE
+1953-03-23,Brazil,Chile,Brazil,Baltazar,70,FALSE,FALSE
+1953-03-23,Brazil,Chile,Chile,Francisco Molina,76,FALSE,FALSE
+1953-03-23,Ecuador,Uruguay,Uruguay,Omar Méndez,12,FALSE,FALSE
+1953-03-23,Ecuador,Uruguay,Uruguay,Washington Puente,51,FALSE,FALSE
+1953-03-23,Ecuador,Uruguay,Uruguay,Donald Peláez,58,FALSE,FALSE
+1953-03-23,Ecuador,Uruguay,Uruguay,Walter Morel,60,FALSE,FALSE
+1953-03-23,Ecuador,Uruguay,Uruguay,Carlos Romero,86,FALSE,FALSE
+1953-03-23,Ecuador,Uruguay,Uruguay,Osvaldo Balseiro,88,FALSE,FALSE
+1953-03-27,Brazil,Paraguay,Brazil,Nílton Santos,12,FALSE,FALSE
+1953-03-27,Brazil,Paraguay,Paraguay,Atilio López,49,FALSE,FALSE
+1953-03-27,Brazil,Paraguay,Paraguay,Pablo León,89,FALSE,FALSE
+1953-03-28,Bolivia,Chile,Bolivia,Ramón Santos,15,FALSE,FALSE
+1953-03-28,Bolivia,Chile,Chile,René Meléndez,28,FALSE,FALSE
+1953-03-28,Bolivia,Chile,Bolivia,Ricardo Alcón,49,FALSE,FALSE
+1953-03-28,Bolivia,Chile,Chile,Guillermo Díaz Carmona,52,FALSE,FALSE
+1953-03-28,Peru,Uruguay,Uruguay,Donald Peláez,23,FALSE,FALSE
+1953-03-28,Peru,Uruguay,Uruguay,Donald Peláez,67,FALSE,FALSE
+1953-03-28,Peru,Uruguay,Uruguay,Carlos Romero,71,FALSE,FALSE
+1953-04-01,Brazil,Paraguay,Paraguay,Atilio López,14,FALSE,FALSE
+1953-04-01,Brazil,Paraguay,Paraguay,Manuel Gavilán,17,FALSE,FALSE
+1953-04-01,Brazil,Paraguay,Paraguay,Rubén Fernández,41,FALSE,FALSE
+1953-04-01,Brazil,Paraguay,Brazil,Baltazar,56,FALSE,FALSE
+1953-04-01,Brazil,Paraguay,Brazil,Baltazar,65,FALSE,FALSE
 1954-06-16,Austria,Scotland,Austria,Erich Probst,33,FALSE,FALSE
 1954-06-16,Brazil,Mexico,Brazil,Baltazar,23,FALSE,FALSE
 1954-06-16,Brazil,Mexico,Brazil,Didi,30,FALSE,FALSE
@@ -451,6 +1444,218 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1954-07-04,Germany,Hungary,Germany,Max Morlock,10,FALSE,FALSE
 1954-07-04,Germany,Hungary,Germany,Helmut Rahn,18,FALSE,FALSE
 1954-07-04,Germany,Hungary,Germany,Helmut Rahn,84,FALSE,FALSE
+1955-02-27,Chile,Ecuador,Chile,Enrique Hormazábal,27,FALSE,FALSE
+1955-02-27,Chile,Ecuador,Chile,Guillermo Díaz,31,FALSE,FALSE
+1955-02-27,Chile,Ecuador,Chile,René Meléndez,33,FALSE,FALSE
+1955-02-27,Chile,Ecuador,Chile,Guillermo Díaz,35,FALSE,FALSE
+1955-02-27,Chile,Ecuador,Chile,Enrique Hormazábal,47,FALSE,FALSE
+1955-02-27,Chile,Ecuador,Chile,Enrique Hormazábal,53,FALSE,FALSE
+1955-02-27,Chile,Ecuador,Chile,George Robledo,55,FALSE,FALSE
+1955-02-27,Chile,Ecuador,Ecuador,Washington Villacreses,64,FALSE,FALSE
+1955-03-02,Argentina,Paraguay,Argentina,Rodolfo Micheli,5,FALSE,FALSE
+1955-03-02,Argentina,Paraguay,Paraguay,Máximo Rolón,13,FALSE,FALSE
+1955-03-02,Argentina,Paraguay,Argentina,Rodolfo Micheli,18,FALSE,TRUE
+1955-03-02,Argentina,Paraguay,Paraguay,Eulogio Martínez,47,FALSE,FALSE
+1955-03-02,Argentina,Paraguay,Argentina,Rodolfo Micheli,64,FALSE,FALSE
+1955-03-02,Argentina,Paraguay,Argentina,José Borello,74,FALSE,FALSE
+1955-03-02,Argentina,Paraguay,Argentina,Rodolfo Micheli,83,FALSE,FALSE
+1955-03-02,Argentina,Paraguay,Paraguay,Salvador Villalba,89,FALSE,FALSE
+1955-03-06,Chile,Peru,Chile,Manuel Muñoz,9,FALSE,FALSE
+1955-03-06,Chile,Peru,Chile,George Robledo,13,FALSE,FALSE
+1955-03-06,Chile,Peru,Peru,Félix Castillo,35,FALSE,FALSE
+1955-03-06,Chile,Peru,Chile,Enrique Hormazábal,52,FALSE,FALSE
+1955-03-06,Chile,Peru,Chile,George Robledo,57,FALSE,FALSE
+1955-03-06,Chile,Peru,Peru,Guillermo Barbadillo,62,FALSE,FALSE
+1955-03-06,Chile,Peru,Peru,Cornelio Heredia,63,FALSE,TRUE
+1955-03-06,Chile,Peru,Peru,Óscar Gómez Sánchez,83,FALSE,FALSE
+1955-03-06,Chile,Peru,Chile,Jaime Ramírez,84,FALSE,FALSE
+1955-03-09,Argentina,Ecuador,Argentina,Ricardo Bonelli,11,FALSE,FALSE
+1955-03-09,Argentina,Ecuador,Argentina,Ernesto Grillo,24,FALSE,FALSE
+1955-03-09,Argentina,Ecuador,Argentina,Rodolfo Micheli,28,FALSE,FALSE
+1955-03-09,Argentina,Ecuador,Argentina,José Borello,71,FALSE,FALSE
+1955-03-09,Paraguay,Uruguay,Uruguay,Carlos Borges,2,FALSE,FALSE
+1955-03-09,Paraguay,Uruguay,Uruguay,Julio Abbadie,5,FALSE,FALSE
+1955-03-09,Paraguay,Uruguay,Paraguay,Máximo Rolón,23,FALSE,FALSE
+1955-03-09,Paraguay,Uruguay,Uruguay,Óscar Míguez,86,FALSE,TRUE
+1955-03-13,Chile,Uruguay,Uruguay,Américo Galván,24,FALSE,FALSE
+1955-03-13,Chile,Uruguay,Chile,Manuel Muñoz,30,FALSE,FALSE
+1955-03-13,Chile,Uruguay,Uruguay,Américo Galván,41,FALSE,FALSE
+1955-03-13,Chile,Uruguay,Chile,Enrique Hormazábal,72,FALSE,FALSE
+1955-03-13,Ecuador,Peru,Peru,Óscar Gómez Sánchez,11,FALSE,FALSE
+1955-03-13,Ecuador,Peru,Peru,Óscar Gómez Sánchez,15,FALSE,FALSE
+1955-03-13,Ecuador,Peru,Peru,Honorato Gonzabay,29,TRUE,FALSE
+1955-03-13,Ecuador,Peru,Ecuador,Isidro Matute,34,FALSE,FALSE
+1955-03-13,Ecuador,Peru,Ecuador,Isidro Matute,61,FALSE,FALSE
+1955-03-13,Ecuador,Peru,Peru,Honorato Gonzabay,88,TRUE,FALSE
+1955-03-16,Argentina,Peru,Argentina,Ernesto Grillo,7,FALSE,FALSE
+1955-03-16,Argentina,Peru,Peru,Óscar Gómez Sánchez,23,FALSE,FALSE
+1955-03-16,Argentina,Peru,Argentina,Carlos Cecconato,41,FALSE,FALSE
+1955-03-16,Argentina,Peru,Peru,Óscar Gómez Sánchez,57,FALSE,FALSE
+1955-03-16,Ecuador,Paraguay,Paraguay,Máximo Rolón,16,FALSE,FALSE
+1955-03-16,Ecuador,Paraguay,Paraguay,Máximo Rolón,32,FALSE,TRUE
+1955-03-20,Chile,Paraguay,Chile,René Meléndez,10,FALSE,FALSE
+1955-03-20,Chile,Paraguay,Chile,René Meléndez,52,FALSE,FALSE
+1955-03-20,Chile,Paraguay,Chile,Manuel Muñoz,77,FALSE,FALSE
+1955-03-20,Chile,Paraguay,Chile,Manuel Muñoz,79,FALSE,FALSE
+1955-03-20,Chile,Paraguay,Chile,Enrique Hormazábal,82,FALSE,FALSE
+1955-03-23,Ecuador,Uruguay,Uruguay,Américo Galván,4,FALSE,FALSE
+1955-03-23,Ecuador,Uruguay,Uruguay,Óscar Míguez,12,FALSE,FALSE
+1955-03-23,Ecuador,Uruguay,Uruguay,Julio Abbadie,26,FALSE,FALSE
+1955-03-23,Ecuador,Uruguay,Ecuador,Isidro Matute,36,FALSE,FALSE
+1955-03-23,Ecuador,Uruguay,Uruguay,Julio Pérez,54,FALSE,FALSE
+1955-03-23,Ecuador,Uruguay,Uruguay,Julio Abbadie,80,FALSE,FALSE
+1955-03-23,Paraguay,Peru,Peru,Alberto Terry,33,FALSE,FALSE
+1955-03-23,Paraguay,Peru,Paraguay,Máximo Rolón,65,FALSE,FALSE
+1955-03-27,Argentina,Uruguay,Uruguay,Óscar Míguez,32,FALSE,FALSE
+1955-03-27,Argentina,Uruguay,Argentina,Rodolfo Micheli,37,FALSE,FALSE
+1955-03-27,Argentina,Uruguay,Argentina,Ángel Labruna,39,FALSE,FALSE
+1955-03-27,Argentina,Uruguay,Argentina,Rodolfo Micheli,61,FALSE,FALSE
+1955-03-27,Argentina,Uruguay,Argentina,Ángel Labruna,71,FALSE,FALSE
+1955-03-27,Argentina,Uruguay,Argentina,José Borello,76,FALSE,FALSE
+1955-03-27,Argentina,Uruguay,Argentina,Ángel Labruna,87,FALSE,FALSE
+1955-03-30,Chile,Argentina,Argentina,Rodolfo Micheli,59,FALSE,FALSE
+1955-03-30,Peru,Uruguay,Peru,Roberto Castillo,11,FALSE,FALSE
+1955-03-30,Peru,Uruguay,Peru,Óscar Gómez Sánchez,68,FALSE,FALSE
+1955-03-30,Peru,Uruguay,Uruguay,Walter Morel,72,FALSE,FALSE
+1956-01-21,Uruguay,Paraguay,Uruguay,Óscar Míguez,12,FALSE,FALSE
+1956-01-21,Uruguay,Paraguay,Uruguay,Guillermo Escalada,25,FALSE,FALSE
+1956-01-21,Uruguay,Paraguay,Uruguay,Guillermo Escalada,32,FALSE,FALSE
+1956-01-21,Uruguay,Paraguay,Uruguay,José Walter Roque,65,FALSE,FALSE
+1956-01-21,Uruguay,Paraguay,Paraguay,Máximo Rolón,81,FALSE,FALSE
+1956-01-21,Uruguay,Paraguay,Paraguay,Antonio Gómez,89,FALSE,FALSE
+1956-01-22,Argentina,Peru,Argentina,Omar Sívori,43,FALSE,FALSE
+1956-01-22,Argentina,Peru,Argentina,Federico Vairo,51,FALSE,FALSE
+1956-01-22,Argentina,Peru,Peru,Roberto Drago,56,FALSE,FALSE
+1956-01-24,Brazil,Chile,Chile,Enrique Hormazábal,8,FALSE,FALSE
+1956-01-24,Brazil,Chile,Brazil,Maurinho,38,FALSE,FALSE
+1956-01-24,Brazil,Chile,Chile,René Meléndez,65,FALSE,FALSE
+1956-01-24,Brazil,Chile,Chile,Leonel Sánchez,71,FALSE,FALSE
+1956-01-24,Brazil,Chile,Chile,Enrique Hormazábal,83,FALSE,FALSE
+1956-01-28,Uruguay,Peru,Uruguay,Guillermo Escalada,42,FALSE,FALSE
+1956-01-28,Uruguay,Peru,Uruguay,Óscar Míguez,73,FALSE,FALSE
+1956-01-29,Argentina,Chile,Argentina,Ángel Labruna,9,FALSE,FALSE
+1956-01-29,Argentina,Chile,Argentina,Ángel Labruna,79,FALSE,FALSE
+1956-02-01,Argentina,Paraguay,Argentina,Carlos Cecconato,54,FALSE,FALSE
+1956-02-01,Brazil,Peru,Brazil,Alvaro José Rodrigues Valente,10,FALSE,FALSE
+1956-02-01,Brazil,Peru,Peru,Roberto Drago,42,FALSE,FALSE
+1956-02-01,Brazil,Peru,Brazil,Moysés Ferreira Alves,80,FALSE,FALSE
+1956-02-05,Argentina,Brazil,Brazil,Luís Trochillo,88,FALSE,FALSE
+1956-02-05,Paraguay,Peru,Peru,Isaac Andrade,61,FALSE,FALSE
+1956-02-05,Paraguay,Peru,Paraguay,Máximo Rolón,76,FALSE,FALSE
+1956-02-06,Uruguay,Chile,Uruguay,Óscar Míguez,12,FALSE,FALSE
+1956-02-06,Uruguay,Chile,Uruguay,Carlos Borges,58,FALSE,FALSE
+1956-02-06,Uruguay,Chile,Chile,Jaime Ramírez,59,FALSE,FALSE
+1956-02-09,Chile,Peru,Chile,Enrique Hormazábal,15,FALSE,FALSE
+1956-02-09,Chile,Peru,Peru,Félix Castillo,22,FALSE,FALSE
+1956-02-09,Chile,Peru,Chile,Manuel Muñoz,34,FALSE,FALSE
+1956-02-09,Chile,Peru,Peru,Máximo Mosquera,57,FALSE,FALSE
+1956-02-09,Chile,Peru,Chile,José Fernández,70,FALSE,FALSE
+1956-02-09,Chile,Peru,Peru,Óscar Gómez Sánchez,80,FALSE,FALSE
+1956-02-09,Chile,Peru,Chile,Leonel Sánchez,86,FALSE,FALSE
+1956-02-12,Chile,Paraguay,Chile,Enrique Hormazábal,41,FALSE,FALSE
+1956-02-12,Chile,Paraguay,Chile,Jaime Ramírez,51,FALSE,FALSE
+1956-02-15,Uruguay,Argentina,Uruguay,Javier Ambrois,23,FALSE,FALSE
+1957-03-07,Ecuador,Uruguay,Ecuador,Jorge Larraz,12,FALSE,FALSE
+1957-03-07,Ecuador,Uruguay,Uruguay,Javier Ambrois,26,FALSE,FALSE
+1957-03-07,Ecuador,Uruguay,Uruguay,Javier Ambrois,29,FALSE,TRUE
+1957-03-07,Ecuador,Uruguay,Ecuador,Jorge Larraz,40,FALSE,TRUE
+1957-03-07,Ecuador,Uruguay,Uruguay,Javier Ambrois,57,FALSE,FALSE
+1957-03-07,Ecuador,Uruguay,Uruguay,Javier Ambrois,74,FALSE,FALSE
+1957-03-07,Ecuador,Uruguay,Uruguay,José Sasía,87,FALSE,FALSE
+1957-03-10,Peru,Ecuador,Peru,Alberto Terry,29,FALSE,FALSE
+1957-03-10,Peru,Ecuador,Peru,Alberto Terry,37,FALSE,TRUE
+1957-03-10,Peru,Ecuador,Ecuador,Enrique Cantos,44,FALSE,FALSE
+1957-03-13,Argentina,Colombia,Argentina,Osvaldo Héctor Cruz,5,FALSE,FALSE
+1957-03-13,Argentina,Colombia,Argentina,Antonio Valentín Angelillo,10,FALSE,FALSE
+1957-03-13,Argentina,Colombia,Argentina,Humberto Maschio,16,FALSE,TRUE
+1957-03-13,Argentina,Colombia,Argentina,Humberto Maschio,23,FALSE,FALSE
+1957-03-13,Argentina,Colombia,Colombia,"Delio ""Maravilla"" Gamboa",34,FALSE,TRUE
+1957-03-13,Argentina,Colombia,Colombia,Alberto Valencia,37,FALSE,FALSE
+1957-03-13,Argentina,Colombia,Argentina,Humberto Maschio,53,FALSE,TRUE
+1957-03-13,Argentina,Colombia,Argentina,Omar Oreste Corbatta,59,FALSE,FALSE
+1957-03-13,Argentina,Colombia,Argentina,Antonio Valentín Angelillo,73,FALSE,FALSE
+1957-03-13,Argentina,Colombia,Argentina,Humberto Maschio,85,FALSE,FALSE
+1957-03-13,Brazil,Chile,Chile,Jaime Ramírez Banda,13,FALSE,FALSE
+1957-03-13,Brazil,Chile,Brazil,Valdir Pereira,20,FALSE,FALSE
+1957-03-13,Brazil,Chile,Brazil,Valdir Pereira,26,FALSE,FALSE
+1957-03-13,Brazil,Chile,Brazil,Valdir Pereira,44,FALSE,FALSE
+1957-03-13,Brazil,Chile,Brazil,José Macia,46,FALSE,FALSE
+1957-03-13,Brazil,Chile,Chile,José Fernández,89,FALSE,FALSE
+1957-03-16,Peru,Chile,Peru,Máximo Mosquera,57,FALSE,FALSE
+1957-03-17,Argentina,Ecuador,Argentina,Antonio Valentín Angelillo,5,FALSE,FALSE
+1957-03-17,Argentina,Ecuador,Argentina,Omar Sívori,14,FALSE,FALSE
+1957-03-17,Argentina,Ecuador,Argentina,Antonio Valentín Angelillo,39,FALSE,FALSE
+1957-03-17,Colombia,Uruguay,Colombia,Carlos Arango,28,FALSE,FALSE
+1957-03-20,Argentina,Uruguay,Argentina,Humberto Maschio,7,FALSE,FALSE
+1957-03-20,Argentina,Uruguay,Argentina,Antonio Valentín Angelillo,48,FALSE,FALSE
+1957-03-20,Argentina,Uruguay,Argentina,Humberto Maschio,73,FALSE,FALSE
+1957-03-20,Argentina,Uruguay,Argentina,José Francisco Sanfilippo,83,FALSE,FALSE
+1957-03-21,Brazil,Ecuador,Brazil,Evaristo de Macedo,22,FALSE,FALSE
+1957-03-21,Brazil,Ecuador,Brazil,José Macia,25,FALSE,FALSE
+1957-03-21,Brazil,Ecuador,Brazil,Zizinho,34,FALSE,TRUE
+1957-03-21,Brazil,Ecuador,Brazil,Joel Antônio Martins,43,FALSE,FALSE
+1957-03-21,Brazil,Ecuador,Brazil,Joel Antônio Martins,68,FALSE,FALSE
+1957-03-21,Brazil,Ecuador,Brazil,Valdir Pereira,78,FALSE,FALSE
+1957-03-21,Brazil,Ecuador,Ecuador,Jorge Larraz,80,FALSE,TRUE
+1957-03-21,Brazil,Ecuador,Brazil,Evaristo de Macedo,89,FALSE,FALSE
+1957-03-21,Chile,Colombia,Chile,Carlos Verdejo,35,FALSE,FALSE
+1957-03-21,Chile,Colombia,Chile,Sergio Espinoza,62,FALSE,FALSE
+1957-03-21,Chile,Colombia,Colombia,Carlos Arango,68,FALSE,FALSE
+1957-03-21,Chile,Colombia,Chile,Carlos Verdejo,70,FALSE,FALSE
+1957-03-21,Chile,Colombia,Colombia,Alejandro Carrillo,83,FALSE,FALSE
+1957-03-23,Peru,Uruguay,Peru,Alberto Terry,3,FALSE,FALSE
+1957-03-23,Peru,Uruguay,Uruguay,Javier Ambrois,22,FALSE,FALSE
+1957-03-23,Peru,Uruguay,Uruguay,José María Carranza,26,FALSE,FALSE
+1957-03-23,Peru,Uruguay,Uruguay,Javier Ambrois,48,FALSE,FALSE
+1957-03-23,Peru,Uruguay,Uruguay,Javier Ambrois,60,FALSE,FALSE
+1957-03-23,Peru,Uruguay,Uruguay,Javier Ambrois,75,FALSE,FALSE
+1957-03-23,Peru,Uruguay,Peru,Juan Seminario,81,FALSE,FALSE
+1957-03-23,Peru,Uruguay,Peru,Máximo Mosquera,83,FALSE,FALSE
+1957-03-24,Brazil,Colombia,Brazil,José Macia,27,FALSE,FALSE
+1957-03-24,Brazil,Colombia,Brazil,Evaristo de Macedo,41,FALSE,FALSE
+1957-03-24,Brazil,Colombia,Brazil,Evaristo de Macedo,44,FALSE,FALSE
+1957-03-24,Brazil,Colombia,Brazil,Evaristo de Macedo,45,FALSE,FALSE
+1957-03-24,Brazil,Colombia,Brazil,Valdir Pereira,50,FALSE,FALSE
+1957-03-24,Brazil,Colombia,Brazil,Valdir Pereira,60,FALSE,FALSE
+1957-03-24,Brazil,Colombia,Brazil,Evaristo de Macedo,75,FALSE,FALSE
+1957-03-24,Brazil,Colombia,Brazil,Zizinho,85,FALSE,FALSE
+1957-03-24,Brazil,Colombia,Brazil,Evaristo de Macedo,86,FALSE,FALSE
+1957-03-24,Chile,Ecuador,Chile,Jaime Ramírez Banda,18,FALSE,FALSE
+1957-03-24,Chile,Ecuador,Ecuador,Jorge Larraz,25,FALSE,TRUE
+1957-03-24,Chile,Ecuador,Chile,Jaime Ramírez Banda,26,FALSE,TRUE
+1957-03-24,Chile,Ecuador,Ecuador,Enrique Cantos,59,FALSE,FALSE
+1957-03-27,Peru,Colombia,Peru,Alberto Terry,34,FALSE,FALSE
+1957-03-27,Peru,Colombia,Peru,Manuel Rivera,35,FALSE,FALSE
+1957-03-27,Peru,Colombia,Peru,Manuel Rivera,37,FALSE,FALSE
+1957-03-27,Peru,Colombia,Colombia,Carlos Arango,57,FALSE,TRUE
+1957-03-27,Peru,Colombia,Peru,Juan Bassa,83,FALSE,FALSE
+1957-03-28,Argentina,Chile,Argentina,Omar Sívori,7,FALSE,FALSE
+1957-03-28,Argentina,Chile,Chile,José Fernández,14,FALSE,FALSE
+1957-03-28,Argentina,Chile,Argentina,Antonio Valentín Angelillo,21,FALSE,FALSE
+1957-03-28,Argentina,Chile,Chile,José Fernández,28,FALSE,FALSE
+1957-03-28,Argentina,Chile,Argentina,Humberto Maschio,53,FALSE,FALSE
+1957-03-28,Argentina,Chile,Argentina,Antonio Valentín Angelillo,70,FALSE,FALSE
+1957-03-28,Argentina,Chile,Argentina,Humberto Maschio,74,FALSE,FALSE
+1957-03-28,Argentina,Chile,Argentina,Omar Oreste Corbatta,83,FALSE,TRUE
+1957-03-28,Brazil,Uruguay,Uruguay,Luis Norberto Campero,15,FALSE,FALSE
+1957-03-28,Brazil,Uruguay,Uruguay,Javier Ambrois,17,FALSE,FALSE
+1957-03-28,Brazil,Uruguay,Uruguay,Luis Norberto Campero,23,FALSE,FALSE
+1957-03-28,Brazil,Uruguay,Brazil,Evaristo de Macedo,68,FALSE,FALSE
+1957-03-28,Brazil,Uruguay,Brazil,Valdir Pereira,70,FALSE,FALSE
+1957-03-31,Peru,Brazil,Brazil,Valdir Pereira,73,FALSE,TRUE
+1957-04-01,Chile,Uruguay,Uruguay,Luis Norberto Campero,28,FALSE,FALSE
+1957-04-01,Chile,Uruguay,Uruguay,José Walter Roque,40,FALSE,FALSE
+1957-04-01,Colombia,Ecuador,Colombia,Humberto Álvarez,19,FALSE,TRUE
+1957-04-01,Colombia,Ecuador,Colombia,Jaime Gutiérrez,22,FALSE,FALSE
+1957-04-01,Colombia,Ecuador,Colombia,"Delio ""Maravilla"" Gamboa",30,FALSE,FALSE
+1957-04-01,Colombia,Ecuador,Ecuador,Jorge Larraz,32,FALSE,TRUE
+1957-04-01,Colombia,Ecuador,Colombia,"Delio ""Maravilla"" Gamboa",58,FALSE,FALSE
+1957-04-03,Argentina,Brazil,Argentina,Antonio Valentín Angelillo,23,FALSE,FALSE
+1957-04-03,Argentina,Brazil,Argentina,Humberto Maschio,87,FALSE,FALSE
+1957-04-03,Argentina,Brazil,Argentina,Osvaldo Héctor Cruz,90,FALSE,FALSE
+1957-04-06,Peru,Argentina,Peru,Máximo Mosquera,15,FALSE,FALSE
+1957-04-06,Peru,Argentina,Argentina,Omar Sívori,50,FALSE,FALSE
+1957-04-06,Peru,Argentina,Peru,Alberto Terry,81,FALSE,FALSE
 1958-06-08,Argentina,Germany,Argentina,Omar Oreste Corbatta,3,FALSE,FALSE
 1958-06-08,Argentina,Germany,Germany,Helmut Rahn,32,FALSE,FALSE
 1958-06-08,Argentina,Germany,Germany,Uwe Seeler,42,FALSE,FALSE
@@ -469,7 +1674,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1958-06-08,France,Paraguay,Paraguay,Florencio Amarilla,44,FALSE,TRUE
 1958-06-08,France,Paraguay,Paraguay,Jorge Lino Romero,50,FALSE,FALSE
 1958-06-08,France,Paraguay,France,Roger Piantoni,52,FALSE,FALSE
-1958-06-08,France,Paraguay,France,Maryan Wisnieski,61,FALSE,FALSE
+1958-06-08,France,Paraguay,France,Maryan Wisniewski,61,FALSE,FALSE
 1958-06-08,France,Paraguay,France,Just Fontaine,67,FALSE,FALSE
 1958-06-08,France,Paraguay,France,Raymond Kopa,70,FALSE,FALSE
 1958-06-08,France,Paraguay,France,Jean Vincent,83,FALSE,FALSE
@@ -543,7 +1748,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1958-06-17,Hungary,Wales,Wales,Ivor Allchurch,55,FALSE,FALSE
 1958-06-17,Hungary,Wales,Wales,Terry Medwin,76,FALSE,FALSE
 1958-06-19,Brazil,Wales,Brazil,Pelé,66,FALSE,FALSE
-1958-06-19,France,Northern Ireland,France,Maryan Wisnieski,44,FALSE,FALSE
+1958-06-19,France,Northern Ireland,France,Maryan Wisniewski,44,FALSE,FALSE
 1958-06-19,France,Northern Ireland,France,Just Fontaine,55,FALSE,FALSE
 1958-06-19,France,Northern Ireland,France,Just Fontaine,63,FALSE,FALSE
 1958-06-19,France,Northern Ireland,France,Roger Piantoni,68,FALSE,FALSE
@@ -577,6 +1782,132 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1958-06-29,Sweden,Brazil,Brazil,Mário Zagallo,68,FALSE,FALSE
 1958-06-29,Sweden,Brazil,Sweden,Agne Simonsson,80,FALSE,FALSE
 1958-06-29,Sweden,Brazil,Brazil,Pelé,90,FALSE,FALSE
+1959-03-07,Argentina,Chile,Argentina,Pedro Waldemar Manfredini,5,FALSE,FALSE
+1959-03-07,Argentina,Chile,Argentina,Pedro Eugenio Callá,7,FALSE,FALSE
+1959-03-07,Argentina,Chile,Argentina,Juan José Pizzuti,17,FALSE,FALSE
+1959-03-07,Argentina,Chile,Chile,Luis Hernán Álvarez,25,FALSE,FALSE
+1959-03-07,Argentina,Chile,Argentina,Juan José Pizzuti,39,FALSE,FALSE
+1959-03-07,Argentina,Chile,Argentina,Pedro Waldemar Manfredini,50,FALSE,FALSE
+1959-03-07,Argentina,Chile,Argentina,Raúl Belén,75,FALSE,FALSE
+1959-03-08,Bolivia,Uruguay,Uruguay,José Sasía,5,FALSE,FALSE
+1959-03-08,Bolivia,Uruguay,Uruguay,Guillermo Escalada,12,FALSE,FALSE
+1959-03-08,Bolivia,Uruguay,Uruguay,Víctor Guaglianone,17,FALSE,FALSE
+1959-03-08,Bolivia,Uruguay,Uruguay,Carlos Borges,60,FALSE,FALSE
+1959-03-08,Bolivia,Uruguay,Uruguay,Carlos Borges,65,FALSE,FALSE
+1959-03-08,Bolivia,Uruguay,Uruguay,Vladas Douksas,69,FALSE,FALSE
+1959-03-08,Bolivia,Uruguay,Uruguay,Domingo Pérez,89,FALSE,FALSE
+1959-03-10,Brazil,Peru,Brazil,Didi,24,FALSE,FALSE
+1959-03-10,Brazil,Peru,Brazil,Pelé,48,FALSE,FALSE
+1959-03-10,Brazil,Peru,Peru,Juan Seminario,59,FALSE,FALSE
+1959-03-10,Brazil,Peru,Peru,Juan Seminario,77,FALSE,FALSE
+1959-03-11,Argentina,Bolivia,Argentina,Omar Oreste Corbatta,2,FALSE,FALSE
+1959-03-11,Argentina,Bolivia,Argentina,Pedro Eugenio Callá,79,FALSE,FALSE
+1959-03-11,Chile,Paraguay,Paraguay,José Aveiro,8,FALSE,FALSE
+1959-03-11,Chile,Paraguay,Paraguay,José Aveiro,14,FALSE,FALSE
+1959-03-11,Chile,Paraguay,Chile,Leonel Sánchez,34,FALSE,TRUE
+1959-03-14,Peru,Uruguay,Uruguay,Héctor Demarco,2,FALSE,FALSE
+1959-03-14,Peru,Uruguay,Peru,Miguel Ángel Loayza,4,FALSE,FALSE
+1959-03-14,Peru,Uruguay,Peru,Miguel Ángel Loayza,27,FALSE,FALSE
+1959-03-14,Peru,Uruguay,Peru,Juan Joya,29,FALSE,FALSE
+1959-03-14,Peru,Uruguay,Uruguay,Vladas Douksas,31,FALSE,FALSE
+1959-03-14,Peru,Uruguay,Peru,Miguel Ángel Loayza,42,FALSE,FALSE
+1959-03-14,Peru,Uruguay,Peru,Juan Joya,79,FALSE,FALSE
+1959-03-14,Peru,Uruguay,Uruguay,José Sasía,81,FALSE,FALSE
+1959-03-15,Bolivia,Paraguay,Paraguay,Cayetano Ré,1,FALSE,FALSE
+1959-03-15,Bolivia,Paraguay,Paraguay,Ildefonso Sanabria,11,FALSE,FALSE
+1959-03-15,Bolivia,Paraguay,Paraguay,Cayetano Ré,21,FALSE,FALSE
+1959-03-15,Bolivia,Paraguay,Paraguay,Cayetano Ré,50,FALSE,FALSE
+1959-03-15,Bolivia,Paraguay,Paraguay,José Aveiro,51,FALSE,FALSE
+1959-03-15,Brazil,Chile,Brazil,Pelé,43,FALSE,FALSE
+1959-03-15,Brazil,Chile,Brazil,Pelé,45,FALSE,FALSE
+1959-03-15,Brazil,Chile,Brazil,Didi,89,FALSE,FALSE
+1959-03-18,Argentina,Peru,Argentina,Omar Oreste Corbatta,18,FALSE,TRUE
+1959-03-18,Argentina,Peru,Argentina,Rubén Héctor Sosa,42,FALSE,FALSE
+1959-03-18,Argentina,Peru,Peru,Miguel Ángel Loayza,51,FALSE,FALSE
+1959-03-18,Argentina,Peru,Argentina,Víctor Benítez,78,TRUE,FALSE
+1959-03-18,Paraguay,Uruguay,Uruguay,Héctor Demarco,2,FALSE,FALSE
+1959-03-18,Paraguay,Uruguay,Uruguay,Vladas Douksas,37,FALSE,FALSE
+1959-03-18,Paraguay,Uruguay,Paraguay,José Aveiro,77,FALSE,FALSE
+1959-03-18,Paraguay,Uruguay,Uruguay,José Sasía,85,FALSE,FALSE
+1959-03-21,Bolivia,Brazil,Bolivia,Ricardo Alcón,12,FALSE,FALSE
+1959-03-21,Bolivia,Brazil,Brazil,Pelé,16,FALSE,FALSE
+1959-03-21,Bolivia,Brazil,Brazil,Paulo Valentim,18,FALSE,FALSE
+1959-03-21,Bolivia,Brazil,Bolivia,Ausberto García,22,FALSE,FALSE
+1959-03-21,Bolivia,Brazil,Brazil,Paulo Valentim,26,FALSE,FALSE
+1959-03-21,Bolivia,Brazil,Brazil,Didi,89,FALSE,FALSE
+1959-03-21,Chile,Peru,Peru,Miguel Ángel Loayza,12,FALSE,FALSE
+1959-03-21,Chile,Peru,Peru,Miguel Ángel Loayza,77,FALSE,FALSE
+1959-03-22,Argentina,Paraguay,Argentina,Omar Oreste Corbatta,15,FALSE,FALSE
+1959-03-22,Argentina,Paraguay,Paraguay,Silvio Parodi,36,FALSE,FALSE
+1959-03-22,Argentina,Paraguay,Argentina,Rubén Héctor Sosa,63,FALSE,FALSE
+1959-03-22,Argentina,Paraguay,Argentina,Vladislao Cap,69,FALSE,FALSE
+1959-03-26,Bolivia,Chile,Chile,Mario Soto,7,FALSE,FALSE
+1959-03-26,Bolivia,Chile,Chile,Juan Soto Mura,17,FALSE,FALSE
+1959-03-26,Bolivia,Chile,Bolivia,Máximo Alcócer,25,FALSE,FALSE
+1959-03-26,Bolivia,Chile,Chile,Mario Soto,42,FALSE,FALSE
+1959-03-26,Bolivia,Chile,Chile,Juan Soto Mura,51,FALSE,FALSE
+1959-03-26,Bolivia,Chile,Bolivia,Máximo Alcócer,76,FALSE,FALSE
+1959-03-26,Bolivia,Chile,Chile,Leonel Sánchez,89,FALSE,FALSE
+1959-03-26,Brazil,Uruguay,Uruguay,Guillermo Escalada,36,FALSE,FALSE
+1959-03-26,Brazil,Uruguay,Brazil,Paulo Valentim,62,FALSE,FALSE
+1959-03-26,Brazil,Uruguay,Brazil,Paulo Valentim,80,FALSE,FALSE
+1959-03-26,Brazil,Uruguay,Brazil,Paulo Valentim,89,FALSE,FALSE
+1959-03-29,Brazil,Paraguay,Paraguay,Silvio Parodi,4,FALSE,FALSE
+1959-03-29,Brazil,Paraguay,Brazil,Pelé,25,FALSE,FALSE
+1959-03-29,Brazil,Paraguay,Brazil,Pelé,31,FALSE,FALSE
+1959-03-29,Brazil,Paraguay,Brazil,Chinesinho,35,FALSE,FALSE
+1959-03-29,Brazil,Paraguay,Brazil,Pelé,63,FALSE,FALSE
+1959-03-30,Argentina,Uruguay,Argentina,Raúl Belén,15,FALSE,FALSE
+1959-03-30,Argentina,Uruguay,Argentina,Rubén Héctor Sosa,55,FALSE,FALSE
+1959-03-30,Argentina,Uruguay,Argentina,Raúl Belén,60,FALSE,FALSE
+1959-03-30,Argentina,Uruguay,Argentina,Rubén Héctor Sosa,80,FALSE,FALSE
+1959-03-30,Argentina,Uruguay,Uruguay,Héctor Demarco,85,FALSE,FALSE
+1959-04-02,Chile,Uruguay,Chile,Mario Moreno,88,FALSE,FALSE
+1959-04-02,Paraguay,Peru,Paraguay,José Aveiro,32,FALSE,FALSE
+1959-04-02,Paraguay,Peru,Peru,Óscar Gómez Sánchez,51,FALSE,FALSE
+1959-04-02,Paraguay,Peru,Paraguay,José Aveiro,68,FALSE,FALSE
+1959-04-04,Argentina,Brazil,Argentina,Juan José Pizzuti,40,FALSE,FALSE
+1959-04-04,Argentina,Brazil,Brazil,Pelé,58,FALSE,FALSE
+1959-12-05,Brazil,Paraguay,Brazil,Paulo Pisaneschi,25,FALSE,FALSE
+1959-12-05,Brazil,Paraguay,Brazil,Paulo Pisaneschi,39,FALSE,FALSE
+1959-12-05,Brazil,Paraguay,Brazil,Paulo Pisaneschi,55,FALSE,FALSE
+1959-12-05,Brazil,Paraguay,Paraguay,Silvio Parodi,72,FALSE,FALSE
+1959-12-05,Brazil,Paraguay,Paraguay,Silvio Parodi,90,FALSE,FALSE
+1959-12-06,Ecuador,Uruguay,Uruguay,Alcides Silveira,1,FALSE,TRUE
+1959-12-06,Ecuador,Uruguay,Uruguay,Guillermo Escalada,28,FALSE,FALSE
+1959-12-06,Ecuador,Uruguay,Uruguay,Mario Ludovico Bergara,46,FALSE,FALSE
+1959-12-06,Ecuador,Uruguay,Uruguay,Domingo Pérez,52,FALSE,FALSE
+1959-12-09,Argentina,Paraguay,Argentina,José Sanfilippo,8,FALSE,FALSE
+1959-12-09,Argentina,Paraguay,Paraguay,Eligio Antonio Insfrán,30,FALSE,FALSE
+1959-12-09,Argentina,Paraguay,Argentina,José Sanfilippo,57,FALSE,FALSE
+1959-12-09,Argentina,Paraguay,Argentina,Juan José Pizzuti,81,FALSE,FALSE
+1959-12-09,Argentina,Paraguay,Argentina,José Sanfilippo,89,FALSE,TRUE
+1959-12-09,Argentina,Paraguay,Paraguay,Pedro Antonio Cabral,90,FALSE,FALSE
+1959-12-12,Brazil,Uruguay,Uruguay,Guillermo Escalada,49,FALSE,FALSE
+1959-12-12,Brazil,Uruguay,Uruguay,Mario Ludovico Bergara,67,FALSE,FALSE
+1959-12-12,Brazil,Uruguay,Uruguay,José Sasía,75,FALSE,FALSE
+1959-12-12,Ecuador,Argentina,Ecuador,Carlos Alberto Raffo,20,FALSE,FALSE
+1959-12-12,Ecuador,Argentina,Argentina,Rubén Héctor Sosa,62,FALSE,FALSE
+1959-12-16,Argentina,Uruguay,Uruguay,Alcides Silveira,9,FALSE,TRUE
+1959-12-16,Argentina,Uruguay,Uruguay,Mario Ludovico Bergara,15,FALSE,FALSE
+1959-12-16,Argentina,Uruguay,Uruguay,José Sasía,25,FALSE,FALSE
+1959-12-16,Argentina,Uruguay,Uruguay,Alcides Silveira,55,FALSE,TRUE
+1959-12-16,Argentina,Uruguay,Uruguay,Mario Ludovico Bergara,64,FALSE,FALSE
+1959-12-19,Ecuador,Brazil,Ecuador,Carlos Alberto Raffo,12,FALSE,FALSE
+1959-12-19,Ecuador,Brazil,Brazil,Paulo Pisaneschi,23,FALSE,FALSE
+1959-12-19,Ecuador,Brazil,Brazil,Geraldo José da Silva,42,FALSE,FALSE
+1959-12-19,Ecuador,Brazil,Brazil,Zé de Mello,45,FALSE,FALSE
+1959-12-22,Argentina,Brazil,Argentina,Omar Higinio García,2,FALSE,FALSE
+1959-12-22,Argentina,Brazil,Argentina,José Sanfilippo,27,FALSE,FALSE
+1959-12-22,Argentina,Brazil,Brazil,Geraldo José da Silva,64,FALSE,FALSE
+1959-12-22,Argentina,Brazil,Argentina,José Sanfilippo,89,FALSE,FALSE
+1959-12-22,Argentina,Brazil,Argentina,José Sanfilippo,90,FALSE,FALSE
+1959-12-22,Paraguay,Uruguay,Paraguay,Silvio Parodi,32,FALSE,FALSE
+1959-12-22,Paraguay,Uruguay,Uruguay,José Sasía,88,FALSE,FALSE
+1959-12-25,Ecuador,Paraguay,Paraguay,Rómulo Gómez,5,TRUE,FALSE
+1959-12-25,Ecuador,Paraguay,Ecuador,Alberto Pedro Spencer,16,FALSE,FALSE
+1959-12-25,Ecuador,Paraguay,Ecuador,José Vicente Balseca,25,FALSE,FALSE
+1959-12-25,Ecuador,Paraguay,Ecuador,Climaco Cañarte,74,FALSE,FALSE
 1960-07-06,Czechoslovakia,Russia,Russia,Valentin Ivanov,34,FALSE,FALSE
 1960-07-06,Czechoslovakia,Russia,Russia,Valentin Ivanov,56,FALSE,FALSE
 1960-07-06,Czechoslovakia,Russia,Russia,Viktor Ponedelnik,66,FALSE,FALSE
@@ -683,6 +2014,97 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1962-06-17,Brazil,Czechoslovakia,Brazil,Amarildo Tavares da Silveira,17,FALSE,FALSE
 1962-06-17,Brazil,Czechoslovakia,Brazil,Zito,69,FALSE,FALSE
 1962-06-17,Brazil,Czechoslovakia,Brazil,Vavá,78,FALSE,FALSE
+1963-03-10,Argentina,Colombia,Argentina,Roberto Héctor Zárate,3,FALSE,FALSE
+1963-03-10,Argentina,Colombia,Colombia,Carlos Campillo,4,FALSE,FALSE
+1963-03-10,Argentina,Colombia,Argentina,Jorge Hugo Fernández,11,FALSE,FALSE
+1963-03-10,Argentina,Colombia,Colombia,Herman Aceros,37,FALSE,FALSE
+1963-03-10,Argentina,Colombia,Argentina,Mario Rodríguez,87,FALSE,FALSE
+1963-03-10,Argentina,Colombia,Argentina,Roberto Héctor Zárate,90,FALSE,FALSE
+1963-03-10,Bolivia,Ecuador,Bolivia,Renán López,16,FALSE,FALSE
+1963-03-10,Bolivia,Ecuador,Bolivia,Fortunato Castillo,27,FALSE,FALSE
+1963-03-10,Bolivia,Ecuador,Ecuador,Carlos Alberto Raffo,30,FALSE,FALSE
+1963-03-10,Bolivia,Ecuador,Ecuador,Enrique Raymondi,44,FALSE,FALSE
+1963-03-10,Bolivia,Ecuador,Ecuador,Jorge Bolaños,47,FALSE,FALSE
+1963-03-10,Bolivia,Ecuador,Ecuador,Enrique Raymondi,50,FALSE,FALSE
+1963-03-10,Bolivia,Ecuador,Bolivia,Máximo Alcócer,55,FALSE,FALSE
+1963-03-10,Bolivia,Ecuador,Bolivia,Wilfredo Camacho,80,FALSE,FALSE
+1963-03-10,Brazil,Peru,Brazil,Flávio Minuano,16,FALSE,FALSE
+1963-03-13,Argentina,Peru,Argentina,Roberto Héctor Zárate,57,FALSE,FALSE
+1963-03-13,Argentina,Peru,Peru,Enrique Tenemás,62,FALSE,FALSE
+1963-03-13,Argentina,Peru,Peru,Alberto Gallardo,76,FALSE,FALSE
+1963-03-14,Brazil,Colombia,Brazil,Flávio Minuano,7,FALSE,FALSE
+1963-03-14,Brazil,Colombia,Brazil,Marco Antônio García Alves,31,FALSE,FALSE
+1963-03-14,Brazil,Colombia,Brazil,Oswaldo Taurisano,56,FALSE,FALSE
+1963-03-14,Brazil,Colombia,Brazil,Flávio Minuano,82,FALSE,FALSE
+1963-03-14,Brazil,Colombia,Brazil,Fernando Consul,83,FALSE,FALSE
+1963-03-14,Brazil,Colombia,Colombia,Delio Gamboa,85,FALSE,FALSE
+1963-03-14,Ecuador,Paraguay,Paraguay,Eladio Zárate,11,FALSE,FALSE
+1963-03-14,Ecuador,Paraguay,Ecuador,Carlos Alberto Raffo,32,FALSE,FALSE
+1963-03-14,Ecuador,Paraguay,Paraguay,César Cabrera,57,FALSE,FALSE
+1963-03-14,Ecuador,Paraguay,Paraguay,Oppe Quiñónez,82,FALSE,FALSE
+1963-03-17,Bolivia,Colombia,Colombia,Alonso Botero,4,FALSE,FALSE
+1963-03-17,Bolivia,Colombia,Bolivia,Máximo Alcócer,22,FALSE,FALSE
+1963-03-17,Bolivia,Colombia,Bolivia,Máximo Alcócer,40,FALSE,FALSE
+1963-03-17,Brazil,Paraguay,Paraguay,Eladio Zárate,17,FALSE,FALSE
+1963-03-17,Brazil,Paraguay,Paraguay,Pelayo Ayala,83,FALSE,FALSE
+1963-03-17,Ecuador,Peru,Ecuador,Carlos Alberto Raffo,20,FALSE,FALSE
+1963-03-17,Ecuador,Peru,Peru,Pedro Pablo León,34,FALSE,FALSE
+1963-03-17,Ecuador,Peru,Peru,Nemesio Mosquera,43,FALSE,FALSE
+1963-03-20,Argentina,Ecuador,Ecuador,Carlos Pineda Alvarado,32,FALSE,FALSE
+1963-03-20,Argentina,Ecuador,Argentina,Raúl Armando Savoy,34,FALSE,FALSE
+1963-03-20,Argentina,Ecuador,Ecuador,Leonardo Palacios,49,FALSE,FALSE
+1963-03-20,Argentina,Ecuador,Argentina,Raúl Armando Savoy,53,FALSE,FALSE
+1963-03-20,Argentina,Ecuador,Argentina,Mario Rodríguez,58,FALSE,FALSE
+1963-03-20,Argentina,Ecuador,Argentina,Raúl Armando Savoy,90,FALSE,FALSE
+1963-03-20,Colombia,Paraguay,Paraguay,Eladio Zárate,10,FALSE,FALSE
+1963-03-20,Colombia,Paraguay,Colombia,Carlos Campillo,27,FALSE,FALSE
+1963-03-20,Colombia,Paraguay,Paraguay,Félix Arambulo,50,FALSE,FALSE
+1963-03-20,Colombia,Paraguay,Colombia,Delio Gamboa,82,FALSE,FALSE
+1963-03-20,Colombia,Paraguay,Paraguay,Cecilio Martínez,89,FALSE,FALSE
+1963-03-21,Bolivia,Peru,Bolivia,Wilfredo Camacho,14,FALSE,FALSE
+1963-03-21,Bolivia,Peru,Peru,Alberto Gallardo,40,FALSE,FALSE
+1963-03-21,Bolivia,Peru,Bolivia,Máximo Alcócer,49,FALSE,FALSE
+1963-03-21,Bolivia,Peru,Bolivia,Ausberto García,57,FALSE,FALSE
+1963-03-21,Bolivia,Peru,Peru,Pedro Pablo León,80,FALSE,FALSE
+1963-03-24,Argentina,Brazil,Argentina,Mario Rodríguez,3,FALSE,FALSE
+1963-03-24,Argentina,Brazil,Argentina,Raúl Armando Savoy,33,FALSE,FALSE
+1963-03-24,Argentina,Brazil,Argentina,Ernesto Humberto Juárez,86,FALSE,FALSE
+1963-03-24,Bolivia,Paraguay,Bolivia,Fortunato Castillo,17,FALSE,FALSE
+1963-03-24,Bolivia,Paraguay,Bolivia,Ausberto García,88,FALSE,FALSE
+1963-03-24,Colombia,Peru,Peru,Alberto Gallardo,25,FALSE,FALSE
+1963-03-24,Colombia,Peru,Colombia,Francisco González,33,FALSE,FALSE
+1963-03-27,Brazil,Ecuador,Brazil,Oswaldo Taurisano,5,FALSE,FALSE
+1963-03-27,Brazil,Ecuador,Brazil,Oswaldo Taurisano,60,FALSE,FALSE
+1963-03-27,Brazil,Ecuador,Ecuador,Néstor Azón,84,FALSE,FALSE
+1963-03-27,Brazil,Ecuador,Ecuador,Carlos Alberto Raffo,90,FALSE,FALSE
+1963-03-27,Paraguay,Peru,Paraguay,Cecilio Martínez,5,FALSE,FALSE
+1963-03-27,Paraguay,Peru,Paraguay,Cecilio Martínez,25,FALSE,FALSE
+1963-03-27,Paraguay,Peru,Paraguay,César Cabrera,45,FALSE,FALSE
+1963-03-27,Paraguay,Peru,Peru,Alberto Gallardo,70,FALSE,FALSE
+1963-03-27,Paraguay,Peru,Paraguay,Eladio Zárate,77,FALSE,FALSE
+1963-03-28,Bolivia,Argentina,Bolivia,Fortunato Castillo,12,FALSE,FALSE
+1963-03-28,Bolivia,Argentina,Argentina,Mario Rodríguez,27,FALSE,FALSE
+1963-03-28,Bolivia,Argentina,Bolivia,Ramiro Blacut,32,FALSE,FALSE
+1963-03-28,Bolivia,Argentina,Argentina,Mario Rodríguez,34,FALSE,FALSE
+1963-03-28,Bolivia,Argentina,Bolivia,Wilfredo Camacho,88,FALSE,FALSE
+1963-03-31,Argentina,Paraguay,Paraguay,César Cabrera,33,FALSE,FALSE
+1963-03-31,Argentina,Paraguay,Argentina,Juan Carlos Lallana,58,FALSE,FALSE
+1963-03-31,Bolivia,Brazil,Bolivia,Víctor Agustín Ugarte,15,FALSE,FALSE
+1963-03-31,Bolivia,Brazil,Bolivia,Wilfredo Camacho,25,FALSE,FALSE
+1963-03-31,Bolivia,Brazil,Brazil,Marco Antônio García Alves,26,FALSE,FALSE
+1963-03-31,Bolivia,Brazil,Brazil,Almir Da Silva,28,FALSE,FALSE
+1963-03-31,Bolivia,Brazil,Bolivia,Víctor Agustín Ugarte,58,FALSE,FALSE
+1963-03-31,Bolivia,Brazil,Bolivia,Ausberto García,62,FALSE,FALSE
+1963-03-31,Bolivia,Brazil,Brazil,Flávio Minuano,63,FALSE,FALSE
+1963-03-31,Bolivia,Brazil,Brazil,Flávio Minuano,66,FALSE,FALSE
+1963-03-31,Bolivia,Brazil,Bolivia,Máximo Alcócer,86,FALSE,FALSE
+1963-03-31,Colombia,Ecuador,Ecuador,Enrique Raymondi,30,FALSE,FALSE
+1963-03-31,Colombia,Ecuador,Ecuador,Carlos Alberto Raffo,37,FALSE,FALSE
+1963-03-31,Colombia,Ecuador,Colombia,Herman Aceros,46,FALSE,FALSE
+1963-03-31,Colombia,Ecuador,Ecuador,Jorge Bolaños,53,FALSE,FALSE
+1963-03-31,Colombia,Ecuador,Colombia,Alonso Botero,68,FALSE,FALSE
+1963-03-31,Colombia,Ecuador,Colombia,Héctor González Garzón,75,FALSE,FALSE
+1963-03-31,Colombia,Ecuador,Ecuador,Carlos Alberto Raffo,88,FALSE,FALSE
 1964-06-17,Denmark,Russia,Russia,Valery Voronin,19,FALSE,FALSE
 1964-06-17,Denmark,Russia,Russia,Viktor Ponedelnik,40,FALSE,FALSE
 1964-06-17,Denmark,Russia,Russia,Valentin Ivanov,87,FALSE,FALSE
@@ -785,6 +2207,70 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1966-07-30,England,Germany,Germany,Wolfgang Weber,89,FALSE,FALSE
 1966-07-30,England,Germany,England,Geoff Hurst,101,FALSE,FALSE
 1966-07-30,England,Germany,England,Geoff Hurst,120,FALSE,FALSE
+1966-11-30,Chile,Colombia,Chile,Pedro Araya,7,FALSE,FALSE
+1966-11-30,Chile,Colombia,Chile,Carlos Campos Sánchez,23,FALSE,FALSE
+1966-11-30,Chile,Colombia,Chile,Ignacio Prieto,40,FALSE,TRUE
+1966-11-30,Chile,Colombia,Chile,Ignacio Prieto,49,FALSE,FALSE
+1966-11-30,Chile,Colombia,Chile,Manuel Saavedra,61,FALSE,FALSE
+1966-11-30,Chile,Colombia,Colombia,Delio Gamboa,71,FALSE,FALSE
+1966-11-30,Chile,Colombia,Colombia,Alfonso Cañón,72,FALSE,FALSE
+1966-12-21,Ecuador,Paraguay,Ecuador,Polo Carrera,56,FALSE,FALSE
+1966-12-21,Ecuador,Paraguay,Ecuador,Washington Muñoz,58,FALSE,FALSE
+1966-12-21,Ecuador,Paraguay,Paraguay,Juan Rojas,85,FALSE,TRUE
+1966-12-21,Ecuador,Paraguay,Paraguay,Benigno Apocada,88,FALSE,FALSE
+1966-12-28,Paraguay,Ecuador,Paraguay,Celino Mora,7,FALSE,FALSE
+1966-12-28,Paraguay,Ecuador,Paraguay,Celino Mora,10,FALSE,FALSE
+1966-12-28,Paraguay,Ecuador,Paraguay,Arístides del Puerto,60,FALSE,FALSE
+1966-12-28,Paraguay,Ecuador,Ecuador,Washington Muñoz,81,FALSE,FALSE
+1967-01-17,Uruguay,Bolivia,Uruguay,Pedro Rocha,5,FALSE,FALSE
+1967-01-17,Uruguay,Bolivia,Uruguay,Julio Montero Castillo,44,FALSE,FALSE
+1967-01-17,Uruguay,Bolivia,Uruguay,Roberto Troncoso,55,TRUE,FALSE
+1967-01-17,Uruguay,Bolivia,Uruguay,Jorge Oyarbide,81,FALSE,FALSE
+1967-01-18,Argentina,Paraguay,Argentina,Oscar Mas,23,FALSE,FALSE
+1967-01-18,Argentina,Paraguay,Paraguay,Celino Mora,67,FALSE,FALSE
+1967-01-18,Argentina,Paraguay,Argentina,Raúl Bernao,71,FALSE,FALSE
+1967-01-18,Argentina,Paraguay,Argentina,Luis Artime,73,FALSE,FALSE
+1967-01-18,Argentina,Paraguay,Argentina,Rafael Albrecht,89,FALSE,TRUE
+1967-01-18,Chile,Venezuela,Chile,Rubén Marcos,12,FALSE,FALSE
+1967-01-18,Chile,Venezuela,Chile,Rubén Marcos,41,FALSE,FALSE
+1967-01-21,Uruguay,Venezuela,Uruguay,José Urruzmendi,5,FALSE,FALSE
+1967-01-21,Uruguay,Venezuela,Uruguay,José Urruzmendi,34,FALSE,FALSE
+1967-01-21,Uruguay,Venezuela,Uruguay,Jorge Oyarbide,62,FALSE,FALSE
+1967-01-21,Uruguay,Venezuela,Uruguay,Jorge Oyarbide,68,FALSE,FALSE
+1967-01-22,Bolivia,Argentina,Argentina,Raúl Bernao,67,FALSE,FALSE
+1967-01-22,Chile,Paraguay,Chile,Julio Gallardo,9,FALSE,FALSE
+1967-01-22,Chile,Paraguay,Chile,Julio Gallardo,44,FALSE,FALSE
+1967-01-22,Chile,Paraguay,Paraguay,Juan Francisco Riveros,62,FALSE,FALSE
+1967-01-22,Chile,Paraguay,Chile,Pedro Araya,72,FALSE,FALSE
+1967-01-22,Chile,Paraguay,Chile,Pedro Araya,81,FALSE,FALSE
+1967-01-22,Chile,Paraguay,Paraguay,Benigno Apocada,85,FALSE,FALSE
+1967-01-25,Argentina,Venezuela,Argentina,Luis Artime,18,FALSE,FALSE
+1967-01-25,Argentina,Venezuela,Argentina,Juan Carlos Carone,26,FALSE,FALSE
+1967-01-25,Argentina,Venezuela,Argentina,Silvio Marzolini,50,FALSE,FALSE
+1967-01-25,Argentina,Venezuela,Argentina,Luis Artime,65,FALSE,FALSE
+1967-01-25,Argentina,Venezuela,Venezuela,Rafael Santana,72,FALSE,FALSE
+1967-01-25,Argentina,Venezuela,Argentina,Luis Artime,88,FALSE,FALSE
+1967-01-25,Paraguay,Bolivia,Paraguay,Arístides del Puerto,14,FALSE,FALSE
+1967-01-26,Uruguay,Chile,Chile,Julio Gallardo,2,FALSE,FALSE
+1967-01-26,Uruguay,Chile,Uruguay,Pedro Rocha,15,FALSE,FALSE
+1967-01-26,Uruguay,Chile,Chile,Rubén Marcos,37,FALSE,FALSE
+1967-01-26,Uruguay,Chile,Uruguay,Jorge Oyarbide,68,FALSE,FALSE
+1967-01-28,Argentina,Chile,Argentina,Juan Carlos Sarnari,36,FALSE,FALSE
+1967-01-28,Argentina,Chile,Argentina,Luis Artime,80,FALSE,FALSE
+1967-01-28,Bolivia,Venezuela,Venezuela,Humberto Scovino,59,FALSE,FALSE
+1967-01-28,Bolivia,Venezuela,Venezuela,Rafael Santana,67,FALSE,FALSE
+1967-01-28,Bolivia,Venezuela,Venezuela,Antonio Ravelo,84,FALSE,FALSE
+1967-01-29,Uruguay,Paraguay,Uruguay,Domingo Pérez,32,FALSE,FALSE
+1967-01-29,Uruguay,Paraguay,Uruguay,José Urruzmendi,66,FALSE,FALSE
+1967-02-01,Venezuela,Paraguay,Venezuela,Luis Mendoza,3,FALSE,FALSE
+1967-02-01,Venezuela,Paraguay,Paraguay,Antonio González,11,FALSE,FALSE
+1967-02-01,Venezuela,Paraguay,Paraguay,Juan Carlos Rojas,16,FALSE,FALSE
+1967-02-01,Venezuela,Paraguay,Paraguay,Celino Mora,22,FALSE,FALSE
+1967-02-01,Venezuela,Paraguay,Paraguay,Juan Carlos Rojas,29,FALSE,FALSE
+1967-02-01,Venezuela,Paraguay,Venezuela,Rafael Santana,77,FALSE,FALSE
+1967-02-01,Venezuela,Paraguay,Paraguay,Ramón Colmán,81,FALSE,FALSE
+1967-02-01,Venezuela,Paraguay,Venezuela,Antonio Ravelo,89,FALSE,FALSE
+1967-02-02,Uruguay,Argentina,Uruguay,Pedro Rocha,74,FALSE,FALSE
 1968-06-05,England,Yugoslavia,Yugoslavia,Dragan Džajić,86,FALSE,FALSE
 1968-06-08,England,Russia,England,Bobby Charlton,39,FALSE,FALSE
 1968-06-08,England,Russia,England,Geoff Hurst,63,FALSE,FALSE
@@ -866,9 +2352,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1970-06-14,England,Germany,Germany,Gerd Müller,108,FALSE,FALSE
 1970-06-14,Mexico,Italy,Mexico,José Luis González Dávila,13,FALSE,FALSE
 1970-06-14,Mexico,Italy,Italy,Javier Guzmán,25,TRUE,FALSE
-1970-06-14,Mexico,Italy,Italy,Luigi Riva,63,FALSE,FALSE
+1970-06-14,Mexico,Italy,Italy,Gigi Riva,63,FALSE,FALSE
 1970-06-14,Mexico,Italy,Italy,Gianni Rivera,70,FALSE,FALSE
-1970-06-14,Mexico,Italy,Italy,Luigi Riva,76,FALSE,FALSE
+1970-06-14,Mexico,Italy,Italy,Gigi Riva,76,FALSE,FALSE
 1970-06-14,Russia,Uruguay,Uruguay,Víctor Espárrago,117,FALSE,FALSE
 1970-06-17,Brazil,Uruguay,Uruguay,Luis Cubilla,19,FALSE,FALSE
 1970-06-17,Brazil,Uruguay,Brazil,Clodoaldo,44,FALSE,FALSE
@@ -878,7 +2364,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1970-06-17,Germany,Italy,Germany,Karl-Heinz Schnellinger,90,FALSE,FALSE
 1970-06-17,Germany,Italy,Germany,Gerd Müller,94,FALSE,FALSE
 1970-06-17,Germany,Italy,Italy,Tarcisio Burgnich,98,FALSE,FALSE
-1970-06-17,Germany,Italy,Italy,Luigi Riva,104,FALSE,FALSE
+1970-06-17,Germany,Italy,Italy,Gigi Riva,104,FALSE,FALSE
 1970-06-17,Germany,Italy,Germany,Gerd Müller,110,FALSE,FALSE
 1970-06-17,Germany,Italy,Italy,Gianni Rivera,111,FALSE,FALSE
 1970-06-20,Germany,Uruguay,Germany,Wolfgang Overath,26,FALSE,FALSE
@@ -994,6 +2480,85 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1974-07-07,Germany,Netherlands,Netherlands,Johan Neeskens,2,FALSE,TRUE
 1974-07-07,Germany,Netherlands,Germany,Paul Breitner,25,FALSE,TRUE
 1974-07-07,Germany,Netherlands,Germany,Gerd Müller,43,FALSE,FALSE
+1975-07-17,Chile,Peru,Chile,Julio Crisosto,10,FALSE,FALSE
+1975-07-17,Chile,Peru,Peru,Percy Rojas,72,FALSE,FALSE
+1975-07-20,Bolivia,Chile,Chile,Miguel Angel Gamboa,41,FALSE,FALSE
+1975-07-20,Bolivia,Chile,Bolivia,Ovidio Mezza,60,FALSE,FALSE
+1975-07-20,Bolivia,Chile,Bolivia,Ovidio Mezza,75,FALSE,FALSE
+1975-07-20,Colombia,Paraguay,Colombia,Ernesto Díaz,83,FALSE,FALSE
+1975-07-24,Ecuador,Paraguay,Paraguay,Hugo Kiesse,16,FALSE,FALSE
+1975-07-24,Ecuador,Paraguay,Ecuador,Félix Lasso,38,FALSE,FALSE
+1975-07-24,Ecuador,Paraguay,Ecuador,Gonzalo Castañeda,47,FALSE,FALSE
+1975-07-24,Ecuador,Paraguay,Paraguay,Hugo Kiesse,87,FALSE,FALSE
+1975-07-27,Bolivia,Peru,Peru,Oswaldo Ramírez,17,FALSE,FALSE
+1975-07-27,Ecuador,Colombia,Colombia,Willington Ortiz,15,FALSE,FALSE
+1975-07-27,Ecuador,Colombia,Ecuador,Polo Carrera,40,FALSE,FALSE
+1975-07-27,Ecuador,Colombia,Colombia,Eduardo Retat,75,FALSE,FALSE
+1975-07-27,Ecuador,Colombia,Colombia,Ponciano Castro,83,FALSE,FALSE
+1975-07-30,Paraguay,Colombia,Colombia,Ernesto Díaz,40,FALSE,FALSE
+1975-07-31,Venezuela,Brazil,Brazil,Romeu Evangelista,2,FALSE,FALSE
+1975-07-31,Venezuela,Brazil,Brazil,Danival,50,FALSE,FALSE
+1975-07-31,Venezuela,Brazil,Brazil,Palhinha,82,FALSE,FALSE
+1975-07-31,Venezuela,Brazil,Brazil,Palhinha,88,FALSE,FALSE
+1975-08-03,Venezuela,Argentina,Argentina,Leopoldo Luque,12,FALSE,FALSE
+1975-08-03,Venezuela,Argentina,Venezuela,Ramón Iriarte,14,FALSE,FALSE
+1975-08-03,Venezuela,Argentina,Argentina,Mario Kempes,30,FALSE,FALSE
+1975-08-03,Venezuela,Argentina,Argentina,Leopoldo Luque,34,FALSE,FALSE
+1975-08-03,Venezuela,Argentina,Argentina,Leopoldo Luque,66,FALSE,FALSE
+1975-08-03,Venezuela,Argentina,Argentina,Osvaldo Ardiles,86,FALSE,FALSE
+1975-08-06,Brazil,Argentina,Argentina,Julio Asad,11,FALSE,FALSE
+1975-08-06,Brazil,Argentina,Brazil,Nelinho,31,FALSE,FALSE
+1975-08-06,Brazil,Argentina,Brazil,Nelinho,55,FALSE,TRUE
+1975-08-07,Colombia,Ecuador,Colombia,Ernesto Díaz,15,FALSE,FALSE
+1975-08-07,Colombia,Ecuador,Colombia,Oswaldo Calero,42,FALSE,FALSE
+1975-08-07,Peru,Bolivia,Peru,Oswaldo Ramírez,7,FALSE,TRUE
+1975-08-07,Peru,Bolivia,Peru,César Cueto,26,FALSE,FALSE
+1975-08-07,Peru,Bolivia,Peru,Juan Carlos Oblitas,52,FALSE,FALSE
+1975-08-07,Peru,Bolivia,Bolivia,Ovidio Mezza,58,FALSE,TRUE
+1975-08-10,Argentina,Venezuela,Argentina,Daniel Killer,8,FALSE,FALSE
+1975-08-10,Argentina,Venezuela,Argentina,Américo Gallego,14,FALSE,FALSE
+1975-08-10,Argentina,Venezuela,Argentina,Osvaldo Ardiles,39,FALSE,FALSE
+1975-08-10,Argentina,Venezuela,Argentina,Daniel Killer,41,FALSE,FALSE
+1975-08-10,Argentina,Venezuela,Argentina,Mario Kempes,53,FALSE,FALSE
+1975-08-10,Argentina,Venezuela,Argentina,Mario Zanabria,56,FALSE,FALSE
+1975-08-10,Argentina,Venezuela,Argentina,Daniel Killer,62,FALSE,FALSE
+1975-08-10,Argentina,Venezuela,Argentina,Mario Zanabria,64,FALSE,FALSE
+1975-08-10,Argentina,Venezuela,Argentina,Ramón Bóveda,80,FALSE,FALSE
+1975-08-10,Argentina,Venezuela,Argentina,Mario Kempes,81,FALSE,FALSE
+1975-08-10,Argentina,Venezuela,Argentina,Leopoldo Luque,85,FALSE,FALSE
+1975-08-10,Paraguay,Ecuador,Paraguay,Carlos Báez,21,FALSE,FALSE
+1975-08-10,Paraguay,Ecuador,Ecuador,Gonzalo Castañeda,31,FALSE,FALSE
+1975-08-10,Paraguay,Ecuador,Paraguay,Clemente Rolón,39,FALSE,FALSE
+1975-08-10,Paraguay,Ecuador,Paraguay,Clemente Rolón,58,FALSE,FALSE
+1975-08-13,Brazil,Venezuela,Brazil,Roberto Batata,6,FALSE,FALSE
+1975-08-13,Brazil,Venezuela,Brazil,Nelinho,9,FALSE,FALSE
+1975-08-13,Brazil,Venezuela,Brazil,Danival,37,FALSE,FALSE
+1975-08-13,Brazil,Venezuela,Brazil,Cosme da Silva Campos,53,FALSE,FALSE
+1975-08-13,Brazil,Venezuela,Brazil,Palhinha,65,FALSE,FALSE
+1975-08-13,Brazil,Venezuela,Brazil,Roberto Batata,79,FALSE,FALSE
+1975-08-13,Chile,Bolivia,Chile,Luis Araneda,40,FALSE,FALSE
+1975-08-13,Chile,Bolivia,Chile,Sergio Ahumada,61,FALSE,FALSE
+1975-08-13,Chile,Bolivia,Chile,Miguel Angel Gamboa,71,FALSE,FALSE
+1975-08-13,Chile,Bolivia,Chile,Luis Araneda,87,FALSE,FALSE
+1975-08-16,Argentina,Brazil,Brazil,Danival,45,FALSE,FALSE
+1975-08-20,Peru,Chile,Peru,Percy Rojas,3,FALSE,FALSE
+1975-08-20,Peru,Chile,Peru,Juan Carlos Oblitas,32,FALSE,FALSE
+1975-08-20,Peru,Chile,Peru,Teófilo Cubillas,39,FALSE,FALSE
+1975-08-20,Peru,Chile,Chile,Carlos Reinoso,76,FALSE,FALSE
+1975-09-21,Colombia,Uruguay,Colombia,Edgar Angulo,53,FALSE,FALSE
+1975-09-21,Colombia,Uruguay,Colombia,Willington Ortiz,70,FALSE,FALSE
+1975-09-21,Colombia,Uruguay,Colombia,Ernesto Díaz,90,FALSE,FALSE
+1975-09-30,Brazil,Peru,Peru,Enrique Casaretto,19,FALSE,FALSE
+1975-09-30,Brazil,Peru,Brazil,Roberto Batata,54,FALSE,FALSE
+1975-09-30,Brazil,Peru,Peru,Teófilo Cubillas,82,FALSE,FALSE
+1975-09-30,Brazil,Peru,Peru,Enrique Casaretto,88,FALSE,FALSE
+1975-10-01,Uruguay,Colombia,Uruguay,Fernando Morena,17,FALSE,TRUE
+1975-10-04,Peru,Brazil,Brazil,Julio Meléndez,10,TRUE,FALSE
+1975-10-04,Peru,Brazil,Brazil,Cosme da Silva Campos,61,FALSE,FALSE
+1975-10-16,Colombia,Peru,Colombia,Ponciano Castro,38,FALSE,FALSE
+1975-10-22,Peru,Colombia,Peru,Juan Carlos Oblitas,18,FALSE,FALSE
+1975-10-22,Peru,Colombia,Peru,Oswaldo Ramírez,44,FALSE,FALSE
+1975-10-28,Colombia,Peru,Peru,Hugo Sotil,25,FALSE,FALSE
 1976-06-16,Czechoslovakia,Netherlands,Czechoslovakia,Anton Ondruš,19,FALSE,FALSE
 1976-06-16,Czechoslovakia,Netherlands,Netherlands,Anton Ondruš,73,TRUE,FALSE
 1976-06-16,Czechoslovakia,Netherlands,Czechoslovakia,Zdeněk Nehoda,114,FALSE,FALSE
@@ -1115,6 +2680,69 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1978-06-25,Argentina,Netherlands,Netherlands,Dick Nanninga,82,FALSE,FALSE
 1978-06-25,Argentina,Netherlands,Argentina,Mario Kempes,105,FALSE,FALSE
 1978-06-25,Argentina,Netherlands,Argentina,Daniel Bertoni,115,FALSE,FALSE
+1979-07-18,Bolivia,Argentina,Argentina,Carlos Ángel López,5,FALSE,FALSE
+1979-07-18,Bolivia,Argentina,Bolivia,Jesús Reynaldo,29,FALSE,FALSE
+1979-07-18,Bolivia,Argentina,Bolivia,Jesús Reynaldo,66,FALSE,FALSE
+1979-07-26,Bolivia,Brazil,Brazil,Roberto Dinamite,30,FALSE,TRUE
+1979-07-26,Bolivia,Brazil,Bolivia,Carlos Aragonés,36,FALSE,TRUE
+1979-07-26,Bolivia,Brazil,Bolivia,Carlos Aragonés,73,FALSE,FALSE
+1979-08-02,Brazil,Argentina,Brazil,Zico,2,FALSE,FALSE
+1979-08-02,Brazil,Argentina,Argentina,Hugo Coscia,29,FALSE,FALSE
+1979-08-02,Brazil,Argentina,Brazil,Tita,54,FALSE,FALSE
+1979-08-08,Argentina,Bolivia,Argentina,Daniel Passarella,1,FALSE,FALSE
+1979-08-08,Argentina,Bolivia,Argentina,Jorge Gáspari,15,FALSE,FALSE
+1979-08-08,Argentina,Bolivia,Argentina,Diego Maradona,65,FALSE,FALSE
+1979-08-08,Venezuela,Chile,Venezuela,Rodolfo Carvajal,70,FALSE,FALSE
+1979-08-08,Venezuela,Chile,Chile,Jorge Peredo,81,FALSE,FALSE
+1979-08-15,Colombia,Chile,Colombia,Ernesto Díaz,21,FALSE,FALSE
+1979-08-16,Brazil,Bolivia,Brazil,Tita,46,FALSE,FALSE
+1979-08-16,Brazil,Bolivia,Brazil,Zico,90,FALSE,FALSE
+1979-08-22,Colombia,Venezuela,Colombia,Arnoldo Alberto Iguarán,17,FALSE,FALSE
+1979-08-22,Colombia,Venezuela,Colombia,"Alex ""Didí"" Valverde",53,FALSE,FALSE
+1979-08-22,Colombia,Venezuela,Colombia,José Gabriel Chaparro,59,FALSE,FALSE
+1979-08-22,Colombia,Venezuela,Colombia,Jaime Morón,86,FALSE,FALSE
+1979-08-23,Argentina,Brazil,Brazil,Sócrates,17,FALSE,FALSE
+1979-08-23,Argentina,Brazil,Argentina,Daniel Passarella,38,FALSE,FALSE
+1979-08-23,Argentina,Brazil,Brazil,Sócrates,65,FALSE,TRUE
+1979-08-23,Argentina,Brazil,Argentina,Roberto Osvaldo Díaz,71,FALSE,FALSE
+1979-08-29,Chile,Venezuela,Chile,Jorge Peredo,3,FALSE,FALSE
+1979-08-29,Chile,Venezuela,Chile,Leonardo Véliz,31,FALSE,FALSE
+1979-08-29,Chile,Venezuela,Chile,Carlos Rivas,38,FALSE,FALSE
+1979-08-29,Chile,Venezuela,Chile,Carlos Rivas,54,FALSE,TRUE
+1979-08-29,Chile,Venezuela,Chile,Jorge Peredo,59,FALSE,FALSE
+1979-08-29,Chile,Venezuela,Chile,Mario Soto,80,FALSE,FALSE
+1979-08-29,Chile,Venezuela,Chile,Patricio Yáñez,84,FALSE,FALSE
+1979-08-29,Ecuador,Paraguay,Paraguay,Hugo Ricardo Talavera,22,FALSE,FALSE
+1979-08-29,Ecuador,Paraguay,Ecuador,Carlos Torres Garcés,64,FALSE,TRUE
+1979-08-29,Ecuador,Paraguay,Paraguay,Alicio Solalinde,77,FALSE,FALSE
+1979-09-05,Chile,Colombia,Chile,Carlos Caszely,14,FALSE,FALSE
+1979-09-05,Chile,Colombia,Chile,Jorge Peredo,58,FALSE,FALSE
+1979-09-05,Ecuador,Uruguay,Ecuador,Mario Tenorio,6,FALSE,FALSE
+1979-09-05,Ecuador,Uruguay,Ecuador,Jorge Luis Alarcón,9,FALSE,FALSE
+1979-09-05,Ecuador,Uruguay,Uruguay,Waldemar Victorino,79,FALSE,TRUE
+1979-09-13,Paraguay,Ecuador,Paraguay,Eugenio Morel,27,FALSE,FALSE
+1979-09-13,Paraguay,Ecuador,Paraguay,Juvencio Osorio,48,FALSE,FALSE
+1979-09-16,Uruguay,Ecuador,Uruguay,Alberto Bica,4,FALSE,FALSE
+1979-09-16,Uruguay,Ecuador,Uruguay,Waldemar Victorino,57,FALSE,FALSE
+1979-09-16,Uruguay,Ecuador,Ecuador,Fausto Klinger,77,FALSE,FALSE
+1979-09-26,Uruguay,Paraguay,Paraguay,Eugenio Morel,34,FALSE,FALSE
+1979-09-26,Uruguay,Paraguay,Uruguay,Denís Milar,54,FALSE,TRUE
+1979-09-26,Uruguay,Paraguay,Uruguay,Rubén Paz,83,FALSE,FALSE
+1979-09-26,Uruguay,Paraguay,Paraguay,Eugenio Morel,88,FALSE,FALSE
+1979-10-17,Peru,Chile,Chile,Carlos Caszely,36,FALSE,FALSE
+1979-10-17,Peru,Chile,Peru,Roberto Mosquera,71,FALSE,FALSE
+1979-10-17,Peru,Chile,Chile,Carlos Caszely,76,FALSE,FALSE
+1979-10-24,Paraguay,Brazil,Paraguay,Eugenio Morel,16,FALSE,FALSE
+1979-10-24,Paraguay,Brazil,Paraguay,Hugo Talavera,35,FALSE,FALSE
+1979-10-24,Paraguay,Brazil,Brazil,Palhinha,79,FALSE,FALSE
+1979-10-31,Brazil,Paraguay,Brazil,Paulo Roberto Falcão,29,FALSE,FALSE
+1979-10-31,Brazil,Paraguay,Paraguay,Milciades Morel,31,FALSE,FALSE
+1979-10-31,Brazil,Paraguay,Brazil,Sócrates,61,FALSE,TRUE
+1979-10-31,Brazil,Paraguay,Paraguay,Julio César Romero,68,FALSE,FALSE
+1979-11-28,Paraguay,Chile,Paraguay,Julio César Romero,12,FALSE,FALSE
+1979-11-28,Paraguay,Chile,Paraguay,Milciades Morel,36,FALSE,FALSE
+1979-11-28,Paraguay,Chile,Paraguay,Julio César Romero,85,FALSE,FALSE
+1979-12-05,Chile,Paraguay,Chile,Carlos Rivas,10,FALSE,FALSE
 1980-06-11,Czechoslovakia,Germany,Germany,Karl-Heinz Rummenigge,57,FALSE,FALSE
 1980-06-11,Netherlands,Greece,Netherlands,Kees Kist,65,FALSE,TRUE
 1980-06-12,Belgium,England,England,Ray Wilkins,26,FALSE,FALSE
@@ -1288,6 +2916,61 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1982-07-11,Italy,Germany,Italy,Marco Tardelli,69,FALSE,FALSE
 1982-07-11,Italy,Germany,Italy,Alessandro Altobelli,81,FALSE,FALSE
 1982-07-11,Italy,Germany,Germany,Paul Breitner,83,FALSE,FALSE
+1983-08-10,Ecuador,Argentina,Argentina,Jorge Luis Burruchaga,40,FALSE,FALSE
+1983-08-10,Ecuador,Argentina,Argentina,Jorge Luis Burruchaga,51,FALSE,FALSE
+1983-08-10,Ecuador,Argentina,Ecuador,Galo Fidean Vásquez,68,FALSE,FALSE
+1983-08-10,Ecuador,Argentina,Ecuador,José Jacinto Vega,89,FALSE,FALSE
+1983-08-14,Bolivia,Colombia,Colombia,Alex Valderrama,73,FALSE,FALSE
+1983-08-17,Ecuador,Brazil,Brazil,Roberto Dinamite,14,FALSE,FALSE
+1983-08-17,Peru,Colombia,Peru,Franco Navarro,77,FALSE,FALSE
+1983-08-21,Bolivia,Peru,Bolivia,Erwin Romero,65,FALSE,FALSE
+1983-08-21,Bolivia,Peru,Peru,Franco Navarro,89,FALSE,FALSE
+1983-08-24,Argentina,Brazil,Argentina,Ricardo Gareca,55,FALSE,FALSE
+1983-08-28,Colombia,Peru,Peru,Eduardo Malásquez,25,FALSE,TRUE
+1983-08-28,Colombia,Peru,Colombia,Miguel Augusto Prince,46,FALSE,FALSE
+1983-08-28,Colombia,Peru,Colombia,Fernando Fiorillo,69,FALSE,FALSE
+1983-08-28,Colombia,Peru,Peru,Juan Caballero,85,FALSE,FALSE
+1983-08-31,Colombia,Bolivia,Colombia,Alex Valderrama,2,FALSE,FALSE
+1983-08-31,Colombia,Bolivia,Colombia,Nolberto Molina,60,FALSE,TRUE
+1983-08-31,Colombia,Bolivia,Bolivia,Milton Melgar,78,FALSE,FALSE
+1983-08-31,Colombia,Bolivia,Bolivia,Silvio Rojas,80,FALSE,FALSE
+1983-09-01,Brazil,Ecuador,Brazil,Renato Gaúcho,12,FALSE,FALSE
+1983-09-01,Brazil,Ecuador,Brazil,Roberto Dinamite,46,FALSE,FALSE
+1983-09-01,Brazil,Ecuador,Brazil,Roberto Dinamite,55,FALSE,FALSE
+1983-09-01,Brazil,Ecuador,Brazil,Éder Aleixo de Assis,58,FALSE,FALSE
+1983-09-01,Brazil,Ecuador,Brazil,Tita,60,FALSE,FALSE
+1983-09-01,Uruguay,Chile,Uruguay,Eduardo Mario Acevedo,45,FALSE,FALSE
+1983-09-01,Uruguay,Chile,Uruguay,Fernando Morena,63,FALSE,TRUE
+1983-09-01,Uruguay,Chile,Chile,Juan Carlos Orellana,76,FALSE,FALSE
+1983-09-04,Peru,Bolivia,Peru,Germán Leguía,6,FALSE,FALSE
+1983-09-04,Peru,Bolivia,Peru,Juan Caballero,21,FALSE,FALSE
+1983-09-04,Peru,Bolivia,Bolivia,David Paniagua,46,FALSE,FALSE
+1983-09-04,Uruguay,Venezuela,Uruguay,Wilmar Cabrera,29,FALSE,FALSE
+1983-09-04,Uruguay,Venezuela,Uruguay,Fernando Morena,57,FALSE,TRUE
+1983-09-04,Uruguay,Venezuela,Uruguay,Arsenio Luzardo,68,FALSE,FALSE
+1983-09-07,Argentina,Ecuador,Ecuador,Lupo Quiñónez,44,FALSE,FALSE
+1983-09-07,Argentina,Ecuador,Argentina,Víctor Rogelio Ramos,50,FALSE,FALSE
+1983-09-07,Argentina,Ecuador,Argentina,Jorge Luis Burruchaga,90,FALSE,TRUE
+1983-09-07,Argentina,Ecuador,Ecuador,Hans Maldonado,90,FALSE,TRUE
+1983-09-08,Chile,Venezuela,Chile,Oscar Arriaza,22,FALSE,FALSE
+1983-09-08,Chile,Venezuela,Chile,Rodolfo Dubó,25,FALSE,FALSE
+1983-09-08,Chile,Venezuela,Chile,Jorge Orlando Aravena Plaza,35,FALSE,FALSE
+1983-09-08,Chile,Venezuela,Chile,Rubén Espinoza,51,FALSE,FALSE
+1983-09-08,Chile,Venezuela,Chile,Jorge Orlando Aravena Plaza,83,FALSE,FALSE
+1983-09-11,Chile,Uruguay,Chile,Rodolfo Dubó,9,FALSE,FALSE
+1983-09-11,Chile,Uruguay,Chile,Juan Carlos Letelier,80,FALSE,FALSE
+1983-09-18,Venezuela,Uruguay,Uruguay,Alberto Santelli,74,FALSE,FALSE
+1983-09-18,Venezuela,Uruguay,Venezuela,Pedro Febles,77,FALSE,FALSE
+1983-09-18,Venezuela,Uruguay,Uruguay,Carlos Aguilera,87,FALSE,FALSE
+1983-10-13,Paraguay,Brazil,Paraguay,Milciades Morel,70,FALSE,FALSE
+1983-10-13,Paraguay,Brazil,Brazil,Éder Aleixo de Assis,88,FALSE,FALSE
+1983-10-13,Peru,Uruguay,Uruguay,Carlos Aguilera,65,FALSE,FALSE
+1983-10-20,Uruguay,Peru,Peru,Eduardo Malásquez,24,FALSE,FALSE
+1983-10-20,Uruguay,Peru,Uruguay,Wilmar Cabrera,49,FALSE,FALSE
+1983-10-27,Uruguay,Brazil,Uruguay,Enzo Francescoli,41,FALSE,FALSE
+1983-10-27,Uruguay,Brazil,Uruguay,Víctor Diogo,80,FALSE,FALSE
+1983-11-04,Brazil,Uruguay,Brazil,Jorginho Putinatti,23,FALSE,FALSE
+1983-11-04,Brazil,Uruguay,Uruguay,Carlos Aguilera,77,FALSE,FALSE
 1984-06-12,France,Denmark,France,Michel Platini,78,FALSE,FALSE
 1984-06-13,Belgium,Yugoslavia,Belgium,Erwin Vandenbergh,28,FALSE,FALSE
 1984-06-13,Belgium,Yugoslavia,Belgium,Georges Grün,45,FALSE,FALSE
@@ -1461,6 +3144,39 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1986-06-29,Argentina,Germany,Germany,Karl-Heinz Rummenigge,74,FALSE,FALSE
 1986-06-29,Argentina,Germany,Germany,Rudi Völler,80,FALSE,FALSE
 1986-06-29,Argentina,Germany,Argentina,Jorge Burruchaga,83,FALSE,FALSE
+1987-06-27,Argentina,Peru,Argentina,Diego Maradona,47,FALSE,FALSE
+1987-06-27,Argentina,Peru,Peru,Luis Reyna,59,FALSE,FALSE
+1987-06-28,Brazil,Venezuela,Brazil,Edú Marangón,33,FALSE,FALSE
+1987-06-28,Brazil,Venezuela,Brazil,Zdenko Morovic,39,TRUE,FALSE
+1987-06-28,Brazil,Venezuela,Brazil,Careca,66,FALSE,FALSE
+1987-06-28,Brazil,Venezuela,Brazil,Nelson Luís Kerchner,72,FALSE,FALSE
+1987-06-28,Brazil,Venezuela,Brazil,Romário,89,FALSE,FALSE
+1987-06-30,Venezuela,Chile,Chile,Juan Carlos Letelier,17,FALSE,FALSE
+1987-06-30,Venezuela,Chile,Venezuela,Pedro Acosta,24,FALSE,TRUE
+1987-06-30,Venezuela,Chile,Chile,Jorge Contreras,70,FALSE,FALSE
+1987-06-30,Venezuela,Chile,Chile,Sergio Salgado,83,FALSE,FALSE
+1987-07-01,Bolivia,Colombia,Colombia,Carlos Valderrama,34,FALSE,FALSE
+1987-07-01,Bolivia,Colombia,Colombia,Arnoldo Iguarán,89,FALSE,FALSE
+1987-07-02,Argentina,Ecuador,Argentina,Claudio Caniggia,50,FALSE,FALSE
+1987-07-02,Argentina,Ecuador,Argentina,Diego Maradona,67,FALSE,TRUE
+1987-07-02,Argentina,Ecuador,Argentina,Diego Maradona,85,FALSE,FALSE
+1987-07-03,Chile,Brazil,Chile,Ivo Basay,41,FALSE,FALSE
+1987-07-03,Chile,Brazil,Chile,Juan Carlos Letelier,48,FALSE,FALSE
+1987-07-03,Chile,Brazil,Chile,Ivo Basay,68,FALSE,FALSE
+1987-07-03,Chile,Brazil,Chile,Juan Carlos Letelier,75,FALSE,FALSE
+1987-07-04,Peru,Ecuador,Ecuador,Hamilton Cuvi,72,FALSE,FALSE
+1987-07-04,Peru,Ecuador,Peru,Eugenio La Rosa,87,FALSE,FALSE
+1987-07-05,Colombia,Paraguay,Colombia,Arnoldo Iguarán,8,FALSE,FALSE
+1987-07-05,Colombia,Paraguay,Colombia,Arnoldo Iguarán,34,FALSE,FALSE
+1987-07-05,Colombia,Paraguay,Colombia,Arnoldo Iguarán,50,FALSE,FALSE
+1987-07-08,Chile,Colombia,Colombia,Bernardo Redín,103,FALSE,TRUE
+1987-07-08,Chile,Colombia,Chile,Fernando Astengo,106,FALSE,FALSE
+1987-07-08,Chile,Colombia,Chile,Jaime Vera,108,FALSE,FALSE
+1987-07-09,Argentina,Uruguay,Uruguay,Antonio Alzamendi,43,FALSE,FALSE
+1987-07-11,Argentina,Colombia,Colombia,Gabriel Jaime Gómez Jaramillo,8,FALSE,FALSE
+1987-07-11,Argentina,Colombia,Colombia,Juan Jairo Galeano,27,FALSE,FALSE
+1987-07-11,Argentina,Colombia,Argentina,Claudio Caniggia,86,FALSE,FALSE
+1987-07-12,Chile,Uruguay,Uruguay,Pablo Bengoechea,56,FALSE,FALSE
 1988-06-10,Germany,Italy,Italy,Roberto Mancini,52,FALSE,FALSE
 1988-06-10,Germany,Italy,Germany,Andreas Brehme,55,FALSE,FALSE
 1988-06-11,Denmark,Spain,Spain,Míchel,5,FALSE,FALSE
@@ -1495,6 +3211,61 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1988-06-22,Russia,Italy,Russia,Oleh Protasov,62,FALSE,FALSE
 1988-06-25,Russia,Netherlands,Netherlands,Ruud Gullit,32,FALSE,FALSE
 1988-06-25,Russia,Netherlands,Netherlands,Marco van Basten,54,FALSE,FALSE
+1989-07-01,Brazil,Venezuela,Brazil,Bebeto,2,FALSE,FALSE
+1989-07-01,Brazil,Venezuela,Brazil,Geovani Faria da Silva,36,FALSE,TRUE
+1989-07-01,Brazil,Venezuela,Brazil,Baltazar Maria de Morais Júnior,57,FALSE,FALSE
+1989-07-01,Brazil,Venezuela,Venezuela,Carlos Maldonado,63,FALSE,FALSE
+1989-07-01,Paraguay,Peru,Peru,Jorge Hirano,30,FALSE,FALSE
+1989-07-01,Paraguay,Peru,Paraguay,Adolfino Cañete,38,FALSE,FALSE
+1989-07-01,Paraguay,Peru,Paraguay,Gustavo Neffa,41,FALSE,FALSE
+1989-07-01,Paraguay,Peru,Paraguay,Alfredo Mendoza,51,FALSE,FALSE
+1989-07-01,Paraguay,Peru,Paraguay,José del Solar,75,TRUE,FALSE
+1989-07-01,Paraguay,Peru,Peru,Juan Reynoso Guzmán,80,FALSE,FALSE
+1989-07-01,Paraguay,Peru,Paraguay,Adolfino Cañete,84,FALSE,FALSE
+1989-07-02,Argentina,Chile,Argentina,Claudio Caniggia,55,FALSE,FALSE
+1989-07-02,Uruguay,Ecuador,Ecuador,Ermen Benítez,88,FALSE,FALSE
+1989-07-03,Venezuela,Colombia,Colombia,René Higuita,36,FALSE,TRUE
+1989-07-03,Venezuela,Colombia,Colombia,Arnoldo Iguarán,46,FALSE,FALSE
+1989-07-03,Venezuela,Colombia,Colombia,Antony de Ávila,71,FALSE,FALSE
+1989-07-03,Venezuela,Colombia,Venezuela,Carlos Maldonado,73,FALSE,FALSE
+1989-07-03,Venezuela,Colombia,Colombia,Arnoldo Iguarán,75,FALSE,FALSE
+1989-07-03,Venezuela,Colombia,Venezuela,Carlos Maldonado,88,FALSE,FALSE
+1989-07-04,Uruguay,Bolivia,Uruguay,Santiago Ostolaza,30,FALSE,FALSE
+1989-07-04,Uruguay,Bolivia,Uruguay,Rubén Sosa,33,FALSE,FALSE
+1989-07-04,Uruguay,Bolivia,Uruguay,Santiago Ostolaza,60,FALSE,FALSE
+1989-07-05,Colombia,Paraguay,Paraguay,Alfredo Mendoza,51,FALSE,FALSE
+1989-07-05,Peru,Venezuela,Venezuela,Carlos Maldonado,29,FALSE,FALSE
+1989-07-05,Peru,Venezuela,Peru,Franco Navarro,30,FALSE,FALSE
+1989-07-06,Chile,Uruguay,Uruguay,Rubén Sosa,44,FALSE,FALSE
+1989-07-06,Chile,Uruguay,Uruguay,Antonio Alzamendi,73,FALSE,FALSE
+1989-07-06,Chile,Uruguay,Uruguay,Enzo Francescoli,78,FALSE,FALSE
+1989-07-07,Paraguay,Venezuela,Paraguay,Gustavo Neffa,41,FALSE,FALSE
+1989-07-07,Paraguay,Venezuela,Paraguay,Buenaventura Ferreira,50,FALSE,FALSE
+1989-07-07,Paraguay,Venezuela,Paraguay,Buenaventura Ferreira,73,FALSE,FALSE
+1989-07-08,Bolivia,Chile,Chile,Juvenal Olmos,9,FALSE,FALSE
+1989-07-08,Bolivia,Chile,Chile,Jaime Patricio Ramírez,10,FALSE,FALSE
+1989-07-08,Bolivia,Chile,Chile,Fernando Astengo,55,FALSE,FALSE
+1989-07-08,Bolivia,Chile,Chile,Jaime Pizarro,68,FALSE,TRUE
+1989-07-08,Bolivia,Chile,Chile,Óscar Reyes,85,FALSE,FALSE
+1989-07-08,Uruguay,Argentina,Argentina,Claudio Caniggia,69,FALSE,FALSE
+1989-07-09,Brazil,Paraguay,Brazil,Bebeto,47,FALSE,FALSE
+1989-07-09,Brazil,Paraguay,Brazil,Bebeto,82,FALSE,FALSE
+1989-07-09,Colombia,Peru,Colombia,Arnoldo Iguarán,32,FALSE,FALSE
+1989-07-09,Colombia,Peru,Peru,Jorge Hirano,43,FALSE,FALSE
+1989-07-10,Chile,Ecuador,Chile,Juvenal Olmos,44,FALSE,FALSE
+1989-07-10,Chile,Ecuador,Chile,Juan Carlos Letelier,88,FALSE,FALSE
+1989-07-10,Chile,Ecuador,Ecuador,Ney Avilés,89,FALSE,FALSE
+1989-07-12,Brazil,Argentina,Brazil,Bebeto,48,FALSE,FALSE
+1989-07-12,Brazil,Argentina,Brazil,Romário,55,FALSE,FALSE
+1989-07-12,Paraguay,Uruguay,Uruguay,Enzo Francescoli,28,FALSE,FALSE
+1989-07-12,Paraguay,Uruguay,Uruguay,Antonio Alzamendi,82,FALSE,FALSE
+1989-07-12,Paraguay,Uruguay,Uruguay,Rubén Paz,89,FALSE,FALSE
+1989-07-14,Argentina,Uruguay,Uruguay,Rubén Sosa,38,FALSE,FALSE
+1989-07-14,Argentina,Uruguay,Uruguay,Rubén Sosa,81,FALSE,FALSE
+1989-07-14,Brazil,Paraguay,Brazil,Bebeto,16,FALSE,FALSE
+1989-07-14,Brazil,Paraguay,Brazil,Bebeto,52,FALSE,FALSE
+1989-07-14,Brazil,Paraguay,Brazil,Romário,58,FALSE,FALSE
+1989-07-16,Brazil,Uruguay,Brazil,Romário,49,FALSE,FALSE
 1990-06-08,Argentina,Cameroon,Cameroon,François Omam-Biyik,67,FALSE,FALSE
 1990-06-09,Italy,Austria,Italy,Salvatore Schillaci,78,FALSE,FALSE
 1990-06-09,Russia,Romania,Romania,Marius Lăcătuș,41,FALSE,FALSE
@@ -1610,6 +3381,79 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1990-07-07,Italy,England,England,David Platt,81,FALSE,FALSE
 1990-07-07,Italy,England,Italy,Salvatore Schillaci,86,FALSE,TRUE
 1990-07-08,Germany,Argentina,Germany,Andreas Brehme,85,FALSE,TRUE
+1991-07-06,Chile,Venezuela,Chile,Hugo Eduardo Rubio,22,FALSE,FALSE
+1991-07-06,Chile,Venezuela,Chile,Iván Zamorano,34,FALSE,FALSE
+1991-07-06,Paraguay,Peru,Paraguay,Luis Monzón,21,FALSE,FALSE
+1991-07-07,Bolivia,Uruguay,Bolivia,Berthy Suárez,16,FALSE,FALSE
+1991-07-07,Bolivia,Uruguay,Uruguay,Ramón Víctor Castro,73,FALSE,FALSE
+1991-07-07,Colombia,Ecuador,Colombia,Antony de Ávila,25,FALSE,FALSE
+1991-07-08,Argentina,Venezuela,Argentina,Gabriel Batistuta,28,FALSE,FALSE
+1991-07-08,Argentina,Venezuela,Argentina,Claudio Caniggia,43,FALSE,FALSE
+1991-07-08,Argentina,Venezuela,Argentina,Gabriel Batistuta,50,FALSE,TRUE
+1991-07-08,Chile,Peru,Chile,Hugo Eduardo Rubio,16,FALSE,FALSE
+1991-07-08,Chile,Peru,Chile,Jorge Contreras,51,FALSE,TRUE
+1991-07-08,Chile,Peru,Peru,Flavio Maestri,59,FALSE,FALSE
+1991-07-08,Chile,Peru,Chile,Iván Zamorano,61,FALSE,FALSE
+1991-07-08,Chile,Peru,Peru,José del Solar,71,FALSE,FALSE
+1991-07-08,Chile,Peru,Chile,Iván Zamorano,74,FALSE,FALSE
+1991-07-09,Bolivia,Brazil,Brazil,Neto,5,FALSE,TRUE
+1991-07-09,Bolivia,Brazil,Brazil,Branco,47,FALSE,FALSE
+1991-07-09,Bolivia,Brazil,Bolivia,Erwin Sánchez,89,FALSE,TRUE
+1991-07-09,Ecuador,Uruguay,Ecuador,Álex Aguinaga,44,FALSE,FALSE
+1991-07-09,Ecuador,Uruguay,Uruguay,Peter Méndez,49,FALSE,TRUE
+1991-07-10,Chile,Argentina,Argentina,Gabriel Batistuta,81,FALSE,FALSE
+1991-07-10,Paraguay,Venezuela,Paraguay,Gustavo Neffa,34,FALSE,FALSE
+1991-07-10,Paraguay,Venezuela,Paraguay,Carlos Guirland,38,FALSE,FALSE
+1991-07-10,Paraguay,Venezuela,Paraguay,Luis Monzón,75,FALSE,FALSE
+1991-07-10,Paraguay,Venezuela,Paraguay,Vidal Sanabria,81,FALSE,FALSE
+1991-07-10,Paraguay,Venezuela,Paraguay,Luis Monzón,87,FALSE,TRUE
+1991-07-11,Brazil,Uruguay,Brazil,João Paulo,29,FALSE,FALSE
+1991-07-11,Brazil,Uruguay,Uruguay,Peter Méndez,66,FALSE,FALSE
+1991-07-12,Argentina,Paraguay,Argentina,Gabriel Batistuta,40,FALSE,FALSE
+1991-07-12,Argentina,Paraguay,Argentina,Diego Simeone,61,FALSE,FALSE
+1991-07-12,Argentina,Paraguay,Argentina,Leonardo Astrada,70,FALSE,FALSE
+1991-07-12,Argentina,Paraguay,Paraguay,José Cardozo,79,FALSE,FALSE
+1991-07-12,Argentina,Paraguay,Argentina,Claudio Caniggia,81,FALSE,FALSE
+1991-07-12,Peru,Venezuela,Peru,Eugenio La Rosa,9,FALSE,FALSE
+1991-07-12,Peru,Venezuela,Venezuela,José del Solar,14,TRUE,FALSE
+1991-07-12,Peru,Venezuela,Peru,Robert Cavallo,21,TRUE,FALSE
+1991-07-12,Peru,Venezuela,Peru,Eugenio La Rosa,55,FALSE,FALSE
+1991-07-12,Peru,Venezuela,Peru,José del Solar,58,FALSE,FALSE
+1991-07-12,Peru,Venezuela,Peru,Jorge Hirano,62,FALSE,FALSE
+1991-07-13,Bolivia,Ecuador,Ecuador,Álex Aguinaga,32,FALSE,FALSE
+1991-07-13,Bolivia,Ecuador,Ecuador,Ney Avilés,42,FALSE,FALSE
+1991-07-13,Bolivia,Ecuador,Ecuador,Ney Avilés,73,FALSE,FALSE
+1991-07-13,Bolivia,Ecuador,Ecuador,Erwin Ramírez,80,FALSE,TRUE
+1991-07-13,Brazil,Colombia,Colombia,Antony de Ávila,35,FALSE,FALSE
+1991-07-13,Brazil,Colombia,Colombia,Arnoldo Iguarán,66,FALSE,FALSE
+1991-07-14,Argentina,Peru,Argentina,Diego Latorre,3,FALSE,FALSE
+1991-07-14,Argentina,Peru,Peru,Alfonso Yáñez,35,FALSE,TRUE
+1991-07-14,Argentina,Peru,Argentina,Néstor Craviotto,51,FALSE,FALSE
+1991-07-14,Argentina,Peru,Argentina,Claudio García,57,FALSE,FALSE
+1991-07-14,Argentina,Peru,Peru,Jorge Hirano,65,FALSE,FALSE
+1991-07-14,Chile,Paraguay,Chile,Hugo Eduardo Rubio,12,FALSE,FALSE
+1991-07-14,Chile,Paraguay,Chile,Iván Zamorano,15,FALSE,FALSE
+1991-07-14,Chile,Paraguay,Chile,Fabián Estay,63,FALSE,FALSE
+1991-07-14,Chile,Paraguay,Chile,Jaime Vera,68,FALSE,FALSE
+1991-07-15,Brazil,Ecuador,Brazil,Mazinho Oliveira,8,FALSE,FALSE
+1991-07-15,Brazil,Ecuador,Ecuador,Carlos Muñoz,12,FALSE,FALSE
+1991-07-15,Brazil,Ecuador,Brazil,Márcio Santos,54,FALSE,FALSE
+1991-07-15,Brazil,Ecuador,Brazil,Luís Henrique Pereira dos Santos,89,FALSE,FALSE
+1991-07-15,Colombia,Uruguay,Uruguay,Peter Méndez,19,FALSE,FALSE
+1991-07-17,Argentina,Brazil,Argentina,Darío Franco,1,FALSE,FALSE
+1991-07-17,Argentina,Brazil,Brazil,Branco,5,FALSE,FALSE
+1991-07-17,Argentina,Brazil,Argentina,Darío Franco,39,FALSE,FALSE
+1991-07-17,Argentina,Brazil,Argentina,Gabriel Batistuta,46,FALSE,FALSE
+1991-07-17,Argentina,Brazil,Brazil,João Paulo,52,FALSE,FALSE
+1991-07-17,Chile,Colombia,Colombia,Arnoldo Iguarán,37,FALSE,FALSE
+1991-07-17,Chile,Colombia,Chile,Iván Zamorano,74,FALSE,FALSE
+1991-07-19,Brazil,Colombia,Brazil,Renato Gaúcho,29,FALSE,FALSE
+1991-07-19,Brazil,Colombia,Brazil,Branco,76,FALSE,TRUE
+1991-07-21,Argentina,Colombia,Argentina,Diego Simeone,11,FALSE,FALSE
+1991-07-21,Argentina,Colombia,Argentina,Gabriel Batistuta,19,FALSE,FALSE
+1991-07-21,Argentina,Colombia,Colombia,Antony de Ávila,70,FALSE,FALSE
+1991-07-21,Chile,Brazil,Brazil,Mazinho Oliveira,8,FALSE,FALSE
+1991-07-21,Chile,Brazil,Brazil,Luiz Henrique Pereira Dos Santos,55,FALSE,FALSE
 1992-06-10,Sweden,France,Sweden,Jan Eriksson,24,FALSE,FALSE
 1992-06-10,Sweden,France,France,Jean-Pierre Papin,58,FALSE,FALSE
 1992-06-12,Netherlands,Scotland,Netherlands,Dennis Bergkamp,75,FALSE,FALSE
@@ -1642,6 +3486,70 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1992-06-22,Netherlands,Denmark,Netherlands,Frank Rijkaard,86,FALSE,FALSE
 1992-06-26,Denmark,Germany,Denmark,John Jensen,18,FALSE,FALSE
 1992-06-26,Denmark,Germany,Denmark,Kim Vilfort,78,FALSE,FALSE
+1993-06-15,Ecuador,Venezuela,Ecuador,Carlos Muñoz,19,FALSE,FALSE
+1993-06-15,Ecuador,Venezuela,Ecuador,Raúl Noriega,32,FALSE,FALSE
+1993-06-15,Ecuador,Venezuela,Ecuador,Ángel Fernández,57,FALSE,FALSE
+1993-06-15,Ecuador,Venezuela,Ecuador,Eduardo Hurtado,65,FALSE,FALSE
+1993-06-15,Ecuador,Venezuela,Venezuela,José Luis Dolgetta,79,FALSE,FALSE
+1993-06-15,Ecuador,Venezuela,Ecuador,Ángel Fernández,81,FALSE,FALSE
+1993-06-15,Ecuador,Venezuela,Ecuador,Álex Aguinaga,84,FALSE,FALSE
+1993-06-16,Colombia,Mexico,Colombia,Adolfo Valencia,35,FALSE,FALSE
+1993-06-16,Colombia,Mexico,Mexico,Luís Roberto Alves,57,FALSE,FALSE
+1993-06-16,Colombia,Mexico,Colombia,Víctor Aristizábal,87,FALSE,FALSE
+1993-06-16,Uruguay,United States,Uruguay,Santiago Ostolaza,51,FALSE,FALSE
+1993-06-17,Argentina,Bolivia,Argentina,Gabriel Batistuta,53,FALSE,FALSE
+1993-06-18,Paraguay,Chile,Paraguay,Roberto Cabañas,6,FALSE,FALSE
+1993-06-19,Ecuador,United States,Ecuador,Ney Avilés,11,FALSE,FALSE
+1993-06-19,Ecuador,United States,Ecuador,Eduardo Hurtado,35,FALSE,FALSE
+1993-06-19,Uruguay,Venezuela,Venezuela,José Luis Dolgetta,10,FALSE,FALSE
+1993-06-19,Uruguay,Venezuela,Uruguay,Marcelo Saralegui,23,FALSE,FALSE
+1993-06-19,Uruguay,Venezuela,Venezuela,Stalin Rivas,72,FALSE,FALSE
+1993-06-19,Uruguay,Venezuela,Uruguay,Fernando Kanapkis,79,FALSE,FALSE
+1993-06-20,Argentina,Mexico,Mexico,David Patiño,14,FALSE,FALSE
+1993-06-20,Argentina,Mexico,Argentina,Oscar Ruggeri,28,FALSE,FALSE
+1993-06-20,Colombia,Bolivia,Bolivia,Marco Etcheverry,14,FALSE,FALSE
+1993-06-20,Colombia,Bolivia,Colombia,Orlando Maturana,18,FALSE,TRUE
+1993-06-21,Brazil,Chile,Chile,José Luis Sierra,15,FALSE,FALSE
+1993-06-21,Brazil,Chile,Brazil,Müller,36,FALSE,FALSE
+1993-06-21,Brazil,Chile,Chile,Richard Zambrano,51,FALSE,FALSE
+1993-06-21,Brazil,Chile,Brazil,Palhinha,55,FALSE,FALSE
+1993-06-21,Brazil,Chile,Chile,Richard Zambrano,59,FALSE,FALSE
+1993-06-21,Paraguay,Peru,Paraguay,Luis Monzón,37,FALSE,FALSE
+1993-06-21,Paraguay,Peru,Peru,José del Solar,77,FALSE,FALSE
+1993-06-22,Ecuador,Uruguay,Ecuador,Ney Avilés,28,FALSE,FALSE
+1993-06-22,Ecuador,Uruguay,Uruguay,Fernando Kanapkis,64,FALSE,FALSE
+1993-06-22,Ecuador,Uruguay,Ecuador,Álex Aguinaga,87,FALSE,FALSE
+1993-06-22,United States,Venezuela,United States,Chris Henderson,21,FALSE,FALSE
+1993-06-22,United States,Venezuela,United States,Alexi Lalas,37,FALSE,FALSE
+1993-06-22,United States,Venezuela,United States,Dominic Kinnear,52,FALSE,FALSE
+1993-06-22,United States,Venezuela,Venezuela,José Luis Dolgetta,68,FALSE,FALSE
+1993-06-22,United States,Venezuela,Venezuela,José Luis Dolgetta,80,FALSE,FALSE
+1993-06-22,United States,Venezuela,Venezuela,Miguel Echenausi,89,FALSE,FALSE
+1993-06-23,Argentina,Colombia,Argentina,Diego Simeone,2,FALSE,FALSE
+1993-06-23,Argentina,Colombia,Colombia,Freddy Rincón,5,FALSE,FALSE
+1993-06-24,Brazil,Paraguay,Brazil,Palhinha,15,FALSE,FALSE
+1993-06-24,Brazil,Paraguay,Brazil,Edmundo,62,FALSE,FALSE
+1993-06-24,Brazil,Paraguay,Brazil,Palhinha,72,FALSE,FALSE
+1993-06-24,Chile,Peru,Peru,José del Solar,14,FALSE,TRUE
+1993-06-26,Colombia,Uruguay,Uruguay,Marcelo Saralegui,63,FALSE,FALSE
+1993-06-26,Colombia,Uruguay,Colombia,Luis Carlos Perea,88,FALSE,FALSE
+1993-06-26,Ecuador,Paraguay,Ecuador,Eduardo Hurtado,33,FALSE,FALSE
+1993-06-26,Ecuador,Paraguay,Ecuador,Mario César Ramírez,43,TRUE,FALSE
+1993-06-26,Ecuador,Paraguay,Ecuador,Ney Avilés,81,FALSE,FALSE
+1993-06-27,Brazil,Argentina,Brazil,Müller,37,FALSE,FALSE
+1993-06-27,Brazil,Argentina,Argentina,Leonardo Rodríguez,69,FALSE,FALSE
+1993-06-27,Peru,Mexico,Mexico,Alberto García Aspe,22,FALSE,TRUE
+1993-06-27,Peru,Mexico,Mexico,Luís Roberto Alves,43,FALSE,FALSE
+1993-06-27,Peru,Mexico,Mexico,Alberto García Aspe,44,FALSE,FALSE
+1993-06-27,Peru,Mexico,Mexico,David Patiño,49,FALSE,FALSE
+1993-06-27,Peru,Mexico,Peru,José del Solar,55,FALSE,TRUE
+1993-06-27,Peru,Mexico,Peru,Juan Reynoso Guzmán,82,FALSE,FALSE
+1993-06-30,Ecuador,Mexico,Mexico,Hugo Sánchez,23,FALSE,FALSE
+1993-06-30,Ecuador,Mexico,Mexico,Ramón Ramírez,54,FALSE,FALSE
+1993-07-03,Ecuador,Colombia,Colombia,Adolfo Valencia,86,FALSE,FALSE
+1993-07-04,Argentina,Mexico,Argentina,Gabriel Batistuta,63,FALSE,FALSE
+1993-07-04,Argentina,Mexico,Mexico,Benjamín Galindo,67,FALSE,TRUE
+1993-07-04,Argentina,Mexico,Argentina,Gabriel Batistuta,74,FALSE,FALSE
 1994-06-17,Germany,Bolivia,Germany,Jürgen Klinsmann,61,FALSE,FALSE
 1994-06-17,Spain,South Korea,Spain,Julio Salinas,51,FALSE,FALSE
 1994-06-17,Spain,South Korea,Spain,Ion Andoni Goikoetxea,55,FALSE,FALSE
@@ -1783,6 +3691,75 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1994-07-16,Sweden,Bulgaria,Sweden,Håkan Mild,30,FALSE,FALSE
 1994-07-16,Sweden,Bulgaria,Sweden,Henrik Larsson,37,FALSE,FALSE
 1994-07-16,Sweden,Bulgaria,Sweden,Kennet Andersson,39,FALSE,FALSE
+1995-07-05,Uruguay,Venezuela,Uruguay,Daniel Fonseca,14,FALSE,FALSE
+1995-07-05,Uruguay,Venezuela,Uruguay,Marcelo Otero,25,FALSE,FALSE
+1995-07-05,Uruguay,Venezuela,Venezuela,José Luis Dolgetta,53,FALSE,FALSE
+1995-07-05,Uruguay,Venezuela,Uruguay,Enzo Francescoli,75,FALSE,TRUE
+1995-07-05,Uruguay,Venezuela,Uruguay,Gustavo Poyet,84,FALSE,FALSE
+1995-07-06,Mexico,Paraguay,Mexico,Luis García Postigo,44,FALSE,FALSE
+1995-07-06,Mexico,Paraguay,Paraguay,José Cardozo,63,FALSE,FALSE
+1995-07-06,Mexico,Paraguay,Paraguay,Adriano Samaniego,73,FALSE,FALSE
+1995-07-07,Brazil,Ecuador,Brazil,Ronaldo Rodrigues de Jesus,73,FALSE,FALSE
+1995-07-07,Colombia,Peru,Colombia,Faustino Asprilla,68,FALSE,FALSE
+1995-07-07,Colombia,Peru,Peru,Roberto Palacios,80,FALSE,FALSE
+1995-07-08,Argentina,Bolivia,Argentina,Gabriel Batistuta,70,FALSE,FALSE
+1995-07-08,Argentina,Bolivia,Bolivia,Demetrio Angola,75,FALSE,FALSE
+1995-07-08,Argentina,Bolivia,Argentina,Abel Balbo,81,FALSE,FALSE
+1995-07-08,United States,Chile,United States,Eric Wynalda,14,FALSE,FALSE
+1995-07-08,United States,Chile,United States,Eric Wynalda,20,FALSE,FALSE
+1995-07-08,United States,Chile,Chile,Sebastián Rozental,63,FALSE,FALSE
+1995-07-09,Mexico,Venezuela,Mexico,Luis García Postigo,41,FALSE,TRUE
+1995-07-09,Mexico,Venezuela,Mexico,Luis García Postigo,57,FALSE,TRUE
+1995-07-09,Mexico,Venezuela,Venezuela,Jorge Campos,65,TRUE,FALSE
+1995-07-09,Mexico,Venezuela,Mexico,Eduardo Espinoza,76,FALSE,FALSE
+1995-07-09,Uruguay,Paraguay,Uruguay,Enzo Francescoli,13,FALSE,FALSE
+1995-07-10,Brazil,Peru,Brazil,Zinho,77,FALSE,TRUE
+1995-07-10,Brazil,Peru,Brazil,Edmundo,82,FALSE,FALSE
+1995-07-10,Colombia,Ecuador,Colombia,Freddy Rincón,44,FALSE,FALSE
+1995-07-11,Argentina,Chile,Argentina,Gabriel Batistuta,1,FALSE,FALSE
+1995-07-11,Argentina,Chile,Argentina,Diego Simeone,6,FALSE,FALSE
+1995-07-11,Argentina,Chile,Argentina,Gabriel Batistuta,51,FALSE,FALSE
+1995-07-11,Argentina,Chile,Argentina,Abel Balbo,54,FALSE,FALSE
+1995-07-11,United States,Bolivia,Bolivia,Marco Etcheverry,23,FALSE,FALSE
+1995-07-12,Paraguay,Venezuela,Venezuela,Gabriel Miranda,13,FALSE,FALSE
+1995-07-12,Paraguay,Venezuela,Paraguay,José Cardozo,35,FALSE,FALSE
+1995-07-12,Paraguay,Venezuela,Paraguay,Juan Carlos Villamayor,64,FALSE,FALSE
+1995-07-12,Paraguay,Venezuela,Venezuela,José Luis Dolgetta,68,FALSE,FALSE
+1995-07-12,Paraguay,Venezuela,Paraguay,Carlos Gamarra,83,FALSE,FALSE
+1995-07-13,Brazil,Colombia,Brazil,Leonardo Araújo,30,FALSE,FALSE
+1995-07-13,Brazil,Colombia,Brazil,Túlio Costa,76,FALSE,FALSE
+1995-07-13,Brazil,Colombia,Brazil,René Higuita,85,TRUE,FALSE
+1995-07-13,Peru,Ecuador,Ecuador,Energio Díaz,61,FALSE,FALSE
+1995-07-13,Peru,Ecuador,Ecuador,José Mora,75,FALSE,FALSE
+1995-07-13,Peru,Ecuador,Peru,Iván Hurtado,82,TRUE,FALSE
+1995-07-13,Uruguay,Mexico,Mexico,Luis García Postigo,67,FALSE,FALSE
+1995-07-13,Uruguay,Mexico,Uruguay,Marcelo Saralegui,79,FALSE,FALSE
+1995-07-14,Argentina,United States,United States,Frank Klopas,20,FALSE,FALSE
+1995-07-14,Argentina,United States,United States,Alexi Lalas,31,FALSE,FALSE
+1995-07-14,Argentina,United States,United States,Eric Wynalda,58,FALSE,FALSE
+1995-07-14,Chile,Bolivia,Chile,Ivo Basay,55,FALSE,FALSE
+1995-07-14,Chile,Bolivia,Chile,Ivo Basay,61,FALSE,FALSE
+1995-07-14,Chile,Bolivia,Bolivia,Miguel Mercado,78,FALSE,FALSE
+1995-07-14,Chile,Bolivia,Bolivia,Mauricio Ramos,87,FALSE,FALSE
+1995-07-16,Paraguay,Colombia,Paraguay,Juan Carlos Villamayor,26,FALSE,FALSE
+1995-07-16,Paraguay,Colombia,Colombia,Freddy Rincón,53,FALSE,FALSE
+1995-07-16,Uruguay,Bolivia,Uruguay,Marcelo Otero,1,FALSE,FALSE
+1995-07-16,Uruguay,Bolivia,Uruguay,Daniel Fonseca,30,FALSE,FALSE
+1995-07-16,Uruguay,Bolivia,Bolivia,Óscar Carmelo Sánchez,71,FALSE,FALSE
+1995-07-17,Brazil,Argentina,Argentina,Abel Balbo,2,FALSE,FALSE
+1995-07-17,Brazil,Argentina,Brazil,Edmundo,9,FALSE,FALSE
+1995-07-17,Brazil,Argentina,Argentina,Gabriel Batistuta,29,FALSE,FALSE
+1995-07-17,Brazil,Argentina,Brazil,Túlio Maravilha,81,FALSE,FALSE
+1995-07-19,Uruguay,Colombia,Uruguay,Edgardo Adinolfi,51,FALSE,FALSE
+1995-07-19,Uruguay,Colombia,Uruguay,Marcelo Otero,70,FALSE,FALSE
+1995-07-20,United States,Brazil,Brazil,Aldair,13,FALSE,FALSE
+1995-07-22,Colombia,United States,Colombia,Luis Quiñónez,30,FALSE,FALSE
+1995-07-22,Colombia,United States,Colombia,Carlos Valderrama,38,FALSE,FALSE
+1995-07-22,Colombia,United States,Colombia,Faustino Asprilla,50,FALSE,FALSE
+1995-07-22,Colombia,United States,United States,Joe-Max Moore,52,FALSE,TRUE
+1995-07-22,Colombia,United States,Colombia,Freddy Rincón,76,FALSE,FALSE
+1995-07-23,Uruguay,Brazil,Brazil,Túlio Maravilha,30,FALSE,FALSE
+1995-07-23,Uruguay,Brazil,Uruguay,Pablo Bengoechea,51,FALSE,FALSE
 1996-06-08,England,Switzerland,England,Alan Shearer,23,FALSE,FALSE
 1996-06-08,England,Switzerland,Switzerland,Kubilay Türkyilmaz,83,FALSE,TRUE
 1996-06-09,Denmark,Portugal,Denmark,Brian Laudrup,22,FALSE,FALSE
@@ -1846,6 +3823,73 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1996-06-26,England,Germany,Germany,Stefan Kuntz,16,FALSE,FALSE
 1996-06-30,Czech Republic,Germany,Czech Republic,Patrik Berger,59,FALSE,TRUE
 1996-06-30,Czech Republic,Germany,Germany,Oliver Bierhoff,73,FALSE,FALSE
+1997-06-11,Chile,Paraguay,Paraguay,Roberto Acuña,28,FALSE,FALSE
+1997-06-12,Bolivia,Venezuela,Bolivia,Milton Coimbra,60,FALSE,FALSE
+1997-06-12,Peru,Uruguay,Peru,Martín Hidalgo,75,FALSE,FALSE
+1997-06-13,Brazil,Costa Rica,Brazil,Djalminha,20,FALSE,FALSE
+1997-06-13,Brazil,Costa Rica,Brazil,Rónald González Brenes,34,TRUE,FALSE
+1997-06-13,Brazil,Costa Rica,Brazil,Ronaldo,47,FALSE,FALSE
+1997-06-13,Brazil,Costa Rica,Brazil,Ronaldo,54,FALSE,FALSE
+1997-06-13,Brazil,Costa Rica,Brazil,Romário,60,FALSE,FALSE
+1997-06-13,Mexico,Colombia,Mexico,Luis Hernández,7,FALSE,FALSE
+1997-06-13,Mexico,Colombia,Mexico,Luis Hernández,11,FALSE,FALSE
+1997-06-13,Mexico,Colombia,Colombia,Hamilton Ricard,58,FALSE,FALSE
+1997-06-14,Argentina,Chile,Argentina,Sergio Berti,83,FALSE,FALSE
+1997-06-14,Argentina,Chile,Argentina,Marcelo Gallardo,87,FALSE,FALSE
+1997-06-14,Paraguay,Ecuador,Ecuador,Wellington Sánchez,71,FALSE,FALSE
+1997-06-14,Paraguay,Ecuador,Ecuador,Ariel Graziani,86,FALSE,FALSE
+1997-06-15,Bolivia,Peru,Bolivia,Marco Etcheverry,45,FALSE,FALSE
+1997-06-15,Bolivia,Peru,Bolivia,Julio César Baldivieso,50,FALSE,FALSE
+1997-06-15,Uruguay,Venezuela,Uruguay,Álvaro Recoba,19,FALSE,FALSE
+1997-06-15,Uruguay,Venezuela,Uruguay,Marcelo Saralegui,47,FALSE,FALSE
+1997-06-16,Brazil,Mexico,Mexico,Luis Hernández,13,FALSE,FALSE
+1997-06-16,Brazil,Mexico,Mexico,Luis Hernández,31,FALSE,FALSE
+1997-06-16,Brazil,Mexico,Brazil,Aldair,47,FALSE,FALSE
+1997-06-16,Brazil,Mexico,Brazil,Camilo Romero,59,TRUE,FALSE
+1997-06-16,Brazil,Mexico,Brazil,Leonardo Araújo,77,FALSE,FALSE
+1997-06-16,Colombia,Costa Rica,Colombia,Neider Morantes,13,FALSE,FALSE
+1997-06-16,Colombia,Costa Rica,Colombia,Neider Morantes,23,FALSE,FALSE
+1997-06-16,Colombia,Costa Rica,Colombia,Wilmer Cabrera,62,FALSE,TRUE
+1997-06-16,Colombia,Costa Rica,Costa Rica,Mauricio Wright,66,FALSE,FALSE
+1997-06-16,Colombia,Costa Rica,Colombia,Víctor Aristizábal,78,FALSE,FALSE
+1997-06-17,Argentina,Paraguay,Paraguay,José Luis Chilavert,73,FALSE,TRUE
+1997-06-17,Argentina,Paraguay,Argentina,Marcelo Gallardo,90,FALSE,TRUE
+1997-06-17,Chile,Ecuador,Ecuador,Ariel Graziani,32,FALSE,FALSE
+1997-06-17,Chile,Ecuador,Chile,Fernando Vergara,52,FALSE,FALSE
+1997-06-17,Chile,Ecuador,Ecuador,José Gavica,55,FALSE,FALSE
+1997-06-18,Bolivia,Uruguay,Bolivia,Julio César Baldivieso,29,FALSE,FALSE
+1997-06-18,Peru,Venezuela,Peru,Paul Cominges,13,FALSE,FALSE
+1997-06-18,Peru,Venezuela,Peru,Paul Cominges,59,FALSE,FALSE
+1997-06-19,Brazil,Colombia,Brazil,Dunga,11,FALSE,FALSE
+1997-06-19,Brazil,Colombia,Brazil,Edmundo Alves de Souza Neto,67,FALSE,FALSE
+1997-06-19,Mexico,Costa Rica,Mexico,Luis Hernández,14,FALSE,TRUE
+1997-06-19,Mexico,Costa Rica,Costa Rica,Hernán Medford,60,FALSE,FALSE
+1997-06-21,Bolivia,Colombia,Bolivia,Marco Etcheverry,3,FALSE,FALSE
+1997-06-21,Bolivia,Colombia,Bolivia,Erwin Sánchez,24,FALSE,FALSE
+1997-06-21,Bolivia,Colombia,Colombia,Hernán Gaviria,57,FALSE,FALSE
+1997-06-21,Peru,Argentina,Peru,Eddy Carazas,30,FALSE,FALSE
+1997-06-21,Peru,Argentina,Peru,Martín Hidalgo,61,FALSE,FALSE
+1997-06-21,Peru,Argentina,Argentina,Marcelo Gallardo,66,FALSE,TRUE
+1997-06-22,Brazil,Paraguay,Brazil,Ronaldo,9,FALSE,FALSE
+1997-06-22,Brazil,Paraguay,Brazil,Ronaldo,34,FALSE,FALSE
+1997-06-22,Ecuador,Mexico,Ecuador,Luis Capurro,6,FALSE,TRUE
+1997-06-22,Ecuador,Mexico,Mexico,Cuauhtémoc Blanco,17,FALSE,FALSE
+1997-06-25,Bolivia,Mexico,Mexico,Nicolás Ramírez,4,FALSE,FALSE
+1997-06-25,Bolivia,Mexico,Bolivia,Erwin Sánchez,27,FALSE,FALSE
+1997-06-25,Bolivia,Mexico,Bolivia,Ramiro Castillo,39,FALSE,FALSE
+1997-06-25,Bolivia,Mexico,Bolivia,Jaime Moreno,79,FALSE,FALSE
+1997-06-26,Brazil,Peru,Brazil,Denílson de Oliveira Araújo,1,FALSE,FALSE
+1997-06-26,Brazil,Peru,Brazil,Flávio Conceição,28,FALSE,FALSE
+1997-06-26,Brazil,Peru,Brazil,Romário,36,FALSE,FALSE
+1997-06-26,Brazil,Peru,Brazil,Leonardo Araújo,45,FALSE,FALSE
+1997-06-26,Brazil,Peru,Brazil,Romário,49,FALSE,FALSE
+1997-06-26,Brazil,Peru,Brazil,Leonardo Araújo,55,FALSE,FALSE
+1997-06-26,Brazil,Peru,Brazil,Djalminha,77,FALSE,FALSE
+1997-06-28,Mexico,Peru,Mexico,Luis Hernández,82,FALSE,FALSE
+1997-06-29,Bolivia,Brazil,Brazil,Denílson de Oliveira Araújo,40,FALSE,FALSE
+1997-06-29,Bolivia,Brazil,Bolivia,Erwin Sánchez,45,FALSE,FALSE
+1997-06-29,Bolivia,Brazil,Brazil,Ronaldo,79,FALSE,FALSE
+1997-06-29,Bolivia,Brazil,Brazil,Zé Roberto,90,FALSE,FALSE
 1998-06-10,Brazil,Scotland,Brazil,César Sampaio,5,FALSE,FALSE
 1998-06-10,Brazil,Scotland,Scotland,John Collins,38,FALSE,TRUE
 1998-06-10,Brazil,Scotland,Brazil,Tom Boyd,74,TRUE,FALSE
@@ -2016,6 +4060,80 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1998-07-12,France,Brazil,France,Zinedine Zidane,27,FALSE,FALSE
 1998-07-12,France,Brazil,France,Zinedine Zidane,45,FALSE,FALSE
 1998-07-12,France,Brazil,France,Emmanuel Petit,90,FALSE,FALSE
+1999-06-29,Peru,Japan,Japan,Wagner Lopes,6,FALSE,FALSE
+1999-06-29,Peru,Japan,Peru,Jorge Soto,70,FALSE,FALSE
+1999-06-29,Peru,Japan,Peru,Roberto Holsen,74,FALSE,FALSE
+1999-06-29,Peru,Japan,Japan,Atsuhiro Miura,77,FALSE,FALSE
+1999-06-29,Peru,Japan,Peru,Roberto Holsen,81,FALSE,FALSE
+1999-06-30,Brazil,Venezuela,Brazil,Ronaldo,28,FALSE,FALSE
+1999-06-30,Brazil,Venezuela,Brazil,Emerson,40,FALSE,FALSE
+1999-06-30,Brazil,Venezuela,Brazil,Márcio Amoroso,54,FALSE,FALSE
+1999-06-30,Brazil,Venezuela,Brazil,Ronaldo,62,FALSE,FALSE
+1999-06-30,Brazil,Venezuela,Brazil,Ronaldinho,74,FALSE,FALSE
+1999-06-30,Brazil,Venezuela,Brazil,Márcio Amoroso,81,FALSE,FALSE
+1999-06-30,Brazil,Venezuela,Brazil,Rivaldo,82,FALSE,FALSE
+1999-06-30,Chile,Mexico,Mexico,Luis Hernández,59,FALSE,FALSE
+1999-07-01,Argentina,Ecuador,Argentina,Diego Simeone,12,FALSE,FALSE
+1999-07-01,Argentina,Ecuador,Argentina,Martín Palermo,55,FALSE,FALSE
+1999-07-01,Argentina,Ecuador,Argentina,Martín Palermo,61,FALSE,FALSE
+1999-07-01,Argentina,Ecuador,Ecuador,Iván Kaviedes,77,FALSE,FALSE
+1999-07-01,Uruguay,Colombia,Colombia,Víctor Bonilla,20,FALSE,FALSE
+1999-07-02,Paraguay,Japan,Paraguay,Miguel Ángel Benítez,18,FALSE,FALSE
+1999-07-02,Paraguay,Japan,Paraguay,Roque Santa Cruz,40,FALSE,FALSE
+1999-07-02,Paraguay,Japan,Paraguay,Miguel Ángel Benítez,62,FALSE,FALSE
+1999-07-02,Paraguay,Japan,Paraguay,Roque Santa Cruz,86,FALSE,FALSE
+1999-07-02,Peru,Bolivia,Peru,Ysrael Zúñiga,87,FALSE,FALSE
+1999-07-03,Brazil,Mexico,Brazil,Márcio Amoroso,20,FALSE,FALSE
+1999-07-03,Brazil,Mexico,Brazil,Alexsandro de Souza,45,FALSE,FALSE
+1999-07-03,Brazil,Mexico,Mexico,Isaac Terrazas,74,FALSE,FALSE
+1999-07-03,Chile,Venezuela,Chile,Iván Zamorano,5,FALSE,FALSE
+1999-07-03,Chile,Venezuela,Chile,José Luis Sierra,21,FALSE,FALSE
+1999-07-03,Chile,Venezuela,Chile,Edson Tortolero,66,TRUE,FALSE
+1999-07-04,Argentina,Colombia,Colombia,Iván Córdoba,10,FALSE,TRUE
+1999-07-04,Argentina,Colombia,Colombia,Edwin Congo,79,FALSE,FALSE
+1999-07-04,Argentina,Colombia,Colombia,Johnnier Montaño,87,FALSE,FALSE
+1999-07-04,Uruguay,Ecuador,Uruguay,Marcelo Zalayeta,72,FALSE,FALSE
+1999-07-04,Uruguay,Ecuador,Uruguay,Marcelo Zalayeta,74,FALSE,FALSE
+1999-07-04,Uruguay,Ecuador,Ecuador,Iván Kaviedes,78,FALSE,FALSE
+1999-07-05,Bolivia,Japan,Bolivia,Erwin Sánchez,53,FALSE,FALSE
+1999-07-05,Bolivia,Japan,Japan,Wagner Lopes,75,FALSE,TRUE
+1999-07-05,Paraguay,Peru,Paraguay,Roque Santa Cruz,88,FALSE,FALSE
+1999-07-06,Brazil,Chile,Brazil,Ronaldo,36,FALSE,TRUE
+1999-07-06,Mexico,Venezuela,Mexico,Cuauhtémoc Blanco,21,FALSE,FALSE
+1999-07-06,Mexico,Venezuela,Mexico,Daniel Osorno,29,FALSE,FALSE
+1999-07-06,Mexico,Venezuela,Mexico,Cuauhtémoc Blanco,39,FALSE,FALSE
+1999-07-06,Mexico,Venezuela,Venezuela,Gabriel Urdaneta,72,FALSE,FALSE
+1999-07-07,Colombia,Ecuador,Colombia,Neider Morantes,37,FALSE,FALSE
+1999-07-07,Colombia,Ecuador,Colombia,Hamilton Ricard,39,FALSE,FALSE
+1999-07-07,Colombia,Ecuador,Ecuador,Ariel Graziani,50,FALSE,FALSE
+1999-07-07,Uruguay,Argentina,Argentina,Kily González,1,FALSE,FALSE
+1999-07-07,Uruguay,Argentina,Argentina,Martín Palermo,56,FALSE,FALSE
+1999-07-10,Mexico,Peru,Peru,Roberto Palacios,6,FALSE,FALSE
+1999-07-10,Mexico,Peru,Peru,José Pereda,15,FALSE,FALSE
+1999-07-10,Mexico,Peru,Mexico,Luis Hernández,28,FALSE,FALSE
+1999-07-10,Mexico,Peru,Mexico,Luis Hernández,33,FALSE,TRUE
+1999-07-10,Mexico,Peru,Peru,Nolberto Solano,40,FALSE,FALSE
+1999-07-10,Mexico,Peru,Mexico,Gerardo Torrado,87,FALSE,FALSE
+1999-07-10,Paraguay,Uruguay,Paraguay,Miguel Ángel Benítez,15,FALSE,FALSE
+1999-07-10,Paraguay,Uruguay,Uruguay,Marcelo Zalayeta,65,FALSE,FALSE
+1999-07-11,Brazil,Argentina,Argentina,Juan Pablo Sorín,10,FALSE,FALSE
+1999-07-11,Brazil,Argentina,Brazil,Rivaldo,32,FALSE,FALSE
+1999-07-11,Brazil,Argentina,Brazil,Ronaldo,48,FALSE,FALSE
+1999-07-11,Chile,Colombia,Colombia,Jorge Bolaño,7,FALSE,FALSE
+1999-07-11,Chile,Colombia,Chile,Pedro Reyes,25,FALSE,FALSE
+1999-07-11,Chile,Colombia,Colombia,Víctor Bonilla,35,FALSE,FALSE
+1999-07-11,Chile,Colombia,Chile,Pedro Reyes,50,FALSE,FALSE
+1999-07-11,Chile,Colombia,Chile,Iván Zamorano,65,FALSE,FALSE
+1999-07-13,Uruguay,Chile,Uruguay,Daniel Alejandro Lembo,22,FALSE,FALSE
+1999-07-13,Uruguay,Chile,Chile,Iván Zamorano,73,FALSE,FALSE
+1999-07-14,Mexico,Brazil,Brazil,Márcio Amoroso,24,FALSE,FALSE
+1999-07-14,Mexico,Brazil,Brazil,Rivaldo Vítor Borba Ferreira,42,FALSE,FALSE
+1999-07-17,Chile,Mexico,Mexico,José Francisco Palencia,26,FALSE,FALSE
+1999-07-17,Chile,Mexico,Chile,Raúl Palacios,81,FALSE,FALSE
+1999-07-17,Chile,Mexico,Mexico,Miguel Zepeda,87,FALSE,FALSE
+1999-07-18,Brazil,Uruguay,Brazil,Rivaldo,20,FALSE,FALSE
+1999-07-18,Brazil,Uruguay,Brazil,Rivaldo,27,FALSE,FALSE
+1999-07-18,Brazil,Uruguay,Brazil,Ronaldo,46,FALSE,FALSE
 2000-06-10,Belgium,Sweden,Belgium,Bart Goor,43,FALSE,FALSE
 2000-06-10,Belgium,Sweden,Belgium,Émile Mpenza,46,FALSE,FALSE
 2000-06-10,Belgium,Sweden,Sweden,Johan Mjällby,53,FALSE,FALSE
@@ -2099,6 +4217,66 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2000-06-28,France,Portugal,France,Thierry Henry,51,FALSE,FALSE
 2000-07-02,France,Italy,Italy,Marco Delvecchio,55,FALSE,FALSE
 2000-07-02,France,Italy,France,Sylvain Wiltord,90,FALSE,FALSE
+2001-07-11,Colombia,Venezuela,Colombia,Freddy Grisales,15,FALSE,FALSE
+2001-07-11,Colombia,Venezuela,Colombia,Víctor Aristizábal,59,FALSE,TRUE
+2001-07-11,Ecuador,Chile,Chile,Reinaldo Navia,29,FALSE,FALSE
+2001-07-11,Ecuador,Chile,Ecuador,Cléber Chalá,52,FALSE,FALSE
+2001-07-11,Ecuador,Chile,Chile,Cristian Montecinos,72,FALSE,FALSE
+2001-07-11,Ecuador,Chile,Chile,Marcelo Corrales,84,FALSE,FALSE
+2001-07-11,Ecuador,Chile,Chile,Cristian Montecinos,90,FALSE,FALSE
+2001-07-12,Brazil,Mexico,Mexico,Jared Borgetti,5,FALSE,FALSE
+2001-07-12,Peru,Paraguay,Peru,Abel Lobatón,16,FALSE,FALSE
+2001-07-12,Peru,Paraguay,Paraguay,Virgilio Ferreira,23,FALSE,FALSE
+2001-07-12,Peru,Paraguay,Peru,Juan Pajuelo,57,FALSE,FALSE
+2001-07-12,Peru,Paraguay,Paraguay,Virgilio Ferreira,64,FALSE,FALSE
+2001-07-12,Peru,Paraguay,Peru,José del Solar,72,FALSE,FALSE
+2001-07-12,Peru,Paraguay,Paraguay,Silvio Garay,90,FALSE,FALSE
+2001-07-13,Bolivia,Uruguay,Uruguay,Javier Chevantón,60,FALSE,FALSE
+2001-07-13,Honduras,Costa Rica,Costa Rica,Paulo Wanchope,63,FALSE,FALSE
+2001-07-14,Chile,Venezuela,Chile,Cristian Montecinos,78,FALSE,FALSE
+2001-07-14,Colombia,Ecuador,Colombia,Víctor Aristizábal,29,FALSE,FALSE
+2001-07-15,Brazil,Peru,Brazil,Guilherme de Cássio Alves,9,FALSE,FALSE
+2001-07-15,Brazil,Peru,Brazil,Denílson de Oliveira Araújo,85,FALSE,FALSE
+2001-07-16,Honduras,Bolivia,Honduras,Amado Guevara,53,FALSE,FALSE
+2001-07-16,Honduras,Bolivia,Honduras,Amado Guevara,68,FALSE,FALSE
+2001-07-16,Uruguay,Costa Rica,Costa Rica,Paulo Wanchope,28,FALSE,FALSE
+2001-07-16,Uruguay,Costa Rica,Uruguay,Carlos María Morales,53,FALSE,FALSE
+2001-07-17,Colombia,Chile,Colombia,Víctor Aristizábal,10,FALSE,TRUE
+2001-07-17,Colombia,Chile,Colombia,Eudalio Arriaga,90,FALSE,FALSE
+2001-07-17,Ecuador,Venezuela,Ecuador,Agustín Delgado,19,FALSE,FALSE
+2001-07-17,Ecuador,Venezuela,Ecuador,Ángel Fernández,29,FALSE,FALSE
+2001-07-17,Ecuador,Venezuela,Ecuador,Édison Méndez,60,FALSE,FALSE
+2001-07-17,Ecuador,Venezuela,Ecuador,Agustín Delgado,63,FALSE,FALSE
+2001-07-18,Brazil,Paraguay,Paraguay,Guido Alvarenga,11,FALSE,TRUE
+2001-07-18,Brazil,Paraguay,Brazil,Alexsandro de Souza,60,FALSE,FALSE
+2001-07-18,Brazil,Paraguay,Brazil,Juliano Belletti,89,FALSE,FALSE
+2001-07-18,Brazil,Paraguay,Brazil,Denílson de Oliveira Araújo,90,FALSE,FALSE
+2001-07-18,Peru,Mexico,Peru,Roberto Holsen,48,FALSE,FALSE
+2001-07-19,Bolivia,Costa Rica,Costa Rica,Paulo Wanchope,45,FALSE,FALSE
+2001-07-19,Bolivia,Costa Rica,Costa Rica,Steven Bryce,63,FALSE,FALSE
+2001-07-19,Bolivia,Costa Rica,Costa Rica,Paulo Wanchope,71,FALSE,FALSE
+2001-07-19,Bolivia,Costa Rica,Costa Rica,Rolando Fonseca,84,FALSE,FALSE
+2001-07-19,Honduras,Uruguay,Honduras,Amado Guevara,86,FALSE,FALSE
+2001-07-22,Chile,Mexico,Mexico,Jesús Arellano,17,FALSE,FALSE
+2001-07-22,Chile,Mexico,Mexico,Daniel Osorno,78,FALSE,FALSE
+2001-07-22,Uruguay,Costa Rica,Costa Rica,Paulo Wanchope,52,FALSE,FALSE
+2001-07-22,Uruguay,Costa Rica,Uruguay,Rodrigo Lemos,61,FALSE,TRUE
+2001-07-22,Uruguay,Costa Rica,Uruguay,Pablo Lima,87,FALSE,FALSE
+2001-07-23,Brazil,Honduras,Honduras,Juliano Belletti,57,TRUE,FALSE
+2001-07-23,Brazil,Honduras,Honduras,Saúl Martínez,90,FALSE,FALSE
+2001-07-23,Colombia,Peru,Colombia,Víctor Aristizábal,50,FALSE,FALSE
+2001-07-23,Colombia,Peru,Colombia,Giovanny Hernández,66,FALSE,FALSE
+2001-07-23,Colombia,Peru,Colombia,Víctor Aristizábal,69,FALSE,FALSE
+2001-07-25,Mexico,Uruguay,Mexico,Jared Borgetti,14,FALSE,FALSE
+2001-07-25,Mexico,Uruguay,Uruguay,Richard Morales,32,FALSE,FALSE
+2001-07-25,Mexico,Uruguay,Mexico,Alberto García Aspe,67,FALSE,TRUE
+2001-07-26,Colombia,Honduras,Colombia,Gerardo Bedoya,6,FALSE,FALSE
+2001-07-26,Colombia,Honduras,Colombia,Víctor Aristizábal,63,FALSE,FALSE
+2001-07-29,Colombia,Mexico,Colombia,Iván Córdoba,65,FALSE,FALSE
+2001-07-29,Uruguay,Honduras,Honduras,Saúl Martínez,14,FALSE,FALSE
+2001-07-29,Uruguay,Honduras,Uruguay,Joe Emerson Bizera,22,FALSE,FALSE
+2001-07-29,Uruguay,Honduras,Honduras,Júnior Izaguirre,42,FALSE,FALSE
+2001-07-29,Uruguay,Honduras,Uruguay,Andrés Martínez,45,FALSE,FALSE
 2002-05-31,France,Senegal,Senegal,Papa Bouba Diop,30,FALSE,FALSE
 2002-06-01,Germany,Saudi Arabia,Germany,Miroslav Klose,20,FALSE,FALSE
 2002-06-01,Germany,Saudi Arabia,Germany,Miroslav Klose,25,FALSE,FALSE
@@ -2333,6 +4511,84 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2004-06-30,Portugal,Netherlands,Portugal,Maniche,58,FALSE,FALSE
 2004-06-30,Portugal,Netherlands,Netherlands,Jorge Andrade,63,TRUE,FALSE
 2004-07-04,Portugal,Greece,Greece,Angelos Charisteas,57,FALSE,FALSE
+2004-07-06,Peru,Bolivia,Bolivia,Joaquín Botero,35,FALSE,FALSE
+2004-07-06,Peru,Bolivia,Bolivia,Lorgio Álvarez,57,FALSE,FALSE
+2004-07-06,Peru,Bolivia,Peru,Claudio Pizarro,67,FALSE,TRUE
+2004-07-06,Peru,Bolivia,Peru,Roberto Palacios,86,FALSE,FALSE
+2004-07-06,Venezuela,Colombia,Colombia,Tressor Moreno,21,FALSE,TRUE
+2004-07-07,Argentina,Ecuador,Argentina,Kily González,5,FALSE,TRUE
+2004-07-07,Argentina,Ecuador,Ecuador,Agustín Delgado,62,FALSE,FALSE
+2004-07-07,Argentina,Ecuador,Argentina,Javier Saviola,64,FALSE,FALSE
+2004-07-07,Argentina,Ecuador,Argentina,Javier Saviola,74,FALSE,FALSE
+2004-07-07,Argentina,Ecuador,Argentina,Javier Saviola,79,FALSE,FALSE
+2004-07-07,Argentina,Ecuador,Argentina,Andrés D'Alessandro,84,FALSE,FALSE
+2004-07-07,Argentina,Ecuador,Argentina,Lucho González,90,FALSE,FALSE
+2004-07-07,Mexico,Uruguay,Uruguay,Carlos Bueno,43,FALSE,FALSE
+2004-07-07,Mexico,Uruguay,Mexico,Ricardo Osorio,45,FALSE,FALSE
+2004-07-07,Mexico,Uruguay,Mexico,Pável Pardo,69,FALSE,FALSE
+2004-07-07,Mexico,Uruguay,Uruguay,Paolo Montero,88,FALSE,FALSE
+2004-07-08,Brazil,Chile,Brazil,Luís Fabiano,90,FALSE,FALSE
+2004-07-08,Costa Rica,Paraguay,Paraguay,Julio dos Santos,85,FALSE,TRUE
+2004-07-09,Colombia,Bolivia,Colombia,Edixon Perea,90,FALSE,FALSE
+2004-07-09,Peru,Venezuela,Peru,Jefferson Farfán,34,FALSE,FALSE
+2004-07-09,Peru,Venezuela,Peru,Nolberto Solano,61,FALSE,FALSE
+2004-07-09,Peru,Venezuela,Peru,Santiago Acasiete,72,FALSE,FALSE
+2004-07-09,Peru,Venezuela,Venezuela,Massimo Margiotta,74,FALSE,FALSE
+2004-07-10,Argentina,Mexico,Mexico,Ramón Morales,8,FALSE,FALSE
+2004-07-10,Uruguay,Ecuador,Uruguay,Diego Forlán,61,FALSE,FALSE
+2004-07-10,Uruguay,Ecuador,Ecuador,Franklin Salas,73,FALSE,FALSE
+2004-07-10,Uruguay,Ecuador,Uruguay,Carlos Bueno,78,FALSE,FALSE
+2004-07-11,Brazil,Costa Rica,Brazil,Adriano,45,FALSE,FALSE
+2004-07-11,Brazil,Costa Rica,Brazil,Juan,49,FALSE,FALSE
+2004-07-11,Brazil,Costa Rica,Brazil,Adriano,54,FALSE,FALSE
+2004-07-11,Brazil,Costa Rica,Brazil,Adriano,67,FALSE,FALSE
+2004-07-11,Brazil,Costa Rica,Costa Rica,Luis Marín Murillo,81,FALSE,FALSE
+2004-07-11,Paraguay,Chile,Chile,Sebastián González,71,FALSE,FALSE
+2004-07-11,Paraguay,Chile,Paraguay,Ernesto Cristaldo,78,FALSE,FALSE
+2004-07-12,Peru,Colombia,Colombia,Edwin Congo,33,FALSE,FALSE
+2004-07-12,Peru,Colombia,Colombia,Abel Aguilar,53,FALSE,FALSE
+2004-07-12,Peru,Colombia,Peru,Nolberto Solano,58,FALSE,FALSE
+2004-07-12,Peru,Colombia,Peru,Flavio Maestri,60,FALSE,FALSE
+2004-07-12,Venezuela,Bolivia,Venezuela,Ruberth Morán,27,FALSE,FALSE
+2004-07-12,Venezuela,Bolivia,Bolivia,Gonzalo Galindo,33,FALSE,FALSE
+2004-07-13,Argentina,Uruguay,Uruguay,Fabián Estoyanoff,7,FALSE,FALSE
+2004-07-13,Argentina,Uruguay,Argentina,Kily González,19,FALSE,TRUE
+2004-07-13,Argentina,Uruguay,Argentina,Luciano Figueroa,20,FALSE,FALSE
+2004-07-13,Argentina,Uruguay,Uruguay,Vicente Sánchez,38,FALSE,FALSE
+2004-07-13,Argentina,Uruguay,Argentina,Roberto Ayala,80,FALSE,FALSE
+2004-07-13,Argentina,Uruguay,Argentina,Luciano Figueroa,89,FALSE,FALSE
+2004-07-13,Mexico,Ecuador,Mexico,Héctor Altamirano,23,FALSE,TRUE
+2004-07-13,Mexico,Ecuador,Mexico,Adolfo Bautista,42,FALSE,FALSE
+2004-07-13,Mexico,Ecuador,Ecuador,Agustín Delgado,71,FALSE,FALSE
+2004-07-14,Brazil,Paraguay,Paraguay,Julio Valentín González,29,FALSE,FALSE
+2004-07-14,Brazil,Paraguay,Brazil,Luís Fabiano,35,FALSE,FALSE
+2004-07-14,Brazil,Paraguay,Paraguay,Fredy Bareiro,71,FALSE,FALSE
+2004-07-14,Costa Rica,Chile,Chile,Rafael Olarra,40,FALSE,FALSE
+2004-07-14,Costa Rica,Chile,Costa Rica,Mauricio Wright,60,FALSE,FALSE
+2004-07-14,Costa Rica,Chile,Costa Rica,Andy Herrón,90,FALSE,FALSE
+2004-07-17,Colombia,Costa Rica,Colombia,Abel Aguilar,41,FALSE,FALSE
+2004-07-17,Colombia,Costa Rica,Colombia,Tressor Moreno,45,FALSE,FALSE
+2004-07-17,Peru,Argentina,Argentina,Carlos Tevez,60,FALSE,FALSE
+2004-07-18,Mexico,Brazil,Brazil,Alexsandro de Souza,26,FALSE,TRUE
+2004-07-18,Mexico,Brazil,Brazil,Adriano,65,FALSE,FALSE
+2004-07-18,Mexico,Brazil,Brazil,Adriano,78,FALSE,FALSE
+2004-07-18,Mexico,Brazil,Brazil,Ricardo Oliveira,87,FALSE,FALSE
+2004-07-18,Paraguay,Uruguay,Paraguay,Carlos Gamarra,15,FALSE,FALSE
+2004-07-18,Paraguay,Uruguay,Uruguay,Carlos Bueno,40,FALSE,TRUE
+2004-07-18,Paraguay,Uruguay,Uruguay,Darío Silva,65,FALSE,FALSE
+2004-07-18,Paraguay,Uruguay,Uruguay,Darío Silva,88,FALSE,FALSE
+2004-07-20,Argentina,Colombia,Argentina,Carlos Tevez,33,FALSE,FALSE
+2004-07-20,Argentina,Colombia,Argentina,Lucho González,50,FALSE,FALSE
+2004-07-20,Argentina,Colombia,Argentina,Juan Pablo Sorín,80,FALSE,FALSE
+2004-07-21,Uruguay,Brazil,Uruguay,Marcelo Sosa,22,FALSE,FALSE
+2004-07-21,Uruguay,Brazil,Brazil,Adriano,46,FALSE,FALSE
+2004-07-24,Colombia,Uruguay,Uruguay,Fabián Estoyanoff,2,FALSE,FALSE
+2004-07-24,Colombia,Uruguay,Colombia,Sergio Herrera,70,FALSE,TRUE
+2004-07-24,Colombia,Uruguay,Uruguay,Vicente Sánchez,80,FALSE,FALSE
+2004-07-25,Argentina,Brazil,Argentina,Kily González,20,FALSE,TRUE
+2004-07-25,Argentina,Brazil,Brazil,Luisão,45,FALSE,FALSE
+2004-07-25,Argentina,Brazil,Argentina,César Delgado,87,FALSE,FALSE
+2004-07-25,Argentina,Brazil,Brazil,Adriano,90,FALSE,FALSE
 2006-06-09,Germany,Costa Rica,Germany,Philipp Lahm,6,FALSE,FALSE
 2006-06-09,Germany,Costa Rica,Costa Rica,Paulo Wanchope,12,FALSE,FALSE
 2006-06-09,Germany,Costa Rica,Germany,Miroslav Klose,17,FALSE,FALSE
@@ -2480,6 +4736,92 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2006-07-08,Germany,Portugal,Portugal,Nuno Gomes,88,FALSE,FALSE
 2006-07-09,Italy,France,France,Zinedine Zidane,7,FALSE,TRUE
 2006-07-09,Italy,France,Italy,Marco Materazzi,19,FALSE,FALSE
+2007-06-26,Uruguay,Peru,Peru,Miguel Villalta,27,FALSE,FALSE
+2007-06-26,Uruguay,Peru,Peru,Juan Carlos Mariño,70,FALSE,FALSE
+2007-06-26,Uruguay,Peru,Peru,Paolo Guerrero,88,FALSE,FALSE
+2007-06-26,Venezuela,Bolivia,Venezuela,Giancarlo Maldonado,20,FALSE,FALSE
+2007-06-26,Venezuela,Bolivia,Bolivia,Jaime Moreno,38,FALSE,FALSE
+2007-06-26,Venezuela,Bolivia,Venezuela,Ricardo Páez,55,FALSE,FALSE
+2007-06-26,Venezuela,Bolivia,Bolivia,Juan Carlos Arce,84,FALSE,FALSE
+2007-06-27,Brazil,Mexico,Mexico,Nery Castillo,23,FALSE,FALSE
+2007-06-27,Brazil,Mexico,Mexico,Ramón Morales,28,FALSE,FALSE
+2007-06-27,Ecuador,Chile,Ecuador,Antonio Valencia,16,FALSE,FALSE
+2007-06-27,Ecuador,Chile,Chile,Humberto Suazo,20,FALSE,FALSE
+2007-06-27,Ecuador,Chile,Ecuador,Christian Benítez,23,FALSE,FALSE
+2007-06-27,Ecuador,Chile,Chile,Humberto Suazo,80,FALSE,FALSE
+2007-06-27,Ecuador,Chile,Chile,Carlos Villanueva,86,FALSE,FALSE
+2007-06-28,Argentina,United States,United States,Eddie Johnson,9,FALSE,TRUE
+2007-06-28,Argentina,United States,Argentina,Hernán Crespo,11,FALSE,FALSE
+2007-06-28,Argentina,United States,Argentina,Hernán Crespo,60,FALSE,FALSE
+2007-06-28,Argentina,United States,Argentina,Pablo Aimar,76,FALSE,FALSE
+2007-06-28,Argentina,United States,Argentina,Carlos Tevez,84,FALSE,FALSE
+2007-06-28,Paraguay,Colombia,Paraguay,Roque Santa Cruz,30,FALSE,FALSE
+2007-06-28,Paraguay,Colombia,Paraguay,Roque Santa Cruz,46,FALSE,FALSE
+2007-06-28,Paraguay,Colombia,Paraguay,Roque Santa Cruz,80,FALSE,FALSE
+2007-06-28,Paraguay,Colombia,Paraguay,Salvador Cabañas,84,FALSE,FALSE
+2007-06-28,Paraguay,Colombia,Paraguay,Salvador Cabañas,88,FALSE,FALSE
+2007-06-30,Bolivia,Uruguay,Uruguay,Vicente Sánchez,58,FALSE,FALSE
+2007-06-30,Venezuela,Peru,Venezuela,Alejandro Cichero,48,FALSE,FALSE
+2007-06-30,Venezuela,Peru,Venezuela,Daniel Arismendi,79,FALSE,FALSE
+2007-07-01,Brazil,Chile,Brazil,Robinho,36,FALSE,TRUE
+2007-07-01,Brazil,Chile,Brazil,Robinho,84,FALSE,FALSE
+2007-07-01,Brazil,Chile,Brazil,Robinho,87,FALSE,FALSE
+2007-07-01,Mexico,Ecuador,Mexico,Nery Castillo,21,FALSE,FALSE
+2007-07-01,Mexico,Ecuador,Mexico,Omar Bravo,79,FALSE,FALSE
+2007-07-01,Mexico,Ecuador,Ecuador,Édison Méndez,84,FALSE,FALSE
+2007-07-02,Argentina,Colombia,Colombia,Edixon Perea,10,FALSE,FALSE
+2007-07-02,Argentina,Colombia,Argentina,Hernán Crespo,20,FALSE,TRUE
+2007-07-02,Argentina,Colombia,Argentina,Juan Román Riquelme,34,FALSE,FALSE
+2007-07-02,Argentina,Colombia,Argentina,Juan Román Riquelme,45,FALSE,FALSE
+2007-07-02,Argentina,Colombia,Colombia,Jaime Castrillón,76,FALSE,FALSE
+2007-07-02,Argentina,Colombia,Argentina,Diego Milito,90,FALSE,FALSE
+2007-07-02,United States,Paraguay,Paraguay,Édgar Barreto,29,FALSE,FALSE
+2007-07-02,United States,Paraguay,United States,Ricardo Clark,35,FALSE,FALSE
+2007-07-02,United States,Paraguay,Paraguay,Óscar Cardozo,56,FALSE,FALSE
+2007-07-02,United States,Paraguay,Paraguay,Salvador Cabañas,90,FALSE,FALSE
+2007-07-03,Peru,Bolivia,Bolivia,Jaime Moreno,24,FALSE,FALSE
+2007-07-03,Peru,Bolivia,Peru,Claudio Pizarro,34,FALSE,FALSE
+2007-07-03,Peru,Bolivia,Bolivia,Jhasmani Campos,45,FALSE,FALSE
+2007-07-03,Peru,Bolivia,Peru,Claudio Pizarro,85,FALSE,FALSE
+2007-07-04,Brazil,Ecuador,Brazil,Robinho,56,FALSE,TRUE
+2007-07-05,Argentina,Paraguay,Argentina,Javier Mascherano,79,FALSE,FALSE
+2007-07-05,Colombia,United States,Colombia,Jaime Castrillón,15,FALSE,FALSE
+2007-07-07,Chile,Brazil,Brazil,Juan,16,FALSE,FALSE
+2007-07-07,Chile,Brazil,Brazil,Júlio Baptista,23,FALSE,FALSE
+2007-07-07,Chile,Brazil,Brazil,Robinho,27,FALSE,FALSE
+2007-07-07,Chile,Brazil,Brazil,Robinho,50,FALSE,FALSE
+2007-07-07,Chile,Brazil,Brazil,Josué Anunciado de Oliveira,68,FALSE,FALSE
+2007-07-07,Chile,Brazil,Chile,Humberto Suazo,76,FALSE,FALSE
+2007-07-07,Chile,Brazil,Brazil,Vágner Love,85,FALSE,FALSE
+2007-07-07,Venezuela,Uruguay,Uruguay,Diego Forlán,38,FALSE,FALSE
+2007-07-07,Venezuela,Uruguay,Venezuela,Juan Arango,41,FALSE,FALSE
+2007-07-07,Venezuela,Uruguay,Uruguay,Pablo García,64,FALSE,FALSE
+2007-07-07,Venezuela,Uruguay,Uruguay,Cristian Rodríguez,86,FALSE,FALSE
+2007-07-07,Venezuela,Uruguay,Uruguay,Diego Forlán,90,FALSE,FALSE
+2007-07-08,Argentina,Peru,Argentina,Juan Román Riquelme,47,FALSE,FALSE
+2007-07-08,Argentina,Peru,Argentina,Lionel Messi,61,FALSE,FALSE
+2007-07-08,Argentina,Peru,Argentina,Javier Mascherano,75,FALSE,FALSE
+2007-07-08,Argentina,Peru,Argentina,Juan Román Riquelme,85,FALSE,FALSE
+2007-07-08,Mexico,Paraguay,Mexico,Nery Castillo,5,FALSE,TRUE
+2007-07-08,Mexico,Paraguay,Mexico,Gerardo Torrado,27,FALSE,FALSE
+2007-07-08,Mexico,Paraguay,Mexico,Nery Castillo,38,FALSE,FALSE
+2007-07-08,Mexico,Paraguay,Mexico,Fernando Arce,79,FALSE,FALSE
+2007-07-08,Mexico,Paraguay,Mexico,Cuauhtémoc Blanco,87,FALSE,TRUE
+2007-07-08,Mexico,Paraguay,Mexico,Omar Bravo,90,FALSE,FALSE
+2007-07-10,Uruguay,Brazil,Brazil,Maicon Sisenando,13,FALSE,FALSE
+2007-07-10,Uruguay,Brazil,Uruguay,Diego Forlán,36,FALSE,FALSE
+2007-07-10,Uruguay,Brazil,Brazil,Júlio Baptista,41,FALSE,FALSE
+2007-07-10,Uruguay,Brazil,Uruguay,Sebastián Abreu,69,FALSE,FALSE
+2007-07-11,Mexico,Argentina,Argentina,Gabriel Heinze,45,FALSE,FALSE
+2007-07-11,Mexico,Argentina,Argentina,Lionel Messi,61,FALSE,FALSE
+2007-07-11,Mexico,Argentina,Argentina,Juan Román Riquelme,65,FALSE,TRUE
+2007-07-14,Mexico,Uruguay,Uruguay,Sebastián Abreu,22,FALSE,FALSE
+2007-07-14,Mexico,Uruguay,Mexico,Cuauhtémoc Blanco,36,FALSE,TRUE
+2007-07-14,Mexico,Uruguay,Mexico,Omar Bravo,68,FALSE,FALSE
+2007-07-14,Mexico,Uruguay,Mexico,Andrés Guardado,76,FALSE,FALSE
+2007-07-15,Brazil,Argentina,Brazil,Júlio Baptista,4,FALSE,FALSE
+2007-07-15,Brazil,Argentina,Brazil,Roberto Ayala,40,TRUE,FALSE
+2007-07-15,Brazil,Argentina,Brazil,Dani Alves,69,FALSE,FALSE
 2008-06-07,Portugal,Turkey,Portugal,Pepe,61,FALSE,FALSE
 2008-06-07,Portugal,Turkey,Portugal,Raul Meireles,90,FALSE,FALSE
 2008-06-07,Switzerland,Czech Republic,Czech Republic,Václav Svěrkoš,71,FALSE,FALSE
@@ -2702,6 +5044,23 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2010-07-10,Uruguay,Germany,Germany,Marcell Jansen,56,FALSE,FALSE
 2010-07-10,Uruguay,Germany,Germany,Sami Khedira,82,FALSE,FALSE
 2010-07-11,Netherlands,Spain,Spain,Andrés Iniesta,116,FALSE,FALSE
+2011-07-16,Argentina,Uruguay,Uruguay,Diego Pérez,5,FALSE,FALSE
+2011-07-16,Argentina,Uruguay,Argentina,Gonzalo Higuaín,17,FALSE,FALSE
+2011-07-16,Colombia,Peru,Peru,Carlos Lobatón,101,FALSE,FALSE
+2011-07-16,Colombia,Peru,Peru,Juan Manuel Vargas,111,FALSE,FALSE
+2011-07-17,Chile,Venezuela,Venezuela,Oswaldo Vizcarrondo,34,FALSE,FALSE
+2011-07-17,Chile,Venezuela,Chile,Humberto Suazo,69,FALSE,FALSE
+2011-07-17,Chile,Venezuela,Venezuela,Gabriel Cichero,80,FALSE,FALSE
+2011-07-19,Peru,Uruguay,Uruguay,Luis Suárez,52,FALSE,FALSE
+2011-07-19,Peru,Uruguay,Uruguay,Luis Suárez,57,FALSE,FALSE
+2011-07-23,Peru,Venezuela,Peru,William Chiroque,41,FALSE,FALSE
+2011-07-23,Peru,Venezuela,Peru,Paolo Guerrero,63,FALSE,FALSE
+2011-07-23,Peru,Venezuela,Venezuela,Juan Arango,77,FALSE,FALSE
+2011-07-23,Peru,Venezuela,Peru,Paolo Guerrero,89,FALSE,FALSE
+2011-07-23,Peru,Venezuela,Peru,Paolo Guerrero,90,FALSE,FALSE
+2011-07-24,Uruguay,Paraguay,Uruguay,Luis Suárez,11,FALSE,FALSE
+2011-07-24,Uruguay,Paraguay,Uruguay,Diego Forlán,41,FALSE,FALSE
+2011-07-24,Uruguay,Paraguay,Uruguay,Diego Forlán,89,FALSE,FALSE
 2012-06-08,Poland,Greece,Poland,Robert Lewandowski,17,FALSE,FALSE
 2012-06-08,Poland,Greece,Greece,Dimitris Salpingidis,51,FALSE,FALSE
 2012-06-08,Russia,Czech Republic,Russia,Alan Dzagoev,15,FALSE,FALSE
@@ -3085,26 +5444,114 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2014-07-12,Brazil,Netherlands,Netherlands,Daley Blind,17,FALSE,FALSE
 2014-07-12,Brazil,Netherlands,Netherlands,Georginio Wijnaldum,90,FALSE,FALSE
 2014-07-13,Germany,Argentina,Germany,Mario Götze,113,FALSE,FALSE
+2015-06-24,Chile,Uruguay,Chile,Mauricio Isla,80,FALSE,FALSE
+2015-06-25,Bolivia,Peru,Peru,Paolo Guerrero,19,FALSE,FALSE
+2015-06-25,Bolivia,Peru,Peru,Paolo Guerrero,22,FALSE,FALSE
+2015-06-25,Bolivia,Peru,Peru,Paolo Guerrero,73,FALSE,FALSE
+2015-06-25,Bolivia,Peru,Bolivia,Marcelo Martins Moreno,83,FALSE,TRUE
+2015-06-27,Brazil,Paraguay,Brazil,Robinho,14,FALSE,FALSE
+2015-06-27,Brazil,Paraguay,Paraguay,Derlis González,71,FALSE,TRUE
+2015-06-29,Chile,Peru,Chile,Eduardo Vargas,41,FALSE,FALSE
+2015-06-29,Chile,Peru,Peru,Gary Medel,60,TRUE,FALSE
+2015-06-29,Chile,Peru,Chile,Eduardo Vargas,63,FALSE,FALSE
+2015-06-30,Argentina,Paraguay,Argentina,Marcos Rojo,14,FALSE,FALSE
+2015-06-30,Argentina,Paraguay,Argentina,Javier Pastore,26,FALSE,FALSE
+2015-06-30,Argentina,Paraguay,Paraguay,Lucas Barrios,42,FALSE,FALSE
+2015-06-30,Argentina,Paraguay,Argentina,Ángel Di María,46,FALSE,FALSE
+2015-06-30,Argentina,Paraguay,Argentina,Ángel Di María,52,FALSE,FALSE
+2015-06-30,Argentina,Paraguay,Argentina,Sergio Agüero,79,FALSE,FALSE
+2015-06-30,Argentina,Paraguay,Argentina,Gonzalo Higuaín,82,FALSE,FALSE
+2015-07-03,Peru,Paraguay,Peru,André Carrillo,48,FALSE,FALSE
+2015-07-03,Peru,Paraguay,Peru,Paolo Guerrero,89,FALSE,FALSE
+2016-06-03,United States,Colombia,Colombia,Cristián Zapata,8,FALSE,FALSE
+2016-06-03,United States,Colombia,Colombia,James Rodríguez,42,FALSE,TRUE
+2016-06-04,Haiti,Peru,Peru,Paolo Guerrero,61,FALSE,FALSE
+2016-06-05,Jamaica,Venezuela,Venezuela,Josef Martínez,15,FALSE,FALSE
+2016-06-05,Mexico,Uruguay,Mexico,Álvaro Pereira,4,TRUE,FALSE
+2016-06-05,Mexico,Uruguay,Uruguay,Diego Godín,74,FALSE,FALSE
+2016-06-05,Mexico,Uruguay,Mexico,Rafael Márquez,85,FALSE,FALSE
+2016-06-05,Mexico,Uruguay,Mexico,Héctor Herrera,90,FALSE,FALSE
+2016-06-06,Argentina,Chile,Argentina,Ángel Di María,51,FALSE,FALSE
+2016-06-06,Argentina,Chile,Argentina,Éver Banega,59,FALSE,FALSE
+2016-06-06,Argentina,Chile,Chile,José Pedro Fuenzalida,90,FALSE,FALSE
+2016-06-06,Panama,Bolivia,Panama,Blas Pérez,11,FALSE,FALSE
+2016-06-06,Panama,Bolivia,Bolivia,Juan Carlos Arce,54,FALSE,FALSE
+2016-06-06,Panama,Bolivia,Panama,Blas Pérez,87,FALSE,FALSE
+2016-06-07,Colombia,Paraguay,Colombia,Carlos Bacca,12,FALSE,FALSE
+2016-06-07,Colombia,Paraguay,Colombia,James Rodríguez,30,FALSE,FALSE
+2016-06-07,Colombia,Paraguay,Paraguay,Víctor Ayala,71,FALSE,FALSE
+2016-06-07,United States,Costa Rica,United States,Clint Dempsey,9,FALSE,TRUE
+2016-06-07,United States,Costa Rica,United States,Jermaine Jones,37,FALSE,FALSE
+2016-06-07,United States,Costa Rica,United States,Bobby Wood,42,FALSE,FALSE
+2016-06-07,United States,Costa Rica,United States,Graham Zusi,87,FALSE,FALSE
+2016-06-08,Brazil,Haiti,Brazil,Philippe Coutinho,14,FALSE,FALSE
+2016-06-08,Brazil,Haiti,Brazil,Philippe Coutinho,29,FALSE,FALSE
+2016-06-08,Brazil,Haiti,Brazil,Renato Augusto,35,FALSE,FALSE
+2016-06-08,Brazil,Haiti,Brazil,Gabriel Barbosa,59,FALSE,FALSE
+2016-06-08,Brazil,Haiti,Brazil,Lucas Lima,67,FALSE,FALSE
+2016-06-08,Brazil,Haiti,Haiti,James Marcelin,70,FALSE,FALSE
+2016-06-08,Brazil,Haiti,Brazil,Renato Augusto,86,FALSE,FALSE
+2016-06-08,Brazil,Haiti,Brazil,Philippe Coutinho,90,FALSE,FALSE
+2016-06-08,Ecuador,Peru,Peru,Christian Cueva,5,FALSE,FALSE
+2016-06-08,Ecuador,Peru,Peru,Edison Flores,13,FALSE,FALSE
+2016-06-08,Ecuador,Peru,Ecuador,Enner Valencia,39,FALSE,FALSE
+2016-06-08,Ecuador,Peru,Ecuador,Miller Bolaños,49,FALSE,FALSE
+2016-06-09,Mexico,Jamaica,Mexico,Javier Hernández,18,FALSE,FALSE
+2016-06-09,Mexico,Jamaica,Mexico,Oribe Peralta,81,FALSE,FALSE
+2016-06-09,Uruguay,Venezuela,Venezuela,José Salomón Rondón,36,FALSE,FALSE
+2016-06-10,Argentina,Panama,Argentina,Nicolás Otamendi,7,FALSE,FALSE
+2016-06-10,Argentina,Panama,Argentina,Lionel Messi,68,FALSE,FALSE
+2016-06-10,Argentina,Panama,Argentina,Lionel Messi,78,FALSE,FALSE
+2016-06-10,Argentina,Panama,Argentina,Lionel Messi,87,FALSE,FALSE
+2016-06-10,Argentina,Panama,Argentina,Sergio Agüero,90,FALSE,FALSE
+2016-06-10,Chile,Bolivia,Chile,Arturo Vidal,46,FALSE,FALSE
+2016-06-10,Chile,Bolivia,Bolivia,Jhasmani Campos,61,FALSE,FALSE
+2016-06-10,Chile,Bolivia,Chile,Arturo Vidal,90,FALSE,TRUE
 2016-06-10,France,Romania,France,Olivier Giroud,57,FALSE,FALSE
 2016-06-10,France,Romania,Romania,Bogdan Stancu,65,FALSE,TRUE
 2016-06-10,France,Romania,France,Dimitri Payet,89,FALSE,FALSE
 2016-06-11,Albania,Switzerland,Switzerland,Fabian Schär,5,FALSE,FALSE
+2016-06-11,Colombia,Costa Rica,Costa Rica,Johan Venegas,2,FALSE,FALSE
+2016-06-11,Colombia,Costa Rica,Colombia,Frank Fabra,6,FALSE,FALSE
+2016-06-11,Colombia,Costa Rica,Costa Rica,Frank Fabra,34,TRUE,FALSE
+2016-06-11,Colombia,Costa Rica,Costa Rica,Celso Borges,58,FALSE,FALSE
+2016-06-11,Colombia,Costa Rica,Colombia,Marlos Moreno,73,FALSE,FALSE
 2016-06-11,England,Russia,England,Eric Dier,73,FALSE,FALSE
 2016-06-11,England,Russia,Russia,Vasili Berezutski,90,FALSE,FALSE
+2016-06-11,United States,Paraguay,United States,Clint Dempsey,27,FALSE,FALSE
 2016-06-11,Wales,Slovakia,Wales,Gareth Bale,10,FALSE,FALSE
 2016-06-11,Wales,Slovakia,Slovakia,Ondrej Duda,61,FALSE,FALSE
 2016-06-11,Wales,Slovakia,Wales,Hal Robson-Kanu,81,FALSE,FALSE
+2016-06-12,Brazil,Peru,Peru,Raúl Ruidíaz,75,FALSE,FALSE
+2016-06-12,Ecuador,Haiti,Ecuador,Enner Valencia,11,FALSE,FALSE
+2016-06-12,Ecuador,Haiti,Ecuador,Jaime Ayoví,20,FALSE,FALSE
+2016-06-12,Ecuador,Haiti,Ecuador,Christian Noboa,57,FALSE,FALSE
+2016-06-12,Ecuador,Haiti,Ecuador,Antonio Valencia,78,FALSE,FALSE
 2016-06-12,Germany,Ukraine,Germany,Shkodran Mustafi,19,FALSE,FALSE
 2016-06-12,Germany,Ukraine,Germany,Bastian Schweinsteiger,90,FALSE,FALSE
 2016-06-12,Poland,Northern Ireland,Poland,Arkadiusz Milik,51,FALSE,FALSE
 2016-06-12,Turkey,Croatia,Croatia,Luka Modrić,41,FALSE,FALSE
 2016-06-13,Belgium,Italy,Italy,Emanuele Giaccherini,32,FALSE,FALSE
 2016-06-13,Belgium,Italy,Italy,Graziano Pellè,90,FALSE,FALSE
+2016-06-13,Mexico,Venezuela,Venezuela,José Manuel Velázquez,10,FALSE,FALSE
+2016-06-13,Mexico,Venezuela,Mexico,Jesús Manuel Corona,80,FALSE,FALSE
 2016-06-13,Republic of Ireland,Sweden,Republic of Ireland,Wes Hoolahan,48,FALSE,FALSE
 2016-06-13,Republic of Ireland,Sweden,Sweden,Ciaran Clark,71,TRUE,FALSE
 2016-06-13,Spain,Czech Republic,Spain,Gerard Piqué,87,FALSE,FALSE
+2016-06-13,Uruguay,Jamaica,Uruguay,Abel Hernández,21,FALSE,FALSE
+2016-06-13,Uruguay,Jamaica,Uruguay,Je-Vaughn Watson,66,TRUE,FALSE
+2016-06-13,Uruguay,Jamaica,Uruguay,Mathías Corujo,88,FALSE,FALSE
+2016-06-14,Argentina,Bolivia,Argentina,Erik Lamela,13,FALSE,FALSE
+2016-06-14,Argentina,Bolivia,Argentina,Ezequiel Lavezzi,15,FALSE,FALSE
+2016-06-14,Argentina,Bolivia,Argentina,Víctor Cuesta,32,FALSE,FALSE
 2016-06-14,Austria,Hungary,Hungary,Ádám Szalai,62,FALSE,FALSE
 2016-06-14,Austria,Hungary,Hungary,Zoltán Stieber,87,FALSE,FALSE
+2016-06-14,Chile,Panama,Panama,Miguel Camargo,5,FALSE,FALSE
+2016-06-14,Chile,Panama,Chile,Eduardo Vargas,15,FALSE,FALSE
+2016-06-14,Chile,Panama,Chile,Eduardo Vargas,43,FALSE,FALSE
+2016-06-14,Chile,Panama,Chile,Alexis Sánchez,50,FALSE,FALSE
+2016-06-14,Chile,Panama,Panama,Abdiel Arroyo,75,FALSE,FALSE
+2016-06-14,Chile,Panama,Chile,Alexis Sánchez,89,FALSE,FALSE
 2016-06-14,Portugal,Iceland,Portugal,Nani,31,FALSE,FALSE
 2016-06-14,Portugal,Iceland,Iceland,Birkir Bjarnason,50,FALSE,FALSE
 2016-06-15,France,Albania,France,Antoine Griezmann,90,FALSE,FALSE
@@ -3119,6 +5566,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2016-06-16,England,Wales,England,Daniel Sturridge,90,FALSE,FALSE
 2016-06-16,Ukraine,Northern Ireland,Northern Ireland,Gareth McAuley,49,FALSE,FALSE
 2016-06-16,Ukraine,Northern Ireland,Northern Ireland,Niall McGinn,90,FALSE,FALSE
+2016-06-16,United States,Ecuador,United States,Clint Dempsey,22,FALSE,FALSE
+2016-06-16,United States,Ecuador,United States,Gyasi Zardes,65,FALSE,FALSE
+2016-06-16,United States,Ecuador,Ecuador,Michael Arroyo,74,FALSE,FALSE
 2016-06-17,Czech Republic,Croatia,Croatia,Ivan Perišić,37,FALSE,FALSE
 2016-06-17,Czech Republic,Croatia,Croatia,Ivan Rakitić,59,FALSE,FALSE
 2016-06-17,Czech Republic,Croatia,Czech Republic,Milan Škoda,76,FALSE,FALSE
@@ -3127,11 +5577,23 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2016-06-17,Spain,Turkey,Spain,Álvaro Morata,34,FALSE,FALSE
 2016-06-17,Spain,Turkey,Spain,Nolito,37,FALSE,FALSE
 2016-06-17,Spain,Turkey,Spain,Álvaro Morata,48,FALSE,FALSE
+2016-06-18,Argentina,Venezuela,Argentina,Gonzalo Higuaín,8,FALSE,FALSE
+2016-06-18,Argentina,Venezuela,Argentina,Gonzalo Higuaín,28,FALSE,FALSE
+2016-06-18,Argentina,Venezuela,Argentina,Lionel Messi,60,FALSE,FALSE
+2016-06-18,Argentina,Venezuela,Venezuela,José Salomón Rondón,70,FALSE,FALSE
+2016-06-18,Argentina,Venezuela,Argentina,Erik Lamela,71,FALSE,FALSE
 2016-06-18,Belgium,Republic of Ireland,Belgium,Romelu Lukaku,48,FALSE,FALSE
 2016-06-18,Belgium,Republic of Ireland,Belgium,Axel Witsel,61,FALSE,FALSE
 2016-06-18,Belgium,Republic of Ireland,Belgium,Romelu Lukaku,70,FALSE,FALSE
 2016-06-18,Iceland,Hungary,Iceland,Gylfi Sigurðsson,40,FALSE,TRUE
 2016-06-18,Iceland,Hungary,Hungary,Birkir Már Sævarsson,88,TRUE,FALSE
+2016-06-18,Mexico,Chile,Chile,Edson Puch,15,FALSE,FALSE
+2016-06-18,Mexico,Chile,Chile,Eduardo Vargas,43,FALSE,FALSE
+2016-06-18,Mexico,Chile,Chile,Alexis Sánchez,48,FALSE,FALSE
+2016-06-18,Mexico,Chile,Chile,Eduardo Vargas,51,FALSE,FALSE
+2016-06-18,Mexico,Chile,Chile,Eduardo Vargas,57,FALSE,FALSE
+2016-06-18,Mexico,Chile,Chile,Eduardo Vargas,73,FALSE,FALSE
+2016-06-18,Mexico,Chile,Chile,Edson Puch,87,FALSE,FALSE
 2016-06-19,Romania,Albania,Albania,Armando Sadiku,43,FALSE,FALSE
 2016-06-20,Russia,Wales,Wales,Aaron Ramsey,11,FALSE,FALSE
 2016-06-20,Russia,Wales,Wales,Neil Taylor,20,FALSE,FALSE
@@ -3143,6 +5605,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2016-06-21,Czech Republic,Turkey,Turkey,Ozan Tufan,65,FALSE,FALSE
 2016-06-21,Northern Ireland,Germany,Germany,Mario Gómez,30,FALSE,FALSE
 2016-06-21,Ukraine,Poland,Poland,Jakub Błaszczykowski,54,FALSE,FALSE
+2016-06-21,United States,Argentina,Argentina,Ezequiel Lavezzi,3,FALSE,FALSE
+2016-06-21,United States,Argentina,Argentina,Lionel Messi,32,FALSE,FALSE
+2016-06-21,United States,Argentina,Argentina,Gonzalo Higuaín,50,FALSE,FALSE
+2016-06-21,United States,Argentina,Argentina,Gonzalo Higuaín,86,FALSE,FALSE
+2016-06-22,Colombia,Chile,Chile,Charles Aránguiz,6,FALSE,FALSE
+2016-06-22,Colombia,Chile,Chile,José Pedro Fuenzalida,10,FALSE,FALSE
 2016-06-22,Hungary,Portugal,Hungary,Zoltán Gera,19,FALSE,FALSE
 2016-06-22,Hungary,Portugal,Portugal,Nani,42,FALSE,FALSE
 2016-06-22,Hungary,Portugal,Hungary,Balázs Dzsudzsák,47,FALSE,FALSE
@@ -3157,6 +5625,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2016-06-25,Croatia,Portugal,Portugal,Ricardo Quaresma,117,FALSE,FALSE
 2016-06-25,Switzerland,Poland,Poland,Jakub Błaszczykowski,39,FALSE,FALSE
 2016-06-25,Switzerland,Poland,Switzerland,Xherdan Shaqiri,82,FALSE,FALSE
+2016-06-25,United States,Colombia,Colombia,Carlos Bacca,31,FALSE,FALSE
 2016-06-25,Wales,Northern Ireland,Wales,Gareth McAuley,75,TRUE,FALSE
 2016-06-26,France,Republic of Ireland,Republic of Ireland,Robbie Brady,2,FALSE,TRUE
 2016-06-26,France,Republic of Ireland,France,Antoine Griezmann,58,FALSE,FALSE
@@ -3484,6 +5953,66 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2018-07-15,France,Croatia,France,Paul Pogba,59,FALSE,FALSE
 2018-07-15,France,Croatia,France,Kylian Mbappé,65,FALSE,FALSE
 2018-07-15,France,Croatia,Croatia,Mario Mandžukić,69,FALSE,FALSE
+2019-06-14,Brazil,Bolivia,Brazil,Philippe Coutinho,50,FALSE,TRUE
+2019-06-14,Brazil,Bolivia,Brazil,Philippe Coutinho,53,FALSE,FALSE
+2019-06-14,Brazil,Bolivia,Brazil,Everton Soares,85,FALSE,FALSE
+2019-06-15,Argentina,Colombia,Colombia,Roger Martínez,71,FALSE,FALSE
+2019-06-15,Argentina,Colombia,Colombia,Duván Zapata,86,FALSE,FALSE
+2019-06-16,Paraguay,Qatar,Paraguay,Óscar Cardozo,4,FALSE,TRUE
+2019-06-16,Paraguay,Qatar,Paraguay,Derlis González,56,FALSE,FALSE
+2019-06-16,Paraguay,Qatar,Qatar,Almoez Ali,68,FALSE,FALSE
+2019-06-16,Paraguay,Qatar,Qatar,Juan Rodrigo Rojas,77,TRUE,FALSE
+2019-06-16,Uruguay,Ecuador,Uruguay,Nicolás Lodeiro,6,FALSE,FALSE
+2019-06-16,Uruguay,Ecuador,Uruguay,Edinson Cavani,33,FALSE,FALSE
+2019-06-16,Uruguay,Ecuador,Uruguay,Luis Suárez,44,FALSE,FALSE
+2019-06-16,Uruguay,Ecuador,Uruguay,Arturo Mina,78,TRUE,FALSE
+2019-06-17,Japan,Chile,Chile,Erick Pulgar,41,FALSE,FALSE
+2019-06-17,Japan,Chile,Chile,Eduardo Vargas,54,FALSE,FALSE
+2019-06-17,Japan,Chile,Chile,Alexis Sánchez,82,FALSE,FALSE
+2019-06-17,Japan,Chile,Chile,Eduardo Vargas,83,FALSE,FALSE
+2019-06-18,Bolivia,Peru,Bolivia,Marcelo Martins Moreno,28,FALSE,TRUE
+2019-06-18,Bolivia,Peru,Peru,Paolo Guerrero,45,FALSE,FALSE
+2019-06-18,Bolivia,Peru,Peru,Jefferson Farfán,55,FALSE,FALSE
+2019-06-18,Bolivia,Peru,Peru,Edison Flores,90,FALSE,FALSE
+2019-06-19,Argentina,Paraguay,Paraguay,Richard Sánchez,37,FALSE,FALSE
+2019-06-19,Argentina,Paraguay,Argentina,Lionel Messi,57,FALSE,TRUE
+2019-06-19,Colombia,Qatar,Colombia,Duván Zapata,86,FALSE,FALSE
+2019-06-20,Uruguay,Japan,Japan,Koji Miyoshi,25,FALSE,FALSE
+2019-06-20,Uruguay,Japan,Uruguay,Luis Suárez,32,FALSE,TRUE
+2019-06-20,Uruguay,Japan,Japan,Koji Miyoshi,59,FALSE,FALSE
+2019-06-20,Uruguay,Japan,Uruguay,José María Giménez,66,FALSE,FALSE
+2019-06-21,Ecuador,Chile,Chile,José Pedro Fuenzalida,8,FALSE,FALSE
+2019-06-21,Ecuador,Chile,Ecuador,Enner Valencia,26,FALSE,TRUE
+2019-06-21,Ecuador,Chile,Chile,Alexis Sánchez,51,FALSE,FALSE
+2019-06-22,Bolivia,Venezuela,Venezuela,Darwin Machís,2,FALSE,FALSE
+2019-06-22,Bolivia,Venezuela,Venezuela,Darwin Machís,55,FALSE,FALSE
+2019-06-22,Bolivia,Venezuela,Bolivia,Leonel Justiniano,82,FALSE,FALSE
+2019-06-22,Bolivia,Venezuela,Venezuela,Josef Martínez,86,FALSE,FALSE
+2019-06-22,Brazil,Peru,Brazil,Casemiro,12,FALSE,FALSE
+2019-06-22,Brazil,Peru,Brazil,Roberto Firmino,19,FALSE,FALSE
+2019-06-22,Brazil,Peru,Brazil,Everton Soares,32,FALSE,FALSE
+2019-06-22,Brazil,Peru,Brazil,Dani Alves,53,FALSE,FALSE
+2019-06-22,Brazil,Peru,Brazil,Willian,90,FALSE,FALSE
+2019-06-23,Colombia,Paraguay,Colombia,Gustavo Cuéllar,31,FALSE,FALSE
+2019-06-23,Qatar,Argentina,Argentina,Lautaro Martínez,4,FALSE,FALSE
+2019-06-23,Qatar,Argentina,Argentina,Sergio Agüero,82,FALSE,FALSE
+2019-06-24,Chile,Uruguay,Uruguay,Edinson Cavani,82,FALSE,FALSE
+2019-06-24,Ecuador,Japan,Japan,Shoya Nakajima,15,FALSE,FALSE
+2019-06-24,Ecuador,Japan,Ecuador,Ángel Mena,35,FALSE,FALSE
+2019-06-28,Venezuela,Argentina,Argentina,Lautaro Martínez,10,FALSE,FALSE
+2019-06-28,Venezuela,Argentina,Argentina,Giovani Lo Celso,74,FALSE,FALSE
+2019-07-02,Brazil,Argentina,Brazil,Gabriel Jesus,19,FALSE,FALSE
+2019-07-02,Brazil,Argentina,Brazil,Roberto Firmino,71,FALSE,FALSE
+2019-07-03,Chile,Peru,Peru,Edison Flores,21,FALSE,FALSE
+2019-07-03,Chile,Peru,Peru,Yoshimar Yotún,38,FALSE,FALSE
+2019-07-03,Chile,Peru,Peru,Paolo Guerrero,90,FALSE,FALSE
+2019-07-06,Argentina,Chile,Argentina,Sergio Agüero,12,FALSE,FALSE
+2019-07-06,Argentina,Chile,Argentina,Paulo Dybala,22,FALSE,FALSE
+2019-07-06,Argentina,Chile,Chile,Arturo Vidal,59,FALSE,TRUE
+2019-07-07,Brazil,Peru,Brazil,Everton Soares,15,FALSE,FALSE
+2019-07-07,Brazil,Peru,Peru,Paolo Guerrero,44,FALSE,TRUE
+2019-07-07,Brazil,Peru,Brazil,Gabriel Jesus,45,FALSE,FALSE
+2019-07-07,Brazil,Peru,Brazil,Richarlison,90,FALSE,TRUE
 2021-06-11,Italy,Turkey,Italy,Merih Demiral,53,TRUE,FALSE
 2021-06-11,Italy,Turkey,Italy,Ciro Immobile,66,FALSE,FALSE
 2021-06-11,Italy,Turkey,Italy,Lorenzo Insigne,79,FALSE,FALSE
@@ -3497,12 +6026,22 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-06-13,Austria,North Macedonia,North Macedonia,Goran Pandev,28,FALSE,FALSE
 2021-06-13,Austria,North Macedonia,Austria,Michael Gregoritsch,78,FALSE,FALSE
 2021-06-13,Austria,North Macedonia,Austria,Marko Arnautović,89,FALSE,FALSE
+2021-06-13,Brazil,Venezuela,Brazil,Marquinhos,23,FALSE,FALSE
+2021-06-13,Brazil,Venezuela,Brazil,Neymar,64,FALSE,TRUE
+2021-06-13,Brazil,Venezuela,Brazil,Gabriel Barbosa,89,FALSE,FALSE
+2021-06-13,Colombia,Ecuador,Colombia,Edwin Cardona,42,FALSE,FALSE
 2021-06-13,England,Croatia,England,Raheem Sterling,57,FALSE,FALSE
 2021-06-13,Netherlands,Ukraine,Netherlands,Georginio Wijnaldum,52,FALSE,FALSE
 2021-06-13,Netherlands,Ukraine,Netherlands,Wout Weghorst,58,FALSE,FALSE
 2021-06-13,Netherlands,Ukraine,Ukraine,Andriy Yarmolenko,75,FALSE,FALSE
 2021-06-13,Netherlands,Ukraine,Ukraine,Roman Yaremchuk,79,FALSE,FALSE
 2021-06-13,Netherlands,Ukraine,Netherlands,Denzel Dumfries,85,FALSE,FALSE
+2021-06-14,Argentina,Chile,Argentina,Lionel Messi,33,FALSE,FALSE
+2021-06-14,Argentina,Chile,Chile,Eduardo Vargas,57,FALSE,FALSE
+2021-06-14,Paraguay,Bolivia,Bolivia,Erwin Saavedra,10,FALSE,TRUE
+2021-06-14,Paraguay,Bolivia,Paraguay,Alejandro Romero Gamarra,62,FALSE,FALSE
+2021-06-14,Paraguay,Bolivia,Paraguay,Ángel Romero,65,FALSE,FALSE
+2021-06-14,Paraguay,Bolivia,Paraguay,Ángel Romero,80,FALSE,FALSE
 2021-06-14,Poland,Slovakia,Slovakia,Wojciech Szczęsny,18,TRUE,FALSE
 2021-06-14,Poland,Slovakia,Poland,Karol Linetty,46,FALSE,FALSE
 2021-06-14,Poland,Slovakia,Slovakia,Milan Škriniar,69,FALSE,FALSE
@@ -3518,6 +6057,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-06-16,Russia,Finland,Russia,Aleksei Miranchuk,45,FALSE,FALSE
 2021-06-16,Turkey,Wales,Wales,Aaron Ramsey,42,FALSE,FALSE
 2021-06-16,Turkey,Wales,Wales,Connor Roberts,90,FALSE,FALSE
+2021-06-17,Brazil,Peru,Brazil,Alex Sandro,12,FALSE,FALSE
+2021-06-17,Brazil,Peru,Brazil,Neymar,68,FALSE,FALSE
+2021-06-17,Brazil,Peru,Brazil,Éverton Ribeiro,89,FALSE,FALSE
+2021-06-17,Brazil,Peru,Brazil,Richarlison,90,FALSE,FALSE
 2021-06-17,Denmark,Belgium,Denmark,Yussuf Poulsen,2,FALSE,FALSE
 2021-06-17,Denmark,Belgium,Belgium,Thorgan Hazard,55,FALSE,FALSE
 2021-06-17,Denmark,Belgium,Belgium,Kevin De Bruyne,70,FALSE,FALSE
@@ -3526,6 +6069,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-06-17,Ukraine,North Macedonia,Ukraine,Andriy Yarmolenko,29,FALSE,FALSE
 2021-06-17,Ukraine,North Macedonia,Ukraine,Roman Yaremchuk,34,FALSE,FALSE
 2021-06-17,Ukraine,North Macedonia,North Macedonia,Ezgjan Alioski,57,FALSE,FALSE
+2021-06-18,Argentina,Uruguay,Argentina,Guido Rodríguez,13,FALSE,FALSE
+2021-06-18,Chile,Bolivia,Chile,Ben Brereton Díaz,10,FALSE,FALSE
 2021-06-18,Croatia,Czech Republic,Czech Republic,Patrik Schick,37,FALSE,TRUE
 2021-06-18,Croatia,Czech Republic,Croatia,Ivan Perišić,47,FALSE,FALSE
 2021-06-18,Sweden,Slovakia,Sweden,Emil Forsberg,77,FALSE,TRUE
@@ -3539,11 +6084,19 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-06-19,Hungary,France,France,Antoine Griezmann,66,FALSE,FALSE
 2021-06-19,Spain,Poland,Spain,Álvaro Morata,25,FALSE,FALSE
 2021-06-19,Spain,Poland,Poland,Robert Lewandowski,54,FALSE,FALSE
+2021-06-20,Colombia,Peru,Peru,Sergio Peña,17,FALSE,FALSE
+2021-06-20,Colombia,Peru,Colombia,Miguel Borja,53,FALSE,TRUE
+2021-06-20,Colombia,Peru,Peru,Yerry Mina,64,TRUE,FALSE
 2021-06-20,Italy,Wales,Italy,Matteo Pessina,39,FALSE,FALSE
 2021-06-20,Switzerland,Turkey,Switzerland,Haris Seferovic,6,FALSE,FALSE
 2021-06-20,Switzerland,Turkey,Switzerland,Xherdan Shaqiri,26,FALSE,FALSE
 2021-06-20,Switzerland,Turkey,Turkey,İrfan Kahveci,62,FALSE,FALSE
 2021-06-20,Switzerland,Turkey,Switzerland,Xherdan Shaqiri,68,FALSE,FALSE
+2021-06-20,Venezuela,Ecuador,Ecuador,Ayrton Preciado,39,FALSE,FALSE
+2021-06-20,Venezuela,Ecuador,Venezuela,Edson Castillo,51,FALSE,FALSE
+2021-06-20,Venezuela,Ecuador,Ecuador,Gonzalo Plata,71,FALSE,FALSE
+2021-06-20,Venezuela,Ecuador,Venezuela,Ronald Hernández,90,FALSE,FALSE
+2021-06-21,Argentina,Paraguay,Argentina,Papu Gómez,10,FALSE,FALSE
 2021-06-21,Denmark,Russia,Denmark,Mikkel Damsgaard,38,FALSE,FALSE
 2021-06-21,Denmark,Russia,Denmark,Yussuf Poulsen,59,FALSE,FALSE
 2021-06-21,Denmark,Russia,Russia,Artem Dzyuba,70,FALSE,TRUE
@@ -3555,11 +6108,20 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-06-21,Netherlands,North Macedonia,Netherlands,Georginio Wijnaldum,50,FALSE,FALSE
 2021-06-21,Netherlands,North Macedonia,Netherlands,Georginio Wijnaldum,58,FALSE,FALSE
 2021-06-21,Ukraine,Austria,Austria,Christoph Baumgartner,21,FALSE,FALSE
+2021-06-21,Uruguay,Chile,Chile,Eduardo Vargas,26,FALSE,FALSE
+2021-06-21,Uruguay,Chile,Uruguay,Luis Suárez,66,FALSE,FALSE
 2021-06-22,England,Czech Republic,England,Raheem Sterling,12,FALSE,FALSE
 2021-06-22,Scotland,Croatia,Croatia,Nikola Vlašić,17,FALSE,FALSE
 2021-06-22,Scotland,Croatia,Scotland,Callum McGregor,42,FALSE,FALSE
 2021-06-22,Scotland,Croatia,Croatia,Luka Modrić,62,FALSE,FALSE
 2021-06-22,Scotland,Croatia,Croatia,Ivan Perišić,77,FALSE,FALSE
+2021-06-23,Brazil,Colombia,Colombia,Luis Díaz,10,FALSE,FALSE
+2021-06-23,Brazil,Colombia,Brazil,Roberto Firmino,78,FALSE,FALSE
+2021-06-23,Brazil,Colombia,Brazil,Casemiro,90,FALSE,FALSE
+2021-06-23,Ecuador,Peru,Ecuador,Renato Tapia,23,TRUE,FALSE
+2021-06-23,Ecuador,Peru,Ecuador,Ayrton Preciado,45,FALSE,FALSE
+2021-06-23,Ecuador,Peru,Peru,Gianluca Lapadula,49,FALSE,FALSE
+2021-06-23,Ecuador,Peru,Peru,André Carrillo,54,FALSE,FALSE
 2021-06-23,Germany,Hungary,Hungary,Ádám Szalai,11,FALSE,FALSE
 2021-06-23,Germany,Hungary,Germany,Kai Havertz,66,FALSE,FALSE
 2021-06-23,Germany,Hungary,Hungary,András Schäfer,68,FALSE,FALSE
@@ -3578,6 +6140,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-06-23,Sweden,Poland,Poland,Robert Lewandowski,61,FALSE,FALSE
 2021-06-23,Sweden,Poland,Poland,Robert Lewandowski,84,FALSE,FALSE
 2021-06-23,Sweden,Poland,Sweden,Viktor Claesson,90,FALSE,FALSE
+2021-06-24,Bolivia,Uruguay,Uruguay,Jairo Quinteros,40,TRUE,FALSE
+2021-06-24,Bolivia,Uruguay,Uruguay,Edinson Cavani,79,FALSE,FALSE
+2021-06-24,Chile,Paraguay,Paraguay,Braian Samudio,33,FALSE,FALSE
+2021-06-24,Chile,Paraguay,Paraguay,Miguel Almirón,58,FALSE,TRUE
 2021-06-26,Italy,Austria,Italy,Federico Chiesa,95,FALSE,FALSE
 2021-06-26,Italy,Austria,Italy,Matteo Pessina,105,FALSE,FALSE
 2021-06-26,Italy,Austria,Austria,Saša Kalajdžić,114,FALSE,FALSE
@@ -3586,8 +6152,16 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-06-26,Wales,Denmark,Denmark,Joakim Mæhle,88,FALSE,FALSE
 2021-06-26,Wales,Denmark,Denmark,Martin Braithwaite,90,FALSE,FALSE
 2021-06-27,Belgium,Portugal,Belgium,Thorgan Hazard,42,FALSE,FALSE
+2021-06-27,Brazil,Ecuador,Brazil,Éder Militão,37,FALSE,FALSE
+2021-06-27,Brazil,Ecuador,Ecuador,Ángel Mena,53,FALSE,FALSE
 2021-06-27,Netherlands,Czech Republic,Czech Republic,Tomáš Holeš,68,FALSE,FALSE
 2021-06-27,Netherlands,Czech Republic,Czech Republic,Patrik Schick,80,FALSE,FALSE
+2021-06-27,Venezuela,Peru,Peru,André Carrillo,48,FALSE,FALSE
+2021-06-28,Argentina,Bolivia,Argentina,Papu Gómez,6,FALSE,FALSE
+2021-06-28,Argentina,Bolivia,Argentina,Lionel Messi,33,FALSE,TRUE
+2021-06-28,Argentina,Bolivia,Argentina,Lionel Messi,42,FALSE,FALSE
+2021-06-28,Argentina,Bolivia,Bolivia,Erwin Saavedra,60,FALSE,FALSE
+2021-06-28,Argentina,Bolivia,Argentina,Lautaro Martínez,65,FALSE,FALSE
 2021-06-28,Croatia,Spain,Croatia,Pedri,20,TRUE,FALSE
 2021-06-28,Croatia,Spain,Spain,Pablo Sarabia,38,FALSE,FALSE
 2021-06-28,Croatia,Spain,Spain,César Azpilicueta,57,FALSE,FALSE
@@ -3602,6 +6176,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-06-28,France,Switzerland,France,Paul Pogba,75,FALSE,FALSE
 2021-06-28,France,Switzerland,Switzerland,Haris Seferovic,81,FALSE,FALSE
 2021-06-28,France,Switzerland,Switzerland,Mario Gavranović,90,FALSE,FALSE
+2021-06-28,Uruguay,Paraguay,Uruguay,Edinson Cavani,21,FALSE,TRUE
 2021-06-29,England,Germany,England,Raheem Sterling,75,FALSE,FALSE
 2021-06-29,England,Germany,England,Harry Kane,86,FALSE,FALSE
 2021-06-29,Sweden,Ukraine,Ukraine,Oleksandr Zinchenko,27,FALSE,FALSE
@@ -3610,8 +6185,18 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-07-02,Belgium,Italy,Italy,Nicolò Barella,31,FALSE,FALSE
 2021-07-02,Belgium,Italy,Italy,Lorenzo Insigne,44,FALSE,FALSE
 2021-07-02,Belgium,Italy,Belgium,Romelu Lukaku,45,FALSE,TRUE
+2021-07-02,Brazil,Chile,Brazil,Lucas Paquetá,46,FALSE,FALSE
+2021-07-02,Peru,Paraguay,Paraguay,Gustavo Gómez,11,FALSE,FALSE
+2021-07-02,Peru,Paraguay,Peru,Gustavo Gómez,21,TRUE,FALSE
+2021-07-02,Peru,Paraguay,Peru,Gianluca Lapadula,40,FALSE,FALSE
+2021-07-02,Peru,Paraguay,Paraguay,Júnior Alonso,54,FALSE,FALSE
+2021-07-02,Peru,Paraguay,Peru,Yoshimar Yotún,80,FALSE,FALSE
+2021-07-02,Peru,Paraguay,Paraguay,Gabriel Ávalos,90,FALSE,FALSE
 2021-07-02,Switzerland,Spain,Spain,Denis Zakaria,8,TRUE,FALSE
 2021-07-02,Switzerland,Spain,Switzerland,Xherdan Shaqiri,68,FALSE,FALSE
+2021-07-03,Argentina,Ecuador,Argentina,Rodrigo De Paul,40,FALSE,FALSE
+2021-07-03,Argentina,Ecuador,Argentina,Lautaro Martínez,84,FALSE,FALSE
+2021-07-03,Argentina,Ecuador,Argentina,Lionel Messi,90,FALSE,FALSE
 2021-07-03,Czech Republic,Denmark,Denmark,Thomas Delaney,5,FALSE,FALSE
 2021-07-03,Czech Republic,Denmark,Denmark,Kasper Dolberg,42,FALSE,FALSE
 2021-07-03,Czech Republic,Denmark,Czech Republic,Patrik Schick,49,FALSE,FALSE
@@ -3619,10 +6204,19 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-07-03,Ukraine,England,England,Harry Maguire,46,FALSE,FALSE
 2021-07-03,Ukraine,England,England,Harry Kane,50,FALSE,FALSE
 2021-07-03,Ukraine,England,England,Jordan Henderson,63,FALSE,FALSE
+2021-07-05,Brazil,Peru,Brazil,Lucas Paquetá,35,FALSE,FALSE
+2021-07-06,Argentina,Colombia,Argentina,Lautaro Martínez,7,FALSE,FALSE
+2021-07-06,Argentina,Colombia,Colombia,Luis Díaz,61,FALSE,FALSE
 2021-07-06,Italy,Spain,Italy,Federico Chiesa,60,FALSE,FALSE
 2021-07-06,Italy,Spain,Spain,Álvaro Morata,80,FALSE,FALSE
 2021-07-07,England,Denmark,Denmark,Mikkel Damsgaard,30,FALSE,FALSE
 2021-07-07,England,Denmark,England,Simon Kjær,39,TRUE,FALSE
 2021-07-07,England,Denmark,England,Harry Kane,104,FALSE,FALSE
+2021-07-09,Peru,Colombia,Peru,Yoshimar Yotún,45,FALSE,FALSE
+2021-07-09,Peru,Colombia,Colombia,Juan Cuadrado,49,FALSE,FALSE
+2021-07-09,Peru,Colombia,Colombia,Luis Díaz,66,FALSE,FALSE
+2021-07-09,Peru,Colombia,Peru,Gianluca Lapadula,82,FALSE,FALSE
+2021-07-09,Peru,Colombia,Colombia,Luis Díaz,90,FALSE,FALSE
+2021-07-10,Brazil,Argentina,Argentina,Ángel Di María,22,FALSE,FALSE
 2021-07-11,England,Italy,England,Luke Shaw,2,FALSE,FALSE
 2021-07-11,England,Italy,Italy,Leonardo Bonucci,67,FALSE,FALSE
