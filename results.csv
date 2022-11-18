@@ -3776,7 +3776,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1955-04-03,Netherlands,Belgium,1,0,Friendly,Amsterdam,Netherlands,FALSE
 1955-04-20,Northern Ireland,Wales,2,3,British Championship,Belfast,Northern Ireland,FALSE
 1955-04-24,Austria,Hungary,2,2,International Cup,Vienna,Austria,FALSE
-1955-04-25,Argentina,Peru,2,2,Copa América,Santiago,Chile,TRUE
+1955-03-16,Argentina,Peru,2,2,Copa América,Santiago,Chile,TRUE
 1955-05-01,Republic of Ireland,Netherlands,1,0,Friendly,Dublin,Republic of Ireland,FALSE
 1955-05-01,Switzerland,Austria,2,3,International Cup,Berne,Switzerland,FALSE
 1955-05-04,Scotland,Portugal,3,0,Friendly,Glasgow,Scotland,FALSE
@@ -6435,7 +6435,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1967-01-11,Jamaica,Curaçao,1,1,CONCACAF Championship qualification,Kingston,Jamaica,FALSE
 1967-01-12,Cuba,Haiti,1,1,CONCACAF Championship qualification,Kingston,Jamaica,TRUE
 1967-01-13,Curaçao,Trinidad and Tobago,1,2,CONCACAF Championship qualification,Kingston,Jamaica,TRUE
-1967-01-13,Uruguay,Bolivia,4,0,Copa América,Montevideo,Uruguay,FALSE
+1967-01-17,Uruguay,Bolivia,4,0,Copa América,Montevideo,Uruguay,FALSE
 1967-01-14,Jamaica,Cuba,2,1,CONCACAF Championship qualification,Kingston,Jamaica,FALSE
 1967-01-16,Haiti,Trinidad and Tobago,4,2,CONCACAF Championship qualification,Kingston,Jamaica,TRUE
 1967-01-17,Curaçao,Cuba,2,2,CONCACAF Championship qualification,Kingston,Jamaica,TRUE
@@ -24517,7 +24517,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2001-07-27,Libya,Zambia,2,4,FIFA World Cup qualification,Tripoli,Libya,FALSE
 2001-07-28,Malawi,Zimbabwe,0,1,FIFA World Cup qualification,Blantyre,Malawi,FALSE
 2001-07-28,Saint Kitts and Nevis,Martinique,4,2,SKN Football Festival,Basseterre,Saint Kitts and Nevis,FALSE
-2001-07-28,Uruguay,Honduras,2,2,Copa América,Bogotá,Colombia,TRUE
+2001-07-29,Uruguay,Honduras,2,2,Copa América,Bogotá,Colombia,TRUE
 2001-07-29,Angola,Togo,1,1,FIFA World Cup qualification,Luanda,Angola,FALSE
 2001-07-29,Colombia,Mexico,1,0,Copa América,Bogotá,Colombia,FALSE
 2001-07-29,Ivory Coast,DR Congo,1,2,FIFA World Cup qualification,Abidjan,Ivory Coast,FALSE
