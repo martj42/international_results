@@ -577,6 +577,23 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1958-06-29,Sweden,Brazil,Brazil,Mário Zagallo,68,FALSE,FALSE
 1958-06-29,Sweden,Brazil,Sweden,Agne Simonsson,80,FALSE,FALSE
 1958-06-29,Sweden,Brazil,Brazil,Pelé,90,FALSE,FALSE
+1960-07-06,Czechoslovakia,Russia,Russia,Valentin Ivanov,34,FALSE,FALSE
+1960-07-06,Czechoslovakia,Russia,Russia,Valentin Ivanov,56,FALSE,FALSE
+1960-07-06,Czechoslovakia,Russia,Russia,Viktor Ponedelnik,66,FALSE,FALSE
+1960-07-06,France,Yugoslavia,Yugoslavia,Milan Galić,11,FALSE,FALSE
+1960-07-06,France,Yugoslavia,France,Jean Vincent,12,FALSE,FALSE
+1960-07-06,France,Yugoslavia,France,François Heutte,43,FALSE,FALSE
+1960-07-06,France,Yugoslavia,France,Maryan Wisniewski,53,FALSE,FALSE
+1960-07-06,France,Yugoslavia,Yugoslavia,Ante Žanetić,55,FALSE,FALSE
+1960-07-06,France,Yugoslavia,France,François Heutte,62,FALSE,FALSE
+1960-07-06,France,Yugoslavia,Yugoslavia,Tomislav Knez,75,FALSE,FALSE
+1960-07-06,France,Yugoslavia,Yugoslavia,Dražan Jerković,78,FALSE,FALSE
+1960-07-06,France,Yugoslavia,Yugoslavia,Dražan Jerković,79,FALSE,FALSE
+1960-07-09,France,Czechoslovakia,Czechoslovakia,Vlastimil Bubník,58,FALSE,FALSE
+1960-07-09,France,Czechoslovakia,Czechoslovakia,Ladislav Pavlovič,88,FALSE,FALSE
+1960-07-10,Russia,Yugoslavia,Yugoslavia,Milan Galić,43,FALSE,FALSE
+1960-07-10,Russia,Yugoslavia,Russia,Slava Metreveli,49,FALSE,FALSE
+1960-07-10,Russia,Yugoslavia,Russia,Viktor Ponedelnik,113,FALSE,FALSE
 1962-05-30,Argentina,Bulgaria,Argentina,Héctor Facundo,4,FALSE,FALSE
 1962-05-30,Brazil,Mexico,Brazil,Mário Zagallo,56,FALSE,FALSE
 1962-05-30,Brazil,Mexico,Brazil,Pelé,73,FALSE,FALSE
@@ -666,6 +683,19 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1962-06-17,Brazil,Czechoslovakia,Brazil,Amarildo Tavares da Silveira,17,FALSE,FALSE
 1962-06-17,Brazil,Czechoslovakia,Brazil,Zito,69,FALSE,FALSE
 1962-06-17,Brazil,Czechoslovakia,Brazil,Vavá,78,FALSE,FALSE
+1964-06-17,Denmark,Russia,Russia,Valery Voronin,19,FALSE,FALSE
+1964-06-17,Denmark,Russia,Russia,Viktor Ponedelnik,40,FALSE,FALSE
+1964-06-17,Denmark,Russia,Russia,Valentin Ivanov,87,FALSE,FALSE
+1964-06-17,Spain,Hungary,Spain,Chus Pereda,35,FALSE,FALSE
+1964-06-17,Spain,Hungary,Hungary,Ferenc Bene,84,FALSE,FALSE
+1964-06-17,Spain,Hungary,Spain,Amancio Amaro,112,FALSE,FALSE
+1964-06-20,Hungary,Denmark,Hungary,Ferenc Bene,11,FALSE,FALSE
+1964-06-20,Hungary,Denmark,Denmark,Carl Bertelsen,82,FALSE,FALSE
+1964-06-20,Hungary,Denmark,Hungary,Dezső Novák,107,FALSE,TRUE
+1964-06-20,Hungary,Denmark,Hungary,Dezső Novák,110,FALSE,FALSE
+1964-06-21,Spain,Russia,Spain,Chus Pereda,6,FALSE,FALSE
+1964-06-21,Spain,Russia,Russia,Galimzyan Khusainov,8,FALSE,FALSE
+1964-06-21,Spain,Russia,Spain,Marcelino Martínez,84,FALSE,FALSE
 1966-07-12,Brazil,Bulgaria,Brazil,Pelé,15,FALSE,FALSE
 1966-07-12,Brazil,Bulgaria,Brazil,Garrincha,63,FALSE,FALSE
 1966-07-12,Germany,Switzerland,Germany,Sigfried Held,16,FALSE,FALSE
@@ -755,6 +785,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1966-07-30,England,Germany,Germany,Wolfgang Weber,89,FALSE,FALSE
 1966-07-30,England,Germany,England,Geoff Hurst,101,FALSE,FALSE
 1966-07-30,England,Germany,England,Geoff Hurst,120,FALSE,FALSE
+1968-06-05,England,Yugoslavia,Yugoslavia,Dragan Džajić,86,FALSE,FALSE
+1968-06-08,England,Russia,England,Bobby Charlton,39,FALSE,FALSE
+1968-06-08,England,Russia,England,Geoff Hurst,63,FALSE,FALSE
+1968-06-08,Italy,Yugoslavia,Yugoslavia,Dragan Džajić,39,FALSE,FALSE
+1968-06-08,Italy,Yugoslavia,Italy,Angelo Domenghini,80,FALSE,FALSE
+1968-06-10,Italy,Yugoslavia,Italy,Gigi Riva,12,FALSE,FALSE
+1968-06-10,Italy,Yugoslavia,Italy,Pietro Anastasi,31,FALSE,FALSE
 1970-06-02,Bulgaria,Peru,Bulgaria,Dinko Dermendzhiev,13,FALSE,FALSE
 1970-06-02,Bulgaria,Peru,Bulgaria,Hristo Bonev,49,FALSE,FALSE
 1970-06-02,Bulgaria,Peru,Peru,Alberto Gallardo,50,FALSE,FALSE
@@ -850,6 +887,16 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1970-06-21,Brazil,Italy,Brazil,Gérson,65,FALSE,FALSE
 1970-06-21,Brazil,Italy,Brazil,Jairzinho,71,FALSE,FALSE
 1970-06-21,Brazil,Italy,Brazil,Carlos Alberto Torres,86,FALSE,FALSE
+1972-06-14,Belgium,Germany,Germany,Gerd Müller,24,FALSE,FALSE
+1972-06-14,Belgium,Germany,Germany,Gerd Müller,71,FALSE,FALSE
+1972-06-14,Belgium,Germany,Belgium,Odilon Polleunis,83,FALSE,FALSE
+1972-06-14,Hungary,Russia,Russia,Anatoliy Konkov,53,FALSE,FALSE
+1972-06-17,Belgium,Hungary,Belgium,Raoul Lambert,24,FALSE,FALSE
+1972-06-17,Belgium,Hungary,Belgium,Paul Van Himst,28,FALSE,FALSE
+1972-06-17,Belgium,Hungary,Hungary,Lajos Kű,53,FALSE,TRUE
+1972-06-18,Germany,Russia,Germany,Gerd Müller,27,FALSE,FALSE
+1972-06-18,Germany,Russia,Germany,Herbert Wimmer,52,FALSE,FALSE
+1972-06-18,Germany,Russia,Germany,Gerd Müller,58,FALSE,FALSE
 1974-06-14,DR Congo,Scotland,Scotland,Peter Lorimer,26,FALSE,FALSE
 1974-06-14,DR Congo,Scotland,Scotland,Joe Jordan,34,FALSE,FALSE
 1974-06-14,German DR,Australia,German DR,Colin Curran,58,TRUE,FALSE
@@ -947,6 +994,25 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1974-07-07,Germany,Netherlands,Netherlands,Johan Neeskens,2,FALSE,TRUE
 1974-07-07,Germany,Netherlands,Germany,Paul Breitner,25,FALSE,TRUE
 1974-07-07,Germany,Netherlands,Germany,Gerd Müller,43,FALSE,FALSE
+1976-06-16,Czechoslovakia,Netherlands,Czechoslovakia,Anton Ondruš,19,FALSE,FALSE
+1976-06-16,Czechoslovakia,Netherlands,Netherlands,Anton Ondruš,73,TRUE,FALSE
+1976-06-16,Czechoslovakia,Netherlands,Czechoslovakia,Zdeněk Nehoda,114,FALSE,FALSE
+1976-06-16,Czechoslovakia,Netherlands,Czechoslovakia,František Veselý,118,FALSE,FALSE
+1976-06-17,Yugoslavia,Germany,Yugoslavia,Danilo Popivoda,19,FALSE,FALSE
+1976-06-17,Yugoslavia,Germany,Yugoslavia,Dragan Džajić,30,FALSE,FALSE
+1976-06-17,Yugoslavia,Germany,Germany,Heinz Flohe,64,FALSE,FALSE
+1976-06-17,Yugoslavia,Germany,Germany,Dieter Müller,82,FALSE,FALSE
+1976-06-17,Yugoslavia,Germany,Germany,Dieter Müller,115,FALSE,FALSE
+1976-06-17,Yugoslavia,Germany,Germany,Dieter Müller,119,FALSE,FALSE
+1976-06-19,Yugoslavia,Netherlands,Netherlands,Ruud Geels,27,FALSE,FALSE
+1976-06-19,Yugoslavia,Netherlands,Netherlands,Willy van de Kerkhof,39,FALSE,FALSE
+1976-06-19,Yugoslavia,Netherlands,Yugoslavia,Josip Katalinski,43,FALSE,FALSE
+1976-06-19,Yugoslavia,Netherlands,Yugoslavia,Dragan Džajić,82,FALSE,FALSE
+1976-06-19,Yugoslavia,Netherlands,Netherlands,Ruud Geels,107,FALSE,FALSE
+1976-06-20,Czechoslovakia,Germany,Czechoslovakia,Ján Švehlík,8,FALSE,FALSE
+1976-06-20,Czechoslovakia,Germany,Czechoslovakia,Karol Dobiaš,25,FALSE,FALSE
+1976-06-20,Czechoslovakia,Germany,Germany,Dieter Müller,28,FALSE,FALSE
+1976-06-20,Czechoslovakia,Germany,Germany,Bernd Hölzenbein,89,FALSE,FALSE
 1978-06-02,Argentina,Hungary,Hungary,Károly Csapó,9,FALSE,FALSE
 1978-06-02,Argentina,Hungary,Argentina,Leopoldo Luque,14,FALSE,FALSE
 1978-06-02,Argentina,Hungary,Argentina,Daniel Bertoni,83,FALSE,FALSE
@@ -1049,6 +1115,33 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1978-06-25,Argentina,Netherlands,Netherlands,Dick Nanninga,82,FALSE,FALSE
 1978-06-25,Argentina,Netherlands,Argentina,Mario Kempes,105,FALSE,FALSE
 1978-06-25,Argentina,Netherlands,Argentina,Daniel Bertoni,115,FALSE,FALSE
+1980-06-11,Czechoslovakia,Germany,Germany,Karl-Heinz Rummenigge,57,FALSE,FALSE
+1980-06-11,Netherlands,Greece,Netherlands,Kees Kist,65,FALSE,TRUE
+1980-06-12,Belgium,England,England,Ray Wilkins,26,FALSE,FALSE
+1980-06-12,Belgium,England,Belgium,Jan Ceulemans,29,FALSE,FALSE
+1980-06-14,Germany,Netherlands,Germany,Klaus Allofs,20,FALSE,FALSE
+1980-06-14,Germany,Netherlands,Germany,Klaus Allofs,60,FALSE,FALSE
+1980-06-14,Germany,Netherlands,Germany,Klaus Allofs,65,FALSE,FALSE
+1980-06-14,Germany,Netherlands,Netherlands,Johnny Rep,79,FALSE,TRUE
+1980-06-14,Germany,Netherlands,Netherlands,Willy van de Kerkhof,85,FALSE,FALSE
+1980-06-14,Greece,Czechoslovakia,Czechoslovakia,Antonín Panenka,6,FALSE,FALSE
+1980-06-14,Greece,Czechoslovakia,Greece,Nikos Anastopoulos,14,FALSE,FALSE
+1980-06-14,Greece,Czechoslovakia,Czechoslovakia,Ladislav Vízek,26,FALSE,FALSE
+1980-06-14,Greece,Czechoslovakia,Czechoslovakia,Zdeněk Nehoda,63,FALSE,FALSE
+1980-06-15,Belgium,Spain,Belgium,Eric Gerets,17,FALSE,FALSE
+1980-06-15,Belgium,Spain,Spain,Quini,36,FALSE,FALSE
+1980-06-15,Belgium,Spain,Belgium,Julien Cools,65,FALSE,FALSE
+1980-06-15,Italy,England,Italy,Marco Tardelli,79,FALSE,FALSE
+1980-06-17,Netherlands,Czechoslovakia,Czechoslovakia,Zdeněk Nehoda,16,FALSE,FALSE
+1980-06-17,Netherlands,Czechoslovakia,Netherlands,Kees Kist,59,FALSE,FALSE
+1980-06-18,Spain,England,England,Trevor Brooking,19,FALSE,FALSE
+1980-06-18,Spain,England,Spain,Daniel Ruiz,48,FALSE,TRUE
+1980-06-18,Spain,England,England,Tony Woodcock,61,FALSE,FALSE
+1980-06-21,Italy,Czechoslovakia,Czechoslovakia,Ladislav Jurkemik,54,FALSE,FALSE
+1980-06-21,Italy,Czechoslovakia,Italy,Francesco Graziani,73,FALSE,FALSE
+1980-06-22,Belgium,Germany,Germany,Horst Hrubesch,10,FALSE,FALSE
+1980-06-22,Belgium,Germany,Belgium,René Vandereycken,75,FALSE,TRUE
+1980-06-22,Belgium,Germany,Germany,Horst Hrubesch,88,FALSE,FALSE
 1982-06-13,Argentina,Belgium,Belgium,Erwin Vandenbergh,62,FALSE,FALSE
 1982-06-14,Brazil,Russia,Russia,Andriy Bal,34,FALSE,FALSE
 1982-06-14,Brazil,Russia,Brazil,Sócrates,75,FALSE,FALSE
@@ -1195,6 +1288,47 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1982-07-11,Italy,Germany,Italy,Marco Tardelli,69,FALSE,FALSE
 1982-07-11,Italy,Germany,Italy,Alessandro Altobelli,81,FALSE,FALSE
 1982-07-11,Italy,Germany,Germany,Paul Breitner,83,FALSE,FALSE
+1984-06-12,France,Denmark,France,Michel Platini,78,FALSE,FALSE
+1984-06-13,Belgium,Yugoslavia,Belgium,Erwin Vandenbergh,28,FALSE,FALSE
+1984-06-13,Belgium,Yugoslavia,Belgium,Georges Grün,45,FALSE,FALSE
+1984-06-14,Romania,Spain,Spain,Francisco José Carrasco,22,FALSE,TRUE
+1984-06-14,Romania,Spain,Romania,László Bölöni,35,FALSE,FALSE
+1984-06-16,Denmark,Yugoslavia,Denmark,Frank Arnesen,8,FALSE,FALSE
+1984-06-16,Denmark,Yugoslavia,Denmark,Klaus Berggreen,16,FALSE,FALSE
+1984-06-16,Denmark,Yugoslavia,Denmark,Frank Arnesen,69,FALSE,TRUE
+1984-06-16,Denmark,Yugoslavia,Denmark,Preben Elkjær,82,FALSE,FALSE
+1984-06-16,Denmark,Yugoslavia,Denmark,John Lauridsen,84,FALSE,FALSE
+1984-06-16,France,Belgium,France,Michel Platini,4,FALSE,FALSE
+1984-06-16,France,Belgium,France,Alain Giresse,33,FALSE,FALSE
+1984-06-16,France,Belgium,France,Luis Fernández,43,FALSE,FALSE
+1984-06-16,France,Belgium,France,Michel Platini,74,FALSE,TRUE
+1984-06-16,France,Belgium,France,Michel Platini,89,FALSE,FALSE
+1984-06-17,Germany,Romania,Germany,Rudi Völler,25,FALSE,FALSE
+1984-06-17,Germany,Romania,Romania,Marcel Coraș,46,FALSE,FALSE
+1984-06-17,Germany,Romania,Germany,Rudi Völler,66,FALSE,FALSE
+1984-06-17,Portugal,Spain,Portugal,António Sousa,52,FALSE,FALSE
+1984-06-17,Portugal,Spain,Spain,Santillana,73,FALSE,FALSE
+1984-06-19,Denmark,Belgium,Belgium,Jan Ceulemans,26,FALSE,FALSE
+1984-06-19,Denmark,Belgium,Belgium,Franky Vercauteren,39,FALSE,FALSE
+1984-06-19,Denmark,Belgium,Denmark,Frank Arnesen,41,FALSE,TRUE
+1984-06-19,Denmark,Belgium,Denmark,Kenneth Brylle Larsen,60,FALSE,FALSE
+1984-06-19,Denmark,Belgium,Denmark,Preben Elkjær,84,FALSE,FALSE
+1984-06-19,France,Yugoslavia,Yugoslavia,Miloš Šestić,32,FALSE,FALSE
+1984-06-19,France,Yugoslavia,France,Michel Platini,59,FALSE,FALSE
+1984-06-19,France,Yugoslavia,France,Michel Platini,62,FALSE,FALSE
+1984-06-19,France,Yugoslavia,France,Michel Platini,77,FALSE,FALSE
+1984-06-19,France,Yugoslavia,Yugoslavia,Dragan Stojković,84,FALSE,TRUE
+1984-06-20,Germany,Spain,Spain,Antonio Maceda,90,FALSE,FALSE
+1984-06-20,Portugal,Romania,Portugal,Nené,81,FALSE,FALSE
+1984-06-23,France,Portugal,France,Jean-François Domergue,24,FALSE,FALSE
+1984-06-23,France,Portugal,Portugal,Rui Jordão,74,FALSE,FALSE
+1984-06-23,France,Portugal,Portugal,Rui Jordão,98,FALSE,FALSE
+1984-06-23,France,Portugal,France,Jean-François Domergue,114,FALSE,FALSE
+1984-06-23,France,Portugal,France,Michel Platini,119,FALSE,FALSE
+1984-06-24,Denmark,Spain,Denmark,Søren Lerby,7,FALSE,FALSE
+1984-06-24,Denmark,Spain,Spain,Antonio Maceda,67,FALSE,FALSE
+1984-06-27,France,Spain,France,Michel Platini,57,FALSE,FALSE
+1984-06-27,France,Spain,France,Bruno Bellone,90,FALSE,FALSE
 1986-05-31,Bulgaria,Italy,Italy,Alessandro Altobelli,44,FALSE,FALSE
 1986-05-31,Bulgaria,Italy,Bulgaria,Nasko Sirakov,85,FALSE,FALSE
 1986-06-01,Canada,France,France,Jean-Pierre Papin,79,FALSE,FALSE
@@ -1327,6 +1461,40 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1986-06-29,Argentina,Germany,Germany,Karl-Heinz Rummenigge,74,FALSE,FALSE
 1986-06-29,Argentina,Germany,Germany,Rudi Völler,80,FALSE,FALSE
 1986-06-29,Argentina,Germany,Argentina,Jorge Burruchaga,83,FALSE,FALSE
+1988-06-10,Germany,Italy,Italy,Roberto Mancini,52,FALSE,FALSE
+1988-06-10,Germany,Italy,Germany,Andreas Brehme,55,FALSE,FALSE
+1988-06-11,Denmark,Spain,Spain,Míchel,5,FALSE,FALSE
+1988-06-11,Denmark,Spain,Denmark,Michael Laudrup,24,FALSE,FALSE
+1988-06-11,Denmark,Spain,Spain,Emilio Butragueño,53,FALSE,FALSE
+1988-06-11,Denmark,Spain,Spain,Rafael Gordillo,66,FALSE,FALSE
+1988-06-11,Denmark,Spain,Denmark,Flemming Povlsen,82,FALSE,FALSE
+1988-06-12,England,Republic of Ireland,Republic of Ireland,Ray Houghton,6,FALSE,FALSE
+1988-06-12,Netherlands,Russia,Russia,Vasyl Rats,52,FALSE,FALSE
+1988-06-14,Germany,Denmark,Germany,Jürgen Klinsmann,10,FALSE,FALSE
+1988-06-14,Germany,Denmark,Germany,Olaf Thon,85,FALSE,FALSE
+1988-06-14,Italy,Spain,Italy,Gianluca Vialli,73,FALSE,FALSE
+1988-06-15,England,Netherlands,Netherlands,Marco van Basten,44,FALSE,FALSE
+1988-06-15,England,Netherlands,England,Bryan Robson,53,FALSE,FALSE
+1988-06-15,England,Netherlands,Netherlands,Marco van Basten,71,FALSE,FALSE
+1988-06-15,England,Netherlands,Netherlands,Marco van Basten,75,FALSE,FALSE
+1988-06-15,Republic of Ireland,Russia,Republic of Ireland,Ronnie Whelan,38,FALSE,FALSE
+1988-06-15,Republic of Ireland,Russia,Russia,Oleh Protasov,74,FALSE,FALSE
+1988-06-17,Germany,Spain,Germany,Rudi Völler,29,FALSE,FALSE
+1988-06-17,Germany,Spain,Germany,Rudi Völler,51,FALSE,FALSE
+1988-06-17,Italy,Denmark,Italy,Alessandro Altobelli,67,FALSE,FALSE
+1988-06-17,Italy,Denmark,Italy,Luigi De Agostini,87,FALSE,FALSE
+1988-06-18,England,Russia,Russia,Sergei Aleinikov,3,FALSE,FALSE
+1988-06-18,England,Russia,England,Tony Adams,16,FALSE,FALSE
+1988-06-18,England,Russia,Russia,Oleksiy Mykhaylychenko,28,FALSE,FALSE
+1988-06-18,England,Russia,Russia,Viktor Pasulko,73,FALSE,FALSE
+1988-06-18,Republic of Ireland,Netherlands,Netherlands,Wim Kieft,82,FALSE,FALSE
+1988-06-21,Germany,Netherlands,Germany,Lothar Matthäus,55,FALSE,TRUE
+1988-06-21,Germany,Netherlands,Netherlands,Ronald Koeman,74,FALSE,TRUE
+1988-06-21,Germany,Netherlands,Netherlands,Marco van Basten,88,FALSE,FALSE
+1988-06-22,Russia,Italy,Russia,Hennadiy Lytovchenko,58,FALSE,FALSE
+1988-06-22,Russia,Italy,Russia,Oleh Protasov,62,FALSE,FALSE
+1988-06-25,Russia,Netherlands,Netherlands,Ruud Gullit,32,FALSE,FALSE
+1988-06-25,Russia,Netherlands,Netherlands,Marco van Basten,54,FALSE,FALSE
 1990-06-08,Argentina,Cameroon,Cameroon,François Omam-Biyik,67,FALSE,FALSE
 1990-06-09,Italy,Austria,Italy,Salvatore Schillaci,78,FALSE,FALSE
 1990-06-09,Russia,Romania,Romania,Marius Lăcătuș,41,FALSE,FALSE
@@ -1442,6 +1610,38 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1990-07-07,Italy,England,England,David Platt,81,FALSE,FALSE
 1990-07-07,Italy,England,Italy,Salvatore Schillaci,86,FALSE,TRUE
 1990-07-08,Germany,Argentina,Germany,Andreas Brehme,85,FALSE,TRUE
+1992-06-10,Sweden,France,Sweden,Jan Eriksson,24,FALSE,FALSE
+1992-06-10,Sweden,France,France,Jean-Pierre Papin,58,FALSE,FALSE
+1992-06-12,Netherlands,Scotland,Netherlands,Dennis Bergkamp,75,FALSE,FALSE
+1992-06-12,Russia,Germany,Russia,Igor Dobrovolski,64,FALSE,TRUE
+1992-06-12,Russia,Germany,Germany,Thomas Häßler,90,FALSE,FALSE
+1992-06-14,Sweden,Denmark,Sweden,Tomas Brolin,58,FALSE,FALSE
+1992-06-15,Scotland,Germany,Germany,Karl-Heinz Riedle,29,FALSE,FALSE
+1992-06-15,Scotland,Germany,Germany,Stefan Effenberg,47,FALSE,FALSE
+1992-06-17,France,Denmark,Denmark,Henrik Larsen,8,FALSE,FALSE
+1992-06-17,France,Denmark,France,Jean-Pierre Papin,60,FALSE,FALSE
+1992-06-17,France,Denmark,Denmark,Lars Elstrup,78,FALSE,FALSE
+1992-06-17,Sweden,England,England,David Platt,4,FALSE,FALSE
+1992-06-17,Sweden,England,Sweden,Jan Eriksson,51,FALSE,FALSE
+1992-06-17,Sweden,England,Sweden,Tomas Brolin,82,FALSE,FALSE
+1992-06-18,Netherlands,Germany,Netherlands,Frank Rijkaard,4,FALSE,FALSE
+1992-06-18,Netherlands,Germany,Netherlands,Rob Witschge,15,FALSE,FALSE
+1992-06-18,Netherlands,Germany,Germany,Jürgen Klinsmann,53,FALSE,FALSE
+1992-06-18,Netherlands,Germany,Netherlands,Dennis Bergkamp,72,FALSE,FALSE
+1992-06-18,Scotland,Russia,Scotland,Paul McStay,7,FALSE,FALSE
+1992-06-18,Scotland,Russia,Scotland,Brian McClair,16,FALSE,FALSE
+1992-06-18,Scotland,Russia,Scotland,Gary McAllister,84,FALSE,TRUE
+1992-06-21,Sweden,Germany,Germany,Thomas Häßler,11,FALSE,FALSE
+1992-06-21,Sweden,Germany,Germany,Karl-Heinz Riedle,59,FALSE,FALSE
+1992-06-21,Sweden,Germany,Sweden,Tomas Brolin,64,FALSE,TRUE
+1992-06-21,Sweden,Germany,Germany,Karl-Heinz Riedle,88,FALSE,FALSE
+1992-06-21,Sweden,Germany,Sweden,Kennet Andersson,89,FALSE,FALSE
+1992-06-22,Netherlands,Denmark,Denmark,Henrik Larsen,5,FALSE,FALSE
+1992-06-22,Netherlands,Denmark,Netherlands,Dennis Bergkamp,23,FALSE,FALSE
+1992-06-22,Netherlands,Denmark,Denmark,Henrik Larsen,33,FALSE,FALSE
+1992-06-22,Netherlands,Denmark,Netherlands,Frank Rijkaard,86,FALSE,FALSE
+1992-06-26,Denmark,Germany,Denmark,John Jensen,18,FALSE,FALSE
+1992-06-26,Denmark,Germany,Denmark,Kim Vilfort,78,FALSE,FALSE
 1994-06-17,Germany,Bolivia,Germany,Jürgen Klinsmann,61,FALSE,FALSE
 1994-06-17,Spain,South Korea,Spain,Julio Salinas,51,FALSE,FALSE
 1994-06-17,Spain,South Korea,Spain,Ion Andoni Goikoetxea,55,FALSE,FALSE
@@ -1583,6 +1783,69 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1994-07-16,Sweden,Bulgaria,Sweden,Håkan Mild,30,FALSE,FALSE
 1994-07-16,Sweden,Bulgaria,Sweden,Henrik Larsson,37,FALSE,FALSE
 1994-07-16,Sweden,Bulgaria,Sweden,Kennet Andersson,39,FALSE,FALSE
+1996-06-08,England,Switzerland,England,Alan Shearer,23,FALSE,FALSE
+1996-06-08,England,Switzerland,Switzerland,Kubilay Türkyilmaz,83,FALSE,TRUE
+1996-06-09,Denmark,Portugal,Denmark,Brian Laudrup,22,FALSE,FALSE
+1996-06-09,Denmark,Portugal,Portugal,Ricardo Sá Pinto,53,FALSE,FALSE
+1996-06-09,Germany,Czech Republic,Germany,Christian Ziege,26,FALSE,FALSE
+1996-06-09,Germany,Czech Republic,Germany,Andreas Möller,32,FALSE,FALSE
+1996-06-09,Spain,Bulgaria,Bulgaria,Hristo Stoichkov,65,FALSE,TRUE
+1996-06-09,Spain,Bulgaria,Spain,Alfonso Pérez,74,FALSE,FALSE
+1996-06-10,Romania,France,France,Christophe Dugarry,25,FALSE,FALSE
+1996-06-11,Italy,Russia,Italy,Pierluigi Casiraghi,5,FALSE,FALSE
+1996-06-11,Italy,Russia,Russia,Ilya Tsymbalar,21,FALSE,FALSE
+1996-06-11,Italy,Russia,Italy,Pierluigi Casiraghi,52,FALSE,FALSE
+1996-06-11,Turkey,Croatia,Croatia,Goran Vlaović,86,FALSE,FALSE
+1996-06-13,Bulgaria,Romania,Bulgaria,Hristo Stoichkov,3,FALSE,FALSE
+1996-06-13,Switzerland,Netherlands,Netherlands,Jordi Cruyff,66,FALSE,FALSE
+1996-06-13,Switzerland,Netherlands,Netherlands,Dennis Bergkamp,79,FALSE,FALSE
+1996-06-14,Czech Republic,Italy,Czech Republic,Pavel Nedvěd,5,FALSE,FALSE
+1996-06-14,Czech Republic,Italy,Italy,Enrico Chiesa,18,FALSE,FALSE
+1996-06-14,Czech Republic,Italy,Czech Republic,Radek Bejbl,35,FALSE,FALSE
+1996-06-14,Portugal,Turkey,Portugal,Fernando Couto,66,FALSE,FALSE
+1996-06-15,England,Scotland,England,Alan Shearer,53,FALSE,FALSE
+1996-06-15,England,Scotland,England,Paul Gascoigne,79,FALSE,FALSE
+1996-06-15,France,Spain,France,Youri Djorkaeff,48,FALSE,FALSE
+1996-06-15,France,Spain,Spain,José Luis Caminero,85,FALSE,FALSE
+1996-06-16,Croatia,Denmark,Croatia,Davor Šuker,54,FALSE,TRUE
+1996-06-16,Croatia,Denmark,Croatia,Zvonimir Boban,81,FALSE,FALSE
+1996-06-16,Croatia,Denmark,Croatia,Davor Šuker,90,FALSE,FALSE
+1996-06-16,Russia,Germany,Germany,Matthias Sammer,56,FALSE,FALSE
+1996-06-16,Russia,Germany,Germany,Jürgen Klinsmann,77,FALSE,FALSE
+1996-06-16,Russia,Germany,Germany,Jürgen Klinsmann,90,FALSE,FALSE
+1996-06-18,England,Netherlands,England,Alan Shearer,23,FALSE,TRUE
+1996-06-18,England,Netherlands,England,Teddy Sheringham,51,FALSE,FALSE
+1996-06-18,England,Netherlands,England,Alan Shearer,57,FALSE,FALSE
+1996-06-18,England,Netherlands,England,Teddy Sheringham,62,FALSE,FALSE
+1996-06-18,England,Netherlands,Netherlands,Patrick Kluivert,78,FALSE,FALSE
+1996-06-18,France,Bulgaria,France,Laurent Blanc,21,FALSE,FALSE
+1996-06-18,France,Bulgaria,France,Lyuboslav Penev,63,TRUE,FALSE
+1996-06-18,France,Bulgaria,Bulgaria,Hristo Stoichkov,69,FALSE,FALSE
+1996-06-18,France,Bulgaria,France,Patrice Loko,90,FALSE,FALSE
+1996-06-18,Romania,Spain,Spain,Javier Manjarín,11,FALSE,FALSE
+1996-06-18,Romania,Spain,Romania,Florin Răducioiu,29,FALSE,FALSE
+1996-06-18,Romania,Spain,Spain,Guillermo Amor,84,FALSE,FALSE
+1996-06-18,Scotland,Switzerland,Scotland,Ally McCoist,36,FALSE,FALSE
+1996-06-19,Croatia,Portugal,Portugal,Luís Figo,4,FALSE,FALSE
+1996-06-19,Croatia,Portugal,Portugal,João Vieira Pinto,33,FALSE,FALSE
+1996-06-19,Croatia,Portugal,Portugal,Domingos Paciência,82,FALSE,FALSE
+1996-06-19,Russia,Czech Republic,Czech Republic,Jan Suchopárek,5,FALSE,FALSE
+1996-06-19,Russia,Czech Republic,Czech Republic,Pavel Kuka,19,FALSE,FALSE
+1996-06-19,Russia,Czech Republic,Russia,Aleksandr Mostovoi,49,FALSE,FALSE
+1996-06-19,Russia,Czech Republic,Russia,Omari Tetradze,54,FALSE,FALSE
+1996-06-19,Russia,Czech Republic,Russia,Vladimir Beschastnykh,85,FALSE,FALSE
+1996-06-19,Russia,Czech Republic,Czech Republic,Vladimír Šmicer,88,FALSE,FALSE
+1996-06-19,Turkey,Denmark,Denmark,Brian Laudrup,50,FALSE,FALSE
+1996-06-19,Turkey,Denmark,Denmark,Allan Nielsen,69,FALSE,FALSE
+1996-06-19,Turkey,Denmark,Denmark,Brian Laudrup,84,FALSE,FALSE
+1996-06-23,Czech Republic,Portugal,Czech Republic,Karel Poborský,53,FALSE,FALSE
+1996-06-23,Germany,Croatia,Germany,Jürgen Klinsmann,20,FALSE,TRUE
+1996-06-23,Germany,Croatia,Croatia,Davor Šuker,51,FALSE,FALSE
+1996-06-23,Germany,Croatia,Germany,Matthias Sammer,59,FALSE,FALSE
+1996-06-26,England,Germany,England,Alan Shearer,3,FALSE,FALSE
+1996-06-26,England,Germany,Germany,Stefan Kuntz,16,FALSE,FALSE
+1996-06-30,Czech Republic,Germany,Czech Republic,Patrik Berger,59,FALSE,TRUE
+1996-06-30,Czech Republic,Germany,Germany,Oliver Bierhoff,73,FALSE,FALSE
 1998-06-10,Brazil,Scotland,Brazil,César Sampaio,5,FALSE,FALSE
 1998-06-10,Brazil,Scotland,Scotland,John Collins,38,FALSE,TRUE
 1998-06-10,Brazil,Scotland,Brazil,Tom Boyd,74,TRUE,FALSE
@@ -1753,6 +2016,89 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1998-07-12,France,Brazil,France,Zinedine Zidane,27,FALSE,FALSE
 1998-07-12,France,Brazil,France,Zinedine Zidane,45,FALSE,FALSE
 1998-07-12,France,Brazil,France,Emmanuel Petit,90,FALSE,FALSE
+2000-06-10,Belgium,Sweden,Belgium,Bart Goor,43,FALSE,FALSE
+2000-06-10,Belgium,Sweden,Belgium,Émile Mpenza,46,FALSE,FALSE
+2000-06-10,Belgium,Sweden,Sweden,Johan Mjällby,53,FALSE,FALSE
+2000-06-11,France,Denmark,France,Laurent Blanc,16,FALSE,FALSE
+2000-06-11,France,Denmark,France,Thierry Henry,64,FALSE,FALSE
+2000-06-11,France,Denmark,France,Sylvain Wiltord,90,FALSE,FALSE
+2000-06-11,Netherlands,Czech Republic,Netherlands,Frank de Boer,89,FALSE,TRUE
+2000-06-11,Turkey,Italy,Italy,Antonio Conte,52,FALSE,FALSE
+2000-06-11,Turkey,Italy,Turkey,Okan Buruk,62,FALSE,FALSE
+2000-06-11,Turkey,Italy,Italy,Filippo Inzaghi,70,FALSE,TRUE
+2000-06-12,Germany,Romania,Romania,Viorel Moldovan,5,FALSE,FALSE
+2000-06-12,Germany,Romania,Germany,Mehmet Scholl,28,FALSE,FALSE
+2000-06-12,Portugal,England,England,Paul Scholes,3,FALSE,FALSE
+2000-06-12,Portugal,England,England,Steve McManaman,18,FALSE,FALSE
+2000-06-12,Portugal,England,Portugal,Luís Figo,22,FALSE,FALSE
+2000-06-12,Portugal,England,Portugal,João Vieira Pinto,37,FALSE,FALSE
+2000-06-12,Portugal,England,Portugal,Nuno Gomes,59,FALSE,FALSE
+2000-06-13,Serbia,Slovenia,Slovenia,Zlatko Zahovič,23,FALSE,FALSE
+2000-06-13,Serbia,Slovenia,Slovenia,Miran Pavlin,52,FALSE,FALSE
+2000-06-13,Serbia,Slovenia,Slovenia,Zlatko Zahovič,57,FALSE,FALSE
+2000-06-13,Serbia,Slovenia,Serbia,Savo Milošević,67,FALSE,FALSE
+2000-06-13,Serbia,Slovenia,Serbia,Ljubinko Drulović,70,FALSE,FALSE
+2000-06-13,Serbia,Slovenia,Serbia,Savo Milošević,73,FALSE,FALSE
+2000-06-13,Spain,Norway,Norway,Steffen Iversen,65,FALSE,FALSE
+2000-06-14,Belgium,Italy,Italy,Francesco Totti,6,FALSE,FALSE
+2000-06-14,Belgium,Italy,Italy,Stefano Fiore,66,FALSE,FALSE
+2000-06-16,Czech Republic,France,France,Thierry Henry,7,FALSE,FALSE
+2000-06-16,Czech Republic,France,Czech Republic,Karel Poborský,35,FALSE,TRUE
+2000-06-16,Czech Republic,France,France,Youri Djorkaeff,60,FALSE,FALSE
+2000-06-16,Netherlands,Denmark,Netherlands,Patrick Kluivert,57,FALSE,FALSE
+2000-06-16,Netherlands,Denmark,Netherlands,Ronald de Boer,66,FALSE,FALSE
+2000-06-16,Netherlands,Denmark,Netherlands,Boudewijn Zenden,77,FALSE,FALSE
+2000-06-17,England,Germany,England,Alan Shearer,53,FALSE,FALSE
+2000-06-17,Romania,Portugal,Portugal,Costinha,90,FALSE,FALSE
+2000-06-18,Norway,Serbia,Serbia,Savo Milošević,8,FALSE,FALSE
+2000-06-18,Slovenia,Spain,Spain,Raúl,4,FALSE,FALSE
+2000-06-18,Slovenia,Spain,Slovenia,Zlatko Zahovič,59,FALSE,FALSE
+2000-06-18,Slovenia,Spain,Spain,Joseba Etxeberria,60,FALSE,FALSE
+2000-06-19,Belgium,Turkey,Turkey,Hakan Şükür,45,FALSE,FALSE
+2000-06-19,Belgium,Turkey,Turkey,Hakan Şükür,70,FALSE,FALSE
+2000-06-19,Italy,Sweden,Italy,Luigi Di Biagio,39,FALSE,FALSE
+2000-06-19,Italy,Sweden,Sweden,Henrik Larsson,77,FALSE,FALSE
+2000-06-19,Italy,Sweden,Italy,Alessandro Del Piero,88,FALSE,FALSE
+2000-06-20,England,Romania,Romania,Cristian Chivu,22,FALSE,FALSE
+2000-06-20,England,Romania,England,Alan Shearer,41,FALSE,TRUE
+2000-06-20,England,Romania,England,Michael Owen,45,FALSE,FALSE
+2000-06-20,England,Romania,Romania,Dorinel Munteanu,48,FALSE,FALSE
+2000-06-20,England,Romania,Romania,Ionel Ganea,89,FALSE,TRUE
+2000-06-20,Portugal,Germany,Portugal,Sérgio Conceição,35,FALSE,FALSE
+2000-06-20,Portugal,Germany,Portugal,Sérgio Conceição,54,FALSE,FALSE
+2000-06-20,Portugal,Germany,Portugal,Sérgio Conceição,71,FALSE,FALSE
+2000-06-21,Denmark,Czech Republic,Czech Republic,Vladimír Šmicer,64,FALSE,FALSE
+2000-06-21,Denmark,Czech Republic,Czech Republic,Vladimír Šmicer,67,FALSE,FALSE
+2000-06-21,Netherlands,France,France,Christophe Dugarry,8,FALSE,FALSE
+2000-06-21,Netherlands,France,Netherlands,Patrick Kluivert,14,FALSE,FALSE
+2000-06-21,Netherlands,France,France,David Trezeguet,31,FALSE,FALSE
+2000-06-21,Netherlands,France,Netherlands,Frank de Boer,51,FALSE,FALSE
+2000-06-21,Netherlands,France,Netherlands,Boudewijn Zenden,59,FALSE,FALSE
+2000-06-21,Serbia,Spain,Serbia,Savo Milošević,30,FALSE,FALSE
+2000-06-21,Serbia,Spain,Spain,Alfonso Pérez,38,FALSE,FALSE
+2000-06-21,Serbia,Spain,Serbia,Dejan Govedarica,50,FALSE,FALSE
+2000-06-21,Serbia,Spain,Spain,Pedro Munitis,51,FALSE,FALSE
+2000-06-21,Serbia,Spain,Serbia,Slobodan Komljenović,75,FALSE,FALSE
+2000-06-21,Serbia,Spain,Spain,Alfonso Pérez,90,FALSE,FALSE
+2000-06-21,Serbia,Spain,Spain,Gaizka Mendieta,90,FALSE,TRUE
+2000-06-24,Italy,Romania,Italy,Francesco Totti,33,FALSE,FALSE
+2000-06-24,Italy,Romania,Italy,Filippo Inzaghi,43,FALSE,FALSE
+2000-06-24,Turkey,Portugal,Portugal,Nuno Gomes,44,FALSE,FALSE
+2000-06-24,Turkey,Portugal,Portugal,Nuno Gomes,56,FALSE,FALSE
+2000-06-25,Netherlands,Serbia,Netherlands,Patrick Kluivert,24,FALSE,FALSE
+2000-06-25,Netherlands,Serbia,Netherlands,Patrick Kluivert,38,FALSE,FALSE
+2000-06-25,Netherlands,Serbia,Netherlands,Dejan Govedarica,51,TRUE,FALSE
+2000-06-25,Netherlands,Serbia,Netherlands,Patrick Kluivert,54,FALSE,FALSE
+2000-06-25,Netherlands,Serbia,Netherlands,Marc Overmars,78,FALSE,FALSE
+2000-06-25,Netherlands,Serbia,Netherlands,Marc Overmars,90,FALSE,FALSE
+2000-06-25,Netherlands,Serbia,Serbia,Savo Milošević,90,FALSE,FALSE
+2000-06-25,Spain,France,France,Zinedine Zidane,32,FALSE,FALSE
+2000-06-25,Spain,France,Spain,Gaizka Mendieta,38,FALSE,TRUE
+2000-06-25,Spain,France,France,Youri Djorkaeff,44,FALSE,FALSE
+2000-06-28,France,Portugal,Portugal,Nuno Gomes,19,FALSE,FALSE
+2000-06-28,France,Portugal,France,Thierry Henry,51,FALSE,FALSE
+2000-07-02,France,Italy,Italy,Marco Delvecchio,55,FALSE,FALSE
+2000-07-02,France,Italy,France,Sylvain Wiltord,90,FALSE,FALSE
 2002-05-31,France,Senegal,Senegal,Papa Bouba Diop,30,FALSE,FALSE
 2002-06-01,Germany,Saudi Arabia,Germany,Miroslav Klose,20,FALSE,FALSE
 2002-06-01,Germany,Saudi Arabia,Germany,Miroslav Klose,25,FALSE,FALSE
@@ -1911,6 +2257,82 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2002-06-29,South Korea,Turkey,South Korea,Song Chong-gug,90,FALSE,FALSE
 2002-06-30,Germany,Brazil,Brazil,Ronaldo,67,FALSE,FALSE
 2002-06-30,Germany,Brazil,Brazil,Ronaldo,79,FALSE,FALSE
+2004-06-12,Portugal,Greece,Greece,Giorgos Karagounis,7,FALSE,FALSE
+2004-06-12,Portugal,Greece,Greece,Angelos Basinas,51,FALSE,TRUE
+2004-06-12,Portugal,Greece,Portugal,Cristiano Ronaldo,90,FALSE,FALSE
+2004-06-12,Spain,Russia,Spain,Juan Carlos Valerón,60,FALSE,FALSE
+2004-06-13,France,England,England,Frank Lampard,38,FALSE,FALSE
+2004-06-13,France,England,France,Zinedine Zidane,90,FALSE,FALSE
+2004-06-13,France,England,France,Zinedine Zidane,90,FALSE,TRUE
+2004-06-14,Sweden,Bulgaria,Sweden,Freddie Ljungberg,32,FALSE,FALSE
+2004-06-14,Sweden,Bulgaria,Sweden,Henrik Larsson,57,FALSE,FALSE
+2004-06-14,Sweden,Bulgaria,Sweden,Henrik Larsson,58,FALSE,FALSE
+2004-06-14,Sweden,Bulgaria,Sweden,Zlatan Ibrahimović,78,FALSE,TRUE
+2004-06-14,Sweden,Bulgaria,Sweden,Marcus Allbäck,90,FALSE,FALSE
+2004-06-15,Czech Republic,Latvia,Latvia,Māris Verpakovskis,45,FALSE,FALSE
+2004-06-15,Czech Republic,Latvia,Czech Republic,Milan Baroš,73,FALSE,FALSE
+2004-06-15,Czech Republic,Latvia,Czech Republic,Marek Heinz,85,FALSE,FALSE
+2004-06-15,Germany,Netherlands,Germany,Torsten Frings,30,FALSE,FALSE
+2004-06-15,Germany,Netherlands,Netherlands,Ruud van Nistelrooy,81,FALSE,FALSE
+2004-06-16,Greece,Spain,Spain,Fernando Morientes,28,FALSE,FALSE
+2004-06-16,Greece,Spain,Greece,Angelos Charisteas,66,FALSE,FALSE
+2004-06-16,Portugal,Russia,Portugal,Maniche,7,FALSE,FALSE
+2004-06-16,Portugal,Russia,Portugal,Rui Costa,89,FALSE,FALSE
+2004-06-17,Croatia,France,France,Igor Tudor,22,TRUE,FALSE
+2004-06-17,Croatia,France,Croatia,Milan Rapaić,48,FALSE,TRUE
+2004-06-17,Croatia,France,Croatia,Dado Pršo,52,FALSE,FALSE
+2004-06-17,Croatia,France,France,David Trezeguet,64,FALSE,FALSE
+2004-06-17,England,Switzerland,England,Wayne Rooney,23,FALSE,FALSE
+2004-06-17,England,Switzerland,England,Wayne Rooney,75,FALSE,FALSE
+2004-06-17,England,Switzerland,England,Steven Gerrard,82,FALSE,FALSE
+2004-06-18,Bulgaria,Denmark,Denmark,Jon Dahl Tomasson,44,FALSE,FALSE
+2004-06-18,Bulgaria,Denmark,Denmark,Jesper Grønkjær,90,FALSE,FALSE
+2004-06-18,Italy,Sweden,Italy,Antonio Cassano,37,FALSE,FALSE
+2004-06-18,Italy,Sweden,Sweden,Zlatan Ibrahimović,85,FALSE,FALSE
+2004-06-19,Netherlands,Czech Republic,Netherlands,Wilfred Bouma,4,FALSE,FALSE
+2004-06-19,Netherlands,Czech Republic,Netherlands,Ruud van Nistelrooy,19,FALSE,FALSE
+2004-06-19,Netherlands,Czech Republic,Czech Republic,Jan Koller,23,FALSE,FALSE
+2004-06-19,Netherlands,Czech Republic,Czech Republic,Milan Baroš,71,FALSE,FALSE
+2004-06-19,Netherlands,Czech Republic,Czech Republic,Vladimír Šmicer,88,FALSE,FALSE
+2004-06-20,Portugal,Spain,Portugal,Nuno Gomes,57,FALSE,FALSE
+2004-06-20,Russia,Greece,Russia,Dmitri Kirichenko,2,FALSE,FALSE
+2004-06-20,Russia,Greece,Russia,Dmitri Bulykin,17,FALSE,FALSE
+2004-06-20,Russia,Greece,Greece,Zisis Vryzas,43,FALSE,FALSE
+2004-06-21,Croatia,England,Croatia,Niko Kovač,5,FALSE,FALSE
+2004-06-21,Croatia,England,England,Paul Scholes,40,FALSE,FALSE
+2004-06-21,Croatia,England,England,Wayne Rooney,45,FALSE,FALSE
+2004-06-21,Croatia,England,England,Wayne Rooney,68,FALSE,FALSE
+2004-06-21,Croatia,England,Croatia,Igor Tudor,73,FALSE,FALSE
+2004-06-21,Croatia,England,England,Frank Lampard,79,FALSE,FALSE
+2004-06-21,Switzerland,France,France,Zinedine Zidane,20,FALSE,FALSE
+2004-06-21,Switzerland,France,Switzerland,Johan Vonlanthen,26,FALSE,FALSE
+2004-06-21,Switzerland,France,France,Thierry Henry,76,FALSE,FALSE
+2004-06-21,Switzerland,France,France,Thierry Henry,84,FALSE,FALSE
+2004-06-22,Denmark,Sweden,Denmark,Jon Dahl Tomasson,28,FALSE,FALSE
+2004-06-22,Denmark,Sweden,Sweden,Henrik Larsson,47,FALSE,TRUE
+2004-06-22,Denmark,Sweden,Denmark,Jon Dahl Tomasson,66,FALSE,FALSE
+2004-06-22,Denmark,Sweden,Sweden,Mattias Jonson,89,FALSE,FALSE
+2004-06-22,Italy,Bulgaria,Bulgaria,Martin Petrov,45,FALSE,TRUE
+2004-06-22,Italy,Bulgaria,Italy,Simone Perrotta,48,FALSE,FALSE
+2004-06-22,Italy,Bulgaria,Italy,Antonio Cassano,90,FALSE,FALSE
+2004-06-23,Germany,Czech Republic,Germany,Michael Ballack,21,FALSE,FALSE
+2004-06-23,Germany,Czech Republic,Czech Republic,Marek Heinz,30,FALSE,FALSE
+2004-06-23,Germany,Czech Republic,Czech Republic,Milan Baroš,77,FALSE,FALSE
+2004-06-23,Netherlands,Latvia,Netherlands,Ruud van Nistelrooy,27,FALSE,TRUE
+2004-06-23,Netherlands,Latvia,Netherlands,Ruud van Nistelrooy,35,FALSE,FALSE
+2004-06-23,Netherlands,Latvia,Netherlands,Roy Makaay,84,FALSE,FALSE
+2004-06-24,Portugal,England,England,Michael Owen,3,FALSE,FALSE
+2004-06-24,Portugal,England,Portugal,Hélder Postiga,83,FALSE,FALSE
+2004-06-24,Portugal,England,Portugal,Rui Costa,110,FALSE,FALSE
+2004-06-24,Portugal,England,England,Frank Lampard,115,FALSE,FALSE
+2004-06-25,France,Greece,Greece,Angelos Charisteas,65,FALSE,FALSE
+2004-06-27,Czech Republic,Denmark,Czech Republic,Jan Koller,49,FALSE,FALSE
+2004-06-27,Czech Republic,Denmark,Czech Republic,Milan Baroš,63,FALSE,FALSE
+2004-06-27,Czech Republic,Denmark,Czech Republic,Milan Baroš,65,FALSE,FALSE
+2004-06-30,Portugal,Netherlands,Portugal,Cristiano Ronaldo,26,FALSE,FALSE
+2004-06-30,Portugal,Netherlands,Portugal,Maniche,58,FALSE,FALSE
+2004-06-30,Portugal,Netherlands,Netherlands,Jorge Andrade,63,TRUE,FALSE
+2004-07-04,Portugal,Greece,Greece,Angelos Charisteas,57,FALSE,FALSE
 2006-06-09,Germany,Costa Rica,Germany,Philipp Lahm,6,FALSE,FALSE
 2006-06-09,Germany,Costa Rica,Costa Rica,Paulo Wanchope,12,FALSE,FALSE
 2006-06-09,Germany,Costa Rica,Germany,Miroslav Klose,17,FALSE,FALSE
@@ -2058,6 +2480,83 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2006-07-08,Germany,Portugal,Portugal,Nuno Gomes,88,FALSE,FALSE
 2006-07-09,Italy,France,France,Zinedine Zidane,7,FALSE,TRUE
 2006-07-09,Italy,France,Italy,Marco Materazzi,19,FALSE,FALSE
+2008-06-07,Portugal,Turkey,Portugal,Pepe,61,FALSE,FALSE
+2008-06-07,Portugal,Turkey,Portugal,Raul Meireles,90,FALSE,FALSE
+2008-06-07,Switzerland,Czech Republic,Czech Republic,Václav Svěrkoš,71,FALSE,FALSE
+2008-06-08,Austria,Croatia,Croatia,Luka Modrić,4,FALSE,TRUE
+2008-06-08,Germany,Poland,Germany,Lukas Podolski,20,FALSE,FALSE
+2008-06-08,Germany,Poland,Germany,Lukas Podolski,72,FALSE,FALSE
+2008-06-09,Netherlands,Italy,Netherlands,Ruud van Nistelrooy,26,FALSE,FALSE
+2008-06-09,Netherlands,Italy,Netherlands,Wesley Sneijder,31,FALSE,FALSE
+2008-06-09,Netherlands,Italy,Netherlands,Giovanni van Bronckhorst,79,FALSE,FALSE
+2008-06-10,Greece,Sweden,Sweden,Zlatan Ibrahimović,67,FALSE,FALSE
+2008-06-10,Greece,Sweden,Sweden,Petter Hansson,72,FALSE,FALSE
+2008-06-10,Spain,Russia,Spain,David Villa,20,FALSE,FALSE
+2008-06-10,Spain,Russia,Spain,David Villa,44,FALSE,FALSE
+2008-06-10,Spain,Russia,Spain,David Villa,75,FALSE,FALSE
+2008-06-10,Spain,Russia,Russia,Roman Pavlyuchenko,86,FALSE,FALSE
+2008-06-10,Spain,Russia,Spain,Cesc Fàbregas,90,FALSE,FALSE
+2008-06-11,Czech Republic,Portugal,Portugal,Deco,8,FALSE,FALSE
+2008-06-11,Czech Republic,Portugal,Czech Republic,Libor Sionko,17,FALSE,FALSE
+2008-06-11,Czech Republic,Portugal,Portugal,Cristiano Ronaldo,63,FALSE,FALSE
+2008-06-11,Czech Republic,Portugal,Portugal,Ricardo Quaresma,90,FALSE,FALSE
+2008-06-11,Switzerland,Turkey,Switzerland,Hakan Yakin,32,FALSE,FALSE
+2008-06-11,Switzerland,Turkey,Turkey,Semih Şentürk,57,FALSE,FALSE
+2008-06-11,Switzerland,Turkey,Turkey,Arda Turan,90,FALSE,FALSE
+2008-06-12,Austria,Poland,Poland,Roger Guerreiro,30,FALSE,FALSE
+2008-06-12,Austria,Poland,Austria,Ivica Vastić,90,FALSE,TRUE
+2008-06-12,Croatia,Germany,Croatia,Darijo Srna,24,FALSE,FALSE
+2008-06-12,Croatia,Germany,Croatia,Ivica Olić,62,FALSE,FALSE
+2008-06-12,Croatia,Germany,Germany,Lukas Podolski,79,FALSE,FALSE
+2008-06-13,Italy,Romania,Romania,Adrian Mutu,55,FALSE,FALSE
+2008-06-13,Italy,Romania,Italy,Christian Panucci,56,FALSE,FALSE
+2008-06-13,Netherlands,France,Netherlands,Dirk Kuyt,9,FALSE,FALSE
+2008-06-13,Netherlands,France,Netherlands,Robin van Persie,59,FALSE,FALSE
+2008-06-13,Netherlands,France,France,Thierry Henry,71,FALSE,FALSE
+2008-06-13,Netherlands,France,Netherlands,Arjen Robben,72,FALSE,FALSE
+2008-06-13,Netherlands,France,Netherlands,Wesley Sneijder,90,FALSE,FALSE
+2008-06-14,Greece,Russia,Russia,Konstantin Zyryanov,33,FALSE,FALSE
+2008-06-14,Sweden,Spain,Spain,Fernando Torres,15,FALSE,FALSE
+2008-06-14,Sweden,Spain,Sweden,Zlatan Ibrahimović,34,FALSE,FALSE
+2008-06-14,Sweden,Spain,Spain,David Villa,90,FALSE,FALSE
+2008-06-15,Switzerland,Portugal,Switzerland,Hakan Yakin,71,FALSE,FALSE
+2008-06-15,Switzerland,Portugal,Switzerland,Hakan Yakin,83,FALSE,TRUE
+2008-06-15,Turkey,Czech Republic,Czech Republic,Jan Koller,34,FALSE,FALSE
+2008-06-15,Turkey,Czech Republic,Czech Republic,Jaroslav Plašil,62,FALSE,FALSE
+2008-06-15,Turkey,Czech Republic,Turkey,Arda Turan,75,FALSE,FALSE
+2008-06-15,Turkey,Czech Republic,Turkey,Nihat Kahveci,87,FALSE,FALSE
+2008-06-15,Turkey,Czech Republic,Turkey,Nihat Kahveci,89,FALSE,FALSE
+2008-06-16,Austria,Germany,Germany,Michael Ballack,49,FALSE,FALSE
+2008-06-16,Poland,Croatia,Croatia,Ivan Klasnić,53,FALSE,FALSE
+2008-06-17,France,Italy,Italy,Andrea Pirlo,25,FALSE,TRUE
+2008-06-17,France,Italy,Italy,Daniele De Rossi,62,FALSE,FALSE
+2008-06-17,Netherlands,Romania,Netherlands,Klaas-Jan Huntelaar,54,FALSE,FALSE
+2008-06-17,Netherlands,Romania,Netherlands,Robin van Persie,87,FALSE,FALSE
+2008-06-18,Greece,Spain,Greece,Angelos Charisteas,42,FALSE,FALSE
+2008-06-18,Greece,Spain,Spain,Rubén de la Red,61,FALSE,FALSE
+2008-06-18,Greece,Spain,Spain,Dani Güiza,88,FALSE,FALSE
+2008-06-18,Russia,Sweden,Russia,Roman Pavlyuchenko,24,FALSE,FALSE
+2008-06-18,Russia,Sweden,Russia,Andrey Arshavin,50,FALSE,FALSE
+2008-06-19,Portugal,Germany,Germany,Bastian Schweinsteiger,22,FALSE,FALSE
+2008-06-19,Portugal,Germany,Germany,Miroslav Klose,26,FALSE,FALSE
+2008-06-19,Portugal,Germany,Portugal,Nuno Gomes,40,FALSE,FALSE
+2008-06-19,Portugal,Germany,Germany,Michael Ballack,61,FALSE,FALSE
+2008-06-19,Portugal,Germany,Portugal,Hélder Postiga,87,FALSE,FALSE
+2008-06-20,Croatia,Turkey,Croatia,Ivan Klasnić,119,FALSE,FALSE
+2008-06-20,Croatia,Turkey,Turkey,Semih Şentürk,120,FALSE,FALSE
+2008-06-21,Netherlands,Russia,Russia,Roman Pavlyuchenko,56,FALSE,FALSE
+2008-06-21,Netherlands,Russia,Netherlands,Ruud van Nistelrooy,86,FALSE,FALSE
+2008-06-21,Netherlands,Russia,Russia,Dmitri Torbinski,112,FALSE,FALSE
+2008-06-21,Netherlands,Russia,Russia,Andrey Arshavin,116,FALSE,FALSE
+2008-06-25,Germany,Turkey,Turkey,Uğur Boral,22,FALSE,FALSE
+2008-06-25,Germany,Turkey,Germany,Bastian Schweinsteiger,26,FALSE,FALSE
+2008-06-25,Germany,Turkey,Germany,Miroslav Klose,79,FALSE,FALSE
+2008-06-25,Germany,Turkey,Turkey,Semih Şentürk,86,FALSE,FALSE
+2008-06-25,Germany,Turkey,Germany,Philipp Lahm,90,FALSE,FALSE
+2008-06-26,Russia,Spain,Spain,Xavi,50,FALSE,FALSE
+2008-06-26,Russia,Spain,Spain,Dani Güiza,73,FALSE,FALSE
+2008-06-26,Russia,Spain,Spain,David Silva,82,FALSE,FALSE
+2008-06-29,Germany,Spain,Spain,Fernando Torres,33,FALSE,FALSE
 2010-06-11,South Africa,Mexico,South Africa,Siphiwe Tshabalala,55,FALSE,FALSE
 2010-06-11,South Africa,Mexico,Mexico,Rafael Márquez,79,FALSE,FALSE
 2010-06-12,Argentina,Nigeria,Argentina,Gabriel Heinze,6,FALSE,FALSE
@@ -2203,6 +2702,82 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2010-07-10,Uruguay,Germany,Germany,Marcell Jansen,56,FALSE,FALSE
 2010-07-10,Uruguay,Germany,Germany,Sami Khedira,82,FALSE,FALSE
 2010-07-11,Netherlands,Spain,Spain,Andrés Iniesta,116,FALSE,FALSE
+2012-06-08,Poland,Greece,Poland,Robert Lewandowski,17,FALSE,FALSE
+2012-06-08,Poland,Greece,Greece,Dimitris Salpingidis,51,FALSE,FALSE
+2012-06-08,Russia,Czech Republic,Russia,Alan Dzagoev,15,FALSE,FALSE
+2012-06-08,Russia,Czech Republic,Russia,Roman Shirokov,24,FALSE,FALSE
+2012-06-08,Russia,Czech Republic,Czech Republic,Václav Pilař,52,FALSE,FALSE
+2012-06-08,Russia,Czech Republic,Russia,Alan Dzagoev,79,FALSE,FALSE
+2012-06-08,Russia,Czech Republic,Russia,Roman Pavlyuchenko,82,FALSE,FALSE
+2012-06-09,Germany,Portugal,Germany,Mario Gómez,72,FALSE,FALSE
+2012-06-09,Netherlands,Denmark,Denmark,Michael Krohn-Dehli,24,FALSE,FALSE
+2012-06-10,Republic of Ireland,Croatia,Croatia,Mario Mandžukić,3,FALSE,FALSE
+2012-06-10,Republic of Ireland,Croatia,Republic of Ireland,Sean St Ledger,19,FALSE,FALSE
+2012-06-10,Republic of Ireland,Croatia,Croatia,Nikica Jelavić,43,FALSE,FALSE
+2012-06-10,Republic of Ireland,Croatia,Croatia,Mario Mandžukić,49,FALSE,FALSE
+2012-06-10,Spain,Italy,Italy,Antonio Di Natale,61,FALSE,FALSE
+2012-06-10,Spain,Italy,Spain,Cesc Fàbregas,64,FALSE,FALSE
+2012-06-11,France,England,England,Joleon Lescott,30,FALSE,FALSE
+2012-06-11,France,England,France,Samir Nasri,39,FALSE,FALSE
+2012-06-11,Ukraine,Sweden,Sweden,Zlatan Ibrahimović,52,FALSE,FALSE
+2012-06-11,Ukraine,Sweden,Ukraine,Andriy Shevchenko,55,FALSE,FALSE
+2012-06-11,Ukraine,Sweden,Ukraine,Andriy Shevchenko,62,FALSE,FALSE
+2012-06-12,Greece,Czech Republic,Czech Republic,Petr Jiráček,3,FALSE,FALSE
+2012-06-12,Greece,Czech Republic,Czech Republic,Václav Pilař,6,FALSE,FALSE
+2012-06-12,Greece,Czech Republic,Greece,Theofanis Gekas,53,FALSE,FALSE
+2012-06-12,Poland,Russia,Russia,Alan Dzagoev,37,FALSE,FALSE
+2012-06-12,Poland,Russia,Poland,Jakub Błaszczykowski,57,FALSE,FALSE
+2012-06-13,Denmark,Portugal,Portugal,Pepe,24,FALSE,FALSE
+2012-06-13,Denmark,Portugal,Portugal,Hélder Postiga,36,FALSE,FALSE
+2012-06-13,Denmark,Portugal,Denmark,Nicklas Bendtner,41,FALSE,FALSE
+2012-06-13,Denmark,Portugal,Denmark,Nicklas Bendtner,80,FALSE,FALSE
+2012-06-13,Denmark,Portugal,Portugal,Silvestre Varela,87,FALSE,FALSE
+2012-06-13,Netherlands,Germany,Germany,Mario Gómez,24,FALSE,FALSE
+2012-06-13,Netherlands,Germany,Germany,Mario Gómez,38,FALSE,FALSE
+2012-06-13,Netherlands,Germany,Netherlands,Robin van Persie,73,FALSE,FALSE
+2012-06-14,Italy,Croatia,Italy,Andrea Pirlo,39,FALSE,FALSE
+2012-06-14,Italy,Croatia,Croatia,Mario Mandžukić,72,FALSE,FALSE
+2012-06-14,Spain,Republic of Ireland,Spain,Fernando Torres,4,FALSE,FALSE
+2012-06-14,Spain,Republic of Ireland,Spain,David Silva,49,FALSE,FALSE
+2012-06-14,Spain,Republic of Ireland,Spain,Fernando Torres,70,FALSE,FALSE
+2012-06-14,Spain,Republic of Ireland,Spain,Cesc Fàbregas,83,FALSE,FALSE
+2012-06-15,Sweden,England,England,Andy Carroll,23,FALSE,FALSE
+2012-06-15,Sweden,England,Sweden,Glen Johnson,49,TRUE,FALSE
+2012-06-15,Sweden,England,Sweden,Olof Mellberg,59,FALSE,FALSE
+2012-06-15,Sweden,England,England,Theo Walcott,64,FALSE,FALSE
+2012-06-15,Sweden,England,England,Danny Welbeck,78,FALSE,FALSE
+2012-06-15,Ukraine,France,France,Jérémy Ménez,53,FALSE,FALSE
+2012-06-15,Ukraine,France,France,Yohan Cabaye,56,FALSE,FALSE
+2012-06-16,Greece,Russia,Greece,Giorgos Karagounis,45,FALSE,FALSE
+2012-06-16,Poland,Czech Republic,Czech Republic,Petr Jiráček,72,FALSE,FALSE
+2012-06-17,Denmark,Germany,Germany,Lukas Podolski,19,FALSE,FALSE
+2012-06-17,Denmark,Germany,Denmark,Michael Krohn-Dehli,24,FALSE,FALSE
+2012-06-17,Denmark,Germany,Germany,Lars Bender,80,FALSE,FALSE
+2012-06-17,Portugal,Netherlands,Netherlands,Rafael van der Vaart,11,FALSE,FALSE
+2012-06-17,Portugal,Netherlands,Portugal,Cristiano Ronaldo,28,FALSE,FALSE
+2012-06-17,Portugal,Netherlands,Portugal,Cristiano Ronaldo,74,FALSE,FALSE
+2012-06-18,Croatia,Spain,Spain,Jesús Navas,88,FALSE,FALSE
+2012-06-18,Italy,Republic of Ireland,Italy,Antonio Cassano,35,FALSE,FALSE
+2012-06-18,Italy,Republic of Ireland,Italy,Mario Balotelli,90,FALSE,FALSE
+2012-06-19,Sweden,France,Sweden,Zlatan Ibrahimović,54,FALSE,FALSE
+2012-06-19,Sweden,France,Sweden,Seb Larsson,90,FALSE,FALSE
+2012-06-19,Ukraine,England,England,Wayne Rooney,48,FALSE,FALSE
+2012-06-21,Czech Republic,Portugal,Portugal,Cristiano Ronaldo,79,FALSE,FALSE
+2012-06-22,Germany,Greece,Germany,Philipp Lahm,39,FALSE,FALSE
+2012-06-22,Germany,Greece,Greece,Georgios Samaras,55,FALSE,FALSE
+2012-06-22,Germany,Greece,Germany,Sami Khedira,61,FALSE,FALSE
+2012-06-22,Germany,Greece,Germany,Miroslav Klose,68,FALSE,FALSE
+2012-06-22,Germany,Greece,Germany,Marco Reus,74,FALSE,FALSE
+2012-06-22,Germany,Greece,Greece,Dimitris Salpingidis,89,FALSE,TRUE
+2012-06-23,Spain,France,Spain,Xabi Alonso,19,FALSE,FALSE
+2012-06-23,Spain,France,Spain,Xabi Alonso,90,FALSE,TRUE
+2012-06-28,Germany,Italy,Italy,Mario Balotelli,20,FALSE,FALSE
+2012-06-28,Germany,Italy,Italy,Mario Balotelli,36,FALSE,FALSE
+2012-06-28,Germany,Italy,Germany,Mesut Özil,90,FALSE,TRUE
+2012-07-01,Spain,Italy,Spain,David Silva,14,FALSE,FALSE
+2012-07-01,Spain,Italy,Spain,Jordi Alba,41,FALSE,FALSE
+2012-07-01,Spain,Italy,Spain,Fernando Torres,84,FALSE,FALSE
+2012-07-01,Spain,Italy,Spain,Juan Mata,88,FALSE,FALSE
 2014-06-12,Brazil,Croatia,Croatia,Marcelo,12,TRUE,FALSE
 2014-06-12,Brazil,Croatia,Croatia,Marcelo,12,TRUE,FALSE
 2014-06-12,Brazil,Croatia,Brazil,Neymar,29,FALSE,FALSE
@@ -2510,6 +3085,114 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2014-07-12,Brazil,Netherlands,Netherlands,Daley Blind,17,FALSE,FALSE
 2014-07-12,Brazil,Netherlands,Netherlands,Georginio Wijnaldum,90,FALSE,FALSE
 2014-07-13,Germany,Argentina,Germany,Mario Götze,113,FALSE,FALSE
+2016-06-10,France,Romania,France,Olivier Giroud,57,FALSE,FALSE
+2016-06-10,France,Romania,Romania,Bogdan Stancu,65,FALSE,TRUE
+2016-06-10,France,Romania,France,Dimitri Payet,89,FALSE,FALSE
+2016-06-11,Albania,Switzerland,Switzerland,Fabian Schär,5,FALSE,FALSE
+2016-06-11,England,Russia,England,Eric Dier,73,FALSE,FALSE
+2016-06-11,England,Russia,Russia,Vasili Berezutski,90,FALSE,FALSE
+2016-06-11,Wales,Slovakia,Wales,Gareth Bale,10,FALSE,FALSE
+2016-06-11,Wales,Slovakia,Slovakia,Ondrej Duda,61,FALSE,FALSE
+2016-06-11,Wales,Slovakia,Wales,Hal Robson-Kanu,81,FALSE,FALSE
+2016-06-12,Germany,Ukraine,Germany,Shkodran Mustafi,19,FALSE,FALSE
+2016-06-12,Germany,Ukraine,Germany,Bastian Schweinsteiger,90,FALSE,FALSE
+2016-06-12,Poland,Northern Ireland,Poland,Arkadiusz Milik,51,FALSE,FALSE
+2016-06-12,Turkey,Croatia,Croatia,Luka Modrić,41,FALSE,FALSE
+2016-06-13,Belgium,Italy,Italy,Emanuele Giaccherini,32,FALSE,FALSE
+2016-06-13,Belgium,Italy,Italy,Graziano Pellè,90,FALSE,FALSE
+2016-06-13,Republic of Ireland,Sweden,Republic of Ireland,Wes Hoolahan,48,FALSE,FALSE
+2016-06-13,Republic of Ireland,Sweden,Sweden,Ciaran Clark,71,TRUE,FALSE
+2016-06-13,Spain,Czech Republic,Spain,Gerard Piqué,87,FALSE,FALSE
+2016-06-14,Austria,Hungary,Hungary,Ádám Szalai,62,FALSE,FALSE
+2016-06-14,Austria,Hungary,Hungary,Zoltán Stieber,87,FALSE,FALSE
+2016-06-14,Portugal,Iceland,Portugal,Nani,31,FALSE,FALSE
+2016-06-14,Portugal,Iceland,Iceland,Birkir Bjarnason,50,FALSE,FALSE
+2016-06-15,France,Albania,France,Antoine Griezmann,90,FALSE,FALSE
+2016-06-15,France,Albania,France,Dimitri Payet,90,FALSE,FALSE
+2016-06-15,Romania,Switzerland,Romania,Bogdan Stancu,18,FALSE,TRUE
+2016-06-15,Romania,Switzerland,Switzerland,Admir Mehmedi,57,FALSE,FALSE
+2016-06-15,Russia,Slovakia,Slovakia,Vladimír Weiss,32,FALSE,FALSE
+2016-06-15,Russia,Slovakia,Slovakia,Marek Hamšík,45,FALSE,FALSE
+2016-06-15,Russia,Slovakia,Russia,Denis Glushakov,80,FALSE,FALSE
+2016-06-16,England,Wales,Wales,Gareth Bale,42,FALSE,FALSE
+2016-06-16,England,Wales,England,Jamie Vardy,56,FALSE,FALSE
+2016-06-16,England,Wales,England,Daniel Sturridge,90,FALSE,FALSE
+2016-06-16,Ukraine,Northern Ireland,Northern Ireland,Gareth McAuley,49,FALSE,FALSE
+2016-06-16,Ukraine,Northern Ireland,Northern Ireland,Niall McGinn,90,FALSE,FALSE
+2016-06-17,Czech Republic,Croatia,Croatia,Ivan Perišić,37,FALSE,FALSE
+2016-06-17,Czech Republic,Croatia,Croatia,Ivan Rakitić,59,FALSE,FALSE
+2016-06-17,Czech Republic,Croatia,Czech Republic,Milan Škoda,76,FALSE,FALSE
+2016-06-17,Czech Republic,Croatia,Czech Republic,Tomáš Necid,89,FALSE,TRUE
+2016-06-17,Italy,Sweden,Italy,Éder,88,FALSE,FALSE
+2016-06-17,Spain,Turkey,Spain,Álvaro Morata,34,FALSE,FALSE
+2016-06-17,Spain,Turkey,Spain,Nolito,37,FALSE,FALSE
+2016-06-17,Spain,Turkey,Spain,Álvaro Morata,48,FALSE,FALSE
+2016-06-18,Belgium,Republic of Ireland,Belgium,Romelu Lukaku,48,FALSE,FALSE
+2016-06-18,Belgium,Republic of Ireland,Belgium,Axel Witsel,61,FALSE,FALSE
+2016-06-18,Belgium,Republic of Ireland,Belgium,Romelu Lukaku,70,FALSE,FALSE
+2016-06-18,Iceland,Hungary,Iceland,Gylfi Sigurðsson,40,FALSE,TRUE
+2016-06-18,Iceland,Hungary,Hungary,Birkir Már Sævarsson,88,TRUE,FALSE
+2016-06-19,Romania,Albania,Albania,Armando Sadiku,43,FALSE,FALSE
+2016-06-20,Russia,Wales,Wales,Aaron Ramsey,11,FALSE,FALSE
+2016-06-20,Russia,Wales,Wales,Neil Taylor,20,FALSE,FALSE
+2016-06-20,Russia,Wales,Wales,Gareth Bale,67,FALSE,FALSE
+2016-06-21,Croatia,Spain,Spain,Álvaro Morata,7,FALSE,FALSE
+2016-06-21,Croatia,Spain,Croatia,Nikola Kalinić,45,FALSE,FALSE
+2016-06-21,Croatia,Spain,Croatia,Ivan Perišić,87,FALSE,FALSE
+2016-06-21,Czech Republic,Turkey,Turkey,Burak Yılmaz,10,FALSE,FALSE
+2016-06-21,Czech Republic,Turkey,Turkey,Ozan Tufan,65,FALSE,FALSE
+2016-06-21,Northern Ireland,Germany,Germany,Mario Gómez,30,FALSE,FALSE
+2016-06-21,Ukraine,Poland,Poland,Jakub Błaszczykowski,54,FALSE,FALSE
+2016-06-22,Hungary,Portugal,Hungary,Zoltán Gera,19,FALSE,FALSE
+2016-06-22,Hungary,Portugal,Portugal,Nani,42,FALSE,FALSE
+2016-06-22,Hungary,Portugal,Hungary,Balázs Dzsudzsák,47,FALSE,FALSE
+2016-06-22,Hungary,Portugal,Portugal,Cristiano Ronaldo,50,FALSE,FALSE
+2016-06-22,Hungary,Portugal,Hungary,Balázs Dzsudzsák,55,FALSE,FALSE
+2016-06-22,Hungary,Portugal,Portugal,Cristiano Ronaldo,62,FALSE,FALSE
+2016-06-22,Iceland,Austria,Iceland,Jón Daði Böðvarsson,18,FALSE,FALSE
+2016-06-22,Iceland,Austria,Austria,Alessandro Schöpf,60,FALSE,FALSE
+2016-06-22,Iceland,Austria,Iceland,Arnór Ingvi Traustason,90,FALSE,FALSE
+2016-06-22,Italy,Republic of Ireland,Republic of Ireland,Robbie Brady,85,FALSE,FALSE
+2016-06-22,Sweden,Belgium,Belgium,Radja Nainggolan,84,FALSE,FALSE
+2016-06-25,Croatia,Portugal,Portugal,Ricardo Quaresma,117,FALSE,FALSE
+2016-06-25,Switzerland,Poland,Poland,Jakub Błaszczykowski,39,FALSE,FALSE
+2016-06-25,Switzerland,Poland,Switzerland,Xherdan Shaqiri,82,FALSE,FALSE
+2016-06-25,Wales,Northern Ireland,Wales,Gareth McAuley,75,TRUE,FALSE
+2016-06-26,France,Republic of Ireland,Republic of Ireland,Robbie Brady,2,FALSE,TRUE
+2016-06-26,France,Republic of Ireland,France,Antoine Griezmann,58,FALSE,FALSE
+2016-06-26,France,Republic of Ireland,France,Antoine Griezmann,61,FALSE,FALSE
+2016-06-26,Germany,Slovakia,Germany,Jérôme Boateng,8,FALSE,FALSE
+2016-06-26,Germany,Slovakia,Germany,Mario Gómez,43,FALSE,FALSE
+2016-06-26,Germany,Slovakia,Germany,Julian Draxler,63,FALSE,FALSE
+2016-06-26,Hungary,Belgium,Belgium,Toby Alderweireld,10,FALSE,FALSE
+2016-06-26,Hungary,Belgium,Belgium,Michy Batshuayi,78,FALSE,FALSE
+2016-06-26,Hungary,Belgium,Belgium,Eden Hazard,80,FALSE,FALSE
+2016-06-26,Hungary,Belgium,Belgium,Yannick Carrasco,90,FALSE,FALSE
+2016-06-27,England,Iceland,England,Wayne Rooney,4,FALSE,TRUE
+2016-06-27,England,Iceland,Iceland,Ragnar Sigurðsson,6,FALSE,FALSE
+2016-06-27,England,Iceland,Iceland,Kolbeinn Sigþórsson,18,FALSE,FALSE
+2016-06-27,Italy,Spain,Italy,Giorgio Chiellini,33,FALSE,FALSE
+2016-06-27,Italy,Spain,Italy,Graziano Pellè,90,FALSE,FALSE
+2016-06-30,Poland,Portugal,Poland,Robert Lewandowski,2,FALSE,FALSE
+2016-06-30,Poland,Portugal,Portugal,Renato Sanches,33,FALSE,FALSE
+2016-07-01,Wales,Belgium,Belgium,Radja Nainggolan,13,FALSE,FALSE
+2016-07-01,Wales,Belgium,Wales,Ashley Williams,31,FALSE,FALSE
+2016-07-01,Wales,Belgium,Wales,Hal Robson-Kanu,55,FALSE,FALSE
+2016-07-01,Wales,Belgium,Wales,Sam Vokes,86,FALSE,FALSE
+2016-07-02,Germany,Italy,Germany,Mesut Özil,65,FALSE,FALSE
+2016-07-02,Germany,Italy,Italy,Leonardo Bonucci,78,FALSE,TRUE
+2016-07-03,France,Iceland,France,Olivier Giroud,12,FALSE,FALSE
+2016-07-03,France,Iceland,France,Paul Pogba,20,FALSE,FALSE
+2016-07-03,France,Iceland,France,Dimitri Payet,43,FALSE,FALSE
+2016-07-03,France,Iceland,France,Antoine Griezmann,45,FALSE,FALSE
+2016-07-03,France,Iceland,Iceland,Kolbeinn Sigþórsson,56,FALSE,FALSE
+2016-07-03,France,Iceland,France,Olivier Giroud,59,FALSE,FALSE
+2016-07-03,France,Iceland,Iceland,Birkir Bjarnason,84,FALSE,FALSE
+2016-07-06,Portugal,Wales,Portugal,Cristiano Ronaldo,50,FALSE,FALSE
+2016-07-06,Portugal,Wales,Portugal,Nani,53,FALSE,FALSE
+2016-07-07,France,Germany,France,Antoine Griezmann,45,FALSE,TRUE
+2016-07-07,France,Germany,France,Antoine Griezmann,72,FALSE,FALSE
+2016-07-10,France,Portugal,Portugal,Eder,109,FALSE,FALSE
 2018-06-14,Russia,Saudi Arabia,Russia,Yury Gazinsky,12,FALSE,FALSE
 2018-06-14,Russia,Saudi Arabia,Russia,Yury Gazinsky,12,FALSE,FALSE
 2018-06-14,Russia,Saudi Arabia,Russia,Denis Cheryshev,43,FALSE,FALSE
@@ -2801,3 +3484,145 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2018-07-15,France,Croatia,France,Paul Pogba,59,FALSE,FALSE
 2018-07-15,France,Croatia,France,Kylian Mbappé,65,FALSE,FALSE
 2018-07-15,France,Croatia,Croatia,Mario Mandžukić,69,FALSE,FALSE
+2021-06-11,Italy,Turkey,Italy,Merih Demiral,53,TRUE,FALSE
+2021-06-11,Italy,Turkey,Italy,Ciro Immobile,66,FALSE,FALSE
+2021-06-11,Italy,Turkey,Italy,Lorenzo Insigne,79,FALSE,FALSE
+2021-06-12,Denmark,Finland,Finland,Joel Pohjanpalo,60,FALSE,FALSE
+2021-06-12,Russia,Belgium,Belgium,Romelu Lukaku,10,FALSE,FALSE
+2021-06-12,Russia,Belgium,Belgium,Thomas Meunier,34,FALSE,FALSE
+2021-06-12,Russia,Belgium,Belgium,Romelu Lukaku,88,FALSE,FALSE
+2021-06-12,Wales,Switzerland,Switzerland,Breel Embolo,49,FALSE,FALSE
+2021-06-12,Wales,Switzerland,Wales,Kieffer Moore,74,FALSE,FALSE
+2021-06-13,Austria,North Macedonia,Austria,Stefan Lainer,18,FALSE,FALSE
+2021-06-13,Austria,North Macedonia,North Macedonia,Goran Pandev,28,FALSE,FALSE
+2021-06-13,Austria,North Macedonia,Austria,Michael Gregoritsch,78,FALSE,FALSE
+2021-06-13,Austria,North Macedonia,Austria,Marko Arnautović,89,FALSE,FALSE
+2021-06-13,England,Croatia,England,Raheem Sterling,57,FALSE,FALSE
+2021-06-13,Netherlands,Ukraine,Netherlands,Georginio Wijnaldum,52,FALSE,FALSE
+2021-06-13,Netherlands,Ukraine,Netherlands,Wout Weghorst,58,FALSE,FALSE
+2021-06-13,Netherlands,Ukraine,Ukraine,Andriy Yarmolenko,75,FALSE,FALSE
+2021-06-13,Netherlands,Ukraine,Ukraine,Roman Yaremchuk,79,FALSE,FALSE
+2021-06-13,Netherlands,Ukraine,Netherlands,Denzel Dumfries,85,FALSE,FALSE
+2021-06-14,Poland,Slovakia,Slovakia,Wojciech Szczęsny,18,TRUE,FALSE
+2021-06-14,Poland,Slovakia,Poland,Karol Linetty,46,FALSE,FALSE
+2021-06-14,Poland,Slovakia,Slovakia,Milan Škriniar,69,FALSE,FALSE
+2021-06-14,Scotland,Czech Republic,Czech Republic,Patrik Schick,42,FALSE,FALSE
+2021-06-14,Scotland,Czech Republic,Czech Republic,Patrik Schick,52,FALSE,FALSE
+2021-06-15,Germany,France,France,Mats Hummels,20,TRUE,FALSE
+2021-06-15,Hungary,Portugal,Portugal,Raphaël Guerreiro,84,FALSE,FALSE
+2021-06-15,Hungary,Portugal,Portugal,Cristiano Ronaldo,87,FALSE,TRUE
+2021-06-15,Hungary,Portugal,Portugal,Cristiano Ronaldo,90,FALSE,FALSE
+2021-06-16,Italy,Switzerland,Italy,Manuel Locatelli,26,FALSE,FALSE
+2021-06-16,Italy,Switzerland,Italy,Manuel Locatelli,52,FALSE,FALSE
+2021-06-16,Italy,Switzerland,Italy,Ciro Immobile,89,FALSE,FALSE
+2021-06-16,Russia,Finland,Russia,Aleksei Miranchuk,45,FALSE,FALSE
+2021-06-16,Turkey,Wales,Wales,Aaron Ramsey,42,FALSE,FALSE
+2021-06-16,Turkey,Wales,Wales,Connor Roberts,90,FALSE,FALSE
+2021-06-17,Denmark,Belgium,Denmark,Yussuf Poulsen,2,FALSE,FALSE
+2021-06-17,Denmark,Belgium,Belgium,Thorgan Hazard,55,FALSE,FALSE
+2021-06-17,Denmark,Belgium,Belgium,Kevin De Bruyne,70,FALSE,FALSE
+2021-06-17,Netherlands,Austria,Netherlands,Memphis Depay,11,FALSE,TRUE
+2021-06-17,Netherlands,Austria,Netherlands,Denzel Dumfries,67,FALSE,FALSE
+2021-06-17,Ukraine,North Macedonia,Ukraine,Andriy Yarmolenko,29,FALSE,FALSE
+2021-06-17,Ukraine,North Macedonia,Ukraine,Roman Yaremchuk,34,FALSE,FALSE
+2021-06-17,Ukraine,North Macedonia,North Macedonia,Ezgjan Alioski,57,FALSE,FALSE
+2021-06-18,Croatia,Czech Republic,Czech Republic,Patrik Schick,37,FALSE,TRUE
+2021-06-18,Croatia,Czech Republic,Croatia,Ivan Perišić,47,FALSE,FALSE
+2021-06-18,Sweden,Slovakia,Sweden,Emil Forsberg,77,FALSE,TRUE
+2021-06-19,Germany,Portugal,Portugal,Cristiano Ronaldo,15,FALSE,FALSE
+2021-06-19,Germany,Portugal,Germany,Rúben Dias,35,TRUE,FALSE
+2021-06-19,Germany,Portugal,Germany,Raphaël Guerreiro,39,TRUE,FALSE
+2021-06-19,Germany,Portugal,Germany,Kai Havertz,51,FALSE,FALSE
+2021-06-19,Germany,Portugal,Germany,Robin Gosens,60,FALSE,FALSE
+2021-06-19,Germany,Portugal,Portugal,Diogo Jota,67,FALSE,FALSE
+2021-06-19,Hungary,France,Hungary,Attila Fiola,45,FALSE,FALSE
+2021-06-19,Hungary,France,France,Antoine Griezmann,66,FALSE,FALSE
+2021-06-19,Spain,Poland,Spain,Álvaro Morata,25,FALSE,FALSE
+2021-06-19,Spain,Poland,Poland,Robert Lewandowski,54,FALSE,FALSE
+2021-06-20,Italy,Wales,Italy,Matteo Pessina,39,FALSE,FALSE
+2021-06-20,Switzerland,Turkey,Switzerland,Haris Seferovic,6,FALSE,FALSE
+2021-06-20,Switzerland,Turkey,Switzerland,Xherdan Shaqiri,26,FALSE,FALSE
+2021-06-20,Switzerland,Turkey,Turkey,İrfan Kahveci,62,FALSE,FALSE
+2021-06-20,Switzerland,Turkey,Switzerland,Xherdan Shaqiri,68,FALSE,FALSE
+2021-06-21,Denmark,Russia,Denmark,Mikkel Damsgaard,38,FALSE,FALSE
+2021-06-21,Denmark,Russia,Denmark,Yussuf Poulsen,59,FALSE,FALSE
+2021-06-21,Denmark,Russia,Russia,Artem Dzyuba,70,FALSE,TRUE
+2021-06-21,Denmark,Russia,Denmark,Andreas Christensen,79,FALSE,FALSE
+2021-06-21,Denmark,Russia,Denmark,Joakim Mæhle,82,FALSE,FALSE
+2021-06-21,Finland,Belgium,Belgium,Lukáš Hrádecký,74,TRUE,FALSE
+2021-06-21,Finland,Belgium,Belgium,Romelu Lukaku,81,FALSE,FALSE
+2021-06-21,Netherlands,North Macedonia,Netherlands,Memphis Depay,24,FALSE,FALSE
+2021-06-21,Netherlands,North Macedonia,Netherlands,Georginio Wijnaldum,50,FALSE,FALSE
+2021-06-21,Netherlands,North Macedonia,Netherlands,Georginio Wijnaldum,58,FALSE,FALSE
+2021-06-21,Ukraine,Austria,Austria,Christoph Baumgartner,21,FALSE,FALSE
+2021-06-22,England,Czech Republic,England,Raheem Sterling,12,FALSE,FALSE
+2021-06-22,Scotland,Croatia,Croatia,Nikola Vlašić,17,FALSE,FALSE
+2021-06-22,Scotland,Croatia,Scotland,Callum McGregor,42,FALSE,FALSE
+2021-06-22,Scotland,Croatia,Croatia,Luka Modrić,62,FALSE,FALSE
+2021-06-22,Scotland,Croatia,Croatia,Ivan Perišić,77,FALSE,FALSE
+2021-06-23,Germany,Hungary,Hungary,Ádám Szalai,11,FALSE,FALSE
+2021-06-23,Germany,Hungary,Germany,Kai Havertz,66,FALSE,FALSE
+2021-06-23,Germany,Hungary,Hungary,András Schäfer,68,FALSE,FALSE
+2021-06-23,Germany,Hungary,Germany,Leon Goretzka,84,FALSE,FALSE
+2021-06-23,Portugal,France,Portugal,Cristiano Ronaldo,31,FALSE,TRUE
+2021-06-23,Portugal,France,France,Karim Benzema,45,FALSE,TRUE
+2021-06-23,Portugal,France,France,Karim Benzema,47,FALSE,FALSE
+2021-06-23,Portugal,France,Portugal,Cristiano Ronaldo,60,FALSE,TRUE
+2021-06-23,Spain,Slovakia,Spain,Martin Dúbravka,30,TRUE,FALSE
+2021-06-23,Spain,Slovakia,Spain,Aymeric Laporte,45,FALSE,FALSE
+2021-06-23,Spain,Slovakia,Spain,Pablo Sarabia,56,FALSE,FALSE
+2021-06-23,Spain,Slovakia,Spain,Ferran Torres,67,FALSE,FALSE
+2021-06-23,Spain,Slovakia,Spain,Juraj Kucka,71,TRUE,FALSE
+2021-06-23,Sweden,Poland,Sweden,Emil Forsberg,2,FALSE,FALSE
+2021-06-23,Sweden,Poland,Sweden,Emil Forsberg,59,FALSE,FALSE
+2021-06-23,Sweden,Poland,Poland,Robert Lewandowski,61,FALSE,FALSE
+2021-06-23,Sweden,Poland,Poland,Robert Lewandowski,84,FALSE,FALSE
+2021-06-23,Sweden,Poland,Sweden,Viktor Claesson,90,FALSE,FALSE
+2021-06-26,Italy,Austria,Italy,Federico Chiesa,95,FALSE,FALSE
+2021-06-26,Italy,Austria,Italy,Matteo Pessina,105,FALSE,FALSE
+2021-06-26,Italy,Austria,Austria,Saša Kalajdžić,114,FALSE,FALSE
+2021-06-26,Wales,Denmark,Denmark,Kasper Dolberg,27,FALSE,FALSE
+2021-06-26,Wales,Denmark,Denmark,Kasper Dolberg,48,FALSE,FALSE
+2021-06-26,Wales,Denmark,Denmark,Joakim Mæhle,88,FALSE,FALSE
+2021-06-26,Wales,Denmark,Denmark,Martin Braithwaite,90,FALSE,FALSE
+2021-06-27,Belgium,Portugal,Belgium,Thorgan Hazard,42,FALSE,FALSE
+2021-06-27,Netherlands,Czech Republic,Czech Republic,Tomáš Holeš,68,FALSE,FALSE
+2021-06-27,Netherlands,Czech Republic,Czech Republic,Patrik Schick,80,FALSE,FALSE
+2021-06-28,Croatia,Spain,Croatia,Pedri,20,TRUE,FALSE
+2021-06-28,Croatia,Spain,Spain,Pablo Sarabia,38,FALSE,FALSE
+2021-06-28,Croatia,Spain,Spain,César Azpilicueta,57,FALSE,FALSE
+2021-06-28,Croatia,Spain,Spain,Ferran Torres,77,FALSE,FALSE
+2021-06-28,Croatia,Spain,Croatia,Mislav Oršić,85,FALSE,FALSE
+2021-06-28,Croatia,Spain,Croatia,Mario Pašalić,90,FALSE,FALSE
+2021-06-28,Croatia,Spain,Spain,Álvaro Morata,100,FALSE,FALSE
+2021-06-28,Croatia,Spain,Spain,Mikel Oyarzabal,103,FALSE,FALSE
+2021-06-28,France,Switzerland,Switzerland,Haris Seferovic,15,FALSE,FALSE
+2021-06-28,France,Switzerland,France,Karim Benzema,57,FALSE,FALSE
+2021-06-28,France,Switzerland,France,Karim Benzema,59,FALSE,FALSE
+2021-06-28,France,Switzerland,France,Paul Pogba,75,FALSE,FALSE
+2021-06-28,France,Switzerland,Switzerland,Haris Seferovic,81,FALSE,FALSE
+2021-06-28,France,Switzerland,Switzerland,Mario Gavranović,90,FALSE,FALSE
+2021-06-29,England,Germany,England,Raheem Sterling,75,FALSE,FALSE
+2021-06-29,England,Germany,England,Harry Kane,86,FALSE,FALSE
+2021-06-29,Sweden,Ukraine,Ukraine,Oleksandr Zinchenko,27,FALSE,FALSE
+2021-06-29,Sweden,Ukraine,Sweden,Emil Forsberg,43,FALSE,FALSE
+2021-06-29,Sweden,Ukraine,Ukraine,Artem Dovbyk,120,FALSE,FALSE
+2021-07-02,Belgium,Italy,Italy,Nicolò Barella,31,FALSE,FALSE
+2021-07-02,Belgium,Italy,Italy,Lorenzo Insigne,44,FALSE,FALSE
+2021-07-02,Belgium,Italy,Belgium,Romelu Lukaku,45,FALSE,TRUE
+2021-07-02,Switzerland,Spain,Spain,Denis Zakaria,8,TRUE,FALSE
+2021-07-02,Switzerland,Spain,Switzerland,Xherdan Shaqiri,68,FALSE,FALSE
+2021-07-03,Czech Republic,Denmark,Denmark,Thomas Delaney,5,FALSE,FALSE
+2021-07-03,Czech Republic,Denmark,Denmark,Kasper Dolberg,42,FALSE,FALSE
+2021-07-03,Czech Republic,Denmark,Czech Republic,Patrik Schick,49,FALSE,FALSE
+2021-07-03,Ukraine,England,England,Harry Kane,4,FALSE,FALSE
+2021-07-03,Ukraine,England,England,Harry Maguire,46,FALSE,FALSE
+2021-07-03,Ukraine,England,England,Harry Kane,50,FALSE,FALSE
+2021-07-03,Ukraine,England,England,Jordan Henderson,63,FALSE,FALSE
+2021-07-06,Italy,Spain,Italy,Federico Chiesa,60,FALSE,FALSE
+2021-07-06,Italy,Spain,Spain,Álvaro Morata,80,FALSE,FALSE
+2021-07-07,England,Denmark,Denmark,Mikkel Damsgaard,30,FALSE,FALSE
+2021-07-07,England,Denmark,England,Simon Kjær,39,TRUE,FALSE
+2021-07-07,England,Denmark,England,Harry Kane,104,FALSE,FALSE
+2021-07-11,England,Italy,England,Luke Shaw,2,FALSE,FALSE
+2021-07-11,England,Italy,Italy,Leonardo Bonucci,67,FALSE,FALSE
