@@ -3966,12 +3966,62 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1990-07-07,Italy,England,England,David Platt,81,FALSE,FALSE
 1990-07-07,Italy,England,Italy,Salvatore Schillaci,86,FALSE,TRUE
 1990-07-08,Germany,Argentina,Germany,Andreas Brehme,85,FALSE,TRUE
+1991-06-28,Canada,Honduras,Honduras,Eduardo Bennett,28,FALSE,TRUE
+1991-06-28,Canada,Honduras,Honduras,Juan Carlos Espinoza,34,FALSE,FALSE
+1991-06-28,Canada,Honduras,Honduras,Luis Enrique Cálix,41,FALSE,FALSE
+1991-06-28,Canada,Honduras,Honduras,Eugenio Dolmo Flores,51,FALSE,FALSE
+1991-06-28,Canada,Honduras,Canada,Dale Mitchell,66,FALSE,FALSE
+1991-06-28,Canada,Honduras,Canada,Dale Mitchell,80,FALSE,FALSE
+1991-06-28,Mexico,Jamaica,Mexico,Benjamín Galindo,28,FALSE,FALSE
+1991-06-28,Mexico,Jamaica,Mexico,Luís Roberto Alves,36,FALSE,FALSE
+1991-06-28,Mexico,Jamaica,Jamaica,Roderick Reid,39,FALSE,FALSE
+1991-06-28,Mexico,Jamaica,Mexico,Benjamín Galindo,54,FALSE,TRUE
+1991-06-28,Mexico,Jamaica,Mexico,Carlos Hermosillo,58,FALSE,FALSE
+1991-06-29,Costa Rica,Guatemala,Costa Rica,Róger Gómez,14,FALSE,FALSE
+1991-06-29,Costa Rica,Guatemala,Costa Rica,Leonidas Flores,17,FALSE,FALSE
+1991-06-29,United States,Trinidad and Tobago,Trinidad and Tobago,Leonson Lewis,67,FALSE,FALSE
+1991-06-29,United States,Trinidad and Tobago,United States,Bruce Murray,85,FALSE,FALSE
+1991-06-29,United States,Trinidad and Tobago,United States,Marcelo Balboa,87,FALSE,FALSE
+1991-06-30,Canada,Mexico,Mexico,Carlos Hermosillo,3,FALSE,FALSE
+1991-06-30,Canada,Mexico,Mexico,José Manuel de la Torre,40,FALSE,FALSE
+1991-06-30,Canada,Mexico,Canada,Jamie Lowery,83,FALSE,FALSE
+1991-06-30,Canada,Mexico,Mexico,Benjamín Galindo,89,FALSE,TRUE
+1991-06-30,Jamaica,Honduras,Honduras,Luis Enrique Cálix,27,FALSE,FALSE
+1991-06-30,Jamaica,Honduras,Honduras,Marco Antonio Anariba,31,FALSE,FALSE
+1991-06-30,Jamaica,Honduras,Honduras,Luis Enrique Cálix,51,FALSE,FALSE
+1991-06-30,Jamaica,Honduras,Honduras,Eduardo Bennett,69,FALSE,FALSE
+1991-06-30,Jamaica,Honduras,Honduras,Gilberto Yearwood,89,FALSE,FALSE
+1991-07-01,Trinidad and Tobago,Costa Rica,Costa Rica,Hernán Medford,6,FALSE,FALSE
+1991-07-01,Trinidad and Tobago,Costa Rica,Trinidad and Tobago,Leonson Lewis,38,FALSE,FALSE
+1991-07-01,Trinidad and Tobago,Costa Rica,Trinidad and Tobago,Alvin Thomas,89,FALSE,FALSE
+1991-07-01,United States,Guatemala,United States,Bruce Murray,11,FALSE,FALSE
+1991-07-01,United States,Guatemala,United States,Brian Quinn,46,FALSE,FALSE
+1991-07-01,United States,Guatemala,United States,Eric Wynalda,52,FALSE,FALSE
+1991-07-02,Jamaica,Canada,Canada,Dale Mitchell,34,FALSE,FALSE
+1991-07-02,Jamaica,Canada,Jamaica,Hector Wright,42,FALSE,FALSE
+1991-07-02,Jamaica,Canada,Canada,Colin Miller,54,FALSE,FALSE
+1991-07-02,Jamaica,Canada,Canada,John Limniatis,60,FALSE,FALSE
+1991-07-02,Jamaica,Canada,Jamaica,Roderick Reid,63,FALSE,FALSE
+1991-07-02,Mexico,Honduras,Honduras,Marco Antonio Anariba,9,FALSE,FALSE
+1991-07-02,Mexico,Honduras,Mexico,Carlos Hermosillo,57,FALSE,FALSE
+1991-07-03,Trinidad and Tobago,Guatemala,Guatemala,Luis Espel,89,FALSE,FALSE
+1991-07-03,United States,Costa Rica,United States,Peter Vermes,6,FALSE,FALSE
+1991-07-03,United States,Costa Rica,Costa Rica,Juan Carlos Arguedas,30,FALSE,FALSE
+1991-07-03,United States,Costa Rica,Costa Rica,Claudio Jara,33,FALSE,FALSE
+1991-07-03,United States,Costa Rica,United States,Hugo Pérez,49,FALSE,TRUE
+1991-07-03,United States,Costa Rica,United States,Héctor Marchena,59,TRUE,FALSE
+1991-07-05,Honduras,Costa Rica,Honduras,Eduardo Bennett,37,FALSE,FALSE
+1991-07-05,Honduras,Costa Rica,Honduras,Eugenio Dolmo Flores,79,FALSE,FALSE
+1991-07-05,United States,Mexico,United States,John Doyle,48,FALSE,FALSE
+1991-07-05,United States,Mexico,United States,Peter Vermes,64,FALSE,FALSE
 1991-07-06,Chile,Venezuela,Chile,Hugo Eduardo Rubio,22,FALSE,FALSE
 1991-07-06,Chile,Venezuela,Chile,Iván Zamorano,34,FALSE,FALSE
 1991-07-06,Paraguay,Peru,Paraguay,Luis Monzón,21,FALSE,FALSE
 1991-07-07,Bolivia,Uruguay,Bolivia,Berthy Suárez,16,FALSE,FALSE
 1991-07-07,Bolivia,Uruguay,Uruguay,Ramón Víctor Castro,73,FALSE,FALSE
 1991-07-07,Colombia,Ecuador,Colombia,Antony de Ávila,25,FALSE,FALSE
+1991-07-07,Mexico,Costa Rica,Mexico,Gonzalo Farfán,9,FALSE,FALSE
+1991-07-07,Mexico,Costa Rica,Mexico,Benjamín Galindo,89,FALSE,FALSE
 1991-07-08,Argentina,Venezuela,Argentina,Gabriel Batistuta,28,FALSE,FALSE
 1991-07-08,Argentina,Venezuela,Argentina,Claudio Caniggia,43,FALSE,FALSE
 1991-07-08,Argentina,Venezuela,Argentina,Gabriel Batistuta,50,FALSE,TRUE
@@ -4169,6 +4219,66 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1993-07-04,Argentina,Mexico,Argentina,Gabriel Batistuta,63,FALSE,FALSE
 1993-07-04,Argentina,Mexico,Mexico,Benjamín Galindo,67,FALSE,TRUE
 1993-07-04,Argentina,Mexico,Argentina,Gabriel Batistuta,74,FALSE,FALSE
+1993-07-10,Honduras,Panama,Honduras,Giovanni Gayle,25,FALSE,FALSE
+1993-07-10,Honduras,Panama,Panama,Jesús Julio,30,FALSE,FALSE
+1993-07-10,Honduras,Panama,Honduras,Eduardo Bennett,51,FALSE,FALSE
+1993-07-10,Honduras,Panama,Honduras,Alex Pineda Chacón,54,FALSE,FALSE
+1993-07-10,Honduras,Panama,Honduras,Eduardo Bennett,69,FALSE,TRUE
+1993-07-10,Honduras,Panama,Honduras,Eduardo Bennett,83,FALSE,FALSE
+1993-07-10,United States,Jamaica,United States,Eric Wynalda,67,FALSE,FALSE
+1993-07-11,Canada,Costa Rica,Canada,Nick Dasovic,43,FALSE,FALSE
+1993-07-11,Canada,Costa Rica,Costa Rica,Roy Myers,82,FALSE,FALSE
+1993-07-11,Mexico,Martinique,Mexico,Luís Roberto Alves,11,FALSE,FALSE
+1993-07-11,Mexico,Martinique,Mexico,Luís Roberto Alves,21,FALSE,FALSE
+1993-07-11,Mexico,Martinique,Mexico,Luís Roberto Alves,29,FALSE,FALSE
+1993-07-11,Mexico,Martinique,Mexico,Ramón Ramírez,40,FALSE,FALSE
+1993-07-11,Mexico,Martinique,Mexico,Luís Roberto Alves,54,FALSE,FALSE
+1993-07-11,Mexico,Martinique,Mexico,Luís Roberto Alves,76,FALSE,FALSE
+1993-07-11,Mexico,Martinique,Mexico,Luís Roberto Alves,84,FALSE,FALSE
+1993-07-11,Mexico,Martinique,Mexico,Luís Roberto Alves,90,FALSE,FALSE
+1993-07-11,Mexico,Martinique,Mexico,Juan Hernández,90,FALSE,FALSE
+1993-07-14,Honduras,Jamaica,Honduras,Eduardo Bennett,18,FALSE,TRUE
+1993-07-14,Honduras,Jamaica,Jamaica,Devon Jarrett,28,FALSE,FALSE
+1993-07-14,Honduras,Jamaica,Jamaica,Paul Davis,48,FALSE,FALSE
+1993-07-14,Honduras,Jamaica,Jamaica,Walter Boyd,78,FALSE,FALSE
+1993-07-14,United States,Panama,Panama,Percival Piggott,33,FALSE,FALSE
+1993-07-14,United States,Panama,United States,Eric Wynalda,69,FALSE,FALSE
+1993-07-14,United States,Panama,United States,Thomas Dooley,74,FALSE,FALSE
+1993-07-15,Canada,Martinique,Canada,Geoff Aunger,25,FALSE,FALSE
+1993-07-15,Canada,Martinique,Canada,Alex Bunbury,43,FALSE,FALSE
+1993-07-15,Canada,Martinique,Martinique,Georges Gertrude,53,FALSE,FALSE
+1993-07-15,Canada,Martinique,Martinique,Thierry Fondelot,86,FALSE,FALSE
+1993-07-15,Mexico,Costa Rica,Costa Rica,Juan Cayasso,30,FALSE,FALSE
+1993-07-15,Mexico,Costa Rica,Mexico,Javier Delgado Prado,74,TRUE,FALSE
+1993-07-17,Jamaica,Panama,Panama,Víctor René Mendieta Ocampo,50,FALSE,TRUE
+1993-07-17,Jamaica,Panama,Jamaica,Paul Davis,76,FALSE,FALSE
+1993-07-17,United States,Honduras,United States,Alexi Lalas,29,FALSE,FALSE
+1993-07-18,Costa Rica,Martinique,Costa Rica,Roy Myers,28,FALSE,FALSE
+1993-07-18,Costa Rica,Martinique,Martinique,Thierry Tinmar,59,FALSE,TRUE
+1993-07-18,Costa Rica,Martinique,Costa Rica,Juan Cayasso,69,FALSE,FALSE
+1993-07-18,Costa Rica,Martinique,Costa Rica,Juan Cayasso,87,FALSE,FALSE
+1993-07-18,Mexico,Canada,Mexico,Jorge Rodríguez,4,FALSE,FALSE
+1993-07-18,Mexico,Canada,Mexico,Octavio Mora,24,FALSE,FALSE
+1993-07-18,Mexico,Canada,Mexico,Octavio Mora,30,FALSE,FALSE
+1993-07-18,Mexico,Canada,Mexico,Luís Roberto Alves,32,FALSE,FALSE
+1993-07-18,Mexico,Canada,Mexico,Luís Roberto Alves,34,FALSE,FALSE
+1993-07-18,Mexico,Canada,Mexico,Jorge Rodríguez,67,FALSE,FALSE
+1993-07-18,Mexico,Canada,Mexico,Luis Miguel Salvador,83,FALSE,FALSE
+1993-07-18,Mexico,Canada,Mexico,Luis Miguel Salvador,88,FALSE,FALSE
+1993-07-22,Mexico,Jamaica,Mexico,Luis Miguel Salvador,9,FALSE,FALSE
+1993-07-22,Mexico,Jamaica,Mexico,Octavio Mora,14,FALSE,FALSE
+1993-07-22,Mexico,Jamaica,Jamaica,Hector Wright,17,FALSE,FALSE
+1993-07-22,Mexico,Jamaica,Mexico,Luis Miguel Salvador,18,FALSE,FALSE
+1993-07-22,Mexico,Jamaica,Mexico,Luis Miguel Salvador,34,FALSE,FALSE
+1993-07-22,Mexico,Jamaica,Mexico,Luís Roberto Alves,50,FALSE,FALSE
+1993-07-22,Mexico,Jamaica,Mexico,Ignacio Ambriz,55,FALSE,FALSE
+1993-07-22,United States,Costa Rica,United States,Cle Kooiman,103,FALSE,FALSE
+1993-07-25,Jamaica,Costa Rica,Costa Rica,Floyd Guthrie,10,FALSE,FALSE
+1993-07-25,Jamaica,Costa Rica,Jamaica,Devon Jarrett,89,FALSE,FALSE
+1993-07-25,Mexico,United States,Mexico,Ignacio Ambriz,11,FALSE,FALSE
+1993-07-25,Mexico,United States,Mexico,Desmond Armstrong,31,TRUE,FALSE
+1993-07-25,Mexico,United States,Mexico,Luís Roberto Alves,69,FALSE,FALSE
+1993-07-25,Mexico,United States,Mexico,Guillermo Cantu,79,FALSE,FALSE
 1994-03-26,Nigeria,Gabon,Nigeria,Rashidi Yekini,18,FALSE,FALSE
 1994-03-26,Nigeria,Gabon,Nigeria,Mutiu Adepoju,72,FALSE,FALSE
 1994-03-26,Nigeria,Gabon,Nigeria,Rashidi Yekini,88,FALSE,FALSE
@@ -4423,9 +4533,39 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1995-07-22,Colombia,United States,Colombia,Freddy Rincón,76,FALSE,FALSE
 1995-07-23,Uruguay,Brazil,Brazil,Túlio Maravilha,30,FALSE,FALSE
 1995-07-23,Uruguay,Brazil,Uruguay,Pablo Bengoechea,51,FALSE,FALSE
+1996-01-10,Canada,Honduras,Canada,Carlo Corazzin,9,FALSE,FALSE
+1996-01-10,Canada,Honduras,Canada,Kevin Holness,27,FALSE,FALSE
+1996-01-10,Canada,Honduras,Honduras,Presley Carson,40,FALSE,FALSE
+1996-01-10,Canada,Honduras,Canada,Kevin Holness,63,FALSE,FALSE
+1996-01-10,Trinidad and Tobago,El Salvador,El Salvador,Raúl Díaz Arce,34,FALSE,FALSE
+1996-01-10,Trinidad and Tobago,El Salvador,El Salvador,Ronald Cerritos,50,FALSE,FALSE
+1996-01-10,Trinidad and Tobago,El Salvador,Trinidad and Tobago,Russell Latapy,59,FALSE,FALSE
+1996-01-10,Trinidad and Tobago,El Salvador,Trinidad and Tobago,Russell Latapy,64,FALSE,FALSE
+1996-01-10,Trinidad and Tobago,El Salvador,El Salvador,Raúl Díaz Arce,72,FALSE,TRUE
+1996-01-11,Mexico,Saint Vincent and the Grenadines,Mexico,Luis García Postigo,29,FALSE,FALSE
+1996-01-11,Mexico,Saint Vincent and the Grenadines,Mexico,Luis García Postigo,37,FALSE,FALSE
+1996-01-11,Mexico,Saint Vincent and the Grenadines,Mexico,Ricardo Peláez,70,FALSE,FALSE
+1996-01-11,Mexico,Saint Vincent and the Grenadines,Mexico,Agustín Garcia,80,FALSE,FALSE
+1996-01-11,Mexico,Saint Vincent and the Grenadines,Mexico,Ricardo Peláez,90,FALSE,FALSE
+1996-01-12,Brazil,Canada,Brazil,André Luiz Moreira,3,FALSE,FALSE
+1996-01-12,Brazil,Canada,Brazil,Caio Ribeiro Decoussau,7,FALSE,FALSE
+1996-01-12,Brazil,Canada,Brazil,Sávio Bortolini Pimentel,14,FALSE,FALSE
+1996-01-12,Brazil,Canada,Canada,Tomasz Radzinski,66,FALSE,FALSE
+1996-01-12,Brazil,Canada,Brazil,Leandro Machado,86,FALSE,FALSE
 1996-01-13,South Africa,Cameroon,South Africa,Phil Masinga,15,FALSE,FALSE
 1996-01-13,South Africa,Cameroon,South Africa,Mark Williams,37,FALSE,FALSE
 1996-01-13,South Africa,Cameroon,South Africa,John Moshoeu,55,FALSE,FALSE
+1996-01-13,United States,Trinidad and Tobago,Trinidad and Tobago,Arnold Dwarika,6,FALSE,FALSE
+1996-01-13,United States,Trinidad and Tobago,United States,Eric Wynalda,15,FALSE,FALSE
+1996-01-13,United States,Trinidad and Tobago,United States,Eric Wynalda,34,FALSE,FALSE
+1996-01-13,United States,Trinidad and Tobago,Trinidad and Tobago,Arnold Dwarika,43,FALSE,FALSE
+1996-01-13,United States,Trinidad and Tobago,United States,Joe-Max Moore,53,FALSE,FALSE
+1996-01-14,Guatemala,Mexico,Mexico,Eustacio Rizo,89,FALSE,FALSE
+1996-01-14,Honduras,Brazil,Brazil,Caio Ribeiro Decoussau,9,FALSE,FALSE
+1996-01-14,Honduras,Brazil,Brazil,Paulo Roberto Jamelli Júnior,31,FALSE,FALSE
+1996-01-14,Honduras,Brazil,Brazil,Paulo Roberto Jamelli Júnior,61,FALSE,FALSE
+1996-01-14,Honduras,Brazil,Brazil,Sávio Bortolini Pimentel,80,FALSE,FALSE
+1996-01-14,Honduras,Brazil,Brazil,Caio Ribeiro Decoussau,81,FALSE,FALSE
 1996-01-14,Ivory Coast,Ghana,Ghana,Tony Yeboah,20,FALSE,FALSE
 1996-01-14,Ivory Coast,Ghana,Ghana,Abedi Pele,70,FALSE,FALSE
 1996-01-15,Egypt,Angola,Egypt,Ahmed El-Kass,30,FALSE,FALSE
@@ -4437,18 +4577,25 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1996-01-16,Gabon,Liberia,Liberia,Kelvin Sebwe,5,FALSE,TRUE
 1996-01-16,Gabon,Liberia,Liberia,Mass Sarr Jr.,54,FALSE,FALSE
 1996-01-16,Gabon,Liberia,Gabon,Guy Nzeng,59,FALSE,FALSE
+1996-01-16,Guatemala,Saint Vincent and the Grenadines,Guatemala,Juan Manuel Funes,28,FALSE,FALSE
+1996-01-16,Guatemala,Saint Vincent and the Grenadines,Guatemala,Edwin Westphal,42,FALSE,FALSE
+1996-01-16,Guatemala,Saint Vincent and the Grenadines,Guatemala,Martin Machón,45,FALSE,FALSE
 1996-01-16,Tunisia,Mozambique,Mozambique,Tico-Tico,4,FALSE,FALSE
 1996-01-16,Tunisia,Mozambique,Tunisia,Hédi Berkhissa,24,FALSE,FALSE
+1996-01-16,United States,El Salvador,United States,Eric Wynalda,63,FALSE,FALSE
+1996-01-16,United States,El Salvador,United States,Marcelo Balboa,75,FALSE,FALSE
 1996-01-18,Algeria,Sierra Leone,Algeria,Ali Meçabih,41,FALSE,FALSE
 1996-01-18,Algeria,Sierra Leone,Algeria,Ali Meçabih,63,FALSE,FALSE
 1996-01-18,Cameroon,Egypt,Cameroon,François Omam-Biyik,36,FALSE,TRUE
 1996-01-18,Cameroon,Egypt,Egypt,Ali Maher,48,FALSE,FALSE
 1996-01-18,Cameroon,Egypt,Cameroon,Alphonse Tchami,59,FALSE,FALSE
+1996-01-18,United States,Brazil,Brazil,Marcelo Balboa,79,TRUE,FALSE
 1996-01-19,DR Congo,Gabon,Gabon,Brice Mackaya,21,FALSE,TRUE
 1996-01-19,DR Congo,Gabon,Gabon,Aurelien Bekogo,34,FALSE,FALSE
 1996-01-19,Ghana,Tunisia,Ghana,Abedi Pele,50,FALSE,FALSE
 1996-01-19,Ghana,Tunisia,Tunisia,Imed Ben Younes,72,FALSE,FALSE
 1996-01-19,Ghana,Tunisia,Ghana,Charles Akonnor,77,FALSE,FALSE
+1996-01-19,Mexico,Guatemala,Mexico,Cuauhtémoc Blanco,64,FALSE,FALSE
 1996-01-20,Burkina Faso,Zambia,Zambia,Kenneth Malitoli,18,FALSE,FALSE
 1996-01-20,Burkina Faso,Zambia,Zambia,Kalusha Bwalya,24,FALSE,FALSE
 1996-01-20,Burkina Faso,Zambia,Zambia,Kalusha Bwalya,35,FALSE,FALSE
@@ -4456,7 +4603,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1996-01-20,Burkina Faso,Zambia,Zambia,Johnson Bwalya,45,FALSE,FALSE
 1996-01-20,Burkina Faso,Zambia,Burkina Faso,Issouf Traoré,53,FALSE,FALSE
 1996-01-20,South Africa,Angola,South Africa,Mark Williams,57,FALSE,FALSE
+1996-01-21,Mexico,Brazil,Mexico,Luis García Postigo,54,FALSE,FALSE
+1996-01-21,Mexico,Brazil,Mexico,Cuauhtémoc Blanco,75,FALSE,FALSE
 1996-01-21,Mozambique,Ivory Coast,Ivory Coast,Joël Tiéhi,32,FALSE,FALSE
+1996-01-21,United States,Guatemala,United States,Eric Wynalda,34,FALSE,FALSE
+1996-01-21,United States,Guatemala,United States,Jeff Agoos,37,FALSE,FALSE
+1996-01-21,United States,Guatemala,United States,Jovan Kirovski,87,FALSE,FALSE
 1996-01-24,Angola,Cameroon,Cameroon,François Omam-Biyik,25,FALSE,FALSE
 1996-01-24,Angola,Cameroon,Angola,Joni,38,FALSE,TRUE
 1996-01-24,Angola,Cameroon,Angola,Paulo António Alves,57,FALSE,FALSE
@@ -4632,8 +4784,46 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1997-06-29,Bolivia,Brazil,Bolivia,Erwin Sánchez,45,FALSE,FALSE
 1997-06-29,Bolivia,Brazil,Brazil,Ronaldo,79,FALSE,FALSE
 1997-06-29,Bolivia,Brazil,Brazil,Zé Roberto,90,FALSE,FALSE
+1998-02-01,Honduras,Trinidad and Tobago,Trinidad and Tobago,Jerren Nixon,35,FALSE,FALSE
+1998-02-01,Honduras,Trinidad and Tobago,Trinidad and Tobago,Stern John,39,FALSE,FALSE
+1998-02-01,Honduras,Trinidad and Tobago,Honduras,Carlos Pavón,66,FALSE,FALSE
+1998-02-01,Honduras,Trinidad and Tobago,Trinidad and Tobago,Stern John,70,FALSE,FALSE
+1998-02-01,United States,Cuba,United States,Roy Wegerle,55,FALSE,FALSE
+1998-02-01,United States,Cuba,United States,Eric Wynalda,58,FALSE,FALSE
+1998-02-01,United States,Cuba,United States,Joe-Max Moore,76,FALSE,TRUE
+1998-02-04,Cuba,Costa Rica,Costa Rica,Austin Berry,3,FALSE,FALSE
+1998-02-04,Cuba,Costa Rica,Costa Rica,Paulo Wanchope,21,FALSE,FALSE
+1998-02-04,Cuba,Costa Rica,Costa Rica,Wilmer López,29,FALSE,TRUE
+1998-02-04,Cuba,Costa Rica,Costa Rica,Paulo Wanchope,32,FALSE,FALSE
+1998-02-04,Cuba,Costa Rica,Costa Rica,Roy Myers,44,FALSE,FALSE
+1998-02-04,Cuba,Costa Rica,Cuba,Luis Martén,50,FALSE,FALSE
+1998-02-04,Cuba,Costa Rica,Costa Rica,Paulo Wanchope,64,FALSE,FALSE
+1998-02-04,Cuba,Costa Rica,Costa Rica,Paulo Wanchope,78,FALSE,FALSE
+1998-02-04,Cuba,Costa Rica,Cuba,Eduardo Sebrango,90,FALSE,FALSE
+1998-02-04,Trinidad and Tobago,Mexico,Mexico,Ramón Ramírez,37,FALSE,FALSE
+1998-02-04,Trinidad and Tobago,Mexico,Trinidad and Tobago,Clint Marcelle,59,FALSE,FALSE
+1998-02-04,Trinidad and Tobago,Mexico,Mexico,Luis Hernández,63,FALSE,FALSE
+1998-02-04,Trinidad and Tobago,Mexico,Mexico,Francisco Palencia,65,FALSE,FALSE
+1998-02-04,Trinidad and Tobago,Mexico,Trinidad and Tobago,Jerren Nixon,75,FALSE,FALSE
+1998-02-04,Trinidad and Tobago,Mexico,Mexico,Luis Hernández,82,FALSE,FALSE
+1998-02-05,Brazil,Guatemala,Brazil,Romário,79,FALSE,FALSE
+1998-02-05,Brazil,Guatemala,Guatemala,Juan Carlos Plata,90,FALSE,FALSE
 1998-02-07,Burkina Faso,Cameroon,Cameroon,Alphonse Tchami,20,FALSE,FALSE
+1998-02-07,Mexico,Honduras,Mexico,Cuauhtémoc Blanco,22,FALSE,FALSE
+1998-02-07,Mexico,Honduras,Mexico,Cuauhtémoc Blanco,86,FALSE,FALSE
+1998-02-07,United States,Costa Rica,United States,Eddie Pope,7,FALSE,FALSE
+1998-02-07,United States,Costa Rica,Costa Rica,Allan Oviedo,56,FALSE,FALSE
+1998-02-07,United States,Costa Rica,United States,Preki,78,FALSE,FALSE
 1998-02-08,Algeria,Guinea,Guinea,Souleymane Oularé,19,FALSE,FALSE
+1998-02-08,El Salvador,Brazil,Brazil,Edmundo Alves de Souza Neto,7,FALSE,FALSE
+1998-02-08,El Salvador,Brazil,Brazil,Romário,19,FALSE,FALSE
+1998-02-08,El Salvador,Brazil,Brazil,Giovane Élber,87,FALSE,FALSE
+1998-02-08,El Salvador,Brazil,Brazil,Giovane Élber,90,FALSE,FALSE
+1998-02-08,Guatemala,Jamaica,Jamaica,Paul Hall,14,FALSE,FALSE
+1998-02-08,Guatemala,Jamaica,Guatemala,Juan Carlos Plata,16,FALSE,FALSE
+1998-02-08,Guatemala,Jamaica,Jamaica,Andy Williams,55,FALSE,FALSE
+1998-02-08,Guatemala,Jamaica,Jamaica,Paul Hall,67,FALSE,FALSE
+1998-02-08,Guatemala,Jamaica,Guatemala,Edwin Westphal,84,FALSE,FALSE
 1998-02-08,Ivory Coast,Namibia,Ivory Coast,Joël Tiéhi,2,FALSE,FALSE
 1998-02-08,Ivory Coast,Namibia,Ivory Coast,Ibrahima Bakayoko,34,FALSE,FALSE
 1998-02-08,Ivory Coast,Namibia,Ivory Coast,Joël Tiéhi,39,FALSE,FALSE
@@ -4646,10 +4836,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1998-02-09,DR Congo,Togo,Togo,Massamasso Tchangai,90,FALSE,FALSE
 1998-02-09,Ghana,Tunisia,Ghana,Alex Nyarko,8,FALSE,FALSE
 1998-02-09,Ghana,Tunisia,Ghana,Mohammed Gargo,90,FALSE,FALSE
+1998-02-09,Jamaica,El Salvador,Jamaica,Marcus Gayle,41,FALSE,FALSE
+1998-02-09,Jamaica,El Salvador,Jamaica,Fitzroy Simpson,62,FALSE,FALSE
 1998-02-09,Zambia,Morocco,Morocco,Ahmed Bahja,37,FALSE,FALSE
 1998-02-09,Zambia,Morocco,Zambia,Tenant Chilumba,87,FALSE,FALSE
 1998-02-10,Egypt,Mozambique,Egypt,Hossam Hassan,14,FALSE,FALSE
 1998-02-10,Egypt,Mozambique,Egypt,Hossam Hassan,44,FALSE,FALSE
+1998-02-10,United States,Brazil,United States,Preki,65,FALSE,FALSE
 1998-02-11,Burkina Faso,Algeria,Burkina Faso,Kassoum Ouédraogo,65,FALSE,TRUE
 1998-02-11,Burkina Faso,Algeria,Burkina Faso,Seydou Traoré,77,FALSE,FALSE
 1998-02-11,Burkina Faso,Algeria,Algeria,Moussa Saïb,82,FALSE,TRUE
@@ -4668,6 +4861,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1998-02-12,Ghana,Togo,Togo,Franck Doté,26,FALSE,FALSE
 1998-02-12,Ghana,Togo,Ghana,Samuel Johnson,83,FALSE,TRUE
 1998-02-12,Ghana,Togo,Togo,Mohamed Kader,90,FALSE,FALSE
+1998-02-12,Jamaica,Mexico,Mexico,Luis Hernández,105,FALSE,FALSE
 1998-02-12,Tunisia,DR Congo,Tunisia,Mehdi Ben Slimane,31,FALSE,FALSE
 1998-02-12,Tunisia,DR Congo,DR Congo,Papi Kimoto,36,FALSE,FALSE
 1998-02-12,Tunisia,DR Congo,Tunisia,Ziad Tlemçani,76,FALSE,FALSE
@@ -4678,10 +4872,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1998-02-13,Zambia,Egypt,Egypt,Hossam Hassan,57,FALSE,FALSE
 1998-02-13,Zambia,Egypt,Egypt,Hossam Hassan,71,FALSE,FALSE
 1998-02-13,Zambia,Egypt,Egypt,Yasser Radwan,80,FALSE,FALSE
+1998-02-15,Brazil,Jamaica,Brazil,Romário,77,FALSE,FALSE
 1998-02-15,Burkina Faso,Guinea,Burkina Faso,Romeo Kambou,85,FALSE,FALSE
 1998-02-15,Cameroon,Algeria,Algeria,Billel Dziri,40,FALSE,FALSE
 1998-02-15,Cameroon,Algeria,Cameroon,Joseph-Désiré Job,47,FALSE,FALSE
 1998-02-15,Cameroon,Algeria,Cameroon,Alphonse Tchami,65,FALSE,FALSE
+1998-02-15,United States,Mexico,Mexico,Luis Hernández,43,FALSE,FALSE
 1998-02-16,Ghana,DR Congo,DR Congo,Bijou Kisombe Mundaba,77,FALSE,FALSE
 1998-02-16,Ivory Coast,Angola,Ivory Coast,Tchiressoua Guel,8,FALSE,FALSE
 1998-02-16,Ivory Coast,Angola,Ivory Coast,Tchiressoua Guel,23,FALSE,FALSE
@@ -4970,6 +5166,19 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1999-07-18,Brazil,Uruguay,Brazil,Rivaldo,20,FALSE,FALSE
 1999-07-18,Brazil,Uruguay,Brazil,Rivaldo,27,FALSE,FALSE
 1999-07-18,Brazil,Uruguay,Brazil,Ronaldo,46,FALSE,FALSE
+1999-10-06,El Salvador,Haiti,El Salvador,Elías Montes,3,FALSE,FALSE
+1999-10-06,El Salvador,Haiti,Haiti,Johnny Descolines,80,FALSE,FALSE
+1999-10-08,Canada,El Salvador,Canada,Carlo Corazzin,9,FALSE,FALSE
+1999-10-08,Canada,El Salvador,El Salvador,Raúl Díaz Arce,47,FALSE,TRUE
+1999-10-08,Canada,El Salvador,Canada,Carl Fletcher,59,FALSE,FALSE
+1999-10-08,Cuba,Haiti,Haiti,Johnny Descolines,75,FALSE,FALSE
+1999-10-10,Canada,Haiti,Canada,Carlo Corazzin,9,FALSE,FALSE
+1999-10-10,Canada,Haiti,Canada,Carlo Corazzin,43,FALSE,FALSE
+1999-10-10,Canada,Haiti,Haiti,Johnny Descolines,48,FALSE,FALSE
+1999-10-10,Cuba,El Salvador,Cuba,Manuel Bobadilla,43,FALSE,FALSE
+1999-10-10,Cuba,El Salvador,El Salvador,Raúl Díaz Arce,63,FALSE,TRUE
+1999-10-10,Cuba,El Salvador,Cuba,Serguei Prado,75,FALSE,FALSE
+1999-10-10,Cuba,El Salvador,Cuba,Andrés Roldán,90,FALSE,FALSE
 2000-01-22,Ghana,Cameroon,Cameroon,Marc-Vivien Foé,19,FALSE,FALSE
 2000-01-22,Ghana,Cameroon,Ghana,Kwame Ayew,57,FALSE,FALSE
 2000-01-23,Egypt,Zambia,Egypt,Yasser Radwan,37,FALSE,FALSE
@@ -5035,14 +5244,69 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2000-02-10,Cameroon,Tunisia,Cameroon,Patrick M'Boma,85,FALSE,FALSE
 2000-02-10,Nigeria,South Africa,Nigeria,Tijani Babangida,1,FALSE,FALSE
 2000-02-10,Nigeria,South Africa,Nigeria,Tijani Babangida,34,FALSE,FALSE
+2000-02-12,Colombia,Jamaica,Colombia,Gonzalo Martínez,15,FALSE,FALSE
 2000-02-12,South Africa,Tunisia,South Africa,Shaun Bartlett,11,FALSE,FALSE
 2000-02-12,South Africa,Tunisia,Tunisia,Ali Zitouni,27,FALSE,FALSE
 2000-02-12,South Africa,Tunisia,South Africa,Siyabonga Nomvethe,62,FALSE,FALSE
 2000-02-12,South Africa,Tunisia,Tunisia,Ali Zitouni,89,FALSE,FALSE
+2000-02-12,United States,Haiti,United States,Jovan Kirovski,18,FALSE,FALSE
+2000-02-12,United States,Haiti,United States,Eric Wynalda,55,FALSE,TRUE
+2000-02-12,United States,Haiti,United States,Cobi Jones,89,FALSE,FALSE
+2000-02-13,Costa Rica,Canada,Costa Rica,Jafet Soto,11,FALSE,FALSE
+2000-02-13,Costa Rica,Canada,Canada,Carlo Corazzin,19,FALSE,TRUE
+2000-02-13,Costa Rica,Canada,Costa Rica,Harold Wallace,54,FALSE,FALSE
+2000-02-13,Costa Rica,Canada,Canada,Carlo Corazzin,57,FALSE,FALSE
+2000-02-13,Mexico,Trinidad and Tobago,Mexico,Rafael Márquez,36,FALSE,FALSE
+2000-02-13,Mexico,Trinidad and Tobago,Mexico,Luis Hernández,52,FALSE,FALSE
+2000-02-13,Mexico,Trinidad and Tobago,Mexico,Shurland David,75,TRUE,FALSE
+2000-02-13,Mexico,Trinidad and Tobago,Mexico,Francisco Palencia,85,FALSE,FALSE
 2000-02-13,Nigeria,Cameroon,Cameroon,Samuel Eto'o,26,FALSE,FALSE
 2000-02-13,Nigeria,Cameroon,Cameroon,Patrick M'Boma,31,FALSE,FALSE
 2000-02-13,Nigeria,Cameroon,Nigeria,Raphael Chukwu,45,FALSE,FALSE
 2000-02-13,Nigeria,Cameroon,Nigeria,Jay-Jay Okocha,47,FALSE,FALSE
+2000-02-14,Haiti,Peru,Haiti,Sébastien Vorbe,61,FALSE,FALSE
+2000-02-14,Haiti,Peru,Peru,Ysrael Zúñiga,69,FALSE,FALSE
+2000-02-14,Jamaica,Honduras,Honduras,Carlos Pavón,51,FALSE,TRUE
+2000-02-14,Jamaica,Honduras,Honduras,Samuel Caballero,84,FALSE,FALSE
+2000-02-15,Trinidad and Tobago,Guatemala,Trinidad and Tobago,Russell Latapy,26,FALSE,FALSE
+2000-02-15,Trinidad and Tobago,Guatemala,Guatemala,Juan Carlos Plata,30,FALSE,FALSE
+2000-02-15,Trinidad and Tobago,Guatemala,Trinidad and Tobago,Arnold Dwarika,36,FALSE,FALSE
+2000-02-15,Trinidad and Tobago,Guatemala,Guatemala,Guillermo Ramírez,47,FALSE,FALSE
+2000-02-15,Trinidad and Tobago,Guatemala,Trinidad and Tobago,David Nakhid,52,FALSE,FALSE
+2000-02-15,Trinidad and Tobago,Guatemala,Trinidad and Tobago,Dwight Yorke,83,FALSE,FALSE
+2000-02-16,Honduras,Colombia,Honduras,Carlos Pavón,71,FALSE,FALSE
+2000-02-16,Honduras,Colombia,Honduras,Milton Núñez,78,FALSE,FALSE
+2000-02-16,United States,Peru,United States,Cobi Jones,59,FALSE,FALSE
+2000-02-17,Mexico,Guatemala,Mexico,Emilio Mora,26,FALSE,FALSE
+2000-02-17,Mexico,Guatemala,Guatemala,Erick Miranda,28,FALSE,FALSE
+2000-02-17,South Korea,Costa Rica,South Korea,Lee Dong-gook,14,FALSE,FALSE
+2000-02-17,South Korea,Costa Rica,Costa Rica,Paulo Wanchope,66,FALSE,FALSE
+2000-02-17,South Korea,Costa Rica,South Korea,Lee Min-sung,75,FALSE,FALSE
+2000-02-17,South Korea,Costa Rica,Costa Rica,Hernán Medford,85,FALSE,FALSE
+2000-02-19,Honduras,Peru,Peru,Roberto Holsen,7,FALSE,FALSE
+2000-02-19,Honduras,Peru,Peru,Jorge Soto,14,FALSE,TRUE
+2000-02-19,Honduras,Peru,Honduras,Reynaldo Clavasquín,32,FALSE,FALSE
+2000-02-19,Honduras,Peru,Peru,José del Solar,50,FALSE,FALSE
+2000-02-19,Honduras,Peru,Peru,Roberto Palacios,52,FALSE,FALSE
+2000-02-19,Honduras,Peru,Honduras,Carlos Pavón,67,FALSE,TRUE
+2000-02-19,Honduras,Peru,Honduras,José Luis Pineda,69,FALSE,FALSE
+2000-02-19,Honduras,Peru,Peru,Waldir Sáenz,87,FALSE,FALSE
+2000-02-19,United States,Colombia,United States,Brian McBride,20,FALSE,FALSE
+2000-02-19,United States,Colombia,Colombia,Faustino Asprilla,24,FALSE,FALSE
+2000-02-19,United States,Colombia,United States,Chris Armas,51,FALSE,FALSE
+2000-02-19,United States,Colombia,Colombia,Gerardo Bedoya,81,FALSE,FALSE
+2000-02-20,Costa Rica,Trinidad and Tobago,Trinidad and Tobago,Arnold Dwarika,26,FALSE,FALSE
+2000-02-20,Costa Rica,Trinidad and Tobago,Costa Rica,Paulo Wanchope,89,FALSE,FALSE
+2000-02-20,Costa Rica,Trinidad and Tobago,Trinidad and Tobago,Mickey Trotman,101,FALSE,FALSE
+2000-02-20,Mexico,Canada,Mexico,Ramón Ramírez,35,FALSE,FALSE
+2000-02-20,Mexico,Canada,Canada,Carlo Corazzin,83,FALSE,FALSE
+2000-02-20,Mexico,Canada,Canada,Richard Hastings,92,FALSE,FALSE
+2000-02-23,Colombia,Peru,Colombia,Marcial Salazar,39,TRUE,FALSE
+2000-02-23,Colombia,Peru,Colombia,Víctor Bonilla,53,FALSE,FALSE
+2000-02-23,Colombia,Peru,Peru,Roberto Palacios,75,FALSE,FALSE
+2000-02-24,Trinidad and Tobago,Canada,Canada,Mark Watson,68,FALSE,FALSE
+2000-02-27,Canada,Colombia,Canada,Jason de Vos,45,FALSE,FALSE
+2000-02-27,Canada,Colombia,Canada,Carlo Corazzin,68,FALSE,TRUE
 2000-06-10,Belgium,Sweden,Belgium,Bart Goor,43,FALSE,FALSE
 2000-06-10,Belgium,Sweden,Belgium,Émile Mpenza,46,FALSE,FALSE
 2000-06-10,Belgium,Sweden,Sweden,Johan Mjällby,53,FALSE,FALSE
@@ -5188,11 +5452,33 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2001-07-29,Uruguay,Honduras,Uruguay,Joe Emerson Bizera,22,FALSE,FALSE
 2001-07-29,Uruguay,Honduras,Honduras,Júnior Izaguirre,42,FALSE,FALSE
 2001-07-29,Uruguay,Honduras,Uruguay,Andrés Martínez,45,FALSE,FALSE
+2001-08-05,Cuba,Panama,Cuba,Serguei Prado,79,FALSE,FALSE
+2002-01-18,Haiti,Canada,Canada,Kevin McKenna,28,FALSE,FALSE
+2002-01-18,Haiti,Canada,Canada,Kevin McKenna,48,FALSE,FALSE
+2002-01-18,Martinique,Costa Rica,Costa Rica,Hernán Medford,38,FALSE,FALSE
+2002-01-18,Martinique,Costa Rica,Costa Rica,Rolando Fonseca,55,FALSE,FALSE
+2002-01-19,El Salvador,Mexico,Mexico,Jair García,31,FALSE,FALSE
 2002-01-19,Mali,Liberia,Liberia,George Weah,45,FALSE,FALSE
 2002-01-19,Mali,Liberia,Mali,Seydou Keita,87,FALSE,FALSE
+2002-01-19,United States,South Korea,United States,Landon Donovan,35,FALSE,FALSE
+2002-01-19,United States,South Korea,South Korea,Song Chong-gug,38,FALSE,FALSE
+2002-01-19,United States,South Korea,United States,DaMarcus Beasley,90,FALSE,FALSE
 2002-01-20,Cameroon,DR Congo,Cameroon,Patrick M'Boma,40,FALSE,FALSE
+2002-01-20,Costa Rica,Trinidad and Tobago,Costa Rica,Rolando Fonseca,56,FALSE,FALSE
+2002-01-20,Costa Rica,Trinidad and Tobago,Trinidad and Tobago,Stern John,90,FALSE,FALSE
+2002-01-20,Ecuador,Haiti,Haiti,Édison Méndez,6,TRUE,FALSE
+2002-01-20,Ecuador,Haiti,Haiti,Charles Alerte,44,FALSE,FALSE
 2002-01-20,Egypt,Senegal,Senegal,Lamine Diatta,82,FALSE,FALSE
 2002-01-21,Algeria,Nigeria,Nigeria,Julius Aghahowa,43,FALSE,FALSE
+2002-01-21,Mexico,Guatemala,Mexico,Adolfo Bautista,28,FALSE,FALSE
+2002-01-21,Mexico,Guatemala,Guatemala,Juan Carlos Plata,36,FALSE,FALSE
+2002-01-21,Mexico,Guatemala,Mexico,Marco Garcés,38,FALSE,FALSE
+2002-01-21,Mexico,Guatemala,Mexico,Carlos Ochoa,90,FALSE,FALSE
+2002-01-21,United States,Cuba,United States,Brian McBride,22,FALSE,TRUE
+2002-01-22,Canada,Ecuador,Ecuador,Álex Aguinaga,88,FALSE,FALSE
+2002-01-22,Canada,Ecuador,Ecuador,Álex Aguinaga,90,FALSE,FALSE
+2002-01-22,Trinidad and Tobago,Martinique,Martinique,Patrick Percin,51,FALSE,FALSE
+2002-01-23,Guatemala,El Salvador,El Salvador,Santos Cabrera,58,FALSE,FALSE
 2002-01-25,Cameroon,Ivory Coast,Cameroon,Patrick M'Boma,85,FALSE,FALSE
 2002-01-25,Egypt,Tunisia,Egypt,Hazem Emam,23,FALSE,FALSE
 2002-01-25,Liberia,Algeria,Liberia,Prince Akim Daye,7,FALSE,FALSE
@@ -5202,7 +5488,16 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2002-01-26,Burkina Faso,Morocco,Morocco,Hicham Zerouali,23,FALSE,FALSE
 2002-01-26,Burkina Faso,Morocco,Burkina Faso,Moumouni Dagano,58,FALSE,FALSE
 2002-01-26,Burkina Faso,Morocco,Morocco,Hicham Zerouali,85,FALSE,FALSE
+2002-01-26,Canada,Martinique,Martinique,Mark Rogers,63,TRUE,FALSE
+2002-01-26,Canada,Martinique,Canada,Kevin McKenna,73,FALSE,FALSE
+2002-01-26,Costa Rica,Haiti,Costa Rica,Walter Centeno,2,FALSE,FALSE
+2002-01-26,Costa Rica,Haiti,Haiti,Golman Pierre,62,FALSE,FALSE
+2002-01-26,Costa Rica,Haiti,Costa Rica,Rónald Gómez,97,FALSE,FALSE
 2002-01-26,Senegal,Zambia,Senegal,Souleymane Camara,90,FALSE,FALSE
+2002-01-27,United States,El Salvador,United States,Brian McBride,9,FALSE,FALSE
+2002-01-27,United States,El Salvador,United States,Brian McBride,11,FALSE,FALSE
+2002-01-27,United States,El Salvador,United States,Brian McBride,21,FALSE,FALSE
+2002-01-27,United States,El Salvador,United States,Ante Razov,72,FALSE,FALSE
 2002-01-28,Liberia,Nigeria,Nigeria,Julius Aghahowa,63,FALSE,FALSE
 2002-01-28,Mali,Algeria,Mali,Mamadou Bagayoko,18,FALSE,FALSE
 2002-01-28,Mali,Algeria,Mali,Bassala Touré,24,FALSE,FALSE
@@ -5216,6 +5511,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2002-01-30,Burkina Faso,Ghana,Burkina Faso,Koh Traoré,81,FALSE,FALSE
 2002-01-30,Burkina Faso,Ghana,Ghana,Isaac Boakye,90,FALSE,FALSE
 2002-01-30,Burkina Faso,Ghana,Ghana,Isaac Boakye,90,FALSE,FALSE
+2002-01-30,Costa Rica,South Korea,Costa Rica,Rónald Gómez,44,FALSE,FALSE
+2002-01-30,Costa Rica,South Korea,Costa Rica,Paulo Wanchope,77,FALSE,FALSE
+2002-01-30,Costa Rica,South Korea,South Korea,Choi Jin-cheul,81,FALSE,FALSE
+2002-01-30,Costa Rica,South Korea,Costa Rica,Paulo Wanchope,82,FALSE,FALSE
 2002-01-30,South Africa,Morocco,South Africa,Sibusiso Zuma,42,FALSE,FALSE
 2002-01-30,South Africa,Morocco,South Africa,Thabo Mngomeni,48,FALSE,FALSE
 2002-01-30,South Africa,Morocco,South Africa,Siyabonga Nomvethe,51,FALSE,FALSE
@@ -5223,6 +5522,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2002-01-31,Egypt,Zambia,Egypt,Mido,35,FALSE,FALSE
 2002-01-31,Egypt,Zambia,Egypt,Hazem Emam,53,FALSE,FALSE
 2002-01-31,Egypt,Zambia,Zambia,Gift Kampamba,89,FALSE,FALSE
+2002-02-02,Canada,South Korea,South Korea,Kim Do-hoon,15,FALSE,FALSE
+2002-02-02,Canada,South Korea,Canada,Kim Do-hoon,34,TRUE,FALSE
+2002-02-02,Canada,South Korea,Canada,Dwayne De Rosario,35,FALSE,FALSE
+2002-02-02,United States,Costa Rica,United States,Josh Wolff,37,FALSE,FALSE
+2002-02-02,United States,Costa Rica,United States,Jeff Agoos,63,FALSE,FALSE
 2002-02-03,Mali,South Africa,Mali,Bassala Touré,60,FALSE,FALSE
 2002-02-03,Mali,South Africa,Mali,Dramane Coulibaly,90,FALSE,FALSE
 2002-02-03,Nigeria,Ghana,Nigeria,Garba Lawal,80,FALSE,FALSE
@@ -5397,6 +5701,56 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2002-06-29,South Korea,Turkey,South Korea,Song Chong-gug,90,FALSE,FALSE
 2002-06-30,Germany,Brazil,Brazil,Ronaldo,67,FALSE,FALSE
 2002-06-30,Germany,Brazil,Brazil,Ronaldo,79,FALSE,FALSE
+2003-07-12,Costa Rica,Canada,Canada,Paul Stalteri,59,FALSE,FALSE
+2003-07-12,United States,El Salvador,United States,Eddie Lewis,28,FALSE,FALSE
+2003-07-12,United States,El Salvador,United States,Brian McBride,76,FALSE,FALSE
+2003-07-13,Jamaica,Colombia,Colombia,Jairo Patiño,42,FALSE,FALSE
+2003-07-13,Mexico,Brazil,Mexico,Jared Borgetti,70,FALSE,FALSE
+2003-07-14,Canada,Cuba,Cuba,Lester Moré,15,FALSE,FALSE
+2003-07-14,Canada,Cuba,Cuba,Lester Moré,46,FALSE,FALSE
+2003-07-14,United States,Martinique,United States,Brian McBride,39,FALSE,FALSE
+2003-07-14,United States,Martinique,United States,Brian McBride,43,FALSE,FALSE
+2003-07-15,Brazil,Honduras,Brazil,Maicon Sisenando,16,FALSE,FALSE
+2003-07-15,Brazil,Honduras,Brazil,Diego,84,FALSE,FALSE
+2003-07-15,Brazil,Honduras,Honduras,Julio César de León,90,FALSE,TRUE
+2003-07-15,Guatemala,Jamaica,Jamaica,Onandi Lowe,30,FALSE,FALSE
+2003-07-15,Guatemala,Jamaica,Jamaica,Andy Williams,73,FALSE,TRUE
+2003-07-16,Cuba,Costa Rica,Costa Rica,Walter Centeno,45,FALSE,FALSE
+2003-07-16,Cuba,Costa Rica,Costa Rica,Steven Bryce,72,FALSE,FALSE
+2003-07-16,Cuba,Costa Rica,Costa Rica,Erick Scott,77,FALSE,FALSE
+2003-07-16,El Salvador,Martinique,El Salvador,Marvin González,76,FALSE,FALSE
+2003-07-17,Colombia,Guatemala,Guatemala,Carlos Ruiz,21,FALSE,TRUE
+2003-07-17,Colombia,Guatemala,Colombia,Mauricio Molina,79,FALSE,FALSE
+2003-07-19,Colombia,Brazil,Brazil,Kaká,42,FALSE,FALSE
+2003-07-19,Colombia,Brazil,Brazil,Kaká,66,FALSE,FALSE
+2003-07-19,Costa Rica,El Salvador,Costa Rica,Erick Scott,11,FALSE,FALSE
+2003-07-19,Costa Rica,El Salvador,El Salvador,Gilberto Murgas,34,FALSE,TRUE
+2003-07-19,Costa Rica,El Salvador,Costa Rica,Walter Centeno,45,FALSE,FALSE
+2003-07-19,Costa Rica,El Salvador,El Salvador,Alfredo Pacheco,54,FALSE,FALSE
+2003-07-19,Costa Rica,El Salvador,Costa Rica,Walter Centeno,68,FALSE,TRUE
+2003-07-19,Costa Rica,El Salvador,Costa Rica,Steven Bryce,72,FALSE,FALSE
+2003-07-19,Costa Rica,El Salvador,Costa Rica,Walter Centeno,90,FALSE,TRUE
+2003-07-19,United States,Cuba,United States,Landon Donovan,22,FALSE,FALSE
+2003-07-19,United States,Cuba,United States,Landon Donovan,25,FALSE,FALSE
+2003-07-19,United States,Cuba,United States,Steve Ralston,42,FALSE,FALSE
+2003-07-19,United States,Cuba,United States,Landon Donovan,55,FALSE,FALSE
+2003-07-19,United States,Cuba,United States,Landon Donovan,76,FALSE,FALSE
+2003-07-20,Mexico,Jamaica,Mexico,Omar Bravo,38,FALSE,FALSE
+2003-07-20,Mexico,Jamaica,Mexico,Rafael García Torres,42,FALSE,FALSE
+2003-07-20,Mexico,Jamaica,Mexico,Daniel Osorno,55,FALSE,FALSE
+2003-07-20,Mexico,Jamaica,Mexico,Jared Borgetti,61,FALSE,FALSE
+2003-07-20,Mexico,Jamaica,Mexico,Juan Pablo Rodríguez,83,FALSE,FALSE
+2003-07-23,United States,Brazil,United States,Carlos Bocanegra,62,FALSE,FALSE
+2003-07-23,United States,Brazil,Brazil,Kaká,89,FALSE,FALSE
+2003-07-23,United States,Brazil,Brazil,Diego,100,FALSE,TRUE
+2003-07-24,Mexico,Costa Rica,Mexico,Rafael Márquez,19,FALSE,FALSE
+2003-07-24,Mexico,Costa Rica,Mexico,Jared Borgetti,28,FALSE,FALSE
+2003-07-26,United States,Costa Rica,Costa Rica,Rolando Fonseca,24,FALSE,FALSE
+2003-07-26,United States,Costa Rica,United States,Carlos Bocanegra,29,FALSE,FALSE
+2003-07-26,United States,Costa Rica,Costa Rica,Rolando Fonseca,39,FALSE,FALSE
+2003-07-26,United States,Costa Rica,United States,Earnie Stewart,56,FALSE,FALSE
+2003-07-26,United States,Costa Rica,United States,Bobby Convey,67,FALSE,FALSE
+2003-07-27,Mexico,Brazil,Mexico,Daniel Osorno,97,FALSE,FALSE
 2004-01-24,Tunisia,Rwanda,Tunisia,Ziad Jaziri,27,FALSE,FALSE
 2004-01-24,Tunisia,Rwanda,Rwanda,João Elias,41,FALSE,FALSE
 2004-01-24,Tunisia,Rwanda,Tunisia,Francileudo Santos,57,FALSE,FALSE
@@ -5616,7 +5970,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2004-07-14,Brazil,Paraguay,Paraguay,Fredy Bareiro,71,FALSE,FALSE
 2004-07-14,Costa Rica,Chile,Chile,Rafael Olarra,40,FALSE,FALSE
 2004-07-14,Costa Rica,Chile,Costa Rica,Mauricio Wright,60,FALSE,FALSE
-2004-07-14,Costa Rica,Chile,Costa Rica,Andy Herrón,90,FALSE,FALSE
+2004-07-14,Costa Rica,Chile,Costa Rica,Andy Herron,90,FALSE,FALSE
 2004-07-17,Colombia,Costa Rica,Colombia,Abel Aguilar,41,FALSE,FALSE
 2004-07-17,Colombia,Costa Rica,Colombia,Tressor Moreno,45,FALSE,FALSE
 2004-07-17,Peru,Argentina,Argentina,Carlos Tevez,60,FALSE,FALSE
@@ -5640,6 +5994,79 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2004-07-25,Argentina,Brazil,Brazil,Luisão,45,FALSE,FALSE
 2004-07-25,Argentina,Brazil,Argentina,César Delgado,87,FALSE,FALSE
 2004-07-25,Argentina,Brazil,Brazil,Adriano,90,FALSE,FALSE
+2005-07-06,Colombia,Panama,Panama,Luis Tejada,70,FALSE,FALSE
+2005-07-06,Trinidad and Tobago,Honduras,Trinidad and Tobago,Chris Birchall,28,FALSE,FALSE
+2005-07-06,Trinidad and Tobago,Honduras,Honduras,Maynor Figueroa,43,FALSE,FALSE
+2005-07-07,Canada,Costa Rica,Costa Rica,Jafet Soto,30,FALSE,TRUE
+2005-07-07,United States,Cuba,Cuba,Lester Moré,18,FALSE,FALSE
+2005-07-07,United States,Cuba,United States,Clint Dempsey,45,FALSE,FALSE
+2005-07-07,United States,Cuba,United States,Landon Donovan,87,FALSE,FALSE
+2005-07-07,United States,Cuba,United States,Landon Donovan,90,FALSE,FALSE
+2005-07-07,United States,Cuba,United States,DaMarcus Beasley,90,FALSE,FALSE
+2005-07-08,Guatemala,Jamaica,Jamaica,Luton Shelton,3,FALSE,FALSE
+2005-07-08,Guatemala,Jamaica,Jamaica,Ricardo Fuller,5,FALSE,FALSE
+2005-07-08,Guatemala,Jamaica,Guatemala,Carlos Ruiz,11,FALSE,TRUE
+2005-07-08,Guatemala,Jamaica,Guatemala,Carlos Ruiz,45,FALSE,FALSE
+2005-07-08,Guatemala,Jamaica,Jamaica,Andy Williams,45,FALSE,TRUE
+2005-07-08,Guatemala,Jamaica,Jamaica,Jermaine Hue,57,FALSE,FALSE
+2005-07-08,Guatemala,Jamaica,Guatemala,Carlos Ruiz,87,FALSE,FALSE
+2005-07-08,South Africa,Mexico,South Africa,Phil Evans,28,FALSE,FALSE
+2005-07-08,South Africa,Mexico,South Africa,Elrio van Heerden,41,FALSE,FALSE
+2005-07-08,South Africa,Mexico,Mexico,Francisco Javier Rodríguez,83,FALSE,FALSE
+2005-07-09,Costa Rica,Cuba,Costa Rica,Randall Brenes,61,FALSE,FALSE
+2005-07-09,Costa Rica,Cuba,Cuba,Maykel Galindo,72,FALSE,FALSE
+2005-07-09,Costa Rica,Cuba,Costa Rica,Jafet Soto,81,FALSE,TRUE
+2005-07-09,Costa Rica,Cuba,Costa Rica,Randall Brenes,85,FALSE,TRUE
+2005-07-09,United States,Canada,United States,Atiba Hutchinson,48,TRUE,FALSE
+2005-07-09,United States,Canada,United States,Landon Donovan,90,FALSE,FALSE
+2005-07-10,Honduras,Colombia,Colombia,Tressor Moreno,30,FALSE,TRUE
+2005-07-10,Honduras,Colombia,Honduras,Wilmer Velásquez,79,FALSE,FALSE
+2005-07-10,Honduras,Colombia,Honduras,Wilmer Velásquez,82,FALSE,FALSE
+2005-07-10,Jamaica,South Africa,Jamaica,Jermaine Hue,35,FALSE,FALSE
+2005-07-10,Jamaica,South Africa,South Africa,Abram Raselemane,35,FALSE,FALSE
+2005-07-10,Jamaica,South Africa,South Africa,Lungisani Ndlela,41,FALSE,FALSE
+2005-07-10,Jamaica,South Africa,Jamaica,Damion Stewart,45,FALSE,FALSE
+2005-07-10,Jamaica,South Africa,South Africa,Siyabonga Nomvethe,56,FALSE,FALSE
+2005-07-10,Jamaica,South Africa,Jamaica,Teafore Bennett,80,FALSE,FALSE
+2005-07-10,Mexico,Guatemala,Mexico,Jared Borgetti,5,FALSE,FALSE
+2005-07-10,Mexico,Guatemala,Mexico,Jared Borgetti,14,FALSE,FALSE
+2005-07-10,Mexico,Guatemala,Mexico,Gerardo Galindo,54,FALSE,FALSE
+2005-07-10,Mexico,Guatemala,Mexico,Omar Bravo,65,FALSE,FALSE
+2005-07-10,Panama,Trinidad and Tobago,Trinidad and Tobago,Marvin Andrews,17,FALSE,FALSE
+2005-07-10,Panama,Trinidad and Tobago,Panama,Luis Tejada,24,FALSE,FALSE
+2005-07-10,Panama,Trinidad and Tobago,Panama,Luis Tejada,90,FALSE,FALSE
+2005-07-10,Panama,Trinidad and Tobago,Trinidad and Tobago,Cornell Glen,90,FALSE,FALSE
+2005-07-12,Canada,Cuba,Canada,Ali Gerba,69,FALSE,FALSE
+2005-07-12,Canada,Cuba,Canada,Atiba Hutchinson,87,FALSE,FALSE
+2005-07-12,Canada,Cuba,Cuba,Alain Cervantes,90,FALSE,FALSE
+2005-07-12,Colombia,Trinidad and Tobago,Colombia,Abel Aguilar,77,FALSE,FALSE
+2005-07-12,Colombia,Trinidad and Tobago,Colombia,Héctor Hurtado,79,FALSE,FALSE
+2005-07-12,Honduras,Panama,Honduras,Samuel Caballero,80,FALSE,FALSE
+2005-07-13,Guatemala,South Africa,Guatemala,Gonzalo Romero,37,FALSE,FALSE
+2005-07-13,Guatemala,South Africa,South Africa,Siyabonga Nkosi,45,FALSE,FALSE
+2005-07-13,Mexico,Jamaica,Mexico,Alberto Medina,19,FALSE,FALSE
+2005-07-16,Honduras,Costa Rica,Honduras,Wilmer Velásquez,6,FALSE,FALSE
+2005-07-16,Honduras,Costa Rica,Honduras,Danilo Turcios,27,FALSE,FALSE
+2005-07-16,Honduras,Costa Rica,Honduras,Milton Núñez,30,FALSE,FALSE
+2005-07-16,Honduras,Costa Rica,Costa Rica,Christian Bolaños,40,FALSE,FALSE
+2005-07-16,Honduras,Costa Rica,Costa Rica,Bryan Ruiz,81,FALSE,FALSE
+2005-07-16,United States,Jamaica,United States,Josh Wolff,6,FALSE,FALSE
+2005-07-16,United States,Jamaica,United States,DaMarcus Beasley,42,FALSE,FALSE
+2005-07-16,United States,Jamaica,United States,DaMarcus Beasley,83,FALSE,FALSE
+2005-07-16,United States,Jamaica,Jamaica,Ricardo Fuller,88,FALSE,FALSE
+2005-07-17,Mexico,Colombia,Colombia,Jaime Castrillón,58,FALSE,FALSE
+2005-07-17,Mexico,Colombia,Mexico,Gonzalo Pineda,65,FALSE,FALSE
+2005-07-17,Mexico,Colombia,Colombia,Abel Aguilar,74,FALSE,FALSE
+2005-07-17,South Africa,Panama,Panama,Jorge Dely Valdés,48,FALSE,FALSE
+2005-07-17,South Africa,Panama,South Africa,Lungisani Ndlela,68,FALSE,FALSE
+2005-07-21,Colombia,Panama,Panama,Ricardo Phillips,11,FALSE,FALSE
+2005-07-21,Colombia,Panama,Panama,Jorge Dely Valdés,26,FALSE,FALSE
+2005-07-21,Colombia,Panama,Colombia,Jairo Patiño,63,FALSE,FALSE
+2005-07-21,Colombia,Panama,Panama,Ricardo Phillips,73,FALSE,FALSE
+2005-07-21,Colombia,Panama,Colombia,Jairo Patiño,89,FALSE,FALSE
+2005-07-21,United States,Honduras,Honduras,Iván Guerrero,30,FALSE,FALSE
+2005-07-21,United States,Honduras,United States,John O'Brien,86,FALSE,FALSE
+2005-07-21,United States,Honduras,United States,Oguchi Onyewu,90,FALSE,FALSE
 2006-01-20,Egypt,Libya,Egypt,Mido,18,FALSE,FALSE
 2006-01-20,Egypt,Libya,Egypt,Mohamed Aboutrika,22,FALSE,FALSE
 2006-01-20,Egypt,Libya,Egypt,Ahmed Hassan,78,FALSE,FALSE
@@ -5860,6 +6287,70 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2006-07-08,Germany,Portugal,Portugal,Nuno Gomes,88,FALSE,FALSE
 2006-07-09,Italy,France,France,Zinedine Zidane,7,FALSE,TRUE
 2006-07-09,Italy,France,Italy,Marco Materazzi,19,FALSE,FALSE
+2007-06-06,Costa Rica,Canada,Costa Rica,Walter Centeno,56,FALSE,FALSE
+2007-06-06,Costa Rica,Canada,Canada,Julian de Guzman,57,FALSE,FALSE
+2007-06-06,Costa Rica,Canada,Canada,Julian de Guzman,73,FALSE,FALSE
+2007-06-06,Guadeloupe,Haiti,Haiti,Monès Chéry,36,FALSE,TRUE
+2007-06-06,Guadeloupe,Haiti,Guadeloupe,Cédrick Fiston,54,FALSE,FALSE
+2007-06-07,El Salvador,Trinidad and Tobago,Trinidad and Tobago,Silvio Spann,8,FALSE,FALSE
+2007-06-07,El Salvador,Trinidad and Tobago,El Salvador,Ramón Sánchez,38,FALSE,FALSE
+2007-06-07,El Salvador,Trinidad and Tobago,El Salvador,Dennis Alas,81,FALSE,FALSE
+2007-06-07,United States,Guatemala,United States,Clint Dempsey,26,FALSE,FALSE
+2007-06-08,Mexico,Cuba,Cuba,Reynier Alcántara,23,FALSE,FALSE
+2007-06-08,Mexico,Cuba,Mexico,Jared Borgetti,38,FALSE,FALSE
+2007-06-08,Mexico,Cuba,Mexico,Nery Castillo,56,FALSE,FALSE
+2007-06-08,Panama,Honduras,Panama,Carlos Rivera,33,FALSE,FALSE
+2007-06-08,Panama,Honduras,Honduras,Amado Guevara,40,FALSE,FALSE
+2007-06-08,Panama,Honduras,Panama,Blas Pérez,42,FALSE,FALSE
+2007-06-08,Panama,Honduras,Panama,José Luis Garcés,83,FALSE,FALSE
+2007-06-08,Panama,Honduras,Honduras,Carlo Costly,90,FALSE,FALSE
+2007-06-09,Canada,Guadeloupe,Guadeloupe,Jocelyn Angloma,10,FALSE,FALSE
+2007-06-09,Canada,Guadeloupe,Canada,Ali Gerba,35,FALSE,FALSE
+2007-06-09,Canada,Guadeloupe,Guadeloupe,David Fleurival,37,FALSE,FALSE
+2007-06-09,Guatemala,El Salvador,Guatemala,José Manuel Contreras,68,FALSE,FALSE
+2007-06-09,Haiti,Costa Rica,Costa Rica,Walter Centeno,62,FALSE,FALSE
+2007-06-09,Haiti,Costa Rica,Haiti,Alexandre Boucicaut,71,FALSE,FALSE
+2007-06-09,United States,Trinidad and Tobago,United States,Brian Ching,29,FALSE,FALSE
+2007-06-09,United States,Trinidad and Tobago,United States,Eddie Johnson,54,FALSE,FALSE
+2007-06-10,Honduras,Mexico,Mexico,Cuauhtémoc Blanco,29,FALSE,TRUE
+2007-06-10,Honduras,Mexico,Honduras,Carlo Costly,57,FALSE,FALSE
+2007-06-10,Honduras,Mexico,Honduras,Carlo Costly,90,FALSE,FALSE
+2007-06-10,Panama,Cuba,Panama,José Luis Garcés,14,FALSE,FALSE
+2007-06-10,Panama,Cuba,Cuba,Jaime Colomé,27,FALSE,FALSE
+2007-06-10,Panama,Cuba,Panama,Blas Pérez,45,FALSE,FALSE
+2007-06-10,Panama,Cuba,Cuba,Reynier Alcántara,74,FALSE,FALSE
+2007-06-11,Costa Rica,Guadeloupe,Costa Rica,Walter Centeno,14,FALSE,FALSE
+2007-06-11,Haiti,Canada,Canada,Dwayne De Rosario,31,FALSE,FALSE
+2007-06-11,Haiti,Canada,Canada,Dwayne De Rosario,35,FALSE,TRUE
+2007-06-12,Trinidad and Tobago,Guatemala,Guatemala,Carlos Ruiz,83,FALSE,FALSE
+2007-06-12,Trinidad and Tobago,Guatemala,Trinidad and Tobago,Errol McFarlane,87,FALSE,FALSE
+2007-06-12,United States,El Salvador,United States,DaMarcus Beasley,34,FALSE,FALSE
+2007-06-12,United States,El Salvador,United States,Landon Donovan,45,FALSE,TRUE
+2007-06-12,United States,El Salvador,United States,Taylor Twellman,73,FALSE,FALSE
+2007-06-12,United States,El Salvador,United States,DaMarcus Beasley,89,FALSE,FALSE
+2007-06-13,Cuba,Honduras,Honduras,Carlos Pavón,3,FALSE,FALSE
+2007-06-13,Cuba,Honduras,Honduras,Carlos Pavón,12,FALSE,FALSE
+2007-06-13,Cuba,Honduras,Honduras,Carlos Pavón,42,FALSE,FALSE
+2007-06-13,Cuba,Honduras,Honduras,Carlos Pavón,53,FALSE,FALSE
+2007-06-13,Cuba,Honduras,Honduras,Amado Guevara,90,FALSE,TRUE
+2007-06-13,Mexico,Panama,Mexico,Carlos Salcido,60,FALSE,FALSE
+2007-06-16,Canada,Guatemala,Canada,Dwayne De Rosario,17,FALSE,FALSE
+2007-06-16,Canada,Guatemala,Canada,Ali Gerba,33,FALSE,FALSE
+2007-06-16,Canada,Guatemala,Canada,Ali Gerba,44,FALSE,FALSE
+2007-06-16,United States,Panama,United States,Landon Donovan,60,FALSE,TRUE
+2007-06-16,United States,Panama,United States,Carlos Bocanegra,62,FALSE,FALSE
+2007-06-16,United States,Panama,Panama,Blas Pérez,85,FALSE,FALSE
+2007-06-17,Honduras,Guadeloupe,Guadeloupe,Jocelyn Angloma,17,FALSE,FALSE
+2007-06-17,Honduras,Guadeloupe,Guadeloupe,Richard Socrier,20,FALSE,FALSE
+2007-06-17,Honduras,Guadeloupe,Honduras,Carlos Pavón,70,FALSE,FALSE
+2007-06-17,Mexico,Costa Rica,Mexico,Jared Borgetti,97,FALSE,FALSE
+2007-06-21,Mexico,Guadeloupe,Mexico,Pável Pardo,70,FALSE,FALSE
+2007-06-21,United States,Canada,United States,Frankie Hejduk,39,FALSE,FALSE
+2007-06-21,United States,Canada,United States,Landon Donovan,45,FALSE,TRUE
+2007-06-21,United States,Canada,Canada,Iain Hume,76,FALSE,FALSE
+2007-06-24,United States,Mexico,Mexico,Andrés Guardado,44,FALSE,FALSE
+2007-06-24,United States,Mexico,United States,Landon Donovan,62,FALSE,TRUE
+2007-06-24,United States,Mexico,United States,Benny Feilhaber,73,FALSE,FALSE
 2007-06-26,Uruguay,Peru,Peru,Miguel Villalta,27,FALSE,FALSE
 2007-06-26,Uruguay,Peru,Peru,Juan Carlos Mariño,70,FALSE,FALSE
 2007-06-26,Uruguay,Peru,Peru,Paolo Guerrero,88,FALSE,FALSE
@@ -6122,6 +6613,72 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2008-06-26,Russia,Spain,Spain,Dani Güiza,73,FALSE,FALSE
 2008-06-26,Russia,Spain,Spain,David Silva,82,FALSE,FALSE
 2008-06-29,Germany,Spain,Spain,Fernando Torres,33,FALSE,FALSE
+2009-07-03,Canada,Jamaica,Canada,Ali Gerba,75,FALSE,FALSE
+2009-07-03,Costa Rica,El Salvador,El Salvador,Osael Romero,19,FALSE,FALSE
+2009-07-03,Costa Rica,El Salvador,Costa Rica,Warren Granados,64,FALSE,FALSE
+2009-07-03,Costa Rica,El Salvador,El Salvador,Osael Romero,87,FALSE,FALSE
+2009-07-04,Honduras,Haiti,Honduras,Carlo Costly,76,FALSE,FALSE
+2009-07-04,United States,Grenada,United States,Freddy Adu,7,FALSE,FALSE
+2009-07-04,United States,Grenada,United States,Stuart Holden,31,FALSE,FALSE
+2009-07-04,United States,Grenada,United States,Robbie Rogers,60,FALSE,FALSE
+2009-07-04,United States,Grenada,United States,Charlie Davies,69,FALSE,FALSE
+2009-07-05,Nicaragua,Mexico,Mexico,Luis Miguel Noriega,45,FALSE,TRUE
+2009-07-05,Nicaragua,Mexico,Mexico,Pablo Barrera,86,FALSE,FALSE
+2009-07-05,Panama,Guadeloupe,Guadeloupe,Loïc Loval,33,FALSE,FALSE
+2009-07-05,Panama,Guadeloupe,Guadeloupe,David Fleurival,43,FALSE,FALSE
+2009-07-05,Panama,Guadeloupe,Panama,Nelson Barahona,68,FALSE,FALSE
+2009-07-07,El Salvador,Canada,Canada,Ali Gerba,32,FALSE,FALSE
+2009-07-07,Jamaica,Costa Rica,Costa Rica,Celso Borges,64,FALSE,FALSE
+2009-07-08,Haiti,Grenada,Haiti,Fabrice Noël,14,FALSE,FALSE
+2009-07-08,Haiti,Grenada,Haiti,James Marcelin,79,FALSE,FALSE
+2009-07-08,United States,Honduras,United States,Santino Quaranta,74,FALSE,FALSE
+2009-07-08,United States,Honduras,United States,Brian Ching,79,FALSE,FALSE
+2009-07-09,Guadeloupe,Nicaragua,Guadeloupe,Stéphane Auvray,57,FALSE,FALSE
+2009-07-09,Guadeloupe,Nicaragua,Guadeloupe,Ludovic Gotin,59,FALSE,FALSE
+2009-07-09,Mexico,Panama,Mexico,Miguel Sabah,10,FALSE,FALSE
+2009-07-09,Mexico,Panama,Panama,Blas Pérez,29,FALSE,FALSE
+2009-07-10,Costa Rica,Canada,Costa Rica,Andy Herron,23,FALSE,FALSE
+2009-07-10,Costa Rica,Canada,Canada,Patrice Bernier,25,FALSE,FALSE
+2009-07-10,Costa Rica,Canada,Canada,Marcel de Jong,28,FALSE,FALSE
+2009-07-10,Costa Rica,Canada,Costa Rica,Walter Centeno,35,FALSE,FALSE
+2009-07-10,El Salvador,Jamaica,Jamaica,Omar Cummings,70,FALSE,FALSE
+2009-07-11,Honduras,Grenada,Honduras,Walter Julián Martínez,2,FALSE,FALSE
+2009-07-11,Honduras,Grenada,Honduras,Roger Espinoza,25,FALSE,FALSE
+2009-07-11,Honduras,Grenada,Honduras,Melvin Valladares,56,FALSE,FALSE
+2009-07-11,Honduras,Grenada,Honduras,Carlo Costly,67,FALSE,FALSE
+2009-07-11,United States,Haiti,United States,Davy Arnaud,6,FALSE,FALSE
+2009-07-11,United States,Haiti,Haiti,Vaniel Sirin,46,FALSE,FALSE
+2009-07-11,United States,Haiti,Haiti,Monès Chéry,49,FALSE,FALSE
+2009-07-11,United States,Haiti,United States,Stuart Holden,90,FALSE,FALSE
+2009-07-12,Mexico,Guadeloupe,Mexico,Gerardo Torrado,42,FALSE,FALSE
+2009-07-12,Mexico,Guadeloupe,Mexico,Miguel Sabah,85,FALSE,FALSE
+2009-07-12,Panama,Nicaragua,Panama,Blas Pérez,35,FALSE,FALSE
+2009-07-12,Panama,Nicaragua,Panama,Gabriel Enrique Gómez,56,FALSE,FALSE
+2009-07-12,Panama,Nicaragua,Panama,Luis Tejada,76,FALSE,FALSE
+2009-07-12,Panama,Nicaragua,Panama,Luis Tejada,88,FALSE,FALSE
+2009-07-18,Canada,Honduras,Honduras,Walter Julián Martínez,36,FALSE,TRUE
+2009-07-18,United States,Panama,Panama,Blas Pérez,45,FALSE,FALSE
+2009-07-18,United States,Panama,United States,Kyle Beckerman,49,FALSE,FALSE
+2009-07-18,United States,Panama,United States,Kenny Cooper,106,FALSE,TRUE
+2009-07-19,Guadeloupe,Costa Rica,Costa Rica,Celso Borges,3,FALSE,FALSE
+2009-07-19,Guadeloupe,Costa Rica,Costa Rica,Álvaro Saborío,16,FALSE,FALSE
+2009-07-19,Guadeloupe,Costa Rica,Costa Rica,Andy Herron,47,FALSE,FALSE
+2009-07-19,Guadeloupe,Costa Rica,Guadeloupe,Alexandre Alphonse,64,FALSE,FALSE
+2009-07-19,Guadeloupe,Costa Rica,Costa Rica,Álvaro Saborío,71,FALSE,FALSE
+2009-07-19,Guadeloupe,Costa Rica,Costa Rica,Pablo Herrera Barrantes,89,FALSE,FALSE
+2009-07-19,Mexico,Haiti,Mexico,Miguel Sabah,23,FALSE,FALSE
+2009-07-19,Mexico,Haiti,Mexico,Giovani dos Santos,42,FALSE,FALSE
+2009-07-19,Mexico,Haiti,Mexico,Miguel Sabah,63,FALSE,FALSE
+2009-07-19,Mexico,Haiti,Mexico,Pablo Barrera,83,FALSE,FALSE
+2009-07-23,Costa Rica,Mexico,Mexico,Guillermo Franco,88,FALSE,FALSE
+2009-07-23,Costa Rica,Mexico,Costa Rica,Froylán Ledezma,90,FALSE,FALSE
+2009-07-23,United States,Honduras,United States,Clarence Goodson,45,FALSE,FALSE
+2009-07-23,United States,Honduras,United States,Kenny Cooper,90,FALSE,FALSE
+2009-07-26,United States,Mexico,Mexico,Gerardo Torrado,56,FALSE,TRUE
+2009-07-26,United States,Mexico,Mexico,Giovani dos Santos,62,FALSE,FALSE
+2009-07-26,United States,Mexico,Mexico,Carlos Vela,67,FALSE,FALSE
+2009-07-26,United States,Mexico,Mexico,José Antonio Castro,79,FALSE,FALSE
+2009-07-26,United States,Mexico,Mexico,Guillermo Franco,90,FALSE,FALSE
 2010-01-10,Angola,Mali,Angola,Flávio Amado,36,FALSE,FALSE
 2010-01-10,Angola,Mali,Angola,Flávio Amado,42,FALSE,FALSE
 2010-01-10,Angola,Mali,Angola,Sebastião Gilberto,67,FALSE,TRUE
@@ -6338,6 +6895,86 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2010-07-10,Uruguay,Germany,Germany,Marcell Jansen,56,FALSE,FALSE
 2010-07-10,Uruguay,Germany,Germany,Sami Khedira,82,FALSE,FALSE
 2010-07-11,Netherlands,Spain,Spain,Andrés Iniesta,116,FALSE,FALSE
+2011-06-05,Costa Rica,Cuba,Costa Rica,Marco Ureña,7,FALSE,FALSE
+2011-06-05,Costa Rica,Cuba,Costa Rica,Álvaro Saborío,41,FALSE,FALSE
+2011-06-05,Costa Rica,Cuba,Costa Rica,Marco Ureña,46,FALSE,FALSE
+2011-06-05,Costa Rica,Cuba,Costa Rica,Heiner Mora,47,FALSE,FALSE
+2011-06-05,Costa Rica,Cuba,Costa Rica,Joel Campbell,71,FALSE,FALSE
+2011-06-05,Mexico,El Salvador,Mexico,Efraín Juárez,55,FALSE,FALSE
+2011-06-05,Mexico,El Salvador,Mexico,Aldo de Nigris,58,FALSE,FALSE
+2011-06-05,Mexico,El Salvador,Mexico,Javier Hernández,60,FALSE,FALSE
+2011-06-05,Mexico,El Salvador,Mexico,Javier Hernández,67,FALSE,FALSE
+2011-06-05,Mexico,El Salvador,Mexico,Javier Hernández,90,FALSE,TRUE
+2011-06-06,Jamaica,Grenada,Jamaica,Luton Shelton,21,FALSE,FALSE
+2011-06-06,Jamaica,Grenada,Jamaica,Ryan Johnson,39,FALSE,FALSE
+2011-06-06,Jamaica,Grenada,Jamaica,Demar Phillips,79,FALSE,FALSE
+2011-06-06,Jamaica,Grenada,Jamaica,Omar Daley,84,FALSE,FALSE
+2011-06-07,Panama,Guadeloupe,Panama,Blas Pérez,29,FALSE,FALSE
+2011-06-07,Panama,Guadeloupe,Panama,Luis Tejada,31,FALSE,FALSE
+2011-06-07,Panama,Guadeloupe,Panama,Gabriel Enrique Gómez,57,FALSE,TRUE
+2011-06-07,Panama,Guadeloupe,Guadeloupe,Brice Jovial,65,FALSE,FALSE
+2011-06-07,Panama,Guadeloupe,Guadeloupe,Brice Jovial,78,FALSE,FALSE
+2011-06-07,United States,Canada,United States,Jozy Altidore,15,FALSE,FALSE
+2011-06-07,United States,Canada,United States,Clint Dempsey,62,FALSE,FALSE
+2011-06-09,Costa Rica,El Salvador,El Salvador,Rodolfo Zelaya,45,FALSE,FALSE
+2011-06-09,Costa Rica,El Salvador,Costa Rica,Randall Brenes,90,FALSE,FALSE
+2011-06-09,Cuba,Mexico,Mexico,Javier Hernández,35,FALSE,FALSE
+2011-06-09,Cuba,Mexico,Mexico,Giovani dos Santos,63,FALSE,FALSE
+2011-06-09,Cuba,Mexico,Mexico,Aldo de Nigris,65,FALSE,FALSE
+2011-06-09,Cuba,Mexico,Mexico,Giovani dos Santos,68,FALSE,FALSE
+2011-06-09,Cuba,Mexico,Mexico,Javier Hernández,76,FALSE,FALSE
+2011-06-10,Grenada,Honduras,Grenada,Clive Murray,20,FALSE,FALSE
+2011-06-10,Grenada,Honduras,Honduras,Jerry Bengtson,26,FALSE,FALSE
+2011-06-10,Grenada,Honduras,Honduras,Carlo Costly,28,FALSE,FALSE
+2011-06-10,Grenada,Honduras,Honduras,Jerry Bengtson,37,FALSE,FALSE
+2011-06-10,Grenada,Honduras,Honduras,Carlo Costly,67,FALSE,FALSE
+2011-06-10,Grenada,Honduras,Honduras,Carlo Costly,71,FALSE,FALSE
+2011-06-10,Grenada,Honduras,Honduras,Walter Julián Martínez,88,FALSE,FALSE
+2011-06-10,Grenada,Honduras,Honduras,Alfredo Mejía,90,FALSE,FALSE
+2011-06-10,Jamaica,Guatemala,Jamaica,Demar Phillips,66,FALSE,FALSE
+2011-06-10,Jamaica,Guatemala,Jamaica,Demar Phillips,76,FALSE,FALSE
+2011-06-11,Canada,Guadeloupe,Canada,Dwayne De Rosario,51,FALSE,TRUE
+2011-06-11,United States,Panama,Panama,Clarence Goodson,19,TRUE,FALSE
+2011-06-11,United States,Panama,Panama,Gabriel Enrique Gómez,36,FALSE,TRUE
+2011-06-11,United States,Panama,United States,Clarence Goodson,66,FALSE,FALSE
+2011-06-12,El Salvador,Cuba,El Salvador,Rodolfo Zelaya,13,FALSE,FALSE
+2011-06-12,El Salvador,Cuba,El Salvador,Osael Romero,29,FALSE,FALSE
+2011-06-12,El Salvador,Cuba,El Salvador,Léster Blanco,69,FALSE,FALSE
+2011-06-12,El Salvador,Cuba,El Salvador,Rodolfo Zelaya,71,FALSE,FALSE
+2011-06-12,El Salvador,Cuba,Cuba,Yénier Márquez,83,FALSE,FALSE
+2011-06-12,El Salvador,Cuba,El Salvador,Arturo Álvarez,84,FALSE,FALSE
+2011-06-12,El Salvador,Cuba,El Salvador,Eliseo Quintanilla,90,FALSE,FALSE
+2011-06-12,Mexico,Costa Rica,Mexico,Rafael Márquez,17,FALSE,FALSE
+2011-06-12,Mexico,Costa Rica,Mexico,Andrés Guardado,19,FALSE,FALSE
+2011-06-12,Mexico,Costa Rica,Mexico,Andrés Guardado,26,FALSE,FALSE
+2011-06-12,Mexico,Costa Rica,Mexico,Pablo Barrera,38,FALSE,FALSE
+2011-06-12,Mexico,Costa Rica,Costa Rica,Marco Ureña,69,FALSE,FALSE
+2011-06-13,Guatemala,Grenada,Guatemala,José Javier del Aguila,16,FALSE,FALSE
+2011-06-13,Guatemala,Grenada,Guatemala,Marco Pappa,22,FALSE,FALSE
+2011-06-13,Guatemala,Grenada,Guatemala,Carlos Ruiz,54,FALSE,FALSE
+2011-06-13,Guatemala,Grenada,Guatemala,Carlos Eduardo Gallardo,59,FALSE,FALSE
+2011-06-13,Honduras,Jamaica,Jamaica,Ryan Johnson,36,FALSE,FALSE
+2011-06-14,Canada,Panama,Canada,Dwayne De Rosario,62,FALSE,TRUE
+2011-06-14,Canada,Panama,Panama,Luis Tejada,90,FALSE,FALSE
+2011-06-14,United States,Guadeloupe,United States,Jozy Altidore,9,FALSE,FALSE
+2011-06-18,Costa Rica,Honduras,Honduras,Jerry Bengtson,49,FALSE,FALSE
+2011-06-18,Costa Rica,Honduras,Costa Rica,Dennis Marshall,56,FALSE,FALSE
+2011-06-18,Mexico,Guatemala,Guatemala,Carlos Ruiz,5,FALSE,FALSE
+2011-06-18,Mexico,Guatemala,Mexico,Aldo de Nigris,48,FALSE,FALSE
+2011-06-18,Mexico,Guatemala,Mexico,Javier Hernández,66,FALSE,FALSE
+2011-06-19,Panama,El Salvador,El Salvador,Rodolfo Zelaya,78,FALSE,TRUE
+2011-06-19,Panama,El Salvador,Panama,Luis Tejada,90,FALSE,FALSE
+2011-06-19,United States,Jamaica,United States,Jermaine Jones,49,FALSE,FALSE
+2011-06-19,United States,Jamaica,United States,Clint Dempsey,80,FALSE,FALSE
+2011-06-22,Honduras,Mexico,Mexico,Aldo de Nigris,93,FALSE,FALSE
+2011-06-22,Honduras,Mexico,Mexico,Javier Hernández,99,FALSE,FALSE
+2011-06-22,United States,Panama,United States,Clint Dempsey,76,FALSE,FALSE
+2011-06-25,United States,Mexico,United States,Michael Bradley,8,FALSE,FALSE
+2011-06-25,United States,Mexico,United States,Landon Donovan,23,FALSE,FALSE
+2011-06-25,United States,Mexico,Mexico,Pablo Barrera,29,FALSE,FALSE
+2011-06-25,United States,Mexico,Mexico,Andrés Guardado,36,FALSE,FALSE
+2011-06-25,United States,Mexico,Mexico,Pablo Barrera,50,FALSE,FALSE
+2011-06-25,United States,Mexico,Mexico,Giovani dos Santos,76,FALSE,FALSE
 2011-07-01,Argentina,Bolivia,Bolivia,Edivaldo Hermoza,47,FALSE,FALSE
 2011-07-01,Argentina,Bolivia,Argentina,Sergio Agüero,75,FALSE,FALSE
 2011-07-02,Colombia,Costa Rica,Colombia,Adrián Ramos,44,FALSE,FALSE
@@ -6613,6 +7250,73 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2013-02-09,Mali,Ghana,Ghana,Kwadwo Asamoah,82,FALSE,FALSE
 2013-02-09,Mali,Ghana,Mali,Sigamary Diarra,90,FALSE,FALSE
 2013-02-10,Nigeria,Burkina Faso,Nigeria,Sunday Mba,40,FALSE,FALSE
+2013-07-07,Canada,Martinique,Martinique,Fabrice Reuperné,90,FALSE,FALSE
+2013-07-07,Mexico,Panama,Panama,Gabriel Torres,7,FALSE,TRUE
+2013-07-07,Mexico,Panama,Mexico,Marco Fabián,45,FALSE,FALSE
+2013-07-07,Mexico,Panama,Panama,Gabriel Torres,48,FALSE,FALSE
+2013-07-08,El Salvador,Trinidad and Tobago,Trinidad and Tobago,Keon Daniel,11,FALSE,FALSE
+2013-07-08,El Salvador,Trinidad and Tobago,El Salvador,Rodolfo Zelaya,22,FALSE,FALSE
+2013-07-08,El Salvador,Trinidad and Tobago,El Salvador,Rodolfo Zelaya,69,FALSE,FALSE
+2013-07-08,El Salvador,Trinidad and Tobago,Trinidad and Tobago,Kenwyne Jones,73,FALSE,FALSE
+2013-07-08,Haiti,Honduras,Honduras,Rony Martínez,4,FALSE,FALSE
+2013-07-08,Haiti,Honduras,Honduras,Marvin Chávez,78,FALSE,FALSE
+2013-07-09,Costa Rica,Cuba,Costa Rica,Michael Barrantes,52,FALSE,FALSE
+2013-07-09,Costa Rica,Cuba,Costa Rica,Jairo Arrieta,71,FALSE,FALSE
+2013-07-09,Costa Rica,Cuba,Costa Rica,Michael Barrantes,77,FALSE,FALSE
+2013-07-09,United States,Belize,United States,Chris Wondolowski,12,FALSE,FALSE
+2013-07-09,United States,Belize,United States,Chris Wondolowski,37,FALSE,FALSE
+2013-07-09,United States,Belize,Belize,Ian Gaynair,40,FALSE,FALSE
+2013-07-09,United States,Belize,United States,Chris Wondolowski,41,FALSE,FALSE
+2013-07-09,United States,Belize,United States,Stuart Holden,58,FALSE,FALSE
+2013-07-09,United States,Belize,United States,Michael Orozco Fiscal,72,FALSE,FALSE
+2013-07-09,United States,Belize,United States,Landon Donovan,76,FALSE,TRUE
+2013-07-11,Mexico,Canada,Mexico,Raúl Jiménez,42,FALSE,FALSE
+2013-07-11,Mexico,Canada,Mexico,Marco Fabián,57,FALSE,TRUE
+2013-07-11,Panama,Martinique,Panama,Gabriel Torres,85,FALSE,TRUE
+2013-07-12,Honduras,El Salvador,Honduras,Jorge Claros,90,FALSE,FALSE
+2013-07-12,Trinidad and Tobago,Haiti,Haiti,Jean-Eudes Maurice,16,FALSE,FALSE
+2013-07-12,Trinidad and Tobago,Haiti,Haiti,Jean-Eudes Maurice,53,FALSE,FALSE
+2013-07-13,Costa Rica,Belize,Costa Rica,Dalton Eiley,49,TRUE,FALSE
+2013-07-13,United States,Cuba,Cuba,José Ciprian Alfonso,36,FALSE,FALSE
+2013-07-13,United States,Cuba,United States,Landon Donovan,45,FALSE,TRUE
+2013-07-13,United States,Cuba,United States,Joe Corona,57,FALSE,FALSE
+2013-07-13,United States,Cuba,United States,Chris Wondolowski,66,FALSE,FALSE
+2013-07-13,United States,Cuba,United States,Chris Wondolowski,85,FALSE,FALSE
+2013-07-14,Martinique,Mexico,Mexico,Marco Fabián,21,FALSE,FALSE
+2013-07-14,Martinique,Mexico,Mexico,Luis Montes,34,FALSE,FALSE
+2013-07-14,Martinique,Mexico,Martinique,Kévin Parsemain,43,FALSE,TRUE
+2013-07-14,Martinique,Mexico,Mexico,Miguel Ángel Ponce,90,FALSE,FALSE
+2013-07-15,El Salvador,Haiti,El Salvador,Rodolfo Zelaya,76,FALSE,FALSE
+2013-07-15,Honduras,Trinidad and Tobago,Trinidad and Tobago,Kenwyne Jones,48,FALSE,TRUE
+2013-07-15,Honduras,Trinidad and Tobago,Trinidad and Tobago,Kevin Molino,67,FALSE,FALSE
+2013-07-16,Cuba,Belize,Cuba,Ariel Martínez,38,FALSE,FALSE
+2013-07-16,Cuba,Belize,Cuba,Ariel Martínez,61,FALSE,FALSE
+2013-07-16,Cuba,Belize,Cuba,Ariel Martínez,84,FALSE,FALSE
+2013-07-16,Cuba,Belize,Cuba,Yénier Márquez,90,FALSE,FALSE
+2013-07-16,United States,Costa Rica,United States,Brek Shea,82,FALSE,FALSE
+2013-07-20,Mexico,Trinidad and Tobago,Mexico,Raúl Jiménez,84,FALSE,FALSE
+2013-07-20,Panama,Cuba,Cuba,José Ciprian Alfonso,21,FALSE,FALSE
+2013-07-20,Panama,Cuba,Panama,Gabriel Torres,25,FALSE,TRUE
+2013-07-20,Panama,Cuba,Panama,Gabriel Torres,37,FALSE,FALSE
+2013-07-20,Panama,Cuba,Panama,Carlos Gabriel Rodríguez,68,FALSE,FALSE
+2013-07-20,Panama,Cuba,Panama,Blas Pérez,78,FALSE,FALSE
+2013-07-20,Panama,Cuba,Panama,Jairo Jiménez,85,FALSE,FALSE
+2013-07-20,Panama,Cuba,Panama,Blas Pérez,88,FALSE,FALSE
+2013-07-21,Honduras,Costa Rica,Honduras,Andy Najar,49,FALSE,FALSE
+2013-07-21,United States,El Salvador,United States,Clarence Goodson,21,FALSE,FALSE
+2013-07-21,United States,El Salvador,United States,Joe Corona,29,FALSE,FALSE
+2013-07-21,United States,El Salvador,El Salvador,Rodolfo Zelaya,39,FALSE,TRUE
+2013-07-21,United States,El Salvador,United States,Eddie Johnson,60,FALSE,FALSE
+2013-07-21,United States,El Salvador,United States,Landon Donovan,78,FALSE,FALSE
+2013-07-21,United States,El Salvador,United States,Mikkel Diskerud,83,FALSE,FALSE
+2013-07-24,Panama,Mexico,Panama,Blas Pérez,13,FALSE,FALSE
+2013-07-24,Panama,Mexico,Mexico,Luis Montes,26,FALSE,FALSE
+2013-07-24,Panama,Mexico,Panama,Román Torres,61,FALSE,FALSE
+2013-07-24,United States,Honduras,United States,Eddie Johnson,11,FALSE,FALSE
+2013-07-24,United States,Honduras,United States,Landon Donovan,27,FALSE,FALSE
+2013-07-24,United States,Honduras,Honduras,Nery Medina,52,FALSE,FALSE
+2013-07-24,United States,Honduras,United States,Landon Donovan,53,FALSE,FALSE
+2013-07-28,United States,Panama,United States,Brek Shea,69,FALSE,FALSE
 2014-06-12,Brazil,Croatia,Croatia,Marcelo,12,TRUE,FALSE
 2014-06-12,Brazil,Croatia,Brazil,Neymar,29,FALSE,FALSE
 2014-06-12,Brazil,Croatia,Brazil,Neymar,71,FALSE,TRUE
@@ -6911,6 +7615,68 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-06-30,Argentina,Paraguay,Argentina,Gonzalo Higuaín,82,FALSE,FALSE
 2015-07-03,Peru,Paraguay,Peru,André Carrillo,48,FALSE,FALSE
 2015-07-03,Peru,Paraguay,Peru,Paolo Guerrero,89,FALSE,FALSE
+2015-07-07,Panama,Haiti,Panama,Alberto Quintero,56,FALSE,FALSE
+2015-07-07,Panama,Haiti,Haiti,Duckens Nazon,86,FALSE,FALSE
+2015-07-07,United States,Honduras,United States,Clint Dempsey,25,FALSE,FALSE
+2015-07-07,United States,Honduras,United States,Clint Dempsey,64,FALSE,FALSE
+2015-07-07,United States,Honduras,Honduras,Carlos Discua,69,FALSE,FALSE
+2015-07-08,Costa Rica,Jamaica,Jamaica,Garath McCleary,13,FALSE,FALSE
+2015-07-08,Costa Rica,Jamaica,Costa Rica,Roy Miller,33,FALSE,FALSE
+2015-07-08,Costa Rica,Jamaica,Costa Rica,David Ramírez,37,FALSE,FALSE
+2015-07-08,Costa Rica,Jamaica,Jamaica,Jobi McAnuff,48,FALSE,FALSE
+2015-07-09,Mexico,Cuba,Mexico,Oribe Peralta,17,FALSE,FALSE
+2015-07-09,Mexico,Cuba,Mexico,Carlos Vela,23,FALSE,FALSE
+2015-07-09,Mexico,Cuba,Mexico,Oribe Peralta,37,FALSE,FALSE
+2015-07-09,Mexico,Cuba,Mexico,Andrés Guardado,44,FALSE,FALSE
+2015-07-09,Mexico,Cuba,Mexico,Oribe Peralta,62,FALSE,FALSE
+2015-07-09,Mexico,Cuba,Mexico,Giovani dos Santos,75,FALSE,FALSE
+2015-07-09,Trinidad and Tobago,Guatemala,Trinidad and Tobago,Sheldon Bateau,11,FALSE,FALSE
+2015-07-09,Trinidad and Tobago,Guatemala,Trinidad and Tobago,Cordell Cato,14,FALSE,FALSE
+2015-07-09,Trinidad and Tobago,Guatemala,Trinidad and Tobago,Joevin Jones,25,FALSE,FALSE
+2015-07-09,Trinidad and Tobago,Guatemala,Guatemala,Carlos Ruiz,62,FALSE,FALSE
+2015-07-10,Honduras,Panama,Panama,Luis Tejada,21,FALSE,FALSE
+2015-07-10,Honduras,Panama,Honduras,Andy Najar,82,FALSE,FALSE
+2015-07-10,United States,Haiti,United States,Clint Dempsey,47,FALSE,FALSE
+2015-07-11,Costa Rica,El Salvador,Costa Rica,Bryan Ruiz,61,FALSE,FALSE
+2015-07-11,Costa Rica,El Salvador,El Salvador,Dustin Corea,90,FALSE,FALSE
+2015-07-11,Jamaica,Canada,Jamaica,Rodolph Austin,90,FALSE,FALSE
+2015-07-12,Trinidad and Tobago,Cuba,Trinidad and Tobago,Sheldon Bateau,17,FALSE,FALSE
+2015-07-12,Trinidad and Tobago,Cuba,Trinidad and Tobago,Andre Boucaud,42,FALSE,FALSE
+2015-07-13,Honduras,Haiti,Haiti,Duckens Nazon,14,FALSE,FALSE
+2015-07-13,United States,Panama,Panama,Blas Pérez,34,FALSE,FALSE
+2015-07-13,United States,Panama,United States,Michael Bradley,55,FALSE,FALSE
+2015-07-14,Jamaica,El Salvador,Jamaica,Garath McCleary,72,FALSE,FALSE
+2015-07-15,Guatemala,Cuba,Cuba,Maikel Reyes,73,FALSE,FALSE
+2015-07-15,Trinidad and Tobago,Mexico,Mexico,Paul Aguilar,32,FALSE,FALSE
+2015-07-15,Trinidad and Tobago,Mexico,Mexico,Carlos Vela,51,FALSE,FALSE
+2015-07-15,Trinidad and Tobago,Mexico,Trinidad and Tobago,Keron Cummings,55,FALSE,FALSE
+2015-07-15,Trinidad and Tobago,Mexico,Trinidad and Tobago,Kenwyne Jones,58,FALSE,FALSE
+2015-07-15,Trinidad and Tobago,Mexico,Trinidad and Tobago,Keron Cummings,67,FALSE,FALSE
+2015-07-15,Trinidad and Tobago,Mexico,Mexico,Andrés Guardado,88,FALSE,FALSE
+2015-07-15,Trinidad and Tobago,Mexico,Mexico,Kenwyne Jones,90,TRUE,FALSE
+2015-07-15,Trinidad and Tobago,Mexico,Trinidad and Tobago,Yohance Marshall,90,FALSE,FALSE
+2015-07-18,Haiti,Jamaica,Jamaica,Giles Barnes,6,FALSE,FALSE
+2015-07-18,United States,Cuba,United States,Clint Dempsey,4,FALSE,FALSE
+2015-07-18,United States,Cuba,United States,Gyasi Zardes,15,FALSE,FALSE
+2015-07-18,United States,Cuba,United States,Aron Jóhannsson,32,FALSE,FALSE
+2015-07-18,United States,Cuba,United States,Omar Gonzalez,45,FALSE,FALSE
+2015-07-18,United States,Cuba,United States,Clint Dempsey,64,FALSE,TRUE
+2015-07-18,United States,Cuba,United States,Clint Dempsey,78,FALSE,FALSE
+2015-07-19,Mexico,Costa Rica,Mexico,Andrés Guardado,120,FALSE,TRUE
+2015-07-19,Trinidad and Tobago,Panama,Panama,Luis Tejada,36,FALSE,FALSE
+2015-07-19,Trinidad and Tobago,Panama,Trinidad and Tobago,Kenwyne Jones,53,FALSE,FALSE
+2015-07-22,Panama,Mexico,Panama,Román Torres,57,FALSE,FALSE
+2015-07-22,Panama,Mexico,Mexico,Andrés Guardado,90,FALSE,TRUE
+2015-07-22,Panama,Mexico,Mexico,Andrés Guardado,105,FALSE,TRUE
+2015-07-22,United States,Jamaica,Jamaica,Darren Mattocks,30,FALSE,FALSE
+2015-07-22,United States,Jamaica,Jamaica,Giles Barnes,35,FALSE,FALSE
+2015-07-22,United States,Jamaica,United States,Michael Bradley,47,FALSE,FALSE
+2015-07-25,United States,Panama,Panama,Roberto Nurse,55,FALSE,FALSE
+2015-07-25,United States,Panama,United States,Clint Dempsey,70,FALSE,FALSE
+2015-07-26,Jamaica,Mexico,Mexico,Andrés Guardado,31,FALSE,FALSE
+2015-07-26,Jamaica,Mexico,Mexico,Jesús Manuel Corona,46,FALSE,FALSE
+2015-07-26,Jamaica,Mexico,Mexico,Oribe Peralta,60,FALSE,FALSE
+2015-07-26,Jamaica,Mexico,Jamaica,Darren Mattocks,78,FALSE,FALSE
 2016-06-03,United States,Colombia,Colombia,Cristián Zapata,8,FALSE,FALSE
 2016-06-03,United States,Colombia,Colombia,James Rodríguez,42,FALSE,TRUE
 2016-06-04,Haiti,Peru,Peru,Paolo Guerrero,61,FALSE,FALSE
@@ -7176,6 +7942,61 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2017-02-05,Egypt,Cameroon,Egypt,Mohamed Elneny,22,FALSE,FALSE
 2017-02-05,Egypt,Cameroon,Cameroon,Nicolas Nkoulou,59,FALSE,FALSE
 2017-02-05,Egypt,Cameroon,Cameroon,Vincent Aboubakar,88,FALSE,FALSE
+2017-07-07,French Guiana,Canada,Canada,Dejan Jakovic,28,FALSE,FALSE
+2017-07-07,French Guiana,Canada,Canada,Scott Arfield,45,FALSE,FALSE
+2017-07-07,French Guiana,Canada,Canada,Alphonso Davies,60,FALSE,FALSE
+2017-07-07,French Guiana,Canada,French Guiana,Roy Contout,69,FALSE,FALSE
+2017-07-07,French Guiana,Canada,French Guiana,Sloan Privat,71,FALSE,FALSE
+2017-07-07,French Guiana,Canada,Canada,Alphonso Davies,86,FALSE,FALSE
+2017-07-07,Honduras,Costa Rica,Costa Rica,Marco Ureña,39,FALSE,FALSE
+2017-07-08,Martinique,Nicaragua,Martinique,Kévin Parsemain,35,FALSE,FALSE
+2017-07-08,Martinique,Nicaragua,Martinique,Steeven Langil,66,FALSE,FALSE
+2017-07-08,United States,Panama,United States,Dom Dwyer,50,FALSE,FALSE
+2017-07-08,United States,Panama,Panama,Miguel Camargo,60,FALSE,FALSE
+2017-07-09,Curaçao,Jamaica,Jamaica,Romario Williams,58,FALSE,FALSE
+2017-07-09,Curaçao,Jamaica,Jamaica,Darren Mattocks,73,FALSE,FALSE
+2017-07-09,Mexico,El Salvador,Mexico,Hedgardo Marín,8,FALSE,FALSE
+2017-07-09,Mexico,El Salvador,El Salvador,Nelson Bonilla,10,FALSE,FALSE
+2017-07-09,Mexico,El Salvador,Mexico,Elías Hernández,29,FALSE,FALSE
+2017-07-09,Mexico,El Salvador,Mexico,Orbelín Pineda,55,FALSE,FALSE
+2017-07-11,Costa Rica,Canada,Canada,Alphonso Davies,26,FALSE,FALSE
+2017-07-11,Costa Rica,Canada,Costa Rica,Francisco Calvo,42,FALSE,FALSE
+2017-07-12,Panama,Nicaragua,Nicaragua,Carlos Chavarría,48,FALSE,FALSE
+2017-07-12,Panama,Nicaragua,Panama,Ismael Díaz,49,FALSE,FALSE
+2017-07-12,Panama,Nicaragua,Panama,Gabriel Torres,57,FALSE,FALSE
+2017-07-12,United States,Martinique,United States,Omar Gonzalez,53,FALSE,FALSE
+2017-07-12,United States,Martinique,United States,Jordan Morris,64,FALSE,FALSE
+2017-07-12,United States,Martinique,Martinique,Kévin Parsemain,66,FALSE,FALSE
+2017-07-12,United States,Martinique,Martinique,Kévin Parsemain,74,FALSE,FALSE
+2017-07-12,United States,Martinique,United States,Jordan Morris,76,FALSE,FALSE
+2017-07-13,El Salvador,Curaçao,El Salvador,Gerson Mayen,21,FALSE,FALSE
+2017-07-13,El Salvador,Curaçao,El Salvador,Rodolfo Zelaya,24,FALSE,FALSE
+2017-07-14,Costa Rica,French Guiana,Costa Rica,Ariel Francisco Rodríguez,4,FALSE,FALSE
+2017-07-14,Costa Rica,French Guiana,Costa Rica,Rodney Wallace,79,FALSE,FALSE
+2017-07-14,Costa Rica,French Guiana,Costa Rica,David Ramírez,83,FALSE,FALSE
+2017-07-15,Panama,Martinique,Panama,Michael Amir Murillo,44,FALSE,FALSE
+2017-07-15,Panama,Martinique,Panama,Abdiel Arroyo,60,FALSE,FALSE
+2017-07-15,Panama,Martinique,Panama,Gabriel Torres,67,FALSE,FALSE
+2017-07-15,United States,Nicaragua,United States,Joe Corona,37,FALSE,FALSE
+2017-07-15,United States,Nicaragua,United States,Kelyn Rowe,56,FALSE,FALSE
+2017-07-15,United States,Nicaragua,United States,Matt Miazga,88,FALSE,FALSE
+2017-07-16,Curaçao,Mexico,Mexico,Ángel Sepúlveda,22,FALSE,FALSE
+2017-07-16,Curaçao,Mexico,Mexico,Edson Álvarez,90,FALSE,FALSE
+2017-07-16,Jamaica,El Salvador,El Salvador,Nelson Bonilla,15,FALSE,FALSE
+2017-07-16,Jamaica,El Salvador,Jamaica,Darren Mattocks,63,FALSE,TRUE
+2017-07-19,Costa Rica,Panama,Costa Rica,Aníbal Godoy,77,TRUE,FALSE
+2017-07-19,United States,El Salvador,United States,Omar Gonzalez,41,FALSE,FALSE
+2017-07-19,United States,El Salvador,United States,Eric Lichaj,45,FALSE,FALSE
+2017-07-20,Jamaica,Canada,Jamaica,Shaun Francis,6,FALSE,FALSE
+2017-07-20,Jamaica,Canada,Jamaica,Romario Williams,50,FALSE,FALSE
+2017-07-20,Jamaica,Canada,Canada,Junior Hoilett,61,FALSE,FALSE
+2017-07-20,Mexico,Honduras,Mexico,Rodolfo Pizarro,4,FALSE,FALSE
+2017-07-22,United States,Costa Rica,United States,Jozy Altidore,72,FALSE,FALSE
+2017-07-22,United States,Costa Rica,United States,Clint Dempsey,82,FALSE,FALSE
+2017-07-23,Mexico,Jamaica,Jamaica,Kemar Lawrence,88,FALSE,FALSE
+2017-07-26,United States,Jamaica,United States,Jozy Altidore,45,FALSE,FALSE
+2017-07-26,United States,Jamaica,Jamaica,Je-Vaughn Watson,50,FALSE,FALSE
+2017-07-26,United States,Jamaica,United States,Jordan Morris,88,FALSE,FALSE
 2018-06-14,Russia,Saudi Arabia,Russia,Yury Gazinsky,12,FALSE,FALSE
 2018-06-14,Russia,Saudi Arabia,Russia,Denis Cheryshev,43,FALSE,FALSE
 2018-06-14,Russia,Saudi Arabia,Russia,Artem Dzyuba,71,FALSE,FALSE
@@ -7350,6 +8171,24 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-06-14,Brazil,Bolivia,Brazil,Everton Soares,85,FALSE,FALSE
 2019-06-15,Argentina,Colombia,Colombia,Roger Martínez,71,FALSE,FALSE
 2019-06-15,Argentina,Colombia,Colombia,Duván Zapata,86,FALSE,FALSE
+2019-06-15,Canada,Martinique,Canada,Jonathan David,33,FALSE,FALSE
+2019-06-15,Canada,Martinique,Canada,Jonathan David,53,FALSE,FALSE
+2019-06-15,Canada,Martinique,Canada,Junior Hoilett,63,FALSE,FALSE
+2019-06-15,Canada,Martinique,Canada,Scott Arfield,67,FALSE,FALSE
+2019-06-15,Mexico,Cuba,Mexico,Uriel Antuna,2,FALSE,FALSE
+2019-06-15,Mexico,Cuba,Mexico,Raúl Jiménez,31,FALSE,FALSE
+2019-06-15,Mexico,Cuba,Mexico,Diego Antonio Reyes,38,FALSE,FALSE
+2019-06-15,Mexico,Cuba,Mexico,Uriel Antuna,44,FALSE,FALSE
+2019-06-15,Mexico,Cuba,Mexico,Raúl Jiménez,64,FALSE,FALSE
+2019-06-15,Mexico,Cuba,Mexico,Alexis Vega,74,FALSE,FALSE
+2019-06-15,Mexico,Cuba,Mexico,Uriel Antuna,80,FALSE,FALSE
+2019-06-16,Costa Rica,Nicaragua,Costa Rica,Bryan Oviedo,7,FALSE,FALSE
+2019-06-16,Costa Rica,Nicaragua,Costa Rica,Celso Borges,19,FALSE,FALSE
+2019-06-16,Costa Rica,Nicaragua,Costa Rica,Elías Aguilar,45,FALSE,FALSE
+2019-06-16,Costa Rica,Nicaragua,Costa Rica,Allan Cruz,75,FALSE,FALSE
+2019-06-16,Haiti,Bermuda,Bermuda,Dante Leverock,45,FALSE,FALSE
+2019-06-16,Haiti,Bermuda,Haiti,Frantzdy Pierrot,54,FALSE,FALSE
+2019-06-16,Haiti,Bermuda,Haiti,Frantzdy Pierrot,66,FALSE,FALSE
 2019-06-16,Paraguay,Qatar,Paraguay,Óscar Cardozo,4,FALSE,TRUE
 2019-06-16,Paraguay,Qatar,Paraguay,Derlis González,56,FALSE,FALSE
 2019-06-16,Paraguay,Qatar,Qatar,Almoez Ali,68,FALSE,FALSE
@@ -7358,6 +8197,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-06-16,Uruguay,Ecuador,Uruguay,Edinson Cavani,33,FALSE,FALSE
 2019-06-16,Uruguay,Ecuador,Uruguay,Luis Suárez,44,FALSE,FALSE
 2019-06-16,Uruguay,Ecuador,Uruguay,Arturo Mina,78,TRUE,FALSE
+2019-06-17,Curaçao,El Salvador,El Salvador,Nelson Bonilla,45,FALSE,FALSE
+2019-06-17,Jamaica,Honduras,Jamaica,Dever Orgill,15,FALSE,FALSE
+2019-06-17,Jamaica,Honduras,Jamaica,Dever Orgill,41,FALSE,FALSE
+2019-06-17,Jamaica,Honduras,Honduras,Anthony Lozano,54,FALSE,FALSE
+2019-06-17,Jamaica,Honduras,Jamaica,Damion Lowe,56,FALSE,FALSE
+2019-06-17,Jamaica,Honduras,Honduras,Rubilio Castillo,90,FALSE,FALSE
 2019-06-17,Japan,Chile,Chile,Erick Pulgar,41,FALSE,FALSE
 2019-06-17,Japan,Chile,Chile,Eduardo Vargas,54,FALSE,FALSE
 2019-06-17,Japan,Chile,Chile,Alexis Sánchez,82,FALSE,FALSE
@@ -7366,9 +8211,27 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-06-18,Bolivia,Peru,Peru,Paolo Guerrero,45,FALSE,FALSE
 2019-06-18,Bolivia,Peru,Peru,Jefferson Farfán,55,FALSE,FALSE
 2019-06-18,Bolivia,Peru,Peru,Edison Flores,90,FALSE,FALSE
+2019-06-18,Panama,Trinidad and Tobago,Panama,Armando Cooper,53,FALSE,FALSE
+2019-06-18,Panama,Trinidad and Tobago,Panama,Yoel Bárcenas,68,FALSE,FALSE
+2019-06-18,United States,Guyana,United States,Paul Arriola,28,FALSE,FALSE
+2019-06-18,United States,Guyana,United States,Tyler Boyd,51,FALSE,FALSE
+2019-06-18,United States,Guyana,United States,Gyasi Zardes,55,FALSE,FALSE
+2019-06-18,United States,Guyana,United States,Tyler Boyd,81,FALSE,FALSE
 2019-06-19,Argentina,Paraguay,Paraguay,Richard Sánchez,37,FALSE,FALSE
 2019-06-19,Argentina,Paraguay,Argentina,Lionel Messi,57,FALSE,TRUE
 2019-06-19,Colombia,Qatar,Colombia,Duván Zapata,86,FALSE,FALSE
+2019-06-19,Cuba,Martinique,Martinique,Joris Marveaux,45,FALSE,FALSE
+2019-06-19,Cuba,Martinique,Martinique,Stéphane Abaul,70,FALSE,FALSE
+2019-06-19,Cuba,Martinique,Martinique,Kévin Fortuné,84,FALSE,FALSE
+2019-06-19,Mexico,Canada,Mexico,Roberto Alvarado,40,FALSE,FALSE
+2019-06-19,Mexico,Canada,Mexico,Andrés Guardado,54,FALSE,FALSE
+2019-06-19,Mexico,Canada,Canada,Lucas Cavallini,75,FALSE,FALSE
+2019-06-19,Mexico,Canada,Mexico,Andrés Guardado,77,FALSE,FALSE
+2019-06-20,Costa Rica,Bermuda,Costa Rica,Mayron George,30,FALSE,FALSE
+2019-06-20,Costa Rica,Bermuda,Costa Rica,Elías Aguilar,54,FALSE,FALSE
+2019-06-20,Costa Rica,Bermuda,Bermuda,Nahki Wells,59,FALSE,TRUE
+2019-06-20,Nicaragua,Haiti,Haiti,Steeven Saba,22,FALSE,FALSE
+2019-06-20,Nicaragua,Haiti,Haiti,Manuel Rosas Arreola,33,TRUE,FALSE
 2019-06-20,Uruguay,Japan,Japan,Koji Miyoshi,25,FALSE,FALSE
 2019-06-20,Uruguay,Japan,Uruguay,Luis Suárez,32,FALSE,TRUE
 2019-06-20,Uruguay,Japan,Japan,Koji Miyoshi,59,FALSE,FALSE
@@ -7377,6 +8240,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-06-21,Ecuador,Chile,Ecuador,Enner Valencia,26,FALSE,TRUE
 2019-06-21,Ecuador,Chile,Chile,Alexis Sánchez,51,FALSE,FALSE
 2019-06-21,Egypt,Zimbabwe,Egypt,Trézéguet,41,FALSE,FALSE
+2019-06-21,Honduras,Curaçao,Curaçao,Leandro Bacuna,40,FALSE,FALSE
 2019-06-22,Bolivia,Venezuela,Venezuela,Darwin Machís,2,FALSE,FALSE
 2019-06-22,Bolivia,Venezuela,Venezuela,Darwin Machís,55,FALSE,FALSE
 2019-06-22,Bolivia,Venezuela,Bolivia,Leonel Justiniano,82,FALSE,FALSE
@@ -7392,18 +8256,47 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-06-22,Guinea,Madagascar,Madagascar,Anicet Abel,49,FALSE,FALSE
 2019-06-22,Guinea,Madagascar,Madagascar,Carolus Andriamatsinoro,55,FALSE,FALSE
 2019-06-22,Guinea,Madagascar,Guinea,François Kamano,66,FALSE,TRUE
+2019-06-22,Guyana,Panama,Panama,Abdiel Arroyo,16,FALSE,FALSE
+2019-06-22,Guyana,Panama,Guyana,Neil Danns,33,FALSE,TRUE
+2019-06-22,Guyana,Panama,Panama,Terence Vancooten,40,TRUE,FALSE
+2019-06-22,Guyana,Panama,Panama,Eric Davis,51,FALSE,TRUE
+2019-06-22,Guyana,Panama,Panama,Gabriel Torres,86,FALSE,FALSE
+2019-06-22,Guyana,Panama,Guyana,Neil Danns,90,FALSE,TRUE
 2019-06-22,Nigeria,Burundi,Nigeria,Odion Ighalo,77,FALSE,FALSE
+2019-06-22,United States,Trinidad and Tobago,United States,Aaron Long,41,FALSE,FALSE
+2019-06-22,United States,Trinidad and Tobago,United States,Gyasi Zardes,66,FALSE,FALSE
+2019-06-22,United States,Trinidad and Tobago,United States,Gyasi Zardes,69,FALSE,FALSE
+2019-06-22,United States,Trinidad and Tobago,United States,Christian Pulisic,73,FALSE,FALSE
+2019-06-22,United States,Trinidad and Tobago,United States,Paul Arriola,78,FALSE,FALSE
+2019-06-22,United States,Trinidad and Tobago,United States,Aaron Long,90,FALSE,FALSE
 2019-06-23,Algeria,Kenya,Algeria,Baghdad Bounedjah,34,FALSE,TRUE
 2019-06-23,Algeria,Kenya,Algeria,Riyad Mahrez,43,FALSE,FALSE
+2019-06-23,Canada,Cuba,Canada,Jonathan David,3,FALSE,FALSE
+2019-06-23,Canada,Cuba,Canada,Lucas Cavallini,21,FALSE,FALSE
+2019-06-23,Canada,Cuba,Canada,Lucas Cavallini,43,FALSE,FALSE
+2019-06-23,Canada,Cuba,Canada,Lucas Cavallini,45,FALSE,FALSE
+2019-06-23,Canada,Cuba,Canada,Junior Hoilett,50,FALSE,FALSE
+2019-06-23,Canada,Cuba,Canada,Jonathan David,71,FALSE,FALSE
+2019-06-23,Canada,Cuba,Canada,Jonathan David,77,FALSE,FALSE
 2019-06-23,Colombia,Paraguay,Colombia,Gustavo Cuéllar,31,FALSE,FALSE
+2019-06-23,Martinique,Mexico,Mexico,Uriel Antuna,29,FALSE,FALSE
+2019-06-23,Martinique,Mexico,Martinique,Kévin Parsemain,56,FALSE,FALSE
+2019-06-23,Martinique,Mexico,Mexico,Raúl Jiménez,61,FALSE,FALSE
+2019-06-23,Martinique,Mexico,Mexico,Fernando Navarro Morán,72,FALSE,FALSE
+2019-06-23,Martinique,Mexico,Martinique,Jordy Delem,84,FALSE,FALSE
 2019-06-23,Morocco,Namibia,Morocco,Itamunua Keimuine,89,TRUE,FALSE
 2019-06-23,Qatar,Argentina,Argentina,Lautaro Martínez,4,FALSE,FALSE
 2019-06-23,Qatar,Argentina,Argentina,Sergio Agüero,82,FALSE,FALSE
 2019-06-23,Senegal,Tanzania,Senegal,Keita Baldé,28,FALSE,FALSE
 2019-06-23,Senegal,Tanzania,Senegal,Krépin Diatta,64,FALSE,FALSE
+2019-06-24,Bermuda,Nicaragua,Bermuda,Lejuan Simmons,60,FALSE,FALSE
+2019-06-24,Bermuda,Nicaragua,Bermuda,Nahki Wells,71,FALSE,FALSE
 2019-06-24,Chile,Uruguay,Uruguay,Edinson Cavani,82,FALSE,FALSE
 2019-06-24,Ecuador,Japan,Japan,Shoya Nakajima,15,FALSE,FALSE
 2019-06-24,Ecuador,Japan,Ecuador,Ángel Mena,35,FALSE,FALSE
+2019-06-24,Haiti,Costa Rica,Costa Rica,Álvaro Saborío,13,FALSE,FALSE
+2019-06-24,Haiti,Costa Rica,Haiti,Duckens Nazon,57,FALSE,TRUE
+2019-06-24,Haiti,Costa Rica,Haiti,Djimy Alexis,81,FALSE,FALSE
 2019-06-24,Ivory Coast,South Africa,Ivory Coast,Jonathan Kodjia,64,FALSE,FALSE
 2019-06-24,Mali,Mauritania,Mali,Abdoulay Diaby,37,FALSE,FALSE
 2019-06-24,Mali,Mauritania,Mali,Moussa Marega,45,FALSE,TRUE
@@ -7418,11 +8311,20 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-06-25,Ghana,Benin,Ghana,André Ayew,9,FALSE,FALSE
 2019-06-25,Ghana,Benin,Ghana,Jordan Ayew,42,FALSE,FALSE
 2019-06-25,Ghana,Benin,Benin,Mickaël Poté,63,FALSE,FALSE
+2019-06-25,Honduras,El Salvador,Honduras,Jorge Álvarez,59,FALSE,FALSE
+2019-06-25,Honduras,El Salvador,Honduras,Rubilio Castillo,65,FALSE,FALSE
+2019-06-25,Honduras,El Salvador,Honduras,Bryan Acosta,75,FALSE,FALSE
+2019-06-25,Honduras,El Salvador,Honduras,Emilio Izaguirre,90,FALSE,FALSE
+2019-06-25,Jamaica,Curaçao,Jamaica,Shamar Nicholson,14,FALSE,FALSE
+2019-06-25,Jamaica,Curaçao,Curaçao,Juriën Gaari,90,FALSE,FALSE
 2019-06-26,Egypt,DR Congo,Egypt,Ahmed Elmohamady,25,FALSE,FALSE
 2019-06-26,Egypt,DR Congo,Egypt,Mohamed Salah,43,FALSE,FALSE
 2019-06-26,Nigeria,Guinea,Nigeria,Kenneth Omeruo,73,FALSE,FALSE
+2019-06-26,Trinidad and Tobago,Guyana,Guyana,Neil Danns,54,FALSE,FALSE
+2019-06-26,Trinidad and Tobago,Guyana,Trinidad and Tobago,Kevin Molino,80,FALSE,FALSE
 2019-06-26,Uganda,Zimbabwe,Uganda,Emmanuel Okwi,12,FALSE,FALSE
 2019-06-26,Uganda,Zimbabwe,Zimbabwe,Khama Billiat,40,FALSE,FALSE
+2019-06-26,United States,Panama,United States,Jozy Altidore,66,FALSE,FALSE
 2019-06-27,Kenya,Tanzania,Tanzania,Simon Msuva,6,FALSE,FALSE
 2019-06-27,Kenya,Tanzania,Kenya,Michael Olunga,39,FALSE,FALSE
 2019-06-27,Kenya,Tanzania,Tanzania,Mbwana Samatta,40,FALSE,FALSE
@@ -7436,12 +8338,21 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-06-28,Tunisia,Mali,Tunisia,Wahbi Khazri,70,FALSE,FALSE
 2019-06-28,Venezuela,Argentina,Argentina,Lautaro Martínez,10,FALSE,FALSE
 2019-06-28,Venezuela,Argentina,Argentina,Giovani Lo Celso,74,FALSE,FALSE
+2019-06-29,Haiti,Canada,Canada,Jonathan David,18,FALSE,FALSE
+2019-06-29,Haiti,Canada,Canada,Lucas Cavallini,28,FALSE,FALSE
+2019-06-29,Haiti,Canada,Haiti,Duckens Nazon,50,FALSE,FALSE
+2019-06-29,Haiti,Canada,Haiti,Hervé Bazile,70,FALSE,TRUE
+2019-06-29,Haiti,Canada,Haiti,Wilde-Donald Guerrier,76,FALSE,FALSE
+2019-06-29,Mexico,Costa Rica,Mexico,Raúl Jiménez,44,FALSE,FALSE
+2019-06-29,Mexico,Costa Rica,Costa Rica,Bryan Ruiz,52,FALSE,TRUE
 2019-06-30,Burundi,Guinea,Guinea,Mohamed Yattara,25,FALSE,FALSE
 2019-06-30,Burundi,Guinea,Guinea,Mohamed Yattara,52,FALSE,FALSE
 2019-06-30,Egypt,Uganda,Egypt,Mohamed Salah,36,FALSE,FALSE
 2019-06-30,Egypt,Uganda,Egypt,Ahmed Elmohamady,45,FALSE,FALSE
+2019-06-30,Jamaica,Panama,Jamaica,Darren Mattocks,75,FALSE,TRUE
 2019-06-30,Madagascar,Nigeria,Madagascar,Lalaïna Nomenjanahary,13,FALSE,FALSE
 2019-06-30,Madagascar,Nigeria,Madagascar,Carolus Andriamatsinoro,53,FALSE,FALSE
+2019-06-30,United States,Curaçao,United States,Weston McKennie,25,FALSE,FALSE
 2019-06-30,Zimbabwe,DR Congo,DR Congo,Jonathan Bolingi,4,FALSE,FALSE
 2019-06-30,Zimbabwe,DR Congo,DR Congo,Cédric Bakambu,34,FALSE,FALSE
 2019-06-30,Zimbabwe,DR Congo,DR Congo,Cédric Bakambu,65,FALSE,TRUE
@@ -7463,9 +8374,14 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-07-02,Brazil,Argentina,Brazil,Roberto Firmino,71,FALSE,FALSE
 2019-07-02,Guinea-Bissau,Ghana,Ghana,Jordan Ayew,46,FALSE,FALSE
 2019-07-02,Guinea-Bissau,Ghana,Ghana,Thomas Partey,72,FALSE,FALSE
+2019-07-02,Haiti,Mexico,Mexico,Raúl Jiménez,93,FALSE,TRUE
 2019-07-03,Chile,Peru,Peru,Edison Flores,21,FALSE,FALSE
 2019-07-03,Chile,Peru,Peru,Yoshimar Yotún,38,FALSE,FALSE
 2019-07-03,Chile,Peru,Peru,Paolo Guerrero,90,FALSE,FALSE
+2019-07-03,United States,Jamaica,United States,Weston McKennie,9,FALSE,FALSE
+2019-07-03,United States,Jamaica,United States,Christian Pulisic,52,FALSE,FALSE
+2019-07-03,United States,Jamaica,Jamaica,Shamar Nicholson,69,FALSE,FALSE
+2019-07-03,United States,Jamaica,United States,Christian Pulisic,87,FALSE,FALSE
 2019-07-05,Morocco,Benin,Benin,Moise Adilehou,53,FALSE,FALSE
 2019-07-05,Morocco,Benin,Morocco,Youssef En-Nesyri,76,FALSE,FALSE
 2019-07-05,Uganda,Senegal,Senegal,Sadio Mané,15,FALSE,FALSE
@@ -7489,6 +8405,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-07-07,Madagascar,DR Congo,DR Congo,Cédric Bakambu,21,FALSE,FALSE
 2019-07-07,Madagascar,DR Congo,Madagascar,Faneva Imà Andriatsima,77,FALSE,FALSE
 2019-07-07,Madagascar,DR Congo,DR Congo,Chancel Mbemba,90,FALSE,FALSE
+2019-07-07,United States,Mexico,Mexico,Jonathan dos Santos,73,FALSE,FALSE
 2019-07-08,Ghana,Tunisia,Tunisia,Taha Yassine Khenissi,73,FALSE,FALSE
 2019-07-08,Ghana,Tunisia,Ghana,Rami Bedoui,90,TRUE,FALSE
 2019-07-08,Mali,Ivory Coast,Ivory Coast,Wilfried Zaha,76,FALSE,FALSE
@@ -7712,8 +8629,97 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-07-09,Peru,Colombia,Peru,Gianluca Lapadula,82,FALSE,FALSE
 2021-07-09,Peru,Colombia,Colombia,Luis Díaz,90,FALSE,FALSE
 2021-07-10,Brazil,Argentina,Argentina,Ángel Di María,22,FALSE,FALSE
+2021-07-11,Canada,Martinique,Martinique,Emmanuel Rivière,10,FALSE,FALSE
+2021-07-11,Canada,Martinique,Canada,Cyle Larin,16,FALSE,FALSE
+2021-07-11,Canada,Martinique,Canada,Jonathan Osorio,20,FALSE,FALSE
+2021-07-11,Canada,Martinique,Canada,Stephen Eustáquio,26,FALSE,FALSE
+2021-07-11,Canada,Martinique,Canada,Theo Corbeanu,89,FALSE,FALSE
+2021-07-11,El Salvador,Guatemala,El Salvador,Alex Roldan,81,FALSE,FALSE
+2021-07-11,El Salvador,Guatemala,El Salvador,Joaquín Rivas,90,FALSE,FALSE
 2021-07-11,England,Italy,England,Luke Shaw,2,FALSE,FALSE
 2021-07-11,England,Italy,Italy,Leonardo Bonucci,67,FALSE,FALSE
+2021-07-11,United States,Haiti,United States,Sam Vines,8,FALSE,FALSE
+2021-07-12,Costa Rica,Guadeloupe,Costa Rica,Joel Campbell,6,FALSE,FALSE
+2021-07-12,Costa Rica,Guadeloupe,Costa Rica,Ariel Lassiter,21,FALSE,FALSE
+2021-07-12,Costa Rica,Guadeloupe,Guadeloupe,Raphaël Mirval,45,FALSE,FALSE
+2021-07-12,Costa Rica,Guadeloupe,Costa Rica,Celso Borges,70,FALSE,FALSE
+2021-07-12,Jamaica,Suriname,Jamaica,Shamar Nicholson,6,FALSE,FALSE
+2021-07-12,Jamaica,Suriname,Jamaica,Bobby Decordova-Reid,26,FALSE,FALSE
+2021-07-13,Honduras,Grenada,Honduras,Jerry Bengtson,28,FALSE,FALSE
+2021-07-13,Honduras,Grenada,Honduras,Edwin Solano,52,FALSE,FALSE
+2021-07-13,Honduras,Grenada,Honduras,Johnny Leverón,86,FALSE,FALSE
+2021-07-13,Honduras,Grenada,Honduras,Romell Quioto,88,FALSE,FALSE
+2021-07-13,Qatar,Panama,Qatar,Akram Afif,48,FALSE,FALSE
+2021-07-13,Qatar,Panama,Panama,Rolando Blackburn,51,FALSE,FALSE
+2021-07-13,Qatar,Panama,Qatar,Almoez Ali,53,FALSE,FALSE
+2021-07-13,Qatar,Panama,Panama,Rolando Blackburn,58,FALSE,FALSE
+2021-07-13,Qatar,Panama,Qatar,Hassan Al-Haydos,63,FALSE,TRUE
+2021-07-13,Qatar,Panama,Panama,Eric Davis,79,FALSE,TRUE
+2021-07-14,Guatemala,Mexico,Mexico,Rogelio Funes Mori,29,FALSE,FALSE
+2021-07-14,Guatemala,Mexico,Mexico,Rogelio Funes Mori,55,FALSE,FALSE
+2021-07-14,Guatemala,Mexico,Mexico,Orbelín Pineda,79,FALSE,FALSE
+2021-07-14,Trinidad and Tobago,El Salvador,El Salvador,Jairo Henríquez,30,FALSE,FALSE
+2021-07-14,Trinidad and Tobago,El Salvador,El Salvador,Walmer Martinez,90,FALSE,FALSE
+2021-07-15,Haiti,Canada,Canada,Stephen Eustáquio,5,FALSE,FALSE
+2021-07-15,Haiti,Canada,Canada,Cyle Larin,51,FALSE,FALSE
+2021-07-15,Haiti,Canada,Haiti,Stéphane Lambese,56,FALSE,FALSE
+2021-07-15,Haiti,Canada,Canada,Cyle Larin,74,FALSE,TRUE
+2021-07-15,Haiti,Canada,Canada,Junior Hoilett,79,FALSE,TRUE
+2021-07-15,United States,Martinique,United States,Daryl Dike,14,FALSE,FALSE
+2021-07-15,United States,Martinique,United States,Samuel Camille,23,TRUE,FALSE
+2021-07-15,United States,Martinique,United States,Miles Robinson,50,FALSE,FALSE
+2021-07-15,United States,Martinique,United States,Daryl Dike,59,FALSE,FALSE
+2021-07-15,United States,Martinique,Martinique,Emmanuel Rivière,64,FALSE,TRUE
+2021-07-15,United States,Martinique,United States,Gyasi Zardes,70,FALSE,FALSE
+2021-07-15,United States,Martinique,United States,Nicholas Gioacchini,90,FALSE,FALSE
+2021-07-16,Guadeloupe,Jamaica,Guadeloupe,Dimitri Ramothe,4,FALSE,FALSE
+2021-07-16,Guadeloupe,Jamaica,Jamaica,Cory Burke,14,FALSE,FALSE
+2021-07-16,Guadeloupe,Jamaica,Jamaica,Junior Flemmings,87,FALSE,FALSE
+2021-07-16,Suriname,Costa Rica,Suriname,Gleofilo Vlijter,52,FALSE,FALSE
+2021-07-16,Suriname,Costa Rica,Costa Rica,Joel Campbell,58,FALSE,FALSE
+2021-07-16,Suriname,Costa Rica,Costa Rica,Celso Borges,59,FALSE,FALSE
+2021-07-17,Grenada,Qatar,Qatar,Abdulaziz Hatem,11,FALSE,FALSE
+2021-07-17,Grenada,Qatar,Qatar,Akram Afif,22,FALSE,FALSE
+2021-07-17,Grenada,Qatar,Qatar,Mohammed Muntari,36,FALSE,FALSE
+2021-07-17,Grenada,Qatar,Qatar,Almoez Ali,46,FALSE,FALSE
+2021-07-17,Panama,Honduras,Honduras,Romell Quioto,22,FALSE,FALSE
+2021-07-17,Panama,Honduras,Panama,Eric Davis,32,FALSE,TRUE
+2021-07-17,Panama,Honduras,Panama,César Yanis,45,FALSE,FALSE
+2021-07-17,Panama,Honduras,Honduras,Alexander López,61,FALSE,FALSE
+2021-07-17,Panama,Honduras,Honduras,Romell Quioto,65,FALSE,FALSE
+2021-07-18,Guatemala,Trinidad and Tobago,Trinidad and Tobago,Reon Moore,12,FALSE,FALSE
+2021-07-18,Guatemala,Trinidad and Tobago,Guatemala,Gerardo Gordillo,78,FALSE,FALSE
+2021-07-18,Martinique,Haiti,Haiti,Carnejy Antoine,3,FALSE,FALSE
+2021-07-18,Martinique,Haiti,Martinique,Kévin Fortuné,53,FALSE,FALSE
+2021-07-18,Martinique,Haiti,Haiti,Ricardo Adé,61,FALSE,FALSE
+2021-07-18,Mexico,El Salvador,Mexico,Luis Alfonso Rodríguez,26,FALSE,FALSE
+2021-07-18,United States,Canada,United States,Shaq Moore,1,FALSE,FALSE
+2021-07-20,Costa Rica,Jamaica,Costa Rica,Bryan Ruiz,53,FALSE,FALSE
+2021-07-20,Honduras,Qatar,Qatar,Homam Ahmed,25,FALSE,FALSE
+2021-07-20,Honduras,Qatar,Qatar,Abdulaziz Hatem,90,FALSE,FALSE
+2021-07-20,Panama,Grenada,Panama,Alberto Quintero,7,FALSE,FALSE
+2021-07-20,Panama,Grenada,Panama,José Luis Rodríguez,27,FALSE,FALSE
+2021-07-20,Panama,Grenada,Panama,José Luis Rodríguez,64,FALSE,FALSE
+2021-07-20,Panama,Grenada,Grenada,Romar Frank,76,FALSE,FALSE
+2021-07-20,Suriname,Guadeloupe,Suriname,Gleofilo Vlijter,14,FALSE,FALSE
+2021-07-20,Suriname,Guadeloupe,Guadeloupe,Matthias Phaeton,20,FALSE,FALSE
+2021-07-20,Suriname,Guadeloupe,Suriname,Nigel Hasselbaink,79,FALSE,FALSE
+2021-07-24,Mexico,Honduras,Mexico,Rogelio Funes Mori,26,FALSE,FALSE
+2021-07-24,Mexico,Honduras,Mexico,Jonathan dos Santos,31,FALSE,FALSE
+2021-07-24,Mexico,Honduras,Mexico,Orbelín Pineda,38,FALSE,FALSE
+2021-07-24,Qatar,El Salvador,Qatar,Almoez Ali,2,FALSE,FALSE
+2021-07-24,Qatar,El Salvador,Qatar,Abdulaziz Hatem,8,FALSE,FALSE
+2021-07-24,Qatar,El Salvador,Qatar,Almoez Ali,55,FALSE,TRUE
+2021-07-24,Qatar,El Salvador,El Salvador,Joaquín Rivas,63,FALSE,FALSE
+2021-07-24,Qatar,El Salvador,El Salvador,Joaquín Rivas,66,FALSE,FALSE
+2021-07-25,Costa Rica,Canada,Canada,Junior Hoilett,18,FALSE,FALSE
+2021-07-25,Costa Rica,Canada,Canada,Stephen Eustáquio,69,FALSE,FALSE
+2021-07-25,United States,Jamaica,United States,Matthew Hoppe,83,FALSE,FALSE
+2021-07-29,Mexico,Canada,Mexico,Orbelín Pineda,45,FALSE,TRUE
+2021-07-29,Mexico,Canada,Canada,Tajon Buchanan,57,FALSE,FALSE
+2021-07-29,Mexico,Canada,Mexico,Héctor Herrera,90,FALSE,FALSE
+2021-07-29,United States,Qatar,United States,Gyasi Zardes,86,FALSE,FALSE
+2021-08-01,United States,Mexico,United States,Miles Robinson,117,FALSE,FALSE
 2022-01-09,Cameroon,Burkina Faso,Burkina Faso,Gustavo Sangaré,24,FALSE,FALSE
 2022-01-09,Cameroon,Burkina Faso,Cameroon,Vincent Aboubakar,40,FALSE,TRUE
 2022-01-09,Cameroon,Burkina Faso,Cameroon,Vincent Aboubakar,45,FALSE,TRUE
