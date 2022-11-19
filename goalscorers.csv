@@ -4155,6 +4155,24 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1992-06-22,Netherlands,Denmark,Netherlands,Frank Rijkaard,86,FALSE,FALSE
 1992-06-26,Denmark,Germany,Denmark,John Jensen,18,FALSE,FALSE
 1992-06-26,Denmark,Germany,Denmark,Kim Vilfort,78,FALSE,FALSE
+1992-10-15,Saudi Arabia,United States,Saudi Arabia,Fahad Al-Bishi,48,FALSE,TRUE
+1992-10-15,Saudi Arabia,United States,Saudi Arabia,Yousuf Al-Thunayan,74,FALSE,FALSE
+1992-10-15,Saudi Arabia,United States,Saudi Arabia,Khaled Al-Muwallid,84,FALSE,FALSE
+1992-10-16,Argentina,Ivory Coast,Argentina,Gabriel Batistuta,2,FALSE,FALSE
+1992-10-16,Argentina,Ivory Coast,Argentina,Gabriel Batistuta,10,FALSE,FALSE
+1992-10-16,Argentina,Ivory Coast,Argentina,Ricardo Altamirano,67,FALSE,FALSE
+1992-10-16,Argentina,Ivory Coast,Argentina,Alberto Acosta,81,FALSE,FALSE
+1992-10-19,United States,Ivory Coast,United States,Marcelo Balboa,12,FALSE,FALSE
+1992-10-19,United States,Ivory Coast,Ivory Coast,Abdoulaye Traoré,16,FALSE,FALSE
+1992-10-19,United States,Ivory Coast,United States,Cobi Jones,31,FALSE,FALSE
+1992-10-19,United States,Ivory Coast,United States,Eric Wynalda,56,FALSE,FALSE
+1992-10-19,United States,Ivory Coast,United States,Bruce Murray,67,FALSE,FALSE
+1992-10-19,United States,Ivory Coast,Ivory Coast,Donald-Olivier Sié,76,FALSE,FALSE
+1992-10-19,United States,Ivory Coast,United States,Bruce Murray,83,FALSE,FALSE
+1992-10-20,Saudi Arabia,Argentina,Argentina,Leonardo Rodríguez,18,FALSE,FALSE
+1992-10-20,Saudi Arabia,Argentina,Argentina,Claudio Caniggia,24,FALSE,FALSE
+1992-10-20,Saudi Arabia,Argentina,Argentina,Diego Simeone,64,FALSE,FALSE
+1992-10-20,Saudi Arabia,Argentina,Saudi Arabia,Saeed Al-Owairan,65,FALSE,FALSE
 1993-06-15,Ecuador,Venezuela,Ecuador,Carlos Muñoz,19,FALSE,FALSE
 1993-06-15,Ecuador,Venezuela,Ecuador,Raúl Noriega,32,FALSE,FALSE
 1993-06-15,Ecuador,Venezuela,Ecuador,Ángel Fernández,57,FALSE,FALSE
@@ -4464,6 +4482,25 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1994-07-16,Sweden,Bulgaria,Sweden,Håkan Mild,30,FALSE,FALSE
 1994-07-16,Sweden,Bulgaria,Sweden,Henrik Larsson,37,FALSE,FALSE
 1994-07-16,Sweden,Bulgaria,Sweden,Kennet Andersson,39,FALSE,FALSE
+1995-01-06,Japan,Nigeria,Nigeria,Samson Siasia,4,FALSE,FALSE
+1995-01-06,Japan,Nigeria,Nigeria,Mutiu Adepoju,55,FALSE,FALSE
+1995-01-06,Japan,Nigeria,Nigeria,Daniel Amokachi,65,FALSE,FALSE
+1995-01-06,Saudi Arabia,Mexico,Mexico,Luis García Postigo,65,FALSE,FALSE
+1995-01-06,Saudi Arabia,Mexico,Mexico,Luis García Postigo,82,FALSE,FALSE
+1995-01-08,Japan,Argentina,Argentina,Sebastián Rambert,31,FALSE,FALSE
+1995-01-08,Japan,Argentina,Argentina,Ariel Ortega,45,FALSE,FALSE
+1995-01-08,Japan,Argentina,Argentina,Gabriel Batistuta,47,FALSE,FALSE
+1995-01-08,Japan,Argentina,Argentina,José Chamot,54,FALSE,FALSE
+1995-01-08,Japan,Argentina,Japan,Kazuyoshi Miura,57,FALSE,FALSE
+1995-01-08,Japan,Argentina,Argentina,Gabriel Batistuta,86,FALSE,TRUE
+1995-01-08,Saudi Arabia,Denmark,Denmark,Brian Laudrup,43,FALSE,FALSE
+1995-01-08,Saudi Arabia,Denmark,Denmark,Morten Wieghorst,90,FALSE,FALSE
+1995-01-10,Denmark,Mexico,Mexico,Luis García Postigo,72,FALSE,FALSE
+1995-01-10,Denmark,Mexico,Denmark,Peter Rasmussen,88,FALSE,FALSE
+1995-01-13,Denmark,Argentina,Denmark,Michael Laudrup,8,FALSE,TRUE
+1995-01-13,Denmark,Argentina,Denmark,Peter Rasmussen,75,FALSE,FALSE
+1995-01-13,Mexico,Nigeria,Mexico,Ramón Ramírez,20,FALSE,FALSE
+1995-01-13,Mexico,Nigeria,Nigeria,Daniel Amokachi,31,FALSE,FALSE
 1995-07-05,Uruguay,Venezuela,Uruguay,Daniel Fonseca,14,FALSE,FALSE
 1995-07-05,Uruguay,Venezuela,Uruguay,Marcelo Otero,25,FALSE,FALSE
 1995-07-05,Uruguay,Venezuela,Venezuela,José Luis Dolgetta,53,FALSE,FALSE
@@ -4784,6 +4821,58 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1997-06-29,Bolivia,Brazil,Bolivia,Erwin Sánchez,45,FALSE,FALSE
 1997-06-29,Bolivia,Brazil,Brazil,Ronaldo,79,FALSE,FALSE
 1997-06-29,Bolivia,Brazil,Brazil,Zé Roberto,90,FALSE,FALSE
+1997-12-12,Mexico,Australia,Australia,Mark Viduka,45,FALSE,FALSE
+1997-12-12,Mexico,Australia,Australia,John Aloisi,59,FALSE,FALSE
+1997-12-12,Mexico,Australia,Mexico,Luis Hernández,80,FALSE,TRUE
+1997-12-12,Mexico,Australia,Australia,Damian Mori,90,FALSE,FALSE
+1997-12-12,Saudi Arabia,Brazil,Brazil,César Sampaio,65,FALSE,FALSE
+1997-12-12,Saudi Arabia,Brazil,Brazil,Romário,73,FALSE,FALSE
+1997-12-12,Saudi Arabia,Brazil,Brazil,Romário,80,FALSE,FALSE
+1997-12-13,South Africa,Czech Republic,Czech Republic,Vladimír Šmicer,19,FALSE,FALSE
+1997-12-13,South Africa,Czech Republic,South Africa,Brendan Augustine,39,FALSE,FALSE
+1997-12-13,South Africa,Czech Republic,Czech Republic,Vladimír Šmicer,40,FALSE,FALSE
+1997-12-13,South Africa,Czech Republic,South Africa,Helman Mkhalele,86,FALSE,FALSE
+1997-12-13,United Arab Emirates,Uruguay,Uruguay,Nicolás Olivera,45,FALSE,FALSE
+1997-12-13,United Arab Emirates,Uruguay,Uruguay,Antonio Pacheco D'Agosti,90,FALSE,FALSE
+1997-12-14,Saudi Arabia,Mexico,Mexico,Francisco Palencia,20,FALSE,FALSE
+1997-12-14,Saudi Arabia,Mexico,Mexico,Francisco Palencia,62,FALSE,FALSE
+1997-12-14,Saudi Arabia,Mexico,Mexico,Cuauhtémoc Blanco,68,FALSE,FALSE
+1997-12-14,Saudi Arabia,Mexico,Mexico,Braulio Luna,75,FALSE,FALSE
+1997-12-14,Saudi Arabia,Mexico,Mexico,Cuauhtémoc Blanco,76,FALSE,FALSE
+1997-12-15,Czech Republic,Uruguay,Uruguay,Nicolás Olivera,26,FALSE,FALSE
+1997-12-15,Czech Republic,Uruguay,Uruguay,Marcelo Zalayeta,88,FALSE,FALSE
+1997-12-15,Czech Republic,Uruguay,Czech Republic,Horst Siegl,89,FALSE,FALSE
+1997-12-15,United Arab Emirates,South Africa,United Arab Emirates,Hassan Mubarak,5,FALSE,FALSE
+1997-12-16,Brazil,Mexico,Brazil,Romário,41,FALSE,TRUE
+1997-12-16,Brazil,Mexico,Mexico,Cuauhtémoc Blanco,51,FALSE,FALSE
+1997-12-16,Brazil,Mexico,Brazil,Denílson de Oliveira Araújo,61,FALSE,FALSE
+1997-12-16,Brazil,Mexico,Brazil,Júnior Baiano,66,FALSE,FALSE
+1997-12-16,Brazil,Mexico,Mexico,Ramón Ramírez,90,FALSE,FALSE
+1997-12-16,Saudi Arabia,Australia,Saudi Arabia,Mohammed Al-Khilaiwi,40,FALSE,FALSE
+1997-12-17,United Arab Emirates,Czech Republic,Czech Republic,Mohamed Obaid Al-Zahiri,11,TRUE,FALSE
+1997-12-17,United Arab Emirates,Czech Republic,Czech Republic,Pavel Nedvěd,22,FALSE,FALSE
+1997-12-17,United Arab Emirates,Czech Republic,Czech Republic,Pavel Nedvěd,31,FALSE,FALSE
+1997-12-17,United Arab Emirates,Czech Republic,Czech Republic,Vladimír Šmicer,42,FALSE,FALSE
+1997-12-17,United Arab Emirates,Czech Republic,Czech Republic,Vladimír Šmicer,68,FALSE,FALSE
+1997-12-17,United Arab Emirates,Czech Republic,Czech Republic,Vladimír Šmicer,71,FALSE,FALSE
+1997-12-17,United Arab Emirates,Czech Republic,United Arab Emirates,Adnan Al Talyani,78,FALSE,FALSE
+1997-12-17,Uruguay,South Africa,South Africa,Lucas Radebe,11,FALSE,FALSE
+1997-12-17,Uruguay,South Africa,Uruguay,Darío Silva,12,FALSE,FALSE
+1997-12-17,Uruguay,South Africa,Uruguay,Álvaro Recoba,42,FALSE,FALSE
+1997-12-17,Uruguay,South Africa,Uruguay,Darío Silva,66,FALSE,FALSE
+1997-12-17,Uruguay,South Africa,South Africa,Helman Mkhalele,69,FALSE,FALSE
+1997-12-17,Uruguay,South Africa,South Africa,Pollen Ndlanya,77,FALSE,FALSE
+1997-12-17,Uruguay,South Africa,Uruguay,Christian Callejas,90,FALSE,FALSE
+1997-12-19,Brazil,Czech Republic,Brazil,Romário,54,FALSE,FALSE
+1997-12-19,Brazil,Czech Republic,Brazil,Ronaldo,83,FALSE,FALSE
+1997-12-19,Uruguay,Australia,Australia,Harry Kewell,92,FALSE,FALSE
+1997-12-21,Brazil,Australia,Brazil,Ronaldo,15,FALSE,FALSE
+1997-12-21,Brazil,Australia,Brazil,Ronaldo,27,FALSE,FALSE
+1997-12-21,Brazil,Australia,Brazil,Romário,38,FALSE,FALSE
+1997-12-21,Brazil,Australia,Brazil,Romário,53,FALSE,FALSE
+1997-12-21,Brazil,Australia,Brazil,Ronaldo,59,FALSE,FALSE
+1997-12-21,Brazil,Australia,Brazil,Romário,75,FALSE,TRUE
+1997-12-21,Czech Republic,Uruguay,Czech Republic,Edvard Lasota,63,FALSE,FALSE
 1998-02-01,Honduras,Trinidad and Tobago,Trinidad and Tobago,Jerren Nixon,35,FALSE,FALSE
 1998-02-01,Honduras,Trinidad and Tobago,Trinidad and Tobago,Stern John,39,FALSE,FALSE
 1998-02-01,Honduras,Trinidad and Tobago,Honduras,Carlos Pavón,66,FALSE,FALSE
@@ -5166,6 +5255,61 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1999-07-18,Brazil,Uruguay,Brazil,Rivaldo,20,FALSE,FALSE
 1999-07-18,Brazil,Uruguay,Brazil,Rivaldo,27,FALSE,FALSE
 1999-07-18,Brazil,Uruguay,Brazil,Ronaldo,46,FALSE,FALSE
+1999-07-24,Brazil,Germany,Brazil,Zé Roberto,62,FALSE,FALSE
+1999-07-24,Brazil,Germany,Brazil,Ronaldinho,72,FALSE,FALSE
+1999-07-24,Brazil,Germany,Brazil,Alexsandro de Souza,86,FALSE,FALSE
+1999-07-24,Brazil,Germany,Brazil,Alexsandro de Souza,87,FALSE,FALSE
+1999-07-24,New Zealand,United States,United States,Brian McBride,25,FALSE,FALSE
+1999-07-24,New Zealand,United States,United States,Jovan Kirovski,58,FALSE,FALSE
+1999-07-24,New Zealand,United States,New Zealand,Chris Zoricich,90,FALSE,FALSE
+1999-07-25,Bolivia,Egypt,Egypt,Abdel Sattar Sabry,8,FALSE,FALSE
+1999-07-25,Bolivia,Egypt,Bolivia,Limberg Gutiérrez,21,FALSE,FALSE
+1999-07-25,Bolivia,Egypt,Bolivia,Renny Ribera,40,FALSE,FALSE
+1999-07-25,Bolivia,Egypt,Egypt,Yasser Radwan,63,FALSE,FALSE
+1999-07-25,Mexico,Saudi Arabia,Mexico,Cuauhtémoc Blanco,12,FALSE,FALSE
+1999-07-25,Mexico,Saudi Arabia,Mexico,Cuauhtémoc Blanco,19,FALSE,FALSE
+1999-07-25,Mexico,Saudi Arabia,Mexico,José Manuel Abundis,21,FALSE,FALSE
+1999-07-25,Mexico,Saudi Arabia,Saudi Arabia,Nawaf Al-Temyat,62,FALSE,TRUE
+1999-07-25,Mexico,Saudi Arabia,Mexico,Cuauhtémoc Blanco,68,FALSE,FALSE
+1999-07-25,Mexico,Saudi Arabia,Mexico,Cuauhtémoc Blanco,77,FALSE,FALSE
+1999-07-27,Mexico,Egypt,Mexico,Pável Pardo,15,FALSE,FALSE
+1999-07-27,Mexico,Egypt,Mexico,José Manuel Abundis,26,FALSE,FALSE
+1999-07-27,Mexico,Egypt,Egypt,Ahmed Hassan,79,FALSE,FALSE
+1999-07-27,Mexico,Egypt,Egypt,Samir Kamouna,85,FALSE,FALSE
+1999-07-28,Brazil,United States,Brazil,Ronaldinho,13,FALSE,FALSE
+1999-07-28,Germany,New Zealand,Germany,Michael Preetz,6,FALSE,FALSE
+1999-07-28,Germany,New Zealand,Germany,Lothar Matthäus,33,FALSE,FALSE
+1999-07-29,Egypt,Saudi Arabia,Saudi Arabia,Marzouk Al-Otaibi,8,FALSE,FALSE
+1999-07-29,Egypt,Saudi Arabia,Saudi Arabia,Marzouk Al-Otaibi,34,FALSE,FALSE
+1999-07-29,Egypt,Saudi Arabia,Saudi Arabia,Ibrahim Al-Shahrani,64,FALSE,FALSE
+1999-07-29,Egypt,Saudi Arabia,Egypt,Samir Kamouna,70,FALSE,TRUE
+1999-07-29,Egypt,Saudi Arabia,Saudi Arabia,Marzouk Al-Otaibi,78,FALSE,FALSE
+1999-07-29,Egypt,Saudi Arabia,Saudi Arabia,Marzouk Al-Otaibi,85,FALSE,FALSE
+1999-07-29,Mexico,Bolivia,Mexico,Francisco Palencia,52,FALSE,FALSE
+1999-07-30,New Zealand,Brazil,Brazil,Marcos Paulo,45,FALSE,FALSE
+1999-07-30,New Zealand,Brazil,Brazil,Ronaldinho,88,FALSE,FALSE
+1999-07-30,United States,Germany,United States,Ben Olsen,23,FALSE,FALSE
+1999-07-30,United States,Germany,United States,Joe-Max Moore,50,FALSE,FALSE
+1999-08-01,Brazil,Saudi Arabia,Brazil,João Carlos dos Santos,8,FALSE,FALSE
+1999-08-01,Brazil,Saudi Arabia,Brazil,Ronaldinho,11,FALSE,FALSE
+1999-08-01,Brazil,Saudi Arabia,Saudi Arabia,Marzouk Al-Otaibi,22,FALSE,FALSE
+1999-08-01,Brazil,Saudi Arabia,Saudi Arabia,Marzouk Al-Otaibi,31,FALSE,FALSE
+1999-08-01,Brazil,Saudi Arabia,Brazil,Zé Roberto,33,FALSE,FALSE
+1999-08-01,Brazil,Saudi Arabia,Brazil,Alexsandro de Souza,36,FALSE,FALSE
+1999-08-01,Brazil,Saudi Arabia,Brazil,Rôni,62,FALSE,FALSE
+1999-08-01,Brazil,Saudi Arabia,Brazil,Ronaldinho,65,FALSE,FALSE
+1999-08-01,Brazil,Saudi Arabia,Brazil,Alexsandro de Souza,86,FALSE,FALSE
+1999-08-01,Brazil,Saudi Arabia,Brazil,Ronaldinho,90,FALSE,FALSE
+1999-08-01,Mexico,United States,Mexico,Cuauhtémoc Blanco,97,FALSE,FALSE
+1999-08-03,United States,Saudi Arabia,United States,Paul Bravo,27,FALSE,FALSE
+1999-08-03,United States,Saudi Arabia,United States,Brian McBride,78,FALSE,FALSE
+1999-08-04,Mexico,Brazil,Mexico,Miguel Zepeda,13,FALSE,FALSE
+1999-08-04,Mexico,Brazil,Mexico,José Manuel Abundis,28,FALSE,FALSE
+1999-08-04,Mexico,Brazil,Brazil,Serginho,43,FALSE,TRUE
+1999-08-04,Mexico,Brazil,Brazil,Rôni,47,FALSE,FALSE
+1999-08-04,Mexico,Brazil,Mexico,Miguel Zepeda,51,FALSE,FALSE
+1999-08-04,Mexico,Brazil,Mexico,Cuauhtémoc Blanco,62,FALSE,FALSE
+1999-08-04,Mexico,Brazil,Brazil,Zé Roberto,63,FALSE,FALSE
 1999-10-06,El Salvador,Haiti,El Salvador,Elías Montes,3,FALSE,FALSE
 1999-10-06,El Salvador,Haiti,Haiti,Johnny Descolines,80,FALSE,FALSE
 1999-10-08,Canada,El Salvador,Canada,Carlo Corazzin,9,FALSE,FALSE
@@ -5392,6 +5536,37 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2000-07-02,France,Italy,Italy,Marco Delvecchio,55,FALSE,FALSE
 2000-07-02,France,Italy,France,Sylvain Wiltord,90,FALSE,FALSE
 2000-07-02,France,Italy,France,David Trezeguet,103,FALSE,FALSE
+2001-05-30,Mexico,Australia,Australia,Shaun Murphy,20,FALSE,FALSE
+2001-05-30,Mexico,Australia,Australia,Josip Skoko,54,FALSE,FALSE
+2001-05-30,South Korea,France,France,Steve Marlet,9,FALSE,FALSE
+2001-05-30,South Korea,France,France,Patrick Vieira,19,FALSE,FALSE
+2001-05-30,South Korea,France,France,Nicolas Anelka,34,FALSE,FALSE
+2001-05-30,South Korea,France,France,Youri Djorkaeff,80,FALSE,FALSE
+2001-05-30,South Korea,France,France,Sylvain Wiltord,90,FALSE,FALSE
+2001-05-31,Brazil,Cameroon,Brazil,Washington,53,FALSE,FALSE
+2001-05-31,Brazil,Cameroon,Brazil,Carlos Miguel da Silva Júnior,57,FALSE,FALSE
+2001-05-31,Japan,Canada,Japan,Shinji Ono,57,FALSE,FALSE
+2001-05-31,Japan,Canada,Japan,Akinori Nishizawa,60,FALSE,FALSE
+2001-05-31,Japan,Canada,Japan,Hiroaki Morishima,88,FALSE,FALSE
+2001-06-01,Australia,France,Australia,Clayton Zane,60,FALSE,FALSE
+2001-06-01,South Korea,Mexico,South Korea,Hwang Sun-hong,56,FALSE,FALSE
+2001-06-01,South Korea,Mexico,Mexico,Víctor Ruiz,81,FALSE,FALSE
+2001-06-01,South Korea,Mexico,South Korea,Yoo Sang-chul,90,FALSE,FALSE
+2001-06-02,Japan,Cameroon,Japan,Takayuki Suzuki,8,FALSE,FALSE
+2001-06-02,Japan,Cameroon,Japan,Takayuki Suzuki,65,FALSE,FALSE
+2001-06-03,France,Mexico,France,Sylvain Wiltord,9,FALSE,FALSE
+2001-06-03,France,Mexico,France,Eric Carrière,63,FALSE,FALSE
+2001-06-03,France,Mexico,France,Robert Pires,72,FALSE,FALSE
+2001-06-03,France,Mexico,France,Eric Carrière,84,FALSE,FALSE
+2001-06-03,South Korea,Australia,South Korea,Hwang Sun-hong,24,FALSE,FALSE
+2001-06-04,Cameroon,Canada,Cameroon,Bernard Tchoutang,48,FALSE,FALSE
+2001-06-04,Cameroon,Canada,Cameroon,Patrick M'Boma,83,FALSE,FALSE
+2001-06-07,France,Brazil,France,Robert Pires,7,FALSE,FALSE
+2001-06-07,France,Brazil,Brazil,Ramon Menezes,30,FALSE,FALSE
+2001-06-07,France,Brazil,France,Marcel Desailly,54,FALSE,FALSE
+2001-06-07,Japan,Australia,Japan,Hidetoshi Nakata,43,FALSE,FALSE
+2001-06-09,Australia,Brazil,Australia,Shaun Murphy,84,FALSE,FALSE
+2001-06-10,Japan,France,France,Patrick Vieira,30,FALSE,FALSE
 2001-07-11,Colombia,Venezuela,Colombia,Freddy Grisales,15,FALSE,FALSE
 2001-07-11,Colombia,Venezuela,Colombia,Víctor Aristizábal,59,FALSE,TRUE
 2001-07-11,Ecuador,Chile,Chile,Reinaldo Navia,29,FALSE,FALSE
@@ -5440,7 +5615,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2001-07-23,Brazil,Honduras,Honduras,Juliano Belletti,57,TRUE,FALSE
 2001-07-23,Brazil,Honduras,Honduras,Saúl Martínez,90,FALSE,FALSE
 2001-07-23,Colombia,Peru,Colombia,Víctor Aristizábal,50,FALSE,FALSE
-2001-07-23,Colombia,Peru,Colombia,Giovanny Hernández,66,FALSE,FALSE
+2001-07-23,Colombia,Peru,Colombia,Giovanni Hernández,66,FALSE,FALSE
 2001-07-23,Colombia,Peru,Colombia,Víctor Aristizábal,69,FALSE,FALSE
 2001-07-25,Mexico,Uruguay,Mexico,Jared Borgetti,14,FALSE,FALSE
 2001-07-25,Mexico,Uruguay,Uruguay,Richard Morales,32,FALSE,FALSE
@@ -5701,6 +5876,43 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2002-06-29,South Korea,Turkey,South Korea,Song Chong-gug,90,FALSE,FALSE
 2002-06-30,Germany,Brazil,Brazil,Ronaldo,67,FALSE,FALSE
 2002-06-30,Germany,Brazil,Brazil,Ronaldo,79,FALSE,FALSE
+2003-06-18,France,Colombia,France,Thierry Henry,39,FALSE,TRUE
+2003-06-18,New Zealand,Japan,Japan,Shunsuke Nakamura,12,FALSE,FALSE
+2003-06-18,New Zealand,Japan,Japan,Hidetoshi Nakata,65,FALSE,FALSE
+2003-06-18,New Zealand,Japan,Japan,Shunsuke Nakamura,75,FALSE,FALSE
+2003-06-19,Brazil,Cameroon,Cameroon,Samuel Eto'o,83,FALSE,FALSE
+2003-06-19,Turkey,United States,United States,DaMarcus Beasley,37,FALSE,FALSE
+2003-06-19,Turkey,United States,Turkey,Okan Yılmaz,40,FALSE,TRUE
+2003-06-19,Turkey,United States,Turkey,Tuncay Şanlı,71,FALSE,FALSE
+2003-06-20,Colombia,New Zealand,New Zealand,Raf de Gregorio,27,FALSE,FALSE
+2003-06-20,Colombia,New Zealand,Colombia,Jorge López Caballero,58,FALSE,FALSE
+2003-06-20,Colombia,New Zealand,Colombia,Mario Yepes,75,FALSE,FALSE
+2003-06-20,Colombia,New Zealand,Colombia,Giovanni Hernández,85,FALSE,FALSE
+2003-06-20,France,Japan,France,Robert Pires,43,FALSE,TRUE
+2003-06-20,France,Japan,Japan,Shunsuke Nakamura,59,FALSE,FALSE
+2003-06-20,France,Japan,France,Sidney Govou,65,FALSE,FALSE
+2003-06-21,Brazil,United States,Brazil,Adriano,22,FALSE,FALSE
+2003-06-21,Cameroon,Turkey,Cameroon,Geremi,90,FALSE,TRUE
+2003-06-22,France,New Zealand,France,Olivier Kapo,17,FALSE,FALSE
+2003-06-22,France,New Zealand,France,Thierry Henry,20,FALSE,FALSE
+2003-06-22,France,New Zealand,France,Djibril Cissé,71,FALSE,FALSE
+2003-06-22,France,New Zealand,France,Ludovic Giuly,90,FALSE,FALSE
+2003-06-22,France,New Zealand,France,Robert Pires,90,FALSE,FALSE
+2003-06-22,Japan,Colombia,Colombia,Giovanni Hernández,68,FALSE,FALSE
+2003-06-23,Brazil,Turkey,Brazil,Adriano,23,FALSE,FALSE
+2003-06-23,Brazil,Turkey,Turkey,Gökdeniz Karadeniz,53,FALSE,FALSE
+2003-06-23,Brazil,Turkey,Turkey,Okan Yılmaz,81,FALSE,FALSE
+2003-06-23,Brazil,Turkey,Brazil,Alexsandro de Souza,90,FALSE,FALSE
+2003-06-26,Cameroon,Colombia,Cameroon,Pius Ndiefi,9,FALSE,FALSE
+2003-06-26,France,Turkey,France,Thierry Henry,11,FALSE,FALSE
+2003-06-26,France,Turkey,France,Robert Pires,26,FALSE,FALSE
+2003-06-26,France,Turkey,Turkey,Gökdeniz Karadeniz,42,FALSE,FALSE
+2003-06-26,France,Turkey,France,Sylvain Wiltord,43,FALSE,FALSE
+2003-06-26,France,Turkey,Turkey,Tuncay Şanlı,48,FALSE,FALSE
+2003-06-28,Colombia,Turkey,Turkey,Tuncay Şanlı,2,FALSE,FALSE
+2003-06-28,Colombia,Turkey,Colombia,Giovanni Hernández,63,FALSE,FALSE
+2003-06-28,Colombia,Turkey,Turkey,Okan Yılmaz,86,FALSE,FALSE
+2003-06-29,France,Cameroon,France,Thierry Henry,97,FALSE,FALSE
 2003-07-12,Costa Rica,Canada,Canada,Paul Stalteri,59,FALSE,FALSE
 2003-07-12,United States,El Salvador,United States,Eddie Lewis,28,FALSE,FALSE
 2003-07-12,United States,El Salvador,United States,Brian McBride,76,FALSE,FALSE
@@ -5994,6 +6206,62 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2004-07-25,Argentina,Brazil,Brazil,Luisão,45,FALSE,FALSE
 2004-07-25,Argentina,Brazil,Argentina,César Delgado,87,FALSE,FALSE
 2004-07-25,Argentina,Brazil,Brazil,Adriano,90,FALSE,FALSE
+2005-06-15,Argentina,Tunisia,Argentina,Juan Román Riquelme,33,FALSE,TRUE
+2005-06-15,Argentina,Tunisia,Argentina,Javier Saviola,57,FALSE,FALSE
+2005-06-15,Argentina,Tunisia,Tunisia,Haykel Guemamdia,72,FALSE,TRUE
+2005-06-15,Germany,Australia,Germany,Kevin Kurányi,17,FALSE,FALSE
+2005-06-15,Germany,Australia,Australia,Josip Skoko,21,FALSE,FALSE
+2005-06-15,Germany,Australia,Germany,Per Mertesacker,23,FALSE,FALSE
+2005-06-15,Germany,Australia,Australia,John Aloisi,31,FALSE,FALSE
+2005-06-15,Germany,Australia,Germany,Michael Ballack,60,FALSE,TRUE
+2005-06-15,Germany,Australia,Germany,Lukas Podolski,88,FALSE,FALSE
+2005-06-15,Germany,Australia,Australia,John Aloisi,90,FALSE,FALSE
+2005-06-16,Brazil,Greece,Brazil,Adriano,41,FALSE,FALSE
+2005-06-16,Brazil,Greece,Brazil,Robinho,46,FALSE,FALSE
+2005-06-16,Brazil,Greece,Brazil,Juninho Pernambucano,81,FALSE,FALSE
+2005-06-16,Japan,Mexico,Japan,Atsushi Yanagisawa,12,FALSE,FALSE
+2005-06-16,Japan,Mexico,Mexico,Sinha,39,FALSE,FALSE
+2005-06-16,Japan,Mexico,Mexico,Francisco Fonseca,64,FALSE,FALSE
+2005-06-18,Australia,Argentina,Argentina,Luciano Figueroa,12,FALSE,FALSE
+2005-06-18,Australia,Argentina,Argentina,Juan Román Riquelme,31,FALSE,TRUE
+2005-06-18,Australia,Argentina,Argentina,Luciano Figueroa,53,FALSE,FALSE
+2005-06-18,Australia,Argentina,Australia,John Aloisi,61,FALSE,TRUE
+2005-06-18,Australia,Argentina,Australia,John Aloisi,70,FALSE,FALSE
+2005-06-18,Australia,Argentina,Argentina,Luciano Figueroa,89,FALSE,FALSE
+2005-06-18,Germany,Tunisia,Germany,Michael Ballack,74,FALSE,TRUE
+2005-06-18,Germany,Tunisia,Germany,Bastian Schweinsteiger,80,FALSE,FALSE
+2005-06-18,Germany,Tunisia,Germany,Mike Hanke,88,FALSE,FALSE
+2005-06-19,Greece,Japan,Japan,Masashi Oguro,76,FALSE,FALSE
+2005-06-19,Mexico,Brazil,Mexico,Jared Borgetti,59,FALSE,FALSE
+2005-06-21,Australia,Tunisia,Tunisia,Francileudo Santos,26,FALSE,FALSE
+2005-06-21,Australia,Tunisia,Tunisia,Francileudo Santos,70,FALSE,FALSE
+2005-06-21,Germany,Argentina,Germany,Kevin Kurányi,29,FALSE,FALSE
+2005-06-21,Germany,Argentina,Argentina,Juan Román Riquelme,33,FALSE,FALSE
+2005-06-21,Germany,Argentina,Germany,Gerald Asamoah,51,FALSE,FALSE
+2005-06-21,Germany,Argentina,Argentina,Esteban Cambiasso,74,FALSE,FALSE
+2005-06-22,Japan,Brazil,Brazil,Robinho,10,FALSE,FALSE
+2005-06-22,Japan,Brazil,Japan,Shunsuke Nakamura,27,FALSE,FALSE
+2005-06-22,Japan,Brazil,Brazil,Ronaldinho,32,FALSE,FALSE
+2005-06-22,Japan,Brazil,Japan,Masashi Oguro,88,FALSE,FALSE
+2005-06-25,Germany,Brazil,Brazil,Adriano,21,FALSE,FALSE
+2005-06-25,Germany,Brazil,Germany,Lukas Podolski,23,FALSE,FALSE
+2005-06-25,Germany,Brazil,Brazil,Ronaldinho,43,FALSE,TRUE
+2005-06-25,Germany,Brazil,Germany,Michael Ballack,45,FALSE,TRUE
+2005-06-25,Germany,Brazil,Brazil,Adriano,76,FALSE,FALSE
+2005-06-26,Mexico,Argentina,Mexico,Carlos Salcido,104,FALSE,FALSE
+2005-06-26,Mexico,Argentina,Argentina,Luciano Figueroa,110,FALSE,FALSE
+2005-06-29,Brazil,Argentina,Brazil,Adriano,11,FALSE,FALSE
+2005-06-29,Brazil,Argentina,Brazil,Kaká,16,FALSE,FALSE
+2005-06-29,Brazil,Argentina,Brazil,Ronaldinho,47,FALSE,FALSE
+2005-06-29,Brazil,Argentina,Brazil,Adriano,63,FALSE,FALSE
+2005-06-29,Brazil,Argentina,Argentina,Pablo Aimar,65,FALSE,FALSE
+2005-06-29,Germany,Mexico,Germany,Lukas Podolski,37,FALSE,FALSE
+2005-06-29,Germany,Mexico,Mexico,Francisco Fonseca,40,FALSE,FALSE
+2005-06-29,Germany,Mexico,Germany,Bastian Schweinsteiger,41,FALSE,FALSE
+2005-06-29,Germany,Mexico,Mexico,Jared Borgetti,58,FALSE,FALSE
+2005-06-29,Germany,Mexico,Germany,Robert Huth,79,FALSE,FALSE
+2005-06-29,Germany,Mexico,Mexico,Jared Borgetti,85,FALSE,FALSE
+2005-06-29,Germany,Mexico,Germany,Michael Ballack,97,FALSE,FALSE
 2005-07-06,Colombia,Panama,Panama,Luis Tejada,70,FALSE,FALSE
 2005-07-06,Trinidad and Tobago,Honduras,Trinidad and Tobago,Chris Birchall,28,FALSE,FALSE
 2005-07-06,Trinidad and Tobago,Honduras,Honduras,Maynor Figueroa,43,FALSE,FALSE
@@ -6613,6 +6881,50 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2008-06-26,Russia,Spain,Spain,Dani Güiza,73,FALSE,FALSE
 2008-06-26,Russia,Spain,Spain,David Silva,82,FALSE,FALSE
 2008-06-29,Germany,Spain,Spain,Fernando Torres,33,FALSE,FALSE
+2009-06-14,New Zealand,Spain,Spain,Fernando Torres,6,FALSE,FALSE
+2009-06-14,New Zealand,Spain,Spain,Fernando Torres,14,FALSE,FALSE
+2009-06-14,New Zealand,Spain,Spain,Fernando Torres,17,FALSE,FALSE
+2009-06-14,New Zealand,Spain,Spain,Cesc Fàbregas,24,FALSE,FALSE
+2009-06-14,New Zealand,Spain,Spain,David Villa,48,FALSE,FALSE
+2009-06-15,Brazil,Egypt,Brazil,Kaká,5,FALSE,FALSE
+2009-06-15,Brazil,Egypt,Egypt,Mohamed Zidan,9,FALSE,FALSE
+2009-06-15,Brazil,Egypt,Brazil,Luís Fabiano,11,FALSE,FALSE
+2009-06-15,Brazil,Egypt,Brazil,Juan,37,FALSE,FALSE
+2009-06-15,Brazil,Egypt,Egypt,Mohamed Shawky,54,FALSE,FALSE
+2009-06-15,Brazil,Egypt,Egypt,Mohamed Zidan,55,FALSE,FALSE
+2009-06-15,Brazil,Egypt,Brazil,Kaká,90,FALSE,TRUE
+2009-06-15,United States,Italy,United States,Landon Donovan,41,FALSE,TRUE
+2009-06-15,United States,Italy,Italy,Giuseppe Rossi,58,FALSE,FALSE
+2009-06-15,United States,Italy,Italy,Daniele De Rossi,72,FALSE,FALSE
+2009-06-15,United States,Italy,Italy,Giuseppe Rossi,90,FALSE,FALSE
+2009-06-17,South Africa,New Zealand,South Africa,Bernard Parker,21,FALSE,FALSE
+2009-06-17,South Africa,New Zealand,South Africa,Bernard Parker,52,FALSE,FALSE
+2009-06-17,Spain,Iraq,Spain,David Villa,55,FALSE,FALSE
+2009-06-18,Egypt,Italy,Egypt,Homos,39,FALSE,FALSE
+2009-06-18,United States,Brazil,Brazil,Felipe Melo,7,FALSE,FALSE
+2009-06-18,United States,Brazil,Brazil,Robinho,20,FALSE,FALSE
+2009-06-18,United States,Brazil,Brazil,Maicon Sisenando,62,FALSE,FALSE
+2009-06-20,South Africa,Spain,Spain,David Villa,52,FALSE,FALSE
+2009-06-20,South Africa,Spain,Spain,Fernando Llorente,72,FALSE,FALSE
+2009-06-21,Egypt,United States,United States,Charlie Davies,21,FALSE,FALSE
+2009-06-21,Egypt,United States,United States,Michael Bradley,63,FALSE,FALSE
+2009-06-21,Egypt,United States,United States,Clint Dempsey,71,FALSE,FALSE
+2009-06-21,Italy,Brazil,Brazil,Luís Fabiano,37,FALSE,FALSE
+2009-06-21,Italy,Brazil,Brazil,Luís Fabiano,43,FALSE,FALSE
+2009-06-21,Italy,Brazil,Brazil,Andrea Dossena,45,TRUE,FALSE
+2009-06-24,Spain,United States,United States,Jozy Altidore,27,FALSE,FALSE
+2009-06-24,Spain,United States,United States,Clint Dempsey,74,FALSE,FALSE
+2009-06-25,South Africa,Brazil,Brazil,Dani Alves,88,FALSE,FALSE
+2009-06-28,South Africa,Spain,South Africa,Katlego Mphela,73,FALSE,FALSE
+2009-06-28,South Africa,Spain,Spain,Dani Güiza,88,FALSE,FALSE
+2009-06-28,South Africa,Spain,Spain,Dani Güiza,89,FALSE,FALSE
+2009-06-28,South Africa,Spain,South Africa,Katlego Mphela,90,FALSE,FALSE
+2009-06-28,South Africa,Spain,Spain,Xabi Alonso,107,FALSE,FALSE
+2009-06-28,United States,Brazil,United States,Clint Dempsey,10,FALSE,FALSE
+2009-06-28,United States,Brazil,United States,Landon Donovan,27,FALSE,FALSE
+2009-06-28,United States,Brazil,Brazil,Luís Fabiano,46,FALSE,FALSE
+2009-06-28,United States,Brazil,Brazil,Luís Fabiano,74,FALSE,FALSE
+2009-06-28,United States,Brazil,Brazil,Lúcio,84,FALSE,FALSE
 2009-07-03,Canada,Jamaica,Canada,Ali Gerba,75,FALSE,FALSE
 2009-07-03,Costa Rica,El Salvador,El Salvador,Osael Romero,19,FALSE,FALSE
 2009-07-03,Costa Rica,El Salvador,Costa Rica,Warren Granados,64,FALSE,FALSE
@@ -6978,7 +7290,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2011-07-01,Argentina,Bolivia,Bolivia,Edivaldo Hermoza,47,FALSE,FALSE
 2011-07-01,Argentina,Bolivia,Argentina,Sergio Agüero,75,FALSE,FALSE
 2011-07-02,Colombia,Costa Rica,Colombia,Adrián Ramos,44,FALSE,FALSE
-2011-07-04,Chile,Mexico,Mexico,Nestor Araújo,40,FALSE,FALSE
+2011-07-04,Chile,Mexico,Mexico,Néstor Araujo,40,FALSE,FALSE
 2011-07-04,Chile,Mexico,Chile,Esteban Paredes,66,FALSE,FALSE
 2011-07-04,Chile,Mexico,Chile,Arturo Vidal,72,FALSE,FALSE
 2011-07-04,Uruguay,Peru,Peru,Paolo Guerrero,23,FALSE,FALSE
@@ -7250,6 +7562,74 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2013-02-09,Mali,Ghana,Ghana,Kwadwo Asamoah,82,FALSE,FALSE
 2013-02-09,Mali,Ghana,Mali,Sigamary Diarra,90,FALSE,FALSE
 2013-02-10,Nigeria,Burkina Faso,Nigeria,Sunday Mba,40,FALSE,FALSE
+2013-06-15,Brazil,Japan,Brazil,Neymar,3,FALSE,FALSE
+2013-06-15,Brazil,Japan,Brazil,Paulinho,48,FALSE,FALSE
+2013-06-15,Brazil,Japan,Brazil,Jô,90,FALSE,FALSE
+2013-06-16,Mexico,Italy,Italy,Andrea Pirlo,27,FALSE,FALSE
+2013-06-16,Mexico,Italy,Mexico,Javier Hernández,34,FALSE,TRUE
+2013-06-16,Mexico,Italy,Italy,Mario Balotelli,78,FALSE,FALSE
+2013-06-16,Spain,Uruguay,Spain,Pedro,20,FALSE,FALSE
+2013-06-16,Spain,Uruguay,Spain,Roberto Soldado,32,FALSE,FALSE
+2013-06-16,Spain,Uruguay,Uruguay,Luis Suárez,88,FALSE,FALSE
+2013-06-17,Tahiti,Nigeria,Nigeria,Nicolas Vallar,5,TRUE,FALSE
+2013-06-17,Tahiti,Nigeria,Nigeria,Nnamdi Oduamadi,10,FALSE,FALSE
+2013-06-17,Tahiti,Nigeria,Nigeria,Nnamdi Oduamadi,26,FALSE,FALSE
+2013-06-17,Tahiti,Nigeria,Tahiti,Jonathan Tehau,54,FALSE,FALSE
+2013-06-17,Tahiti,Nigeria,Nigeria,Jonathan Tehau,69,TRUE,FALSE
+2013-06-17,Tahiti,Nigeria,Nigeria,Nnamdi Oduamadi,76,FALSE,FALSE
+2013-06-17,Tahiti,Nigeria,Nigeria,Uwa Elderson Echiéjilé,80,FALSE,FALSE
+2013-06-19,Brazil,Mexico,Brazil,Neymar,9,FALSE,FALSE
+2013-06-19,Brazil,Mexico,Brazil,Jô,90,FALSE,FALSE
+2013-06-19,Italy,Japan,Japan,Keisuke Honda,21,FALSE,TRUE
+2013-06-19,Italy,Japan,Japan,Shinji Kagawa,33,FALSE,FALSE
+2013-06-19,Italy,Japan,Italy,Daniele De Rossi,41,FALSE,FALSE
+2013-06-19,Italy,Japan,Italy,Atsuto Uchida,50,TRUE,FALSE
+2013-06-19,Italy,Japan,Italy,Mario Balotelli,52,FALSE,TRUE
+2013-06-19,Italy,Japan,Japan,Shinji Okazaki,69,FALSE,FALSE
+2013-06-19,Italy,Japan,Italy,Sebastian Giovinco,86,FALSE,FALSE
+2013-06-20,Nigeria,Uruguay,Uruguay,Diego Lugano,19,FALSE,FALSE
+2013-06-20,Nigeria,Uruguay,Nigeria,Mikel John Obi,37,FALSE,FALSE
+2013-06-20,Nigeria,Uruguay,Uruguay,Diego Forlán,51,FALSE,FALSE
+2013-06-20,Spain,Tahiti,Spain,Fernando Torres,5,FALSE,FALSE
+2013-06-20,Spain,Tahiti,Spain,David Silva,31,FALSE,FALSE
+2013-06-20,Spain,Tahiti,Spain,Fernando Torres,33,FALSE,FALSE
+2013-06-20,Spain,Tahiti,Spain,David Villa,39,FALSE,FALSE
+2013-06-20,Spain,Tahiti,Spain,David Villa,49,FALSE,FALSE
+2013-06-20,Spain,Tahiti,Spain,Fernando Torres,57,FALSE,FALSE
+2013-06-20,Spain,Tahiti,Spain,David Villa,64,FALSE,FALSE
+2013-06-20,Spain,Tahiti,Spain,Juan Mata,66,FALSE,FALSE
+2013-06-20,Spain,Tahiti,Spain,Fernando Torres,78,FALSE,FALSE
+2013-06-20,Spain,Tahiti,Spain,David Silva,89,FALSE,FALSE
+2013-06-22,Brazil,Italy,Brazil,Dante,45,FALSE,FALSE
+2013-06-22,Brazil,Italy,Italy,Emanuele Giaccherini,51,FALSE,FALSE
+2013-06-22,Brazil,Italy,Brazil,Neymar,55,FALSE,FALSE
+2013-06-22,Brazil,Italy,Brazil,Fred,66,FALSE,FALSE
+2013-06-22,Brazil,Italy,Italy,Giorgio Chiellini,71,FALSE,FALSE
+2013-06-22,Brazil,Italy,Brazil,Fred,89,FALSE,FALSE
+2013-06-22,Japan,Mexico,Mexico,Javier Hernández,54,FALSE,FALSE
+2013-06-22,Japan,Mexico,Mexico,Javier Hernández,66,FALSE,FALSE
+2013-06-22,Japan,Mexico,Japan,Shinji Okazaki,86,FALSE,FALSE
+2013-06-23,Nigeria,Spain,Spain,Jordi Alba,3,FALSE,FALSE
+2013-06-23,Nigeria,Spain,Spain,Fernando Torres,62,FALSE,FALSE
+2013-06-23,Nigeria,Spain,Spain,Jordi Alba,88,FALSE,FALSE
+2013-06-23,Uruguay,Tahiti,Uruguay,Abel Hernández,2,FALSE,FALSE
+2013-06-23,Uruguay,Tahiti,Uruguay,Abel Hernández,24,FALSE,FALSE
+2013-06-23,Uruguay,Tahiti,Uruguay,Diego Pérez,27,FALSE,FALSE
+2013-06-23,Uruguay,Tahiti,Uruguay,Abel Hernández,45,FALSE,FALSE
+2013-06-23,Uruguay,Tahiti,Uruguay,Nicolás Lodeiro,61,FALSE,FALSE
+2013-06-23,Uruguay,Tahiti,Uruguay,Abel Hernández,67,FALSE,TRUE
+2013-06-23,Uruguay,Tahiti,Uruguay,Luis Suárez,82,FALSE,FALSE
+2013-06-23,Uruguay,Tahiti,Uruguay,Luis Suárez,90,FALSE,FALSE
+2013-06-26,Brazil,Uruguay,Brazil,Fred,41,FALSE,FALSE
+2013-06-26,Brazil,Uruguay,Uruguay,Edinson Cavani,48,FALSE,FALSE
+2013-06-26,Brazil,Uruguay,Brazil,Paulinho,86,FALSE,FALSE
+2013-06-30,Brazil,Spain,Brazil,Fred,2,FALSE,FALSE
+2013-06-30,Brazil,Spain,Brazil,Neymar,44,FALSE,FALSE
+2013-06-30,Brazil,Spain,Brazil,Fred,48,FALSE,FALSE
+2013-06-30,Uruguay,Italy,Italy,Davide Astori,24,FALSE,FALSE
+2013-06-30,Uruguay,Italy,Uruguay,Edinson Cavani,58,FALSE,FALSE
+2013-06-30,Uruguay,Italy,Italy,Alessandro Diamanti,73,FALSE,FALSE
+2013-06-30,Uruguay,Italy,Uruguay,Edinson Cavani,78,FALSE,FALSE
 2013-07-07,Canada,Martinique,Martinique,Fabrice Reuperné,90,FALSE,FALSE
 2013-07-07,Mexico,Panama,Panama,Gabriel Torres,7,FALSE,TRUE
 2013-07-07,Mexico,Panama,Mexico,Marco Fabián,45,FALSE,FALSE
@@ -7942,6 +8322,49 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2017-02-05,Egypt,Cameroon,Egypt,Mohamed Elneny,22,FALSE,FALSE
 2017-02-05,Egypt,Cameroon,Cameroon,Nicolas Nkoulou,59,FALSE,FALSE
 2017-02-05,Egypt,Cameroon,Cameroon,Vincent Aboubakar,88,FALSE,FALSE
+2017-06-17,Russia,New Zealand,Russia,Michael Boxall,31,TRUE,FALSE
+2017-06-17,Russia,New Zealand,Russia,Fyodor Smolov,69,FALSE,FALSE
+2017-06-18,Cameroon,Chile,Chile,Arturo Vidal,81,FALSE,FALSE
+2017-06-18,Cameroon,Chile,Chile,Eduardo Vargas,90,FALSE,FALSE
+2017-06-18,Portugal,Mexico,Portugal,Ricardo Quaresma,34,FALSE,FALSE
+2017-06-18,Portugal,Mexico,Mexico,Javier Hernández,42,FALSE,FALSE
+2017-06-18,Portugal,Mexico,Portugal,Cédric Soares,86,FALSE,FALSE
+2017-06-18,Portugal,Mexico,Mexico,Héctor Moreno,90,FALSE,FALSE
+2017-06-19,Australia,Germany,Germany,Lars Stindl,5,FALSE,FALSE
+2017-06-19,Australia,Germany,Australia,Tom Rogic,41,FALSE,FALSE
+2017-06-19,Australia,Germany,Germany,Julian Draxler,44,FALSE,TRUE
+2017-06-19,Australia,Germany,Germany,Leon Goretzka,48,FALSE,FALSE
+2017-06-19,Australia,Germany,Australia,Tomi Juric,56,FALSE,FALSE
+2017-06-21,Mexico,New Zealand,New Zealand,Chris Wood,42,FALSE,FALSE
+2017-06-21,Mexico,New Zealand,Mexico,Raúl Jiménez,54,FALSE,FALSE
+2017-06-21,Mexico,New Zealand,Mexico,Oribe Peralta,72,FALSE,FALSE
+2017-06-21,Russia,Portugal,Portugal,Cristiano Ronaldo,8,FALSE,FALSE
+2017-06-22,Cameroon,Australia,Cameroon,André-Frank Zambo Anguissa,45,FALSE,FALSE
+2017-06-22,Cameroon,Australia,Australia,Mark Milligan,60,FALSE,TRUE
+2017-06-22,Germany,Chile,Chile,Alexis Sánchez,6,FALSE,FALSE
+2017-06-22,Germany,Chile,Germany,Lars Stindl,41,FALSE,FALSE
+2017-06-24,New Zealand,Portugal,Portugal,Cristiano Ronaldo,33,FALSE,TRUE
+2017-06-24,New Zealand,Portugal,Portugal,Bernardo Silva,37,FALSE,FALSE
+2017-06-24,New Zealand,Portugal,Portugal,André Silva,80,FALSE,FALSE
+2017-06-24,New Zealand,Portugal,Portugal,Nani,90,FALSE,FALSE
+2017-06-24,Russia,Mexico,Russia,Aleksandr Samedov,25,FALSE,FALSE
+2017-06-24,Russia,Mexico,Mexico,Néstor Araujo,30,FALSE,FALSE
+2017-06-24,Russia,Mexico,Mexico,Hirving Lozano,52,FALSE,FALSE
+2017-06-25,Chile,Australia,Australia,James Troisi,42,FALSE,FALSE
+2017-06-25,Chile,Australia,Chile,Martín Rodríguez,67,FALSE,FALSE
+2017-06-25,Germany,Cameroon,Germany,Kerem Demirbay,48,FALSE,FALSE
+2017-06-25,Germany,Cameroon,Germany,Timo Werner,66,FALSE,FALSE
+2017-06-25,Germany,Cameroon,Cameroon,Vincent Aboubakar,78,FALSE,FALSE
+2017-06-25,Germany,Cameroon,Germany,Timo Werner,81,FALSE,FALSE
+2017-06-29,Germany,Mexico,Germany,Leon Goretzka,6,FALSE,FALSE
+2017-06-29,Germany,Mexico,Germany,Leon Goretzka,8,FALSE,FALSE
+2017-06-29,Germany,Mexico,Germany,Timo Werner,59,FALSE,FALSE
+2017-06-29,Germany,Mexico,Mexico,Marco Fabián,89,FALSE,FALSE
+2017-06-29,Germany,Mexico,Germany,Amin Younes,90,FALSE,FALSE
+2017-07-02,Chile,Germany,Germany,Lars Stindl,20,FALSE,FALSE
+2017-07-02,Portugal,Mexico,Mexico,Luís Neto,54,TRUE,FALSE
+2017-07-02,Portugal,Mexico,Portugal,Pepe,90,FALSE,FALSE
+2017-07-02,Portugal,Mexico,Portugal,Adrien Silva,104,FALSE,TRUE
 2017-07-07,French Guiana,Canada,Canada,Dejan Jakovic,28,FALSE,FALSE
 2017-07-07,French Guiana,Canada,Canada,Scott Arfield,45,FALSE,FALSE
 2017-07-07,French Guiana,Canada,Canada,Alphonso Davies,60,FALSE,FALSE
