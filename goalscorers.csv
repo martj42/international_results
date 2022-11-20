@@ -2765,6 +2765,44 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1972-06-18,Germany,Russia,Germany,Gerd Müller,27,FALSE,FALSE
 1972-06-18,Germany,Russia,Germany,Herbert Wimmer,52,FALSE,FALSE
 1972-06-18,Germany,Russia,Germany,Gerd Müller,58,FALSE,FALSE
+1973-02-17,New Caledonia,Tahiti,Tahiti,Erroll Bennett,NA,FALSE,FALSE
+1973-02-17,New Caledonia,Tahiti,Tahiti,Alexis Tumahai,NA,FALSE,FALSE
+1973-02-17,New Caledonia,Tahiti,New Caledonia,Roger Mandin,NA,FALSE,FALSE
+1973-02-17,New Zealand,Fiji,New Zealand,Brian Turner,NA,FALSE,FALSE
+1973-02-17,New Zealand,Fiji,New Zealand,Dave Taylor,NA,FALSE,FALSE
+1973-02-17,New Zealand,Fiji,New Zealand,Geoff Brand,NA,FALSE,FALSE
+1973-02-17,New Zealand,Fiji,New Zealand,Malcolm Bland,NA,FALSE,FALSE
+1973-02-17,New Zealand,Fiji,New Zealand,Alan Vest,NA,FALSE,FALSE
+1973-02-17,New Zealand,Fiji,Fiji,Terio Vakatawa,NA,FALSE,FALSE
+1973-02-18,New Caledonia,Vanuatu,New Caledonia,Jean Hmae,NA,FALSE,FALSE
+1973-02-18,New Caledonia,Vanuatu,New Caledonia,Jean Hmae,NA,FALSE,FALSE
+1973-02-18,New Caledonia,Vanuatu,New Caledonia,Segin Wayewol,NA,FALSE,FALSE
+1973-02-18,New Caledonia,Vanuatu,New Caledonia,Pierre Wacapo,NA,FALSE,FALSE
+1973-02-18,New Caledonia,Vanuatu,Vanuatu,Michael Dupuy,NA,FALSE,FALSE
+1973-02-18,New Zealand,Tahiti,New Zealand,Alan Vest,NA,FALSE,FALSE
+1973-02-18,New Zealand,Tahiti,Tahiti,Erroll Bennett,NA,FALSE,FALSE
+1973-02-20,Fiji,New Caledonia,New Caledonia,Segin Wayewol,NA,FALSE,FALSE
+1973-02-20,Fiji,New Caledonia,New Caledonia,Segin Wayewol,NA,FALSE,FALSE
+1973-02-20,Vanuatu,Tahiti,Tahiti,Erroll Bennett,NA,FALSE,FALSE
+1973-02-21,Fiji,Vanuatu,Vanuatu,Alick Saurei,NA,FALSE,FALSE
+1973-02-21,Fiji,Vanuatu,Vanuatu,Jacky Valette,NA,FALSE,FALSE
+1973-02-21,Fiji,Vanuatu,Fiji,Josateki Kurivitu,NA,FALSE,FALSE
+1973-02-21,New Zealand,New Caledonia,New Zealand,Alan Marley,NA,FALSE,FALSE
+1973-02-21,New Zealand,New Caledonia,New Zealand,Colin Latimour,NA,FALSE,FALSE
+1973-02-21,New Zealand,New Caledonia,New Caledonia,Jean Xowie,NA,FALSE,FALSE
+1973-02-23,Fiji,Tahiti,Tahiti,Claude Carrara,NA,FALSE,FALSE
+1973-02-23,Fiji,Tahiti,Tahiti,Harold Ng Fok,NA,FALSE,FALSE
+1973-02-23,Fiji,Tahiti,Tahiti,Gilles Malinowski,NA,FALSE,FALSE
+1973-02-23,Fiji,Tahiti,Tahiti,Roland de Marigny,NA,FALSE,FALSE
+1973-02-23,New Zealand,Vanuatu,New Zealand,Malcolm Bland,NA,FALSE,FALSE
+1973-02-23,New Zealand,Vanuatu,New Zealand,Brian Hardman,NA,FALSE,FALSE
+1973-02-23,New Zealand,Vanuatu,New Zealand,Alan Marley,NA,FALSE,FALSE
+1973-02-23,New Zealand,Vanuatu,Vanuatu,Raymond Valette,NA,FALSE,FALSE
+1973-02-24,New Caledonia,Vanuatu,New Caledonia,Gerald Delmas,NA,FALSE,FALSE
+1973-02-24,New Caledonia,Vanuatu,New Caledonia,Jean Xowie,NA,FALSE,FALSE
+1973-02-24,New Caledonia,Vanuatu,Vanuatu,Charles Galinie,NA,FALSE,FALSE
+1973-02-24,New Zealand,Tahiti,New Zealand,Dave Taylor,NA,FALSE,FALSE
+1973-02-24,New Zealand,Tahiti,New Zealand,Alan Marley,NA,FALSE,FALSE
 1974-03-01,Egypt,Uganda,Egypt,Ali Abo Greisha,6,FALSE,FALSE
 1974-03-01,Egypt,Uganda,Uganda,Stanley Mubiru,28,FALSE,FALSE
 1974-03-01,Egypt,Uganda,Egypt,Ali Khalil,52,FALSE,FALSE
@@ -3294,6 +3332,100 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1979-11-28,Paraguay,Chile,Paraguay,Milciades Morel,36,FALSE,FALSE
 1979-11-28,Paraguay,Chile,Paraguay,Julio César Romero,85,FALSE,FALSE
 1979-12-05,Chile,Paraguay,Chile,Carlos Rivas,10,FALSE,FALSE
+1980-02-24,New Caledonia,Australia,Australia,Danny Moulis,NA,FALSE,FALSE
+1980-02-24,New Caledonia,Australia,Australia,Ian Hunter,NA,FALSE,FALSE
+1980-02-24,New Caledonia,Australia,Australia,Ian Hunter,NA,FALSE,FALSE
+1980-02-24,New Caledonia,Australia,Australia,Paul Kay,NA,FALSE,FALSE
+1980-02-24,New Caledonia,Australia,Australia,Paul Kay,NA,FALSE,FALSE
+1980-02-24,New Caledonia,Australia,Australia,Eddie Krncevic,NA,FALSE,FALSE
+1980-02-24,New Caledonia,Australia,Australia,Eddie Krncevic,NA,FALSE,FALSE
+1980-02-24,New Caledonia,Australia,Australia,Eddie Krncevic,NA,FALSE,FALSE
+1980-02-24,Vanuatu,Papua New Guinea,Papua New Guinea,NA,NA,FALSE,FALSE
+1980-02-24,Vanuatu,Papua New Guinea,Papua New Guinea,NA,NA,FALSE,FALSE
+1980-02-24,Vanuatu,Papua New Guinea,Papua New Guinea,NA,NA,FALSE,FALSE
+1980-02-24,Vanuatu,Papua New Guinea,Papua New Guinea,NA,NA,FALSE,FALSE
+1980-02-24,Vanuatu,Papua New Guinea,Vanuatu,NA,NA,FALSE,FALSE
+1980-02-24,Vanuatu,Papua New Guinea,Vanuatu,NA,NA,FALSE,FALSE
+1980-02-24,Vanuatu,Papua New Guinea,Vanuatu,NA,NA,FALSE,FALSE
+1980-02-25,Fiji,Solomon Islands,Fiji,NA,NA,FALSE,FALSE
+1980-02-25,Fiji,Solomon Islands,Fiji,NA,NA,FALSE,FALSE
+1980-02-25,Fiji,Solomon Islands,Fiji,NA,NA,FALSE,FALSE
+1980-02-25,Fiji,Solomon Islands,Solomon Islands,NA,NA,FALSE,FALSE
+1980-02-25,New Zealand,Tahiti,New Zealand,Steve Sumner,47,FALSE,TRUE
+1980-02-25,New Zealand,Tahiti,Tahiti,Alfred Wabealo,61,FALSE,FALSE
+1980-02-25,New Zealand,Tahiti,Tahiti,Alfred Wabealo,73,FALSE,FALSE
+1980-02-25,New Zealand,Tahiti,Tahiti,Erroll Bennett,85,FALSE,FALSE
+1980-02-26,Australia,Papua New Guinea,Australia,Danny Moulis,NA,FALSE,FALSE
+1980-02-26,Australia,Papua New Guinea,Australia,Arno Bertogna,NA,FALSE,FALSE
+1980-02-26,Australia,Papua New Guinea,Australia,Vic Bozanic,NA,FALSE,FALSE
+1980-02-26,Australia,Papua New Guinea,Australia,Ian Hunter,NA,FALSE,FALSE
+1980-02-26,Australia,Papua New Guinea,Australia,Ian Hunter,NA,FALSE,FALSE
+1980-02-26,Australia,Papua New Guinea,Australia,Ian Hunter,NA,FALSE,FALSE
+1980-02-26,Australia,Papua New Guinea,Australia,Eddie Krncevic,NA,FALSE,FALSE
+1980-02-26,Australia,Papua New Guinea,Australia,Peter Sharne,NA,FALSE,FALSE
+1980-02-26,Australia,Papua New Guinea,Australia,Peter Sharne,NA,FALSE,FALSE
+1980-02-26,Australia,Papua New Guinea,Australia,Peter Sharne,NA,FALSE,FALSE
+1980-02-26,Australia,Papua New Guinea,Australia,Peter Sharne,NA,FALSE,FALSE
+1980-02-26,Australia,Papua New Guinea,Papua New Guinea,Mouagi,NA,FALSE,FALSE
+1980-02-26,Australia,Papua New Guinea,Papua New Guinea,Torea,NA,FALSE,FALSE
+1980-02-26,New Caledonia,Vanuatu,New Caledonia,NA,NA,FALSE,FALSE
+1980-02-26,New Caledonia,Vanuatu,New Caledonia,NA,NA,FALSE,FALSE
+1980-02-26,New Caledonia,Vanuatu,New Caledonia,NA,NA,FALSE,FALSE
+1980-02-26,New Caledonia,Vanuatu,New Caledonia,NA,NA,FALSE,FALSE
+1980-02-26,New Caledonia,Vanuatu,Vanuatu,NA,NA,FALSE,FALSE
+1980-02-26,New Caledonia,Vanuatu,Vanuatu,NA,NA,FALSE,FALSE
+1980-02-26,New Caledonia,Vanuatu,Vanuatu,NA,NA,FALSE,FALSE
+1980-02-27,Fiji,New Zealand,Fiji,Dewan Chand,10,FALSE,FALSE
+1980-02-27,Fiji,New Zealand,Fiji,Meli Vuilabasa,31,FALSE,FALSE
+1980-02-27,Fiji,New Zealand,Fiji,Dewan Chand,39,FALSE,FALSE
+1980-02-27,Fiji,New Zealand,Fiji,Meli Vuilabasa,63,FALSE,FALSE
+1980-02-27,Solomon Islands,Tahiti,Tahiti,NA,NA,FALSE,FALSE
+1980-02-27,Solomon Islands,Tahiti,Tahiti,NA,NA,FALSE,FALSE
+1980-02-27,Solomon Islands,Tahiti,Tahiti,NA,NA,FALSE,FALSE
+1980-02-27,Solomon Islands,Tahiti,Tahiti,NA,NA,FALSE,FALSE
+1980-02-27,Solomon Islands,Tahiti,Tahiti,NA,NA,FALSE,FALSE
+1980-02-27,Solomon Islands,Tahiti,Tahiti,NA,NA,FALSE,FALSE
+1980-02-27,Solomon Islands,Tahiti,Tahiti,NA,NA,FALSE,FALSE
+1980-02-27,Solomon Islands,Tahiti,Tahiti,NA,NA,FALSE,FALSE
+1980-02-27,Solomon Islands,Tahiti,Tahiti,NA,NA,FALSE,FALSE
+1980-02-27,Solomon Islands,Tahiti,Tahiti,NA,NA,FALSE,FALSE
+1980-02-27,Solomon Islands,Tahiti,Tahiti,NA,NA,FALSE,FALSE
+1980-02-27,Solomon Islands,Tahiti,Tahiti,NA,NA,FALSE,FALSE
+1980-02-27,Solomon Islands,Tahiti,Solomon Islands,NA,NA,FALSE,FALSE
+1980-02-28,Australia,Vanuatu,Australia,Eddie Krncevic,NA,FALSE,FALSE
+1980-02-28,New Caledonia,Papua New Guinea,New Caledonia,NA,NA,FALSE,FALSE
+1980-02-28,New Caledonia,Papua New Guinea,New Caledonia,NA,NA,FALSE,FALSE
+1980-02-28,New Caledonia,Papua New Guinea,New Caledonia,NA,NA,FALSE,FALSE
+1980-02-28,New Caledonia,Papua New Guinea,New Caledonia,NA,NA,FALSE,FALSE
+1980-02-28,New Caledonia,Papua New Guinea,New Caledonia,NA,NA,FALSE,FALSE
+1980-02-28,New Caledonia,Papua New Guinea,New Caledonia,NA,NA,FALSE,FALSE
+1980-02-28,New Caledonia,Papua New Guinea,New Caledonia,NA,NA,FALSE,FALSE
+1980-02-28,New Caledonia,Papua New Guinea,New Caledonia,NA,NA,FALSE,FALSE
+1980-02-29,Fiji,Tahiti,Tahiti,NA,NA,FALSE,FALSE
+1980-02-29,Fiji,Tahiti,Tahiti,NA,NA,FALSE,FALSE
+1980-02-29,Fiji,Tahiti,Tahiti,NA,NA,FALSE,FALSE
+1980-02-29,Fiji,Tahiti,Tahiti,NA,NA,FALSE,FALSE
+1980-02-29,Fiji,Tahiti,Tahiti,NA,NA,FALSE,FALSE
+1980-02-29,Fiji,Tahiti,Tahiti,NA,NA,FALSE,FALSE
+1980-02-29,Fiji,Tahiti,Fiji,NA,NA,FALSE,FALSE
+1980-02-29,Fiji,Tahiti,Fiji,NA,NA,FALSE,FALSE
+1980-02-29,Fiji,Tahiti,Fiji,NA,NA,FALSE,FALSE
+1980-02-29,New Zealand,Solomon Islands,New Zealand,Michael Groom,6,FALSE,FALSE
+1980-02-29,New Zealand,Solomon Islands,New Zealand,Mark Armstrong,16,FALSE,FALSE
+1980-02-29,New Zealand,Solomon Islands,New Zealand,Bill de Graaf,24,FALSE,FALSE
+1980-02-29,New Zealand,Solomon Islands,New Zealand,Bill de Graaf,39,FALSE,FALSE
+1980-02-29,New Zealand,Solomon Islands,New Zealand,Mark Armstrong,65,FALSE,FALSE
+1980-02-29,New Zealand,Solomon Islands,Solomon Islands,E. Karitea,66,FALSE,FALSE
+1980-02-29,New Zealand,Solomon Islands,New Zealand,Mark Armstrong,69,FALSE,FALSE
+1980-03-01,Australia,Tahiti,Australia,Paul Kay,4,FALSE,FALSE
+1980-03-01,Australia,Tahiti,Tahiti,Andre Wabealo,11,FALSE,FALSE
+1980-03-01,Australia,Tahiti,Australia,Paul Kay,29,FALSE,FALSE
+1980-03-01,Australia,Tahiti,Australia,Danny Moulis,NA,FALSE,FALSE
+1980-03-01,Australia,Tahiti,Australia,Vic Bozanic,NA,FALSE,FALSE
+1980-03-01,Australia,Tahiti,Tahiti,Erroll Bennett,NA,FALSE,FALSE
+1980-03-01,New Caledonia,Fiji,Fiji,Mohamed Salim,3,FALSE,FALSE
+1980-03-01,New Caledonia,Fiji,New Caledonia,Jean Xowie,36,FALSE,FALSE
+1980-03-01,New Caledonia,Fiji,New Caledonia,Jacob Xowie,62,FALSE,FALSE
 1980-03-08,Egypt,Ivory Coast,Ivory Coast,Ani Gome,7,FALSE,FALSE
 1980-03-08,Egypt,Ivory Coast,Egypt,Maher Hammam,8,FALSE,FALSE
 1980-03-08,Egypt,Ivory Coast,Egypt,Mokhtar Mokhtar,20,FALSE,FALSE
@@ -4915,6 +5047,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1995-07-22,Colombia,United States,Colombia,Freddy Rincón,76,FALSE,FALSE
 1995-07-23,Uruguay,Brazil,Brazil,Túlio Maravilha,30,FALSE,FALSE
 1995-07-23,Uruguay,Brazil,Uruguay,Pablo Bengoechea,51,FALSE,FALSE
+1995-11-15,Australia,New Zealand,Australia,Damian Mori,33,FALSE,FALSE
+1995-11-15,Australia,New Zealand,Australia,Paul Wade,45,FALSE,TRUE
+1995-11-15,Australia,New Zealand,Australia,Joe Spiteri,51,FALSE,FALSE
+1995-11-17,Solomon Islands,Tahiti,Tahiti,Jean-Loup Rousseau,72,FALSE,FALSE
 1996-01-10,Canada,Honduras,Canada,Carlo Corazzin,9,FALSE,FALSE
 1996-01-10,Canada,Honduras,Canada,Kevin Holness,27,FALSE,FALSE
 1996-01-10,Canada,Honduras,Honduras,Presley Carson,40,FALSE,FALSE
@@ -5035,6 +5171,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1996-02-03,South Africa,Tunisia,South Africa,Mark Williams,73,FALSE,FALSE
 1996-02-03,South Africa,Tunisia,South Africa,Mark Williams,75,FALSE,FALSE
 1996-02-03,Zambia,Ghana,Zambia,Johnson Bwalya,51,FALSE,FALSE
+1996-05-11,Tahiti,Solomon Islands,Tahiti,Jean-Loup Rousseau,46,FALSE,FALSE
+1996-05-11,Tahiti,Solomon Islands,Solomon Islands,Robert Seni,81,FALSE,FALSE
+1996-05-11,Tahiti,Solomon Islands,Tahiti,Macha Gatien,88,FALSE,FALSE
 1996-06-08,England,Switzerland,England,Alan Shearer,23,FALSE,FALSE
 1996-06-08,England,Switzerland,Switzerland,Kubilay Türkyilmaz,83,FALSE,TRUE
 1996-06-09,Denmark,Portugal,Denmark,Brian Laudrup,22,FALSE,FALSE
@@ -5099,6 +5238,17 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1996-06-30,Czech Republic,Germany,Czech Republic,Patrik Berger,59,FALSE,TRUE
 1996-06-30,Czech Republic,Germany,Germany,Oliver Bierhoff,73,FALSE,FALSE
 1996-06-30,Czech Republic,Germany,Germany,Oliver Bierhoff,95,FALSE,FALSE
+1996-10-27,Tahiti,Australia,Australia,Ernie Tapai,5,FALSE,FALSE
+1996-10-27,Tahiti,Australia,Australia,Paul Trimboli,20,FALSE,FALSE
+1996-10-27,Tahiti,Australia,Australia,Kris Trajanovski,25,FALSE,FALSE
+1996-10-27,Tahiti,Australia,Australia,Kris Trajanovski,28,FALSE,FALSE
+1996-10-27,Tahiti,Australia,Australia,Kris Trajanovski,44,FALSE,FALSE
+1996-10-27,Tahiti,Australia,Australia,Kris Trajanovski,89,FALSE,FALSE
+1996-11-01,Australia,Tahiti,Australia,Robbie Hooker,11,FALSE,FALSE
+1996-11-01,Australia,Tahiti,Australia,Kris Trajanovski,21,FALSE,FALSE
+1996-11-01,Australia,Tahiti,Australia,Rupena Raumati,31,TRUE,FALSE
+1996-11-01,Australia,Tahiti,Australia,Kris Trajanovski,36,FALSE,FALSE
+1996-11-01,Australia,Tahiti,Australia,Kris Trajanovski,54,FALSE,FALSE
 1996-12-04,Indonesia,Kuwait,Indonesia,Widodo Cahyono Putro,20,FALSE,FALSE
 1996-12-04,Indonesia,Kuwait,Indonesia,Ronny Wabia,40,FALSE,FALSE
 1996-12-04,Indonesia,Kuwait,Kuwait,Hani Al Saqer,73,FALSE,FALSE
@@ -5606,6 +5756,58 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1998-07-12,France,Brazil,France,Zinedine Zidane,27,FALSE,FALSE
 1998-07-12,France,Brazil,France,Zinedine Zidane,45,FALSE,FALSE
 1998-07-12,France,Brazil,France,Emmanuel Petit,90,FALSE,FALSE
+1998-09-25,Australia,Fiji,Australia,Damian Mori,2,FALSE,FALSE
+1998-09-25,Australia,Fiji,Australia,Damian Mori,25,FALSE,FALSE
+1998-09-25,Australia,Fiji,Australia,Damian Mori,44,FALSE,FALSE
+1998-09-25,Australia,Fiji,Fiji,Esala Masi,62,FALSE,FALSE
+1998-09-25,New Zealand,Tahiti,New Zealand,Heimana Paama,13,TRUE,FALSE
+1998-09-28,Australia,Cook Islands,Australia,Paul Trimboli,1,FALSE,FALSE
+1998-09-28,Australia,Cook Islands,Australia,Damian Mori,8,FALSE,FALSE
+1998-09-28,Australia,Cook Islands,Australia,Paul Trimboli,12,FALSE,FALSE
+1998-09-28,Australia,Cook Islands,Australia,Damian Mori,15,FALSE,FALSE
+1998-09-28,Australia,Cook Islands,Australia,Brad Maloney,17,FALSE,FALSE
+1998-09-28,Australia,Cook Islands,Australia,Damian Mori,30,FALSE,FALSE
+1998-09-28,Australia,Cook Islands,Australia,Damian Mori,34,FALSE,FALSE
+1998-09-28,Australia,Cook Islands,Australia,Alvin Ceccoli,42,FALSE,FALSE
+1998-09-28,Australia,Cook Islands,Australia,Kris Trajanovski,48,FALSE,FALSE
+1998-09-28,Australia,Cook Islands,Australia,Paul Trimboli,63,FALSE,FALSE
+1998-09-28,Australia,Cook Islands,Australia,Scott Chipperfield,66,FALSE,FALSE
+1998-09-28,Australia,Cook Islands,Australia,Kris Trajanovski,68,FALSE,FALSE
+1998-09-28,Australia,Cook Islands,Australia,Kris Trajanovski,76,FALSE,TRUE
+1998-09-28,Australia,Cook Islands,Australia,Troy Halpin,80,FALSE,FALSE
+1998-09-28,Australia,Cook Islands,Australia,Kris Trajanovski,88,FALSE,FALSE
+1998-09-28,Australia,Cook Islands,Australia,Brad Maloney,89,FALSE,FALSE
+1998-09-28,New Zealand,Vanuatu,New Zealand,Tinol Christie,1,FALSE,FALSE
+1998-09-28,New Zealand,Vanuatu,New Zealand,Vaughan Coveny,11,FALSE,FALSE
+1998-09-28,New Zealand,Vanuatu,New Zealand,Vaughan Coveny,25,FALSE,FALSE
+1998-09-28,New Zealand,Vanuatu,New Zealand,Rupert Ryan,34,FALSE,FALSE
+1998-09-28,New Zealand,Vanuatu,New Zealand,Vaughan Coveny,39,FALSE,FALSE
+1998-09-28,New Zealand,Vanuatu,New Zealand,Vaughan Coveny,40,FALSE,FALSE
+1998-09-28,New Zealand,Vanuatu,Vanuatu,Peter Roronamahava,45,FALSE,FALSE
+1998-09-28,New Zealand,Vanuatu,New Zealand,Rupert Ryan,65,FALSE,FALSE
+1998-09-28,New Zealand,Vanuatu,New Zealand,Che Bunce,65,FALSE,FALSE
+1998-09-30,Fiji,Cook Islands,Fiji,Heath Dickinson,18,TRUE,FALSE
+1998-09-30,Fiji,Cook Islands,Fiji,Kameli Kilalwaca,54,FALSE,FALSE
+1998-09-30,Fiji,Cook Islands,Fiji,Nasema,85,FALSE,FALSE
+1998-09-30,Tahiti,Vanuatu,Tahiti,Gerald Quennet,9,FALSE,FALSE
+1998-09-30,Tahiti,Vanuatu,Tahiti,Gerald Quennet,10,FALSE,FALSE
+1998-09-30,Tahiti,Vanuatu,Tahiti,Teva Zaveroni,54,FALSE,FALSE
+1998-09-30,Tahiti,Vanuatu,Tahiti,Gerald Quennet,74,FALSE,FALSE
+1998-09-30,Tahiti,Vanuatu,Tahiti,Harold Amaru,75,FALSE,FALSE
+1998-09-30,Tahiti,Vanuatu,Vanuatu,Edwin Rarai,82,FALSE,FALSE
+1998-10-02,Australia,Tahiti,Australia,Damian Mori,1,FALSE,FALSE
+1998-10-02,Australia,Tahiti,Australia,Damian Mori,32,FALSE,FALSE
+1998-10-02,Australia,Tahiti,Tahiti,Hiro Labaste,55,FALSE,FALSE
+1998-10-02,Australia,Tahiti,Australia,Damian Mori,81,FALSE,FALSE
+1998-10-02,Australia,Tahiti,Australia,Carl Veart,86,FALSE,FALSE
+1998-10-02,New Zealand,Fiji,New Zealand,Danny Hay,88,FALSE,FALSE
+1998-10-04,Australia,New Zealand,New Zealand,Mark Burton,24,FALSE,FALSE
+1998-10-04,Tahiti,Fiji,Fiji,Esala Masi,26,FALSE,FALSE
+1998-10-04,Tahiti,Fiji,Fiji,Shailend Lal,28,FALSE,FALSE
+1998-10-04,Tahiti,Fiji,Fiji,Esala Masi,31,FALSE,FALSE
+1998-10-04,Tahiti,Fiji,Fiji,Ulaisi Seruvatu,43,FALSE,FALSE
+1998-10-04,Tahiti,Fiji,Tahiti,Jean-Loup Rousseau,81,FALSE,FALSE
+1998-10-04,Tahiti,Fiji,Tahiti,Jean-Loup Rousseau,82,FALSE,FALSE
 1999-06-29,Peru,Japan,Japan,Wagner Lopes,6,FALSE,FALSE
 1999-06-29,Peru,Japan,Peru,Jorge Soto,70,FALSE,FALSE
 1999-06-29,Peru,Japan,Peru,Roberto Holsen,74,FALSE,FALSE
@@ -5914,11 +6116,30 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2000-06-18,Slovenia,Spain,Spain,Raúl,4,FALSE,FALSE
 2000-06-18,Slovenia,Spain,Slovenia,Zlatko Zahovič,59,FALSE,FALSE
 2000-06-18,Slovenia,Spain,Spain,Joseba Etxeberria,60,FALSE,FALSE
+2000-06-19,Australia,Cook Islands,Australia,Paul Agostino,18,FALSE,FALSE
+2000-06-19,Australia,Cook Islands,Australia,Kevin Muscat,21,FALSE,FALSE
+2000-06-19,Australia,Cook Islands,Australia,Danny Tiatto,24,FALSE,FALSE
+2000-06-19,Australia,Cook Islands,Australia,Craig Foster,30,FALSE,FALSE
+2000-06-19,Australia,Cook Islands,Australia,David Zdrilic,35,FALSE,FALSE
+2000-06-19,Australia,Cook Islands,Australia,Craig Foster,42,FALSE,FALSE
+2000-06-19,Australia,Cook Islands,Australia,Kevin Muscat,45,FALSE,TRUE
+2000-06-19,Australia,Cook Islands,Australia,Craig Foster,51,FALSE,FALSE
+2000-06-19,Australia,Cook Islands,Australia,Paul Agostino,53,FALSE,FALSE
+2000-06-19,Australia,Cook Islands,Australia,Tony Popovic,60,FALSE,FALSE
+2000-06-19,Australia,Cook Islands,Australia,David Zdrilic,65,FALSE,FALSE
+2000-06-19,Australia,Cook Islands,Australia,Paul Agostino,68,FALSE,FALSE
+2000-06-19,Australia,Cook Islands,Australia,Steve Corica,70,FALSE,FALSE
+2000-06-19,Australia,Cook Islands,Australia,Craig Foster,80,FALSE,FALSE
+2000-06-19,Australia,Cook Islands,Australia,Clayton Zane,82,FALSE,FALSE
+2000-06-19,Australia,Cook Islands,Australia,Clayton Zane,87,FALSE,FALSE
+2000-06-19,Australia,Cook Islands,Australia,Clayton Zane,89,FALSE,FALSE
 2000-06-19,Belgium,Turkey,Turkey,Hakan Şükür,45,FALSE,FALSE
 2000-06-19,Belgium,Turkey,Turkey,Hakan Şükür,70,FALSE,FALSE
 2000-06-19,Italy,Sweden,Italy,Luigi Di Biagio,39,FALSE,FALSE
 2000-06-19,Italy,Sweden,Sweden,Henrik Larsson,77,FALSE,FALSE
 2000-06-19,Italy,Sweden,Italy,Alessandro Del Piero,88,FALSE,FALSE
+2000-06-19,Tahiti,New Zealand,New Zealand,Kris Bouckenooghe,27,FALSE,FALSE
+2000-06-19,Tahiti,New Zealand,New Zealand,Chris Jackson,78,FALSE,FALSE
 2000-06-20,England,Romania,Romania,Cristian Chivu,22,FALSE,FALSE
 2000-06-20,England,Romania,England,Alan Shearer,41,FALSE,TRUE
 2000-06-20,England,Romania,England,Michael Owen,45,FALSE,FALSE
@@ -5934,6 +6155,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2000-06-21,Netherlands,France,France,David Trezeguet,31,FALSE,FALSE
 2000-06-21,Netherlands,France,Netherlands,Frank de Boer,51,FALSE,FALSE
 2000-06-21,Netherlands,France,Netherlands,Boudewijn Zenden,59,FALSE,FALSE
+2000-06-21,New Zealand,Vanuatu,Vanuatu,Richard Iwai,14,FALSE,FALSE
+2000-06-21,New Zealand,Vanuatu,New Zealand,Chris Killen,47,FALSE,FALSE
+2000-06-21,New Zealand,Vanuatu,New Zealand,Jonathan Perry,56,FALSE,FALSE
+2000-06-21,New Zealand,Vanuatu,New Zealand,Chris Killen,84,FALSE,FALSE
 2000-06-21,Serbia,Spain,Serbia,Savo Milošević,30,FALSE,FALSE
 2000-06-21,Serbia,Spain,Spain,Alfonso Pérez,38,FALSE,FALSE
 2000-06-21,Serbia,Spain,Serbia,Dejan Govedarica,50,FALSE,FALSE
@@ -5941,10 +6166,28 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2000-06-21,Serbia,Spain,Serbia,Slobodan Komljenović,75,FALSE,FALSE
 2000-06-21,Serbia,Spain,Spain,Alfonso Pérez,90,FALSE,FALSE
 2000-06-21,Serbia,Spain,Spain,Gaizka Mendieta,90,FALSE,TRUE
+2000-06-21,Solomon Islands,Cook Islands,Solomon Islands,Batram Suri,33,FALSE,FALSE
+2000-06-21,Solomon Islands,Cook Islands,Solomon Islands,Commins Menapi,47,FALSE,FALSE
+2000-06-21,Solomon Islands,Cook Islands,Cook Islands,Daniel Shepherd,55,FALSE,FALSE
+2000-06-21,Solomon Islands,Cook Islands,Solomon Islands,Jack Samani,63,FALSE,FALSE
+2000-06-21,Solomon Islands,Cook Islands,Solomon Islands,Gideon Omokirio,74,FALSE,FALSE
+2000-06-21,Solomon Islands,Cook Islands,Solomon Islands,Henry Koto,88,FALSE,FALSE
+2000-06-22,Tahiti,Vanuatu,Tahiti,Jean-Loup Rousseau,2,FALSE,TRUE
+2000-06-22,Tahiti,Vanuatu,Vanuatu,Jimmy Ben,49,FALSE,FALSE
+2000-06-22,Tahiti,Vanuatu,Vanuatu,Richard Iwai,60,FALSE,FALSE
+2000-06-22,Tahiti,Vanuatu,Vanuatu,Georgina Tura,77,FALSE,FALSE
+2000-06-22,Tahiti,Vanuatu,Tahiti,Harold Amaru,87,FALSE,FALSE
+2000-06-23,Solomon Islands,Australia,Australia,Scott Chipperfield,6,FALSE,FALSE
+2000-06-23,Solomon Islands,Australia,Australia,Clayton Zane,13,FALSE,FALSE
+2000-06-23,Solomon Islands,Australia,Australia,Clayton Zane,35,FALSE,FALSE
+2000-06-23,Solomon Islands,Australia,Australia,Gideon Omokirio,36,TRUE,FALSE
+2000-06-23,Solomon Islands,Australia,Australia,Kevin Muscat,39,FALSE,TRUE
+2000-06-23,Solomon Islands,Australia,Australia,Pablo Cardozo,43,FALSE,FALSE
 2000-06-24,Italy,Romania,Italy,Francesco Totti,33,FALSE,FALSE
 2000-06-24,Italy,Romania,Italy,Filippo Inzaghi,43,FALSE,FALSE
 2000-06-24,Turkey,Portugal,Portugal,Nuno Gomes,44,FALSE,FALSE
 2000-06-24,Turkey,Portugal,Portugal,Nuno Gomes,56,FALSE,FALSE
+2000-06-25,Australia,Vanuatu,Australia,Kevin Muscat,5,FALSE,TRUE
 2000-06-25,Netherlands,Serbia,Netherlands,Patrick Kluivert,24,FALSE,FALSE
 2000-06-25,Netherlands,Serbia,Netherlands,Patrick Kluivert,38,FALSE,FALSE
 2000-06-25,Netherlands,Serbia,Netherlands,Dejan Govedarica,51,TRUE,FALSE
@@ -5952,12 +6195,19 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2000-06-25,Netherlands,Serbia,Netherlands,Marc Overmars,78,FALSE,FALSE
 2000-06-25,Netherlands,Serbia,Netherlands,Marc Overmars,90,FALSE,FALSE
 2000-06-25,Netherlands,Serbia,Serbia,Savo Milošević,90,FALSE,FALSE
+2000-06-25,New Zealand,Solomon Islands,New Zealand,Simon Elliott,51,FALSE,FALSE
+2000-06-25,New Zealand,Solomon Islands,New Zealand,Simon Elliott,55,FALSE,FALSE
 2000-06-25,Spain,France,France,Zinedine Zidane,32,FALSE,FALSE
 2000-06-25,Spain,France,Spain,Gaizka Mendieta,38,FALSE,TRUE
 2000-06-25,Spain,France,France,Youri Djorkaeff,44,FALSE,FALSE
+2000-06-28,Australia,New Zealand,Australia,Shaun Murphy,40,FALSE,FALSE
+2000-06-28,Australia,New Zealand,Australia,Craig Foster,66,FALSE,FALSE
 2000-06-28,France,Portugal,Portugal,Nuno Gomes,19,FALSE,FALSE
 2000-06-28,France,Portugal,France,Thierry Henry,51,FALSE,FALSE
 2000-06-28,France,Portugal,France,Zinedine Zidane,117,FALSE,FALSE
+2000-06-28,Vanuatu,Solomon Islands,Vanuatu,Lexa Bibi,35,FALSE,FALSE
+2000-06-28,Vanuatu,Solomon Islands,Solomon Islands,Commins Menapi,53,FALSE,FALSE
+2000-06-28,Vanuatu,Solomon Islands,Solomon Islands,Gideon Omokirio,69,FALSE,TRUE
 2000-07-02,France,Italy,Italy,Marco Delvecchio,55,FALSE,FALSE
 2000-07-02,France,Italy,France,Sylvain Wiltord,90,FALSE,FALSE
 2000-07-02,France,Italy,France,David Trezeguet,103,FALSE,FALSE
@@ -6378,6 +6628,70 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2002-06-29,South Korea,Turkey,South Korea,Song Chong-gug,90,FALSE,FALSE
 2002-06-30,Germany,Brazil,Brazil,Ronaldo,67,FALSE,FALSE
 2002-06-30,Germany,Brazil,Brazil,Ronaldo,79,FALSE,FALSE
+2002-07-05,New Zealand,Tahiti,New Zealand,Ryan Nelsen,30,FALSE,FALSE
+2002-07-05,New Zealand,Tahiti,New Zealand,Ivan Vicelich,49,FALSE,FALSE
+2002-07-05,New Zealand,Tahiti,New Zealand,Paul Urlovic,80,FALSE,FALSE
+2002-07-05,New Zealand,Tahiti,New Zealand,Jeff Campbell,88,FALSE,FALSE
+2002-07-06,Australia,Vanuatu,Australia,Damian Mori,69,FALSE,FALSE
+2002-07-06,Australia,Vanuatu,Australia,Bobby Despotovski,85,FALSE,FALSE
+2002-07-06,Fiji,New Caledonia,Fiji,Veresa Toma,23,FALSE,FALSE
+2002-07-06,Fiji,New Caledonia,Fiji,Junior Bukaudi,49,FALSE,FALSE
+2002-07-06,Fiji,New Caledonia,New Caledonia,Andre Sinedo,79,FALSE,FALSE
+2002-07-07,New Zealand,Papua New Guinea,New Zealand,Chris Killen,9,FALSE,FALSE
+2002-07-07,New Zealand,Papua New Guinea,New Zealand,Chris Killen,10,FALSE,FALSE
+2002-07-07,New Zealand,Papua New Guinea,New Zealand,Jeff Campbell,27,FALSE,FALSE
+2002-07-07,New Zealand,Papua New Guinea,New Zealand,Chris Killen,28,FALSE,FALSE
+2002-07-07,New Zealand,Papua New Guinea,Papua New Guinea,Joe Aisa,35,FALSE,TRUE
+2002-07-07,New Zealand,Papua New Guinea,New Zealand,Chris Killen,51,FALSE,FALSE
+2002-07-07,New Zealand,Papua New Guinea,New Zealand,Ryan Nelsen,54,FALSE,FALSE
+2002-07-07,New Zealand,Papua New Guinea,New Zealand,Jeff Campbell,85,FALSE,FALSE
+2002-07-07,New Zealand,Papua New Guinea,New Zealand,Mark Burton,87,FALSE,FALSE
+2002-07-07,New Zealand,Papua New Guinea,New Zealand,Raf de Gregorio,90,FALSE,FALSE
+2002-07-07,Solomon Islands,Tahiti,Solomon Islands,Patterson Daudau,8,FALSE,FALSE
+2002-07-07,Solomon Islands,Tahiti,Solomon Islands,Commins Menapi,25,FALSE,FALSE
+2002-07-07,Solomon Islands,Tahiti,Tahiti,Sylvain Booene,42,FALSE,FALSE
+2002-07-07,Solomon Islands,Tahiti,Tahiti,Felix Tagawa,57,FALSE,FALSE
+2002-07-07,Solomon Islands,Tahiti,Tahiti,Steve Fatupua-Lecaill,90,FALSE,FALSE
+2002-07-08,Australia,New Caledonia,Australia,Bobby Despotovski,2,FALSE,FALSE
+2002-07-08,Australia,New Caledonia,Australia,Steve Horvat,15,FALSE,FALSE
+2002-07-08,Australia,New Caledonia,Australia,Scott Chipperfield,22,FALSE,FALSE
+2002-07-08,Australia,New Caledonia,Australia,Damian Mori,34,FALSE,FALSE
+2002-07-08,Australia,New Caledonia,Australia,Scott Chipperfield,35,FALSE,FALSE
+2002-07-08,Australia,New Caledonia,Australia,Bobby Despotovski,56,FALSE,TRUE
+2002-07-08,Australia,New Caledonia,Australia,Bobby Despotovski,76,FALSE,FALSE
+2002-07-08,Australia,New Caledonia,Australia,Bobby Despotovski,77,FALSE,FALSE
+2002-07-08,Australia,New Caledonia,Australia,Angelo Costanzo,83,FALSE,FALSE
+2002-07-08,Australia,New Caledonia,Australia,Joel Porter,86,FALSE,FALSE
+2002-07-08,Australia,New Caledonia,Australia,Paul Trimboli,90,FALSE,FALSE
+2002-07-08,Fiji,Vanuatu,Vanuatu,Willie August Marango,6,FALSE,FALSE
+2002-07-09,New Zealand,Solomon Islands,New Zealand,Ivan Vicelich,28,FALSE,FALSE
+2002-07-09,New Zealand,Solomon Islands,New Zealand,Paul Urlovic,42,FALSE,FALSE
+2002-07-09,New Zealand,Solomon Islands,New Zealand,Ivan Vicelich,45,FALSE,FALSE
+2002-07-09,New Zealand,Solomon Islands,New Zealand,Jeff Campbell,50,FALSE,FALSE
+2002-07-09,New Zealand,Solomon Islands,Solomon Islands,Henry Fa'arodo,73,FALSE,FALSE
+2002-07-09,New Zealand,Solomon Islands,New Zealand,Jeff Campbell,75,FALSE,FALSE
+2002-07-09,New Zealand,Solomon Islands,New Zealand,Mark Burton,88,FALSE,FALSE
+2002-07-09,Papua New Guinea,Tahiti,Tahiti,Samuel Garcia,29,FALSE,FALSE
+2002-07-09,Papua New Guinea,Tahiti,Papua New Guinea,Reginald Davani,43,FALSE,FALSE
+2002-07-09,Papua New Guinea,Tahiti,Tahiti,Felix Tagawa,49,FALSE,FALSE
+2002-07-09,Papua New Guinea,Tahiti,Tahiti,Felix Tagawa,64,FALSE,FALSE
+2002-07-10,Australia,Fiji,Australia,Ante Milicic,4,FALSE,FALSE
+2002-07-10,Australia,Fiji,Australia,Joel Porter,7,FALSE,FALSE
+2002-07-10,Australia,Fiji,Australia,Joel Porter,12,FALSE,FALSE
+2002-07-10,Australia,Fiji,Australia,Ante Juric,36,FALSE,FALSE
+2002-07-10,Australia,Fiji,Australia,Joel Porter,45,FALSE,FALSE
+2002-07-10,Australia,Fiji,Australia,Paul Trimboli,46,FALSE,FALSE
+2002-07-10,Australia,Fiji,Australia,Joel Porter,52,FALSE,FALSE
+2002-07-10,Australia,Fiji,Australia,Fausto De Amicis,89,FALSE,FALSE
+2002-07-10,New Caledonia,Vanuatu,Vanuatu,Richard Iwai,76,FALSE,FALSE
+2002-07-12,Australia,Tahiti,Tahiti,Teva Zaveroni,38,FALSE,FALSE
+2002-07-12,Australia,Tahiti,Australia,Joel Porter,88,FALSE,FALSE
+2002-07-12,Australia,Tahiti,Australia,Damian Mori,96,FALSE,FALSE
+2002-07-12,New Zealand,Vanuatu,New Zealand,Mark Burton,13,FALSE,FALSE
+2002-07-12,New Zealand,Vanuatu,New Zealand,Chris Killen,23,FALSE,FALSE
+2002-07-12,New Zealand,Vanuatu,New Zealand,Mark Burton,65,FALSE,FALSE
+2002-07-14,New Zealand,Australia,New Zealand,Ryan Nelsen,78,FALSE,FALSE
+2002-07-14,Tahiti,Vanuatu,Tahiti,Tetahio Auraa,65,FALSE,FALSE
 2003-06-18,France,Colombia,France,Thierry Henry,39,FALSE,TRUE
 2003-06-18,New Zealand,Japan,Japan,Shunsuke Nakamura,12,FALSE,FALSE
 2003-06-18,New Zealand,Japan,Japan,Hidetoshi Nakata,65,FALSE,FALSE
@@ -6553,6 +6867,63 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2004-02-14,Tunisia,Morocco,Tunisia,Francileudo Santos,5,FALSE,FALSE
 2004-02-14,Tunisia,Morocco,Morocco,Youssef Mokhtari,38,FALSE,FALSE
 2004-02-14,Tunisia,Morocco,Tunisia,Ziad Jaziri,52,FALSE,FALSE
+2004-05-29,Australia,New Zealand,Australia,Marco Bresciano,40,FALSE,FALSE
+2004-05-29,Vanuatu,Solomon Islands,Solomon Islands,Batram Suri,51,FALSE,TRUE
+2004-05-31,Australia,Tahiti,Australia,Tim Cahill,14,FALSE,FALSE
+2004-05-31,Australia,Tahiti,Australia,Josip Skoko,43,FALSE,FALSE
+2004-05-31,Australia,Tahiti,Australia,Vincent Simon,44,TRUE,FALSE
+2004-05-31,Australia,Tahiti,Australia,Tim Cahill,47,FALSE,FALSE
+2004-05-31,Australia,Tahiti,Australia,Mile Sterjovski,51,FALSE,FALSE
+2004-05-31,Australia,Tahiti,Australia,Mile Sterjovski,61,FALSE,FALSE
+2004-05-31,Australia,Tahiti,Australia,Mile Sterjovski,74,FALSE,FALSE
+2004-05-31,Australia,Tahiti,Australia,David Zdrilic,85,FALSE,FALSE
+2004-05-31,Australia,Tahiti,Australia,Scott Chipperfield,89,FALSE,FALSE
+2004-05-31,Fiji,Vanuatu,Fiji,Veresa Toma,73,FALSE,FALSE
+2004-05-31,New Zealand,Solomon Islands,New Zealand,Brent Fisher,36,FALSE,FALSE
+2004-05-31,New Zealand,Solomon Islands,New Zealand,Duncan Oughton,81,FALSE,FALSE
+2004-05-31,New Zealand,Solomon Islands,New Zealand,Aaran Lines,90,FALSE,FALSE
+2004-06-02,Australia,Fiji,Australia,Adrian Madaschi,6,FALSE,FALSE
+2004-06-02,Australia,Fiji,Fiji,Laisiasa Gataurua,19,FALSE,FALSE
+2004-06-02,Australia,Fiji,Australia,Tim Cahill,39,FALSE,FALSE
+2004-06-02,Australia,Fiji,Australia,Adrian Madaschi,50,FALSE,FALSE
+2004-06-02,Australia,Fiji,Australia,Tim Cahill,66,FALSE,FALSE
+2004-06-02,Australia,Fiji,Australia,Tim Cahill,75,FALSE,FALSE
+2004-06-02,Australia,Fiji,Australia,Ahmad Elrich,89,FALSE,FALSE
+2004-06-02,New Zealand,Vanuatu,Vanuatu,Seimata Chilia,37,FALSE,FALSE
+2004-06-02,New Zealand,Vanuatu,New Zealand,Vaughan Coveny,61,FALSE,FALSE
+2004-06-02,New Zealand,Vanuatu,Vanuatu,Lexa Bibi,64,FALSE,FALSE
+2004-06-02,New Zealand,Vanuatu,Vanuatu,Jean Maleb,72,FALSE,FALSE
+2004-06-02,New Zealand,Vanuatu,New Zealand,Vaughan Coveny,75,FALSE,FALSE
+2004-06-02,New Zealand,Vanuatu,Vanuatu,Alphose Qorig,88,FALSE,FALSE
+2004-06-02,Tahiti,Solomon Islands,Solomon Islands,Henry Fa'arodo,9,FALSE,FALSE
+2004-06-02,Tahiti,Solomon Islands,Solomon Islands,Commins Menapi,14,FALSE,FALSE
+2004-06-02,Tahiti,Solomon Islands,Solomon Islands,Batram Suri,42,FALSE,FALSE
+2004-06-02,Tahiti,Solomon Islands,Solomon Islands,Commins Menapi,80,FALSE,FALSE
+2004-06-04,Australia,Vanuatu,Australia,John Aloisi,25,FALSE,FALSE
+2004-06-04,Australia,Vanuatu,Australia,Brett Emerton,81,FALSE,FALSE
+2004-06-04,Australia,Vanuatu,Australia,John Aloisi,85,FALSE,FALSE
+2004-06-04,Fiji,Solomon Islands,Solomon Islands,Paul Kakai,16,FALSE,FALSE
+2004-06-04,Fiji,Solomon Islands,Fiji,Veresa Toma,21,FALSE,FALSE
+2004-06-04,Fiji,Solomon Islands,Solomon Islands,Mahlon Houkarawa,82,FALSE,FALSE
+2004-06-04,New Zealand,Tahiti,New Zealand,Vaughan Coveny,6,FALSE,FALSE
+2004-06-04,New Zealand,Tahiti,New Zealand,Brent Fisher,16,FALSE,FALSE
+2004-06-04,New Zealand,Tahiti,New Zealand,Brent Fisher,22,FALSE,FALSE
+2004-06-04,New Zealand,Tahiti,New Zealand,Vaughan Coveny,38,FALSE,FALSE
+2004-06-04,New Zealand,Tahiti,New Zealand,Vaughan Coveny,45,FALSE,FALSE
+2004-06-04,New Zealand,Tahiti,New Zealand,Brent Fisher,63,FALSE,FALSE
+2004-06-04,New Zealand,Tahiti,New Zealand,Neil Jones,72,FALSE,FALSE
+2004-06-04,New Zealand,Tahiti,New Zealand,Duncan Oughton,74,FALSE,FALSE
+2004-06-04,New Zealand,Tahiti,New Zealand,Ryan Nelsen,82,FALSE,FALSE
+2004-06-04,New Zealand,Tahiti,New Zealand,Ryan Nelsen,87,FALSE,FALSE
+2004-06-06,Australia,Solomon Islands,Solomon Islands,Commins Menapi,43,FALSE,FALSE
+2004-06-06,Australia,Solomon Islands,Australia,Tim Cahill,50,FALSE,FALSE
+2004-06-06,Australia,Solomon Islands,Australia,Brett Emerton,52,FALSE,FALSE
+2004-06-06,Australia,Solomon Islands,Solomon Islands,Commins Menapi,75,FALSE,FALSE
+2004-06-06,Fiji,New Zealand,New Zealand,Che Bunce,8,FALSE,FALSE
+2004-06-06,Fiji,New Zealand,New Zealand,Vaughan Coveny,56,FALSE,FALSE
+2004-06-06,Tahiti,Vanuatu,Vanuatu,Richard Iwai,23,FALSE,FALSE
+2004-06-06,Tahiti,Vanuatu,Tahiti,Axel Temataua,40,FALSE,FALSE
+2004-06-06,Tahiti,Vanuatu,Tahiti,Gabriel Wajoka,89,FALSE,FALSE
 2004-06-12,Portugal,Greece,Greece,Giorgos Karagounis,7,FALSE,FALSE
 2004-06-12,Portugal,Greece,Greece,Angelos Basinas,51,FALSE,TRUE
 2004-06-12,Portugal,Greece,Portugal,Cristiano Ronaldo,90,FALSE,FALSE
@@ -6804,6 +7175,18 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2004-08-07,China PR,Japan,China PR,Li Ming,31,FALSE,FALSE
 2004-08-07,China PR,Japan,Japan,Koji Nakata,65,FALSE,FALSE
 2004-08-07,China PR,Japan,Japan,Keiji Tamada,90,FALSE,FALSE
+2004-10-09,Solomon Islands,Australia,Australia,Josip Skoko,5,FALSE,FALSE
+2004-10-09,Solomon Islands,Australia,Australia,Ante Milicic,19,FALSE,FALSE
+2004-10-09,Solomon Islands,Australia,Australia,Josip Skoko,28,FALSE,FALSE
+2004-10-09,Solomon Islands,Australia,Australia,Brett Emerton,43,FALSE,FALSE
+2004-10-09,Solomon Islands,Australia,Solomon Islands,Batram Suri,60,FALSE,FALSE
+2004-10-09,Solomon Islands,Australia,Australia,Ahmad Elrich,79,FALSE,FALSE
+2004-10-12,Australia,Solomon Islands,Australia,Ante Milicic,5,FALSE,FALSE
+2004-10-12,Australia,Solomon Islands,Australia,Harry Kewell,8,FALSE,FALSE
+2004-10-12,Australia,Solomon Islands,Australia,Tony Vidmar,60,FALSE,FALSE
+2004-10-12,Australia,Solomon Islands,Australia,Archie Thompson,79,FALSE,FALSE
+2004-10-12,Australia,Solomon Islands,Australia,Ahmad Elrich,82,FALSE,FALSE
+2004-10-12,Australia,Solomon Islands,Australia,Brett Emerton,89,FALSE,FALSE
 2005-06-15,Argentina,Tunisia,Argentina,Juan Román Riquelme,33,FALSE,TRUE
 2005-06-15,Argentina,Tunisia,Argentina,Javier Saviola,57,FALSE,FALSE
 2005-06-15,Argentina,Tunisia,Tunisia,Haykel Guemamdia,72,FALSE,TRUE
@@ -7387,6 +7770,26 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2007-07-25,Japan,Saudi Arabia,Japan,Yuki Abe,53,FALSE,FALSE
 2007-07-25,Japan,Saudi Arabia,Saudi Arabia,Malek Mouath,57,FALSE,FALSE
 2007-07-29,Iraq,Saudi Arabia,Iraq,Younis Mahmoud,72,FALSE,FALSE
+2007-10-17,Fiji,New Zealand,New Zealand,Ivan Vicelich,37,FALSE,FALSE
+2007-10-17,Fiji,New Zealand,New Zealand,Shane Smeltz,86,FALSE,FALSE
+2007-11-17,Fiji,New Caledonia,Fiji,Valerio Nawatu,2,FALSE,FALSE
+2007-11-17,Fiji,New Caledonia,Fiji,Osea Vakatalesau,27,FALSE,FALSE
+2007-11-17,Fiji,New Caledonia,New Caledonia,Ramon Gjamaci,66,FALSE,FALSE
+2007-11-17,Fiji,New Caledonia,New Caledonia,Mael Kaudre,83,FALSE,FALSE
+2007-11-17,Fiji,New Caledonia,Fiji,Osea Vakatalesau,86,FALSE,FALSE
+2007-11-17,Fiji,New Caledonia,New Caledonia,Michel Hmaé,87,FALSE,FALSE
+2007-11-17,Vanuatu,New Zealand,Vanuatu,Jean Nako Naprapol,32,FALSE,FALSE
+2007-11-17,Vanuatu,New Zealand,New Zealand,Shane Smeltz,53,FALSE,FALSE
+2007-11-17,Vanuatu,New Zealand,New Zealand,David Mulligan,90,FALSE,FALSE
+2007-11-21,New Caledonia,Fiji,New Caledonia,Pierre Wajoka,29,FALSE,TRUE
+2007-11-21,New Caledonia,Fiji,New Caledonia,Michel Hmaé,32,FALSE,FALSE
+2007-11-21,New Caledonia,Fiji,New Caledonia,Michel Hmaé,61,FALSE,FALSE
+2007-11-21,New Caledonia,Fiji,New Caledonia,Marius Mapou,64,FALSE,FALSE
+2007-11-21,New Zealand,Vanuatu,New Zealand,David Mulligan,17,FALSE,FALSE
+2007-11-21,New Zealand,Vanuatu,New Zealand,Shane Smeltz,29,FALSE,TRUE
+2007-11-21,New Zealand,Vanuatu,New Zealand,Shane Smeltz,34,FALSE,FALSE
+2007-11-21,New Zealand,Vanuatu,Vanuatu,Francois Sakama,50,FALSE,FALSE
+2007-11-21,New Zealand,Vanuatu,New Zealand,David Mulligan,81,FALSE,FALSE
 2008-01-20,Ghana,Guinea,Ghana,Asamoah Gyan,55,FALSE,TRUE
 2008-01-20,Ghana,Guinea,Guinea,Oumar Kalabane,65,FALSE,FALSE
 2008-01-20,Ghana,Guinea,Ghana,Sulley Muntari,90,FALSE,FALSE
@@ -7525,6 +7928,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2008-06-14,Sweden,Spain,Spain,Fernando Torres,15,FALSE,FALSE
 2008-06-14,Sweden,Spain,Sweden,Zlatan Ibrahimović,34,FALSE,FALSE
 2008-06-14,Sweden,Spain,Spain,David Villa,90,FALSE,FALSE
+2008-06-14,Vanuatu,New Caledonia,New Caledonia,Ramon Djamali,73,FALSE,FALSE
+2008-06-14,Vanuatu,New Caledonia,Vanuatu,Etienne Mermer,77,FALSE,FALSE
 2008-06-15,Switzerland,Portugal,Switzerland,Hakan Yakin,71,FALSE,FALSE
 2008-06-15,Switzerland,Portugal,Switzerland,Hakan Yakin,83,FALSE,TRUE
 2008-06-15,Turkey,Czech Republic,Czech Republic,Jan Koller,34,FALSE,FALSE
@@ -7554,6 +7959,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2008-06-21,Netherlands,Russia,Netherlands,Ruud van Nistelrooy,86,FALSE,FALSE
 2008-06-21,Netherlands,Russia,Russia,Dmitri Torbinski,112,FALSE,FALSE
 2008-06-21,Netherlands,Russia,Russia,Andrey Arshavin,116,FALSE,FALSE
+2008-06-21,New Caledonia,Vanuatu,New Caledonia,Pierre Wajoka,36,FALSE,FALSE
+2008-06-21,New Caledonia,Vanuatu,New Caledonia,Michel Hmaé,60,FALSE,FALSE
+2008-06-21,New Caledonia,Vanuatu,New Caledonia,Patrick Diaike,87,FALSE,FALSE
 2008-06-25,Germany,Turkey,Turkey,Uğur Boral,22,FALSE,FALSE
 2008-06-25,Germany,Turkey,Germany,Bastian Schweinsteiger,26,FALSE,FALSE
 2008-06-25,Germany,Turkey,Germany,Miroslav Klose,79,FALSE,FALSE
@@ -7563,6 +7971,20 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2008-06-26,Russia,Spain,Spain,Dani Güiza,73,FALSE,FALSE
 2008-06-26,Russia,Spain,Spain,David Silva,82,FALSE,FALSE
 2008-06-29,Germany,Spain,Spain,Fernando Torres,33,FALSE,FALSE
+2008-09-06,Fiji,Vanuatu,Fiji,Salesh Kumar,7,FALSE,FALSE
+2008-09-06,Fiji,Vanuatu,Fiji,Maciu Dunadamu,87,FALSE,FALSE
+2008-09-06,New Caledonia,New Zealand,New Zealand,Ben Sigmund,16,FALSE,FALSE
+2008-09-06,New Caledonia,New Zealand,New Caledonia,Michel Hmaé,55,FALSE,FALSE
+2008-09-06,New Caledonia,New Zealand,New Zealand,Shane Smeltz,65,FALSE,FALSE
+2008-09-06,New Caledonia,New Zealand,New Zealand,Shane Smeltz,75,FALSE,FALSE
+2008-09-10,New Zealand,New Caledonia,New Zealand,Shane Smeltz,49,FALSE,FALSE
+2008-09-10,New Zealand,New Caledonia,New Zealand,Jeremy Christie,69,FALSE,FALSE
+2008-09-10,New Zealand,New Caledonia,New Zealand,Shane Smeltz,76,FALSE,FALSE
+2008-09-10,Vanuatu,Fiji,Vanuatu,Francois Sakama,59,FALSE,FALSE
+2008-09-10,Vanuatu,Fiji,Vanuatu,Derek Malas,90,FALSE,FALSE
+2008-09-10,Vanuatu,Fiji,Fiji,Maciu Dunadamu,90,FALSE,FALSE
+2008-11-19,Fiji,New Zealand,Fiji,Roy Krishna,63,FALSE,FALSE
+2008-11-19,Fiji,New Zealand,Fiji,Roy Krishna,90,FALSE,FALSE
 2009-06-14,New Zealand,Spain,Spain,Fernando Torres,6,FALSE,FALSE
 2009-06-14,New Zealand,Spain,Spain,Fernando Torres,14,FALSE,FALSE
 2009-06-14,New Zealand,Spain,Spain,Fernando Torres,17,FALSE,FALSE
@@ -8189,6 +8611,61 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2012-02-08,Zambia,Ghana,Zambia,Emmanuel Mayuka,78,FALSE,FALSE
 2012-02-11,Ghana,Mali,Mali,Cheick Diabaté,23,FALSE,FALSE
 2012-02-11,Ghana,Mali,Mali,Cheick Diabaté,80,FALSE,FALSE
+2012-06-01,Samoa,Tahiti,Tahiti,Lorenzo Tehau,8,FALSE,FALSE
+2012-06-01,Samoa,Tahiti,Tahiti,Jonathan Tehau,16,FALSE,FALSE
+2012-06-01,Samoa,Tahiti,Tahiti,Alvin Tehau,18,FALSE,FALSE
+2012-06-01,Samoa,Tahiti,Tahiti,Alvin Tehau,40,FALSE,FALSE
+2012-06-01,Samoa,Tahiti,Tahiti,Teaonui Tehau,54,FALSE,FALSE
+2012-06-01,Samoa,Tahiti,Tahiti,Steevy Chong Hue,61,FALSE,FALSE
+2012-06-01,Samoa,Tahiti,Samoa,Silao Malo,69,FALSE,FALSE
+2012-06-01,Samoa,Tahiti,Tahiti,Jonathan Tehau,78,FALSE,FALSE
+2012-06-01,Samoa,Tahiti,Tahiti,Lorenzo Tehau,82,FALSE,FALSE
+2012-06-01,Samoa,Tahiti,Tahiti,Lorenzo Tehau,84,FALSE,FALSE
+2012-06-01,Samoa,Tahiti,Tahiti,Lorenzo Tehau,85,FALSE,FALSE
+2012-06-01,Vanuatu,New Caledonia,New Caledonia,Bertrand Kaï,32,FALSE,FALSE
+2012-06-01,Vanuatu,New Caledonia,Vanuatu,Robert Tasso,52,FALSE,FALSE
+2012-06-01,Vanuatu,New Caledonia,New Caledonia,Bertrand Kaï,58,FALSE,FALSE
+2012-06-01,Vanuatu,New Caledonia,Vanuatu,Jean Nako Naprapol,61,FALSE,FALSE
+2012-06-01,Vanuatu,New Caledonia,New Caledonia,Georges Gope-Fenepej,66,FALSE,FALSE
+2012-06-01,Vanuatu,New Caledonia,New Caledonia,Bertrand Kaï,76,FALSE,FALSE
+2012-06-01,Vanuatu,New Caledonia,New Caledonia,Roy Kayara,87,FALSE,FALSE
+2012-06-02,Fiji,New Zealand,New Zealand,Tommy Smith,11,FALSE,FALSE
+2012-06-02,Solomon Islands,Papua New Guinea,Solomon Islands,Benjamin Totori,5,FALSE,FALSE
+2012-06-03,Tahiti,New Caledonia,Tahiti,Alvin Tehau,19,FALSE,FALSE
+2012-06-03,Tahiti,New Caledonia,Tahiti,Nicolas Vallar,28,FALSE,TRUE
+2012-06-03,Tahiti,New Caledonia,Tahiti,Lorenzo Tehau,34,FALSE,FALSE
+2012-06-03,Tahiti,New Caledonia,New Caledonia,Bako,76,FALSE,FALSE
+2012-06-03,Tahiti,New Caledonia,New Caledonia,Jacques Haeko,83,FALSE,FALSE
+2012-06-03,Tahiti,New Caledonia,Tahiti,Roihau Degage,86,FALSE,FALSE
+2012-06-03,Tahiti,New Caledonia,New Caledonia,Dick Kauma,89,FALSE,FALSE
+2012-06-03,Vanuatu,Samoa,Vanuatu,Jean Nako Naprapol,29,FALSE,FALSE
+2012-06-03,Vanuatu,Samoa,Vanuatu,Brian Kaltak,45,FALSE,FALSE
+2012-06-03,Vanuatu,Samoa,Vanuatu,Derek Malas,47,FALSE,FALSE
+2012-06-03,Vanuatu,Samoa,Vanuatu,Robert Tasso,74,FALSE,FALSE
+2012-06-03,Vanuatu,Samoa,Vanuatu,Freddy Vava,90,FALSE,FALSE
+2012-06-04,Papua New Guinea,New Zealand,New Zealand,Shane Smeltz,2,FALSE,FALSE
+2012-06-04,Papua New Guinea,New Zealand,New Zealand,Chris Wood,52,FALSE,FALSE
+2012-06-04,Papua New Guinea,New Zealand,Papua New Guinea,Niel Hans,89,FALSE,TRUE
+2012-06-05,New Caledonia,Samoa,New Caledonia,Roy Kayara,10,FALSE,FALSE
+2012-06-05,New Caledonia,Samoa,New Caledonia,Jacques Haeko,11,FALSE,FALSE
+2012-06-05,New Caledonia,Samoa,New Caledonia,Kabeu,22,FALSE,FALSE
+2012-06-05,New Caledonia,Samoa,New Caledonia,Judikael Ixoée,25,FALSE,TRUE
+2012-06-05,New Caledonia,Samoa,New Caledonia,Kalaje Gnipate,44,FALSE,FALSE
+2012-06-05,New Caledonia,Samoa,New Caledonia,Jacques Haeko,45,FALSE,FALSE
+2012-06-05,New Caledonia,Samoa,New Caledonia,Jacques Haeko,71,FALSE,FALSE
+2012-06-05,New Caledonia,Samoa,New Caledonia,Jacques Haeko,89,FALSE,FALSE
+2012-06-05,New Caledonia,Samoa,New Caledonia,Jacques Haeko,90,FALSE,FALSE
+2012-06-05,Tahiti,Vanuatu,Tahiti,Nicolas Vallar,14,FALSE,TRUE
+2012-06-05,Tahiti,Vanuatu,Tahiti,Jonathan Tehau,37,FALSE,FALSE
+2012-06-05,Tahiti,Vanuatu,Tahiti,Alvin Tehau,57,FALSE,FALSE
+2012-06-05,Tahiti,Vanuatu,Tahiti,Teaonui Tehau,86,FALSE,FALSE
+2012-06-05,Tahiti,Vanuatu,Vanuatu,Robert Tasso,90,FALSE,FALSE
+2012-06-06,Papua New Guinea,Fiji,Fiji,Maciu Dunadamu,13,FALSE,FALSE
+2012-06-06,Papua New Guinea,Fiji,Papua New Guinea,Kema Jack,85,FALSE,FALSE
+2012-06-06,Solomon Islands,New Zealand,New Zealand,Chris Wood,13,FALSE,FALSE
+2012-06-06,Solomon Islands,New Zealand,Solomon Islands,Benjamin Totori,56,FALSE,FALSE
+2012-06-08,New Zealand,New Caledonia,New Caledonia,Bertrand Kaï,60,FALSE,FALSE
+2012-06-08,New Zealand,New Caledonia,New Caledonia,Georges Gope-Fenepej,90,FALSE,FALSE
 2012-06-08,Poland,Greece,Poland,Robert Lewandowski,17,FALSE,FALSE
 2012-06-08,Poland,Greece,Greece,Dimitris Salpingidis,51,FALSE,FALSE
 2012-06-08,Russia,Czech Republic,Russia,Alan Dzagoev,15,FALSE,FALSE
@@ -8196,14 +8673,23 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2012-06-08,Russia,Czech Republic,Czech Republic,Václav Pilař,52,FALSE,FALSE
 2012-06-08,Russia,Czech Republic,Russia,Alan Dzagoev,79,FALSE,FALSE
 2012-06-08,Russia,Czech Republic,Russia,Roman Pavlyuchenko,82,FALSE,FALSE
+2012-06-08,Solomon Islands,Tahiti,Tahiti,Jonathan Tehau,15,FALSE,FALSE
 2012-06-09,Germany,Portugal,Germany,Mario Gómez,72,FALSE,FALSE
 2012-06-09,Netherlands,Denmark,Denmark,Michael Krohn-Dehli,24,FALSE,FALSE
 2012-06-10,Republic of Ireland,Croatia,Croatia,Mario Mandžukić,3,FALSE,FALSE
 2012-06-10,Republic of Ireland,Croatia,Republic of Ireland,Sean St Ledger,19,FALSE,FALSE
 2012-06-10,Republic of Ireland,Croatia,Croatia,Nikica Jelavić,43,FALSE,FALSE
 2012-06-10,Republic of Ireland,Croatia,Croatia,Mario Mandžukić,49,FALSE,FALSE
+2012-06-10,Solomon Islands,New Zealand,New Zealand,Chris Wood,10,FALSE,FALSE
+2012-06-10,Solomon Islands,New Zealand,New Zealand,Chris Wood,24,FALSE,FALSE
+2012-06-10,Solomon Islands,New Zealand,New Zealand,Chris Wood,29,FALSE,FALSE
+2012-06-10,Solomon Islands,New Zealand,Solomon Islands,Himson Teleda,48,FALSE,FALSE
+2012-06-10,Solomon Islands,New Zealand,Solomon Islands,Benjamin Totori,54,FALSE,FALSE
+2012-06-10,Solomon Islands,New Zealand,Solomon Islands,Benjamin Totori,87,FALSE,FALSE
+2012-06-10,Solomon Islands,New Zealand,New Zealand,Shane Smeltz,90,FALSE,FALSE
 2012-06-10,Spain,Italy,Italy,Antonio Di Natale,61,FALSE,FALSE
 2012-06-10,Spain,Italy,Spain,Cesc Fàbregas,64,FALSE,FALSE
+2012-06-10,Tahiti,New Caledonia,Tahiti,Steevy Chong Hue,10,FALSE,FALSE
 2012-06-11,France,England,England,Joleon Lescott,30,FALSE,FALSE
 2012-06-11,France,England,France,Samir Nasri,39,FALSE,FALSE
 2012-06-11,Ukraine,Sweden,Sweden,Zlatan Ibrahimović,52,FALSE,FALSE
@@ -8914,14 +9400,58 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-07-26,Jamaica,Mexico,Mexico,Jesús Manuel Corona,46,FALSE,FALSE
 2015-07-26,Jamaica,Mexico,Mexico,Oribe Peralta,60,FALSE,FALSE
 2015-07-26,Jamaica,Mexico,Jamaica,Darren Mattocks,78,FALSE,FALSE
+2016-05-28,New Zealand,Fiji,New Zealand,Themistoklis Tzimopoulos,16,FALSE,FALSE
+2016-05-28,New Zealand,Fiji,New Zealand,Rory Fallon,41,FALSE,FALSE
+2016-05-28,New Zealand,Fiji,Fiji,Roy Krishna,45,FALSE,TRUE
+2016-05-28,New Zealand,Fiji,New Zealand,Chris Wood,61,FALSE,TRUE
+2016-05-28,Vanuatu,Solomon Islands,Solomon Islands,Jerry Donga,19,FALSE,FALSE
+2016-05-29,Papua New Guinea,New Caledonia,Papua New Guinea,Tommy Semmy,41,FALSE,FALSE
+2016-05-29,Papua New Guinea,New Caledonia,New Caledonia,Jean-Philippe Saïko,83,FALSE,FALSE
+2016-05-29,Tahiti,Samoa,Tahiti,Teaonui Tehau,2,FALSE,FALSE
+2016-05-29,Tahiti,Samoa,Tahiti,Teaonui Tehau,5,FALSE,FALSE
+2016-05-29,Tahiti,Samoa,Tahiti,Steevy Chong Hue,15,FALSE,FALSE
+2016-05-29,Tahiti,Samoa,Tahiti,Alvin Tehau,39,FALSE,FALSE
+2016-05-31,Solomon Islands,Fiji,Fiji,Roy Krishna,85,FALSE,TRUE
+2016-05-31,Vanuatu,New Zealand,New Zealand,Chris Wood,4,FALSE,FALSE
+2016-05-31,Vanuatu,New Zealand,New Zealand,Chris Wood,5,FALSE,FALSE
+2016-05-31,Vanuatu,New Zealand,New Zealand,Michael McGlinchey,10,FALSE,FALSE
+2016-05-31,Vanuatu,New Zealand,New Zealand,Rory Fallon,19,FALSE,FALSE
+2016-05-31,Vanuatu,New Zealand,New Zealand,Kosta Barbarouses,45,FALSE,FALSE
+2016-06-01,New Caledonia,Samoa,New Caledonia,Roy Kayara,18,FALSE,FALSE
+2016-06-01,New Caledonia,Samoa,New Caledonia,Kevin Nemia,28,FALSE,FALSE
+2016-06-01,New Caledonia,Samoa,New Caledonia,Roy Kayara,30,FALSE,FALSE
+2016-06-01,New Caledonia,Samoa,New Caledonia,César Zeoula,38,FALSE,TRUE
+2016-06-01,New Caledonia,Samoa,New Caledonia,Jean-Brice Wadriako,53,FALSE,FALSE
+2016-06-01,New Caledonia,Samoa,New Caledonia,Joerisse Cexome,79,FALSE,FALSE
+2016-06-01,New Caledonia,Samoa,New Caledonia,Brice Dahité,89,FALSE,TRUE
+2016-06-01,Papua New Guinea,Tahiti,Papua New Guinea,Raymond Gunemba,45,FALSE,FALSE
+2016-06-01,Papua New Guinea,Tahiti,Papua New Guinea,Raymond Gunemba,64,FALSE,FALSE
+2016-06-01,Papua New Guinea,Tahiti,Tahiti,Alvin Tehau,66,FALSE,FALSE
+2016-06-01,Papua New Guinea,Tahiti,Tahiti,Teaonui Tehau,76,FALSE,FALSE
 2016-06-03,United States,Colombia,Colombia,Cristián Zapata,8,FALSE,FALSE
 2016-06-03,United States,Colombia,Colombia,James Rodríguez,42,FALSE,TRUE
+2016-06-04,Fiji,Vanuatu,Vanuatu,Dominique Fred,19,FALSE,FALSE
+2016-06-04,Fiji,Vanuatu,Vanuatu,Fenedy Masauvakalo,41,FALSE,FALSE
+2016-06-04,Fiji,Vanuatu,Fiji,Samuela Kautoga,51,FALSE,FALSE
+2016-06-04,Fiji,Vanuatu,Fiji,Roy Krishna,69,FALSE,FALSE
+2016-06-04,Fiji,Vanuatu,Vanuatu,Brian Kaltak,75,FALSE,TRUE
 2016-06-04,Haiti,Peru,Peru,Paolo Guerrero,61,FALSE,FALSE
+2016-06-04,New Zealand,Solomon Islands,New Zealand,Luke Adams,80,FALSE,FALSE
 2016-06-05,Jamaica,Venezuela,Venezuela,Josef Martínez,15,FALSE,FALSE
 2016-06-05,Mexico,Uruguay,Mexico,Álvaro Pereira,4,TRUE,FALSE
 2016-06-05,Mexico,Uruguay,Uruguay,Diego Godín,74,FALSE,FALSE
 2016-06-05,Mexico,Uruguay,Mexico,Rafael Márquez,85,FALSE,FALSE
 2016-06-05,Mexico,Uruguay,Mexico,Héctor Herrera,90,FALSE,FALSE
+2016-06-05,Papua New Guinea,Samoa,Papua New Guinea,Michael Foster,13,FALSE,FALSE
+2016-06-05,Papua New Guinea,Samoa,Papua New Guinea,Raymond Gunemba,33,FALSE,FALSE
+2016-06-05,Papua New Guinea,Samoa,Papua New Guinea,Michael Foster,51,FALSE,FALSE
+2016-06-05,Papua New Guinea,Samoa,Papua New Guinea,Nigel Dabinyaba,58,FALSE,FALSE
+2016-06-05,Papua New Guinea,Samoa,Papua New Guinea,Raymond Gunemba,63,FALSE,FALSE
+2016-06-05,Papua New Guinea,Samoa,Papua New Guinea,Koriak Upaiga,67,FALSE,FALSE
+2016-06-05,Papua New Guinea,Samoa,Papua New Guinea,Nigel Dabinyaba,74,FALSE,FALSE
+2016-06-05,Papua New Guinea,Samoa,Papua New Guinea,Raymond Gunemba,85,FALSE,FALSE
+2016-06-05,Tahiti,New Caledonia,New Caledonia,Bertrand Kaï,80,FALSE,FALSE
+2016-06-05,Tahiti,New Caledonia,Tahiti,Teaonui Tehau,90,FALSE,FALSE
 2016-06-06,Argentina,Chile,Argentina,Ángel Di María,51,FALSE,FALSE
 2016-06-06,Argentina,Chile,Argentina,Éver Banega,59,FALSE,FALSE
 2016-06-06,Argentina,Chile,Chile,José Pedro Fuenzalida,90,FALSE,FALSE
@@ -8947,6 +9477,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2016-06-08,Ecuador,Peru,Peru,Edison Flores,13,FALSE,FALSE
 2016-06-08,Ecuador,Peru,Ecuador,Enner Valencia,39,FALSE,FALSE
 2016-06-08,Ecuador,Peru,Ecuador,Miller Bolaños,49,FALSE,FALSE
+2016-06-08,New Zealand,New Caledonia,New Zealand,Chris Wood,49,FALSE,FALSE
+2016-06-08,Papua New Guinea,Solomon Islands,Papua New Guinea,Michael Foster,38,FALSE,FALSE
+2016-06-08,Papua New Guinea,Solomon Islands,Solomon Islands,Judd Molea,41,FALSE,FALSE
+2016-06-08,Papua New Guinea,Solomon Islands,Papua New Guinea,Nigel Dabinyaba,82,FALSE,FALSE
 2016-06-09,Mexico,Jamaica,Mexico,Javier Hernández,18,FALSE,FALSE
 2016-06-09,Mexico,Jamaica,Mexico,Oribe Peralta,81,FALSE,FALSE
 2016-06-09,Uruguay,Venezuela,Venezuela,Salomón Rondón,36,FALSE,FALSE
