@@ -162,7 +162,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1904-03-21,Wales,Northern Ireland,0,1,British Championship,Bangor,Wales,FALSE
 1904-03-26,Northern Ireland,Scotland,1,1,British Championship,Dublin,Ireland,FALSE
 1904-04-09,Scotland,England,0,1,British Championship,Glasgow,Scotland,FALSE
-1904-05-01,Belgium,France,3,3,Friendly,Brussels,Belgium,FALSE
+1904-05-01,Belgium,France,3,3,Évence Coppée Trophy,Brussels,Belgium,FALSE
 1904-06-02,Hungary,Austria,3,0,Friendly,Budapest,Hungary,FALSE
 1904-10-09,Austria,Hungary,5,4,Friendly,Vienna,Austria,FALSE
 1905-02-12,France,Switzerland,1,0,Friendly,Paris,France,FALSE
@@ -1079,14 +1079,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1927-08-31,China PR,Philippines,3,1,Friendly,Shanghai,China PR,FALSE
 1927-09-04,Sweden,Belgium,7,0,Friendly,Stockholm,Sweden,FALSE
 1927-09-11,Finland,Latvia,3,1,Friendly,Helsinki,Finland,FALSE
-1927-09-18,Czechoslovakia,Austria,2,0,International Cup,Prague,Czechoslovakia,FALSE
-1927-09-25,Hungary,Austria,5,3,International Cup,Budapest,Hungary,FALSE
+1927-09-18,Czechoslovakia,Austria,2,0,Central European International Cup,Prague,Czechoslovakia,FALSE
+1927-09-25,Hungary,Austria,5,3,Central European International Cup,Budapest,Hungary,FALSE
 1927-09-25,Latvia,Estonia,4,1,Friendly,Riga,Latvia,FALSE
 1927-10-02,Denmark,Germany,3,1,Friendly,Copenhagen,Denmark,FALSE
 1927-10-09,Hungary,Czechoslovakia,1,2,Friendly,Budapest,Hungary,FALSE
 1927-10-14,Turkey,Bulgaria,3,1,Friendly,Istanbul,Turkey,FALSE
 1927-10-22,Northern Ireland,England,2,0,British Championship,Belfast,Northern Ireland,FALSE
-1927-10-23,Czechoslovakia,Italy,2,2,International Cup,Prague,Czechoslovakia,FALSE
+1927-10-23,Czechoslovakia,Italy,2,2,Central European International Cup,Prague,Czechoslovakia,FALSE
 1927-10-23,Germany,Norway,6,2,Friendly,Altona,Germany,FALSE
 1927-10-28,Czechoslovakia,Yugoslavia,5,3,Friendly,Prague,Czechoslovakia,FALSE
 1927-10-29,Wales,Scotland,2,2,British Championship,Wrexham,Wales,FALSE
@@ -1094,7 +1094,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1927-10-30,Denmark,Norway,3,1,Nordic Championship,Copenhagen,Denmark,FALSE
 1927-11-01,Peru,Uruguay,0,4,Copa América,Lima,Peru,FALSE
 1927-11-06,Bolivia,Uruguay,0,9,Copa América,Lima,Peru,TRUE
-1927-11-06,Italy,Austria,0,1,International Cup,Bologna,Italy,FALSE
+1927-11-06,Italy,Austria,0,1,Central European International Cup,Bologna,Italy,FALSE
 1927-11-06,Switzerland,Sweden,2,2,Friendly,Zürich,Switzerland,FALSE
 1927-11-07,Honduras,El Salvador,1,0,Friendly,Tegucigalpa,Honduras,FALSE
 1927-11-08,Honduras,El Salvador,0,0,Friendly,Tegucigalpa,Honduras,FALSE
@@ -1105,7 +1105,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1927-11-27,Peru,Argentina,1,5,Copa América,Lima,Peru,FALSE
 1927-11-28,England,Wales,1,2,British Championship,Burnley,England,FALSE
 1927-12-10,Chile,Uruguay,2,3,Friendly,Viña del Mar,Chile,FALSE
-1928-01-01,Italy,Switzerland,3,2,International Cup,Genoa,Italy,FALSE
+1928-01-01,Italy,Switzerland,3,2,Central European International Cup,Genoa,Italy,FALSE
 1928-01-08,Belgium,Austria,1,2,Friendly,Brussels,Belgium,FALSE
 1928-01-08,Portugal,Spain,2,2,Friendly,Lisbon,Portugal,FALSE
 1928-02-04,Northern Ireland,Wales,1,2,British Championship,Belfast,Northern Ireland,FALSE
@@ -1115,9 +1115,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1928-03-11,Netherlands,Belgium,1,1,Friendly,Amsterdam,Netherlands,FALSE
 1928-03-11,Switzerland,France,4,3,Friendly,Lausanne,Switzerland,FALSE
 1928-03-16,Guyana,Trinidad and Tobago,1,1,Friendly,Georgetown,British Guyana,FALSE
-1928-03-25,Italy,Hungary,4,3,International Cup,Rome,Italy,FALSE
+1928-03-25,Italy,Hungary,4,3,Central European International Cup,Rome,Italy,FALSE
 1928-03-31,England,Scotland,1,5,British Championship,London,England,FALSE
-1928-04-01,Austria,Czechoslovakia,0,1,International Cup,Vienna,Austria,FALSE
+1928-04-01,Austria,Czechoslovakia,0,1,Central European International Cup,Vienna,Austria,FALSE
 1928-04-01,Belgium,Netherlands,1,0,Friendly,Antwerp,Belgium,FALSE
 1928-04-01,Portugal,Argentina,0,0,Friendly,Lisbon,Portugal,FALSE
 1928-04-08,Yugoslavia,Turkey,2,1,Friendly,Zagreb,Yugoslavia,FALSE
@@ -1126,7 +1126,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1928-04-15,Romania,Turkey,4,2,Friendly,Arad,Romania,FALSE
 1928-04-15,Switzerland,Germany,2,3,Friendly,Berne,Switzerland,FALSE
 1928-04-15,Uganda,Kenya,4,0,Friendly,Kampala,Uganda,FALSE
-1928-04-22,Hungary,Czechoslovakia,2,0,International Cup,Budapest,Hungary,FALSE
+1928-04-22,Hungary,Czechoslovakia,2,0,Central European International Cup,Budapest,Hungary,FALSE
 1928-04-22,Netherlands,Denmark,2,0,Friendly,Amsterdam,Netherlands,FALSE
 1928-04-22,Spain,Italy,1,1,Friendly,Gijón,Spain,FALSE
 1928-04-29,France,Portugal,1,1,Friendly,Paris,France,FALSE
@@ -1166,15 +1166,15 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1928-09-23,Latvia,Estonia,1,1,Friendly,Riga,Latvia,FALSE
 1928-09-23,Norway,Germany,0,2,Friendly,Oslo,Norway,FALSE
 1928-09-30,Sweden,Germany,2,0,Friendly,Stockholm,Sweden,FALSE
-1928-10-07,Austria,Hungary,5,1,International Cup,Vienna,Austria,FALSE
+1928-10-07,Austria,Hungary,5,1,Central European International Cup,Vienna,Austria,FALSE
 1928-10-07,Denmark,Sweden,3,1,Nordic Championship,Copenhagen,Denmark,FALSE
-1928-10-14,Switzerland,Italy,2,3,International Cup,Zürich,Switzerland,FALSE
+1928-10-14,Switzerland,Italy,2,3,Central European International Cup,Zürich,Switzerland,FALSE
 1928-10-22,England,Northern Ireland,2,1,British Championship,Liverpool,England,FALSE
 1928-10-27,Czechoslovakia,Poland,3,2,Friendly,Prague,Czechoslovakia,FALSE
 1928-10-27,Scotland,Wales,4,2,British Championship,Glasgow,Scotland,FALSE
-1928-10-28,Austria,Switzerland,2,0,International Cup,Vienna,Austria,FALSE
+1928-10-28,Austria,Switzerland,2,0,Central European International Cup,Vienna,Austria,FALSE
 1928-10-28,Czechoslovakia,Yugoslavia,7,1,Friendly,Prague,Czechoslovakia,FALSE
-1928-11-01,Hungary,Switzerland,3,1,International Cup,Budapest,Hungary,FALSE
+1928-11-01,Hungary,Switzerland,3,1,Central European International Cup,Budapest,Hungary,FALSE
 1928-11-04,Netherlands,Belgium,1,1,Friendly,Amsterdam,Netherlands,FALSE
 1928-11-11,Italy,Austria,2,2,Friendly,Rome,Italy,FALSE
 1928-11-17,Wales,England,2,3,British Championship,Swansea,Wales,FALSE
@@ -1184,15 +1184,15 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1929-02-10,Germany,Switzerland,7,1,Friendly,Mannheim,Germany,FALSE
 1929-02-23,Northern Ireland,Scotland,3,7,British Championship,Belfast,Northern Ireland,FALSE
 1929-02-24,France,Hungary,3,0,Friendly,Colombes,France,FALSE
-1929-03-03,Italy,Czechoslovakia,4,2,International Cup,Bologna,Italy,FALSE
+1929-03-03,Italy,Czechoslovakia,4,2,Central European International Cup,Bologna,Italy,FALSE
 1929-03-17,Czechoslovakia,Austria,3,3,Friendly,Prague,Czechoslovakia,FALSE
 1929-03-17,Netherlands,Switzerland,3,2,Friendly,Amsterdam,Netherlands,FALSE
 1929-03-17,Spain,Portugal,5,0,Friendly,Seville,Spain,FALSE
 1929-03-24,France,Portugal,2,0,Friendly,Colombes,France,FALSE
-1929-04-07,Austria,Italy,3,0,International Cup,Vienna,Austria,FALSE
+1929-04-07,Austria,Italy,3,0,Central European International Cup,Vienna,Austria,FALSE
 1929-04-13,Scotland,England,1,0,British Championship,Glasgow,Scotland,FALSE
 1929-04-14,Spain,France,8,1,Friendly,Zaragoza,Spain,FALSE
-1929-04-14,Switzerland,Hungary,4,5,International Cup,Berne,Switzerland,FALSE
+1929-04-14,Switzerland,Hungary,4,5,Central European International Cup,Berne,Switzerland,FALSE
 1929-04-20,Barbados,Trinidad and Tobago,3,0,Friendly,Bridgetown,Barbados,FALSE
 1929-04-21,Romania,Bulgaria,3,0,Friendly,Bucharest,Romania,FALSE
 1929-04-22,Barbados,Trinidad and Tobago,2,0,Friendly,Bridgetown,Barbados,FALSE
@@ -1202,7 +1202,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1929-05-01,El Salvador,Nicaragua,9,0,Friendly,San Salvador,El Salvador,FALSE
 1929-05-05,Austria,Hungary,2,2,Friendly,Vienna,Austria,FALSE
 1929-05-05,Belgium,Netherlands,3,1,Friendly,Antwerp,Belgium,FALSE
-1929-05-05,Switzerland,Czechoslovakia,1,4,International Cup,Lausanne,Switzerland,FALSE
+1929-05-05,Switzerland,Czechoslovakia,1,4,Central European International Cup,Lausanne,Switzerland,FALSE
 1929-05-09,France,England,1,4,Friendly,Colombes,France,FALSE
 1929-05-10,Romania,Yugoslavia,2,3,Friendly,Bucharest,Romania,FALSE
 1929-05-11,Belgium,England,1,5,Friendly,Forest,Belgium,FALSE
@@ -1231,7 +1231,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1929-08-15,Estonia,Lithuania,5,2,Baltic Cup,Riga,Latvia,TRUE
 1929-08-16,Latvia,Estonia,2,2,Baltic Cup,Riga,Latvia,FALSE
 1929-08-27,Finland,Estonia,2,1,Friendly,Helsinki,Finland,FALSE
-1929-09-08,Czechoslovakia,Hungary,1,1,International Cup,Prague,Czechoslovakia,FALSE
+1929-09-08,Czechoslovakia,Hungary,1,1,Central European International Cup,Prague,Czechoslovakia,FALSE
 1929-09-15,Austria,Czechoslovakia,2,1,Friendly,Vienna,Austria,FALSE
 1929-09-15,Bulgaria,Romania,2,3,Friendly,Sofia,Bulgaria,FALSE
 1929-09-15,Finland,Latvia,3,1,Friendly,Helsinki,Finland,FALSE
@@ -1239,7 +1239,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1929-09-20,Uruguay,Argentina,2,1,Copa Newton,Montevideo,Uruguay,FALSE
 1929-09-28,Argentina,Uruguay,0,0,Copa Lipton,Buenos Aires,Argentina,FALSE
 1929-09-29,Norway,Sweden,2,1,Nordic Championship,Oslo,Norway,FALSE
-1929-10-06,Czechoslovakia,Switzerland,5,0,International Cup,Prague,Czechoslovakia,FALSE
+1929-10-06,Czechoslovakia,Switzerland,5,0,Central European International Cup,Prague,Czechoslovakia,FALSE
 1929-10-06,Hungary,Austria,2,1,Friendly,Budapest,Hungary,FALSE
 1929-10-06,Romania,Yugoslavia,2,1,Balkan Cup,Bucharest,Romania,FALSE
 1929-10-13,Denmark,Finland,8,0,Nordic Championship,Copenhagen,Denmark,FALSE
@@ -1247,7 +1247,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1929-10-20,Germany,Finland,4,0,Friendly,Altona,Germany,FALSE
 1929-10-26,Trinidad and Tobago,Guyana,0,0,Friendly,Port of Spain,Trinidad and Tobago,FALSE
 1929-10-26,Wales,Scotland,2,4,British Championship,Cardiff,Wales,FALSE
-1929-10-27,Switzerland,Austria,1,3,International Cup,Berne,Switzerland,FALSE
+1929-10-27,Switzerland,Austria,1,3,Central European International Cup,Berne,Switzerland,FALSE
 1929-10-28,Czechoslovakia,Yugoslavia,4,3,Friendly,Prague,Czechoslovakia,FALSE
 1929-11-01,Paraguay,Uruguay,3,0,Copa América,Buenos Aires,Argentina,TRUE
 1929-11-02,Trinidad and Tobago,Guyana,0,1,Friendly,Port of Spain,Trinidad and Tobago,FALSE
@@ -1287,7 +1287,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1930-05-10,Germany,England,3,3,Friendly,Berlin,Germany,FALSE
 1930-05-11,Belgium,Republic of Ireland,1,3,Friendly,Brussels,Belgium,FALSE
 1930-05-11,France,Czechoslovakia,2,3,Friendly,Colombes,France,FALSE
-1930-05-11,Hungary,Italy,0,5,International Cup,Budapest,Hungary,FALSE
+1930-05-11,Hungary,Italy,0,5,Central European International Cup,Budapest,Hungary,FALSE
 1930-05-14,Austria,England,0,0,Friendly,Vienna,Austria,FALSE
 1930-05-18,Belgium,Netherlands,3,1,Friendly,Antwerp,Belgium,FALSE
 1930-05-18,France,Scotland,0,2,Friendly,Colombes,France,FALSE
@@ -1367,7 +1367,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1931-02-12,Barbados,Martinique,0,0,Friendly,Bridgetown,Barbados,FALSE
 1931-02-15,France,Czechoslovakia,1,2,Friendly,Colombes,France,FALSE
 1931-02-21,Northern Ireland,Scotland,0,0,British Championship,Belfast,Northern Ireland,FALSE
-1931-02-22,Italy,Austria,2,1,International Cup,Milan,Italy,FALSE
+1931-02-22,Italy,Austria,2,1,Central European International Cup,Milan,Italy,FALSE
 1931-02-28,Barbados,Martinique,1,2,Friendly,Bridgetown,Barbados,FALSE
 1931-03-05,Guyana,Trinidad and Tobago,2,1,Friendly,Georgetown,British Guyana,FALSE
 1931-03-06,Barbados,Trinidad and Tobago,1,5,Friendly,Georgetown,British Guyana,TRUE
@@ -1377,13 +1377,13 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1931-03-14,Guyana,Barbados,7,0,Friendly,Georgetown,British Guyana,FALSE
 1931-03-15,France,Germany,1,0,Friendly,Colombes,France,FALSE
 1931-03-15,Yugoslavia,Greece,4,1,Balkan Cup,Belgrade,Yugoslavia,FALSE
-1931-03-22,Czechoslovakia,Hungary,3,3,International Cup,Prague,Czechoslovakia,FALSE
+1931-03-22,Czechoslovakia,Hungary,3,3,Central European International Cup,Prague,Czechoslovakia,FALSE
 1931-03-28,Scotland,England,2,0,British Championship,Glasgow,Scotland,FALSE
 1931-03-29,Netherlands,Belgium,3,2,Friendly,Amsterdam,Netherlands,FALSE
-1931-03-29,Switzerland,Italy,1,1,International Cup,Berne,Switzerland,FALSE
+1931-03-29,Switzerland,Italy,1,1,Central European International Cup,Berne,Switzerland,FALSE
 1931-04-05,Curaçao,Aruba,1,0,Friendly,Willemstad,Curaçao,FALSE
-1931-04-12,Austria,Czechoslovakia,2,1,International Cup,Vienna,Austria,FALSE
-1931-04-12,Hungary,Switzerland,6,2,International Cup,Budapest,Hungary,FALSE
+1931-04-12,Austria,Czechoslovakia,2,1,Central European International Cup,Vienna,Austria,FALSE
+1931-04-12,Hungary,Switzerland,6,2,Central European International Cup,Budapest,Hungary,FALSE
 1931-04-12,Portugal,Italy,0,2,Friendly,Porto,Portugal,FALSE
 1931-04-19,Paraguay,Argentina,0,1,Friendly,Asunción,Paraguay,FALSE
 1931-04-19,Spain,Italy,0,0,Friendly,Bilbao,Spain,FALSE
@@ -1392,7 +1392,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1931-04-25,Paraguay,Argentina,1,1,Friendly,Asunción,Paraguay,FALSE
 1931-04-26,Netherlands,Germany,1,1,Friendly,Amsterdam,Netherlands,FALSE
 1931-04-26,Spain,Republic of Ireland,1,1,Friendly,Barcelona,Spain,FALSE
-1931-05-03,Austria,Hungary,0,0,International Cup,Vienna,Austria,FALSE
+1931-05-03,Austria,Hungary,0,0,Central European International Cup,Vienna,Austria,FALSE
 1931-05-03,Belgium,Netherlands,4,2,Friendly,Antwerp,Belgium,FALSE
 1931-05-10,Romania,Bulgaria,5,2,Balkan Cup,Bucharest,Romania,FALSE
 1931-05-14,France,England,5,2,Friendly,Colombes,France,FALSE
@@ -1406,7 +1406,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1931-05-28,Latvia,Estonia,0,1,Friendly,Riga,Latvia,FALSE
 1931-05-31,Portugal,Belgium,3,2,Friendly,Lisbon,Portugal,FALSE
 1931-06-09,Estonia,Lithuania,4,1,Friendly,Tallinn,Estonia,FALSE
-1931-06-13,Czechoslovakia,Switzerland,7,3,International Cup,Prague,Czechoslovakia,FALSE
+1931-06-13,Czechoslovakia,Switzerland,7,3,Central European International Cup,Prague,Czechoslovakia,FALSE
 1931-06-14,Denmark,Netherlands,0,2,Friendly,Copenhagen,Denmark,FALSE
 1931-06-14,Poland,Czechoslovakia,0,4,Friendly,Warsaw,Poland,FALSE
 1931-06-16,Austria,Switzerland,2,0,Friendly,Vienna,Austria,FALSE
@@ -1439,7 +1439,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1931-09-27,Norway,Sweden,2,1,Nordic Championship,Oslo,Norway,FALSE
 1931-10-02,Turkey,Yugoslavia,2,0,Balkan Cup,Sofia,Bulgaria,TRUE
 1931-10-04,Bulgaria,Yugoslavia,3,2,Balkan Cup,Sofia,Bulgaria,FALSE
-1931-10-04,Hungary,Austria,2,2,International Cup,Budapest,Hungary,FALSE
+1931-10-04,Hungary,Austria,2,2,Central European International Cup,Budapest,Hungary,FALSE
 1931-10-11,Belgium,Poland,2,1,Friendly,Brussels,Belgium,FALSE
 1931-10-11,Denmark,Finland,2,3,Nordic Championship,Copenhagen,Denmark,FALSE
 1931-10-17,Kenya,Uganda,2,1,Friendly,Nairobi,Kenya,FALSE
@@ -1448,21 +1448,21 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1931-10-25,Poland,Yugoslavia,6,3,Friendly,Poznań,Poland,FALSE
 1931-10-31,Wales,Scotland,2,3,British Championship,Wrexham,Wales,FALSE
 1931-11-08,Hungary,Sweden,3,1,Friendly,Budapest,Hungary,FALSE
-1931-11-15,Italy,Czechoslovakia,2,2,International Cup,Rome,Italy,FALSE
+1931-11-15,Italy,Czechoslovakia,2,2,Central European International Cup,Rome,Italy,FALSE
 1931-11-18,England,Wales,3,1,British Championship,Liverpool,England,FALSE
 1931-11-29,France,Netherlands,3,4,Friendly,Colombes,France,FALSE
 1931-11-29,Greece,Romania,2,4,Balkan Cup,Athens,Greece,FALSE
-1931-11-29,Switzerland,Austria,1,8,International Cup,Basel,Switzerland,FALSE
+1931-11-29,Switzerland,Austria,1,8,Central European International Cup,Basel,Switzerland,FALSE
 1931-12-05,Northern Ireland,Wales,4,0,British Championship,Belfast,Northern Ireland,FALSE
 1931-12-06,Belgium,Switzerland,2,1,Friendly,Brussels,Belgium,FALSE
 1931-12-09,England,Spain,7,1,Friendly,London,England,FALSE
 1931-12-13,Republic of Ireland,Spain,0,5,Friendly,Dublin,Irish Free State,FALSE
-1931-12-13,Italy,Hungary,3,2,International Cup,Turin,Italy,FALSE
-1932-02-14,Italy,Switzerland,3,0,International Cup,Naples,Italy,FALSE
+1931-12-13,Italy,Hungary,3,2,Central European International Cup,Turin,Italy,FALSE
+1932-02-14,Italy,Switzerland,3,0,Central European International Cup,Naples,Italy,FALSE
 1932-02-19,Egypt,Hungary,0,0,Friendly,Cairo,Egypt,FALSE
 1932-03-06,Germany,Switzerland,2,0,Friendly,Leipzig,Germany,FALSE
 1932-03-13,Haiti,Jamaica,4,1,Friendly,Port-au-Prince,Haiti,FALSE
-1932-03-20,Austria,Italy,2,1,International Cup,Vienna,Austria,FALSE
+1932-03-20,Austria,Italy,2,1,Central European International Cup,Vienna,Austria,FALSE
 1932-03-20,Belgium,Netherlands,1,4,Friendly,Antwerp,Belgium,FALSE
 1932-03-20,Czechoslovakia,Hungary,1,3,Friendly,Prague,Czechoslovakia,FALSE
 1932-03-20,Haiti,Jamaica,0,1,Friendly,Port-au-Prince,Haiti,FALSE
@@ -1475,7 +1475,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1932-04-15,Guyana,Trinidad and Tobago,1,0,Friendly,Bridgetown,Barbados,TRUE
 1932-04-17,Barbados,Trinidad and Tobago,1,0,Friendly,Bridgetown,Barbados,FALSE
 1932-04-17,Netherlands,Belgium,2,1,Friendly,Amsterdam,Netherlands,FALSE
-1932-04-17,Switzerland,Czechoslovakia,5,1,International Cup,Zürich,Switzerland,FALSE
+1932-04-17,Switzerland,Czechoslovakia,5,1,Central European International Cup,Zürich,Switzerland,FALSE
 1932-04-19,Barbados,Guyana,0,1,Friendly,Bridgetown,Barbados,FALSE
 1932-04-21,Barbados,Guyana,2,2,Friendly,Bridgetown,Barbados,FALSE
 1932-04-23,Guyana,Trinidad and Tobago,1,2,Friendly,Bridgetown,Barbados,TRUE
@@ -1485,12 +1485,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1932-05-01,Belgium,France,5,2,Friendly,Brussels,Belgium,FALSE
 1932-05-03,Portugal,Yugoslavia,3,2,Friendly,Lisbon,Portugal,FALSE
 1932-05-08,France,Scotland,1,3,Friendly,Colombes,France,FALSE
-1932-05-08,Hungary,Italy,1,1,International Cup,Budapest,Hungary,FALSE
+1932-05-08,Hungary,Italy,1,1,Central European International Cup,Budapest,Hungary,FALSE
 1932-05-08,Netherlands,Republic of Ireland,0,2,Friendly,Amsterdam,Netherlands,FALSE
 1932-05-15,Argentina,Uruguay,2,0,Friendly,Buenos Aires,Argentina,FALSE
 1932-05-16,Sweden,Finland,7,1,Friendly,Stockholm,Sweden,FALSE
 1932-05-18,Uruguay,Argentina,1,0,Friendly,Montevideo,Uruguay,FALSE
-1932-05-22,Czechoslovakia,Austria,1,1,International Cup,Prague,Czechoslovakia,FALSE
+1932-05-22,Czechoslovakia,Austria,1,1,Central European International Cup,Prague,Czechoslovakia,FALSE
 1932-05-29,Netherlands,Czechoslovakia,1,2,Friendly,Amsterdam,Netherlands,FALSE
 1932-05-29,Yugoslavia,Poland,0,3,Friendly,Zagreb,Yugoslavia,FALSE
 1932-06-01,Estonia,Latvia,3,0,Friendly,Tallinn,Estonia,FALSE
@@ -1503,7 +1503,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1932-06-12,Sweden,Belgium,3,1,Friendly,Stockholm,Sweden,FALSE
 1932-06-17,Norway,Finland,2,1,Nordic Championship,Oslo,Norway,FALSE
 1932-06-19,Denmark,Sweden,3,1,Nordic Championship,Copenhagen,Denmark,FALSE
-1932-06-19,Switzerland,Hungary,3,1,International Cup,Berne,Switzerland,FALSE
+1932-06-19,Switzerland,Hungary,3,1,Central European International Cup,Berne,Switzerland,FALSE
 1932-06-26,Bulgaria,Romania,2,0,Balkan Cup,Belgrade,Yugoslavia,TRUE
 1932-06-26,Yugoslavia,Greece,7,1,Balkan Cup,Belgrade,Yugoslavia,FALSE
 1932-06-28,Greece,Romania,0,3,Balkan Cup,Belgrade,Yugoslavia,TRUE
@@ -1527,7 +1527,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1932-08-30,Latvia,Estonia,1,0,Baltic Cup,Riga,Latvia,FALSE
 1932-09-11,Lithuania,Latvia,1,0,Friendly,Kaunas,Lithuania,FALSE
 1932-09-17,Northern Ireland,Scotland,0,4,British Championship,Belfast,Northern Ireland,FALSE
-1932-09-18,Hungary,Czechoslovakia,2,1,International Cup,Budapest,Hungary,FALSE
+1932-09-18,Hungary,Czechoslovakia,2,1,Central European International Cup,Budapest,Hungary,FALSE
 1932-09-25,Germany,Sweden,4,3,Friendly,Nuremberg,Germany,FALSE
 1932-09-25,Norway,Denmark,1,2,Nordic Championship,Oslo,Norway,FALSE
 1932-09-25,Sweden,Lithuania,8,1,Friendly,Stockholm,Sweden,FALSE
@@ -1536,9 +1536,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1932-10-02,Romania,Poland,0,5,Friendly,Bucharest,Romania,FALSE
 1932-10-09,Czechoslovakia,Yugoslavia,2,1,Friendly,Prague,Czechoslovakia,FALSE
 1932-10-17,England,Northern Ireland,1,0,British Championship,Blackpool,England,FALSE
-1932-10-23,Austria,Switzerland,3,1,International Cup,Vienna,Austria,FALSE
+1932-10-23,Austria,Switzerland,3,1,Central European International Cup,Vienna,Austria,FALSE
 1932-10-26,Scotland,Wales,2,5,British Championship,Edinburgh,Scotland,FALSE
-1932-10-28,Czechoslovakia,Italy,2,1,International Cup,Prague,Czechoslovakia,FALSE
+1932-10-28,Czechoslovakia,Italy,2,1,Central European International Cup,Prague,Czechoslovakia,FALSE
 1932-10-30,Hungary,Germany,2,1,Friendly,Budapest,Hungary,FALSE
 1932-11-04,Turkey,Bulgaria,2,3,Friendly,Istanbul,Turkey,FALSE
 1932-11-06,Switzerland,Sweden,2,1,Friendly,Basel,Switzerland,FALSE
@@ -1563,13 +1563,13 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1933-03-26,France,Belgium,3,0,Friendly,Colombes,France,FALSE
 1933-04-01,Scotland,England,2,1,British Championship,Glasgow,Scotland,FALSE
 1933-04-02,Spain,Portugal,3,0,Friendly,Vigo,Spain,FALSE
-1933-04-02,Switzerland,Italy,0,3,International Cup,Geneva,Switzerland,FALSE
+1933-04-02,Switzerland,Italy,0,3,Central European International Cup,Geneva,Switzerland,FALSE
 1933-04-09,Austria,Czechoslovakia,1,2,Friendly,Vienna,Austria,FALSE
 1933-04-09,Belgium,Netherlands,1,3,Friendly,Antwerp,Belgium,FALSE
 1933-04-23,France,Spain,1,0,Friendly,Colombes,France,FALSE
 1933-04-30,Hungary,Austria,1,1,Friendly,Budapest,Hungary,FALSE
 1933-04-30,Yugoslavia,Spain,1,1,Friendly,Belgrade,Yugoslavia,FALSE
-1933-05-07,Italy,Czechoslovakia,2,0,International Cup,Florence,Italy,FALSE
+1933-05-07,Italy,Czechoslovakia,2,0,Central European International Cup,Florence,Italy,FALSE
 1933-05-07,Netherlands,Belgium,1,2,Friendly,Amsterdam,Netherlands,FALSE
 1933-05-07,Switzerland,Yugoslavia,4,1,Friendly,Zürich,Switzerland,FALSE
 1933-05-13,Italy,England,1,1,Friendly,Rome,Italy,FALSE
@@ -1609,7 +1609,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1933-09-10,Poland,Yugoslavia,4,3,Friendly,Warsaw,Poland,FALSE
 1933-09-16,Scotland,Northern Ireland,1,2,British Championship,Glasgow,Scotland,FALSE
 1933-09-17,Czechoslovakia,Austria,3,3,Friendly,Prague,Czechoslovakia,FALSE
-1933-09-17,Hungary,Switzerland,3,0,International Cup,Budapest,Hungary,FALSE
+1933-09-17,Hungary,Switzerland,3,0,Central European International Cup,Budapest,Hungary,FALSE
 1933-09-24,Norway,Sweden,0,1,Nordic Championship,Oslo,Norway,FALSE
 1933-09-24,Yugoslavia,Switzerland,2,2,FIFA World Cup qualification,Belgrade,Yugoslavia,FALSE
 1933-10-01,Austria,Hungary,2,2,Friendly,Vienna,Austria,FALSE
@@ -1621,7 +1621,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1933-10-14,Northern Ireland,England,0,3,British Championship,Belfast,Northern Ireland,FALSE
 1933-10-15,Poland,Czechoslovakia,1,2,FIFA World Cup qualification,Warsaw,Poland,FALSE
 1933-10-22,Germany,Belgium,8,1,Friendly,Duisburg,Germany,FALSE
-1933-10-22,Hungary,Italy,0,1,International Cup,Budapest,Hungary,FALSE
+1933-10-22,Hungary,Italy,0,1,Central European International Cup,Budapest,Hungary,FALSE
 1933-10-23,Trinidad and Tobago,Barbados,8,4,Friendly,Port of Spain,Trinidad and Tobago,FALSE
 1933-10-24,Trinidad and Tobago,Guyana,2,0,Friendly,Port of Spain,Trinidad and Tobago,FALSE
 1933-10-25,Barbados,Guyana,0,2,Friendly,Port of Spain,Trinidad and Tobago,TRUE
@@ -1638,7 +1638,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1933-11-26,Belgium,Denmark,2,2,Friendly,Brussels,Belgium,FALSE
 1933-11-29,Scotland,Austria,2,2,Friendly,Glasgow,Scotland,FALSE
 1933-12-03,Germany,Poland,1,0,Friendly,Berlin,Germany,FALSE
-1933-12-03,Italy,Switzerland,5,2,International Cup,Florence,Italy,FALSE
+1933-12-03,Italy,Switzerland,5,2,Central European International Cup,Florence,Italy,FALSE
 1933-12-06,England,France,4,1,Friendly,London,England,FALSE
 1933-12-10,Netherlands,Austria,0,1,Friendly,Amsterdam,Netherlands,FALSE
 1933-12-14,Uruguay,Argentina,0,1,Friendly,Montevideo,Uruguay,FALSE
@@ -1648,7 +1648,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1934-02-01,Haiti,Cuba,1,1,FIFA World Cup qualification,Port-au-Prince,Haiti,FALSE
 1934-02-02,Catalonia,Spain,0,2,Friendly,Barcelona,Spain,FALSE
 1934-02-04,Haiti,Cuba,0,6,FIFA World Cup qualification,Port-au-Prince,Haiti,FALSE
-1934-02-11,Italy,Austria,2,4,International Cup,Turin,Italy,FALSE
+1934-02-11,Italy,Austria,2,4,Central European International Cup,Turin,Italy,FALSE
 1934-02-25,Republic of Ireland,Belgium,4,4,FIFA World Cup qualification,Dublin,Irish Free State,TRUE
 1934-03-04,Mexico,Cuba,3,2,FIFA World Cup qualification,Mexico City,Mexico,FALSE
 1934-03-11,France,Switzerland,0,1,Friendly,Paris,France,FALSE
@@ -1664,7 +1664,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1934-03-25,Bulgaria,Hungary,1,4,FIFA World Cup qualification,Sofia,Bulgaria,FALSE
 1934-03-25,France,Czechoslovakia,1,2,Friendly,Colombes,France,FALSE
 1934-03-25,Italy,Greece,4,0,FIFA World Cup qualification,Milan,Italy,FALSE
-1934-03-25,Switzerland,Austria,2,3,International Cup,Geneva,Switzerland,FALSE
+1934-03-25,Switzerland,Austria,2,3,Central European International Cup,Geneva,Switzerland,FALSE
 1934-04-01,Yugoslavia,Bulgaria,2,3,Friendly,Belgrade,Yugoslavia,FALSE
 1934-04-06,Israel,Egypt,1,4,FIFA World Cup qualification,Tel Aviv,Palestine,TRUE
 1934-04-08,Netherlands,Republic of Ireland,5,2,FIFA World Cup qualification,Amsterdam,Netherlands,FALSE
@@ -1674,7 +1674,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1934-04-25,Austria,Bulgaria,6,1,FIFA World Cup qualification,Vienna,Austria,FALSE
 1934-04-25,Hungary,Bulgaria,4,1,FIFA World Cup qualification,Budapest,Hungary,FALSE
 1934-04-29,Belgium,Netherlands,2,4,FIFA World Cup qualification,Antwerp,Belgium,FALSE
-1934-04-29,Czechoslovakia,Hungary,2,2,International Cup,Prague,Czechoslovakia,FALSE
+1934-04-29,Czechoslovakia,Hungary,2,2,Central European International Cup,Prague,Czechoslovakia,FALSE
 1934-04-29,Romania,Yugoslavia,2,1,FIFA World Cup qualification,Bucharest,Romania,FALSE
 1934-05-10,Hungary,England,2,1,Friendly,Budapest,Hungary,FALSE
 1934-05-10,Netherlands,France,4,5,Friendly,Amsterdam,Netherlands,FALSE
@@ -1728,19 +1728,19 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1934-09-02,Norway,Finland,4,2,Nordic Championship,Oslo,Norway,FALSE
 1934-09-09,Latvia,Lithuania,1,3,Friendly,Riga,Latvia,FALSE
 1934-09-09,Poland,Germany,2,5,Friendly,Warsaw,Poland,FALSE
-1934-09-23,Austria,Czechoslovakia,2,2,International Cup,Vienna,Austria,FALSE
+1934-09-23,Austria,Czechoslovakia,2,2,Central European International Cup,Vienna,Austria,FALSE
 1934-09-23,Finland,Sweden,5,4,Nordic Championship,Helsinki,Finland,FALSE
 1934-09-23,Norway,Denmark,3,1,Nordic Championship,Oslo,Norway,FALSE
 1934-09-23,Sweden,Latvia,3,1,Friendly,Stockholm,Sweden,FALSE
 1934-09-29,Wales,England,0,4,British Championship,Cardiff,Wales,FALSE
 1934-10-07,Denmark,Germany,2,5,Friendly,Copenhagen,Denmark,FALSE
-1934-10-07,Hungary,Austria,3,1,International Cup,Budapest,Hungary,FALSE
+1934-10-07,Hungary,Austria,3,1,Central European International Cup,Budapest,Hungary,FALSE
 1934-10-14,Latvia,Poland,2,6,Friendly,Riga,Latvia,FALSE
 1934-10-14,Poland,Romania,3,3,Friendly,Lwów,Poland,FALSE
-1934-10-14,Switzerland,Czechoslovakia,2,2,International Cup,Geneva,Switzerland,FALSE
+1934-10-14,Switzerland,Czechoslovakia,2,2,Central European International Cup,Geneva,Switzerland,FALSE
 1934-10-20,Northern Ireland,Scotland,2,1,British Championship,Belfast,Northern Ireland,FALSE
 1934-11-04,Switzerland,Netherlands,2,4,Friendly,Berne,Switzerland,FALSE
-1934-11-11,Austria,Switzerland,3,0,International Cup,Vienna,Austria,FALSE
+1934-11-11,Austria,Switzerland,3,0,Central European International Cup,Vienna,Austria,FALSE
 1934-11-14,England,Italy,3,2,Friendly,London,England,FALSE
 1934-11-21,Scotland,Wales,3,2,British Championship,Aberdeen,Scotland,FALSE
 1934-12-09,Italy,Hungary,4,2,Friendly,Milan,Italy,FALSE
@@ -1764,17 +1764,17 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1935-02-17,Italy,France,2,1,Friendly,Rome,Italy,FALSE
 1935-02-17,Netherlands,Germany,2,3,Friendly,Amsterdam,Netherlands,FALSE
 1935-02-22,Uganda,Kenya,5,1,Friendly,Kampala,Uganda,FALSE
-1935-03-17,Czechoslovakia,Switzerland,3,1,International Cup,Prague,Czechoslovakia,FALSE
+1935-03-17,Czechoslovakia,Switzerland,3,1,Central European International Cup,Prague,Czechoslovakia,FALSE
 1935-03-17,France,Germany,1,3,Friendly,Paris,France,FALSE
 1935-03-23,Curaçao,Aruba,2,0,Friendly,Willemstad,Curaçao,FALSE
-1935-03-24,Austria,Italy,0,2,International Cup,Vienna,Austria,FALSE
+1935-03-24,Austria,Italy,0,2,Central European International Cup,Vienna,Austria,FALSE
 1935-03-24,Curaçao,Aruba,4,0,Friendly,Willemstad,Curaçao,FALSE
 1935-03-27,Wales,Northern Ireland,3,1,British Championship,Wrexham,Wales,FALSE
 1935-03-31,Netherlands,Belgium,4,2,Friendly,Amsterdam,Netherlands,FALSE
 1935-04-06,Scotland,England,2,0,British Championship,Glasgow,Scotland,FALSE
 1935-04-14,Belgium,France,1,1,Friendly,Brussels,Belgium,FALSE
-1935-04-14,Czechoslovakia,Austria,0,0,International Cup,Prague,Czechoslovakia,FALSE
-1935-04-14,Switzerland,Hungary,6,2,International Cup,Zürich,Switzerland,FALSE
+1935-04-14,Czechoslovakia,Austria,0,0,Central European International Cup,Prague,Czechoslovakia,FALSE
+1935-04-14,Switzerland,Hungary,6,2,Central European International Cup,Zürich,Switzerland,FALSE
 1935-04-28,Belgium,Germany,1,6,Friendly,Brussels,Belgium,FALSE
 1935-05-05,Portugal,Spain,3,3,Friendly,Lisbon,Portugal,FALSE
 1935-05-05,Switzerland,Republic of Ireland,1,0,Friendly,Basel,Switzerland,FALSE
@@ -1829,16 +1829,16 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1935-09-15,Poland,Latvia,3,3,Friendly,Łódź,Poland,FALSE
 1935-09-18,Lithuania,Estonia,2,2,Friendly,Kaunas,Lithuania,FALSE
 1935-09-20,Curaçao,Aruba,1,0,Friendly,Willemstad,Curaçao,FALSE
-1935-09-22,Hungary,Czechoslovakia,1,0,International Cup,Budapest,Hungary,FALSE
+1935-09-22,Hungary,Czechoslovakia,1,0,Central European International Cup,Budapest,Hungary,FALSE
 1935-09-22,Norway,Sweden,0,2,Nordic Championship,Oslo,Norway,FALSE
 1935-10-05,Wales,Scotland,1,1,British Championship,Cardiff,Wales,FALSE
-1935-10-06,Austria,Hungary,4,4,International Cup,Vienna,Austria,FALSE
+1935-10-06,Austria,Hungary,4,4,Central European International Cup,Vienna,Austria,FALSE
 1935-10-06,Denmark,Finland,5,1,Nordic Championship,Copenhagen,Denmark,FALSE
 1935-10-06,Poland,Austria,1,0,Friendly,Warsaw,Poland,FALSE
 1935-10-13,Germany,Latvia,3,0,Friendly,Königsberg,Germany,FALSE
 1935-10-19,Northern Ireland,England,1,3,British Championship,Belfast,Northern Ireland,FALSE
 1935-10-20,Germany,Bulgaria,4,2,Friendly,Leipzig,Germany,FALSE
-1935-10-27,Czechoslovakia,Italy,2,1,International Cup,Prague,Czechoslovakia,FALSE
+1935-10-27,Czechoslovakia,Italy,2,1,Central European International Cup,Prague,Czechoslovakia,FALSE
 1935-10-27,Switzerland,France,2,1,Friendly,Geneva,Switzerland,FALSE
 1935-11-03,Netherlands,Denmark,3,0,Friendly,Amsterdam,Netherlands,FALSE
 1935-11-03,Romania,Poland,4,1,Friendly,Bucharest,Romania,FALSE
@@ -1847,7 +1847,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1935-11-10,Hungary,Switzerland,6,1,Friendly,Budapest,Hungary,FALSE
 1935-11-13,Scotland,Northern Ireland,2,1,British Championship,Edinburgh,Scotland,FALSE
 1935-11-17,Belgium,Sweden,5,1,Friendly,Brussels,Belgium,FALSE
-1935-11-24,Italy,Hungary,2,2,International Cup,Milan,Italy,FALSE
+1935-11-24,Italy,Hungary,2,2,Central European International Cup,Milan,Italy,FALSE
 1935-12-04,England,Germany,3,0,Friendly,London,England,FALSE
 1935-12-08,Republic of Ireland,Netherlands,3,5,Friendly,Dublin,Irish Free State,FALSE
 1935-12-15,Curaçao,Trinidad and Tobago,3,1,Friendly,Willemstad,Curaçao,FALSE
@@ -1869,7 +1869,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1936-03-11,Northern Ireland,Wales,3,2,British Championship,Belfast,Northern Ireland,FALSE
 1936-03-15,Hungary,Germany,3,2,Friendly,Budapest,Hungary,FALSE
 1936-03-17,Republic of Ireland,Switzerland,1,0,Friendly,Dublin,Irish Free State,FALSE
-1936-03-22,Austria,Czechoslovakia,1,1,International Cup,Vienna,Austria,FALSE
+1936-03-22,Austria,Czechoslovakia,1,1,Central European International Cup,Vienna,Austria,FALSE
 1936-03-29,Netherlands,Belgium,8,0,Friendly,Amsterdam,Netherlands,FALSE
 1936-04-04,England,Scotland,1,1,British Championship,London,England,FALSE
 1936-04-05,Austria,Hungary,3,5,Friendly,Vienna,Austria,FALSE
@@ -1915,17 +1915,17 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1936-09-27,Czechoslovakia,Germany,1,2,Friendly,Prague,Czechoslovakia,FALSE
 1936-09-27,Finland,Sweden,1,2,Nordic Championship,Helsinki,Finland,FALSE
 1936-09-27,Germany,Luxembourg,7,2,Friendly,Krefeld,Germany,FALSE
-1936-09-27,Hungary,Austria,5,3,International Cup,Budapest,Hungary,FALSE
+1936-09-27,Hungary,Austria,5,3,Central European International Cup,Budapest,Hungary,FALSE
 1936-10-04,Denmark,Poland,2,1,Friendly,Copenhagen,Denmark,FALSE
 1936-10-04,Romania,Hungary,1,2,Friendly,Bucharest,Romania,FALSE
 1936-10-14,Scotland,Germany,2,0,Friendly,Glasgow,Scotland,FALSE
 1936-10-17,Republic of Ireland,Germany,5,2,Friendly,Dublin,Irish Free State,FALSE
 1936-10-17,Wales,England,2,1,British Championship,Cardiff,Wales,FALSE
-1936-10-18,Czechoslovakia,Hungary,5,2,International Cup,Prague,Czechoslovakia,FALSE
-1936-10-25,Italy,Switzerland,4,2,International Cup,Milan,Italy,FALSE
+1936-10-18,Czechoslovakia,Hungary,5,2,Central European International Cup,Prague,Czechoslovakia,FALSE
+1936-10-25,Italy,Switzerland,4,2,Central European International Cup,Milan,Italy,FALSE
 1936-10-31,Northern Ireland,Scotland,1,3,British Championship,Belfast,Northern Ireland,FALSE
 1936-11-01,Netherlands,Norway,3,3,Friendly,Amsterdam,Netherlands,FALSE
-1936-11-08,Switzerland,Austria,1,3,International Cup,Zürich,Switzerland,FALSE
+1936-11-08,Switzerland,Austria,1,3,Central European International Cup,Zürich,Switzerland,FALSE
 1936-11-15,Germany,Italy,2,2,Friendly,Berlin,Germany,FALSE
 1936-11-18,England,Northern Ireland,3,1,British Championship,Stoke-on-Trent,England,FALSE
 1936-12-02,England,Hungary,6,2,Friendly,London,England,FALSE
@@ -1958,18 +1958,18 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1937-01-31,Germany,Netherlands,2,2,Friendly,Düsseldorf,Germany,FALSE
 1937-02-01,Argentina,Brazil,2,0,Copa América,Buenos Aires,Argentina,FALSE
 1937-02-21,Belgium,France,3,1,Friendly,Brussels,Belgium,FALSE
-1937-02-21,Czechoslovakia,Switzerland,5,3,International Cup,Prague,Czechoslovakia,FALSE
+1937-02-21,Czechoslovakia,Switzerland,5,3,Central European International Cup,Prague,Czechoslovakia,FALSE
 1937-03-07,Netherlands,Switzerland,2,1,Friendly,Amsterdam,Netherlands,FALSE
 1937-03-17,Wales,Northern Ireland,4,1,British Championship,Wrexham,Wales,FALSE
 1937-03-21,Germany,France,4,0,Friendly,Stuttgart,Germany,FALSE
 1937-03-21,Luxembourg,Germany,2,3,Friendly,Luxembourg,Luxembourg,FALSE
 1937-04-04,Belgium,Netherlands,2,1,Friendly,Antwerp,Belgium,FALSE
-1937-04-11,Switzerland,Hungary,1,5,International Cup,Basel,Switzerland,FALSE
+1937-04-11,Switzerland,Hungary,1,5,Central European International Cup,Basel,Switzerland,FALSE
 1937-04-17,Scotland,England,3,1,British Championship,Glasgow,Scotland,FALSE
 1937-04-18,Belgium,Switzerland,1,2,Friendly,Brussels,Belgium,FALSE
 1937-04-18,Romania,Czechoslovakia,1,1,Friendly,Bucharest,Romania,FALSE
 1937-04-25,Germany,Belgium,1,0,Friendly,Hanover,Germany,FALSE
-1937-04-25,Italy,Hungary,2,0,International Cup,Turin,Italy,FALSE
+1937-04-25,Italy,Hungary,2,0,Central European International Cup,Turin,Italy,FALSE
 1937-05-01,Aruba,Curaçao,1,1,Friendly,Oranjestad,Aruba,FALSE
 1937-05-02,Aruba,Curaçao,1,1,Friendly,Oranjestad,Aruba,FALSE
 1937-05-02,Netherlands,Belgium,1,0,Friendly,Rotterdam,Netherlands,FALSE
@@ -1983,7 +1983,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1937-05-17,Switzerland,Republic of Ireland,0,1,Friendly,Berne,Switzerland,FALSE
 1937-05-17,Uganda,Kenya,9,5,Friendly,Kampala,Uganda,FALSE
 1937-05-20,Finland,England,0,8,Friendly,Helsinki,Finland,FALSE
-1937-05-23,Czechoslovakia,Italy,0,1,International Cup,Prague,Czechoslovakia,FALSE
+1937-05-23,Czechoslovakia,Italy,0,1,Central European International Cup,Prague,Czechoslovakia,FALSE
 1937-05-23,France,Republic of Ireland,0,2,Friendly,Colombes,France,FALSE
 1937-05-23,Hungary,Austria,2,2,Friendly,Budapest,Hungary,FALSE
 1937-05-27,Norway,Italy,1,3,Friendly,Oslo,Norway,FALSE
@@ -2015,15 +2015,15 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1937-09-12,Bulgaria,Poland,3,3,Friendly,Sofia,Bulgaria,FALSE
 1937-09-12,Mexico,United States,7,2,Friendly,Mexico City,Mexico,FALSE
 1937-09-12,Poland,Denmark,3,1,Friendly,Warsaw,Poland,FALSE
-1937-09-19,Austria,Switzerland,4,3,International Cup,Vienna,Austria,FALSE
-1937-09-19,Hungary,Czechoslovakia,8,3,International Cup,Budapest,Hungary,FALSE
+1937-09-19,Austria,Switzerland,4,3,Central European International Cup,Vienna,Austria,FALSE
+1937-09-19,Hungary,Czechoslovakia,8,3,Central European International Cup,Budapest,Hungary,FALSE
 1937-09-19,Latvia,Estonia,3,1,Friendly,Riga,Latvia,FALSE
 1937-09-19,Mexico,United States,7,3,Friendly,Mexico City,Mexico,FALSE
 1937-09-19,Norway,Sweden,3,2,Nordic Championship,Oslo,Norway,FALSE
 1937-10-03,Czechoslovakia,Yugoslavia,5,4,Friendly,Prague,Czechoslovakia,FALSE
 1937-10-03,Sweden,Denmark,1,2,Nordic Championship,Solna,Sweden,FALSE
 1937-10-05,Austria,Latvia,2,1,FIFA World Cup qualification,Vienna,Austria,FALSE
-1937-10-10,Austria,Hungary,1,2,International Cup,Vienna,Austria,FALSE
+1937-10-10,Austria,Hungary,1,2,Central European International Cup,Vienna,Austria,FALSE
 1937-10-10,France,Switzerland,2,1,Friendly,Paris,France,FALSE
 1937-10-10,Norway,Republic of Ireland,3,2,FIFA World Cup qualification,Oslo,Norway,FALSE
 1937-10-10,Poland,Yugoslavia,4,0,FIFA World Cup qualification,Warsaw,Poland,FALSE
@@ -2033,16 +2033,16 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1937-10-13,Czechoslovakia,Latvia,4,0,Friendly,Prague,Czechoslovakia,FALSE
 1937-10-17,Denmark,Finland,2,1,Nordic Championship,Copenhagen,Denmark,FALSE
 1937-10-23,Northern Ireland,England,1,5,British Championship,Belfast,Northern Ireland,FALSE
-1937-10-24,Czechoslovakia,Austria,2,1,International Cup,Prague,Czechoslovakia,FALSE
+1937-10-24,Czechoslovakia,Austria,2,1,Central European International Cup,Prague,Czechoslovakia,FALSE
 1937-10-24,Germany,Norway,3,0,Friendly,Berlin,Germany,FALSE
 1937-10-30,Wales,Scotland,2,1,British Championship,Cardiff,Wales,FALSE
 1937-10-31,Netherlands,France,2,3,Friendly,Amsterdam,Netherlands,FALSE
-1937-10-31,Switzerland,Italy,2,2,International Cup,Geneva,Switzerland,FALSE
+1937-10-31,Switzerland,Italy,2,2,Central European International Cup,Geneva,Switzerland,FALSE
 1937-11-07,Bulgaria,Czechoslovakia,1,1,FIFA World Cup qualification,Sofia,Bulgaria,FALSE
 1937-11-07,Republic of Ireland,Norway,3,3,FIFA World Cup qualification,Dublin,Irish Free State,TRUE
 1937-11-10,Scotland,Northern Ireland,1,1,British Championship,Aberdeen,Scotland,FALSE
 1937-11-11,Argentina,Uruguay,5,1,Copa Lipton,Avellaneda,Argentina,FALSE
-1937-11-14,Hungary,Switzerland,2,0,International Cup,Budapest,Hungary,FALSE
+1937-11-14,Hungary,Switzerland,2,0,Central European International Cup,Budapest,Hungary,FALSE
 1937-11-17,England,Wales,2,1,British Championship,Middlesbrough,England,FALSE
 1937-11-21,Germany,Sweden,5,0,FIFA World Cup qualification,Altona,Germany,FALSE
 1937-11-28,Netherlands,Luxembourg,4,0,FIFA World Cup qualification,Rotterdam,Netherlands,FALSE
@@ -2078,7 +2078,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1938-03-28,Guyana,Trinidad and Tobago,1,1,Friendly,Georgetown,British Guyana,FALSE
 1938-04-01,Guyana,Trinidad and Tobago,0,3,Friendly,Georgetown,British Guyana,FALSE
 1938-04-03,Belgium,Netherlands,1,1,FIFA World Cup qualification,Antwerp,Belgium,FALSE
-1938-04-03,Switzerland,Czechoslovakia,4,0,International Cup,Basel,Switzerland,FALSE
+1938-04-03,Switzerland,Czechoslovakia,4,0,Central European International Cup,Basel,Switzerland,FALSE
 1938-04-03,Yugoslavia,Poland,1,0,FIFA World Cup qualification,Belgrade,Yugoslavia,FALSE
 1938-04-07,Guyana,Trinidad and Tobago,0,2,Friendly,Georgetown,British Guyana,FALSE
 1938-04-09,England,Scotland,0,1,British Championship,London,England,FALSE
@@ -2833,16 +2833,16 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1948-04-18,Netherlands,Belgium,2,2,Friendly,Rotterdam,Netherlands,FALSE
 1948-04-18,Poland,Czechoslovakia,3,1,Balkan Cup,Warsaw,Poland,FALSE
 1948-04-20,Silesia,Czechoslovakia,2,1,Friendly,Chorzów,Poland,FALSE
-1948-04-21,Hungary,Switzerland,7,4,International Cup,Budapest,Hungary,FALSE
+1948-04-21,Hungary,Switzerland,7,4,Central European International Cup,Budapest,Hungary,FALSE
 1948-04-23,Greece,Turkey,1,3,Friendly,Athens,Greece,FALSE
 1948-04-28,Scotland,Belgium,2,0,Friendly,Glasgow,Scotland,FALSE
-1948-05-02,Austria,Hungary,3,2,International Cup,Vienna,Austria,FALSE
+1948-05-02,Austria,Hungary,3,2,Central European International Cup,Vienna,Austria,FALSE
 1948-05-02,Romania,Albania,0,1,Balkan Cup,Bucharest,Romania,FALSE
 1948-05-16,Italy,England,0,4,Friendly,Turin,Italy,FALSE
 1948-05-17,Switzerland,Scotland,2,1,Friendly,Berne,Switzerland,FALSE
 1948-05-23,Albania,Hungary,0,0,Balkan Cup,Tirana,Albania,FALSE
 1948-05-23,France,Scotland,3,0,Friendly,Colombes,France,FALSE
-1948-05-23,Hungary,Czechoslovakia,2,1,International Cup,Budapest,Hungary,FALSE
+1948-05-23,Hungary,Czechoslovakia,2,1,Central European International Cup,Budapest,Hungary,FALSE
 1948-05-23,Portugal,Republic of Ireland,2,0,Friendly,Oeiras,Portugal,FALSE
 1948-05-25,DR Congo,Zambia,2,3,Friendly,Brazzaville,Belgian Congo,FALSE
 1948-05-26,Norway,Netherlands,1,2,Friendly,Oslo,Norway,FALSE
@@ -2898,7 +2898,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1948-10-10,French Guiana,Guyana,3,2,Friendly,Cayenne,French Guiana,FALSE
 1948-10-10,Poland,Romania,0,0,Balkan Cup,Chorzów,Poland,FALSE
 1948-10-10,Sweden,Denmark,1,0,Nordic Championship,Solna,Sweden,FALSE
-1948-10-10,Switzerland,Czechoslovakia,1,1,International Cup,Basel,Switzerland,FALSE
+1948-10-10,Switzerland,Czechoslovakia,1,1,Central European International Cup,Basel,Switzerland,FALSE
 1948-10-11,Jamaica,Haiti,1,0,Friendly,Kingston,Jamaica,FALSE
 1948-10-13,Jamaica,Haiti,1,2,Friendly,Kingston,Jamaica,FALSE
 1948-10-16,Jamaica,Haiti,3,0,Friendly,Kingston,Jamaica,FALSE
@@ -2910,7 +2910,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1948-10-27,Trinidad and Tobago,Haiti,4,0,Friendly,Port of Spain,Trinidad and Tobago,FALSE
 1948-10-28,Iran,Turkey,1,1,Friendly,Tehran,Iran,FALSE
 1948-10-30,Trinidad and Tobago,Haiti,4,0,Friendly,Port of Spain,Trinidad and Tobago,FALSE
-1948-10-31,Czechoslovakia,Austria,3,1,International Cup,Bratislava,Czechoslovakia,FALSE
+1948-10-31,Czechoslovakia,Austria,3,1,Central European International Cup,Bratislava,Czechoslovakia,FALSE
 1948-11-07,Bulgaria,Hungary,1,0,Balkan Cup,Sofia,Bulgaria,FALSE
 1948-11-10,England,Wales,1,0,British Championship,Birmingham,England,FALSE
 1948-11-14,Austria,Sweden,2,1,Friendly,Vienna,Austria,FALSE
@@ -2937,13 +2937,13 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1949-03-23,Czechoslovakia,Luxembourg,2,2,Friendly,Bratislava,Czechoslovakia,FALSE
 1949-03-27,Spain,Italy,1,3,Friendly,Madrid,Spain,FALSE
 1949-04-03,Brazil,Ecuador,9,1,Copa América,Rio de Janeiro,Brazil,FALSE
-1949-04-03,Switzerland,Austria,1,2,International Cup,Lausanne,Switzerland,FALSE
+1949-04-03,Switzerland,Austria,1,2,Central European International Cup,Lausanne,Switzerland,FALSE
 1949-04-06,Bolivia,Chile,3,2,Copa América,São Paulo,Brazil,TRUE
 1949-04-06,Colombia,Paraguay,0,3,Copa América,São Paulo,Brazil,TRUE
 1949-04-09,England,Scotland,1,3,British Championship,London,England,FALSE
 1949-04-10,Brazil,Bolivia,10,1,Copa América,São Paulo,Brazil,FALSE
 1949-04-10,Colombia,Peru,0,4,Copa América,Rio de Janeiro,Brazil,TRUE
-1949-04-10,Czechoslovakia,Hungary,5,2,International Cup,Prague,Czechoslovakia,FALSE
+1949-04-10,Czechoslovakia,Hungary,5,2,Central European International Cup,Prague,Czechoslovakia,FALSE
 1949-04-10,Ecuador,Paraguay,0,1,Copa América,Rio de Janeiro,Brazil,TRUE
 1949-04-13,Brazil,Chile,2,1,Copa América,São Paulo,Brazil,FALSE
 1949-04-13,Ecuador,Uruguay,2,3,Copa América,Rio de Janeiro,Brazil,TRUE
@@ -2977,7 +2977,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1949-05-07,Jamaica,Trinidad and Tobago,1,2,Friendly,Kingston,Jamaica,FALSE
 1949-05-08,Brazil,Paraguay,1,2,Copa América,Rio de Janeiro,Brazil,FALSE
 1949-05-08,Chile,Uruguay,3,1,Copa América,Belo Horizonte,Brazil,TRUE
-1949-05-08,Hungary,Austria,6,1,International Cup,Budapest,Hungary,FALSE
+1949-05-08,Hungary,Austria,6,1,Central European International Cup,Budapest,Hungary,FALSE
 1949-05-08,Romania,Poland,2,1,Friendly,Bucharest,Romania,FALSE
 1949-05-09,Cuba,Martinique,0,0,Friendly,Paramaribo,Suriname,TRUE
 1949-05-09,Puerto Rico,Trinidad and Tobago,2,8,Friendly,San Juan,Puerto Rico,FALSE
@@ -2995,12 +2995,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1949-05-22,Czechoslovakia,Romania,3,2,Friendly,Prague,Czechoslovakia,FALSE
 1949-05-22,France,England,1,3,Friendly,Colombes,France,FALSE
 1949-05-22,Republic of Ireland,Portugal,1,0,Friendly,Dublin,Republic of Ireland,FALSE
-1949-05-22,Italy,Austria,3,1,International Cup,Florence,Italy,FALSE
+1949-05-22,Italy,Austria,3,1,Central European International Cup,Florence,Italy,FALSE
 1949-05-26,Switzerland,Wales,4,0,Friendly,Berne,Switzerland,FALSE
 1949-06-02,Sweden,Republic of Ireland,3,1,FIFA World Cup qualification,Solna,Sweden,FALSE
 1949-06-04,France,Switzerland,4,2,Friendly,Colombes,France,FALSE
 1949-06-12,Denmark,Netherlands,1,2,Friendly,Copenhagen,Denmark,FALSE
-1949-06-12,Hungary,Italy,1,1,International Cup,Budapest,Hungary,FALSE
+1949-06-12,Hungary,Italy,1,1,Central European International Cup,Budapest,Hungary,FALSE
 1949-06-12,Republic of Ireland,Spain,1,4,Friendly,Dublin,Republic of Ireland,FALSE
 1949-06-16,Finland,Netherlands,1,4,Friendly,Helsinki,Finland,FALSE
 1949-06-16,Madagascar,Mauritius,1,3,Friendly,Saint-Pierre,Réunion,TRUE
@@ -3033,7 +3033,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1949-09-18,Mexico,United States,6,2,FIFA World Cup qualification,Mexico City,Mexico,FALSE
 1949-09-21,England,Republic of Ireland,0,2,Friendly,Liverpool,England,FALSE
 1949-09-21,United States,Cuba,5,2,FIFA World Cup qualification,Mexico City,Mexico,TRUE
-1949-09-25,Austria,Czechoslovakia,3,1,International Cup,Vienna,Austria,FALSE
+1949-09-25,Austria,Czechoslovakia,3,1,Central European International Cup,Vienna,Austria,FALSE
 1949-09-25,Mexico,Cuba,3,0,FIFA World Cup qualification,Mexico City,Mexico,FALSE
 1949-10-01,Northern Ireland,Scotland,2,8,FIFA World Cup qualification,Belfast,Northern Ireland,FALSE
 1949-10-02,Belgium,Switzerland,3,0,Friendly,Brussels,Belgium,FALSE
@@ -3083,14 +3083,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1950-03-05,Italy,Belgium,3,1,Friendly,Bologna,Italy,FALSE
 1950-03-08,Wales,Northern Ireland,0,0,FIFA World Cup qualification,Cardiff,Wales,FALSE
 1950-03-12,Chile,Bolivia,5,0,Friendly,Santiago,Chile,FALSE
-1950-03-19,Austria,Switzerland,3,3,International Cup,Vienna,Austria,FALSE
+1950-03-19,Austria,Switzerland,3,3,Central European International Cup,Vienna,Austria,FALSE
 1950-03-22,Guyana,Trinidad and Tobago,0,1,Friendly,Georgetown,British Guyana,FALSE
 1950-03-24,Guyana,Trinidad and Tobago,1,4,Friendly,Georgetown,British Guyana,FALSE
 1950-03-25,Argentina,Paraguay,2,2,Copa Chevallier Boutell,Buenos Aires,Argentina,FALSE
 1950-03-27,Guyana,Trinidad and Tobago,1,0,Friendly,Georgetown,British Guyana,FALSE
 1950-03-29,Argentina,Paraguay,4,0,Copa Chevallier Boutell,Buenos Aires,Argentina,FALSE
 1950-03-29,Guyana,Trinidad and Tobago,1,2,Friendly,Georgetown,British Guyana,FALSE
-1950-04-02,Austria,Italy,1,0,International Cup,Vienna,Austria,FALSE
+1950-04-02,Austria,Italy,1,0,Central European International Cup,Vienna,Austria,FALSE
 1950-04-02,Spain,Portugal,5,1,FIFA World Cup qualification,Madrid,Spain,FALSE
 1950-04-07,Chile,Uruguay,1,5,Friendly,Santiago,Chile,FALSE
 1950-04-09,Chile,Uruguay,2,1,Friendly,Santiago,Chile,FALSE
@@ -3298,7 +3298,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1951-11-21,Turkey,Germany,0,2,Friendly,Istanbul,Turkey,FALSE
 1951-11-25,Greece,Egypt,1,0,Friendly,Athens,Greece,FALSE
 1951-11-25,Netherlands,Belgium,6,7,Friendly,Rotterdam,Netherlands,FALSE
-1951-11-25,Switzerland,Italy,1,1,International Cup,Lugano,Switzerland,FALSE
+1951-11-25,Switzerland,Italy,1,1,Central European International Cup,Lugano,Switzerland,FALSE
 1951-11-28,England,Austria,2,2,Friendly,London,England,FALSE
 1951-12-08,Venezuela,Panama,4,1,Friendly,Caracas,Venezuela,FALSE
 1951-12-13,Guadeloupe,Trinidad and Tobago,0,2,Friendly,Basse-Terre,Guadeloupe,FALSE
@@ -3385,7 +3385,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1952-09-14,Czechoslovakia,Poland,2,2,Friendly,Prague,Czechoslovakia,FALSE
 1952-09-14,Fiji,New Zealand,0,9,Friendly,Lautoka,Fiji,FALSE
 1952-09-16,Fiji,New Zealand,2,5,Friendly,Suva,Fiji,FALSE
-1952-09-20,Switzerland,Hungary,2,4,International Cup,Berne,Switzerland,FALSE
+1952-09-20,Switzerland,Hungary,2,4,Central European International Cup,Berne,Switzerland,FALSE
 1952-09-21,Denmark,Netherlands,3,2,Friendly,Copenhagen,Denmark,FALSE
 1952-09-21,Finland,Sweden,1,8,Nordic Championship,Helsinki,Finland,FALSE
 1952-09-21,Poland,German DR,3,0,Friendly,Warsaw,Poland,FALSE
@@ -3420,7 +3420,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1952-12-14,Portugal,Argentina,1,3,Friendly,Oeiras,Portugal,FALSE
 1952-12-21,Germany,Yugoslavia,3,2,Friendly,Ludwigshafen,Germany,FALSE
 1952-12-25,France,Belgium,0,1,Friendly,Colombes,France,FALSE
-1952-12-28,Italy,Switzerland,2,0,International Cup,Palermo,Italy,FALSE
+1952-12-28,Italy,Switzerland,2,0,Central European International Cup,Palermo,Italy,FALSE
 1952-12-28,Spain,Germany,2,2,Friendly,Madrid,Spain,FALSE
 1953-01-16,Egypt,Yugoslavia,1,3,Friendly,Cairo,Egypt,FALSE
 1953-02-09,Gambia,Sierra Leone,2,1,Friendly,Banjul,Gambia,FALSE
@@ -3483,7 +3483,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1953-04-19,Netherlands,Belgium,0,2,Friendly,Amsterdam,Netherlands,FALSE
 1953-04-19,Singapore,South Korea,1,3,Friendly,Kallang,Singapore,FALSE
 1953-04-24,Singapore,South Korea,0,0,Friendly,Kallang,Singapore,FALSE
-1953-04-26,Czechoslovakia,Italy,2,0,International Cup,Prague,Czechoslovakia,FALSE
+1953-04-26,Czechoslovakia,Italy,2,0,Central European International Cup,Prague,Czechoslovakia,FALSE
 1953-04-26,Hungary,Austria,1,1,Friendly,Budapest,Hungary,FALSE
 1953-04-26,Silesia,Poland,2,3,Friendly,Chorzów,Poland,FALSE
 1953-04-30,Indonesia,South Korea,1,3,Friendly,So Kon Po,Hong Kong,TRUE
@@ -3495,7 +3495,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1953-05-14,France,Wales,6,1,Friendly,Colombes,France,FALSE
 1953-05-17,Argentina,England,0,0,Friendly,Buenos Aires,Argentina,FALSE
 1953-05-17,Guadeloupe,Martinique,0,2,Friendly,Pointe-à-Pitre,Guadeloupe,FALSE
-1953-05-17,Italy,Hungary,0,3,International Cup,Rome,Italy,FALSE
+1953-05-17,Italy,Hungary,0,3,Central European International Cup,Rome,Italy,FALSE
 1953-05-21,Yugoslavia,Wales,5,2,Friendly,Belgrade,Yugoslavia,FALSE
 1953-05-24,Chile,England,1,2,Friendly,Santiago,Chile,FALSE
 1953-05-25,Finland,Belgium,2,4,FIFA World Cup qualification,Helsinki,Finland,FALSE
@@ -3541,7 +3541,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1953-09-13,Silesia,Poland,3,3,Friendly,Byton,Poland,FALSE
 1953-09-14,Vanuatu,Tahiti,2,4,Friendly,Port Vila,New Hebrides,FALSE
 1953-09-19,Uganda,Burundi,9,1,Friendly,Kampala,Uganda,FALSE
-1953-09-20,Czechoslovakia,Switzerland,5,0,International Cup,Prague,Czechoslovakia,FALSE
+1953-09-20,Czechoslovakia,Switzerland,5,0,Central European International Cup,Prague,Czechoslovakia,FALSE
 1953-09-20,Luxembourg,France,1,6,FIFA World Cup qualification,Luxembourg,Luxembourg,FALSE
 1953-09-20,New Caledonia,Tahiti,5,0,Friendly,Nouméa,New Caledonia,FALSE
 1953-09-23,Belgium,Finland,2,2,FIFA World Cup qualification,Brussels,Belgium,FALSE
@@ -3595,7 +3595,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1953-11-25,France,Republic of Ireland,1,0,FIFA World Cup qualification,Paris,France,FALSE
 1953-11-29,Albania,Poland,2,0,Friendly,Tirana,Albania,FALSE
 1953-11-29,Portugal,Austria,0,0,FIFA World Cup qualification,Oeiras,Portugal,FALSE
-1953-12-13,Italy,Czechoslovakia,3,0,International Cup,Genoa,Italy,FALSE
+1953-12-13,Italy,Czechoslovakia,3,0,Central European International Cup,Genoa,Italy,FALSE
 1953-12-17,France,Luxembourg,8,0,FIFA World Cup qualification,Paris,France,FALSE
 1953-12-27,Haiti,Mexico,0,4,FIFA World Cup qualification,Port-au-Prince,Haiti,FALSE
 1954-01-06,Spain,Turkey,4,1,FIFA World Cup qualification,Madrid,Spain,FALSE
@@ -3768,7 +3768,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1955-03-23,Ecuador,Uruguay,1,5,Copa América,Santiago,Chile,TRUE
 1955-03-23,Paraguay,Peru,1,1,Copa América,Santiago,Chile,TRUE
 1955-03-27,Argentina,Uruguay,6,1,Copa América,Santiago,Chile,TRUE
-1955-03-27,Czechoslovakia,Austria,3,2,International Cup,Brno,Czechoslovakia,FALSE
+1955-03-27,Czechoslovakia,Austria,3,2,Central European International Cup,Brno,Czechoslovakia,FALSE
 1955-03-30,Chile,Argentina,0,1,Copa América,Santiago,Chile,FALSE
 1955-03-30,Germany,Italy,1,2,Friendly,Stuttgart,Germany,FALSE
 1955-03-30,Peru,Uruguay,2,1,Copa América,Santiago,Chile,TRUE
@@ -3776,9 +3776,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1955-04-03,France,Sweden,2,0,Friendly,Colombes,France,FALSE
 1955-04-03,Netherlands,Belgium,1,0,Friendly,Amsterdam,Netherlands,FALSE
 1955-04-20,Northern Ireland,Wales,2,3,British Championship,Belfast,Northern Ireland,FALSE
-1955-04-24,Austria,Hungary,2,2,International Cup,Vienna,Austria,FALSE
+1955-04-24,Austria,Hungary,2,2,Central European International Cup,Vienna,Austria,FALSE
 1955-05-01,Republic of Ireland,Netherlands,1,0,Friendly,Dublin,Republic of Ireland,FALSE
-1955-05-01,Switzerland,Austria,2,3,International Cup,Berne,Switzerland,FALSE
+1955-05-01,Switzerland,Austria,2,3,Central European International Cup,Berne,Switzerland,FALSE
 1955-05-04,Scotland,Portugal,3,0,Friendly,Glasgow,Scotland,FALSE
 1955-05-05,Martinique,Guadeloupe,1,1,Friendly,Fort-de-France,Martinique,FALSE
 1955-05-08,Norway,Hungary,0,5,Friendly,Oslo,Norway,FALSE
@@ -3796,7 +3796,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1955-05-28,Germany,Republic of Ireland,2,1,Friendly,Hamburg,Germany,FALSE
 1955-05-28,Ghana,Nigeria,1,0,Friendly,Accra,Gold Coast,FALSE
 1955-05-29,Hungary,Scotland,3,1,Friendly,Budapest,Hungary,FALSE
-1955-05-29,Italy,Yugoslavia,0,4,International Cup,Turin,Italy,FALSE
+1955-05-29,Italy,Yugoslavia,0,4,Central European International Cup,Turin,Italy,FALSE
 1955-05-29,Romania,Poland,2,2,Friendly,Bucharest,Romania,FALSE
 1955-06-05,Belgium,Czechoslovakia,1,3,Friendly,Brussels,Belgium,FALSE
 1955-06-12,Norway,Romania,0,1,Friendly,Oslo,Norway,FALSE
@@ -3807,7 +3807,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1955-06-19,Switzerland,Spain,0,3,Friendly,Geneva,Switzerland,FALSE
 1955-06-26,Bulgaria,Poland,1,1,Friendly,Sofia,Bulgaria,FALSE
 1955-06-26,Sweden,Russia,0,6,Friendly,Solna,Sweden,FALSE
-1955-06-26,Yugoslavia,Switzerland,0,0,International Cup,Belgrade,Yugoslavia,FALSE
+1955-06-26,Yugoslavia,Switzerland,0,0,Central European International Cup,Belgrade,Yugoslavia,FALSE
 1955-07-03,Iceland,Denmark,0,4,Friendly,Reykjavík,Iceland,FALSE
 1955-07-07,Réunion,Mauritius,1,3,Friendly,Saint-Pierre,Réunion,FALSE
 1955-07-10,Réunion,Madagascar,2,4,Friendly,Saint-Pierre,Réunion,FALSE
@@ -3843,7 +3843,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1955-09-11,Norway,Denmark,1,1,Nordic Championship,Oslo,Norway,FALSE
 1955-09-16,Russia,India,11,1,Friendly,Moscow,Soviet Union,FALSE
 1955-09-17,Australia,South Africa,0,8,Friendly,Adelaide,Australia,FALSE
-1955-09-17,Switzerland,Hungary,4,5,International Cup,Lausanne,Switzerland,FALSE
+1955-09-17,Switzerland,Hungary,4,5,Central European International Cup,Lausanne,Switzerland,FALSE
 1955-09-18,Brazil,Chile,1,1,Copa Bernardo O'Higgins,Rio de Janeiro,Brazil,FALSE
 1955-09-18,Romania,German DR,2,3,Friendly,Bucharest,Romania,FALSE
 1955-09-20,Brazil,Chile,2,1,Copa Bernardo O'Higgins,São Paulo,Brazil,FALSE
@@ -3854,7 +3854,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1955-09-25,Yugoslavia,Germany,3,1,Friendly,Belgrade,Yugoslavia,FALSE
 1955-09-28,Romania,Belgium,1,0,Friendly,Bucharest,Romania,FALSE
 1955-10-01,Australia,South Africa,1,4,Friendly,Newcastle,Australia,FALSE
-1955-10-02,Czechoslovakia,Hungary,1,3,International Cup,Prague,Czechoslovakia,FALSE
+1955-10-02,Czechoslovakia,Hungary,1,3,Central European International Cup,Prague,Czechoslovakia,FALSE
 1955-10-02,Denmark,England,1,5,Friendly,Copenhagen,Denmark,FALSE
 1955-10-08,Northern Ireland,Scotland,2,1,British Championship,Belfast,Northern Ireland,FALSE
 1955-10-09,Japan,Myanmar,0,0,Friendly,Tokyo,Japan,FALSE
@@ -3864,12 +3864,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1955-10-13,Kenya,Zanzibar,8,0,Friendly,Dar es Salaam,Tanganyika,TRUE
 1955-10-15,Tanzania,Uganda,1,5,Friendly,Dar es Salaam,Tanganyika,FALSE
 1955-10-16,Denmark,Sweden,3,3,Nordic Championship,Copenhagen,Denmark,FALSE
-1955-10-16,Hungary,Austria,6,1,International Cup,Budapest,Hungary,FALSE
+1955-10-16,Hungary,Austria,6,1,Central European International Cup,Budapest,Hungary,FALSE
 1955-10-16,Netherlands,Belgium,2,2,Friendly,Rotterdam,Netherlands,FALSE
 1955-10-19,Republic of Ireland,Yugoslavia,1,4,Friendly,Dublin,Republic of Ireland,FALSE
 1955-10-22,Wales,England,2,1,British Championship,Cardiff,Wales,FALSE
 1955-10-23,Russia,France,2,2,Friendly,Moscow,Soviet Union,FALSE
-1955-10-30,Austria,Yugoslavia,2,1,International Cup,Vienna,Austria,FALSE
+1955-10-30,Austria,Yugoslavia,2,1,Central European International Cup,Vienna,Austria,FALSE
 1955-10-30,Ghana,Nigeria,7,0,Friendly,Accra,Gold Coast,FALSE
 1955-11-02,England,Northern Ireland,3,0,British Championship,London,England,FALSE
 1955-11-06,Netherlands,Norway,3,0,Friendly,Amsterdam,Netherlands,FALSE
@@ -3884,7 +3884,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1955-11-20,German DR,Bulgaria,1,0,Friendly,Berlin,German DR,FALSE
 1955-11-20,Portugal,Sweden,2,6,Friendly,Oeiras,Portugal,FALSE
 1955-11-23,Wales,Austria,1,2,Friendly,Wrexham,Wales,FALSE
-1955-11-27,Hungary,Italy,2,0,International Cup,Budapest,Hungary,FALSE
+1955-11-27,Hungary,Italy,2,0,Central European International Cup,Budapest,Hungary,FALSE
 1955-11-27,Republic of Ireland,Spain,2,2,Friendly,Dublin,Republic of Ireland,FALSE
 1955-11-30,England,Spain,4,1,Friendly,London,England,FALSE
 1955-12-14,Suriname,Trinidad and Tobago,5,2,Friendly,Paramaribo,Suriname,FALSE
@@ -3958,18 +3958,18 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1956-04-24,Cambodia,Malaysia,3,2,AFC Asian Cup qualification,Phnom Penh,Cambodia,FALSE
 1956-04-25,Italy,Brazil,3,0,Friendly,Milan,Italy,FALSE
 1956-04-26,Martinique,Guadeloupe,3,0,Friendly,Fort-de-France,Martinique,FALSE
-1956-04-29,Hungary,Yugoslavia,2,2,International Cup,Budapest,Hungary,FALSE
+1956-04-29,Hungary,Yugoslavia,2,2,Central European International Cup,Budapest,Hungary,FALSE
 1956-05-01,Saarland,Switzerland,1,1,Friendly,Saarbrücken,Saarland,FALSE
 1956-05-01,Turkey,Brazil,0,1,Friendly,Istanbul,Turkey,FALSE
 1956-05-02,Scotland,Austria,1,1,Friendly,Glasgow,Scotland,FALSE
 1956-05-03,Vietnam Republic,Malaysia,4,0,AFC Asian Cup qualification,Saigon,Vietnam Republic,FALSE
 1956-05-09,England,Brazil,4,2,Friendly,London,England,FALSE
 1956-05-10,Netherlands,Republic of Ireland,1,4,Friendly,Rotterdam,Netherlands,FALSE
-1956-05-10,Switzerland,Czechoslovakia,1,6,International Cup,Geneva,Switzerland,FALSE
+1956-05-10,Switzerland,Czechoslovakia,1,6,Central European International Cup,Geneva,Switzerland,FALSE
 1956-05-16,Sweden,England,0,0,Friendly,Solna,Sweden,FALSE
 1956-05-20,Finland,England,1,5,Friendly,Helsinki,Finland,FALSE
 1956-05-20,Guadeloupe,Martinique,2,2,Friendly,Basse-Terre,Guadeloupe,FALSE
-1956-05-20,Hungary,Czechoslovakia,2,4,International Cup,Budapest,Hungary,FALSE
+1956-05-20,Hungary,Czechoslovakia,2,4,Central European International Cup,Budapest,Hungary,FALSE
 1956-05-23,Russia,Denmark,5,1,Friendly,Moscow,Soviet Union,FALSE
 1956-05-24,Malaysia,Vietnam Republic,3,3,AFC Asian Cup qualification,Kuala Lumpur,Malaya,TRUE
 1956-05-26,Germany,England,1,3,Friendly,Berlin,Germany,FALSE
@@ -3984,7 +3984,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1956-06-17,India,China PR,0,1,Friendly,New Delhi,India,FALSE
 1956-06-17,Paraguay,Brazil,2,5,Copa Oswaldo Cruz,Asunción,Paraguay,FALSE
 1956-06-17,Romania,Sweden,0,2,Friendly,Bucharest,Romania,FALSE
-1956-06-17,Yugoslavia,Austria,1,1,International Cup,Zagreb,Yugoslavia,FALSE
+1956-06-17,Yugoslavia,Austria,1,1,Central European International Cup,Zagreb,Yugoslavia,FALSE
 1956-06-24,Argentina,Italy,1,0,Friendly,Avellaneda,Argentina,FALSE
 1956-06-24,Brazil,Uruguay,2,0,Atlantic Cup,Rio de Janeiro,Brazil,FALSE
 1956-06-24,Denmark,Norway,2,3,Nordic Championship,Copenhagen,Denmark,FALSE
@@ -4033,7 +4033,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1956-09-15,Switzerland,Netherlands,2,3,Friendly,Lausanne,Switzerland,FALSE
 1956-09-16,Finland,Denmark,0,4,Nordic Championship,Helsinki,Finland,FALSE
 1956-09-16,Norway,Sweden,3,1,Nordic Championship,Oslo,Norway,FALSE
-1956-09-16,Yugoslavia,Hungary,1,3,International Cup,Belgrade,Yugoslavia,FALSE
+1956-09-16,Yugoslavia,Hungary,1,3,Central European International Cup,Belgrade,Yugoslavia,FALSE
 1956-09-17,Hong Kong,South Korea,2,4,Friendly,So Kon Po,Hong Kong,FALSE
 1956-09-20,German DR,Indonesia,3,1,Friendly,Karl-Marx-Stadt,German DR,FALSE
 1956-09-23,Russia,Hungary,0,1,Friendly,Moscow,Soviet Union,FALSE
@@ -4041,7 +4041,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1956-09-28,Guyana,Suriname,2,1,Friendly,Georgetown,British Guyana,FALSE
 1956-09-30,Austria,Luxembourg,7,0,FIFA World Cup qualification,Vienna,Austria,FALSE
 1956-09-30,Guyana,Suriname,1,2,Friendly,Georgetown,British Guyana,FALSE
-1956-09-30,Yugoslavia,Czechoslovakia,1,2,International Cup,Belgrade,Yugoslavia,FALSE
+1956-09-30,Yugoslavia,Czechoslovakia,1,2,Central European International Cup,Belgrade,Yugoslavia,FALSE
 1956-10-03,Republic of Ireland,Denmark,2,1,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
 1956-10-04,China PR,North Vietnam,5,3,Friendly,Beijing,China PR,FALSE
 1956-10-06,Nigeria,Togo,1,1,Friendly,Lagos,Nigeria,FALSE
@@ -4068,7 +4068,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1956-11-10,Philippines,United States,0,4,Friendly,Manila,Philippines,FALSE
 1956-11-10,Sierra Leone,Gambia,1,0,Friendly,Freetown,Sierra Leone,FALSE
 1956-11-11,France,Belgium,6,3,FIFA World Cup qualification,Colombes,France,FALSE
-1956-11-11,Switzerland,Italy,1,1,International Cup,Berne,Switzerland,FALSE
+1956-11-11,Switzerland,Italy,1,1,Central European International Cup,Berne,Switzerland,FALSE
 1956-11-14,Argentina,Uruguay,2,2,Friendly,Buenos Aires,Argentina,FALSE
 1956-11-14,England,Wales,3,1,British Championship,London,England,FALSE
 1956-11-16,Ethiopia,Sudan,2,1,Friendly,Addis Ababa,Ethiopia,FALSE
@@ -4084,7 +4084,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1956-11-30,Tanzania,Zanzibar,2,3,Friendly,Kampala,Uganda,TRUE
 1956-12-01,Uganda,Kenya,3,2,Friendly,Kampala,Uganda,FALSE
 1956-12-05,England,Denmark,5,2,FIFA World Cup qualification,Wolverhampton,England,FALSE
-1956-12-09,Italy,Austria,2,1,International Cup,Genoa,Italy,FALSE
+1956-12-09,Italy,Austria,2,1,Central European International Cup,Genoa,Italy,FALSE
 1956-12-12,Australia,India,1,7,Friendly,Sydney,Australia,FALSE
 1956-12-13,Singapore,Bulgaria,2,10,Friendly,Kallang,Singapore,FALSE
 1956-12-16,Ghana,Sierra Leone,4,3,Friendly,Accra,Gold Coast,FALSE
@@ -4139,7 +4139,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1957-04-09,Peru,Argentina,1,4,Friendly,Lima,Peru,FALSE
 1957-04-10,Northern Ireland,Wales,0,0,British Championship,Belfast,Northern Ireland,FALSE
 1957-04-13,Peru,Brazil,1,1,FIFA World Cup qualification,Lima,Peru,FALSE
-1957-04-14,Austria,Switzerland,4,0,International Cup,Vienna,Austria,FALSE
+1957-04-14,Austria,Switzerland,4,0,Central European International Cup,Vienna,Austria,FALSE
 1957-04-17,Mauritius,Réunion,1,0,Friendly,Curepipe,Mauritius,FALSE
 1957-04-20,Martinique,Guadeloupe,6,1,Friendly,Fort-de-France,Martinique,FALSE
 1957-04-21,Brazil,Peru,1,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,FALSE
@@ -4153,10 +4153,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1957-05-08,England,Republic of Ireland,5,1,FIFA World Cup qualification,London,England,FALSE
 1957-05-08,Scotland,Spain,4,2,FIFA World Cup qualification,Glasgow,Scotland,FALSE
 1957-05-12,Indonesia,China PR,2,0,FIFA World Cup qualification,Jakarta,Indonesia,FALSE
-1957-05-12,Yugoslavia,Italy,6,1,International Cup,Zagreb,Yugoslavia,FALSE
+1957-05-12,Yugoslavia,Italy,6,1,Central European International Cup,Zagreb,Yugoslavia,FALSE
 1957-05-15,Denmark,England,1,4,FIFA World Cup qualification,Copenhagen,Denmark,FALSE
 1957-05-15,Guadeloupe,Martinique,5,2,Friendly,Basse-Terre,Guadeloupe,FALSE
-1957-05-18,Czechoslovakia,Yugoslavia,1,0,International Cup,Bratislava,Czechoslovakia,FALSE
+1957-05-18,Czechoslovakia,Yugoslavia,1,0,Central European International Cup,Bratislava,Czechoslovakia,FALSE
 1957-05-19,German DR,Wales,2,1,FIFA World Cup qualification,Leipzig,German DR,FALSE
 1957-05-19,Republic of Ireland,England,1,1,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
 1957-05-19,Poland,Turkey,0,1,Friendly,Warsaw,Poland,FALSE
@@ -4273,7 +4273,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1957-10-05,Northern Ireland,Scotland,1,1,British Championship,Belfast,Northern Ireland,FALSE
 1957-10-06,Bolivia,Argentina,2,0,FIFA World Cup qualification,La Paz,Bolivia,FALSE
 1957-10-06,Hungary,France,2,0,Friendly,Budapest,Hungary,FALSE
-1957-10-13,Austria,Czechoslovakia,2,2,International Cup,Vienna,Austria,FALSE
+1957-10-13,Austria,Czechoslovakia,2,2,Central European International Cup,Vienna,Austria,FALSE
 1957-10-13,Chile,Argentina,0,2,FIFA World Cup qualification,Santiago,Chile,FALSE
 1957-10-13,Denmark,Finland,3,0,Nordic Championship,Copenhagen,Denmark,FALSE
 1957-10-13,Sweden,Norway,5,2,Nordic Championship,Solna,Sweden,FALSE
@@ -4322,7 +4322,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1958-03-02,Malaysia,Singapore,3,1,Friendly,Kuala Lumpur,Malaya,FALSE
 1958-03-13,France,Spain,2,2,Friendly,Paris,France,FALSE
 1958-03-19,Germany,Spain,2,0,Friendly,Frankfurt am Main,Germany,FALSE
-1958-03-23,Austria,Italy,3,2,International Cup,Vienna,Austria,FALSE
+1958-03-23,Austria,Italy,3,2,Central European International Cup,Vienna,Austria,FALSE
 1958-04-02,Czechoslovakia,Germany,3,2,Friendly,Prague,Czechoslovakia,FALSE
 1958-04-03,Morocco,Libya,3,1,Friendly,Casablanca,Morocco,FALSE
 1958-04-06,Uruguay,Argentina,1,0,Friendly,Montevideo,Uruguay,FALSE
@@ -4428,7 +4428,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1958-09-14,New Caledonia,New Zealand,1,2,Friendly,Nouméa,New Caledonia,FALSE
 1958-09-14,Norway,Sweden,0,2,Nordic Championship,Oslo,Norway,FALSE
 1958-09-14,Poland,Hungary,1,3,Friendly,Chorzów,Poland,FALSE
-1958-09-20,Czechoslovakia,Switzerland,2,1,International Cup,Bratislava,Czechoslovakia,FALSE
+1958-09-20,Czechoslovakia,Switzerland,2,1,Central European International Cup,Bratislava,Czechoslovakia,FALSE
 1958-09-24,Denmark,Germany,1,1,Friendly,Copenhagen,Denmark,FALSE
 1958-09-28,Belgium,Netherlands,2,3,Friendly,Antwerp,Belgium,FALSE
 1958-09-28,Russia,Hungary,3,1,UEFA Euro qualification,Moscow,Soviet Union,FALSE
@@ -4468,7 +4468,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1958-11-26,England,Wales,2,2,British Championship,Birmingham,England,FALSE
 1958-12-03,Greece,France,1,1,UEFA Euro qualification,Athens,Greece,FALSE
 1958-12-07,Turkey,Bulgaria,0,0,Friendly,Ankara,Turkey,FALSE
-1958-12-13,Italy,Czechoslovakia,1,1,International Cup,Genoa,Italy,FALSE
+1958-12-13,Italy,Czechoslovakia,1,1,Central European International Cup,Genoa,Italy,FALSE
 1958-12-18,Turkey,Czechoslovakia,1,0,Friendly,Istanbul,Turkey,FALSE
 1958-12-21,Germany,Bulgaria,3,0,Friendly,Augsburg,Germany,FALSE
 1958-12-25,Hong Kong,Japan,5,2,Friendly,So Kon Po,Hong Kong,FALSE
@@ -4519,7 +4519,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1959-04-19,Hungary,Yugoslavia,4,0,Friendly,Budapest,Hungary,FALSE
 1959-04-19,Netherlands,Belgium,2,2,Friendly,Amsterdam,Netherlands,FALSE
 1959-04-22,Northern Ireland,Wales,4,1,British Championship,Belfast,Northern Ireland,FALSE
-1959-04-26,Switzerland,Yugoslavia,1,5,International Cup,Basel,Switzerland,FALSE
+1959-04-26,Switzerland,Yugoslavia,1,5,Central European International Cup,Basel,Switzerland,FALSE
 1959-04-26,Turkey,Romania,2,0,UEFA Euro qualification,Istanbul,Turkey,FALSE
 1959-05-01,German DR,Hungary,0,1,Friendly,Dresden,German DR,FALSE
 1959-05-01,Uruguay,Paraguay,1,3,Friendly,Montevideo,Uruguay,FALSE
@@ -4610,11 +4610,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1959-10-21,Germany,Netherlands,7,0,Friendly,Cologne,Germany,FALSE
 1959-10-22,North Korea,North Vietnam,5,0,Friendly,Pyongyang,North Korea,FALSE
 1959-10-25,Bulgaria,Yugoslavia,1,1,UEFA Euro qualification,Sofia,Bulgaria,FALSE
-1959-10-25,Hungary,Switzerland,8,0,International Cup,Budapest,Hungary,FALSE
+1959-10-25,Hungary,Switzerland,8,0,Central European International Cup,Budapest,Hungary,FALSE
 1959-10-25,North Korea,China PR,1,0,Friendly,Pyongyang,North Korea,FALSE
 1959-10-28,China PR,North Vietnam,2,0,Friendly,Pyongyang,North Korea,TRUE
 1959-10-28,England,Sweden,2,3,Friendly,London,England,FALSE
-1959-11-01,Czechoslovakia,Italy,2,1,International Cup,Prague,Czechoslovakia,FALSE
+1959-11-01,Czechoslovakia,Italy,2,1,Central European International Cup,Prague,Czechoslovakia,FALSE
 1959-11-01,Republic of Ireland,Sweden,3,2,Friendly,Dublin,Republic of Ireland,FALSE
 1959-11-04,Netherlands,Norway,7,1,Friendly,Rotterdam,Netherlands,FALSE
 1959-11-08,Benin,Nigeria,0,1,Friendly,Cotonou,Dahomey,FALSE
@@ -4626,7 +4626,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1959-11-22,Spain,Austria,6,3,Friendly,Valencia,Spain,FALSE
 1959-11-28,Nigeria,Benin,10,1,Friendly,Lagos,Nigeria,FALSE
 1959-11-29,Israel,Poland,1,1,Friendly,Ramat-Gan,Israel,FALSE
-1959-11-29,Italy,Hungary,1,1,International Cup,Florence,Italy,FALSE
+1959-11-29,Italy,Hungary,1,1,Central European International Cup,Florence,Italy,FALSE
 1959-12-02,Greece,Denmark,1,3,Friendly,Athens,Greece,FALSE
 1959-12-05,Brazil,Paraguay,3,2,Copa América,Guayaquil,Ecuador,TRUE
 1959-12-05,Iran,Israel,3,0,AFC Asian Cup qualification,Ernakulam,India,TRUE
@@ -4654,7 +4654,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1959-12-27,Ecuador,Brazil,1,2,Friendly,Guayaquil,Ecuador,FALSE
 1960-01-01,Morocco,Yugoslavia,0,5,Friendly,Casablanca,Morocco,FALSE
 1960-01-03,Tunisia,Yugoslavia,1,5,Friendly,Tunis,Tunisia,FALSE
-1960-01-06,Italy,Switzerland,3,0,International Cup,Naples,Italy,FALSE
+1960-01-06,Italy,Switzerland,3,0,Central European International Cup,Naples,Italy,FALSE
 1960-01-08,Egypt,Yugoslavia,0,1,Friendly,Cairo,United Arab Republic,TRUE
 1960-01-27,Guinea-Bissau,Gambia,3,2,Friendly,Bissau,Guinea-Bissau,FALSE
 1960-01-31,Guinea-Bissau,Sierra Leone,3,4,Friendly,Kumasi,Ghana,TRUE

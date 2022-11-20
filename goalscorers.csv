@@ -3919,6 +3919,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1984-12-16,Iran,Kuwait,Iran,Nasser Mohammadkhani,80,FALSE,FALSE
 1984-12-16,Saudi Arabia,China PR,Saudi Arabia,Shaye Al-Nafisah,10,FALSE,FALSE
 1984-12-16,Saudi Arabia,China PR,Saudi Arabia,Majed Abdullah,46,FALSE,FALSE
+1985-08-21,France,Uruguay,France,Dominique Rocheteau,4,FALSE,FALSE
+1985-08-21,France,Uruguay,France,José Touré,56,FALSE,FALSE
 1986-03-07,Egypt,Senegal,Senegal,Thierno Youm,67,FALSE,FALSE
 1986-03-07,Ivory Coast,Mozambique,Ivory Coast,Abdoulaye Traoré,25,FALSE,FALSE
 1986-03-07,Ivory Coast,Mozambique,Ivory Coast,Abdoulaye Traoré,74,FALSE,FALSE
@@ -4650,6 +4652,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1992-11-08,China PR,United Arab Emirates,United Arab Emirates,Khalid Ismail,10,FALSE,FALSE
 1992-11-08,China PR,United Arab Emirates,China PR,Hao Haidong,15,FALSE,FALSE
 1992-11-08,Japan,Saudi Arabia,Japan,Takuya Takagi,36,FALSE,FALSE
+1993-02-24,Argentina,Denmark,Denmark,Néstor Craviotto,12,TRUE,FALSE
+1993-02-24,Argentina,Denmark,Argentina,Claudio Caniggia,30,FALSE,FALSE
 1993-06-15,Ecuador,Venezuela,Ecuador,Carlos Muñoz,19,FALSE,FALSE
 1993-06-15,Ecuador,Venezuela,Ecuador,Raúl Noriega,32,FALSE,FALSE
 1993-06-15,Ecuador,Venezuela,Ecuador,Ángel Fernández,57,FALSE,FALSE
@@ -10764,3 +10768,6 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2022-02-05,Cameroon,Burkina Faso,Cameroon,Stéphane Bahoken,71,FALSE,FALSE
 2022-02-05,Cameroon,Burkina Faso,Cameroon,Vincent Aboubakar,85,FALSE,FALSE
 2022-02-05,Cameroon,Burkina Faso,Cameroon,Vincent Aboubakar,87,FALSE,FALSE
+2022-06-01,Italy,Argentina,Argentina,Lautaro Martínez,28,FALSE,FALSE
+2022-06-01,Italy,Argentina,Argentina,Ángel Di María,45,FALSE,FALSE
+2022-06-01,Italy,Argentina,Argentina,Paulo Dybala,90,FALSE,FALSE
