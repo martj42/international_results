@@ -4822,15 +4822,15 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1960-10-14,South Korea,Vietnam Republic,5,1,AFC Asian Cup,Seoul,South Korea,FALSE
 1960-10-14,Tanzania,Zanzibar,4,2,Friendly,Kampala,Uganda,TRUE
 1960-10-15,Uganda,Kenya,1,1,Friendly,Kampala,Uganda,FALSE
+1960-10-16,Taiwan,Vietnam Republic,2,0,AFC Asian Cup,Seoul,South Korea,TRUE
 1960-10-17,South Korea,Israel,3,0,AFC Asian Cup,Seoul,South Korea,FALSE
-1960-10-17,Taiwan,Vietnam Republic,2,0,AFC Asian Cup,Seoul,South Korea,TRUE
 1960-10-19,Israel,Vietnam Republic,5,1,AFC Asian Cup,Seoul,South Korea,TRUE
 1960-10-19,Luxembourg,England,0,9,FIFA World Cup qualification,Luxembourg,Luxembourg,FALSE
 1960-10-19,Sweden,Belgium,2,0,FIFA World Cup qualification,Solna,Sweden,FALSE
-1960-10-20,Israel,Taiwan,1,0,AFC Asian Cup,Seoul,South Korea,TRUE
 1960-10-21,South Korea,Taiwan,1,0,AFC Asian Cup,Seoul,South Korea,FALSE
 1960-10-22,Wales,Scotland,2,0,British Championship,Cardiff,Wales,FALSE
 1960-10-23,Sweden,Denmark,2,0,Nordic Championship,Gothenburg,Sweden,FALSE
+1960-10-23,Israel,Taiwan,1,0,AFC Asian Cup,Seoul,South Korea,TRUE
 1960-10-26,England,Spain,4,2,Friendly,London,England,FALSE
 1960-10-26,Northern Ireland,Germany,3,4,FIFA World Cup qualification,Belfast,Northern Ireland,FALSE
 1960-10-29,Nigeria,Ghana,1,1,Friendly,Lagos,Nigeria,FALSE
@@ -5647,8 +5647,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1964-05-27,United States,England,0,10,Friendly,New York,United States,FALSE
 1964-05-29,Israel,India,2,0,AFC Asian Cup,Jaffa,Israel,FALSE
 1964-05-30,Brazil,England,5,1,Friendly,Rio de Janeiro,Brazil,FALSE
+1964-05-30,Hong Kong,South Korea,0,1,AFC Asian Cup,Jerusalem,Israel,TRUE
 1964-05-31,Argentina,Portugal,2,0,Friendly,Rio de Janeiro,Brazil,TRUE
-1964-05-31,Hong Kong,South Korea,0,1,AFC Asian Cup,Jerusalem,Israel,TRUE
 1964-06-02,Hong Kong,India,1,3,AFC Asian Cup,Jaffa,Israel,TRUE
 1964-06-03,Brazil,Argentina,0,3,Friendly,São Paulo,Brazil,FALSE
 1964-06-03,Israel,South Korea,2,1,AFC Asian Cup,Ramat-Gan,Israel,FALSE
@@ -9956,8 +9956,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1976-06-09,Brazil,Paraguay,3,1,Copa Oswaldo Cruz,Rio de Janeiro,Brazil,FALSE
 1976-06-09,Uruguay,Argentina,0,3,Copa Newton,Montevideo,Uruguay,FALSE
 1976-06-10,Indonesia,Malaysia,1,2,Indonesia Tournament,Jakarta,Indonesia,FALSE
-1976-06-10,Iran,China PR,2,0,AFC Asian Cup,Tehran,Iran,FALSE
-1976-06-10,Iraq,Kuwait,2,3,AFC Asian Cup,Tehran,Iran,TRUE
+1976-06-11,Iran,China PR,2,0,AFC Asian Cup,Tehran,Iran,FALSE
+1976-06-11,Iraq,Kuwait,2,3,AFC Asian Cup,Tehran,Iran,TRUE
 1976-06-12,Hungary,Austria,2,0,Friendly,Budapest,Hungary,FALSE
 1976-06-12,Indonesia,Myanmar,1,1,Indonesia Tournament,Jakarta,Indonesia,FALSE
 1976-06-13,China PR,Iraq,1,0,AFC Asian Cup,Tehran,Iran,TRUE
@@ -15396,7 +15396,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1988-09-14,Norway,Scotland,1,2,FIFA World Cup qualification,Oslo,Norway,FALSE
 1988-09-14,Spain,Yugoslavia,1,2,Friendly,Oviedo,Spain,FALSE
 1988-09-15,Honduras,Paraguay,0,2,Friendly,Tegucigalpa,Honduras,FALSE
-1988-09-15,Saudi Arabia,Iran,1,0,AFC Asian Cup,Doha,Qatar,TRUE
 1988-09-20,Czechoslovakia,Austria,4,2,Friendly,Prague,Czechoslovakia,FALSE
 1988-09-20,Romania,Albania,3,0,Friendly,Constanţa,Romania,FALSE
 1988-09-21,German DR,Poland,1,2,Friendly,Cottbus,German DR,FALSE
@@ -15573,6 +15572,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1988-12-14,Egypt,Switzerland,1,3,Friendly,Cairo,Egypt,FALSE
 1988-12-14,South Korea,China PR,2,1,AFC Asian Cup,Doha,Qatar,TRUE
 1988-12-14,Uruguay,Peru,3,0,Friendly,Montevideo,Uruguay,FALSE
+1988-12-15,Saudi Arabia,Iran,1,0,AFC Asian Cup,Doha,Qatar,TRUE
 1988-12-15,Morocco,Gabon,5,2,Friendly,Rabat,Morocco,FALSE
 1988-12-15,New Zealand,Taiwan,4,1,FIFA World Cup qualification,Auckland,New Zealand,FALSE
 1988-12-17,China PR,Iran,0,0,AFC Asian Cup,Doha,Qatar,TRUE

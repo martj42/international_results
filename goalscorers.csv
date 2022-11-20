@@ -1555,6 +1555,33 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1956-02-12,Chile,Paraguay,Chile,Enrique Hormazábal,41,FALSE,FALSE
 1956-02-12,Chile,Paraguay,Chile,Jaime Ramírez,51,FALSE,FALSE
 1956-02-15,Uruguay,Argentina,Uruguay,Javier Ambrois,23,FALSE,FALSE
+1956-09-01,Hong Kong,Israel,Hong Kong,Au Chi Yin,12,FALSE,FALSE
+1956-09-01,Hong Kong,Israel,Israel,Yehoshua Glazer,37,FALSE,FALSE
+1956-09-01,Hong Kong,Israel,Hong Kong,Au Chi Yin,66,FALSE,FALSE
+1956-09-01,Hong Kong,Israel,Israel,Nahum Stelmach,69,FALSE,FALSE
+1956-09-01,Hong Kong,Israel,Israel,Yehoshua Glazer,76,FALSE,FALSE
+1956-09-06,Hong Kong,South Korea,Hong Kong,Tang Yee Kit,10,FALSE,FALSE
+1956-09-06,Hong Kong,South Korea,Hong Kong,zh:鄧宜杰,39,FALSE,FALSE
+1956-09-06,Hong Kong,South Korea,South Korea,Kim Ji-sung,45,FALSE,FALSE
+1956-09-06,Hong Kong,South Korea,South Korea,Choi Kwang-seok,62,FALSE,FALSE
+1956-09-08,Israel,South Korea,South Korea,Woo Sang-kwon,52,FALSE,FALSE
+1956-09-08,Israel,South Korea,South Korea,Sung Nak-woon,64,FALSE,FALSE
+1956-09-08,Israel,South Korea,Israel,Nahum Stelmach,71,FALSE,FALSE
+1956-09-09,Hong Kong,Vietnam Republic,Vietnam Republic,Trần Văn Tổng,30,FALSE,FALSE
+1956-09-09,Hong Kong,Vietnam Republic,Hong Kong,Chu Wing Wah,59,FALSE,TRUE
+1956-09-09,Hong Kong,Vietnam Republic,Vietnam Republic,Lê Hữu Đức,64,FALSE,FALSE
+1956-09-09,Hong Kong,Vietnam Republic,Hong Kong,Ko Po Keung,79,FALSE,FALSE
+1956-09-12,Israel,Vietnam Republic,Israel,Nahum Stelmach,14,FALSE,FALSE
+1956-09-12,Israel,Vietnam Republic,Israel,Nahum Stelmach,27,FALSE,FALSE
+1956-09-12,Israel,Vietnam Republic,Vietnam Republic,Trần Văn Tổng,58,FALSE,FALSE
+1956-09-15,South Korea,Vietnam Republic,South Korea,Sung Nak-woon,5,FALSE,FALSE
+1956-09-15,South Korea,Vietnam Republic,Vietnam Republic,Trải Văn Đào,20,FALSE,FALSE
+1956-09-15,South Korea,Vietnam Republic,South Korea,Woo Sang-kwon,41,FALSE,TRUE
+1956-09-15,South Korea,Vietnam Republic,Vietnam Republic,Lê Hữu Đức,51,FALSE,FALSE
+1956-09-15,South Korea,Vietnam Republic,South Korea,Choi Chung-min,57,FALSE,FALSE
+1956-09-15,South Korea,Vietnam Republic,South Korea,Woo Sang-kwon,58,FALSE,FALSE
+1956-09-15,South Korea,Vietnam Republic,Vietnam Republic,Lê Hữu Đức,63,FALSE,FALSE
+1956-09-15,South Korea,Vietnam Republic,South Korea,Choi Chung-min,66,FALSE,FALSE
 1957-02-10,Sudan,Egypt,Egypt,Raafat Attia,21,FALSE,TRUE
 1957-02-10,Sudan,Egypt,Sudan,Boraî Bashir,58,FALSE,FALSE
 1957-02-10,Sudan,Egypt,Egypt,Ad-Diba,72,FALSE,FALSE
@@ -1940,6 +1967,25 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1960-07-10,Russia,Yugoslavia,Yugoslavia,Milan Galić,43,FALSE,FALSE
 1960-07-10,Russia,Yugoslavia,Russia,Slava Metreveli,49,FALSE,FALSE
 1960-07-10,Russia,Yugoslavia,Russia,Viktor Ponedelnik,113,FALSE,FALSE
+1960-10-14,South Korea,Vietnam Republic,South Korea,Cho Yoon-ok,15,FALSE,FALSE
+1960-10-14,South Korea,Vietnam Republic,South Korea,Woo Sang-kwon,27,FALSE,FALSE
+1960-10-14,South Korea,Vietnam Republic,South Korea,Choi Chung-min,47,FALSE,FALSE
+1960-10-14,South Korea,Vietnam Republic,South Korea,Moon Jung-sik,56,FALSE,FALSE
+1960-10-14,South Korea,Vietnam Republic,Vietnam Republic,Nguyễn Văn Tu,70,FALSE,FALSE
+1960-10-14,South Korea,Vietnam Republic,South Korea,Cho Yoon-ok,71,FALSE,FALSE
+1960-10-16,Taiwan,Vietnam Republic,Taiwan,Luk Man Wai,51,FALSE,FALSE
+1960-10-16,Taiwan,Vietnam Republic,Taiwan,Yiu Cheuk Yin,NA,FALSE,FALSE
+1960-10-17,South Korea,Israel,South Korea,Cho Yoon-ok,17,FALSE,FALSE
+1960-10-17,South Korea,Israel,South Korea,Woo Sang-kwon,30,FALSE,FALSE
+1960-10-17,South Korea,Israel,South Korea,Cho Yoon-ok,60,FALSE,FALSE
+1960-10-19,Israel,Vietnam Republic,Israel,Rafi Levi,13,FALSE,FALSE
+1960-10-19,Israel,Vietnam Republic,Israel,Nahum Stelmach,18,FALSE,FALSE
+1960-10-19,Israel,Vietnam Republic,Israel,Shlomo Levi,25,FALSE,FALSE
+1960-10-19,Israel,Vietnam Republic,Israel,Avraham Menchel,32,FALSE,FALSE
+1960-10-19,Israel,Vietnam Republic,Vietnam Republic,Trần Văn Nhung,68,FALSE,TRUE
+1960-10-19,Israel,Vietnam Republic,Israel,Amnon Aharonskind,70,FALSE,FALSE
+1960-10-21,South Korea,Taiwan,South Korea,Moon Jung-sik,54,FALSE,FALSE
+1960-10-23,Israel,Taiwan,Israel,Shlomo Levi,72,FALSE,FALSE
 1962-01-14,Ethiopia,Tunisia,Tunisia,Ammar Merrichkou,13,FALSE,FALSE
 1962-01-14,Ethiopia,Tunisia,Tunisia,Moncef Cherif,29,FALSE,FALSE
 1962-01-14,Ethiopia,Tunisia,Ethiopia,Luciano Vassallo,32,FALSE,TRUE
@@ -2171,6 +2217,19 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1963-12-01,Ghana,Sudan,Ghana,Edward Aggrey-Fynn,62,FALSE,TRUE
 1963-12-01,Ghana,Sudan,Ghana,Edward Acquah,72,FALSE,FALSE
 1963-12-01,Ghana,Sudan,Ghana,Edward Acquah,82,FALSE,FALSE
+1964-05-26,Israel,Hong Kong,Israel,Mordechai Spiegler,76,FALSE,FALSE
+1964-05-27,India,South Korea,India,K. Appalaraju,2,FALSE,FALSE
+1964-05-27,India,South Korea,India,Inder Singh,57,FALSE,FALSE
+1964-05-29,Israel,India,Israel,Mordechai Spiegler,29,FALSE,TRUE
+1964-05-29,Israel,India,Israel,Yohai Aharoni,76,FALSE,FALSE
+1964-05-30,Hong Kong,South Korea,South Korea,Park Seung-ok,74,FALSE,FALSE
+1964-06-02,Hong Kong,India,Hong Kong,Cheung Yiu Kwok,39,FALSE,FALSE
+1964-06-02,Hong Kong,India,India,Inder Singh,45,FALSE,FALSE
+1964-06-02,Hong Kong,India,India,Sukumar Samajpati,60,FALSE,FALSE
+1964-06-02,Hong Kong,India,India,Chuni Goswami,77,FALSE,FALSE
+1964-06-03,Israel,South Korea,Israel,Moshe Leon,20,FALSE,FALSE
+1964-06-03,Israel,South Korea,Israel,Gideon Tish,38,FALSE,FALSE
+1964-06-03,Israel,South Korea,South Korea,Lee Soon-myung,79,FALSE,FALSE
 1964-06-17,Denmark,Russia,Russia,Valery Voronin,19,FALSE,FALSE
 1964-06-17,Denmark,Russia,Russia,Viktor Ponedelnik,40,FALSE,FALSE
 1964-06-17,Denmark,Russia,Russia,Valentin Ivanov,87,FALSE,FALSE
@@ -2420,6 +2479,38 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1968-01-19,Ghana,Ivory Coast,Ivory Coast,Henri Konan,NA,FALSE,TRUE
 1968-01-21,DR Congo,Ghana,DR Congo,Pierre Kalala Mukendi,66,FALSE,FALSE
 1968-01-21,Ethiopia,Ivory Coast,Ivory Coast,Laurent Pokou,28,FALSE,FALSE
+1968-05-10,Iran,Hong Kong,Iran,Homayoun Behzadi,70,FALSE,FALSE
+1968-05-10,Iran,Hong Kong,Iran,Ali Jabbari,89,FALSE,FALSE
+1968-05-11,Myanmar,Taiwan,Myanmar,Hla Htay,14,FALSE,FALSE
+1968-05-11,Myanmar,Taiwan,Taiwan,Wong Chi-keung,64,FALSE,FALSE
+1968-05-12,Hong Kong,Israel,Israel,Mordechai Spiegler,10,FALSE,FALSE
+1968-05-12,Hong Kong,Israel,Israel,Giora Spiegel,52,FALSE,FALSE
+1968-05-12,Hong Kong,Israel,Israel,Giora Spiegel,53,FALSE,FALSE
+1968-05-12,Hong Kong,Israel,Israel,Moshe Romano,61,FALSE,FALSE
+1968-05-12,Hong Kong,Israel,Israel,Mordechai Spiegler,65,FALSE,FALSE
+1968-05-12,Hong Kong,Israel,Israel,Roby Young,70,FALSE,FALSE
+1968-05-12,Hong Kong,Israel,Hong Kong,Yuan Kuan Yick,75,FALSE,FALSE
+1968-05-13,Iran,Taiwan,Iran,Homayoun Behzadi,34,FALSE,FALSE
+1968-05-13,Iran,Taiwan,Iran,Hossein Kalani,35,FALSE,FALSE
+1968-05-13,Iran,Taiwan,Iran,Akbar Eftekhari,51,FALSE,FALSE
+1968-05-13,Iran,Taiwan,Iran,Gholam Hossein Farzami,57,FALSE,FALSE
+1968-05-14,Myanmar,Israel,Myanmar,Ye Nyunt,42,FALSE,FALSE
+1968-05-15,Hong Kong,Taiwan,Hong Kong,Li Kwok Keung,14,FALSE,FALSE
+1968-05-15,Hong Kong,Taiwan,Taiwan,Mak Tian-fu,37,FALSE,FALSE
+1968-05-16,Iran,Myanmar,Iran,Hossein Kalani,2,FALSE,FALSE
+1968-05-16,Iran,Myanmar,Myanmar,Hla Htay,50,FALSE,FALSE
+1968-05-16,Iran,Myanmar,Iran,Akbar Eftekhari,60,FALSE,FALSE
+1968-05-16,Iran,Myanmar,Iran,Homayoun Behzadi,70,FALSE,FALSE
+1968-05-17,Israel,Taiwan,Israel,Moshe Romano,2,FALSE,FALSE
+1968-05-17,Israel,Taiwan,Taiwan,Li Huan-wen,45,FALSE,FALSE
+1968-05-17,Israel,Taiwan,Israel,Moshe Romano,60,FALSE,FALSE
+1968-05-17,Israel,Taiwan,Israel,Shmuel Rosenthal,70,FALSE,FALSE
+1968-05-17,Israel,Taiwan,Israel,Giora Spiegel,76,FALSE,FALSE
+1968-05-18,Myanmar,Hong Kong,Myanmar,Aung Khin,80,FALSE,FALSE
+1968-05-18,Myanmar,Hong Kong,Myanmar,Suk Bahadur,85,FALSE,FALSE
+1968-05-19,Iran,Israel,Israel,Giora Spiegel,52,FALSE,FALSE
+1968-05-19,Iran,Israel,Iran,Homayoun Behzadi,75,FALSE,FALSE
+1968-05-19,Iran,Israel,Iran,Parviz Ghelichkhani,87,FALSE,FALSE
 1968-06-05,England,Yugoslavia,Yugoslavia,Dragan Džajić,86,FALSE,FALSE
 1968-06-08,England,Russia,England,Bobby Charlton,39,FALSE,FALSE
 1968-06-08,England,Russia,England,Geoff Hurst,63,FALSE,FALSE
@@ -2626,6 +2717,44 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1972-03-05,Congo,Mali,Congo,Jean-Michel M'Bono,59,FALSE,FALSE
 1972-03-05,Congo,Mali,Congo,François M'Pelé,63,FALSE,FALSE
 1972-03-05,Congo,Mali,Mali,Moussa Traoré,75,FALSE,FALSE
+1972-05-07,Iran,Cambodia,Iran,Hossein Kalani,45,FALSE,FALSE
+1972-05-07,Iran,Cambodia,Iran,Safar Iranpak,51,FALSE,FALSE
+1972-05-08,Thailand,Kuwait,Kuwait,Jawad Khalaf,42,FALSE,FALSE
+1972-05-08,Thailand,Kuwait,Kuwait,Fayez Marzouq,87,FALSE,FALSE
+1972-05-09,Iran,Iraq,Iran,Hossein Kalani,34,FALSE,FALSE
+1972-05-09,Iran,Iraq,Iran,Hossein Kalani,70,FALSE,FALSE
+1972-05-09,Iran,Iraq,Iran,Hossein Kalani,78,FALSE,FALSE
+1972-05-10,Cambodia,South Korea,South Korea,Park Su-deok,37,FALSE,FALSE
+1972-05-10,Cambodia,South Korea,South Korea,Lee Hoi-taek,59,FALSE,FALSE
+1972-05-10,Cambodia,South Korea,South Korea,Cha Bum-kun,69,FALSE,FALSE
+1972-05-10,Cambodia,South Korea,South Korea,Park Lee-chun,78,FALSE,FALSE
+1972-05-10,Cambodia,South Korea,Cambodia,Doeur Sokhom,82,FALSE,FALSE
+1972-05-11,Thailand,Iraq,Iraq,Ammo Yousif,6,FALSE,FALSE
+1972-05-11,Thailand,Iraq,Thailand,Supakit Meelarpkit,57,FALSE,FALSE
+1972-05-12,South Korea,Kuwait,South Korea,Park Lee-chun,2,FALSE,TRUE
+1972-05-12,South Korea,Kuwait,Kuwait,Mohammad Sultan,25,FALSE,FALSE
+1972-05-12,South Korea,Kuwait,Kuwait,Ibrahim Duraiham,73,FALSE,FALSE
+1972-05-13,Thailand,Iran,Thailand,Prapon Tantariyanond,69,FALSE,FALSE
+1972-05-13,Thailand,Iran,Thailand,Prapon Tantariyanond,70,FALSE,FALSE
+1972-05-13,Thailand,Iran,Iran,Ali Jabbari,80,FALSE,FALSE
+1972-05-13,Thailand,Iran,Iran,Ali Jabbari,86,FALSE,FALSE
+1972-05-13,Thailand,Iran,Iran,Ali Jabbari,88,FALSE,FALSE
+1972-05-14,Cambodia,Kuwait,Cambodia,Doeur Sokhom,23,FALSE,FALSE
+1972-05-14,Cambodia,Kuwait,Cambodia,Sok Sun Hean,56,FALSE,FALSE
+1972-05-14,Cambodia,Kuwait,Cambodia,Tes Sean,59,FALSE,FALSE
+1972-05-14,Cambodia,Kuwait,Cambodia,Sea Cheng Eang,80,FALSE,FALSE
+1972-05-16,Iran,Cambodia,Iran,Safar Iranpak,13,FALSE,FALSE
+1972-05-16,Iran,Cambodia,Cambodia,Doeur Sokhom,18,FALSE,FALSE
+1972-05-16,Iran,Cambodia,Iran,Parviz Ghelichkhani,47,FALSE,FALSE
+1972-05-17,Thailand,South Korea,Thailand,Prapon Tantariyanond,98,FALSE,FALSE
+1972-05-17,Thailand,South Korea,South Korea,Park Lee-chun,115,FALSE,FALSE
+1972-05-19,Iran,South Korea,Iran,Ali Jabbari,48,FALSE,FALSE
+1972-05-19,Iran,South Korea,South Korea,Park Lee-chun,65,FALSE,FALSE
+1972-05-19,Iran,South Korea,Iran,Hossein Kalani,108,FALSE,FALSE
+1972-05-19,Thailand,Cambodia,Thailand,Ich Narding,6,FALSE,FALSE
+1972-05-19,Thailand,Cambodia,Cambodia,Tol Kimchi,44,FALSE,FALSE
+1972-05-19,Thailand,Cambodia,Cambodia,Tol Kimchi,49,FALSE,FALSE
+1972-05-19,Thailand,Cambodia,Thailand,Ich Narding,90,FALSE,FALSE
 1972-06-14,Belgium,Germany,Germany,Gerd Müller,24,FALSE,FALSE
 1972-06-14,Belgium,Germany,Germany,Gerd Müller,71,FALSE,FALSE
 1972-06-14,Belgium,Germany,Belgium,Odilon Polleunis,83,FALSE,FALSE
@@ -2920,6 +3049,31 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1976-03-14,Egypt,Nigeria,Egypt,Osama Khalil,86,FALSE,FALSE
 1976-03-14,Guinea,Morocco,Guinea,Chérif Souleymane,33,FALSE,FALSE
 1976-03-14,Guinea,Morocco,Morocco,Ahmed Makrouh,86,FALSE,FALSE
+1976-06-03,Kuwait,Malaysia,Kuwait,Abdulaziz Al-Anberi,10,FALSE,FALSE
+1976-06-03,Kuwait,Malaysia,Kuwait,Faisal Al-Dakhil,42,FALSE,FALSE
+1976-06-04,Iran,Iraq,Iran,Nasser Nouraei,45,FALSE,FALSE
+1976-06-04,Iran,Iraq,Iran,Hassan Rowshan,58,FALSE,FALSE
+1976-06-05,China PR,Malaysia,Malaysia,Mokhtar Dahari,50,FALSE,FALSE
+1976-06-05,China PR,Malaysia,China PR,Wang Jilian,58,FALSE,FALSE
+1976-06-06,Iraq,Yemen DPR,Iraq,Kadhim Waal,84,FALSE,FALSE
+1976-06-07,China PR,Kuwait,Kuwait,Fathi Kameel,1,FALSE,FALSE
+1976-06-08,Iran,Yemen DPR,Iran,Alireza Azizi,17,FALSE,FALSE
+1976-06-08,Iran,Yemen DPR,Iran,Nasser Nouraei,40,FALSE,FALSE
+1976-06-08,Iran,Yemen DPR,Iran,Nasser Nouraei,42,FALSE,FALSE
+1976-06-08,Iran,Yemen DPR,Iran,Alireza Khorshidi,45,FALSE,FALSE
+1976-06-08,Iran,Yemen DPR,Iran,Gholam Hossein Mazloumi,63,FALSE,FALSE
+1976-06-08,Iran,Yemen DPR,Iran,Alireza Azizi,73,FALSE,FALSE
+1976-06-08,Iran,Yemen DPR,Iran,Gholam Hossein Mazloumi,74,FALSE,FALSE
+1976-06-08,Iran,Yemen DPR,Iran,Gholam Hossein Mazloumi,80,FALSE,FALSE
+1976-06-11,Iran,China PR,Iran,Alireza Khorshidi,100,FALSE,FALSE
+1976-06-11,Iran,China PR,Iran,Hassan Rowshan,119,FALSE,FALSE
+1976-06-11,Iraq,Kuwait,Kuwait,Faruq Ibrahim,11,FALSE,FALSE
+1976-06-11,Iraq,Kuwait,Iraq,Sabah Abdul-Jalil,46,FALSE,FALSE
+1976-06-11,Iraq,Kuwait,Kuwait,Fathi Kameel,77,FALSE,FALSE
+1976-06-11,Iraq,Kuwait,Iraq,Falah Hassan,85,FALSE,FALSE
+1976-06-11,Iraq,Kuwait,Kuwait,Fathi Kameel,100,FALSE,FALSE
+1976-06-13,China PR,Iraq,China PR,He Jia,61,FALSE,FALSE
+1976-06-13,Iran,Kuwait,Iran,Ali Parvin,71,FALSE,FALSE
 1976-06-16,Czechoslovakia,Netherlands,Czechoslovakia,Anton Ondruš,19,FALSE,FALSE
 1976-06-16,Czechoslovakia,Netherlands,Netherlands,Anton Ondruš,73,TRUE,FALSE
 1976-06-16,Czechoslovakia,Netherlands,Czechoslovakia,Zdeněk Nehoda,114,FALSE,FALSE
@@ -3200,6 +3354,82 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1980-06-22,Belgium,Germany,Germany,Horst Hrubesch,10,FALSE,FALSE
 1980-06-22,Belgium,Germany,Belgium,René Vandereycken,75,FALSE,TRUE
 1980-06-22,Belgium,Germany,Germany,Horst Hrubesch,88,FALSE,FALSE
+1980-09-15,Kuwait,United Arab Emirates,Kuwait,Saad Al-Houti,19,FALSE,FALSE
+1980-09-15,Kuwait,United Arab Emirates,United Arab Emirates,Ahmed Chombi,35,FALSE,FALSE
+1980-09-16,Malaysia,South Korea,South Korea,Choi Soon-ho,69,FALSE,FALSE
+1980-09-16,Malaysia,South Korea,Malaysia,Zulkifli Hamzah,90,FALSE,FALSE
+1980-09-16,North Korea,Bangladesh,North Korea,Choi Jae-pil,44,FALSE,FALSE
+1980-09-16,North Korea,Bangladesh,North Korea,Choi Jae-pil,45,FALSE,FALSE
+1980-09-16,North Korea,Bangladesh,Bangladesh,Kazi Salahuddin,60,FALSE,TRUE
+1980-09-16,North Korea,Bangladesh,North Korea,Kim Jong-man,88,FALSE,FALSE
+1980-09-16,North Korea,Bangladesh,Bangladesh,Ashraf Uddin Ahmed Chunnu,90,FALSE,FALSE
+1980-09-17,Qatar,United Arab Emirates,Qatar,Mansour Muftah,50,FALSE,FALSE
+1980-09-17,Qatar,United Arab Emirates,United Arab Emirates,Ghanem Al-Hajri,58,FALSE,FALSE
+1980-09-17,Qatar,United Arab Emirates,Qatar,Mansour Muftah,60,FALSE,FALSE
+1980-09-18,Kuwait,Malaysia,Kuwait,Fathi Kameel,20,FALSE,FALSE
+1980-09-18,Kuwait,Malaysia,Malaysia,Zulkifli Hamzah,44,FALSE,FALSE
+1980-09-18,Kuwait,Malaysia,Kuwait,Jasem Yaqoub,53,FALSE,TRUE
+1980-09-18,Kuwait,Malaysia,Kuwait,Jasem Yaqoub,77,FALSE,TRUE
+1980-09-18,North Korea,China PR,China PR,Li Fubao,7,FALSE,FALSE
+1980-09-18,North Korea,China PR,North Korea,Kim Bok-man,20,FALSE,FALSE
+1980-09-18,North Korea,China PR,North Korea,Hwang Sang-hoi,NA,FALSE,FALSE
+1980-09-19,Bangladesh,Syria,Syria,Jamal Keshek,7,FALSE,FALSE
+1980-09-19,Qatar,South Korea,South Korea,Lee Jung-il,7,FALSE,FALSE
+1980-09-19,Qatar,South Korea,South Korea,Choi Soon-ho,21,FALSE,FALSE
+1980-09-20,China PR,Iran,Iran,Hamid Alidousti,35,FALSE,FALSE
+1980-09-20,China PR,Iran,Iran,Behtash Fariba,70,FALSE,FALSE
+1980-09-20,China PR,Iran,China PR,Chen Jingang,74,FALSE,FALSE
+1980-09-20,China PR,Iran,China PR,Xu Yonglai,89,FALSE,FALSE
+1980-09-20,United Arab Emirates,Malaysia,Malaysia,Abdah Alif,32,FALSE,FALSE
+1980-09-20,United Arab Emirates,Malaysia,Malaysia,Tukamin Bahari,89,FALSE,FALSE
+1980-09-21,Kuwait,South Korea,South Korea,Hwang Seok-keun,47,FALSE,FALSE
+1980-09-21,Kuwait,South Korea,South Korea,Choi Soon-ho,71,FALSE,FALSE
+1980-09-21,Kuwait,South Korea,South Korea,Choi Soon-ho,78,FALSE,FALSE
+1980-09-22,Bangladesh,Iran,Iran,Behtash Fariba,11,FALSE,FALSE
+1980-09-22,Bangladesh,Iran,Iran,Hassan Rowshan,21,FALSE,FALSE
+1980-09-22,Bangladesh,Iran,Iran,Abdolreza Barzegari,27,FALSE,FALSE
+1980-09-22,Bangladesh,Iran,Iran,Behtash Fariba,34,FALSE,FALSE
+1980-09-22,Bangladesh,Iran,Iran,Behtash Fariba,80,FALSE,FALSE
+1980-09-22,Bangladesh,Iran,Iran,Behtash Fariba,82,FALSE,FALSE
+1980-09-22,Bangladesh,Iran,Iran,Abdolreza Barzegari,87,FALSE,FALSE
+1980-09-23,Malaysia,Qatar,Malaysia,Tukamin Bahari,NA,FALSE,FALSE
+1980-09-23,Malaysia,Qatar,Qatar,NA,NA,FALSE,FALSE
+1980-09-23,Syria,China PR,Syria,Jamal Keshek,86,FALSE,FALSE
+1980-09-24,Iran,North Korea,Iran,Hamid Alidousti,27,FALSE,FALSE
+1980-09-24,Iran,North Korea,Iran,Iraj Danaeifard,57,FALSE,FALSE
+1980-09-24,Iran,North Korea,Iran,Behtash Fariba,60,FALSE,FALSE
+1980-09-24,Iran,North Korea,North Korea,Hwang Sang-hoi,68,FALSE,FALSE
+1980-09-24,Iran,North Korea,North Korea,Pak Jong-hun,90,FALSE,FALSE
+1980-09-24,South Korea,United Arab Emirates,South Korea,Choi Soon-ho,26,FALSE,FALSE
+1980-09-24,South Korea,United Arab Emirates,South Korea,Choi Soon-ho,53,FALSE,FALSE
+1980-09-24,South Korea,United Arab Emirates,South Korea,Choi Soon-ho,78,FALSE,TRUE
+1980-09-24,South Korea,United Arab Emirates,United Arab Emirates,Ahmed Chombi,79,FALSE,FALSE
+1980-09-24,South Korea,United Arab Emirates,South Korea,Chung Hae-won,84,FALSE,FALSE
+1980-09-25,China PR,Bangladesh,China PR,Shen Xiangfu,NA,FALSE,FALSE
+1980-09-25,China PR,Bangladesh,China PR,Shen Xiangfu,NA,FALSE,FALSE
+1980-09-25,China PR,Bangladesh,China PR,Shen Xiangfu,NA,FALSE,FALSE
+1980-09-25,China PR,Bangladesh,China PR,Xu Yonglai,NA,FALSE,FALSE
+1980-09-25,China PR,Bangladesh,China PR,Xu Yonglai,NA,FALSE,FALSE
+1980-09-25,China PR,Bangladesh,China PR,Xu Yonglai,NA,FALSE,FALSE
+1980-09-25,Kuwait,Qatar,Kuwait,Faisal Al-Dakhil,32,FALSE,FALSE
+1980-09-25,Kuwait,Qatar,Kuwait,Jasem Yaqoub,50,FALSE,TRUE
+1980-09-25,Kuwait,Qatar,Kuwait,Faisal Al-Dakhil,57,FALSE,FALSE
+1980-09-25,Kuwait,Qatar,Kuwait,Abdulaziz Al-Anberi,66,FALSE,FALSE
+1980-09-26,Syria,North Korea,North Korea,Kim Gwan-Mo,NA,FALSE,FALSE
+1980-09-26,Syria,North Korea,North Korea,Kim Gwang-Un,NA,FALSE,FALSE
+1980-09-26,Syria,North Korea,Syria,Jawdat Suleiman,NA,FALSE,FALSE
+1980-09-28,Kuwait,Iran,Kuwait,Jasem Yaqoub,63,FALSE,FALSE
+1980-09-28,Kuwait,Iran,Kuwait,Faisal Al-Dakhil,85,FALSE,FALSE
+1980-09-28,Kuwait,Iran,Iran,Hossein Faraki,90,FALSE,FALSE
+1980-09-28,South Korea,North Korea,North Korea,Pak Jong-hun,19,FALSE,TRUE
+1980-09-28,South Korea,North Korea,South Korea,Chung Hae-won,80,FALSE,FALSE
+1980-09-28,South Korea,North Korea,South Korea,Chung Hae-won,89,FALSE,FALSE
+1980-09-29,Iran,North Korea,Iran,Behtash Fariba,49,FALSE,FALSE
+1980-09-29,Iran,North Korea,Iran,Hossein Faraki,66,FALSE,FALSE
+1980-09-29,Iran,North Korea,Iran,Hossein Faraki,76,FALSE,FALSE
+1980-09-30,Kuwait,South Korea,Kuwait,Saad Al-Houti,8,FALSE,FALSE
+1980-09-30,Kuwait,South Korea,Kuwait,Faisal Al-Dakhil,34,FALSE,FALSE
+1980-09-30,Kuwait,South Korea,Kuwait,Faisal Al-Dakhil,69,FALSE,FALSE
 1982-03-05,Cameroon,Tunisia,Tunisia,Kamel Gabsi,60,FALSE,FALSE
 1982-03-05,Cameroon,Tunisia,Cameroon,Grégoire M'Bida,61,FALSE,FALSE
 1982-03-05,Libya,Ghana,Ghana,George Alhassan,28,FALSE,FALSE
@@ -3513,6 +3743,50 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1984-06-24,Denmark,Spain,Spain,Antonio Maceda,67,FALSE,FALSE
 1984-06-27,France,Spain,France,Michel Platini,57,FALSE,FALSE
 1984-06-27,France,Spain,France,Bruno Bellone,90,FALSE,FALSE
+1984-12-01,Iran,United Arab Emirates,Iran,Hamid Alidousti,27,FALSE,FALSE
+1984-12-01,Iran,United Arab Emirates,Iran,Shahrokh Bayani,85,FALSE,TRUE
+1984-12-01,Iran,United Arab Emirates,Iran,Nasser Mohammadkhani,87,FALSE,FALSE
+1984-12-01,Qatar,Syria,Qatar,Ibrahim Khalfan,7,FALSE,FALSE
+1984-12-01,Qatar,Syria,Syria,Mubarak Anber,47,TRUE,FALSE
+1984-12-02,Saudi Arabia,South Korea,South Korea,Lee Tae-ho,51,FALSE,FALSE
+1984-12-02,Saudi Arabia,South Korea,Saudi Arabia,Majed Abdullah,90,FALSE,FALSE
+1984-12-02,Singapore,India,Singapore,Malik Awab,36,FALSE,FALSE
+1984-12-02,Singapore,India,Singapore,Razali Saad,81,FALSE,FALSE
+1984-12-03,China PR,Iran,Iran,Nasser Mohammadkhani,57,FALSE,FALSE
+1984-12-03,China PR,Iran,Iran,Zia Arabshahi,69,FALSE,FALSE
+1984-12-03,Kuwait,Qatar,Kuwait,Ibrahim Al-Rumaihi,52,TRUE,FALSE
+1984-12-04,Syria,Saudi Arabia,Saudi Arabia,Saleh Khalifa Al-Dosari,66,FALSE,FALSE
+1984-12-04,United Arab Emirates,India,United Arab Emirates,Adnan Al Talyani,81,FALSE,FALSE
+1984-12-04,United Arab Emirates,India,United Arab Emirates,Fahad Khamees,88,FALSE,FALSE
+1984-12-05,Singapore,China PR,China PR,Jia Xiuquan,21,FALSE,FALSE
+1984-12-05,Singapore,China PR,China PR,Zhao Dayu,39,FALSE,FALSE
+1984-12-07,Syria,South Korea,Syria,Radwan Al-Sheikh Hassan,12,FALSE,FALSE
+1984-12-08,Qatar,Saudi Arabia,Qatar,Ali Zaid,47,FALSE,FALSE
+1984-12-08,Qatar,Saudi Arabia,Saudi Arabia,Mohammed Abduljawad,65,FALSE,FALSE
+1984-12-08,Singapore,United Arab Emirates,United Arab Emirates,Abdulrahman,62,FALSE,FALSE
+1984-12-09,India,China PR,China PR,Lin Lefeng,19,FALSE,FALSE
+1984-12-09,India,China PR,China PR,Gu Guangming,59,FALSE,FALSE
+1984-12-09,India,China PR,China PR,Jia Xiuquan,79,FALSE,FALSE
+1984-12-09,Kuwait,Syria,Syria,Walid Abu Al-Sel,5,FALSE,FALSE
+1984-12-09,Kuwait,Syria,Kuwait,Issam Mahrous,66,TRUE,FALSE
+1984-12-09,Kuwait,Syria,Kuwait,Faisal Al-Dakhil,77,FALSE,FALSE
+1984-12-09,Kuwait,Syria,Kuwait,Abdullah Al-Buloushi,79,FALSE,FALSE
+1984-12-10,Singapore,Iran,Iran,Shahrokh Bayani,55,FALSE,TRUE
+1984-12-10,Singapore,Iran,Singapore,Razali Saad,61,FALSE,FALSE
+1984-12-10,South Korea,Qatar,Qatar,Khalid Salman,69,FALSE,FALSE
+1984-12-11,China PR,United Arab Emirates,China PR,Yang Zhaohui,12,FALSE,FALSE
+1984-12-11,China PR,United Arab Emirates,China PR,Jia Xiuquan,20,FALSE,FALSE
+1984-12-11,China PR,United Arab Emirates,China PR,Zuo Shusheng,36,FALSE,FALSE
+1984-12-11,China PR,United Arab Emirates,China PR,Zhao Dayu,52,FALSE,FALSE
+1984-12-11,China PR,United Arab Emirates,China PR,Gu Guangming,67,FALSE,FALSE
+1984-12-11,Saudi Arabia,Kuwait,Saudi Arabia,Mohaisen Al-Jam'an,88,FALSE,FALSE
+1984-12-13,Saudi Arabia,Iran,Iran,Shahrokh Bayani,43,FALSE,FALSE
+1984-12-13,Saudi Arabia,Iran,Saudi Arabia,Shahin Bayani,88,TRUE,FALSE
+1984-12-14,Kuwait,China PR,China PR,Li Huayun,108,FALSE,FALSE
+1984-12-16,Iran,Kuwait,Kuwait,Muayad Al-Haddad,26,FALSE,FALSE
+1984-12-16,Iran,Kuwait,Iran,Nasser Mohammadkhani,80,FALSE,FALSE
+1984-12-16,Saudi Arabia,China PR,Saudi Arabia,Shaye Al-Nafisah,10,FALSE,FALSE
+1984-12-16,Saudi Arabia,China PR,Saudi Arabia,Majed Abdullah,46,FALSE,FALSE
 1986-03-07,Egypt,Senegal,Senegal,Thierno Youm,67,FALSE,FALSE
 1986-03-07,Ivory Coast,Mozambique,Ivory Coast,Abdoulaye Traoré,25,FALSE,FALSE
 1986-03-07,Ivory Coast,Mozambique,Ivory Coast,Abdoulaye Traoré,74,FALSE,FALSE
@@ -3604,7 +3878,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1986-06-10,Argentina,Bulgaria,Argentina,Jorge Valdano,4,FALSE,FALSE
 1986-06-10,Argentina,Bulgaria,Argentina,Jorge Burruchaga,77,FALSE,FALSE
 1986-06-10,South Korea,Italy,Italy,Alessandro Altobelli,17,FALSE,FALSE
-1986-06-10,South Korea,Italy,South Korea,Choi Soon-Ho,62,FALSE,FALSE
+1986-06-10,South Korea,Italy,South Korea,Choi Soon-ho,62,FALSE,FALSE
 1986-06-10,South Korea,Italy,Italy,Alessandro Altobelli,73,FALSE,FALSE
 1986-06-10,South Korea,Italy,Italy,Cho Kwang-Rae,82,TRUE,FALSE
 1986-06-10,South Korea,Italy,South Korea,Huh Jung-Moo,83,FALSE,FALSE
@@ -3766,6 +4040,46 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1988-06-22,Russia,Italy,Russia,Oleh Protasov,62,FALSE,FALSE
 1988-06-25,Russia,Netherlands,Netherlands,Ruud Gullit,32,FALSE,FALSE
 1988-06-25,Russia,Netherlands,Netherlands,Marco van Basten,54,FALSE,FALSE
+1988-12-02,Qatar,Iran,Iran,Karim Bavi,6,FALSE,FALSE
+1988-12-02,Qatar,Iran,Iran,Farshad Pious,89,FALSE,FALSE
+1988-12-02,Syria,Saudi Arabia,Saudi Arabia,Saleh Al-Mutlaq,20,FALSE,FALSE
+1988-12-02,Syria,Saudi Arabia,Saudi Arabia,Mohamed Al-Suwaiyed Shehrani,82,FALSE,FALSE
+1988-12-03,United Arab Emirates,South Korea,South Korea,Lee Tae-ho,8,FALSE,TRUE
+1988-12-04,China PR,Syria,China PR,Gao Sheng,13,FALSE,FALSE
+1988-12-04,China PR,Syria,China PR,Xie Yuxin,14,FALSE,FALSE
+1988-12-04,China PR,Syria,China PR,Xie Yuxin,19,FALSE,FALSE
+1988-12-05,Qatar,United Arab Emirates,Qatar,Mansour Muftah,17,FALSE,FALSE
+1988-12-05,Qatar,United Arab Emirates,Qatar,Muhsin Musabah,26,TRUE,FALSE
+1988-12-05,Qatar,United Arab Emirates,United Arab Emirates,Hassan Mohamed,35,FALSE,FALSE
+1988-12-06,Bahrain,China PR,China PR,Zhang Xiaowen,78,FALSE,FALSE
+1988-12-06,South Korea,Japan,South Korea,Hwang Sun-hong,13,FALSE,FALSE
+1988-12-06,South Korea,Japan,South Korea,Kim Joo-sung,35,FALSE,FALSE
+1988-12-08,Iran,United Arab Emirates,Iran,Farshad Pious,27,FALSE,FALSE
+1988-12-08,Syria,Kuwait,Syria,Walid Al-Nasser,63,FALSE,FALSE
+1988-12-09,Qatar,South Korea,South Korea,Chung Hae-won,10,FALSE,FALSE
+1988-12-09,Qatar,South Korea,South Korea,Kim Joo-sung,34,FALSE,FALSE
+1988-12-09,Qatar,South Korea,Qatar,Khalid Salman,47,FALSE,TRUE
+1988-12-09,Qatar,South Korea,South Korea,Chung Hae-won,72,FALSE,FALSE
+1988-12-09,Qatar,South Korea,Qatar,Khalid Salman,80,FALSE,TRUE
+1988-12-09,Saudi Arabia,Bahrain,Bahrain,Fayad Mahmoud,44,FALSE,TRUE
+1988-12-09,Saudi Arabia,Bahrain,Saudi Arabia,Yousuf Jazea'a,78,FALSE,FALSE
+1988-12-10,Kuwait,China PR,China PR,Ma Lin,10,FALSE,FALSE
+1988-12-10,Kuwait,China PR,Kuwait,Adel Abbas Hussain,60,FALSE,TRUE
+1988-12-10,Kuwait,China PR,Kuwait,Mansour Basha Mohamed,62,FALSE,FALSE
+1988-12-10,Kuwait,China PR,China PR,Ma Lin,87,FALSE,FALSE
+1988-12-10,United Arab Emirates,Japan,United Arab Emirates,Abdulaziz Mohamed,86,FALSE,FALSE
+1988-12-11,Bahrain,Syria,Syria,Walid Abu Al-Sel,72,FALSE,TRUE
+1988-12-11,South Korea,Iran,South Korea,Byun Byung-joo,26,FALSE,FALSE
+1988-12-11,South Korea,Iran,South Korea,Hwang Sun-hong,42,FALSE,FALSE
+1988-12-11,South Korea,Iran,South Korea,Byun Byung-joo,57,FALSE,FALSE
+1988-12-12,China PR,Saudi Arabia,Saudi Arabia,Fahad Al-Bishi,56,FALSE,FALSE
+1988-12-12,Qatar,Japan,Qatar,Adel Khamis,58,FALSE,FALSE
+1988-12-12,Qatar,Japan,Qatar,Adel Khamis,82,FALSE,FALSE
+1988-12-12,Qatar,Japan,Qatar,Mansour Muftah,90,FALSE,FALSE
+1988-12-14,South Korea,China PR,South Korea,Lee Tae-ho,93,FALSE,FALSE
+1988-12-14,South Korea,China PR,China PR,Mai Chao,100,FALSE,FALSE
+1988-12-14,South Korea,China PR,South Korea,Lee Tae-ho,103,FALSE,FALSE
+1988-12-15,Saudi Arabia,Iran,Saudi Arabia,Majed Abdullah,16,FALSE,FALSE
 1989-07-01,Brazil,Venezuela,Brazil,Bebeto,2,FALSE,FALSE
 1989-07-01,Brazil,Venezuela,Brazil,Geovani Faria da Silva,36,FALSE,TRUE
 1989-07-01,Brazil,Venezuela,Brazil,Baltazar Maria de Morais Júnior,57,FALSE,FALSE
@@ -3888,7 +4202,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1990-06-15,Austria,Czechoslovakia,Czechoslovakia,Michal Bílek,31,FALSE,TRUE
 1990-06-15,Germany,United Arab Emirates,Germany,Rudi Völler,35,FALSE,FALSE
 1990-06-15,Germany,United Arab Emirates,Germany,Jürgen Klinsmann,37,FALSE,FALSE
-1990-06-15,Germany,United Arab Emirates,United Arab Emirates,Khalid Ismaïl,46,FALSE,FALSE
+1990-06-15,Germany,United Arab Emirates,United Arab Emirates,Khalid Ismail,46,FALSE,FALSE
 1990-06-15,Germany,United Arab Emirates,Germany,Lothar Matthäus,47,FALSE,FALSE
 1990-06-15,Germany,United Arab Emirates,Germany,Uwe Bein,58,FALSE,FALSE
 1990-06-15,Germany,United Arab Emirates,Germany,Rudi Völler,75,FALSE,FALSE
@@ -4157,7 +4471,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1992-06-26,Denmark,Germany,Denmark,Kim Vilfort,78,FALSE,FALSE
 1992-10-15,Saudi Arabia,United States,Saudi Arabia,Fahad Al-Bishi,48,FALSE,TRUE
 1992-10-15,Saudi Arabia,United States,Saudi Arabia,Yousuf Al-Thunayan,74,FALSE,FALSE
-1992-10-15,Saudi Arabia,United States,Saudi Arabia,Khaled Al-Muwallid,84,FALSE,FALSE
+1992-10-15,Saudi Arabia,United States,Saudi Arabia,Khaled Massad,84,FALSE,FALSE
 1992-10-16,Argentina,Ivory Coast,Argentina,Gabriel Batistuta,2,FALSE,FALSE
 1992-10-16,Argentina,Ivory Coast,Argentina,Gabriel Batistuta,10,FALSE,FALSE
 1992-10-16,Argentina,Ivory Coast,Argentina,Ricardo Altamirano,67,FALSE,FALSE
@@ -4173,6 +4487,37 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1992-10-20,Saudi Arabia,Argentina,Argentina,Claudio Caniggia,24,FALSE,FALSE
 1992-10-20,Saudi Arabia,Argentina,Argentina,Diego Simeone,64,FALSE,FALSE
 1992-10-20,Saudi Arabia,Argentina,Saudi Arabia,Saeed Al-Owairan,65,FALSE,FALSE
+1992-10-29,Qatar,Thailand,Thailand,Thanis Areesngarkul,42,FALSE,FALSE
+1992-10-29,Qatar,Thailand,Qatar,Mahmoud Soufi,81,FALSE,FALSE
+1992-10-29,Saudi Arabia,China PR,Saudi Arabia,Yousuf Al-Thunayan,17,FALSE,FALSE
+1992-10-29,Saudi Arabia,China PR,China PR,Li Bing,41,FALSE,FALSE
+1992-10-30,North Korea,Iran,Iran,Farshad Pious,30,FALSE,FALSE
+1992-10-30,North Korea,Iran,Iran,Sirous Ghayeghran,80,FALSE,FALSE
+1992-10-31,Saudi Arabia,Qatar,Qatar,Mubarak Mustafa,74,FALSE,FALSE
+1992-10-31,Saudi Arabia,Qatar,Saudi Arabia,Khaled Massad,86,FALSE,FALSE
+1992-11-01,Japan,North Korea,North Korea,Kim Kwang-min,29,FALSE,TRUE
+1992-11-01,Japan,North Korea,Japan,Masashi Nakayama,80,FALSE,FALSE
+1992-11-02,China PR,Qatar,Qatar,Khalifa Al-Sulaiti,20,FALSE,FALSE
+1992-11-02,China PR,Qatar,China PR,Peng Weiguo,44,FALSE,FALSE
+1992-11-02,China PR,Qatar,China PR,Peng Weiguo,58,FALSE,FALSE
+1992-11-02,Saudi Arabia,Thailand,Saudi Arabia,Saeed Al-Owairan,4,FALSE,FALSE
+1992-11-02,Saudi Arabia,Thailand,Saudi Arabia,Fahad Al-Bishi,19,FALSE,FALSE
+1992-11-02,Saudi Arabia,Thailand,Saudi Arabia,Yousuf Al-Thunayan,64,FALSE,FALSE
+1992-11-02,Saudi Arabia,Thailand,Saudi Arabia,Fahad Al-Bishi,72,FALSE,FALSE
+1992-11-03,Japan,Iran,Japan,Kazuyoshi Miura,87,FALSE,FALSE
+1992-11-03,United Arab Emirates,North Korea,North Korea,Kim Kwang-min,69,FALSE,FALSE
+1992-11-03,United Arab Emirates,North Korea,United Arab Emirates,Khamees Saad Mubarak,81,FALSE,FALSE
+1992-11-03,United Arab Emirates,North Korea,United Arab Emirates,Zuhair Bakhit,85,FALSE,FALSE
+1992-11-06,Japan,China PR,China PR,Xie Yuxin,1,FALSE,FALSE
+1992-11-06,Japan,China PR,Japan,Masahiro Fukuda,48,FALSE,FALSE
+1992-11-06,Japan,China PR,Japan,Tsuyoshi Kitazawa,57,FALSE,FALSE
+1992-11-06,Japan,China PR,China PR,Li Xiao,70,FALSE,FALSE
+1992-11-06,Japan,China PR,Japan,Masashi Nakayama,84,FALSE,FALSE
+1992-11-06,Saudi Arabia,United Arab Emirates,Saudi Arabia,Saeed Al-Owairan,77,FALSE,FALSE
+1992-11-06,Saudi Arabia,United Arab Emirates,Saudi Arabia,Fahad Al-Bishi,80,FALSE,FALSE
+1992-11-08,China PR,United Arab Emirates,United Arab Emirates,Khalid Ismail,10,FALSE,FALSE
+1992-11-08,China PR,United Arab Emirates,China PR,Hao Haidong,15,FALSE,FALSE
+1992-11-08,Japan,Saudi Arabia,Japan,Takuya Takagi,36,FALSE,FALSE
 1993-06-15,Ecuador,Venezuela,Ecuador,Carlos Muñoz,19,FALSE,FALSE
 1993-06-15,Ecuador,Venezuela,Ecuador,Raúl Noriega,32,FALSE,FALSE
 1993-06-15,Ecuador,Venezuela,Ecuador,Ángel Fernández,57,FALSE,FALSE
@@ -4754,6 +5099,86 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1996-06-30,Czech Republic,Germany,Czech Republic,Patrik Berger,59,FALSE,TRUE
 1996-06-30,Czech Republic,Germany,Germany,Oliver Bierhoff,73,FALSE,FALSE
 1996-06-30,Czech Republic,Germany,Germany,Oliver Bierhoff,95,FALSE,FALSE
+1996-12-04,Indonesia,Kuwait,Indonesia,Widodo Cahyono Putro,20,FALSE,FALSE
+1996-12-04,Indonesia,Kuwait,Indonesia,Ronny Wabia,40,FALSE,FALSE
+1996-12-04,Indonesia,Kuwait,Kuwait,Hani Al Saqer,73,FALSE,FALSE
+1996-12-04,Indonesia,Kuwait,Kuwait,Badr Haji,84,FALSE,TRUE
+1996-12-04,United Arab Emirates,South Korea,South Korea,Hwang Sun-hong,9,FALSE,FALSE
+1996-12-04,United Arab Emirates,South Korea,United Arab Emirates,Khamees Saad Mubarak,40,FALSE,FALSE
+1996-12-05,Iran,Iraq,Iraq,Hussam Fawzi,37,FALSE,FALSE
+1996-12-05,Iran,Iraq,Iraq,Khalid Mohammed Sabbar,69,FALSE,FALSE
+1996-12-05,Iran,Iraq,Iran,Ali Daei,90,FALSE,TRUE
+1996-12-05,Saudi Arabia,Thailand,Saudi Arabia,Khalid Al-Temawi,10,FALSE,TRUE
+1996-12-05,Saudi Arabia,Thailand,Saudi Arabia,Fahad Al-Mehallel,15,FALSE,FALSE
+1996-12-05,Saudi Arabia,Thailand,Saudi Arabia,Khaled Massad,18,FALSE,FALSE
+1996-12-05,Saudi Arabia,Thailand,Saudi Arabia,Khalid Al-Temawi,29,FALSE,TRUE
+1996-12-05,Saudi Arabia,Thailand,Saudi Arabia,Sami Al-Jaber,52,FALSE,FALSE
+1996-12-05,Saudi Arabia,Thailand,Saudi Arabia,Fahad Al-Mehallel,54,FALSE,FALSE
+1996-12-06,China PR,Uzbekistan,Uzbekistan,Igor Shkvyrin,78,FALSE,FALSE
+1996-12-06,China PR,Uzbekistan,Uzbekistan,Oleg Shatskikh,90,FALSE,FALSE
+1996-12-06,Japan,Syria,Syria,Nader Joukhadar,8,FALSE,FALSE
+1996-12-06,Japan,Syria,Japan,Hassan Abbas,85,TRUE,FALSE
+1996-12-06,Japan,Syria,Japan,Takuya Takagi,88,FALSE,FALSE
+1996-12-07,South Korea,Indonesia,South Korea,Kim Do-hoon,5,FALSE,FALSE
+1996-12-07,South Korea,Indonesia,South Korea,Hwang Sun-hong,7,FALSE,FALSE
+1996-12-07,South Korea,Indonesia,South Korea,Hwang Sun-hong,15,FALSE,FALSE
+1996-12-07,South Korea,Indonesia,South Korea,Ko Jeong-Woon,55,FALSE,FALSE
+1996-12-07,South Korea,Indonesia,Indonesia,Ronny Wabia,58,FALSE,FALSE
+1996-12-07,South Korea,Indonesia,Indonesia,Widodo Cahyono Putro,65,FALSE,FALSE
+1996-12-07,United Arab Emirates,Kuwait,Kuwait,Jasem Al-Huwaidi,9,FALSE,FALSE
+1996-12-07,United Arab Emirates,Kuwait,Kuwait,Jasem Al-Huwaidi,44,FALSE,FALSE
+1996-12-07,United Arab Emirates,Kuwait,United Arab Emirates,Hassan Saeed Ahmed,53,FALSE,FALSE
+1996-12-07,United Arab Emirates,Kuwait,United Arab Emirates,Adnan Al Talyani,55,FALSE,FALSE
+1996-12-07,United Arab Emirates,Kuwait,United Arab Emirates,Saad Bakheet Mubarak,80,FALSE,FALSE
+1996-12-08,Saudi Arabia,Iraq,Saudi Arabia,Fahad Al-Mehallel,26,FALSE,FALSE
+1996-12-08,Thailand,Iran,Iran,Naeim Saadavi,38,FALSE,FALSE
+1996-12-08,Thailand,Iran,Iran,Mehrdad Minavand,54,FALSE,FALSE
+1996-12-08,Thailand,Iran,Iran,Ali Daei,70,FALSE,FALSE
+1996-12-08,Thailand,Iran,Thailand,Kiatisuk Senamuang,80,FALSE,FALSE
+1996-12-09,Japan,Uzbekistan,Japan,Hiroshi Nanami,7,FALSE,FALSE
+1996-12-09,Japan,Uzbekistan,Japan,Kazuyoshi Miura,37,FALSE,FALSE
+1996-12-09,Japan,Uzbekistan,Japan,Masakiyo Maezono,86,FALSE,FALSE
+1996-12-09,Japan,Uzbekistan,Japan,Masakiyo Maezono,90,FALSE,FALSE
+1996-12-09,Syria,China PR,China PR,Ma Mingyu,35,FALSE,FALSE
+1996-12-09,Syria,China PR,China PR,Gao Feng,49,FALSE,FALSE
+1996-12-09,Syria,China PR,China PR,Li Bing,73,FALSE,FALSE
+1996-12-10,Kuwait,South Korea,Kuwait,Jasem Al-Huwaidi,60,FALSE,FALSE
+1996-12-10,Kuwait,South Korea,Kuwait,Bashar Abdullah,87,FALSE,FALSE
+1996-12-10,United Arab Emirates,Indonesia,United Arab Emirates,Hassan Saeed Ahmed,15,FALSE,FALSE
+1996-12-10,United Arab Emirates,Indonesia,United Arab Emirates,Adnan Al Talyani,64,FALSE,FALSE
+1996-12-11,Iraq,Thailand,Iraq,Haidar Mahmoud,17,FALSE,FALSE
+1996-12-11,Iraq,Thailand,Iraq,Laith Hussein,23,FALSE,FALSE
+1996-12-11,Iraq,Thailand,Thailand,Dusit Chalermsan,26,FALSE,FALSE
+1996-12-11,Iraq,Thailand,Iraq,Haidar Mahmoud,50,FALSE,FALSE
+1996-12-11,Iraq,Thailand,Iraq,Laith Hussein,63,FALSE,FALSE
+1996-12-11,Saudi Arabia,Iran,Iran,Ali Daei,12,FALSE,FALSE
+1996-12-11,Saudi Arabia,Iran,Iran,Karim Bagheri,37,FALSE,FALSE
+1996-12-11,Saudi Arabia,Iran,Iran,Khodadad Azizi,47,FALSE,FALSE
+1996-12-12,Japan,China PR,Japan,Naoki Soma,90,FALSE,FALSE
+1996-12-12,Uzbekistan,Syria,Syria,Nader Joukhadar,48,FALSE,FALSE
+1996-12-12,Uzbekistan,Syria,Uzbekistan,Sergey Lebedev,53,FALSE,TRUE
+1996-12-12,Uzbekistan,Syria,Syria,Ali Cheikh Dib,74,FALSE,FALSE
+1996-12-15,Kuwait,Japan,Kuwait,Jasem Al-Huwaidi,17,FALSE,FALSE
+1996-12-15,Kuwait,Japan,Kuwait,Jasem Al-Huwaidi,54,FALSE,FALSE
+1996-12-15,United Arab Emirates,Iraq,United Arab Emirates,Abdulrahman Ibrahim,103,FALSE,FALSE
+1996-12-16,Saudi Arabia,China PR,China PR,Zhang Enhua,6,FALSE,FALSE
+1996-12-16,Saudi Arabia,China PR,China PR,Peng Weiguo,16,FALSE,FALSE
+1996-12-16,Saudi Arabia,China PR,Saudi Arabia,Yousuf Al-Thunayan,31,FALSE,FALSE
+1996-12-16,Saudi Arabia,China PR,Saudi Arabia,Sami Al-Jaber,34,FALSE,FALSE
+1996-12-16,Saudi Arabia,China PR,Saudi Arabia,Fahad Al-Mehallel,43,FALSE,FALSE
+1996-12-16,Saudi Arabia,China PR,Saudi Arabia,Yousuf Al-Thunayan,65,FALSE,FALSE
+1996-12-16,Saudi Arabia,China PR,China PR,Zhang Enhua,89,FALSE,FALSE
+1996-12-16,South Korea,Iran,South Korea,Kim Do-hoon,11,FALSE,FALSE
+1996-12-16,South Korea,Iran,Iran,Karim Bagheri,31,FALSE,FALSE
+1996-12-16,South Korea,Iran,South Korea,Shin Tae-Yong,35,FALSE,FALSE
+1996-12-16,South Korea,Iran,Iran,Khodadad Azizi,52,FALSE,FALSE
+1996-12-16,South Korea,Iran,Iran,Ali Daei,66,FALSE,FALSE
+1996-12-16,South Korea,Iran,Iran,Ali Daei,76,FALSE,FALSE
+1996-12-16,South Korea,Iran,Iran,Ali Daei,83,FALSE,FALSE
+1996-12-16,South Korea,Iran,Iran,Ali Daei,89,FALSE,TRUE
+1996-12-19,United Arab Emirates,Kuwait,United Arab Emirates,Hassan Saeed Ahmed,69,FALSE,FALSE
+1996-12-21,Iran,Kuwait,Kuwait,Jasem Al-Huwaidi,15,FALSE,FALSE
+1996-12-21,Iran,Kuwait,Iran,Ali Daei,40,FALSE,FALSE
 1997-06-11,Chile,Paraguay,Paraguay,Roberto Acuña,28,FALSE,FALSE
 1997-06-12,Bolivia,Venezuela,Bolivia,Milton Coimbra,60,FALSE,FALSE
 1997-06-12,Peru,Uruguay,Peru,Martín Hidalgo,75,FALSE,FALSE
@@ -5536,6 +5961,83 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2000-07-02,France,Italy,Italy,Marco Delvecchio,55,FALSE,FALSE
 2000-07-02,France,Italy,France,Sylvain Wiltord,90,FALSE,FALSE
 2000-07-02,France,Italy,France,David Trezeguet,103,FALSE,FALSE
+2000-10-12,Iraq,Thailand,Iraq,Qahtan Chathir Drain,27,FALSE,FALSE
+2000-10-12,Iraq,Thailand,Iraq,Haidar Mahmoud,60,FALSE,FALSE
+2000-10-12,Lebanon,Iran,Iran,Karim Bagheri,19,FALSE,FALSE
+2000-10-12,Lebanon,Iran,Iran,Hamid Estili,75,FALSE,FALSE
+2000-10-12,Lebanon,Iran,Iran,Hamid Estili,87,FALSE,FALSE
+2000-10-12,Lebanon,Iran,Iran,Ali Daei,90,FALSE,FALSE
+2000-10-13,South Korea,China PR,South Korea,Lee Young-pyo,30,FALSE,FALSE
+2000-10-13,South Korea,China PR,China PR,Su Maozhen,36,FALSE,FALSE
+2000-10-13,South Korea,China PR,South Korea,Noh Jung-yoon,58,FALSE,FALSE
+2000-10-13,South Korea,China PR,China PR,Fan Zhiyi,66,FALSE,TRUE
+2000-10-14,Qatar,Uzbekistan,Qatar,Mohammed Gholam,61,FALSE,FALSE
+2000-10-14,Qatar,Uzbekistan,Uzbekistan,Mirjalol Qosimov,73,FALSE,FALSE
+2000-10-14,Saudi Arabia,Japan,Japan,Atsushi Yanagisawa,26,FALSE,FALSE
+2000-10-14,Saudi Arabia,Japan,Japan,Naohiro Takahara,39,FALSE,FALSE
+2000-10-14,Saudi Arabia,Japan,Japan,Hiroshi Nanami,54,FALSE,FALSE
+2000-10-14,Saudi Arabia,Japan,Saudi Arabia,Ryuzo Morioka,90,TRUE,FALSE
+2000-10-14,Saudi Arabia,Japan,Japan,Shinji Ono,90,FALSE,FALSE
+2000-10-15,Iran,Thailand,Thailand,Sakesan Pituratana,12,FALSE,FALSE
+2000-10-15,Iran,Thailand,Iran,Ali Daei,73,FALSE,FALSE
+2000-10-15,Lebanon,Iraq,Iraq,Sabah Jeayer,5,FALSE,FALSE
+2000-10-15,Lebanon,Iraq,Iraq,Sabah Jeayer,22,FALSE,FALSE
+2000-10-15,Lebanon,Iraq,Lebanon,Abbas Chahrour,28,FALSE,FALSE
+2000-10-15,Lebanon,Iraq,Lebanon,Moussa Hojeij,76,FALSE,FALSE
+2000-10-16,China PR,Indonesia,China PR,Li Ming,2,FALSE,FALSE
+2000-10-16,China PR,Indonesia,China PR,Shen Si,7,FALSE,TRUE
+2000-10-16,China PR,Indonesia,China PR,Yang Chen,10,FALSE,FALSE
+2000-10-16,China PR,Indonesia,China PR,Qi Hong,90,FALSE,FALSE
+2000-10-16,South Korea,Kuwait,Kuwait,Jasem Al-Huwaidi,43,FALSE,FALSE
+2000-10-17,Japan,Uzbekistan,Japan,Hiroaki Morishima,7,FALSE,FALSE
+2000-10-17,Japan,Uzbekistan,Japan,Akinori Nishizawa,14,FALSE,FALSE
+2000-10-17,Japan,Uzbekistan,Japan,Naohiro Takahara,18,FALSE,FALSE
+2000-10-17,Japan,Uzbekistan,Japan,Naohiro Takahara,20,FALSE,FALSE
+2000-10-17,Japan,Uzbekistan,Japan,Akinori Nishizawa,25,FALSE,FALSE
+2000-10-17,Japan,Uzbekistan,Uzbekistan,Sergey Lushan,29,FALSE,FALSE
+2000-10-17,Japan,Uzbekistan,Japan,Akinori Nishizawa,49,FALSE,FALSE
+2000-10-17,Japan,Uzbekistan,Japan,Naohiro Takahara,57,FALSE,FALSE
+2000-10-17,Japan,Uzbekistan,Japan,Hideaki Kitajima,79,FALSE,FALSE
+2000-10-18,Iran,Iraq,Iran,Ali Daei,77,FALSE,FALSE
+2000-10-18,Lebanon,Thailand,Thailand,Sakesan Pituratana,58,FALSE,FALSE
+2000-10-18,Lebanon,Thailand,Lebanon,Luís Fernandes,83,FALSE,FALSE
+2000-10-19,South Korea,Indonesia,South Korea,Lee Dong-gook,30,FALSE,FALSE
+2000-10-19,South Korea,Indonesia,South Korea,Lee Dong-gook,76,FALSE,FALSE
+2000-10-19,South Korea,Indonesia,South Korea,Lee Dong-gook,90,FALSE,FALSE
+2000-10-20,Japan,Qatar,Qatar,Abdulnasser Al-Obaidly,22,FALSE,FALSE
+2000-10-20,Japan,Qatar,Japan,Akinori Nishizawa,61,FALSE,FALSE
+2000-10-20,Saudi Arabia,Uzbekistan,Saudi Arabia,Marzouk Al-Otaibi,18,FALSE,FALSE
+2000-10-20,Saudi Arabia,Uzbekistan,Saudi Arabia,Mohammad Al-Shalhoub,35,FALSE,FALSE
+2000-10-20,Saudi Arabia,Uzbekistan,Saudi Arabia,Mohammad Al-Shalhoub,78,FALSE,FALSE
+2000-10-20,Saudi Arabia,Uzbekistan,Saudi Arabia,Mohammad Al-Shalhoub,86,FALSE,FALSE
+2000-10-20,Saudi Arabia,Uzbekistan,Saudi Arabia,Nawaf Al-Temyat,88,FALSE,FALSE
+2000-10-23,China PR,Qatar,China PR,Li Ming,9,FALSE,FALSE
+2000-10-23,China PR,Qatar,China PR,Qi Hong,38,FALSE,FALSE
+2000-10-23,China PR,Qatar,China PR,Yang Chen,54,FALSE,FALSE
+2000-10-23,China PR,Qatar,Qatar,Mohammed Salem Al-Enazi,65,FALSE,FALSE
+2000-10-23,Iran,South Korea,Iran,Karim Bagheri,71,FALSE,FALSE
+2000-10-23,Iran,South Korea,South Korea,Kim Sang-sik,90,FALSE,FALSE
+2000-10-23,Iran,South Korea,South Korea,Lee Dong-gook,99,FALSE,FALSE
+2000-10-24,Japan,Iraq,Iraq,Abbas Obeid,4,FALSE,FALSE
+2000-10-24,Japan,Iraq,Japan,Hiroshi Nanami,8,FALSE,FALSE
+2000-10-24,Japan,Iraq,Japan,Naohiro Takahara,11,FALSE,FALSE
+2000-10-24,Japan,Iraq,Japan,Hiroshi Nanami,29,FALSE,FALSE
+2000-10-24,Japan,Iraq,Japan,Tomokazu Myojin,62,FALSE,FALSE
+2000-10-24,Kuwait,Saudi Arabia,Saudi Arabia,Nawaf Al-Temyat,45,FALSE,FALSE
+2000-10-24,Kuwait,Saudi Arabia,Kuwait,Bashar Abdullah,62,FALSE,FALSE
+2000-10-24,Kuwait,Saudi Arabia,Kuwait,Jasem Al-Huwaidi,68,FALSE,FALSE
+2000-10-24,Kuwait,Saudi Arabia,Saudi Arabia,Talal Al-Meshal,72,FALSE,FALSE
+2000-10-24,Kuwait,Saudi Arabia,Saudi Arabia,Nawaf Al-Temyat,109,FALSE,FALSE
+2000-10-26,China PR,Japan,Japan,Fan Zhiyi,21,TRUE,FALSE
+2000-10-26,China PR,Japan,China PR,Qi Hong,30,FALSE,FALSE
+2000-10-26,China PR,Japan,China PR,Yang Chen,48,FALSE,FALSE
+2000-10-26,China PR,Japan,Japan,Akinori Nishizawa,53,FALSE,FALSE
+2000-10-26,China PR,Japan,Japan,Tomokazu Myojin,61,FALSE,FALSE
+2000-10-26,South Korea,Saudi Arabia,Saudi Arabia,Talal Al-Meshal,76,FALSE,FALSE
+2000-10-26,South Korea,Saudi Arabia,Saudi Arabia,Talal Al-Meshal,80,FALSE,FALSE
+2000-10-26,South Korea,Saudi Arabia,South Korea,Lee Dong-gook,90,FALSE,FALSE
+2000-10-29,China PR,South Korea,South Korea,Lee Dong-gook,76,FALSE,FALSE
+2000-10-29,Japan,Saudi Arabia,Japan,Shigeyoshi Mochizuki,30,FALSE,FALSE
 2001-05-30,Mexico,Australia,Australia,Shaun Murphy,20,FALSE,FALSE
 2001-05-30,Mexico,Australia,Australia,Josip Skoko,54,FALSE,FALSE
 2001-05-30,South Korea,France,France,Steve Marlet,9,FALSE,FALSE
@@ -5860,7 +6362,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2002-06-17,Mexico,United States,United States,Landon Donovan,65,FALSE,FALSE
 2002-06-18,Japan,Turkey,Turkey,Ümit Davala,12,FALSE,FALSE
 2002-06-18,South Korea,Italy,Italy,Christian Vieri,18,FALSE,FALSE
-2002-06-18,South Korea,Italy,South Korea,Seol Ki-Hyeon,88,FALSE,FALSE
+2002-06-18,South Korea,Italy,South Korea,Seol Ki-hyeon,88,FALSE,FALSE
 2002-06-18,South Korea,Italy,South Korea,Ahn Jung-hwan,117,FALSE,FALSE
 2002-06-21,England,Brazil,England,Michael Owen,23,FALSE,FALSE
 2002-06-21,England,Brazil,Brazil,Rivaldo,45,FALSE,FALSE
@@ -6183,9 +6685,14 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2004-07-14,Costa Rica,Chile,Chile,Rafael Olarra,40,FALSE,FALSE
 2004-07-14,Costa Rica,Chile,Costa Rica,Mauricio Wright,60,FALSE,FALSE
 2004-07-14,Costa Rica,Chile,Costa Rica,Andy Herron,90,FALSE,FALSE
+2004-07-17,China PR,Bahrain,Bahrain,Mohamed Hubail,41,FALSE,FALSE
+2004-07-17,China PR,Bahrain,China PR,Zheng Zhi,58,FALSE,TRUE
+2004-07-17,China PR,Bahrain,China PR,Li Jinyu,66,FALSE,FALSE
+2004-07-17,China PR,Bahrain,Bahrain,Husain Ali,89,FALSE,FALSE
 2004-07-17,Colombia,Costa Rica,Colombia,Abel Aguilar,41,FALSE,FALSE
 2004-07-17,Colombia,Costa Rica,Colombia,Tressor Moreno,45,FALSE,FALSE
 2004-07-17,Peru,Argentina,Argentina,Carlos Tevez,60,FALSE,FALSE
+2004-07-18,Iraq,Uzbekistan,Uzbekistan,Mirjalol Qosimov,21,FALSE,FALSE
 2004-07-18,Mexico,Brazil,Brazil,Alexsandro de Souza,26,FALSE,TRUE
 2004-07-18,Mexico,Brazil,Brazil,Adriano,65,FALSE,FALSE
 2004-07-18,Mexico,Brazil,Brazil,Adriano,78,FALSE,FALSE
@@ -6194,18 +6701,109 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2004-07-18,Paraguay,Uruguay,Uruguay,Carlos Bueno,40,FALSE,TRUE
 2004-07-18,Paraguay,Uruguay,Uruguay,Darío Silva,65,FALSE,FALSE
 2004-07-18,Paraguay,Uruguay,Uruguay,Darío Silva,88,FALSE,FALSE
+2004-07-18,Qatar,Indonesia,Indonesia,Budi Sudarsono,26,FALSE,FALSE
+2004-07-18,Qatar,Indonesia,Indonesia,Ponaryo Astaman,48,FALSE,FALSE
+2004-07-18,Qatar,Indonesia,Qatar,Magid Mohamed,83,FALSE,FALSE
+2004-07-18,Saudi Arabia,Turkmenistan,Turkmenistan,Nazar Bayramov,6,FALSE,FALSE
+2004-07-18,Saudi Arabia,Turkmenistan,Saudi Arabia,Yasser Al-Qahtani,9,FALSE,TRUE
+2004-07-18,Saudi Arabia,Turkmenistan,Saudi Arabia,Yasser Al-Qahtani,59,FALSE,FALSE
+2004-07-18,Saudi Arabia,Turkmenistan,Turkmenistan,Begençmuhammet Kulyýew,90,FALSE,FALSE
+2004-07-19,Kuwait,United Arab Emirates,Kuwait,Bashar Abdullah,24,FALSE,FALSE
+2004-07-19,Kuwait,United Arab Emirates,Kuwait,Bader Al-Mutawa,39,FALSE,TRUE
+2004-07-19,Kuwait,United Arab Emirates,Kuwait,Basheer Saeed,45,TRUE,FALSE
+2004-07-19,Kuwait,United Arab Emirates,United Arab Emirates,Mohamed Rashid,47,FALSE,FALSE
 2004-07-20,Argentina,Colombia,Argentina,Carlos Tevez,33,FALSE,FALSE
 2004-07-20,Argentina,Colombia,Argentina,Lucho González,50,FALSE,FALSE
 2004-07-20,Argentina,Colombia,Argentina,Juan Pablo Sorín,80,FALSE,FALSE
+2004-07-20,Iran,Thailand,Iran,Reza Enayati,71,FALSE,FALSE
+2004-07-20,Iran,Thailand,Iran,Javad Nekounam,80,FALSE,FALSE
+2004-07-20,Iran,Thailand,Iran,Ali Daei,86,FALSE,TRUE
+2004-07-20,Japan,Oman,Japan,Shunsuke Nakamura,33,FALSE,FALSE
+2004-07-21,Bahrain,Qatar,Qatar,Wesam Rizik,59,FALSE,TRUE
+2004-07-21,Bahrain,Qatar,Bahrain,Mohamed Hubail,90,FALSE,FALSE
+2004-07-21,China PR,Indonesia,China PR,Shao Jiayi,25,FALSE,FALSE
+2004-07-21,China PR,Indonesia,China PR,Hao Haidong,40,FALSE,FALSE
+2004-07-21,China PR,Indonesia,China PR,Li Ming,51,FALSE,FALSE
+2004-07-21,China PR,Indonesia,China PR,Shao Jiayi,66,FALSE,FALSE
+2004-07-21,China PR,Indonesia,China PR,Li Yi,80,FALSE,FALSE
 2004-07-21,Uruguay,Brazil,Uruguay,Marcelo Sosa,22,FALSE,FALSE
 2004-07-21,Uruguay,Brazil,Brazil,Adriano,46,FALSE,FALSE
+2004-07-22,Turkmenistan,Iraq,Iraq,Hawar Mulla Mohammed,12,FALSE,FALSE
+2004-07-22,Turkmenistan,Iraq,Turkmenistan,Vladimir Bayramov,14,FALSE,FALSE
+2004-07-22,Turkmenistan,Iraq,Iraq,Razzaq Farhan,80,FALSE,FALSE
+2004-07-22,Turkmenistan,Iraq,Turkmenistan,Begençmuhammet Kulyýew,85,FALSE,FALSE
+2004-07-22,Turkmenistan,Iraq,Iraq,Qusay Munir,88,FALSE,FALSE
+2004-07-22,Uzbekistan,Saudi Arabia,Uzbekistan,Alexander Geynrikh,13,FALSE,FALSE
+2004-07-23,Jordan,Kuwait,Jordan,Khaled Saad,90,FALSE,FALSE
+2004-07-23,Jordan,Kuwait,Jordan,Anas Al-Zboun,90,FALSE,FALSE
+2004-07-23,United Arab Emirates,South Korea,South Korea,Lee Dong-gook,41,FALSE,FALSE
+2004-07-23,United Arab Emirates,South Korea,South Korea,Ahn Jung-hwan,90,FALSE,FALSE
 2004-07-24,Colombia,Uruguay,Uruguay,Fabián Estoyanoff,2,FALSE,FALSE
 2004-07-24,Colombia,Uruguay,Colombia,Sergio Herrera,70,FALSE,TRUE
 2004-07-24,Colombia,Uruguay,Uruguay,Vicente Sánchez,80,FALSE,FALSE
+2004-07-24,Oman,Iran,Oman,Amad Al Hosni,31,FALSE,FALSE
+2004-07-24,Oman,Iran,Oman,Amad Al Hosni,40,FALSE,FALSE
+2004-07-24,Oman,Iran,Iran,Ali Karimi,61,FALSE,FALSE
+2004-07-24,Oman,Iran,Iran,Mohammad Nosrati,90,FALSE,FALSE
+2004-07-24,Thailand,Japan,Thailand,Sutee Suksomkit,12,FALSE,FALSE
+2004-07-24,Thailand,Japan,Japan,Shunsuke Nakamura,21,FALSE,FALSE
+2004-07-24,Thailand,Japan,Japan,Yuji Nakazawa,57,FALSE,FALSE
+2004-07-24,Thailand,Japan,Japan,Takashi Fukunishi,68,FALSE,FALSE
+2004-07-24,Thailand,Japan,Japan,Yuji Nakazawa,87,FALSE,FALSE
 2004-07-25,Argentina,Brazil,Argentina,Kily González,20,FALSE,TRUE
 2004-07-25,Argentina,Brazil,Brazil,Luisão,45,FALSE,FALSE
 2004-07-25,Argentina,Brazil,Argentina,César Delgado,87,FALSE,FALSE
 2004-07-25,Argentina,Brazil,Brazil,Adriano,90,FALSE,FALSE
+2004-07-25,Bahrain,Indonesia,Bahrain,Husain Ali,43,FALSE,FALSE
+2004-07-25,Bahrain,Indonesia,Bahrain,A'ala Hubail,57,FALSE,FALSE
+2004-07-25,Bahrain,Indonesia,Indonesia,Elie Aiboy,75,FALSE,FALSE
+2004-07-25,Bahrain,Indonesia,Bahrain,Talal Yousef,82,FALSE,FALSE
+2004-07-25,China PR,Qatar,China PR,Xu Yunlong,77,FALSE,FALSE
+2004-07-26,Saudi Arabia,Iraq,Iraq,Nashat Akram,51,FALSE,FALSE
+2004-07-26,Saudi Arabia,Iraq,Saudi Arabia,Hamad Al-Montashari,57,FALSE,FALSE
+2004-07-26,Saudi Arabia,Iraq,Iraq,Younis Mahmoud,86,FALSE,FALSE
+2004-07-26,Turkmenistan,Uzbekistan,Uzbekistan,Mirjalol Qosimov,58,FALSE,FALSE
+2004-07-27,South Korea,Kuwait,South Korea,Lee Dong-gook,25,FALSE,FALSE
+2004-07-27,South Korea,Kuwait,South Korea,Lee Dong-gook,41,FALSE,FALSE
+2004-07-27,South Korea,Kuwait,South Korea,Cha Du-ri,45,FALSE,FALSE
+2004-07-27,South Korea,Kuwait,South Korea,Ahn Jung-hwan,75,FALSE,FALSE
+2004-07-28,Oman,Thailand,Oman,Rangsan Viwatchaichok,15,TRUE,FALSE
+2004-07-28,Oman,Thailand,Oman,Amad Al Hosni,49,FALSE,FALSE
+2004-07-30,China PR,Iraq,China PR,Hao Haidong,8,FALSE,FALSE
+2004-07-30,China PR,Iraq,China PR,Zheng Zhi,81,FALSE,TRUE
+2004-07-30,China PR,Iraq,China PR,Zheng Zhi,90,FALSE,TRUE
+2004-07-30,Uzbekistan,Bahrain,Uzbekistan,Alexander Geynrikh,60,FALSE,FALSE
+2004-07-30,Uzbekistan,Bahrain,Bahrain,A'ala Hubail,71,FALSE,FALSE
+2004-07-30,Uzbekistan,Bahrain,Bahrain,A'ala Hubail,76,FALSE,FALSE
+2004-07-30,Uzbekistan,Bahrain,Uzbekistan,Vladimir Shishelov,86,FALSE,FALSE
+2004-07-31,Japan,Jordan,Jordan,Mahmoud Shelbaieh,11,FALSE,FALSE
+2004-07-31,Japan,Jordan,Japan,Takayuki Suzuki,14,FALSE,FALSE
+2004-07-31,South Korea,Iran,Iran,Ali Karimi,10,FALSE,FALSE
+2004-07-31,South Korea,Iran,South Korea,Seol Ki-hyeon,16,FALSE,FALSE
+2004-07-31,South Korea,Iran,Iran,Ali Karimi,20,FALSE,FALSE
+2004-07-31,South Korea,Iran,South Korea,Lee Dong-gook,25,FALSE,FALSE
+2004-07-31,South Korea,Iran,Iran,Park Jin-seop,51,TRUE,FALSE
+2004-07-31,South Korea,Iran,South Korea,Kim Nam-il,68,FALSE,FALSE
+2004-07-31,South Korea,Iran,Iran,Ali Karimi,77,FALSE,FALSE
+2004-08-03,Bahrain,Japan,Bahrain,A'ala Hubail,7,FALSE,FALSE
+2004-08-03,Bahrain,Japan,Japan,Koji Nakata,48,FALSE,FALSE
+2004-08-03,Bahrain,Japan,Japan,Keiji Tamada,55,FALSE,FALSE
+2004-08-03,Bahrain,Japan,Bahrain,A'ala Hubail,71,FALSE,FALSE
+2004-08-03,Bahrain,Japan,Bahrain,Duaij Naser Abdulla,85,FALSE,FALSE
+2004-08-03,Bahrain,Japan,Japan,Yuji Nakazawa,90,FALSE,FALSE
+2004-08-03,Bahrain,Japan,Japan,Keiji Tamada,93,FALSE,FALSE
+2004-08-03,China PR,Iran,China PR,Shao Jiayi,18,FALSE,FALSE
+2004-08-03,China PR,Iran,Iran,Mohammad Alavi,38,FALSE,FALSE
+2004-08-06,Iran,Bahrain,Iran,Javad Nekounam,9,FALSE,FALSE
+2004-08-06,Iran,Bahrain,Bahrain,Talal Yousef,48,FALSE,FALSE
+2004-08-06,Iran,Bahrain,Iran,Ali Karimi,52,FALSE,FALSE
+2004-08-06,Iran,Bahrain,Bahrain,Saleh Ahmed Farhan,57,FALSE,FALSE
+2004-08-06,Iran,Bahrain,Iran,Ali Daei,80,FALSE,TRUE
+2004-08-06,Iran,Bahrain,Iran,Ali Daei,90,FALSE,FALSE
+2004-08-07,China PR,Japan,Japan,Takashi Fukunishi,22,FALSE,FALSE
+2004-08-07,China PR,Japan,China PR,Li Ming,31,FALSE,FALSE
+2004-08-07,China PR,Japan,Japan,Koji Nakata,65,FALSE,FALSE
+2004-08-07,China PR,Japan,Japan,Keiji Tamada,90,FALSE,FALSE
 2005-06-15,Argentina,Tunisia,Argentina,Juan Román Riquelme,33,FALSE,TRUE
 2005-06-15,Argentina,Tunisia,Argentina,Javier Saviola,57,FALSE,FALSE
 2005-06-15,Argentina,Tunisia,Tunisia,Haykel Guemamdia,72,FALSE,TRUE
@@ -6445,7 +7043,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2006-06-14,Spain,Ukraine,Spain,David Villa,48,FALSE,TRUE
 2006-06-14,Spain,Ukraine,Spain,Fernando Torres,81,FALSE,FALSE
 2006-06-14,Tunisia,Saudi Arabia,Tunisia,Ziad Jaziri,23,FALSE,FALSE
-2006-06-14,Tunisia,Saudi Arabia,Saudi Arabia,Yasser Al Qahtani,57,FALSE,FALSE
+2006-06-14,Tunisia,Saudi Arabia,Saudi Arabia,Yasser Al-Qahtani,57,FALSE,FALSE
 2006-06-14,Tunisia,Saudi Arabia,Saudi Arabia,Sami Al-Jaber,84,FALSE,FALSE
 2006-06-14,Tunisia,Saudi Arabia,Tunisia,Radhi Jaïdi,90,FALSE,FALSE
 2006-06-15,Ecuador,Costa Rica,Ecuador,Carlos Tenorio,8,FALSE,FALSE
@@ -6676,6 +7274,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2007-07-07,Chile,Brazil,Brazil,Josué Anunciado de Oliveira,68,FALSE,FALSE
 2007-07-07,Chile,Brazil,Chile,Humberto Suazo,76,FALSE,FALSE
 2007-07-07,Chile,Brazil,Brazil,Vágner Love,85,FALSE,FALSE
+2007-07-07,Thailand,Iraq,Thailand,Sutee Suksomkit,6,FALSE,TRUE
+2007-07-07,Thailand,Iraq,Iraq,Younis Mahmoud,32,FALSE,FALSE
 2007-07-07,Venezuela,Uruguay,Uruguay,Diego Forlán,38,FALSE,FALSE
 2007-07-07,Venezuela,Uruguay,Venezuela,Juan Arango,41,FALSE,FALSE
 2007-07-07,Venezuela,Uruguay,Uruguay,Pablo García,64,FALSE,FALSE
@@ -6685,26 +7285,108 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2007-07-08,Argentina,Peru,Argentina,Lionel Messi,61,FALSE,FALSE
 2007-07-08,Argentina,Peru,Argentina,Javier Mascherano,75,FALSE,FALSE
 2007-07-08,Argentina,Peru,Argentina,Juan Román Riquelme,85,FALSE,FALSE
+2007-07-08,Australia,Oman,Oman,Badar Al-Maimani,32,FALSE,FALSE
+2007-07-08,Australia,Oman,Australia,Tim Cahill,90,FALSE,FALSE
 2007-07-08,Mexico,Paraguay,Mexico,Nery Castillo,5,FALSE,TRUE
 2007-07-08,Mexico,Paraguay,Mexico,Gerardo Torrado,27,FALSE,FALSE
 2007-07-08,Mexico,Paraguay,Mexico,Nery Castillo,38,FALSE,FALSE
 2007-07-08,Mexico,Paraguay,Mexico,Fernando Arce,79,FALSE,FALSE
 2007-07-08,Mexico,Paraguay,Mexico,Cuauhtémoc Blanco,87,FALSE,TRUE
 2007-07-08,Mexico,Paraguay,Mexico,Omar Bravo,90,FALSE,FALSE
+2007-07-08,Vietnam,United Arab Emirates,Vietnam,Huỳnh Quang Thanh,64,FALSE,FALSE
+2007-07-08,Vietnam,United Arab Emirates,Vietnam,Lê Công Vinh,73,FALSE,FALSE
+2007-07-09,Japan,Qatar,Japan,Naohiro Takahara,61,FALSE,FALSE
+2007-07-09,Japan,Qatar,Qatar,Sebastián Soria,88,FALSE,FALSE
+2007-07-10,Indonesia,Bahrain,Indonesia,Budi Sudarsono,14,FALSE,FALSE
+2007-07-10,Indonesia,Bahrain,Bahrain,Sayed Mahmood Jalal,27,FALSE,FALSE
+2007-07-10,Indonesia,Bahrain,Indonesia,Bambang Pamungkas,64,FALSE,FALSE
+2007-07-10,Malaysia,China PR,China PR,Han Peng,15,FALSE,FALSE
+2007-07-10,Malaysia,China PR,China PR,Shao Jiayi,36,FALSE,FALSE
+2007-07-10,Malaysia,China PR,China PR,Wang Dong,51,FALSE,FALSE
+2007-07-10,Malaysia,China PR,China PR,Han Peng,55,FALSE,FALSE
+2007-07-10,Malaysia,China PR,Malaysia,Indra Putra Mahayuddin,74,FALSE,FALSE
+2007-07-10,Malaysia,China PR,China PR,Wang Dong,90,FALSE,FALSE
 2007-07-10,Uruguay,Brazil,Brazil,Maicon Sisenando,13,FALSE,FALSE
 2007-07-10,Uruguay,Brazil,Uruguay,Diego Forlán,36,FALSE,FALSE
 2007-07-10,Uruguay,Brazil,Brazil,Júlio Baptista,41,FALSE,FALSE
 2007-07-10,Uruguay,Brazil,Uruguay,Sebastián Abreu,69,FALSE,FALSE
+2007-07-11,Iran,Uzbekistan,Uzbekistan,Rahman Rezaei,16,TRUE,FALSE
+2007-07-11,Iran,Uzbekistan,Iran,Jalal Hosseini,55,FALSE,FALSE
+2007-07-11,Iran,Uzbekistan,Iran,Javad Kazemian,78,FALSE,FALSE
 2007-07-11,Mexico,Argentina,Argentina,Gabriel Heinze,45,FALSE,FALSE
 2007-07-11,Mexico,Argentina,Argentina,Lionel Messi,61,FALSE,FALSE
 2007-07-11,Mexico,Argentina,Argentina,Juan Román Riquelme,65,FALSE,TRUE
+2007-07-11,South Korea,Saudi Arabia,South Korea,Choi Sung-kuk,66,FALSE,FALSE
+2007-07-11,South Korea,Saudi Arabia,Saudi Arabia,Yasser Al-Qahtani,77,FALSE,TRUE
+2007-07-12,Thailand,Oman,Thailand,Pipat Thonkanya,70,FALSE,FALSE
+2007-07-12,Thailand,Oman,Thailand,Pipat Thonkanya,78,FALSE,FALSE
+2007-07-12,Vietnam,Qatar,Vietnam,Phan Thanh Bình,32,FALSE,FALSE
+2007-07-12,Vietnam,Qatar,Qatar,Sebastián Soria,79,FALSE,FALSE
+2007-07-13,Iraq,Australia,Iraq,Nashat Akram,22,FALSE,FALSE
+2007-07-13,Iraq,Australia,Australia,Mark Viduka,47,FALSE,FALSE
+2007-07-13,Iraq,Australia,Iraq,Hawar Mulla Mohammed,60,FALSE,FALSE
+2007-07-13,Iraq,Australia,Iraq,Karrar Jassim,86,FALSE,FALSE
+2007-07-13,United Arab Emirates,Japan,Japan,Naohiro Takahara,22,FALSE,FALSE
+2007-07-13,United Arab Emirates,Japan,Japan,Naohiro Takahara,27,FALSE,FALSE
+2007-07-13,United Arab Emirates,Japan,Japan,Shunsuke Nakamura,42,FALSE,TRUE
+2007-07-13,United Arab Emirates,Japan,United Arab Emirates,Saeed Al-Kass,66,FALSE,FALSE
+2007-07-14,Indonesia,Saudi Arabia,Saudi Arabia,Yasser Al-Qahtani,12,FALSE,FALSE
+2007-07-14,Indonesia,Saudi Arabia,Indonesia,Elie Aiboy,17,FALSE,FALSE
+2007-07-14,Indonesia,Saudi Arabia,Saudi Arabia,Saad Al-Harthi,90,FALSE,FALSE
+2007-07-14,Malaysia,Uzbekistan,Uzbekistan,Maksim Shatskikh,10,FALSE,FALSE
+2007-07-14,Malaysia,Uzbekistan,Uzbekistan,Timur Kapadze,30,FALSE,FALSE
+2007-07-14,Malaysia,Uzbekistan,Uzbekistan,Ulugbek Bakayev,45,FALSE,TRUE
+2007-07-14,Malaysia,Uzbekistan,Uzbekistan,Aziz Ibrahimov,85,FALSE,FALSE
+2007-07-14,Malaysia,Uzbekistan,Uzbekistan,Maksim Shatskikh,89,FALSE,FALSE
 2007-07-14,Mexico,Uruguay,Uruguay,Sebastián Abreu,22,FALSE,FALSE
 2007-07-14,Mexico,Uruguay,Mexico,Cuauhtémoc Blanco,36,FALSE,TRUE
 2007-07-14,Mexico,Uruguay,Mexico,Omar Bravo,68,FALSE,FALSE
 2007-07-14,Mexico,Uruguay,Mexico,Andrés Guardado,76,FALSE,FALSE
+2007-07-15,Bahrain,South Korea,South Korea,Kim Do-heon,4,FALSE,FALSE
+2007-07-15,Bahrain,South Korea,Bahrain,Salman Isa,43,FALSE,FALSE
+2007-07-15,Bahrain,South Korea,Bahrain,Ismail Abdul-Latif,85,FALSE,FALSE
 2007-07-15,Brazil,Argentina,Brazil,Júlio Baptista,4,FALSE,FALSE
 2007-07-15,Brazil,Argentina,Brazil,Roberto Ayala,40,TRUE,FALSE
 2007-07-15,Brazil,Argentina,Brazil,Dani Alves,69,FALSE,FALSE
+2007-07-15,China PR,Iran,China PR,Shao Jiayi,7,FALSE,FALSE
+2007-07-15,China PR,Iran,China PR,Mao Jianqing,33,FALSE,FALSE
+2007-07-15,China PR,Iran,Iran,Ferydoon Zandi,45,FALSE,FALSE
+2007-07-15,China PR,Iran,Iran,Javad Nekounam,74,FALSE,FALSE
+2007-07-16,Qatar,United Arab Emirates,Qatar,Sebastián Soria,42,FALSE,TRUE
+2007-07-16,Qatar,United Arab Emirates,United Arab Emirates,Saeed Al-Kass,60,FALSE,FALSE
+2007-07-16,Qatar,United Arab Emirates,United Arab Emirates,Faisal Khalil,90,FALSE,FALSE
+2007-07-16,Thailand,Australia,Australia,Michael Beauchamp,21,FALSE,FALSE
+2007-07-16,Thailand,Australia,Australia,Mark Viduka,80,FALSE,FALSE
+2007-07-16,Thailand,Australia,Australia,Mark Viduka,83,FALSE,FALSE
+2007-07-16,Thailand,Australia,Australia,Harry Kewell,90,FALSE,FALSE
+2007-07-16,Vietnam,Japan,Vietnam,Keita Suzuki,8,TRUE,FALSE
+2007-07-16,Vietnam,Japan,Japan,Seiichiro Maki,12,FALSE,FALSE
+2007-07-16,Vietnam,Japan,Japan,Yasuhito Endō,31,FALSE,FALSE
+2007-07-16,Vietnam,Japan,Japan,Shunsuke Nakamura,53,FALSE,FALSE
+2007-07-16,Vietnam,Japan,Japan,Seiichiro Maki,59,FALSE,FALSE
+2007-07-18,Indonesia,South Korea,South Korea,Kim Jung-woo,34,FALSE,FALSE
+2007-07-18,Malaysia,Iran,Iran,Javad Nekounam,29,FALSE,TRUE
+2007-07-18,Malaysia,Iran,Iran,Andranik Teymourian,77,FALSE,FALSE
+2007-07-18,Saudi Arabia,Bahrain,Saudi Arabia,Ahmed Al-Mousa,18,FALSE,FALSE
+2007-07-18,Saudi Arabia,Bahrain,Saudi Arabia,Abdulrahman Al-Qahtani,45,FALSE,FALSE
+2007-07-18,Saudi Arabia,Bahrain,Saudi Arabia,Taisir Al-Jassim,68,FALSE,FALSE
+2007-07-18,Saudi Arabia,Bahrain,Saudi Arabia,Taisir Al-Jassim,79,FALSE,FALSE
+2007-07-18,Uzbekistan,China PR,Uzbekistan,Maksim Shatskikh,72,FALSE,FALSE
+2007-07-18,Uzbekistan,China PR,Uzbekistan,Timur Kapadze,86,FALSE,FALSE
+2007-07-18,Uzbekistan,China PR,Uzbekistan,Alexander Geynrikh,90,FALSE,FALSE
+2007-07-21,Iraq,Vietnam,Iraq,Younis Mahmoud,2,FALSE,FALSE
+2007-07-21,Iraq,Vietnam,Iraq,Younis Mahmoud,65,FALSE,FALSE
+2007-07-21,Japan,Australia,Australia,John Aloisi,70,FALSE,FALSE
+2007-07-21,Japan,Australia,Japan,Naohiro Takahara,72,FALSE,FALSE
+2007-07-22,Saudi Arabia,Uzbekistan,Saudi Arabia,Yasser Al-Qahtani,3,FALSE,FALSE
+2007-07-22,Saudi Arabia,Uzbekistan,Saudi Arabia,Ahmed Al-Mousa,75,FALSE,FALSE
+2007-07-22,Saudi Arabia,Uzbekistan,Uzbekistan,Pavel Solomin,82,FALSE,FALSE
+2007-07-25,Japan,Saudi Arabia,Saudi Arabia,Yasser Al-Qahtani,35,FALSE,FALSE
+2007-07-25,Japan,Saudi Arabia,Japan,Yuji Nakazawa,37,FALSE,FALSE
+2007-07-25,Japan,Saudi Arabia,Saudi Arabia,Malek Mouath,47,FALSE,FALSE
+2007-07-25,Japan,Saudi Arabia,Japan,Yuki Abe,53,FALSE,FALSE
+2007-07-25,Japan,Saudi Arabia,Saudi Arabia,Malek Mouath,57,FALSE,FALSE
+2007-07-29,Iraq,Saudi Arabia,Iraq,Younis Mahmoud,72,FALSE,FALSE
 2008-01-20,Ghana,Guinea,Ghana,Asamoah Gyan,55,FALSE,TRUE
 2008-01-20,Ghana,Guinea,Guinea,Oumar Kalabane,65,FALSE,FALSE
 2008-01-20,Ghana,Guinea,Ghana,Sulley Muntari,90,FALSE,FALSE
@@ -7207,6 +7889,96 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2010-07-10,Uruguay,Germany,Germany,Marcell Jansen,56,FALSE,FALSE
 2010-07-10,Uruguay,Germany,Germany,Sami Khedira,82,FALSE,FALSE
 2010-07-11,Netherlands,Spain,Spain,Andrés Iniesta,116,FALSE,FALSE
+2011-01-07,Qatar,Uzbekistan,Uzbekistan,Odil Ahmedov,59,FALSE,FALSE
+2011-01-07,Qatar,Uzbekistan,Uzbekistan,Server Djeparov,77,FALSE,FALSE
+2011-01-08,Kuwait,China PR,China PR,Zhang Linpeng,58,FALSE,FALSE
+2011-01-08,Kuwait,China PR,China PR,Deng Zhuoxiang,67,FALSE,FALSE
+2011-01-09,Japan,Jordan,Jordan,Hassan Abdel Fattah,45,FALSE,FALSE
+2011-01-09,Japan,Jordan,Japan,Maya Yoshida,90,FALSE,FALSE
+2011-01-09,Saudi Arabia,Syria,Syria,Abdelrazaq Al Hussain,38,FALSE,FALSE
+2011-01-09,Saudi Arabia,Syria,Saudi Arabia,Taisir Al-Jassim,60,FALSE,FALSE
+2011-01-09,Saudi Arabia,Syria,Syria,Abdelrazaq Al Hussain,63,FALSE,FALSE
+2011-01-10,India,Australia,Australia,Tim Cahill,11,FALSE,FALSE
+2011-01-10,India,Australia,Australia,Harry Kewell,25,FALSE,FALSE
+2011-01-10,India,Australia,Australia,Brett Holman,45,FALSE,FALSE
+2011-01-10,India,Australia,Australia,Tim Cahill,65,FALSE,FALSE
+2011-01-10,South Korea,Bahrain,South Korea,Koo Ja-cheol,41,FALSE,FALSE
+2011-01-10,South Korea,Bahrain,South Korea,Koo Ja-cheol,56,FALSE,FALSE
+2011-01-10,South Korea,Bahrain,Bahrain,Faouzi Mubarak Aaish,85,FALSE,TRUE
+2011-01-11,Iraq,Iran,Iraq,Younis Mahmoud,13,FALSE,FALSE
+2011-01-11,Iraq,Iran,Iran,Gholamreza Rezaei,42,FALSE,FALSE
+2011-01-11,Iraq,Iran,Iran,Iman Mobali,84,FALSE,FALSE
+2011-01-12,Qatar,China PR,Qatar,Yusef Ahmed,27,FALSE,FALSE
+2011-01-12,Qatar,China PR,Qatar,Yusef Ahmed,45,FALSE,FALSE
+2011-01-12,Uzbekistan,Kuwait,Uzbekistan,Maksim Shatskikh,41,FALSE,FALSE
+2011-01-12,Uzbekistan,Kuwait,Kuwait,Bader Al-Mutawa,49,FALSE,TRUE
+2011-01-12,Uzbekistan,Kuwait,Uzbekistan,Server Djeparov,65,FALSE,FALSE
+2011-01-13,Jordan,Saudi Arabia,Jordan,Baha' Abdel-Rahman,42,FALSE,FALSE
+2011-01-13,Syria,Japan,Japan,Makoto Hasebe,35,FALSE,FALSE
+2011-01-13,Syria,Japan,Syria,Firas Al Khatib,76,FALSE,TRUE
+2011-01-13,Syria,Japan,Japan,Keisuke Honda,82,FALSE,TRUE
+2011-01-14,Australia,South Korea,South Korea,Koo Ja-cheol,24,FALSE,FALSE
+2011-01-14,Australia,South Korea,Australia,Mile Jedinak,62,FALSE,FALSE
+2011-01-14,Bahrain,India,Bahrain,Faouzi Mubarak Aaish,8,FALSE,TRUE
+2011-01-14,Bahrain,India,India,Gouramangi Singh,9,FALSE,FALSE
+2011-01-14,Bahrain,India,Bahrain,Ismail Abdul-Latif,16,FALSE,FALSE
+2011-01-14,Bahrain,India,Bahrain,Ismail Abdul-Latif,19,FALSE,FALSE
+2011-01-14,Bahrain,India,Bahrain,Ismail Abdul-Latif,35,FALSE,FALSE
+2011-01-14,Bahrain,India,India,Sunil Chhetri,52,FALSE,FALSE
+2011-01-14,Bahrain,India,Bahrain,Ismail Abdul-Latif,77,FALSE,FALSE
+2011-01-15,Iran,North Korea,Iran,Karim Ansarifard,63,FALSE,FALSE
+2011-01-15,United Arab Emirates,Iraq,Iraq,Walid Abbas,90,TRUE,FALSE
+2011-01-16,China PR,Uzbekistan,China PR,Yu Hai,6,FALSE,FALSE
+2011-01-16,China PR,Uzbekistan,Uzbekistan,Odil Ahmedov,30,FALSE,FALSE
+2011-01-16,China PR,Uzbekistan,Uzbekistan,Alexander Geynrikh,46,FALSE,FALSE
+2011-01-16,China PR,Uzbekistan,China PR,Hao Junmin,56,FALSE,FALSE
+2011-01-16,Qatar,Kuwait,Qatar,Bilal Mohammed,12,FALSE,FALSE
+2011-01-16,Qatar,Kuwait,Qatar,Mohamed El-Sayed,16,FALSE,FALSE
+2011-01-16,Qatar,Kuwait,Qatar,Fábio César Montezine,86,FALSE,FALSE
+2011-01-17,Jordan,Syria,Syria,Mohamed Al Zeno,15,FALSE,FALSE
+2011-01-17,Jordan,Syria,Jordan,Ali Diab,30,TRUE,FALSE
+2011-01-17,Jordan,Syria,Jordan,Odai Al-Saify,59,FALSE,FALSE
+2011-01-17,Saudi Arabia,Japan,Japan,Shinji Okazaki,8,FALSE,FALSE
+2011-01-17,Saudi Arabia,Japan,Japan,Shinji Okazaki,13,FALSE,FALSE
+2011-01-17,Saudi Arabia,Japan,Japan,Ryoichi Maeda,19,FALSE,FALSE
+2011-01-17,Saudi Arabia,Japan,Japan,Ryoichi Maeda,51,FALSE,FALSE
+2011-01-17,Saudi Arabia,Japan,Japan,Shinji Okazaki,80,FALSE,FALSE
+2011-01-18,Australia,Bahrain,Australia,Mile Jedinak,37,FALSE,FALSE
+2011-01-18,South Korea,India,South Korea,Ji Dong-won,6,FALSE,FALSE
+2011-01-18,South Korea,India,South Korea,Koo Ja-cheol,9,FALSE,FALSE
+2011-01-18,South Korea,India,India,Sunil Chhetri,12,FALSE,TRUE
+2011-01-18,South Korea,India,South Korea,Ji Dong-won,23,FALSE,FALSE
+2011-01-18,South Korea,India,South Korea,Son Heung-min,81,FALSE,FALSE
+2011-01-19,Iraq,North Korea,Iraq,Karrar Jassim,22,FALSE,FALSE
+2011-01-19,United Arab Emirates,Iran,Iran,Arash Afshin,67,FALSE,FALSE
+2011-01-19,United Arab Emirates,Iran,Iran,Mohammad Nouri,83,FALSE,FALSE
+2011-01-19,United Arab Emirates,Iran,Iran,Walid Abbas,90,TRUE,FALSE
+2011-01-21,Qatar,Japan,Qatar,Sebastián Soria,13,FALSE,FALSE
+2011-01-21,Qatar,Japan,Japan,Shinji Kagawa,29,FALSE,FALSE
+2011-01-21,Qatar,Japan,Qatar,Fábio César Montezine,63,FALSE,FALSE
+2011-01-21,Qatar,Japan,Japan,Shinji Kagawa,71,FALSE,FALSE
+2011-01-21,Qatar,Japan,Japan,Masahiko Inoha,89,FALSE,FALSE
+2011-01-21,Uzbekistan,Jordan,Uzbekistan,Ulugbek Bakayev,47,FALSE,FALSE
+2011-01-21,Uzbekistan,Jordan,Uzbekistan,Ulugbek Bakayev,49,FALSE,FALSE
+2011-01-21,Uzbekistan,Jordan,Jordan,Bashar Bani Yaseen,58,FALSE,FALSE
+2011-01-22,Australia,Iraq,Australia,Harry Kewell,118,FALSE,FALSE
+2011-01-22,Iran,South Korea,South Korea,Yoon Bit-garam,105,FALSE,FALSE
+2011-01-25,Japan,South Korea,South Korea,Ki Sung-yueng,23,FALSE,TRUE
+2011-01-25,Japan,South Korea,Japan,Ryoichi Maeda,36,FALSE,FALSE
+2011-01-25,Japan,South Korea,Japan,Hajime Hosogai,97,FALSE,FALSE
+2011-01-25,Japan,South Korea,South Korea,Hwang Jae-won,120,FALSE,FALSE
+2011-01-25,Uzbekistan,Australia,Australia,Harry Kewell,5,FALSE,FALSE
+2011-01-25,Uzbekistan,Australia,Australia,Saša Ognenovski,35,FALSE,FALSE
+2011-01-25,Uzbekistan,Australia,Australia,David Carney,65,FALSE,FALSE
+2011-01-25,Uzbekistan,Australia,Australia,Brett Emerton,73,FALSE,FALSE
+2011-01-25,Uzbekistan,Australia,Australia,Carl Valeri,82,FALSE,FALSE
+2011-01-25,Uzbekistan,Australia,Australia,Robbie Kruse,83,FALSE,FALSE
+2011-01-28,Uzbekistan,South Korea,South Korea,Koo Ja-cheol,18,FALSE,FALSE
+2011-01-28,Uzbekistan,South Korea,South Korea,Ji Dong-won,28,FALSE,FALSE
+2011-01-28,Uzbekistan,South Korea,South Korea,Ji Dong-won,39,FALSE,FALSE
+2011-01-28,Uzbekistan,South Korea,Uzbekistan,Alexander Geynrikh,45,FALSE,TRUE
+2011-01-28,Uzbekistan,South Korea,Uzbekistan,Alexander Geynrikh,53,FALSE,FALSE
+2011-01-29,Australia,Japan,Japan,Tadanari Lee,109,FALSE,FALSE
 2011-06-05,Costa Rica,Cuba,Costa Rica,Marco Ureña,7,FALSE,FALSE
 2011-06-05,Costa Rica,Cuba,Costa Rica,Álvaro Saborío,41,FALSE,FALSE
 2011-06-05,Costa Rica,Cuba,Costa Rica,Marco Ureña,46,FALSE,FALSE
@@ -7868,12 +8640,65 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2014-07-12,Brazil,Netherlands,Netherlands,Daley Blind,17,FALSE,FALSE
 2014-07-12,Brazil,Netherlands,Netherlands,Georginio Wijnaldum,90,FALSE,FALSE
 2014-07-13,Germany,Argentina,Germany,Mario Götze,113,FALSE,FALSE
+2015-01-09,Australia,Kuwait,Kuwait,Hussain Fadhel,8,FALSE,FALSE
+2015-01-09,Australia,Kuwait,Australia,Tim Cahill,33,FALSE,FALSE
+2015-01-09,Australia,Kuwait,Australia,Massimo Luongo,45,FALSE,FALSE
+2015-01-09,Australia,Kuwait,Australia,Mile Jedinak,62,FALSE,TRUE
+2015-01-09,Australia,Kuwait,Australia,James Troisi,90,FALSE,FALSE
+2015-01-10,Saudi Arabia,China PR,China PR,Yu Hai,81,FALSE,FALSE
+2015-01-10,South Korea,Oman,South Korea,Cho Young-cheol,45,FALSE,FALSE
+2015-01-10,Uzbekistan,North Korea,Uzbekistan,Igor Sergeev,62,FALSE,FALSE
+2015-01-11,Iran,Bahrain,Iran,Ehsan Hajsafi,45,FALSE,FALSE
+2015-01-11,Iran,Bahrain,Iran,Masoud Shojaei,71,FALSE,FALSE
+2015-01-11,United Arab Emirates,Qatar,Qatar,Khalfan Ibrahim,23,FALSE,FALSE
+2015-01-11,United Arab Emirates,Qatar,United Arab Emirates,Ahmed Khalil,37,FALSE,FALSE
+2015-01-11,United Arab Emirates,Qatar,United Arab Emirates,Ahmed Khalil,52,FALSE,FALSE
+2015-01-11,United Arab Emirates,Qatar,United Arab Emirates,Ali Mabkhout,56,FALSE,FALSE
+2015-01-11,United Arab Emirates,Qatar,United Arab Emirates,Ali Mabkhout,90,FALSE,FALSE
+2015-01-12,Japan,Palestine,Japan,Yasuhito Endō,8,FALSE,FALSE
+2015-01-12,Japan,Palestine,Japan,Shinji Okazaki,25,FALSE,FALSE
+2015-01-12,Japan,Palestine,Japan,Keisuke Honda,43,FALSE,TRUE
+2015-01-12,Japan,Palestine,Japan,Maya Yoshida,49,FALSE,FALSE
+2015-01-12,Jordan,Iraq,Iraq,Yaser Kasim,77,FALSE,FALSE
+2015-01-13,Australia,Oman,Australia,Matt McKay,27,FALSE,FALSE
+2015-01-13,Australia,Oman,Australia,Robbie Kruse,30,FALSE,FALSE
+2015-01-13,Australia,Oman,Australia,Mark Milligan,45,FALSE,TRUE
+2015-01-13,Australia,Oman,Australia,Tomi Juric,70,FALSE,FALSE
+2015-01-13,Kuwait,South Korea,South Korea,Nam Tae-hee,36,FALSE,FALSE
+2015-01-14,China PR,Uzbekistan,Uzbekistan,Odil Ahmedov,23,FALSE,FALSE
+2015-01-14,China PR,Uzbekistan,China PR,Wu Xi,54,FALSE,FALSE
+2015-01-14,China PR,Uzbekistan,China PR,Sun Ke,68,FALSE,FALSE
+2015-01-14,North Korea,Saudi Arabia,North Korea,Ryang Yong-gi,12,FALSE,FALSE
+2015-01-14,North Korea,Saudi Arabia,Saudi Arabia,Naif Hazazi,37,FALSE,FALSE
+2015-01-14,North Korea,Saudi Arabia,Saudi Arabia,Mohammad Al-Sahlawi,52,FALSE,FALSE
+2015-01-14,North Korea,Saudi Arabia,Saudi Arabia,Mohammad Al-Sahlawi,54,FALSE,FALSE
+2015-01-14,North Korea,Saudi Arabia,Saudi Arabia,Nawaf Al Abed,76,FALSE,FALSE
+2015-01-15,Bahrain,United Arab Emirates,United Arab Emirates,Ali Mabkhout,1,FALSE,FALSE
+2015-01-15,Bahrain,United Arab Emirates,Bahrain,Jaycee John Okwunwanne,26,FALSE,FALSE
+2015-01-15,Bahrain,United Arab Emirates,United Arab Emirates,Mohamed Husain,74,TRUE,FALSE
+2015-01-15,Qatar,Iran,Iran,Sardar Azmoun,52,FALSE,FALSE
+2015-01-16,Iraq,Japan,Japan,Keisuke Honda,23,FALSE,TRUE
+2015-01-16,Palestine,Jordan,Jordan,Yousef Al-Rawashdeh,32,FALSE,FALSE
+2015-01-16,Palestine,Jordan,Jordan,Hamza Al-Dardour,34,FALSE,FALSE
+2015-01-16,Palestine,Jordan,Jordan,Hamza Al-Dardour,45,FALSE,FALSE
+2015-01-16,Palestine,Jordan,Jordan,Hamza Al-Dardour,75,FALSE,FALSE
+2015-01-16,Palestine,Jordan,Jordan,Hamza Al-Dardour,79,FALSE,FALSE
+2015-01-16,Palestine,Jordan,Palestine,Jaka Ihbeisheh,84,FALSE,FALSE
+2015-01-17,Australia,South Korea,South Korea,Lee Jung-hyup,33,FALSE,FALSE
 2015-01-17,Burkina Faso,Gabon,Gabon,Pierre-Emerick Aubameyang,19,FALSE,FALSE
 2015-01-17,Burkina Faso,Gabon,Gabon,Malick Evouna,72,FALSE,FALSE
 2015-01-17,Equatorial Guinea,Congo,Equatorial Guinea,Emilio Nsue,16,FALSE,FALSE
 2015-01-17,Equatorial Guinea,Congo,Congo,Thievy Bifouma,87,FALSE,FALSE
+2015-01-17,Oman,Kuwait,Oman,Abdulaziz Al-Muqbali,69,FALSE,FALSE
+2015-01-18,China PR,North Korea,China PR,Sun Ke,1,FALSE,FALSE
+2015-01-18,China PR,North Korea,China PR,Sun Ke,42,FALSE,FALSE
+2015-01-18,China PR,North Korea,North Korea,Gao Lin,57,TRUE,FALSE
 2015-01-18,Tunisia,Cape Verde,Tunisia,Mohamed Ali Manser,70,FALSE,FALSE
 2015-01-18,Tunisia,Cape Verde,Cape Verde,Héldon Ramos,78,FALSE,TRUE
+2015-01-18,Uzbekistan,Saudi Arabia,Uzbekistan,Sardor Rashidov,2,FALSE,FALSE
+2015-01-18,Uzbekistan,Saudi Arabia,Saudi Arabia,Mohammad Al-Sahlawi,60,FALSE,TRUE
+2015-01-18,Uzbekistan,Saudi Arabia,Uzbekistan,Vokhid Shodiev,71,FALSE,FALSE
+2015-01-18,Uzbekistan,Saudi Arabia,Uzbekistan,Sardor Rashidov,78,FALSE,FALSE
 2015-01-18,Zambia,DR Congo,Zambia,Given Singuluma,2,FALSE,FALSE
 2015-01-18,Zambia,DR Congo,DR Congo,Yannick Bolasie,66,FALSE,FALSE
 2015-01-19,Algeria,South Africa,South Africa,Thuso Phala,51,FALSE,FALSE
@@ -7883,15 +8708,35 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-01-19,Ghana,Senegal,Ghana,André Ayew,14,FALSE,TRUE
 2015-01-19,Ghana,Senegal,Senegal,Mame Biram Diouf,58,FALSE,FALSE
 2015-01-19,Ghana,Senegal,Senegal,Moussa Sow,90,FALSE,FALSE
+2015-01-19,Iran,United Arab Emirates,Iran,Reza Ghoochannejhad,90,FALSE,FALSE
+2015-01-19,Qatar,Bahrain,Bahrain,Sayed Saeed,34,FALSE,FALSE
+2015-01-19,Qatar,Bahrain,Qatar,Hassan Al-Haydos,68,FALSE,FALSE
+2015-01-19,Qatar,Bahrain,Bahrain,Sayed Jaafar Ahmed,82,FALSE,FALSE
+2015-01-20,Iraq,Palestine,Iraq,Younis Mahmoud,48,FALSE,FALSE
+2015-01-20,Iraq,Palestine,Iraq,Ahmed Yasin Ghani,88,FALSE,FALSE
 2015-01-20,Ivory Coast,Guinea,Guinea,Mohamed Yattara,36,FALSE,FALSE
 2015-01-20,Ivory Coast,Guinea,Ivory Coast,Seydou Doumbia,72,FALSE,FALSE
+2015-01-20,Japan,Jordan,Japan,Keisuke Honda,24,FALSE,FALSE
+2015-01-20,Japan,Jordan,Japan,Shinji Kagawa,82,FALSE,FALSE
 2015-01-20,Mali,Cameroon,Mali,Sambou Yatabaré,71,FALSE,FALSE
 2015-01-20,Mali,Cameroon,Cameroon,Ambroise Oyongo,84,FALSE,FALSE
 2015-01-21,Gabon,Congo,Congo,Prince Oniangué,48,FALSE,FALSE
+2015-01-22,Australia,China PR,Australia,Tim Cahill,48,FALSE,FALSE
+2015-01-22,Australia,China PR,Australia,Tim Cahill,65,FALSE,FALSE
+2015-01-22,South Korea,Uzbekistan,South Korea,Son Heung-min,104,FALSE,FALSE
+2015-01-22,South Korea,Uzbekistan,South Korea,Son Heung-min,119,FALSE,FALSE
 2015-01-22,Zambia,Tunisia,Zambia,Emmanuel Mayuka,60,FALSE,FALSE
 2015-01-22,Zambia,Tunisia,Tunisia,Ahmed Akaïchi,70,FALSE,FALSE
 2015-01-22,Zambia,Tunisia,Tunisia,Yassine Chikhaoui,89,FALSE,FALSE
 2015-01-23,Ghana,Algeria,Ghana,Asamoah Gyan,90,FALSE,FALSE
+2015-01-23,Iran,Iraq,Iran,Sardar Azmoun,24,FALSE,FALSE
+2015-01-23,Iran,Iraq,Iraq,Ahmed Yasin Ghani,56,FALSE,FALSE
+2015-01-23,Iran,Iraq,Iraq,Younis Mahmoud,93,FALSE,FALSE
+2015-01-23,Iran,Iraq,Iran,Morteza Pouraliganji,103,FALSE,FALSE
+2015-01-23,Iran,Iraq,Iraq,Dhurgham Ismail,116,FALSE,TRUE
+2015-01-23,Iran,Iraq,Iran,Reza Ghoochannejhad,119,FALSE,FALSE
+2015-01-23,Japan,United Arab Emirates,United Arab Emirates,Ali Mabkhout,7,FALSE,FALSE
+2015-01-23,Japan,United Arab Emirates,Japan,Gaku Shibasaki,81,FALSE,FALSE
 2015-01-23,South Africa,Senegal,South Africa,Oupa Manyisa,47,FALSE,FALSE
 2015-01-23,South Africa,Senegal,Senegal,Kara Mbodji,60,FALSE,FALSE
 2015-01-24,Cameroon,Guinea,Cameroon,Benjamin Moukandjo,13,FALSE,FALSE
@@ -7905,6 +8750,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-01-25,Equatorial Guinea,Gabon,Equatorial Guinea,Iván Salvador,85,FALSE,FALSE
 2015-01-26,DR Congo,Tunisia,Tunisia,Ahmed Akaïchi,31,FALSE,FALSE
 2015-01-26,DR Congo,Tunisia,DR Congo,Jeremy Bokila,66,FALSE,FALSE
+2015-01-26,South Korea,Iraq,South Korea,Lee Jung-hyup,20,FALSE,FALSE
+2015-01-26,South Korea,Iraq,South Korea,Kim Young-gwon,50,FALSE,FALSE
+2015-01-27,Australia,United Arab Emirates,Australia,Trent Sainsbury,3,FALSE,FALSE
+2015-01-27,Australia,United Arab Emirates,Australia,Jason Davidson,14,FALSE,FALSE
 2015-01-27,Senegal,Algeria,Algeria,Riyad Mahrez,11,FALSE,FALSE
 2015-01-27,Senegal,Algeria,Algeria,Nabil Bentaleb,82,FALSE,FALSE
 2015-01-27,South Africa,Ghana,South Africa,Mandla Masango,17,FALSE,FALSE
@@ -7913,6 +8762,14 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-01-28,Cameroon,Ivory Coast,Ivory Coast,Max Gradel,35,FALSE,FALSE
 2015-01-28,Guinea,Mali,Guinea,Kévin Constant,15,FALSE,TRUE
 2015-01-28,Guinea,Mali,Mali,Modibo Maïga,47,FALSE,FALSE
+2015-01-30,Iraq,United Arab Emirates,United Arab Emirates,Ahmed Khalil,16,FALSE,FALSE
+2015-01-30,Iraq,United Arab Emirates,Iraq,Waleed Salim Al-Lami,28,FALSE,FALSE
+2015-01-30,Iraq,United Arab Emirates,Iraq,Amjad Kalaf,42,FALSE,FALSE
+2015-01-30,Iraq,United Arab Emirates,United Arab Emirates,Ahmed Khalil,51,FALSE,FALSE
+2015-01-30,Iraq,United Arab Emirates,United Arab Emirates,Ali Mabkhout,57,FALSE,TRUE
+2015-01-31,Australia,South Korea,Australia,Massimo Luongo,45,FALSE,FALSE
+2015-01-31,Australia,South Korea,South Korea,Son Heung-min,90,FALSE,FALSE
+2015-01-31,Australia,South Korea,Australia,James Troisi,105,FALSE,FALSE
 2015-01-31,Congo,DR Congo,Congo,Férébory Doré,55,FALSE,FALSE
 2015-01-31,Congo,DR Congo,Congo,Thievy Bifouma,62,FALSE,FALSE
 2015-01-31,Congo,DR Congo,DR Congo,Dieumerci Mbokani,65,FALSE,FALSE
@@ -8589,6 +9446,136 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2018-07-15,France,Croatia,France,Paul Pogba,59,FALSE,FALSE
 2018-07-15,France,Croatia,France,Kylian Mbappé,65,FALSE,FALSE
 2018-07-15,France,Croatia,Croatia,Mario Mandžukić,69,FALSE,FALSE
+2019-01-05,United Arab Emirates,Bahrain,Bahrain,Mohamed Al Romaihi,78,FALSE,FALSE
+2019-01-05,United Arab Emirates,Bahrain,United Arab Emirates,Ahmed Khalil,88,FALSE,TRUE
+2019-01-06,Australia,Jordan,Jordan,Anas Bani Yaseen,26,FALSE,FALSE
+2019-01-06,Thailand,India,India,Sunil Chhetri,27,FALSE,TRUE
+2019-01-06,Thailand,India,Thailand,Teerasil Dangda,33,FALSE,FALSE
+2019-01-06,Thailand,India,India,Sunil Chhetri,46,FALSE,FALSE
+2019-01-06,Thailand,India,India,Anirudh Thapa,68,FALSE,FALSE
+2019-01-06,Thailand,India,India,Jeje Lalpekhlua,80,FALSE,FALSE
+2019-01-07,China PR,Kyrgyzstan,Kyrgyzstan,Akhlidin Israilov,42,FALSE,FALSE
+2019-01-07,China PR,Kyrgyzstan,China PR,Pavel Matyash,50,TRUE,FALSE
+2019-01-07,China PR,Kyrgyzstan,China PR,Yu Dabao,78,FALSE,FALSE
+2019-01-07,Iran,Yemen,Iran,Mehdi Taremi,12,FALSE,FALSE
+2019-01-07,Iran,Yemen,Iran,Ashkan Dejagah,23,FALSE,FALSE
+2019-01-07,Iran,Yemen,Iran,Mehdi Taremi,25,FALSE,FALSE
+2019-01-07,Iran,Yemen,Iran,Sardar Azmoun,53,FALSE,FALSE
+2019-01-07,Iran,Yemen,Iran,Saman Ghoddos,78,FALSE,FALSE
+2019-01-07,South Korea,Philippines,South Korea,Hwang Ui-jo,67,FALSE,FALSE
+2019-01-08,Iraq,Vietnam,Vietnam,Ali Faez,24,TRUE,FALSE
+2019-01-08,Iraq,Vietnam,Iraq,Mohanad Ali,35,FALSE,FALSE
+2019-01-08,Iraq,Vietnam,Vietnam,Nguyễn Công Phượng,42,FALSE,FALSE
+2019-01-08,Iraq,Vietnam,Iraq,Humam Tariq,60,FALSE,FALSE
+2019-01-08,Iraq,Vietnam,Iraq,Ali Adnan Kadhim,90,FALSE,FALSE
+2019-01-08,Saudi Arabia,North Korea,Saudi Arabia,Hattan Bahebri,28,FALSE,FALSE
+2019-01-08,Saudi Arabia,North Korea,Saudi Arabia,Mohammed Al-Fatil,37,FALSE,FALSE
+2019-01-08,Saudi Arabia,North Korea,Saudi Arabia,Salem Al-Dawsari,70,FALSE,FALSE
+2019-01-08,Saudi Arabia,North Korea,Saudi Arabia,Fahad Al-Muwallad,87,FALSE,FALSE
+2019-01-09,Japan,Turkmenistan,Turkmenistan,Arslanmyrat Amanow,26,FALSE,FALSE
+2019-01-09,Japan,Turkmenistan,Japan,Yuya Osako,56,FALSE,FALSE
+2019-01-09,Japan,Turkmenistan,Japan,Yuya Osako,60,FALSE,FALSE
+2019-01-09,Japan,Turkmenistan,Japan,Ritsu Doan,71,FALSE,FALSE
+2019-01-09,Japan,Turkmenistan,Turkmenistan,Ahmet Ataýew,79,FALSE,TRUE
+2019-01-09,Qatar,Lebanon,Qatar,Bassam Al-Rawi,65,FALSE,FALSE
+2019-01-09,Qatar,Lebanon,Qatar,Almoez Ali,79,FALSE,FALSE
+2019-01-09,Uzbekistan,Oman,Uzbekistan,Odil Ahmedov,34,FALSE,FALSE
+2019-01-09,Uzbekistan,Oman,Oman,Muhsen Al-Ghassani,72,FALSE,FALSE
+2019-01-09,Uzbekistan,Oman,Uzbekistan,Eldor Shomurodov,85,FALSE,FALSE
+2019-01-10,Bahrain,Thailand,Thailand,Chanathip Songkrasin,58,FALSE,FALSE
+2019-01-10,Jordan,Syria,Jordan,Musa Al-Taamari,26,FALSE,FALSE
+2019-01-10,Jordan,Syria,Jordan,Tareq Khattab,43,FALSE,FALSE
+2019-01-10,United Arab Emirates,India,United Arab Emirates,Khalfan Mubarak,41,FALSE,FALSE
+2019-01-10,United Arab Emirates,India,United Arab Emirates,Ali Mabkhout,88,FALSE,FALSE
+2019-01-11,Kyrgyzstan,South Korea,South Korea,Kim Min-jae,41,FALSE,FALSE
+2019-01-11,Palestine,Australia,Australia,Jamie Maclaren,18,FALSE,FALSE
+2019-01-11,Palestine,Australia,Australia,Awer Mabil,20,FALSE,FALSE
+2019-01-11,Palestine,Australia,Australia,Apostolos Giannou,90,FALSE,FALSE
+2019-01-11,Philippines,China PR,China PR,Wu Lei,40,FALSE,FALSE
+2019-01-11,Philippines,China PR,China PR,Wu Lei,66,FALSE,FALSE
+2019-01-11,Philippines,China PR,China PR,Yu Dabao,80,FALSE,FALSE
+2019-01-12,Lebanon,Saudi Arabia,Saudi Arabia,Fahad Al-Muwallad,12,FALSE,FALSE
+2019-01-12,Lebanon,Saudi Arabia,Saudi Arabia,Housain Al-Mogahwi,67,FALSE,FALSE
+2019-01-12,Vietnam,Iran,Iran,Sardar Azmoun,38,FALSE,FALSE
+2019-01-12,Vietnam,Iran,Iran,Sardar Azmoun,69,FALSE,FALSE
+2019-01-12,Yemen,Iraq,Iraq,Mohanad Ali,11,FALSE,FALSE
+2019-01-12,Yemen,Iraq,Iraq,Bashar Resan,19,FALSE,FALSE
+2019-01-12,Yemen,Iraq,Iraq,Alaa Abbas,90,FALSE,FALSE
+2019-01-13,North Korea,Qatar,Qatar,Almoez Ali,9,FALSE,FALSE
+2019-01-13,North Korea,Qatar,Qatar,Almoez Ali,11,FALSE,FALSE
+2019-01-13,North Korea,Qatar,Qatar,Boualem Khoukhi,43,FALSE,FALSE
+2019-01-13,North Korea,Qatar,Qatar,Almoez Ali,55,FALSE,FALSE
+2019-01-13,North Korea,Qatar,Qatar,Almoez Ali,60,FALSE,FALSE
+2019-01-13,North Korea,Qatar,Qatar,Abdelkarim Hassan,68,FALSE,FALSE
+2019-01-13,Oman,Japan,Japan,Genki Haraguchi,28,FALSE,TRUE
+2019-01-13,Turkmenistan,Uzbekistan,Uzbekistan,Javokhir Sidikov,17,FALSE,FALSE
+2019-01-13,Turkmenistan,Uzbekistan,Uzbekistan,Eldor Shomurodov,24,FALSE,FALSE
+2019-01-13,Turkmenistan,Uzbekistan,Uzbekistan,Jaloliddin Masharipov,40,FALSE,FALSE
+2019-01-13,Turkmenistan,Uzbekistan,Uzbekistan,Eldor Shomurodov,42,FALSE,FALSE
+2019-01-14,India,Bahrain,Bahrain,Jamal Rashid,90,FALSE,TRUE
+2019-01-14,United Arab Emirates,Thailand,United Arab Emirates,Ali Mabkhout,7,FALSE,FALSE
+2019-01-14,United Arab Emirates,Thailand,Thailand,Thitipan Puangchan,41,FALSE,FALSE
+2019-01-15,Australia,Syria,Australia,Awer Mabil,41,FALSE,FALSE
+2019-01-15,Australia,Syria,Syria,Omar Kharbin,43,FALSE,FALSE
+2019-01-15,Australia,Syria,Australia,Chris Ikonomidis,54,FALSE,FALSE
+2019-01-15,Australia,Syria,Syria,Omar Al Somah,80,FALSE,TRUE
+2019-01-15,Australia,Syria,Australia,Tom Rogic,90,FALSE,FALSE
+2019-01-16,Kyrgyzstan,Philippines,Kyrgyzstan,Vitalij Lux,24,FALSE,FALSE
+2019-01-16,Kyrgyzstan,Philippines,Kyrgyzstan,Vitalij Lux,51,FALSE,FALSE
+2019-01-16,Kyrgyzstan,Philippines,Kyrgyzstan,Vitalij Lux,77,FALSE,FALSE
+2019-01-16,Kyrgyzstan,Philippines,Philippines,Stephan Schröck,80,FALSE,FALSE
+2019-01-16,South Korea,China PR,South Korea,Hwang Ui-jo,14,FALSE,TRUE
+2019-01-16,South Korea,China PR,South Korea,Kim Min-jae,51,FALSE,FALSE
+2019-01-16,Vietnam,Yemen,Vietnam,Nguyễn Quang Hải,38,FALSE,FALSE
+2019-01-16,Vietnam,Yemen,Vietnam,Quế Ngọc Hải,64,FALSE,TRUE
+2019-01-17,Japan,Uzbekistan,Uzbekistan,Eldor Shomurodov,40,FALSE,FALSE
+2019-01-17,Japan,Uzbekistan,Japan,Yoshinori Muto,43,FALSE,FALSE
+2019-01-17,Japan,Uzbekistan,Japan,Tsukasa Shiotani,58,FALSE,FALSE
+2019-01-17,Lebanon,North Korea,North Korea,Pak Kwang-ryong,9,FALSE,FALSE
+2019-01-17,Lebanon,North Korea,Lebanon,Felix Michel Melki,27,FALSE,FALSE
+2019-01-17,Lebanon,North Korea,Lebanon,Hilal El-Helwe,65,FALSE,FALSE
+2019-01-17,Lebanon,North Korea,Lebanon,Hassan Maatouk,80,FALSE,TRUE
+2019-01-17,Lebanon,North Korea,Lebanon,Hilal El-Helwe,90,FALSE,FALSE
+2019-01-17,Oman,Turkmenistan,Oman,Ahmed Mubarak Al-Mahaijri,20,FALSE,FALSE
+2019-01-17,Oman,Turkmenistan,Turkmenistan,Altymyrat Annadurdyýew,41,FALSE,FALSE
+2019-01-17,Oman,Turkmenistan,Oman,Muhsen Al-Ghassani,84,FALSE,FALSE
+2019-01-17,Oman,Turkmenistan,Oman,Mohammed Al-Musalami,90,FALSE,FALSE
+2019-01-17,Saudi Arabia,Qatar,Qatar,Almoez Ali,45,FALSE,FALSE
+2019-01-17,Saudi Arabia,Qatar,Qatar,Almoez Ali,80,FALSE,FALSE
+2019-01-20,Iran,Oman,Iran,Alireza Jahanbakhsh,32,FALSE,FALSE
+2019-01-20,Iran,Oman,Iran,Ashkan Dejagah,41,FALSE,TRUE
+2019-01-20,Jordan,Vietnam,Jordan,Baha' Abdel-Rahman,39,FALSE,FALSE
+2019-01-20,Jordan,Vietnam,Vietnam,Nguyễn Công Phượng,51,FALSE,FALSE
+2019-01-20,Thailand,China PR,Thailand,Supachai Jaided,31,FALSE,FALSE
+2019-01-20,Thailand,China PR,China PR,Xiao Zhi,67,FALSE,FALSE
+2019-01-20,Thailand,China PR,China PR,Gao Lin,71,FALSE,TRUE
+2019-01-21,Japan,Saudi Arabia,Japan,Takehiro Tomiyasu,20,FALSE,FALSE
+2019-01-21,United Arab Emirates,Kyrgyzstan,United Arab Emirates,Khamis Esmaeel,14,FALSE,FALSE
+2019-01-21,United Arab Emirates,Kyrgyzstan,Kyrgyzstan,Mirlan Murzaev,26,FALSE,FALSE
+2019-01-21,United Arab Emirates,Kyrgyzstan,United Arab Emirates,Ali Mabkhout,64,FALSE,FALSE
+2019-01-21,United Arab Emirates,Kyrgyzstan,Kyrgyzstan,Tursunali Rustamov,90,FALSE,FALSE
+2019-01-21,United Arab Emirates,Kyrgyzstan,United Arab Emirates,Ahmed Khalil,103,FALSE,TRUE
+2019-01-22,Qatar,Iraq,Qatar,Bassam Al-Rawi,62,FALSE,FALSE
+2019-01-22,South Korea,Bahrain,South Korea,Hwang Hee-chan,43,FALSE,FALSE
+2019-01-22,South Korea,Bahrain,Bahrain,Mohamed Al Romaihi,77,FALSE,FALSE
+2019-01-22,South Korea,Bahrain,South Korea,Kim Jin-su,105,FALSE,FALSE
+2019-01-24,China PR,Iran,Iran,Mehdi Taremi,18,FALSE,FALSE
+2019-01-24,China PR,Iran,Iran,Sardar Azmoun,31,FALSE,FALSE
+2019-01-24,China PR,Iran,Iran,Karim Ansarifard,90,FALSE,FALSE
+2019-01-24,Vietnam,Japan,Japan,Ritsu Doan,57,FALSE,TRUE
+2019-01-25,South Korea,Qatar,Qatar,Abdulaziz Hatem,78,FALSE,FALSE
+2019-01-25,United Arab Emirates,Australia,United Arab Emirates,Ali Mabkhout,68,FALSE,FALSE
+2019-01-28,Iran,Japan,Japan,Yuya Osako,56,FALSE,FALSE
+2019-01-28,Iran,Japan,Japan,Yuya Osako,67,FALSE,TRUE
+2019-01-28,Iran,Japan,Japan,Genki Haraguchi,90,FALSE,FALSE
+2019-01-29,United Arab Emirates,Qatar,Qatar,Boualem Khoukhi,22,FALSE,FALSE
+2019-01-29,United Arab Emirates,Qatar,Qatar,Almoez Ali,37,FALSE,FALSE
+2019-01-29,United Arab Emirates,Qatar,Qatar,Hassan Al-Haydos,80,FALSE,FALSE
+2019-01-29,United Arab Emirates,Qatar,Qatar,Hamid Ismail,90,FALSE,FALSE
+2019-02-01,Japan,Qatar,Qatar,Almoez Ali,12,FALSE,FALSE
+2019-02-01,Japan,Qatar,Qatar,Abdulaziz Hatem,27,FALSE,FALSE
+2019-02-01,Japan,Qatar,Japan,Takumi Minamino,69,FALSE,FALSE
+2019-02-01,Japan,Qatar,Qatar,Akram Afif,83,FALSE,TRUE
 2019-06-14,Brazil,Bolivia,Brazil,Philippe Coutinho,50,FALSE,TRUE
 2019-06-14,Brazil,Bolivia,Brazil,Philippe Coutinho,53,FALSE,FALSE
 2019-06-14,Brazil,Bolivia,Brazil,Everton Soares,85,FALSE,FALSE
