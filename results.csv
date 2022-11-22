@@ -44102,13 +44102,68 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-11-16,Uzbekistan,Kazakhstan,2,0,Friendly,Tashkent,Uzbekistan,FALSE
 2022-11-16,Lithuania,Iceland,0,0,Baltic Cup,Kaunas,Lithuania,FALSE
 2022-11-16,Latvia,Estonia,1,1,Baltic Cup,Riga,Latvia,FALSE
-2022-11-20,Qatar,Ecuador,NA,NA,FIFA World Cup,Al Khor,Qatar,FALSE
-2022-11-21,Senegal,Netherlands,NA,NA,FIFA World Cup,Doha,Qatar,TRUE
-2022-11-21,England,Iran,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
-2022-11-21,United States,Wales,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
-2022-11-22,Argentina,Saudi Arabia,NA,NA,FIFA World Cup,Lusail,Qatar,TRUE
+2022-11-17,Angola,Botswana,1,0,Friendly,Soweto,South Africa,TRUE
+2022-11-17,Gabon,Guinea-Bissau,3,1,Friendly,Antalya,Turkey,TRUE
+2022-11-17,Israel,Zambia,4,2,Friendly,Petah Tikva,Israel,FALSE
+2022-11-17,Japan,Canada,1,2,Friendly,Dubai,United Arab Emirates,TRUE
+2022-11-17,Jordan,Spain,1,3,Friendly,Amman,Jordan,FALSE
+2022-11-17,Luxembourg,Hungary,2,2,Friendly,Luxembourg,Luxembourg,FALSE
+2022-11-17,Malta,Greece,2,2,Friendly,Ta' Qali,Malta,FALSE
+2022-11-17,Montenegro,Slovakia,2,2,Friendly,Podgorica,Montenegro,FALSE
+2022-11-17,Morocco,Georgia,3,0,Friendly,Sharjah,United Arab Emirates,TRUE
+2022-11-17,Niger,Libya,2,3,Friendly,Antalya,Turkey,TRUE
+2022-11-17,North Macedonia,Finland,1,1,Friendly,Skopje,North Macedonia,FALSE
+2022-11-17,Portugal,Nigeria,4,0,Friendly,Lisbon,Portugal,FALSE
+2022-11-17,Republic of Ireland,Norway,1,2,Friendly,Dublin,Republic of Ireland,FALSE
+2022-11-17,Romania,Slovenia,1,2,Friendly,Cluj-Napoca,Romania,FALSE
+2022-19-22,Rwanda,Sudan,0,0,Friendly,Kigali,Rwanda,FALSE
+2022-11-17,South Africa,Mozambique,2,1,Friendly,Mbombela,South Africa,FALSE
+2022-11-17,Saint Lucia,San Marino,1,1,Friendly,Gros Islet,Saint Lucia,FALSE
+2022-11-17,Switzerland,Ghana,0,2,Friendly,Abu Dhabi,United Arab Emirates,TRUE
+2022-11-17,Syria,Belarus,0,1,Friendly,Dubai,United Arab Emirates,TRUE
+2022-11-17,Tajikistan,Russia,0,0,Friendly,Dushanbe,Tajikistan,FALSE
+2022-11-18,Bahrain,Serbia,1,5,Friendly,Arad,Bahrain,FALSE
+2022-11-18,Cameroon,Panama,1,1,Friendly,Abu Dhabi,United Arab Emirates,TRUE
+2022-11-18,Dominican Republic,Cuba,1,1,Friendly,San Cristóbal,Dominican Republic,FALSE
+2022-11-18,Egypt,Belgium,2,1,Friendly,Kuwait City,Kuwait,TRUE
+2022-11-19,Albania,Armenia,2,0,Friendly,Tirana,Albania,FALSE
+2022-11-19,Colombia,Paraguay,2,0,Friendly,Fort Lauderdale,United States,TRUE
+2022-11-19,Gibraltar,Andorra,1,0,Friendly,Gibraltar,Gibraltar,FALSE
+2022-11-19,Guatemala,Nicaragua,3,1,Friendly,Carson,United States,TRUE
+2022-11-19,Ivory Coast,Burkina Faso,1,2,Friendly,Marrakech,Morocco,TRUE
+2022-11-19,Kosovo,Faroe Islands,1,1,Friendly,Pristina,Kosovo,FALSE
+2022-11-19,Kuwait,Lebanon,2,0,Friendly,Dubai,United Arab Emirates,TRUE
+2022-11-19,Peru,Bolivia,1,0,Friendly,Arequipa,Peru,FALSE
+2022-19-22,Rwanda,Sudan,1,0,Friendly,Kigali,Rwanda,FALSE
+2022-11-19,Sweden,Algeria,2,0,Friendly,Malmö,Sweden,FALSE
+2022-11-19,Turkey,Czech Republic,2,1,Friendly,Gaziantep,Turkey,FALSE
+2022-11-19,United Arab Emirates,Kazakhstan,2,1,Friendly,Abu Dhabi,United Arab Emirates,FALSE
+2022-11-19,Estonia,Lithuania,2,0,Baltic Cup,Tallinn,Estonia,FALSE
+2022-11-19,Latvia,Iceland,1,1,Baltic Cup,Riga,Latvia,FALSE
+2022-11-20,Austria,Italy,2,0,Friendly,Vienna,Austria,FALSE
+2022-11-20,Gambia,Guinea-Bissau,0,0,Friendly,Antalya,Turkey,TRUE
+2022-11-20,Hungary,Greece,2,1,Friendly,Budapest,Hungary,FALSE
+2022-11-20,Israel,Cyprus,2,3,Friendly,Petah Tikva,Israel,FALSE
+2022-11-20,Luxembourg,Bulgaria,0,0,Friendly,Luxembourg,Luxembourg,FALSE
+2022-11-20,Malta,Republic of Ireland,0,1,Friendly,Ta' Qali,Malta,FALSE
+2022-11-20,Moldova,Romania,0,5,Friendly,Chișinău,Moldova,FALSE
+2022-11-20,Niger,Gabon,1,3,Friendly,Antalya,Turkey,TRUE
+2022-11-20,North Macedonia,Azerbaijan,1,3,Friendly,Skopje,North Macedonia,FALSE
+2022-11-20,Norway,Finland,1,1,Friendly,Oslo,Norway,FALSE
+2022-11-20,Oman,Belarus,2,0,Friendly,Al Ain,United Arab Emirates,TRUE
+2022-11-20,Slovakia,Chile,0,0,Friendly,Bratislava,Slovakia,FALSE
+2022-11-20,Slovenia,Montenegro,1,0,Friendly,Ljubljana,Slovenia,FALSE
+2022-11-20,South Africa,Angola,1,1,Friendly,Mbombela,South Africa,FALSE
+2022-11-20,Saint Lucia,San Marino,1,0,Friendly,Gros Islet,Saint Lucia,FALSE
+2022-11-20,Syria,Venezuela,1,2,Friendly,Dubai,United Arab Emirates,TRUE
+2022-11-20,Uzbekistan,Russia,0,0,Friendly,Tashkent,Uzbekistan,FALSE
+2022-11-20,Qatar,Ecuador,0,2,FIFA World Cup,Al Khor,Qatar,FALSE
+2022-11-21,Senegal,Netherlands,0,2,FIFA World Cup,Doha,Qatar,TRUE
+2022-11-21,England,Iran,6,2,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-21,United States,Wales,1,1,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-22,Argentina,Saudi Arabia,1,2,FIFA World Cup,Lusail,Qatar,TRUE
 2022-11-22,Mexico,Poland,NA,NA,FIFA World Cup,Doha,Qatar,TRUE
-2022-11-22,Denmark,Tunisia,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-22,Denmark,Tunisia,0,0,FIFA World Cup,Al Rayyan,Qatar,TRUE
 2022-11-22,France,Australia,NA,NA,FIFA World Cup,Al Wakrah,Qatar,TRUE
 2022-11-23,Germany,Japan,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
 2022-11-23,Spain,Costa Rica,NA,NA,FIFA World Cup,Doha,Qatar,TRUE
