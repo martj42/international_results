@@ -10771,3 +10771,25 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2022-06-01,Italy,Argentina,Argentina,Lautaro Martínez,28,FALSE,FALSE
 2022-06-01,Italy,Argentina,Argentina,Ángel Di María,45,FALSE,FALSE
 2022-06-01,Italy,Argentina,Argentina,Paulo Dybala,90,FALSE,FALSE
+2022-11-20,Qatar,Ecuador,Ecuador,Enner Valencia,16,FALSE,TRUE
+2022-11-20,Qatar,Ecuador,Ecuador,Enner Valencia,31,FALSE,FALSE
+2022-11-21,England,Iran,England,Jude Bellingham,35,FALSE,FALSE
+2022-11-21,England,Iran,England,Bukayo Saka,43,FALSE,FALSE
+2022-11-21,England,Iran,England,Raheem Sterling,45,FALSE,FALSE
+2022-11-21,England,Iran,England,Bukayo Saka,62,FALSE,FALSE
+2022-11-21,England,Iran,Iran,Mehdi Taremi,65,FALSE,FALSE
+2022-11-21,England,Iran,England,Marcus Rashford,71,FALSE,FALSE
+2022-11-21,England,Iran,England,Jack Grealish,90,FALSE,FALSE
+2022-11-21,England,Iran,Iran,Mehdi Taremi,90,FALSE,TRUE
+2022-11-21,Senegal,Netherlands,Netherlands,Cody Gakpo,84,FALSE,FALSE
+2022-11-21,Senegal,Netherlands,Netherlands,Davy Klaassen,90,FALSE,FALSE
+2022-11-21,United States,Wales,United States,Timothy Weah,36,FALSE,FALSE
+2022-11-21,United States,Wales,Wales,Gareth Bale,82,FALSE,TRUE
+2022-11-22,Argentina,Saudi Arabia,Argentina,Lionel Messi,10,FALSE,TRUE
+2022-11-22,Argentina,Saudi Arabia,Saudi Arabia,Saleh Al-Shehri,48,FALSE,FALSE
+2022-11-22,Argentina,Saudi Arabia,Saudi Arabia,Salem Al-Dawsari,53,FALSE,FALSE
+2022-11-22,France,Australia,Australia,Craig Goodwin,9,FALSE,FALSE
+2022-11-22,France,Australia,France,Adrien Rabiot,27,FALSE,FALSE
+2022-11-22,France,Australia,France,Olivier Giroud,32,FALSE,FALSE
+2022-11-22,France,Australia,France,Kylian Mbappé,68,FALSE,FALSE
+2022-11-22,France,Australia,France,Olivier Giroud,71,FALSE,FALSE
