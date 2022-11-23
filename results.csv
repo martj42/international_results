@@ -43952,7 +43952,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-09-23,Canada,Qatar,2,0,Friendly,Vienna,Austria,TRUE
 2022-09-23,DR Congo,Burkina Faso,0,1,Friendly,Casablanca,Morocco,TRUE
 2022-09-23,Egypt,Niger,3,0,Friendly,Alexandria,Egypt,FALSE
-2022-09-23,Iran,Uruguay,1,0,Friendly,St Polten,Austria,TRUE
+2022-09-23,Iran,Uruguay,1,0,Friendly,Sankt Pölten,Austria,TRUE
 2022-09-23,Iraq,Oman,1,1,Jordan International Tournament,Amman,Jordan,TRUE
 2022-09-23,Jordan,Syria,2,0,Jordan International Tournament,Amman,Jordan,FALSE
 2022-09-23,South Korea,Costa Rica,2,2,Friendly,Goyang,South Korea,FALSE
@@ -44166,9 +44166,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-11-22,Denmark,Tunisia,0,0,FIFA World Cup,Al Rayyan,Qatar,TRUE
 2022-11-22,France,Australia,4,1,FIFA World Cup,Al Wakrah,Qatar,TRUE
 2022-11-23,Germany,Japan,1,2,FIFA World Cup,Al Rayyan,Qatar,TRUE
-2022-11-23,Spain,Costa Rica,NA,NA,FIFA World Cup,Doha,Qatar,TRUE
+2022-11-23,Spain,Costa Rica,7,0,FIFA World Cup,Doha,Qatar,TRUE
 2022-11-23,Morocco,Croatia,0,0,FIFA World Cup,Al Khor,Qatar,TRUE
-2022-11-23,Belgium,Canada,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-23,Belgium,Canada,1,0,FIFA World Cup,Al Rayyan,Qatar,TRUE
 2022-11-24,Switzerland,Cameroon,NA,NA,FIFA World Cup,Al Wakrah,Qatar,TRUE
 2022-11-24,Brazil,Serbia,NA,NA,FIFA World Cup,Lusail,Qatar,TRUE
 2022-11-24,Uruguay,South Korea,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
