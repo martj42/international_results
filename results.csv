@@ -44116,7 +44116,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-11-17,Portugal,Nigeria,4,0,Friendly,Lisbon,Portugal,FALSE
 2022-11-17,Republic of Ireland,Norway,1,2,Friendly,Dublin,Republic of Ireland,FALSE
 2022-11-17,Romania,Slovenia,1,2,Friendly,Cluj-Napoca,Romania,FALSE
-2022-19-22,Rwanda,Sudan,0,0,Friendly,Kigali,Rwanda,FALSE
+2022-11-17,Rwanda,Sudan,0,0,Friendly,Kigali,Rwanda,FALSE
 2022-11-17,South Africa,Mozambique,2,1,Friendly,Mbombela,South Africa,FALSE
 2022-11-17,Saint Lucia,San Marino,1,1,Friendly,Gros Islet,Saint Lucia,FALSE
 2022-11-17,Switzerland,Ghana,0,2,Friendly,Abu Dhabi,United Arab Emirates,TRUE
@@ -44134,7 +44134,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-11-19,Kosovo,Faroe Islands,1,1,Friendly,Pristina,Kosovo,FALSE
 2022-11-19,Kuwait,Lebanon,2,0,Friendly,Dubai,United Arab Emirates,TRUE
 2022-11-19,Peru,Bolivia,1,0,Friendly,Arequipa,Peru,FALSE
-2022-19-22,Rwanda,Sudan,1,0,Friendly,Kigali,Rwanda,FALSE
+2022-11-19,Rwanda,Sudan,1,0,Friendly,Kigali,Rwanda,FALSE
 2022-11-19,Sweden,Algeria,2,0,Friendly,Malmö,Sweden,FALSE
 2022-11-19,Turkey,Czech Republic,2,1,Friendly,Gaziantep,Turkey,FALSE
 2022-11-19,United Arab Emirates,Kazakhstan,2,1,Friendly,Abu Dhabi,United Arab Emirates,FALSE
@@ -44165,9 +44165,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-11-22,Mexico,Poland,0,0,FIFA World Cup,Doha,Qatar,TRUE
 2022-11-22,Denmark,Tunisia,0,0,FIFA World Cup,Al Rayyan,Qatar,TRUE
 2022-11-22,France,Australia,4,1,FIFA World Cup,Al Wakrah,Qatar,TRUE
-2022-11-23,Germany,Japan,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-23,Germany,Japan,1,2,FIFA World Cup,Al Rayyan,Qatar,TRUE
 2022-11-23,Spain,Costa Rica,NA,NA,FIFA World Cup,Doha,Qatar,TRUE
-2022-11-23,Morocco,Croatia,NA,NA,FIFA World Cup,Al Khor,Qatar,TRUE
+2022-11-23,Morocco,Croatia,0,0,FIFA World Cup,Al Khor,Qatar,TRUE
 2022-11-23,Belgium,Canada,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
 2022-11-24,Switzerland,Cameroon,NA,NA,FIFA World Cup,Al Wakrah,Qatar,TRUE
 2022-11-24,Brazil,Serbia,NA,NA,FIFA World Cup,Lusail,Qatar,TRUE

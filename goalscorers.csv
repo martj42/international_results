@@ -10013,7 +10013,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-01-09,Japan,Turkmenistan,Turkmenistan,Arslanmyrat Amanow,26,FALSE,FALSE
 2019-01-09,Japan,Turkmenistan,Japan,Yuya Osako,56,FALSE,FALSE
 2019-01-09,Japan,Turkmenistan,Japan,Yuya Osako,60,FALSE,FALSE
-2019-01-09,Japan,Turkmenistan,Japan,Ritsu Doan,71,FALSE,FALSE
+2019-01-09,Japan,Turkmenistan,Japan,Ritsu Dōan,71,FALSE,FALSE
 2019-01-09,Japan,Turkmenistan,Turkmenistan,Ahmet Ataýew,79,FALSE,TRUE
 2019-01-09,Qatar,Lebanon,Qatar,Bassam Al-Rawi,65,FALSE,FALSE
 2019-01-09,Qatar,Lebanon,Qatar,Almoez Ali,79,FALSE,FALSE
@@ -10100,7 +10100,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-01-24,China PR,Iran,Iran,Mehdi Taremi,18,FALSE,FALSE
 2019-01-24,China PR,Iran,Iran,Sardar Azmoun,31,FALSE,FALSE
 2019-01-24,China PR,Iran,Iran,Karim Ansarifard,90,FALSE,FALSE
-2019-01-24,Vietnam,Japan,Japan,Ritsu Doan,57,FALSE,TRUE
+2019-01-24,Vietnam,Japan,Japan,Ritsu Dōan,57,FALSE,TRUE
 2019-01-25,South Korea,Qatar,Qatar,Abdulaziz Hatem,78,FALSE,FALSE
 2019-01-25,United Arab Emirates,Australia,United Arab Emirates,Ali Mabkhout,68,FALSE,FALSE
 2019-01-28,Iran,Japan,Japan,Yuya Osako,56,FALSE,FALSE
@@ -10779,7 +10779,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2022-11-21,England,Iran,England,Bukayo Saka,62,FALSE,FALSE
 2022-11-21,England,Iran,Iran,Mehdi Taremi,65,FALSE,FALSE
 2022-11-21,England,Iran,England,Marcus Rashford,71,FALSE,FALSE
-2022-11-21,England,Iran,England,Jack Grealish,90,FALSE,FALSE
+2022-11-21,England,Iran,England,Jack Grealish,89,FALSE,FALSE
 2022-11-21,England,Iran,Iran,Mehdi Taremi,90,FALSE,TRUE
 2022-11-21,Senegal,Netherlands,Netherlands,Cody Gakpo,84,FALSE,FALSE
 2022-11-21,Senegal,Netherlands,Netherlands,Davy Klaassen,90,FALSE,FALSE
@@ -10793,3 +10793,6 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2022-11-22,France,Australia,France,Olivier Giroud,32,FALSE,FALSE
 2022-11-22,France,Australia,France,Kylian Mbappé,68,FALSE,FALSE
 2022-11-22,France,Australia,France,Olivier Giroud,71,FALSE,FALSE
+2022-11-23,Germany,Japan,Germany,İlkay Gündoğan,33,FALSE,TRUE
+2022-11-23,Germany,Japan,Japan,Ritsu Dōan,75,FALSE,FALSE
+2022-11-23,Germany,Japan,Japan,Takuma Asano,83,FALSE,FALSE
