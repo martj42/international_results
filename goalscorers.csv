@@ -5941,19 +5941,6 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1999-08-04,Mexico,Brazil,Mexico,Miguel Zepeda,51,FALSE,FALSE
 1999-08-04,Mexico,Brazil,Mexico,Cuauhtémoc Blanco,62,FALSE,FALSE
 1999-08-04,Mexico,Brazil,Brazil,Zé Roberto,63,FALSE,FALSE
-1999-10-06,El Salvador,Haiti,El Salvador,Elías Montes,3,FALSE,FALSE
-1999-10-06,El Salvador,Haiti,Haiti,Johnny Descolines,80,FALSE,FALSE
-1999-10-08,Canada,El Salvador,Canada,Carlo Corazzin,9,FALSE,FALSE
-1999-10-08,Canada,El Salvador,El Salvador,Raúl Díaz Arce,47,FALSE,TRUE
-1999-10-08,Canada,El Salvador,Canada,Carl Fletcher,59,FALSE,FALSE
-1999-10-08,Cuba,Haiti,Haiti,Johnny Descolines,75,FALSE,FALSE
-1999-10-10,Canada,Haiti,Canada,Carlo Corazzin,9,FALSE,FALSE
-1999-10-10,Canada,Haiti,Canada,Carlo Corazzin,43,FALSE,FALSE
-1999-10-10,Canada,Haiti,Haiti,Johnny Descolines,48,FALSE,FALSE
-1999-10-10,Cuba,El Salvador,Cuba,Manuel Bobadilla,43,FALSE,FALSE
-1999-10-10,Cuba,El Salvador,El Salvador,Raúl Díaz Arce,63,FALSE,TRUE
-1999-10-10,Cuba,El Salvador,Cuba,Serguei Prado,75,FALSE,FALSE
-1999-10-10,Cuba,El Salvador,Cuba,Andrés Roldán,90,FALSE,FALSE
 2000-01-22,Ghana,Cameroon,Cameroon,Marc-Vivien Foé,19,FALSE,FALSE
 2000-01-22,Ghana,Cameroon,Ghana,Kwame Ayew,57,FALSE,FALSE
 2000-01-23,Egypt,Zambia,Egypt,Yasser Radwan,37,FALSE,FALSE
@@ -6383,7 +6370,6 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2001-07-29,Uruguay,Honduras,Uruguay,Joe Emerson Bizera,22,FALSE,FALSE
 2001-07-29,Uruguay,Honduras,Honduras,Júnior Izaguirre,42,FALSE,FALSE
 2001-07-29,Uruguay,Honduras,Uruguay,Andrés Martínez,45,FALSE,FALSE
-2001-08-05,Cuba,Panama,Cuba,Serguei Prado,79,FALSE,FALSE
 2002-01-18,Haiti,Canada,Canada,Kevin McKenna,28,FALSE,FALSE
 2002-01-18,Haiti,Canada,Canada,Kevin McKenna,48,FALSE,FALSE
 2002-01-18,Martinique,Costa Rica,Costa Rica,Hernán Medford,38,FALSE,FALSE
@@ -10804,3 +10790,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2022-11-23,Spain,Costa Rica,Spain,Gavi,74,FALSE,FALSE
 2022-11-23,Spain,Costa Rica,Spain,Carlos Soler,90,FALSE,FALSE
 2022-11-23,Spain,Costa Rica,Spain,Álvaro Morata,90,FALSE,FALSE
+2022-11-24,Brazil,Serbia,Brazil,Richarlison,62,FALSE,FALSE
+2022-11-24,Brazil,Serbia,Brazil,Richarlison,73,FALSE,FALSE
+2022-11-24,Portugal,Ghana,Portugal,Cristiano Ronaldo,65,FALSE,TRUE
+2022-11-24,Portugal,Ghana,Ghana,André Ayew,73,FALSE,FALSE
+2022-11-24,Portugal,Ghana,Portugal,João Félix,78,FALSE,FALSE
+2022-11-24,Portugal,Ghana,Portugal,Rafael Leão,80,FALSE,FALSE
+2022-11-24,Portugal,Ghana,Ghana,Osman Bukari,89,FALSE,FALSE
+2022-11-24,Switzerland,Cameroon,Switzerland,Breel Embolo,48,FALSE,FALSE

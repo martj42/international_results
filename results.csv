@@ -6435,9 +6435,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1967-01-11,Jamaica,Curaçao,1,1,CONCACAF Championship qualification,Kingston,Jamaica,FALSE
 1967-01-12,Cuba,Haiti,1,1,CONCACAF Championship qualification,Kingston,Jamaica,TRUE
 1967-01-13,Curaçao,Trinidad and Tobago,1,2,CONCACAF Championship qualification,Kingston,Jamaica,TRUE
-1967-01-17,Uruguay,Bolivia,4,0,Copa América,Montevideo,Uruguay,FALSE
 1967-01-14,Jamaica,Cuba,2,1,CONCACAF Championship qualification,Kingston,Jamaica,FALSE
 1967-01-16,Haiti,Trinidad and Tobago,4,2,CONCACAF Championship qualification,Kingston,Jamaica,TRUE
+1967-01-17,Uruguay,Bolivia,4,0,Copa América,Montevideo,Uruguay,FALSE
 1967-01-17,Curaçao,Cuba,2,2,CONCACAF Championship qualification,Kingston,Jamaica,TRUE
 1967-01-17,Egypt,German DR,1,2,Friendly,Cairo,United Arab Republic,TRUE
 1967-01-18,Argentina,Paraguay,4,1,Copa América,Montevideo,Uruguay,TRUE
@@ -43919,7 +43919,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-06-19,Aymara,Maule Sur,0,1,CONIFA South America Football Cup,Linares,Chile,TRUE
 2022-08-31,Mexico,Paraguay,0,1,Friendly,Atlanta,United States,TRUE
 2022-09-17,Fiji,New Caledonia,1,0,MSG Prime Minister's Cup,Luganville,Vanuatu,TRUE
-2022-09-17,Solomon Islands,New Caledonia,1,0,MSG Prime Minister's Cup,Luganville,Vanuatu,TRUE
+2022-09-21,Solomon Islands,New Caledonia,1,0,MSG Prime Minister's Cup,Luganville,Vanuatu,TRUE
 2022-09-21,Brunei Darussalam,Maldives,0,3,Friendly,Bandar Seri Begawan,Brunei,TRUE
 2022-09-21,Hong Kong,Myanmar,2,0,Friendly,Hong Kong,Hong Kong,FALSE
 2022-09-21,Libya,Uganda,0,0,Friendly,Benghazi,Libya,FALSE
@@ -44169,10 +44169,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-11-23,Spain,Costa Rica,7,0,FIFA World Cup,Doha,Qatar,TRUE
 2022-11-23,Morocco,Croatia,0,0,FIFA World Cup,Al Khor,Qatar,TRUE
 2022-11-23,Belgium,Canada,1,0,FIFA World Cup,Al Rayyan,Qatar,TRUE
-2022-11-24,Switzerland,Cameroon,NA,NA,FIFA World Cup,Al Wakrah,Qatar,TRUE
-2022-11-24,Brazil,Serbia,NA,NA,FIFA World Cup,Lusail,Qatar,TRUE
-2022-11-24,Uruguay,South Korea,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
-2022-11-24,Portugal,Ghana,NA,NA,FIFA World Cup,Doha,Qatar,TRUE
+2022-11-24,Switzerland,Cameroon,1,0,FIFA World Cup,Al Wakrah,Qatar,TRUE
+2022-11-24,Brazil,Serbia,2,0,FIFA World Cup,Lusail,Qatar,TRUE
+2022-11-24,Uruguay,South Korea,0,0,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-24,Portugal,Ghana,3,2,FIFA World Cup,Doha,Qatar,TRUE
 2022-11-25,Qatar,Senegal,NA,NA,FIFA World Cup,Doha,Qatar,FALSE
 2022-11-25,Netherlands,Ecuador,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
 2022-11-25,Wales,Iran,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
