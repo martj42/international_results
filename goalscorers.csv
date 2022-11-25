@@ -1561,7 +1561,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1956-09-01,Hong Kong,Israel,Israel,Nahum Stelmach,69,FALSE,FALSE
 1956-09-01,Hong Kong,Israel,Israel,Yehoshua Glazer,76,FALSE,FALSE
 1956-09-06,Hong Kong,South Korea,Hong Kong,Tang Yee Kit,10,FALSE,FALSE
-1956-09-06,Hong Kong,South Korea,Hong Kong,zh:鄧宜杰,39,FALSE,FALSE
+1956-09-06,Hong Kong,South Korea,Hong Kong,Ko Po Keung,39,FALSE,FALSE
 1956-09-06,Hong Kong,South Korea,South Korea,Kim Ji-sung,45,FALSE,FALSE
 1956-09-06,Hong Kong,South Korea,South Korea,Choi Kwang-seok,62,FALSE,FALSE
 1956-09-08,Israel,South Korea,South Korea,Woo Sang-kwon,52,FALSE,FALSE
@@ -10765,7 +10765,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2022-11-21,England,Iran,England,Bukayo Saka,62,FALSE,FALSE
 2022-11-21,England,Iran,Iran,Mehdi Taremi,65,FALSE,FALSE
 2022-11-21,England,Iran,England,Marcus Rashford,71,FALSE,FALSE
-2022-11-21,England,Iran,England,Jack Grealish,89,FALSE,FALSE
+2022-11-21,England,Iran,England,Jack Grealish,90,FALSE,FALSE
 2022-11-21,England,Iran,Iran,Mehdi Taremi,90,FALSE,TRUE
 2022-11-21,Senegal,Netherlands,Netherlands,Cody Gakpo,84,FALSE,FALSE
 2022-11-21,Senegal,Netherlands,Netherlands,Davy Klaassen,90,FALSE,FALSE
@@ -10798,3 +10798,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2022-11-24,Portugal,Ghana,Portugal,Rafael Leão,80,FALSE,FALSE
 2022-11-24,Portugal,Ghana,Ghana,Osman Bukari,89,FALSE,FALSE
 2022-11-24,Switzerland,Cameroon,Switzerland,Breel Embolo,48,FALSE,FALSE
+2022-11-25,Netherlands,Ecuador,Netherlands,Cody Gakpo,6,FALSE,FALSE
+2022-11-25,Netherlands,Ecuador,Ecuador,Enner Valencia,49,FALSE,FALSE
+2022-11-25,Qatar,Senegal,Senegal,Boulaye Dia,41,FALSE,FALSE
+2022-11-25,Qatar,Senegal,Senegal,Famara Diédhiou,48,FALSE,FALSE
+2022-11-25,Qatar,Senegal,Qatar,Mohammed Muntari,78,FALSE,FALSE
+2022-11-25,Qatar,Senegal,Senegal,Bamba Dieng,84,FALSE,FALSE
+2022-11-25,Wales,Iran,Iran,Rouzbeh Cheshmi,90,FALSE,FALSE
+2022-11-25,Wales,Iran,Iran,Ramin Rezaeian,90,FALSE,FALSE
