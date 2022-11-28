@@ -44185,10 +44185,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-11-27,Spain,Germany,1,1,FIFA World Cup,Al Khor,Qatar,TRUE
 2022-11-27,Belgium,Morocco,0,2,FIFA World Cup,Doha,Qatar,TRUE
 2022-11-27,Croatia,Canada,4,1,FIFA World Cup,Al Rayyan,Qatar,TRUE
-2022-11-28,Cameroon,Serbia,NA,NA,FIFA World Cup,Al Wakrah,Qatar,TRUE
-2022-11-28,Brazil,Switzerland,NA,NA,FIFA World Cup,Doha,Qatar,TRUE
-2022-11-28,South Korea,Ghana,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
-2022-11-28,Portugal,Uruguay,NA,NA,FIFA World Cup,Lusail,Qatar,TRUE
+2022-11-28,Cameroon,Serbia,3,3,FIFA World Cup,Al Wakrah,Qatar,TRUE
+2022-11-28,Brazil,Switzerland,1,0,FIFA World Cup,Doha,Qatar,TRUE
+2022-11-28,South Korea,Ghana,2,3,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-28,Portugal,Uruguay,2,0,FIFA World Cup,Lusail,Qatar,TRUE
 2022-11-29,Ecuador,Senegal,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
 2022-11-29,Qatar,Netherlands,NA,NA,FIFA World Cup,Al Khor,Qatar,FALSE
 2022-11-29,Wales,England,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
