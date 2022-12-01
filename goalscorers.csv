@@ -10842,8 +10842,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2022-11-29,Ecuador,Senegal,Ecuador,Moisés Caicedo,67,FALSE,FALSE
 2022-11-29,Ecuador,Senegal,Senegal,Kalidou Koulibaly,70,FALSE,FALSE
 2022-11-29,Iran,United States,United States,Christian Pulisic,38,FALSE,FALSE
-2022-11-29,Netherlands,Qatar,Netherlands,Cody Gakpo,26,FALSE,FALSE
-2022-11-29,Netherlands,Qatar,Netherlands,Frenkie de Jong,49,FALSE,FALSE
+2022-11-29,Qatar,Netherlands,Netherlands,Cody Gakpo,26,FALSE,FALSE
+2022-11-29,Qatar,Netherlands,Netherlands,Frenkie de Jong,49,FALSE,FALSE
 2022-11-29,Wales,England,England,Marcus Rashford,50,FALSE,FALSE
 2022-11-29,Wales,England,England,Phil Foden,51,FALSE,FALSE
 2022-11-29,Wales,England,England,Marcus Rashford,68,FALSE,FALSE
@@ -10854,3 +10854,15 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2022-11-30,Saudi Arabia,Mexico,Mexico,Luis Chávez,52,FALSE,FALSE
 2022-11-30,Saudi Arabia,Mexico,Saudi Arabia,Salem Al-Dawsari,90,FALSE,FALSE
 2022-11-30,Tunisia,France,Tunisia,Wahbi Khazri,58,FALSE,FALSE
+2022-12-01,Canada,Morocco,Morocco,Hakim Ziyech,4,FALSE,FALSE
+2022-12-01,Canada,Morocco,Morocco,Youssef En-Nesyri,23,FALSE,FALSE
+2022-12-01,Canada,Morocco,Canada,Nayef Aguerd,40,TRUE,FALSE
+2022-12-01,Costa Rica,Germany,Germany,Serge Gnabry,10,FALSE,FALSE
+2022-12-01,Costa Rica,Germany,Costa Rica,Yeltsin Tejeda,58,FALSE,FALSE
+2022-12-01,Costa Rica,Germany,Costa Rica,Manuel Neuer,70,TRUE,FALSE
+2022-12-01,Costa Rica,Germany,Germany,Kai Havertz,73,FALSE,FALSE
+2022-12-01,Costa Rica,Germany,Germany,Kai Havertz,85,FALSE,FALSE
+2022-12-01,Costa Rica,Germany,Germany,Niclas Füllkrug,89,FALSE,FALSE
+2022-12-01,Japan,Spain,Spain,Álvaro Morata,11,FALSE,FALSE
+2022-12-01,Japan,Spain,Japan,Ritsu Dōan,48,FALSE,FALSE
+2022-12-01,Japan,Spain,Japan,Ao Tanaka,51,FALSE,FALSE
