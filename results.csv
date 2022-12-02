@@ -44205,7 +44205,15 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-12-01,Costa Rica,Germany,2,4,FIFA World Cup,Al Khor,Qatar,TRUE
 2022-12-01,Croatia,Belgium,0,0,FIFA World Cup,Al Rayyan,Qatar,TRUE
 2022-12-01,Canada,Morocco,1,2,FIFA World Cup,Doha,Qatar,TRUE
-2022-12-02,Serbia,Switzerland,NA,NA,FIFA World Cup,Doha,Qatar,TRUE
-2022-12-02,Cameroon,Brazil,NA,NA,FIFA World Cup,Lusail,Qatar,TRUE
-2022-12-02,Ghana,Uruguay,NA,NA,FIFA World Cup,Al Wakrah,Qatar,TRUE
-2022-12-02,South Korea,Portugal,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-12-02,Serbia,Switzerland,2,3,FIFA World Cup,Doha,Qatar,TRUE
+2022-12-02,Cameroon,Brazil,1,0,FIFA World Cup,Lusail,Qatar,TRUE
+2022-12-02,Ghana,Uruguay,0,2,FIFA World Cup,Al Wakrah,Qatar,TRUE
+2022-12-02,South Korea,Portugal,2,1,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-12-03,Netherlands,United States,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-12-03,Argentina,Australia,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-12-04,France,Poland,NA,NA,FIFA World Cup,Doha,Qatar,TRUE
+2022-12-04,England,Senegal,NA,NA,FIFA World Cup,Al Khor,Qatar,TRUE
+2022-12-05,Japan,Croatia,NA,NA,FIFA World Cup,Al Wakrah,Qatar,TRUE
+2022-12-05,Brazil,South Korea,NA,NA,FIFA World Cup,Doha,Qatar,TRUE
+2022-12-06,Morocco,Spain,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-12-06,Portugal,Switzerland,NA,NA,FIFA World Cup,Lusail,Qatar,TRUE
