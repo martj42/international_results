@@ -4,7 +4,7 @@ Well, what happened was that I was looking for a semi-definite easy-to-read list
 
 ### Content
 
-This dataset includes **44,150** results of international football matches starting from the very first official match in 1872 up to 2022. The matches range from FIFA World Cup to FIFI Wild Cup to regular friendly matches. The matches are strictly men's full internationals and the data does not include Olympic Games or matches where at least one of the teams was the nation's B-team, U-23 or a league select team.
+This dataset includes **44,341** results of international football matches starting from the very first official match in 1872 up to 2022. The matches range from FIFA World Cup to FIFI Wild Cup to regular friendly matches. The matches are strictly men's full internationals and the data does not include Olympic Games or matches where at least one of the teams was the nation's B-team, U-23 or a league select team.
 
 `results.csv` includes the following columns:
 
@@ -24,6 +24,16 @@ This dataset includes **44,150** results of international football matches start
 -   `home_team` - the name of the home team
 -   `away_team` - the name of the away team
 -   `winner` - winner of the penalty-shootout
+
+`goalscorers.csv` includes the following columns:
+
+-   `date` - date of the match
+-   `home_team` - the name of the home team
+-   `away_team` - the name of the away team
+-   `team` - name of the team scoring the goal
+-   `scorer` - name of the player scoring the goal
+-   `own_goal` - whether the goal was an own-goal
+-   `penalty` - whether the goal was a penalty
 
 Note on team and country names: For home and away teams the *current* name of the team has been used. For example, when in 1882 a team who called themselves Ireland played against England, in this dataset, it is called Northern Ireland because the current team of Northern Ireland is the successor of the 1882 Ireland team. This is done so it is easier to track the history and statistics of teams.
 
