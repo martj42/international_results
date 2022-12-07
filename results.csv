@@ -7157,7 +7157,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1969-04-16,Portugal,Switzerland,0,2,FIFA World Cup qualification,Lisbon,Portugal,FALSE
 1969-04-16,Scotland,Germany,1,1,FIFA World Cup qualification,Glasgow,Scotland,FALSE
 1969-04-19,Cyprus,Austria,1,2,FIFA World Cup qualification,Nicosia,Cyprus,FALSE
-1969-04-20,Haiti,United States,2,0,CONCACAF Championship qualification,Port-au-Prince,Haiti,FALSE
+1969-04-20,Haiti,United States,2,0,FIFA World Cup qualification,Port-au-Prince,Haiti,FALSE
 1969-04-20,Poland,Luxembourg,8,1,FIFA World Cup qualification,Kraków,Poland,FALSE
 1969-04-23,Bulgaria,Luxembourg,2,1,FIFA World Cup qualification,Sofia,Bulgaria,FALSE
 1969-04-23,Israel,Austria,1,1,Friendly,Ramat-Gan,Israel,FALSE
@@ -34148,17 +34148,17 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2011-11-15,Saint Vincent and the Grenadines,Belize,0,2,FIFA World Cup qualification,Kingstown,Saint Vincent and the Grenadines,FALSE
 2011-11-16,Ethiopia,Somalia,5,0,FIFA World Cup qualification,Addis Ababa,Ethiopia,FALSE
 2011-11-16,India,Malaysia,3,2,Friendly,Calcutta,India,FALSE
-2011-11-22,American Samoa,Tonga,2,1,Oceania Nations Cup qualification,Apia,Samoa,TRUE
+2011-11-22,American Samoa,Tonga,2,1,FIFA World Cup qualification,Apia,Samoa,TRUE
 2011-11-22,Maldives,Seychelles,3,0,Friendly,Malé,Maldives,FALSE
-2011-11-22,Samoa,Cook Islands,3,2,Oceania Nations Cup qualification,Apia,Samoa,FALSE
-2011-11-24,American Samoa,Cook Islands,1,1,Oceania Nations Cup qualification,Apia,Samoa,TRUE
+2011-11-22,Samoa,Cook Islands,3,2,FIFA World Cup qualification,Apia,Samoa,FALSE
+2011-11-24,American Samoa,Cook Islands,1,1,FIFA World Cup qualification,Apia,Samoa,TRUE
 2011-11-24,Maldives,Seychelles,2,1,Friendly,Malé,Maldives,FALSE
-2011-11-24,Samoa,Tonga,1,1,Oceania Nations Cup qualification,Apia,Samoa,FALSE
+2011-11-24,Samoa,Tonga,1,1,FIFA World Cup qualification,Apia,Samoa,FALSE
 2011-11-25,Burundi,Somalia,4,1,CECAFA Cup,Dar es Salaam,Tanzania,TRUE
 2011-11-25,Uganda,Zanzibar,2,1,CECAFA Cup,Dar es Salaam,Tanzania,TRUE
-2011-11-26,Samoa,American Samoa,1,0,Oceania Nations Cup qualification,Apia,Samoa,FALSE
+2011-11-26,Samoa,American Samoa,1,0,FIFA World Cup qualification,Apia,Samoa,FALSE
 2011-11-26,Tanzania,Rwanda,0,1,CECAFA Cup,Dar es Salaam,Tanzania,FALSE
-2011-11-26,Tonga,Cook Islands,2,1,Oceania Nations Cup qualification,Apia,Samoa,TRUE
+2011-11-26,Tonga,Cook Islands,2,1,FIFA World Cup qualification,Apia,Samoa,TRUE
 2011-11-27,Zanzibar,Burundi,0,0,CECAFA Cup,Dar es Salaam,Tanzania,TRUE
 2011-11-27,Zimbabwe,Djibouti,2,0,CECAFA Cup,Dar es Salaam,Tanzania,TRUE
 2011-11-28,Kenya,Malawi,0,2,CECAFA Cup,Dar es Salaam,Tanzania,TRUE
@@ -37607,11 +37607,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2015-08-30,Niger,Burkina Faso,0,0,Friendly,Niamey,Niger,FALSE
 2015-08-31,India,Nepal,0,0,Friendly,Pune,India,FALSE
 2015-08-31,Lebanon,Palestine,0,0,Friendly,Sidon,Lebanon,FALSE
-2015-08-31,Samoa,American Samoa,3,2,Oceania Nations Cup qualification,‘Atele,Tonga,TRUE
-2015-08-31,Tonga,Cook Islands,0,3,Oceania Nations Cup qualification,‘Atele,Tonga,FALSE
+2015-08-31,Samoa,American Samoa,3,2,FIFA World Cup qualification,‘Atele,Tonga,TRUE
+2015-08-31,Tonga,Cook Islands,0,3,FIFA World Cup qualification,‘Atele,Tonga,FALSE
 2015-09-01,Congo,Ghana,2,3,Friendly,Brazzaville,Congo,FALSE
-2015-09-02,Cook Islands,Samoa,1,0,Oceania Nations Cup qualification,‘Atele,Tonga,TRUE
-2015-09-02,Tonga,American Samoa,1,2,Oceania Nations Cup qualification,‘Atele,Tonga,FALSE
+2015-09-02,Cook Islands,Samoa,1,0,FIFA World Cup qualification,‘Atele,Tonga,TRUE
+2015-09-02,Tonga,American Samoa,1,2,FIFA World Cup qualification,‘Atele,Tonga,FALSE
 2015-09-03,Australia,Bangladesh,5,0,FIFA World Cup qualification,Perth,Australia,FALSE
 2015-09-03,Azerbaijan,Croatia,0,0,UEFA Euro qualification,Baku,Azerbaijan,FALSE
 2015-09-03,Bahrain,North Korea,0,1,FIFA World Cup qualification,Riffa,Bahrain,FALSE
@@ -37638,7 +37638,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2015-09-03,Turkey,Latvia,1,1,UEFA Euro qualification,Konya,Turkey,FALSE
 2015-09-03,United Arab Emirates,Malaysia,10,0,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,FALSE
 2015-09-03,Uzbekistan,Yemen,1,0,FIFA World Cup qualification,Tashkent,Uzbekistan,FALSE
-2015-09-04,American Samoa,Cook Islands,2,0,Oceania Nations Cup qualification,‘Atele,Tonga,TRUE
+2015-09-04,American Samoa,Cook Islands,2,0,FIFA World Cup qualification,‘Atele,Tonga,TRUE
 2015-09-04,Curaçao,El Salvador,0,1,FIFA World Cup qualification,Willemstad,Curaçao,FALSE
 2015-09-04,Denmark,Albania,0,0,UEFA Euro qualification,Copenhagen,Denmark,FALSE
 2015-09-04,Djibouti,Togo,0,2,African Cup of Nations qualification,Djibouti,Djibouti,FALSE
@@ -37651,7 +37651,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2015-09-04,Hungary,Romania,0,0,UEFA Euro qualification,Budapest,Hungary,FALSE
 2015-09-04,Portugal,France,0,1,Friendly,Lisbon,Portugal,FALSE
 2015-09-04,Serbia,Armenia,2,0,UEFA Euro qualification,Novi Sad,Serbia,FALSE
-2015-09-04,Tonga,Samoa,0,3,Oceania Nations Cup qualification,‘Atele,Tonga,FALSE
+2015-09-04,Tonga,Samoa,0,3,FIFA World Cup qualification,‘Atele,Tonga,FALSE
 2015-09-04,Venezuela,Honduras,0,3,Friendly,Puerto Ordaz,Venezuela,FALSE
 2015-09-04,Antigua and Barbuda,Guatemala,1,0,FIFA World Cup qualification,North Sound,Antigua and Barbuda,FALSE
 2015-09-04,Canada,Belize,3,0,FIFA World Cup qualification,Toronto,Canada,FALSE
