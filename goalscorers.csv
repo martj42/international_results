@@ -25742,12 +25742,6 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2007-06-02,Bosnia and Herzegovina,Turkey,Turkey,Sabri Sarıoğlu,39,FALSE,FALSE
 2007-06-02,Bosnia and Herzegovina,Turkey,Bosnia and Herzegovina,Edin Džeko,45,FALSE,FALSE
 2007-06-02,Bosnia and Herzegovina,Turkey,Bosnia and Herzegovina,Adnan Ćustović,90,FALSE,FALSE
-2007-06-02,Denmark,Sweden,Sweden,Johan Elmander,7,FALSE,FALSE
-2007-06-02,Denmark,Sweden,Sweden,Petter Hansson,23,FALSE,FALSE
-2007-06-02,Denmark,Sweden,Sweden,Johan Elmander,26,FALSE,FALSE
-2007-06-02,Denmark,Sweden,Denmark,Daniel Agger,34,FALSE,FALSE
-2007-06-02,Denmark,Sweden,Denmark,Jon Dahl Tomasson,62,FALSE,FALSE
-2007-06-02,Denmark,Sweden,Denmark,Leon Andreasen,75,FALSE,FALSE
 2007-06-02,Estonia,Croatia,Croatia,Eduardo da Silva,32,FALSE,FALSE
 2007-06-02,Faroe Islands,Italy,Italy,Filippo Inzaghi,12,FALSE,FALSE
 2007-06-02,Faroe Islands,Italy,Italy,Filippo Inzaghi,48,FALSE,FALSE
@@ -26005,7 +25999,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2007-07-13,United Arab Emirates,Japan,Japan,Naohiro Takahara,22,FALSE,FALSE
 2007-07-13,United Arab Emirates,Japan,Japan,Naohiro Takahara,27,FALSE,FALSE
 2007-07-13,United Arab Emirates,Japan,Japan,Shunsuke Nakamura,42,FALSE,TRUE
-2007-07-13,United Arab Emirates,Japan,United Arab Emirates,Saeed Al-Kass,66,FALSE,FALSE
+2007-07-13,United Arab Emirates,Japan,United Arab Emirates,Saeed Al Kass,66,FALSE,FALSE
 2007-07-14,Indonesia,Saudi Arabia,Saudi Arabia,Yasser Al-Qahtani,12,FALSE,FALSE
 2007-07-14,Indonesia,Saudi Arabia,Indonesia,Elie Aiboy,17,FALSE,FALSE
 2007-07-14,Indonesia,Saudi Arabia,Saudi Arabia,Saad Al-Harthi,90,FALSE,FALSE
@@ -26029,7 +26023,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2007-07-15,China PR,Iran,Iran,Ferydoon Zandi,45,FALSE,FALSE
 2007-07-15,China PR,Iran,Iran,Javad Nekounam,74,FALSE,FALSE
 2007-07-16,Qatar,United Arab Emirates,Qatar,Sebastián Soria,42,FALSE,TRUE
-2007-07-16,Qatar,United Arab Emirates,United Arab Emirates,Saeed Al-Kass,60,FALSE,FALSE
+2007-07-16,Qatar,United Arab Emirates,United Arab Emirates,Saeed Al Kass,60,FALSE,FALSE
 2007-07-16,Qatar,United Arab Emirates,United Arab Emirates,Faisal Khalil,90,FALSE,FALSE
 2007-07-16,Thailand,Australia,Australia,Michael Beauchamp,21,FALSE,FALSE
 2007-07-16,Thailand,Australia,Australia,Mark Viduka,80,FALSE,FALSE
@@ -26454,7 +26448,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2007-10-28,United Arab Emirates,Vietnam,United Arab Emirates,Ahmed Mohammed Al-Mahri,40,FALSE,FALSE
 2007-10-28,United Arab Emirates,Vietnam,United Arab Emirates,Mohamed Al-Shehhi,53,FALSE,FALSE
 2007-10-28,United Arab Emirates,Vietnam,United Arab Emirates,Nawaf Mubarak,90,FALSE,FALSE
-2007-10-28,United Arab Emirates,Vietnam,United Arab Emirates,Saeed Al-Kass,90,FALSE,TRUE
+2007-10-28,United Arab Emirates,Vietnam,United Arab Emirates,Saeed Al Kass,90,FALSE,TRUE
 2007-10-30,India,Lebanon,India,Sunil Chhetri,29,FALSE,FALSE
 2007-10-30,India,Lebanon,Lebanon,Mohammed Ghaddar,72,FALSE,TRUE
 2007-10-30,India,Lebanon,Lebanon,Mohammed Ghaddar,85,FALSE,FALSE
