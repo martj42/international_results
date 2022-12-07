@@ -255,6 +255,8 @@ date,home_team,away_team,winner
 2001-01-17,China PR,Egypt,Egypt
 2001-01-27,South Korea,Paraguay,South Korea
 2001-02-11,Eswatini,Zambia,Eswatini
+2001-07-12,Ynys Môn,Jersey,Ynys Môn
+2001-07-13,Guernsey,Ynys Môn,Guernsey
 2001-07-29,Uruguay,Honduras,Honduras
 2001-08-03,China PR,North Korea,North Korea
 2001-08-03,Kuwait,Trinidad and Tobago,Kuwait
@@ -376,6 +378,8 @@ date,home_team,away_team,winner
 2011-06-08,Uruguay,Netherlands,Uruguay
 2011-06-18,Costa Rica,Honduras,Honduras
 2011-06-19,Panama,El Salvador,Panama
+2011-06-29,Saare County,Åland Islands,Åland Islands
+2011-06-30,Isle of Man,Menorca,Menorca
 2011-07-12,Saint Lucia,Aruba,Saint Lucia
 2011-07-16,Argentina,Uruguay,Uruguay
 2011-07-17,Brazil,Paraguay,Paraguay
@@ -395,6 +399,12 @@ date,home_team,away_team,winner
 2013-07-14,Angola,Lesotho,Lesotho
 2013-07-17,Zambia,South Africa,Zambia
 2014-05-29,Latvia,Estonia,Latvia
+2014-06-04,Abkhazia,South Ossetia,South Ossetia
+2014-06-04,Ellan Vannin,Iraqi Kurdistan,Ellan Vannin
+2014-06-05,Padania,Abkhazia,Padania
+2014-06-05,Occitania,Iraqi Kurdistan,Iraqi Kurdistan
+2014-06-07,Padania,Iraqi Kurdistan,Padania
+2014-06-08,County of Nice,Ellan Vannin,County of Nice
 2014-06-28,Brazil,Chile,Brazil
 2014-06-29,Costa Rica,Greece,Costa Rica
 2014-07-05,Netherlands,Costa Rica,Netherlands
@@ -408,8 +418,10 @@ date,home_team,away_team,winner
 2015-05-24,South Africa,Botswana,Botswana
 2015-05-25,Mozambique,Malawi,Mozambique
 2015-05-27,South Africa,Malawi,Malawi
+2015-06-21,Ellan Vannin,Felvidék,Ellan Vannin
 2015-06-26,Argentina,Colombia,Argentina
 2015-06-27,Brazil,Paraguay,Paraguay
+2015-07-02,Gibraltar,Åland Islands,Åland Islands
 2015-07-04,Chile,Argentina,Chile
 2015-07-04,Zambia,Namibia,Zambia
 2015-07-19,Trinidad and Tobago,Panama,Panama
@@ -417,9 +429,15 @@ date,home_team,away_team,winner
 2015-10-13,El Salvador,Guatemala,Guatemala
 2016-02-03,DR Congo,Guinea,DR Congo
 2016-05-27,Corsica,Basque Country,Basque Country
+2016-06-01,United Koreans in Japan,Northern Cyprus,Northern Cyprus
+2016-06-02,Iraqi Kurdistan,Padania,Padania
 2016-06-03,Bosnia and Herzegovina,Denmark,Bosnia and Herzegovina
 2016-06-03,Thailand,Syria,Thailand
 2016-06-03,Vietnam,Hong Kong,Vietnam
+2016-06-03,Iraqi Kurdistan,Western Armenia,Western Armenia
+2016-06-03,Chagos Islands,Raetia,Raetia
+2016-06-04,United Koreans in Japan,Iraqi Kurdistan,United Koreans in Japan
+2016-06-05,Abkhazia,Panjab,Abkhazia
 2016-06-11,Papua New Guinea,New Zealand,New Zealand
 2016-06-17,Peru,Colombia,Colombia
 2016-06-18,Namibia,Botswana,Botswana
@@ -433,7 +451,12 @@ date,home_team,away_team,winner
 2017-01-11,Chile,Croatia,Chile
 2017-01-14,China PR,Croatia,China PR
 2017-02-01,Burkina Faso,Egypt,Egypt
+2017-06-09,Kárpátalja,Ellan Vannin,Kárpátalja
+2017-06-09,Padania,Abkhazia,Padania
+2017-06-10,Northern Cyprus,Padania,Padania
 2017-06-28,Portugal,Chile,Chile
+2017-06-29,Hitra,Western Isles,Western Isles
+2017-06-29,Greenland,Menorca,Greenland
 2017-07-01,Namibia,Lesotho,Lesotho
 2017-07-07,Tanzania,Lesotho,Tanzania
 2017-07-16,Thailand,Belarus,Thailand
@@ -445,7 +468,12 @@ date,home_team,away_team,winner
 2018-06-03,Andorra,Cape Verde,Cape Verde
 2018-06-03,South Africa,Madagascar,Madagascar
 2018-06-03,Zimbabwe,Botswana,Zimbabwe
+2018-06-05,Matabeleland,Kabylia,Kabylia
 2018-06-06,Lesotho,Zimbabwe,Zimbabwe
+2018-06-09,Tibet,United Koreans in Japan,United Koreans in Japan
+2018-06-09,Panjab,Cascadia,Panjab
+2018-06-09,Padania,Székely Land,Padania
+2018-06-09,Northern Cyprus,Kárpátalja,Kárpátalja
 2018-07-01,Russia,Spain,Russia
 2018-07-01,Croatia,Denmark,Croatia
 2018-07-03,Colombia,England,England
@@ -458,8 +486,11 @@ date,home_team,away_team,winner
 2019-06-02,Zambia,Malawi,Zambia
 2019-06-04,South Africa,Uganda,South Africa
 2019-06-05,Zimbabwe,Zambia,Zambia
+2019-06-06,Abkhazia,Western Armenia,Western Armenia
+2019-06-06,South Ossetia,Chameria,South Ossetia
 2019-06-07,Lesotho,Zimbabwe,Zimbabwe
 2019-06-07,South Africa,Malawi,South Africa
+2019-06-08,Abkhazia,Chameria,Abkhazia
 2019-06-09,Switzerland,England,England
 2019-06-27,Brazil,Paraguay,Brazil
 2019-06-28,Colombia,Chile,Chile
