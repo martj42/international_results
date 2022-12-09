@@ -11551,7 +11551,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1989-10-11,Denmark,Romania,Denmark,Brian Laudrup,26,FALSE,FALSE
 1989-10-11,Denmark,Romania,Denmark,Flemming Povlsen,85,FALSE,FALSE
 1989-10-11,France,Scotland,France,Didier Deschamps,26,FALSE,FALSE
-1989-10-11,France,Scotland,France,Éric Cantona,63,FALSE,FALSE
+1989-10-11,France,Scotland,France,Eric Cantona,63,FALSE,FALSE
 1989-10-11,France,Scotland,France,Jean-Philippe Durand,89,FALSE,FALSE
 1989-10-11,Hungary,Spain,Spain,Julio Salinas,30,FALSE,FALSE
 1989-10-11,Hungary,Spain,Spain,Míchel,35,FALSE,FALSE
@@ -11791,7 +11791,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1990-07-07,Italy,England,Italy,Salvatore Schillaci,86,FALSE,TRUE
 1990-07-08,Germany,Argentina,Germany,Andreas Brehme,85,FALSE,TRUE
 1990-09-05,Iceland,France,France,Jean-Pierre Papin,12,FALSE,FALSE
-1990-09-05,Iceland,France,France,Éric Cantona,74,FALSE,FALSE
+1990-09-05,Iceland,France,France,Eric Cantona,74,FALSE,FALSE
 1990-09-05,Iceland,France,Iceland,Atli Eðvaldsson,85,FALSE,FALSE
 1990-09-12,Faroe Islands,Austria,Faroe Islands,Torkil Nielsen,61,FALSE,FALSE
 1990-09-12,Northern Ireland,Yugoslavia,Yugoslavia,Darko Pančev,36,FALSE,FALSE
@@ -12230,8 +12230,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1991-11-20,Bulgaria,Romania,Romania,Adrian Popescu,31,FALSE,FALSE
 1991-11-20,Bulgaria,Romania,Bulgaria,Nasko Sirakov,55,FALSE,FALSE
 1991-11-20,France,Iceland,France,Amara Simba,41,FALSE,FALSE
-1991-11-20,France,Iceland,France,Éric Cantona,59,FALSE,FALSE
-1991-11-20,France,Iceland,France,Éric Cantona,67,FALSE,FALSE
+1991-11-20,France,Iceland,France,Eric Cantona,59,FALSE,FALSE
+1991-11-20,France,Iceland,France,Eric Cantona,67,FALSE,FALSE
 1991-11-20,France,Iceland,Iceland,Eyjólfur Sverrisson,70,FALSE,FALSE
 1991-11-20,Portugal,Greece,Portugal,João Vieira Pinto,17,FALSE,FALSE
 1991-12-04,Greece,Netherlands,Netherlands,Dennis Bergkamp,37,FALSE,FALSE
@@ -12564,7 +12564,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1992-10-14,England,Norway,England,David Platt,55,FALSE,FALSE
 1992-10-14,England,Norway,Norway,Kjetil Rekdal,77,FALSE,FALSE
 1992-10-14,France,Austria,France,Jean-Pierre Papin,3,FALSE,FALSE
-1992-10-14,France,Austria,France,Éric Cantona,77,FALSE,FALSE
+1992-10-14,France,Austria,France,Eric Cantona,77,FALSE,FALSE
 1992-10-14,Italy,Switzerland,Switzerland,Christophe Ohrel,17,FALSE,FALSE
 1992-10-14,Italy,Switzerland,Switzerland,Stéphane Chapuisat,21,FALSE,FALSE
 1992-10-14,Italy,Switzerland,Italy,Roberto Baggio,83,FALSE,FALSE
@@ -12697,7 +12697,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1992-11-11,Israel,Sweden,Sweden,Martin Dahlin,58,FALSE,FALSE
 1992-11-11,Israel,Sweden,Sweden,Klas Ingesson,74,FALSE,FALSE
 1992-11-14,France,Finland,France,Jean-Pierre Papin,18,FALSE,FALSE
-1992-11-14,France,Finland,France,Éric Cantona,31,FALSE,FALSE
+1992-11-14,France,Finland,France,Eric Cantona,31,FALSE,FALSE
 1992-11-14,France,Finland,Finland,Petri Järvinen,54,FALSE,FALSE
 1992-11-14,Romania,Czechoslovakia,Romania,Ilie Dumitrescu,49,FALSE,FALSE
 1992-11-14,Romania,Czechoslovakia,Czechoslovakia,Václav Němeček,82,FALSE,TRUE
@@ -12869,7 +12869,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1993-02-17,England,San Marino,England,Les Ferdinand,86,FALSE,FALSE
 1993-02-17,Greece,Luxembourg,Greece,Vasilis Dimitriadis,30,FALSE,TRUE
 1993-02-17,Greece,Luxembourg,Greece,Tasos Mitropoulos,65,FALSE,FALSE
-1993-02-17,Israel,France,France,Éric Cantona,28,FALSE,FALSE
+1993-02-17,Israel,France,France,Eric Cantona,28,FALSE,FALSE
 1993-02-17,Israel,France,France,Laurent Blanc,62,FALSE,FALSE
 1993-02-17,Israel,France,France,Laurent Blanc,84,FALSE,FALSE
 1993-02-17,Israel,France,France,Alain Roche,89,FALSE,FALSE
@@ -13079,8 +13079,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1993-04-28,England,Netherlands,Netherlands,Dennis Bergkamp,34,FALSE,FALSE
 1993-04-28,England,Netherlands,Netherlands,Peter van Vossen,85,FALSE,TRUE
 1993-04-28,France,Sweden,Sweden,Martin Dahlin,14,FALSE,FALSE
-1993-04-28,France,Sweden,France,Éric Cantona,42,FALSE,TRUE
-1993-04-28,France,Sweden,France,Éric Cantona,81,FALSE,FALSE
+1993-04-28,France,Sweden,France,Eric Cantona,42,FALSE,TRUE
+1993-04-28,France,Sweden,France,Eric Cantona,81,FALSE,FALSE
 1993-04-28,Indonesia,North Korea,North Korea,Pang Gwang-Chol,4,FALSE,FALSE
 1993-04-28,Indonesia,North Korea,Indonesia,Rahmad Darmawan,35,FALSE,FALSE
 1993-04-28,Indonesia,North Korea,North Korea,Ryu Song-Gun,68,FALSE,FALSE
@@ -13899,7 +13899,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1993-11-10,Turkey,Norway,Turkey,Ertuğrul Sağlam,26,FALSE,FALSE
 1993-11-10,Turkey,Norway,Norway,Lars Bohinen,48,FALSE,FALSE
 1993-11-17,Argentina,Australia,Argentina,Alex Tobin,59,TRUE,FALSE
-1993-11-17,France,Bulgaria,France,Éric Cantona,31,FALSE,FALSE
+1993-11-17,France,Bulgaria,France,Eric Cantona,31,FALSE,FALSE
 1993-11-17,France,Bulgaria,Bulgaria,Emil Kostadinov,37,FALSE,FALSE
 1993-11-17,France,Bulgaria,Bulgaria,Emil Kostadinov,90,FALSE,FALSE
 1993-11-17,Greece,Russia,Greece,Nikos Machlas,69,FALSE,FALSE
@@ -40983,3 +40983,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2022-12-06,Portugal,Switzerland,Switzerland,Manuel Akanji,58,FALSE,FALSE
 2022-12-06,Portugal,Switzerland,Portugal,Gonçalo Ramos,67,FALSE,FALSE
 2022-12-06,Portugal,Switzerland,Portugal,Rafael Leão,90,FALSE,FALSE
+2022-12-09,Croatia,Brazil,Brazil,Neymar,105,FALSE,FALSE
+2022-12-09,Croatia,Brazil,Croatia,Bruno Petković,117,FALSE,FALSE
+2022-12-09,Netherlands,Argentina,Argentina,Nahuel Molina,35,FALSE,FALSE
+2022-12-09,Netherlands,Argentina,Argentina,Lionel Messi,73,FALSE,TRUE
+2022-12-09,Netherlands,Argentina,Netherlands,Wout Weghorst,83,FALSE,FALSE
+2022-12-09,Netherlands,Argentina,Netherlands,Wout Weghorst,90,FALSE,FALSE

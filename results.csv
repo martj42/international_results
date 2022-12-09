@@ -44340,8 +44340,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-12-05,Brazil,South Korea,4,1,FIFA World Cup,Doha,Qatar,TRUE
 2022-12-06,Morocco,Spain,0,0,FIFA World Cup,Al Rayyan,Qatar,TRUE
 2022-12-06,Portugal,Switzerland,6,1,FIFA World Cup,Lusail,Qatar,TRUE
-2022-12-09,Croatia,Brazil,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
-2022-12-09,Netherlands,Argentina,NA,NA,FIFA World Cup,Lusail,Qatar,TRUE
+2022-12-09,Croatia,Brazil,1,1,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-12-09,Netherlands,Argentina,2,2,FIFA World Cup,Lusail,Qatar,TRUE
 2022-12-10,Morocco,Portugal,NA,NA,FIFA World Cup,Doha,Qatar,TRUE
 2022-12-10,England,France,NA,NA,FIFA World Cup,Al Khor,Qatar,TRUE
 2022-12-13,,,NA,NA,FIFA World Cup,Lusail,Qatar,TRUE
