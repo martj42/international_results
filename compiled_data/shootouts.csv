@@ -1,0 +1,547 @@
+shootout_id,result_id,date,home_team,away_team,winner
+0,6648,1967-08-22,India,Taiwan,Taiwan
+1,8110,1971-11-14,South Korea,Vietnam Republic,South Korea
+2,8281,1972-05-07,South Korea,Iraq,Iraq
+3,8299,1972-05-17,Thailand,South Korea,South Korea
+4,8302,1972-05-19,Thailand,Cambodia,Thailand
+5,8694,1973-04-21,Senegal,Ghana,Ghana
+6,8787,1973-06-14,Guinea,Mali,Guinea
+7,8788,1973-06-14,Mauritius,Tanzania,Mauritius
+8,8829,1973-07-26,Malaysia,Kuwait,Malaysia
+9,8828,1973-07-26,Cambodia,Singapore,Singapore
+10,8831,1973-07-27,Bangladesh,Thailand,Thailand
+11,8833,1973-07-28,Myanmar,South Korea,Myanmar
+12,8867,1973-08-09,India,Vietnam Republic,Vietnam Republic
+13,8905,1973-08-23,Algeria,Syria,Syria
+14,8908,1973-08-25,Algeria,Iraq,Algeria
+15,9126,1974-03-28,Qatar,United Arab Emirates,Qatar
+16,9244,1974-07-24,Hong Kong,Indonesia,Indonesia
+17,9251,1974-08-01,India,Indonesia,Indonesia
+18,9308,1974-10-09,Syria,Morocco,Morocco
+19,9355,1974-11-22,Libya,Tunisia,Tunisia
+20,9384,1974-12-18,South Korea,Malaysia,South Korea
+21,9591,1975-07-13,Morocco,Ghana,Morocco
+22,9742,1975-11-09,Kenya,Malawi,Kenya
+23,9774,1975-12-23,Libya,Syria,Syria
+24,9969,1976-06-20,Czechoslovakia,Germany,Czechoslovakia
+25,10181,1976-12-22,South Korea,Malaysia,Malaysia
+26,10190,1977-01-09,Tunisia,Morocco,Tunisia
+27,10308,1977-03-22,Argentina,Iran,Argentina
+28,10413,1977-06-26,Zambia,Algeria,Zambia
+29,10455,1977-07-27,Iran,Morocco,Iran
+30,10472,1977-08-31,Paraguay,Argentina,Paraguay
+31,10978,1979-01-13,Guinea-Bissau,Mali,Mali
+32,10979,1979-01-14,Guinea-Bissau,Guinea,Guinea
+33,11067,1979-04-29,Cameroon,Guinea,Guinea
+34,11096,1979-05-22,Argentina,Netherlands,Argentina
+35,11412,1980-02-16,Gambia,Mauritania,Gambia
+36,11462,1980-03-19,Algeria,Egypt,Algeria
+37,11577,1980-06-21,Italy,Czechoslovakia,Czechoslovakia
+38,11607,1980-07-12,Nigeria,Tunisia,Nigeria
+39,11843,1980-11-30,Zambia,Morocco,Morocco
+40,11893,1980-12-31,Hong Kong,China PR,China PR
+41,11932,1981-02-13,Mali,Guinea,Guinea
+42,12057,1981-05-10,Rwanda,Ethiopia,Ethiopia
+43,12417,1982-02-21,Ivory Coast,Togo,Togo
+44,12419,1982-02-22,Ivory Coast,Burkina Faso,Burkina Faso
+45,12455,1982-03-19,Libya,Ghana,Ghana
+46,12528,1982-05-15,Thailand,Singapore,Thailand
+47,12530,1982-05-17,Thailand,South Korea,Thailand
+48,12610,1982-07-08,Germany,France,Germany
+49,12689,1982-10-17,Indonesia,Malaysia,Indonesia
+50,12729,1982-11-27,Uganda,Kenya,Kenya
+51,12757,1983-02-06,Senegal,Niger,Senegal
+52,12767,1983-02-20,Gambia,Sierra Leone,Gambia
+53,12779,1983-02-27,Mali,Guinea,Mali
+54,12838,1983-04-22,Egypt,Congo,Egypt
+55,12845,1983-04-24,Mauritius,Ethiopia,Ethiopia
+56,12948,1983-07-18,Hong Kong,Thailand,Thailand
+57,13033,1983-08-28,Morocco,Nigeria,Nigeria
+58,13109,1983-10-20,Brazil,Paraguay,Brazil
+59,13186,1983-12-15,Ivory Coast,Mali,Ivory Coast
+60,13191,1983-12-18,Mali,Nigeria,Mali
+61,13247,1984-02-16,Sierra Leone,Mali,Sierra Leone
+62,13250,1984-02-19,Sierra Leone,Senegal,Senegal
+63,13284,1984-03-14,Egypt,Nigeria,Nigeria
+64,13283,1984-03-14,Algeria,Cameroon,Cameroon
+65,13311,1984-03-28,Iraq,Qatar,Iraq
+66,13396,1984-06-24,Denmark,Spain,Spain
+67,13411,1984-07-15,Senegal,Angola,Angola
+68,13635,1984-11-23,Kenya,Somalia,Kenya
+69,13645,1984-11-28,Ghana,Togo,Ghana
+70,13680,1984-12-08,Kenya,Somalia,Kenya
+71,13700,1984-12-13,Saudi Arabia,Iran,Saudi Arabia
+72,13704,1984-12-15,Malawi,Zambia,Zambia
+73,13708,1984-12-16,Iran,Kuwait,Kuwait
+74,13706,1984-12-16,Chad,Equatorial Guinea,Chad
+75,13715,1984-12-19,Central African Republic,Gabon,Gabon
+76,13718,1984-12-20,Congo,Cameroon,Cameroon
+77,13938,1985-04-16,Mozambique,Malawi,Mozambique
+78,13957,1985-04-21,Madagascar,Egypt,Egypt
+79,14100,1985-07-10,Bahrain,Qatar,Bahrain
+80,14108,1985-07-12,Saudi Arabia,Qatar,Saudi Arabia
+81,14139,1985-08-25,Mali,Guinea,Guinea
+82,14165,1985-09-15,Mozambique,Libya,Mozambique
+83,14197,1985-10-11,Kenya,Uganda,Kenya
+84,14409,1986-03-21,Egypt,Cameroon,Egypt
+85,14542,1986-06-21,Brazil,France,France
+86,14544,1986-06-21,Mexico,Germany,Germany
+87,14547,1986-06-22,Spain,Belgium,Belgium
+88,14642,1986-10-19,Gabon,Angola,Angola
+89,14688,1986-12-17,Chad,Gabon,Chad
+90,14740,1987-03-01,Mali,Sierra Leone,Mali
+91,14741,1987-03-02,Senegal,Sierra Leone,Senegal
+92,14858,1987-06-19,Australia,Egypt,Australia
+93,14863,1987-06-21,South Korea,Australia,South Korea
+94,14893,1987-07-19,DR Congo,Senegal,DR Congo
+95,15014,1987-12-13,Malawi,Zimbabwe,Zimbabwe
+96,15037,1987-12-18,Equatorial Guinea,Gabon,Gabon
+97,15051,1987-12-27,Ethiopia,Zimbabwe,Ethiopia
+98,15056,1988-01-06,South Korea,Egypt,South Korea
+99,15159,1988-03-23,Algeria,Nigeria,Nigeria
+100,15169,1988-03-26,Morocco,Algeria,Algeria
+101,15176,1988-03-31,Germany,Sweden,Sweden
+102,15223,1988-05-05,Mali,Senegal,Mali
+103,15226,1988-05-08,Guinea,Mali,Guinea
+104,15250,1988-05-28,Canada,Greece,Canada
+105,15345,1988-07-19,Egypt,Syria,Syria
+106,15347,1988-07-21,Iraq,Syria,Iraq
+107,15417,1988-09-29,Chile,Ecuador,Ecuador
+108,15443,1988-10-16,Eswatini,Tanzania,Eswatini
+109,15552,1988-12-06,Central African Republic,Gabon,Gabon
+110,15581,1988-12-17,China PR,Iran,Iran
+111,15583,1988-12-18,South Korea,Saudi Arabia,Saudi Arabia
+112,15754,1989-04-23,Ghana,Gabon,Gabon
+113,15756,1989-04-23,Kenya,Sudan,Kenya
+114,16131,1989-11-08,Iran,Uganda,Uganda
+115,16134,1989-11-12,Iraq,Uganda,Iraq
+116,16172,1989-12-11,Chad,Cameroon,Cameroon
+117,16179,1989-12-16,Malawi,Uganda,Uganda
+118,16201,1990-01-28,Nigeria,Senegal,Nigeria
+119,16211,1990-02-04,United States,Colombia,Colombia
+120,16227,1990-02-20,Colombia,Russia,Colombia
+121,16341,1990-05-18,Zimbabwe,Eswatini,Zimbabwe
+122,16428,1990-06-25,Republic of Ireland,Romania,Republic of Ireland
+123,16433,1990-06-30,Yugoslavia,Argentina,Argentina
+124,16436,1990-07-03,Italy,Argentina,Argentina
+125,16437,1990-07-04,Germany,England,Germany
+126,16454,1990-08-03,China PR,South Korea,South Korea
+127,16617,1990-12-17,Tanzania,Uganda,Uganda
+128,16615,1990-12-17,Central African Republic,Equatorial Guinea,Central African Republic
+129,16640,1991-01-21,Cameroon,Algeria,Cameroon
+130,16641,1991-01-21,Senegal,Ivory Coast,Ivory Coast
+131,16642,1991-01-22,Senegal,Algeria,Senegal
+132,16643,1991-01-23,Ivory Coast,Cameroon,Ivory Coast
+133,16839,1991-06-14,South Korea,Australia,South Korea
+134,16841,1991-06-16,Italy,Russia,Italy
+135,16895,1991-07-07,United States,Honduras,United States
+136,16948,1991-08-08,Czechoslovakia,Yugoslavia,Czechoslovakia
+137,16994,1991-09-20,Fiji,Solomon Islands,Fiji
+138,17015,1991-09-28,Egypt,Mali,Egypt
+139,17136,1992-01-23,Cameroon,Ivory Coast,Ivory Coast
+140,17141,1992-01-26,Ghana,Ivory Coast,Ivory Coast
+141,17331,1992-06-22,Netherlands,Denmark,Denmark
+142,17337,1992-06-27,Cuba,Martinique,Martinique
+143,17453,1992-08-29,Japan,South Korea,Japan
+144,17495,1992-09-15,Syria,Egypt,Egypt
+145,17614,1992-11-08,China PR,United Arab Emirates,China PR
+146,17661,1992-11-25,Uganda,Zambia,Uganda
+147,17742,1993-01-23,Japan,Switzerland,Switzerland
+148,17794,1993-02-20,Finland,Estonia,Finland
+149,17800,1993-02-24,Argentina,Denmark,Argentina
+150,18067,1993-05-27,Bolivia,Paraguay,Bolivia
+151,18069,1993-05-28,Martinique,Saint Kitts and Nevis,Martinique
+152,18077,1993-05-30,Jamaica,Martinique,Martinique
+153,18168,1993-06-26,Colombia,Uruguay,Colombia
+154,18172,1993-06-27,Brazil,Argentina,Argentina
+155,18179,1993-07-01,Colombia,Argentina,Argentina
+156,18285,1993-08-15,Australia,Canada,Australia
+157,18381,1993-10-24,Burundi,Guinea,Guinea
+158,18478,1994-01-29,Burkina Faso,Guinea,Burkina Faso
+159,18581,1994-04-06,Nigeria,Ivory Coast,Nigeria
+160,18759,1994-07-05,Mexico,Bulgaria,Bulgaria
+161,18773,1994-07-10,Romania,Sweden,Sweden
+162,18779,1994-07-17,Brazil,Italy,Brazil
+163,18994,1994-12-08,Tanzania,Uganda,Tanzania
+164,19042,1995-01-10,Denmark,Mexico,Denmark
+165,19045,1995-01-13,Mexico,Nigeria,Mexico
+166,19092,1995-02-26,Japan,South Korea,Japan
+167,19149,1995-03-31,India,Bangladesh,India
+168,19237,1995-05-21,Antigua and Barbuda,Saint Kitts and Nevis,Antigua and Barbuda
+169,19298,1995-06-09,Paraguay,Bolivia,Paraguay
+170,19365,1995-07-16,Paraguay,Colombia,Colombia
+171,19372,1995-07-17,United States,Mexico,United States
+172,19371,1995-07-17,Brazil,Argentina,Brazil
+173,19404,1995-07-23,Uruguay,Brazil,Uruguay
+174,19459,1995-08-24,Fiji,Solomon Islands,Solomon Islands
+175,19612,1995-11-28,Mauritania,Sierra Leone,Sierra Leone
+176,19628,1995-12-02,Gabon,Cameroon,Cameroon
+177,19627,1995-12-02,Algeria,Ivory Coast,Ivory Coast
+178,19635,1995-12-06,Ethiopia,Zanzibar,Zanzibar
+179,19639,1995-12-07,Honduras,Costa Rica,Honduras
+180,19713,1996-01-28,Gabon,Tunisia,Tunisia
+181,19758,1996-02-22,Japan,Sweden,Sweden
+182,19859,1996-04-28,Barbados,Jamaica,Jamaica
+183,19871,1996-05-05,Guyana,Suriname,Suriname
+184,19984,1996-06-05,Martinique,Suriname,Martinique
+185,20056,1996-06-22,England,Spain,England
+186,20057,1996-06-22,France,Netherlands,France
+187,20068,1996-06-26,France,Czech Republic,Czech Republic
+188,20067,1996-06-26,England,Germany,Germany
+189,20148,1996-08-25,Ethiopia,Uganda,Ethiopia
+190,20434,1996-11-29,Sudan,Kenya,Sudan
+191,20456,1996-12-11,Morocco,Croatia,Croatia
+192,20458,1996-12-12,Croatia,Czech Republic,Croatia
+193,20485,1996-12-19,Iran,Saudi Arabia,Saudi Arabia
+194,20490,1996-12-21,Iran,Kuwait,Iran
+195,20491,1996-12-21,United Arab Emirates,Saudi Arabia,Saudi Arabia
+196,20499,1996-12-27,Benin,Burkina Faso,Benin
+197,20555,1997-02-07,Russia,Serbia,Russia
+198,20742,1997-04-10,India,Iraq,Iraq
+199,20978,1997-06-22,Ecuador,Mexico,Mexico
+200,21044,1997-07-10,Trinidad and Tobago,Jamaica,Trinidad and Tobago
+201,21262,1997-10-20,Haiti,Cuba,Haiti
+202,21264,1997-10-22,Cuba,Cameroon,Cuba
+203,21333,1997-12-07,Gambia,Guinea,Guinea
+204,21404,1998-01-31,Egypt,South Korea,South Korea
+205,21405,1998-01-31,Iran,Chile,Iran
+206,21475,1998-02-21,Burkina Faso,Tunisia,Burkina Faso
+207,21476,1998-02-21,Ivory Coast,Egypt,Egypt
+208,21489,1998-02-27,Burkina Faso,DR Congo,DR Congo
+209,21570,1998-04-22,Hungary,North Macedonia,Hungary
+210,21628,1998-05-29,Belgium,England,Belgium
+211,21629,1998-05-29,Morocco,France,Morocco
+212,21729,1998-06-30,Argentina,England,Argentina
+213,21733,1998-07-03,France,Italy,France
+214,21739,1998-07-07,Brazil,Netherlands,Brazil
+215,21864,1998-09-05,Indonesia,Thailand,Indonesia
+216,22031,1998-11-17,Guatemala,Honduras,Guatemala
+217,22039,1998-11-18,Guatemala,Mexico,Guatemala
+218,22057,1998-12-02,United Arab Emirates,North Korea,United Arab Emirates
+219,22318,1999-05-22,Malawi,Namibia,Namibia
+220,22415,1999-06-16,Thailand,New Zealand,Thailand
+221,22422,1999-06-19,New Zealand,Poland,Poland
+222,22504,1999-07-10,Mexico,Peru,Mexico
+223,22505,1999-07-10,Paraguay,Uruguay,Uruguay
+224,22511,1999-07-13,Uruguay,Chile,Uruguay
+225,22521,1999-07-18,Eswatini,Zimbabwe,Eswatini
+226,22548,1999-07-31,Namibia,South Africa,Namibia
+227,22554,1999-08-03,Rwanda,Kenya,Kenya
+228,22562,1999-08-07,Rwanda,Burundi,Rwanda
+229,22564,1999-08-07,Zambia,Mozambique,Zambia
+230,22594,1999-08-28,Namibia,Eswatini,Namibia
+231,22771,1999-11-26,Gabon,Togo,Togo
+232,22883,2000-02-04,Romania,Georgia,Romania
+233,22916,2000-02-12,South Africa,Tunisia,South Africa
+234,22923,2000-02-13,Nigeria,Cameroon,Cameroon
+235,22953,2000-02-19,United States,Colombia,Colombia
+236,23034,2000-03-19,Suriname,Saint Lucia,Suriname
+237,23218,2000-04-29,British Virgin Islands,Sint Maarten,British Virgin Islands
+238,23220,2000-04-30,British Virgin Islands,Antigua and Barbuda,Antigua and Barbuda
+239,23245,2000-05-10,Maldives,Sri Lanka,Sri Lanka
+240,23247,2000-05-11,Senegal,Mali,Senegal
+241,23256,2000-05-20,Malawi,Angola,Angola
+242,23258,2000-05-21,Barbados,Cuba,Barbados
+243,23326,2000-06-04,France,Japan,France
+244,23341,2000-06-07,Iran,Egypt,Egypt
+245,23358,2000-06-11,Lesotho,Zambia,Lesotho
+246,23434,2000-06-29,Netherlands,Italy,Italy
+247,23472,2000-07-14,Libya,Chad,Libya
+248,23490,2000-07-16,Mozambique,Lesotho,Lesotho
+249,23622,2000-09-03,Togo,Sierra Leone,Togo
+250,23648,2000-10-04,United Arab Emirates,South Korea,United Arab Emirates
+251,23754,2000-10-28,Kenya,Uganda,Uganda
+252,23830,2000-12-02,Ethiopia,Rwanda,Ethiopia
+253,23873,2001-01-17,China PR,Egypt,Egypt
+254,23893,2001-01-27,South Korea,Paraguay,South Korea
+255,23940,2001-02-11,Eswatini,Zambia,Eswatini
+256,24509,2001-07-12,Ynys Môn,Jersey,Ynys Môn
+257,24518,2001-07-13,Guernsey,Ynys Môn,Guernsey
+258,24559,2001-07-29,Uruguay,Honduras,Honduras
+259,24573,2001-08-03,China PR,North Korea,North Korea
+260,24574,2001-08-03,Kuwait,Trinidad and Tobago,Kuwait
+261,24578,2001-08-05,Kuwait,North Korea,North Korea
+262,24617,2001-08-18,Zambia,Angola,Angola
+263,24758,2001-10-24,Kenya,Uganda,Kenya
+264,24759,2001-10-24,Tanzania,DR Congo,Tanzania
+265,24844,2001-12-18,Ethiopia,Burundi,Ethiopia
+266,24872,2002-01-06,Martinique,Haiti,Martinique
+267,24931,2002-01-26,Canada,Martinique,Canada
+268,24936,2002-01-27,Mexico,South Korea,South Korea
+269,24948,2002-01-30,United States,Canada,United States
+270,24970,2002-02-10,Senegal,Cameroon,Cameroon
+271,24974,2002-02-12,Cyprus,Switzerland,Cyprus
+272,25003,2002-02-15,China PR,Slovenia,Slovenia
+273,25005,2002-02-16,Thailand,North Korea,North Korea
+274,25064,2002-03-30,Botswana,South Africa,South Africa
+275,25133,2002-05-17,Russia,Belarus,Belarus
+276,25148,2002-05-19,Russia,Serbia,Serbia
+277,25220,2002-06-16,Spain,Republic of Ireland,Spain
+278,25229,2002-06-22,South Korea,Spain,South Korea
+279,25267,2002-07-21,South Africa,Madagascar,South Africa
+280,25349,2002-09-05,Iraq,Iran,Iraq
+281,25380,2002-09-07,Syria,Iran,Iran
+282,25397,2002-09-17,Iran,Morocco,Iran
+283,25399,2002-09-19,Iran,Paraguay,Iran
+284,25478,2002-10-23,Kenya,South Africa,Kenya
+285,25481,2002-10-26,Tanzania,South Africa,South Africa
+286,25480,2002-10-26,Kenya,Uganda,Kenya
+287,25499,2002-11-19,South Africa,Senegal,Senegal
+288,25615,2002-12-27,Niger,Burkina Faso,Burkina Faso
+289,25622,2002-12-29,Niger,Mali,Niger
+290,25643,2003-01-20,Bangladesh,Maldives,Bangladesh
+291,25654,2003-02-04,Uruguay,Iran,Uruguay
+292,25735,2003-03-07,Benin,Niger,Benin
+293,25743,2003-03-15,Guadeloupe,French Guiana,Guadeloupe
+294,25757,2003-03-22,Mozambique,Lesotho,Mozambique
+295,25780,2003-03-27,Tunisia,Ghana,Tunisia
+296,25826,2003-03-30,Ghana,Madagascar,Ghana
+297,25917,2003-05-24,Botswana,Malawi,Malawi
+298,26135,2003-07-09,New Caledonia,Vanuatu,New Caledonia
+299,26171,2003-08-16,Malawi,Zambia,Malawi
+300,26286,2003-09-24,Algeria,Gabon,Algeria
+301,26291,2003-09-26,Algeria,Burkina Faso,Algeria
+302,26525,2003-12-08,Kenya,Rwanda,Rwanda
+303,26526,2003-12-08,Sudan,Uganda,Uganda
+304,26641,2004-02-11,Tunisia,Nigeria,Tunisia
+305,26697,2004-02-19,Kazakhstan,Armenia,Kazakhstan
+306,26709,2004-02-28,Lesotho,Botswana,Botswana
+307,27078,2004-06-23,Jordan,Syria,Syria
+308,27080,2004-06-24,Portugal,England,Portugal
+309,27084,2004-06-26,Sweden,Netherlands,Netherlands
+310,27142,2004-07-18,Angola,Botswana,Angola
+311,27156,2004-07-21,Uruguay,Brazil,Brazil
+312,27165,2004-07-25,Argentina,Brazil,Brazil
+313,27176,2004-07-30,Uzbekistan,Bahrain,Bahrain
+314,27177,2004-07-31,Japan,Jordan,Japan
+315,27181,2004-08-03,China PR,Iran,China PR
+316,27454,2004-10-22,Nigeria,Ecuador,Ecuador
+317,27455,2004-10-24,Zimbabwe,Zambia,Zambia
+318,27528,2004-11-20,Zambia,Angola,Angola
+319,27550,2004-11-30,Thailand,Estonia,Thailand
+320,27549,2004-11-30,Singapore,Hong Kong,Hong Kong
+321,27556,2004-12-02,Thailand,Slovakia,Slovakia
+322,27557,2004-12-03,Bahrain,Latvia,Bahrain
+323,27558,2004-12-03,Finland,Oman,Oman
+324,27628,2004-12-22,Ethiopia,Kenya,Ethiopia
+325,27631,2004-12-24,Qatar,Oman,Qatar
+326,27679,2005-02-08,Cyprus,Austria,Cyprus
+327,27684,2005-02-09,Austria,Latvia,Latvia
+328,27745,2005-02-27,Costa Rica,Honduras,Costa Rica
+329,27855,2005-04-16,Namibia,Botswana,Botswana
+330,28012,2005-06-26,Mexico,Argentina,Argentina
+331,28065,2005-07-21,Colombia,Panama,Panama
+332,28067,2005-07-24,United States,Panama,United States
+333,28068,2005-07-28,Kuwait,United Arab Emirates,United Arab Emirates
+334,28069,2005-07-30,Egypt,United Arab Emirates,Egypt
+335,28083,2005-08-13,South Africa,Zambia,Zambia
+336,28088,2005-08-15,Ukraine,Israel,Israel
+337,28345,2005-11-16,Australia,Uruguay,Australia
+338,28408,2005-12-10,Syria,Iraq,Iraq
+339,28409,2005-12-10,Zanzibar,Uganda,Zanzibar
+340,28493,2006-02-04,Nigeria,Tunisia,Nigeria
+341,28492,2006-02-04,Cameroon,Ivory Coast,Ivory Coast
+342,28500,2006-02-10,Egypt,Ivory Coast,Egypt
+343,28538,2006-02-28,Finland,Kazakhstan,Kazakhstan
+344,28548,2006-03-01,Finland,Belarus,Finland
+345,28623,2006-04-29,Lesotho,Mozambique,Lesotho
+346,28625,2006-04-30,Mauritius,Mozambique,Mozambique
+347,28645,2006-05-21,Botswana,South Africa,Botswana
+348,28724,2006-06-03,Northern Cyprus,Zanzibar,Northern Cyprus
+349,28798,2006-06-26,Switzerland,Ukraine,Ukraine
+350,28802,2006-06-30,Germany,Argentina,Germany
+351,28806,2006-07-01,England,Portugal,Portugal
+352,28814,2006-07-09,Italy,France,Italy
+353,28820,2006-07-22,Namibia,Seychelles,Seychelles
+354,29502,2007-04-29,Mozambique,Zimbabwe,Mozambique
+355,29517,2007-05-26,Malawi,South Africa,South Africa
+356,29519,2007-05-26,Eswatini,Mauritius,Mauritius
+357,29763,2007-07-10,Uruguay,Brazil,Brazil
+358,29790,2007-07-21,Japan,Australia,Japan
+359,29791,2007-07-22,Iran,South Korea,South Korea
+360,29794,2007-07-25,Iraq,South Korea,Iraq
+361,29798,2007-07-28,South Korea,Japan,South Korea
+362,29799,2007-07-29,Botswana,Angola,Botswana
+363,30085,2007-10-24,South Africa,Zambia,South Africa
+364,30772,2008-06-20,Croatia,Turkey,Turkey
+365,30813,2008-06-22,Spain,Italy,Spain
+366,30854,2008-07-27,Zambia,Zimbabwe,Zambia
+367,31770,2009-06-26,Provence,Sápmi,Sápmi
+368,31845,2009-07-23,Costa Rica,Mexico,Mexico
+369,32126,2009-10-28,Zimbabwe,South Africa,Zimbabwe
+370,32327,2010-01-25,Zambia,Nigeria,Nigeria
+371,32601,2010-06-29,Paraguay,Japan,Paraguay
+372,32606,2010-07-02,Uruguay,Ghana,Uruguay
+373,33188,2011-01-25,Japan,South Korea,Japan
+374,33198,2011-02-08,Romania,Ukraine,Ukraine
+375,33240,2011-02-09,Sweden,Ukraine,Ukraine
+376,33480,2011-06-08,Uruguay,Netherlands,Uruguay
+377,33498,2011-06-18,Costa Rica,Honduras,Honduras
+378,33503,2011-06-19,Panama,El Salvador,Panama
+379,0,2011-06-29,Saare County,Åland Islands,Åland Islands
+380,33547,2011-06-30,Isle of Man,Menorca,Menorca
+381,33592,2011-07-12,Saint Lucia,Aruba,Saint Lucia
+382,33602,2011-07-16,Argentina,Uruguay,Uruguay
+383,33607,2011-07-17,Brazil,Paraguay,Paraguay
+384,33614,2011-07-20,Paraguay,Venezuela,Paraguay
+385,34262,2012-02-05,Gabon,Mali,Mali
+386,34267,2012-02-12,Zambia,Ivory Coast,Zambia
+387,34502,2012-06-03,Finland,Latvia,Latvia
+388,34652,2012-06-24,England,Italy,Italy
+389,34657,2012-06-27,Portugal,Spain,Spain
+390,35103,2012-11-21,Argentina,Brazil,Brazil
+391,35277,2013-01-23,Sweden,North Korea,Sweden
+392,35307,2013-02-02,South Africa,Mali,Mali
+393,35314,2013-02-06,Burkina Faso,Ghana,Burkina Faso
+394,35682,2013-06-27,Spain,Italy,Spain
+395,35686,2013-06-30,Uruguay,Italy,Italy
+396,35713,2013-07-13,Zimbabwe,Malawi,Zimbabwe
+397,35717,2013-07-14,Angola,Lesotho,Lesotho
+398,35728,2013-07-17,Zambia,South Africa,Zambia
+399,36386,2014-05-29,Latvia,Estonia,Latvia
+400,36466,2014-06-04,Abkhazia,South Ossetia,South Ossetia
+401,36468,2014-06-04,Ellan Vannin,Iraqi Kurdistan,Ellan Vannin
+402,36471,2014-06-05,Padania,Abkhazia,Padania
+403,36472,2014-06-05,Occitania,Iraqi Kurdistan,Iraqi Kurdistan
+404,36496,2014-06-07,Padania,Iraqi Kurdistan,Padania
+405,36501,2014-06-08,County of Nice,Ellan Vannin,County of Nice
+406,36556,2014-06-28,Brazil,Chile,Brazil
+407,36559,2014-06-29,Costa Rica,Greece,Costa Rica
+408,36569,2014-07-05,Netherlands,Costa Rica,Netherlands
+409,36572,2014-07-09,Netherlands,Argentina,Argentina
+410,37108,2015-01-23,Iran,Iraq,Iraq
+411,37109,2015-01-23,Japan,United Arab Emirates,United Arab Emirates
+412,37124,2015-01-30,Curaçao,Aruba,Aruba
+413,37139,2015-02-07,Equatorial Guinea,DR Congo,DR Congo
+414,37140,2015-02-08,Ivory Coast,Ghana,Ivory Coast
+415,37299,2015-05-24,Zambia,Namibia,Namibia
+416,37297,2015-05-24,South Africa,Botswana,Botswana
+417,37301,2015-05-25,Mozambique,Malawi,Mozambique
+418,37302,2015-05-27,South Africa,Malawi,Malawi
+419,37512,2015-06-21,Ellan Vannin,Felvidék,Ellan Vannin
+420,37517,2015-06-26,Argentina,Colombia,Argentina
+421,37518,2015-06-27,Brazil,Paraguay,Paraguay
+422,37550,2015-07-02,Gibraltar,Åland Islands,Åland Islands
+423,37559,2015-07-04,Chile,Argentina,Chile
+424,37560,2015-07-04,Zambia,Namibia,Zambia
+425,37583,2015-07-19,Trinidad and Tobago,Panama,Panama
+426,37586,2015-07-25,United States,Panama,Panama
+427,37856,2015-10-13,El Salvador,Guatemala,Guatemala
+428,38137,2016-02-03,DR Congo,Guinea,DR Congo
+429,38338,2016-05-27,Corsica,Basque Country,Basque Country
+430,38401,2016-06-01,United Koreans in Japan,Northern Cyprus,Northern Cyprus
+431,38410,2016-06-02,Iraqi Kurdistan,Padania,Padania
+432,38416,2016-06-03,Bosnia and Herzegovina,Denmark,Bosnia and Herzegovina
+433,38427,2016-06-03,Thailand,Syria,Thailand
+434,38430,2016-06-03,Vietnam,Hong Kong,Vietnam
+435,38432,2016-06-03,Iraqi Kurdistan,Western Armenia,Western Armenia
+436,38433,2016-06-03,Chagos Islands,Raetia,Raetia
+437,38457,2016-06-04,United Koreans in Japan,Iraqi Kurdistan,United Koreans in Japan
+438,38480,2016-06-05,Abkhazia,Panjab,Abkhazia
+439,38518,2016-06-11,Papua New Guinea,New Zealand,New Zealand
+440,38557,2016-06-17,Peru,Colombia,Colombia
+441,38563,2016-06-18,Namibia,Botswana,Botswana
+442,38565,2016-06-18,South Africa,Lesotho,South Africa
+443,38570,2016-06-19,Zambia,Eswatini,Eswatini
+444,38580,2016-06-22,Botswana,DR Congo,Botswana
+445,38592,2016-06-25,Switzerland,Poland,Poland
+446,38595,2016-06-26,Argentina,Chile,Chile
+447,38603,2016-06-30,Poland,Portugal,Portugal
+448,38605,2016-07-02,Germany,Italy,Germany
+449,39036,2017-01-11,Chile,Croatia,Chile
+450,39042,2017-01-14,China PR,Croatia,China PR
+451,39084,2017-02-01,Burkina Faso,Egypt,Egypt
+452,39324,2017-06-09,Kárpátalja,Ellan Vannin,Kárpátalja
+453,39326,2017-06-09,Padania,Abkhazia,Padania
+454,39353,2017-06-10,Northern Cyprus,Padania,Padania
+455,39450,2017-06-28,Portugal,Chile,Chile
+456,39459,2017-06-29,Hitra,Western Isles,Western Isles
+457,39463,2017-06-29,Greenland,Menorca,Greenland
+458,39473,2017-07-01,Namibia,Lesotho,Lesotho
+459,39492,2017-07-07,Tanzania,Lesotho,Tanzania
+460,39527,2017-07-16,Thailand,Belarus,Thailand
+461,40043,2018-03-21,South Africa,Angola,South Africa
+462,40045,2018-03-21,Zambia,Zimbabwe,Zambia
+463,40061,2018-03-22,Thailand,Gabon,Thailand
+464,40091,2018-03-24,Angola,Zimbabwe,Angola
+465,40255,2018-06-02,Zambia,Namibia,Zambia
+466,40273,2018-06-03,Andorra,Cape Verde,Cape Verde
+467,40274,2018-06-03,South Africa,Madagascar,Madagascar
+468,40275,2018-06-03,Zimbabwe,Botswana,Zimbabwe
+469,40298,2018-06-05,Matabeleland,Kabylia,Kabylia
+470,40310,2018-06-06,Lesotho,Zimbabwe,Zimbabwe
+471,40344,2018-06-09,Tibet,United Koreans in Japan,United Koreans in Japan
+472,40347,2018-06-09,Panjab,Cascadia,Panjab
+473,40348,2018-06-09,Padania,Székely Land,Padania
+474,40349,2018-06-09,Northern Cyprus,Kárpátalja,Kárpátalja
+475,40406,2018-07-01,Russia,Spain,Russia
+476,40407,2018-07-01,Croatia,Denmark,Croatia
+477,40411,2018-07-03,Colombia,England,England
+478,40416,2018-07-07,Russia,Croatia,Croatia
+479,40937,2019-01-20,Jordan,Vietnam,Vietnam
+480,40939,2019-01-21,Australia,Uzbekistan,Australia
+481,41001,2019-03-23,Oman,Singapore,Oman
+482,41103,2019-06-01,Lesotho,Uganda,Lesotho
+483,41107,2019-06-02,South Africa,Botswana,Botswana
+484,41108,2019-06-02,Zambia,Malawi,Zambia
+485,41130,2019-06-04,South Africa,Uganda,South Africa
+486,41132,2019-06-05,Zimbabwe,Zambia,Zambia
+487,41147,2019-06-06,Abkhazia,Western Armenia,Western Armenia
+488,41148,2019-06-06,South Ossetia,Chameria,South Ossetia
+489,41168,2019-06-07,Lesotho,Zimbabwe,Zimbabwe
+490,41169,2019-06-07,South Africa,Malawi,South Africa
+491,41197,2019-06-08,Abkhazia,Chameria,Abkhazia
+492,41209,2019-06-09,Switzerland,England,England
+493,41350,2019-06-27,Brazil,Paraguay,Brazil
+494,41354,2019-06-28,Colombia,Chile,Chile
+495,41361,2019-06-29,Mexico,Costa Rica,Mexico
+496,41359,2019-06-29,Uruguay,Peru,Peru
+497,41380,2019-07-05,Morocco,Benin,Benin
+498,41386,2019-07-07,Madagascar,DR Congo,Madagascar
+499,41390,2019-07-08,Ghana,Tunisia,Tunisia
+500,41404,2019-07-11,Ivory Coast,Algeria,Algeria
+501,41576,2019-09-08,Tanzania,Burundi,Tanzania
+502,41756,2019-10-13,Chad,Liberia,Chad
+503,41755,2019-10-13,Gambia,Djibouti,Gambia
+504,42145,2020-10-08,Bosnia and Herzegovina,Northern Ireland,Northern Ireland
+505,42146,2020-10-08,Slovakia,Republic of Ireland,Slovakia
+506,42147,2020-10-08,Scotland,Israel,Scotland
+507,42264,2020-11-12,Serbia,Scotland,Scotland
+508,42597,2021-06-03,Mexico,Costa Rica,Mexico
+509,42658,2021-06-06,Honduras,Costa Rica,Honduras
+510,42828,2021-06-28,France,Switzerland,Switzerland
+511,42836,2021-07-02,Peru,Paraguay,Peru
+512,42834,2021-07-02,Switzerland,Spain,Spain
+513,42844,2021-07-03,Uruguay,Colombia,Colombia
+514,42852,2021-07-06,Italy,Spain,Italy
+515,42855,2021-07-06,Trinidad and Tobago,French Guiana,Trinidad and Tobago
+516,42851,2021-07-06,Argentina,Colombia,Argentina
+517,42854,2021-07-06,Guatemala,Guadeloupe,Guadeloupe
+518,42870,2021-07-11,England,Italy,Italy
+519,42892,2021-07-16,Senegal,Eswatini,Senegal
+520,42898,2021-07-18,Eswatini,Mozambique,Eswatini
+521,42899,2021-07-18,South Africa,Senegal,South Africa
+522,43402,2021-11-19,Sri Lanka,Seychelles,Seychelles
+523,43434,2021-12-11,Morocco,Algeria,Algeria
+524,43438,2021-12-18,Qatar,Egypt,Qatar
+525,43495,2022-01-23,Burkina Faso,Gabon,Burkina Faso
+526,43501,2022-01-26,Ivory Coast,Egypt,Egypt
+527,43502,2022-01-26,Mali,Equatorial Guinea,Equatorial Guinea
+528,43556,2022-02-03,Cameroon,Egypt,Egypt
+529,43557,2022-02-05,Cameroon,Burkina Faso,Cameroon
+530,43558,2022-02-06,Senegal,Egypt,Senegal
+531,43630,2022-03-25,Tajikistan,Uganda,Uganda
+532,43723,2022-03-29,Kazakhstan,Moldova,Kazakhstan
+533,43673,2022-03-29,Senegal,Egypt,Senegal
+534,43994,2022-06-13,Australia,Peru,Australia
+535,44039,2022-06-14,Chile,Ghana,Ghana
+536,44059,2022-09-22,Thailand,Malaysia,Malaysia
+537,44081,2022-09-23,Iraq,Oman,Oman
+538,44121,2022-09-25,Malaysia,Tajikistan,Tajikistan
+539,44228,2022-11-16,Lithuania,Iceland,Iceland
+540,44229,2022-11-16,Latvia,Estonia,Latvia
+541,44267,2022-11-19,Latvia,Iceland,Iceland
+542,44337,2022-12-05,Japan,Croatia,Croatia
+543,44339,2022-12-06,Morocco,Spain,Morocco
+544,44341,2022-12-09,Croatia,Brazil,Croatia
+545,44342,2022-12-09,Netherlands,Argentina,Argentina
