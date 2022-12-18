@@ -2716,11 +2716,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1947-07-05,New Zealand,South Africa,0,6,Friendly,Dunedin,New Zealand,FALSE
 1947-07-06,Bulgaria,Romania,2,3,Balkan Cup,Sofia,Bulgaria,FALSE
 1947-07-12,New Zealand,South Africa,3,8,Friendly,Wellington,New Zealand,FALSE
-1947-07-13,Mexico,United States,5,0,NAFU Championship,Havana,Cuba,TRUE
-1947-07-17,Cuba,Mexico,1,3,NAFU Championship,Havana,Cuba,FALSE
+1947-07-13,Mexico,United States,5,0,NAFC Championship,Havana,Cuba,TRUE
+1947-07-17,Cuba,Mexico,1,3,NAFC Championship,Havana,Cuba,FALSE
 1947-07-19,New Zealand,South Africa,1,4,Friendly,Auckland,New Zealand,FALSE
 1947-07-19,Poland,Romania,1,2,Friendly,Warsaw,Poland,FALSE
-1947-07-20,Cuba,United States,5,2,NAFU Championship,Havana,Cuba,FALSE
+1947-07-20,Cuba,United States,5,2,NAFC Championship,Havana,Cuba,FALSE
 1947-07-24,Iceland,Norway,2,4,Friendly,Reykjavík,Iceland,FALSE
 1947-08-17,Hungary,Bulgaria,9,0,Balkan Cup,Budapest,Hungary,FALSE
 1947-08-20,Hungary,Albania,3,0,Balkan Cup,Budapest,Hungary,FALSE
@@ -3022,12 +3022,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1949-08-19,Suriname,French Guiana,2,1,Friendly,Paramaribo,Suriname,FALSE
 1949-08-21,Yugoslavia,Israel,6,0,FIFA World Cup qualification,Belgrade,Yugoslavia,FALSE
 1949-09-04,Czechoslovakia,Bulgaria,1,3,Friendly,Prague,Czechoslovakia,FALSE
-1949-09-04,Mexico,United States,6,0,FIFA World Cup qualification,Mexico City,Mexico,FALSE
+1949-09-04,Mexico,United States,6,0,NAFC Championship,Mexico City,Mexico,FALSE
 1949-09-08,Republic of Ireland,Finland,3,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
 1949-09-11,Denmark,Finland,0,2,Nordic Championship,Copenhagen,Denmark,FALSE
-1949-09-11,Mexico,Cuba,2,0,FIFA World Cup qualification,Mexico City,Mexico,FALSE
+1949-09-11,Mexico,Cuba,2,0,NAFC Championship,Mexico City,Mexico,FALSE
 1949-09-11,Norway,Denmark,0,2,Nordic Championship,Oslo,Norway,FALSE
-1949-09-14,Cuba,United States,1,1,FIFA World Cup qualification,Mexico City,Mexico,TRUE
+1949-09-14,Cuba,United States,1,1,NAFC Championship,Mexico City,Mexico,TRUE
 1949-09-18,Israel,Yugoslavia,2,5,FIFA World Cup qualification,Tel Aviv,Israel,FALSE
 1949-09-18,Luxembourg,Switzerland,2,3,FIFA World Cup qualification,Luxembourg,Luxembourg,FALSE
 1949-09-18,Mexico,United States,6,2,FIFA World Cup qualification,Mexico City,Mexico,FALSE
@@ -14230,7 +14230,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1985-10-26,Myanmar,Indonesia,2,1,Friendly,Yangon,Burma,FALSE
 1985-10-26,Japan,South Korea,1,2,FIFA World Cup qualification,Tokyo,Japan,FALSE
 1985-10-26,New Zealand,Israel,3,1,FIFA World Cup qualification,Auckland,New Zealand,FALSE
-1985-10-27,Australia,Taiwan,8,0,FIFA World Cup qualification,Sydney,New Zealand,FALSE
+1985-10-27,Australia,Taiwan,8,0,FIFA World Cup qualification,Sydney,Australia,FALSE
 1985-10-27,Chile,Peru,4,2,FIFA World Cup qualification,Santiago,Chile,FALSE
 1985-10-27,Paraguay,Colombia,3,0,FIFA World Cup qualification,Asunción,Paraguay,FALSE
 1985-10-30,Albania,Greece,1,1,FIFA World Cup qualification,Tirana,Albania,FALSE
@@ -44343,7 +44343,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-12-09,Malaysia,Cambodia,4,0,Friendly,Kuala Lumpur,Malaysia,FALSE
 2022-12-10,Morocco,Portugal,1,0,FIFA World Cup,Doha,Qatar,TRUE
 2022-12-10,England,France,1,2,FIFA World Cup,Al Khor,Qatar,TRUE
+2022-12-11,Thailand,Myanmar,6,0,Friendly,Pathum Thani,Thailand,FALSE
 2022-12-13,Argentina,Croatia,3,0,FIFA World Cup,Lusail,Qatar,TRUE
 2022-12-14,France,Morocco,2,0,FIFA World Cup,Al Khor,Qatar,TRUE
-2022-12-17,Croatia,Morocco,NA,NA,FIFA World Cup,Al Rayyan,Qatar,TRUE
-2022-12-18,Argentina,France,NA,NA,FIFA World Cup,Lusail,Qatar,TRUE
+2022-12-14,Malaysia,Maldives,3,0,Friendly,Kuala Lumpur,Malaysia,FALSE
+2022-12-14,Thailand,Taiwan,0,1,Friendly,Pathum Thani,Thailand,FALSE
+2022-12-14,Vietnam,Philippines,1,0,Friendly,Hanoi,Vietnam,FALSE
+2022-12-17,Croatia,Morocco,2,1,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-12-17,Singapore,Maldives,3,1,Friendly,Singapore,Singapore,FALSE
+2022-12-18,Argentina,France,3,3,FIFA World Cup,Lusail,Qatar,TRUE
