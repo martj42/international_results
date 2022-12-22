@@ -36646,6 +36646,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2014-09-05,Curaçao,Grenada,2,1,CFU Caribbean Cup qualification,Bayamón,Puerto Rico,TRUE
 2014-09-05,Guinea,Togo,2,1,African Cup of Nations qualification,Casablanca,Morocco,TRUE
 2014-09-05,Japan,Uruguay,0,2,Kirin Challenge Cup,Sapporo,Japan,FALSE
+2014-09-05,Brazil,Colombia,1,0,Friendly,Miami Gardens,United States,TRUE
 2014-09-05,Kazakhstan,Kyrgyzstan,7,1,Friendly,Astana,Kazakhstan,FALSE
 2014-09-05,South Korea,Venezuela,3,1,Friendly,Bucheon,South Korea,FALSE
 2014-09-05,Puerto Rico,French Guiana,1,2,CFU Caribbean Cup qualification,Bayamón,Puerto Rico,FALSE
@@ -37200,6 +37201,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2015-03-27,Spain,Ukraine,1,0,UEFA Euro qualification,Seville,Spain,FALSE
 2015-03-27,Switzerland,Estonia,3,0,UEFA Euro qualification,Lucerne,Switzerland,FALSE
 2015-03-27,Trinidad and Tobago,Panama,0,1,Friendly,Couva,Trinidad and Tobago,FALSE
+2015-03-28,Argentina,El Salvador,2,0,Friendly,Summerfield,United States,TRUE
 2015-03-28,Andorra,Bosnia and Herzegovina,0,3,UEFA Euro qualification,Sant Julià de Lòria,Andorra,FALSE
 2015-03-28,Azerbaijan,Malta,2,0,UEFA Euro qualification,Baku,Azerbaijan,FALSE
 2015-03-28,Belgium,Cyprus,5,0,UEFA Euro qualification,Brussels,Belgium,FALSE
@@ -37245,6 +37247,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2015-03-30,Qatar,Slovenia,1,0,Friendly,Doha,Qatar,FALSE
 2015-03-30,Saudi Arabia,Jordan,2,1,Friendly,Dammam,Saudi Arabia,FALSE
 2015-03-30,Thailand,Cameroon,2,3,Friendly,Nonthaburi,Thailand,FALSE
+2015-03-31,Argentina,Ecuador,2,1,Friendly,East Rutherford,United States,TRUE
 2015-03-31,Austria,Bosnia and Herzegovina,1,1,Friendly,Vienna,Austria,FALSE
 2015-03-31,China PR,Tunisia,1,1,Friendly,Nanjing,China PR,FALSE
 2015-03-31,Estonia,Iceland,1,1,Friendly,Tallinn,Estonia,FALSE
@@ -37325,6 +37328,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2015-06-05,Oman,Syria,1,2,Friendly,Muscat,Oman,FALSE
 2015-06-05,Scotland,Qatar,1,0,Friendly,Edinburgh,Scotland,FALSE
 2015-06-05,Thailand,Bahrain,1,1,Friendly,Bangkok,Thailand,FALSE
+2015-06-06,Argentina,Bolivia,5,0,Friendly,San Juan,Argentina,FALSE
 2015-06-06,Andorra,Equatorial Guinea,0,1,Friendly,Sant Julià de Lòria,Andorra,FALSE
 2015-06-06,Burkina Faso,Cameroon,2,3,Friendly,Colombes,France,TRUE
 2015-06-06,Colombia,Costa Rica,1,0,Friendly,Buenos Aires,Argentina,TRUE
@@ -37655,6 +37659,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2015-09-04,Canada,Belize,3,0,FIFA World Cup qualification,Toronto,Canada,FALSE
 2015-09-04,Jamaica,Nicaragua,2,3,FIFA World Cup qualification,Kingston,Jamaica,FALSE
 2015-09-04,Saint Vincent and the Grenadines,Aruba,2,0,FIFA World Cup qualification,Kingstown,Saint Vincent and the Grenadines,FALSE
+2015-09-05,Argentina,Bolivia,7,0,Friendly,Houston,United States,TRUE
 2015-09-05,Austria,Moldova,1,0,UEFA Euro qualification,Vienna,Austria,FALSE
 2015-09-05,Botswana,Burkina Faso,1,0,African Cup of Nations qualification,Francistown,Botswana,FALSE
 2015-09-05,Chile,Paraguay,3,2,Friendly,Santiago,Chile,FALSE
@@ -37705,6 +37710,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2015-09-07,Poland,Gibraltar,8,1,UEFA Euro qualification,Warsaw,Poland,FALSE
 2015-09-07,Romania,Greece,0,0,UEFA Euro qualification,Bucharest,Romania,FALSE
 2015-09-07,Scotland,Germany,2,3,UEFA Euro qualification,Glasgow,Scotland,FALSE
+2015-09-08,United States,Brazil,1,4,Friendly,Foxborough,United States,FALSE
 2015-09-08,Afghanistan,Japan,0,6,FIFA World Cup qualification,Tehran,Iran,TRUE
 2015-09-08,Bangladesh,Jordan,0,4,FIFA World Cup qualification,Dhaka,Bangladesh,FALSE
 2015-09-08,Belarus,Luxembourg,2,0,UEFA Euro qualification,Barysaw,Belarus,FALSE
