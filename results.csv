@@ -44361,4 +44361,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-12-23,Oman,Syria,2,1,Friendly,Dubai,United Arab Emirates,TRUE
 2022-12-30,Iraq,Kuwait,1,0,Friendly,Basra,Iraq,FALSE
 2022-12-30,Oman,Syria,1,0,Friendly,Dubai,United Arab Emirates,TRUE
-2022-12-30,United Arab Emirates,Lebanon,1,0,Friendly,Abu Dhabi,United Arab Emirates,TRUE
+2022-12-30,United Arab Emirates,Lebanon,1,0,Friendly,Abu Dhabi,United Arab Emirates,FALSE
+2023-01-08,Iceland,Estonia,1,1,Friendly,Albufeira,Portugal,TRUE
+2023-01-09,Sweden,Finland,2,0,Friendly,Faro-Loulé,Portugal,TRUE
+2023-01-12,Finland,Estonia,0,1,Friendly,Albufeira,Portugal,TRUE
+2023-01-12,Sweden,Iceland,2,1,Friendly,Faro-Loulé,Portugal,TRUE
+2023-01-25,United States,Serbia,1,2,Friendly,Los Angeles,United States,FALSE
+2023-01-28,United States,Colombia,0,0,Friendly,Carson,United States,FALSE
+2023-02-22,Grenada,Barbados,1,1,Friendly,Sauteurs,Grenada,FALSE
+2023-02-26,Grenada,Barbados,2,2,Friendly,St. George's,Grenada,FALSE
