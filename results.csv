@@ -44375,6 +44375,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-03-11,Jamaica,Trinidad and Tobago,0,1,Friendly,Montego Bay,Jamaica,FALSE
 2023-03-12,Guatemala,Panama,1,1,Friendly,San Jose,United States,TRUE
 2023-03-14,Jamaica,Trinidad and Tobago,0,0,Friendly,Kingston,Jamaica,FALSE
+2023-03-15,Bangladesh,Malawi,1,1,Friendly,Medina,Saudi Arabia,TRUE
 2023-03-19,Ethiopia,Rwanda,1,0,Friendly,Adama,Ethiopia,FALSE
 2023-03-20,Fiji,Vanuatu,1,2,Friendly,Lautoka,Fiji,FALSE
 2023-03-21,Maldives,Pakistan,1,0,Friendly,Laamu,Maldives,FALSE
@@ -44413,6 +44414,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-03-23,Saint Martin,Saint Kitts and Nevis,1,3,CONCACAF Nations League,The Valley,Anguilla,TRUE
 2023-03-23,British Virgin Islands,Puerto Rico,1,3,CONCACAF Nations League,Road Town,British Virgin Islands,FALSE
 2023-03-24,Australia,Ecuador,3,1,Friendly,Sydney,Australia,FALSE
+2023-03-24,Japan,Uruguay,1,1,Friendly,Tokyo,Japan,FALSE
 2023-03-24,South Korea,Colombia,2,2,Friendly,Ulsan,South Korea,FALSE
 2023-03-24,Kuwait,Philippines,2,0,Friendly,Kuwait City,Kuwait,FALSE
 2023-03-24,Saudi Arabia,Venezuela,1,2,Friendly,Jeddah,Saudi Arabia,FALSE
@@ -44521,6 +44523,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-03-28,India,Kyrgyzstan,2,0,Tri Nation Tournament,Imphal,India,FALSE
 2023-03-28,Indonesia,Burundi,2,2,Friendly,Bekasi,Indonesia,FALSE
 2023-03-28,Iran,Kenya,2,1,Friendly,Tehran,Iran,FALSE
+2023-03-28,Japan,Colombia,1,2,Friendly,Osaka,Japan,FALSE
 2023-03-28,Jordan,Philippines,4,0,Friendly,Al Wakrah,Qatar,TRUE
 2023-03-28,South Korea,Uruguay,1,2,Friendly,Seoul,South Korea,FALSE
 2023-03-28,Kuwait,Tajikistan,2,1,Friendly,Kuwait City,Kuwait,FALSE
