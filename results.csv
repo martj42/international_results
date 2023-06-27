@@ -44582,13 +44582,23 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-06-10,Panama,Nicaragua,3,2,Friendly,Penonomé,Panama,FALSE
 2023-06-11,Chile,Cuba,3,0,Friendly,Concepción,Chile,FALSE
 2023-06-11,Guatemala,Trinidad and Tobago,0,1,Friendly,Chester,United States,TRUE
+2023-06-11,Tajikistan,Turkmenistan,1,1,CAFA Nations Cup,Tashkent,Uzbekistan,TRUE
+2023-06-11,Uzbekistan,Oman,3,0,CAFA Nations Cup,Tashkent,Uzbekistan,FALSE
+2023-06-11,Mauritius,Pakistan,3,0,Mauritius Four Nations Cup,Saint Pierre,Mauritius,FALSE
 2023-06-12,Germany,Ukraine,3,3,Friendly,Bremen,Germany,FALSE
 2023-06-12,Morocco,Cape Verde Islands,0,0,Friendly,Rabat,Morocco,FALSE
+2023-06-13,Iran,Afghanistan,6,1,CAFA Nations Cup,Bishkek,Kyrgyzstan,TRUE
+2023-06-14,DR Congo,Uganda,1,0,Friendly,Douala,Cameroon,TRUE
 2023-06-14,Indonesia,Palestine,0,0,Friendly,Surabaya,Indonesia,FALSE
 2023-06-14,Malaysia,Solomon Islands,4,1,Friendly,Terengganu,Malaysia,FALSE
 2023-06-14,Mozambique,Malawi,1,1,Friendly,Maputo,Mozambique,FALSE
+2023-06-14,Togo,Lesotho,2,0,Friendly,Johannesburg,South Africa,TRUE
 2023-06-14,Uruguay,Nicaragua,4,1,Friendly,Montevideo,Uruguay,FALSE
 2023-06-14,Netherlands,Croatia,2,4,UEFA Nations League,Rotterdam,Netherlands,FALSE
+2023-06-14,Oman,Tajikistan,1,1,CAFA Nations Cup,Tashkent,Uzbekistan,TRUE
+2023-06-14,Uzbekistan,Turkmenistan,2,0,CAFA Nations Cup,Tashkent,Uzbekistan,FALSE
+2023-06-14,Pakistan,Kenya,0,1,Mauritius Four Nations Cup,Saint Pierre,Mauritius,TRUE
+2023-06-14,Mauritius,Djibouti,1,3,Mauritius Four Nations Cup,Saint Pierre,Mauritius,FALSE
 2023-06-15,Panama,Canada,0,2,CONCACAF Nations League,Las Vegas,United States,TRUE
 2023-06-15,United States,Mexico,3,0,CONCACAF Nations League,Las Vegas,United States,FALSE
 2023-06-15,Argentina,Australia,2,0,Friendly,Beijing,China PR,TRUE
@@ -44596,9 +44606,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-06-15,Costa Rica,Guatemala,0,1,Friendly,Carson,United States,TRUE
 2023-06-15,Honduras,Venezuela,0,1,Friendly,Washington,United States,TRUE
 2023-06-15,Jamaica,Qatar,1,2,Friendly,Ritzing,Austria,TRUE
+2023-06-15,Japan,El Salvador,6,0,Friendly,Toyota,Japan,FALSE
 2023-06-15,Philippines,Nepal,1,0,Friendly,Manila,Philippines,FALSE
 2023-06-15,Vietnam,Hong Kong,1,0,Friendly,Hai Phong,Vietnam,FALSE
 2023-06-15,Spain,Italy,2,1,UEFA Nations League,Enschede,Netherlands,TRUE
+2023-06-16,Curaçao,Costa Rica,0,0,Friendly,Fort Lauderdale,United States,TRUE
 2023-06-16,Antigua and Barbuda,Guadeloupe,0,5,Gold Cup,Fort Lauderdale,United States,TRUE
 2023-06-16,Martinique,St Lucia,3,1,Gold Cup,Fort Lauderdale,United States,TRUE
 2023-06-16,Curaçao,Saint Kitts and Nevis,1,1,Gold Cup,Fort Lauderdale,United States,TRUE
@@ -44623,6 +44635,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-06-16,Andorra,Switzerland,1,2,UEFA Euro qualification,Andorra la Vella,Andorra,FALSE
 2023-06-16,Belarus,Israel,1,2,UEFA Euro qualification,Budapest,Hungary,TRUE
 2023-06-16,Kosovo,Romania,0,0,UEFA Euro qualification,Pristina,Kosovo,FALSE
+2023-06-16,Kyrgyzstan,Iran,1,5,CAFA Nations Cup,Bishkek,Kyrgyzstan,FALSE
 2023-06-17,Guyana,Grenada,1,1,Gold Cup,Fort Lauderdale,United States,TRUE
 2023-06-17,Suriname,Puerto Rico,0,0,Gold Cup,Fort Lauderdale,United States,TRUE
 2023-06-17,French Guiana,Sint Maarten,4,1,Gold Cup,Fort Lauderdale,United States,TRUE
@@ -44640,14 +44653,19 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-06-17,Iceland,Slovakia,1,2,UEFA Euro qualification,Reykjavík,Iceland,FALSE
 2023-06-17,Portugal,Bosnia and Herzegovina,3,0,UEFA Euro qualification,Lisbon,Portugal,FALSE
 2023-06-17,Ticino,Raetia,1,8,CONIFA World Football Cup qualification,Tenero-Contra,Switzerland,FALSE
+2023-06-17,Turkmenistan,Oman,0,2,CAFA Nations Cup,Tashkent,Uzbekistan,TRUE
+2023-06-17,Uzbekistan,Tajikistan,5,1,CAFA Nations Cup,Tashkent,Uzbekistan,FALSE
+2023-06-17,Djibouti,Pakistan,3,1,Mauritius Four Nations Cup,Saint Pierre,Mauritius,TRUE
 2023-06-18,Panama,Mexico,0,1,CONCACAF Nations League,Las Vegas,United States,TRUE
 2023-06-18,United States,Canada,2,0,CONCACAF Nations League,Las Vegas,United States,FALSE
 2023-06-18,Egypt,South Sudan,3,0,Friendly,Cairo,Egypt,FALSE
 2023-06-18,Guatemala,Venezuela,0,1,Friendly,East Hartford,United States,TRUE
+2023-06-18,Mauritius,Kenya,1,0,Friendly,Saint Pierre,Mauritius,FALSE
 2023-06-18,Paraguay,Nicaragua,2,0,Friendly,Asunción,Paraguay,FALSE
 2023-06-18,Singapore,Solomon Islands,1,1,Friendly,Kallang,Singapore,FALSE
 2023-06-18,Netherlands,Italy,2,3,UEFA Nations League,Enschede,Netherlands,FALSE
 2023-06-18,Croatia,Spain,0,0,UEFA Nations League,Rotterdam,Netherlands,TRUE
+2023-06-18,Mauritius,Kenya,1,0,Mauritius Four Nations Cup,Saint Pierre,Mauritius,FALSE
 2023-06-19,Hong Kong,Thailand,0,1,Friendly,Hong Kong,Hong Kong,FALSE
 2023-06-19,Indonesia,Argentina,0,2,Friendly,Jakarta,Indonesia,FALSE
 2023-06-19,Jamaica,Jordan,1,2,Friendly,Wiener Neustadt,Austria,TRUE
@@ -44674,8 +44692,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-06-20,China PR,Palestine,2,0,Friendly,Dalian,China PR,FALSE
 2023-06-20,Ecuador,Costa Rica,3,1,Friendly,Chester,United States,TRUE
 2023-06-20,Germany,Colombia,0,2,Friendly,Gelsenkirchen,Germany,FALSE
+2023-06-20,Haiti,Trinidad and Tobago,0,0,Friendly,Palm Beach Gardens,United States,TRUE
+2023-06-20,Japan,Peru,4,1,Friendly,Suita,Japan,FALSE
 2023-06-20,South Korea,El Salvador,1,1,Friendly,Daejeon,South Korea,FALSE
-2023-06-20,Malaysia,Yemen,10,0,Friendly,Terengganu,Malaysia,FALSE
+2023-06-20,Malaysia,Papua New Guinea,10,0,Friendly,Terengganu,Malaysia,FALSE
 2023-06-20,Montenegro,Czech Republic,1,4,Friendly,Podgorica,Montenegro,FALSE
 2023-06-20,Uruguay,Cuba,2,0,Friendly,Montevideo,Uruguay,FALSE
 2023-06-20,Vietnam,Syria,1,0,Friendly,Nam Định,Vietnam,FALSE
@@ -44690,3 +44710,5 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-06-20,Iceland,Portugal,0,1,UEFA Euro qualification,Reykjavík,Iceland,FALSE
 2023-06-20,Bosnia and Herzegovina,Luxembourg,0,2,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,FALSE
 2023-06-20,Liechtenstein,Slovakia,0,1,UEFA Euro qualification,Vaduz,Liechtenstein,FALSE
+2023-06-20,Kyrgyzstan,Oman,0,1,CAFA Nations Cup,Tashkent,Uzbekistan,TRUE
+2023-06-20,Uzbekistan,Iran,0,1,CAFA Nations Cup,Tashkent,Uzbekistan,FALSE
