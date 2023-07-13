@@ -44586,8 +44586,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-06-11,Uzbekistan,Oman,3,0,CAFA Nations Cup,Tashkent,Uzbekistan,FALSE
 2023-06-11,Mauritius,Pakistan,3,0,Mauritius Four Nations Cup,Saint Pierre,Mauritius,FALSE
 2023-06-12,Germany,Ukraine,3,3,Friendly,Bremen,Germany,FALSE
-2023-06-12,Morocco,Cape Verde Islands,0,0,Friendly,Rabat,Morocco,FALSE
+2023-06-12,Morocco,Cape Verde,0,0,Friendly,Rabat,Morocco,FALSE
 2023-06-13,Iran,Afghanistan,6,1,CAFA Nations Cup,Bishkek,Kyrgyzstan,TRUE
+2023-06-13,Curaçao,Costa Rica,0,0,Friendly,Fort Lauderdale,United States,TRUE
 2023-06-14,DR Congo,Uganda,1,0,Friendly,Douala,Cameroon,TRUE
 2023-06-14,Indonesia,Palestine,0,0,Friendly,Surabaya,Indonesia,FALSE
 2023-06-14,Malaysia,Solomon Islands,4,1,Friendly,Terengganu,Malaysia,FALSE
@@ -44610,10 +44611,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-06-15,Philippines,Nepal,1,0,Friendly,Manila,Philippines,FALSE
 2023-06-15,Vietnam,Hong Kong,1,0,Friendly,Hai Phong,Vietnam,FALSE
 2023-06-15,Spain,Italy,2,1,UEFA Nations League,Enschede,Netherlands,TRUE
-2023-06-16,Curaçao,Costa Rica,0,0,Friendly,Fort Lauderdale,United States,TRUE
-2023-06-16,Antigua and Barbuda,Guadeloupe,0,5,Gold Cup,Fort Lauderdale,United States,TRUE
-2023-06-16,Martinique,St Lucia,3,1,Gold Cup,Fort Lauderdale,United States,TRUE
-2023-06-16,Curaçao,Saint Kitts and Nevis,1,1,Gold Cup,Fort Lauderdale,United States,TRUE
+2023-06-16,Antigua and Barbuda,Guadeloupe,0,5,Gold Cup qualification,Fort Lauderdale,United States,TRUE
+2023-06-16,Martinique,Saint Lucia,3,1,Gold Cup qualification,Fort Lauderdale,United States,TRUE
+2023-06-16,Curaçao,Saint Kitts and Nevis,1,1,Gold Cup qualification,Fort Lauderdale,United States,TRUE
 2023-06-16,Chile,Dominican Republic,5,0,Friendly,Viña del Mar,Chile,FALSE
 2023-06-16,China PR,Myanmar,4,0,Friendly,Dalian,China PR,FALSE
 2023-06-16,Taiwan,Thailand,2,2,Friendly,Kaohsiung,Taiwan,FALSE
@@ -44636,9 +44636,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-06-16,Belarus,Israel,1,2,UEFA Euro qualification,Budapest,Hungary,TRUE
 2023-06-16,Kosovo,Romania,0,0,UEFA Euro qualification,Pristina,Kosovo,FALSE
 2023-06-16,Kyrgyzstan,Iran,1,5,CAFA Nations Cup,Bishkek,Kyrgyzstan,FALSE
-2023-06-17,Guyana,Grenada,1,1,Gold Cup,Fort Lauderdale,United States,TRUE
-2023-06-17,Suriname,Puerto Rico,0,0,Gold Cup,Fort Lauderdale,United States,TRUE
-2023-06-17,French Guiana,Sint Maarten,4,1,Gold Cup,Fort Lauderdale,United States,TRUE
+2023-06-17,Guyana,Grenada,1,1,Gold Cup qualification,Fort Lauderdale,United States,TRUE
+2023-06-17,Suriname,Puerto Rico,0,0,Gold Cup qualification,Fort Lauderdale,United States,TRUE
+2023-06-17,French Guiana,Sint Maarten,4,1,Gold Cup qualification,Fort Lauderdale,United States,TRUE
 2023-06-17,Brazil,Guinea,4,1,Friendly,Barcelona,Spain,TRUE
 2023-06-17,Ecuador,Bolivia,1,0,Friendly,Harrison,United States,TRUE
 2023-06-17,Norway,Scotland,1,2,UEFA Euro qualification,Oslo,Norway,FALSE
@@ -44660,7 +44660,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-06-18,United States,Canada,2,0,CONCACAF Nations League,Las Vegas,United States,FALSE
 2023-06-18,Egypt,South Sudan,3,0,Friendly,Cairo,Egypt,FALSE
 2023-06-18,Guatemala,Venezuela,0,1,Friendly,East Hartford,United States,TRUE
-2023-06-18,Mauritius,Kenya,1,0,Friendly,Saint Pierre,Mauritius,FALSE
 2023-06-18,Paraguay,Nicaragua,2,0,Friendly,Asunción,Paraguay,FALSE
 2023-06-18,Singapore,Solomon Islands,1,1,Friendly,Kallang,Singapore,FALSE
 2023-06-18,Netherlands,Italy,2,3,UEFA Nations League,Enschede,Netherlands,FALSE
@@ -44683,9 +44682,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-06-19,Belarus,Kosovo,2,1,UEFA Euro qualification,Budapest,Hungary,TRUE
 2023-06-19,Switzerland,Romania,2,2,UEFA Euro qualification,Lucerne,Switzerland,FALSE
 2023-06-19,Israel,Andorra,2,1,UEFA Euro qualification,Jerusalem,Israel,FALSE
-2023-06-20,Guadeloupe,Guyana,2,0,Gold Cup,Fort Lauderdale,United States,TRUE
-2023-06-20,Martinique,Puerto Rico,2,0,Gold Cup,Fort Lauderdale,United States,TRUE
-2023-06-20,Saint Kitts and Nevis,French Guiana,1,1,Gold Cup,Fort Lauderdale,United States,TRUE
+2023-06-20,Guadeloupe,Guyana,2,0,Gold Cup qualification,Fort Lauderdale,United States,TRUE
+2023-06-20,Martinique,Puerto Rico,2,0,Gold Cup qualification,Fort Lauderdale,United States,TRUE
+2023-06-20,Saint Kitts and Nevis,French Guiana,1,1,Gold Cup qualification,Fort Lauderdale,United States,TRUE
 2023-06-20,Algeria,Tunisia,1,1,Friendly,Annaba,Algeria,FALSE
 2023-06-20,Bolivia,Chile,0,0,Friendly,Santa Cruz,Bolivia,FALSE
 2023-06-20,Brazil,Senegal,2,4,Friendly,Lisbon,Portugal,TRUE
@@ -44712,3 +44711,53 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-06-20,Liechtenstein,Slovakia,0,1,UEFA Euro qualification,Vaduz,Liechtenstein,FALSE
 2023-06-20,Kyrgyzstan,Oman,0,1,CAFA Nations Cup,Tashkent,Uzbekistan,TRUE
 2023-06-20,Uzbekistan,Iran,0,1,CAFA Nations Cup,Tashkent,Uzbekistan,FALSE
+2023-06-21,Kuwait,Nepal,3,1,SAFF Cup,Bengaluru,India,TRUE
+2023-06-21,India,Pakistan,4,0,SAFF Cup,Bengaluru,India,FALSE
+2023-06-22,Lebanon,Bangladesh,2,0,SAFF Cup,Bengaluru,India,TRUE
+2023-06-22,Maldives,Bhutan,2,0,SAFF Cup,Bengaluru,India,TRUE
+2023-06-24,Pakistan,Kuwait,0,4,SAFF Cup,Bengaluru,India,TRUE
+2023-06-24,India,Nepal,2,0,SAFF Cup,Bengaluru,India,FALSE
+2023-06-24,United States,Jamaica,1,1,Gold Cup,Chicago,United States,FALSE
+2023-06-25,Bangladesh,Maldives,3,1,SAFF Cup,Bengaluru,India,TRUE
+2023-06-25,Bhutan,Lebanon,1,4,SAFF Cup,Bengaluru,India,TRUE
+2023-06-25,Trinidad and Tobago,Saint Kitts and Nevis,3,0,Gold Cup,Fort Lauderdale,United States,TRUE
+2023-06-25,Haiti,Qatar,2,1,Gold Cup,Houston,United States,TRUE
+2023-06-25,Mexico,Honduras,4,0,Gold Cup,Houston,United States,TRUE
+2023-06-26,El Salvador,Martinique,1,2,Gold Cup,Fort Lauderdale,United States,TRUE
+2023-06-26,Costa Rica,Panama,1,2,Gold Cup,Fort Lauderdale,United States,TRUE
+2023-06-27,Nepal,Pakistan,1,0,SAFF Cup,Bengaluru,India,TRUE
+2023-06-27,India,Kuwait,1,1,SAFF Cup,Bengaluru,India,FALSE
+2023-06-27,Canada,Guadeloupe,2,2,Gold Cup,Toronto,Canada,FALSE
+2023-06-27,Guatemala,Cuba,1,0,Gold Cup,Fort Lauderdale,United States,TRUE
+2023-06-28,Lebanon,Maldives,1,0,SAFF Cup,Bengaluru,India,TRUE
+2023-06-28,Bhutan,Bangladesh,1,3,SAFF Cup,Bengaluru,India,TRUE
+2023-06-28,Jamaica,Trinidad and Tobago,4,1,Gold Cup,St. Louis,United States,TRUE
+2023-06-28,United States,Saint Kitts and Nevis,6,0,Gold Cup,St. Louis,United States,FALSE
+2023-06-29,Qatar,Honduras,1,1,Gold Cup,Glendale,United States,TRUE
+2023-06-29,Haiti,Mexico,1,3,Gold Cup,Glendale,United States,TRUE
+2023-06-30,Székely Land,Chameria,3,2,CONIFA World Football Cup qualification,Miercurea Ciuc,Hungary,FALSE
+2023-06-30,Martinique,Panama,1,2,Gold Cup,Harrison,United States,TRUE
+2023-06-30,El Salvador,Costa Rica,0,0,Gold Cup,Harrison,United States,TRUE
+2023-07-01,Chameria,Two Cicilies,3,1,CONIFA World Football Cup qualification,Miercurea Ciuc,Hungary,TRUE
+2023-07-01,India,Lebanon,0,0,SAFF Cup,Bengaluru,India,FALSE
+2023-07-01,Kuwait,Bangladesh,1,0,SAFF Cup,Bengaluru,India,TRUE
+2023-07-01,Cuba,Guadeloupe,1,4,Gold Cup,Houston,United States,TRUE
+2023-07-01,Guatemala,Canada,0,0,Gold Cup,Houston,United States,TRUE
+2023-07-02,Székely Land,Two Cicilies,7,0,CONIFA World Football Cup qualification,Miercurea Ciuc,Hungary,FALSE
+2023-07-02,United States,Trinidad and Tobago,6,0,Gold Cup,Charlotte,United States,FALSE
+2023-07-02,Jamaica,Saint Kitts and Nevis,5,0,Gold Cup,Santa Clara,United States,TRUE
+2023-07-02,Honduras,Haiti,2,1,Gold Cup,Charlotte,United States,TRUE
+2023-07-02,Mexico,Qatar,0,1,Gold Cup,Santa Clara,United States,TRUE
+2023-07-04,India,Kuwait,1,1,SAFF Cup,Bengaluru,India,FALSE
+2023-07-04,Costa Rica,Martinique,6,4,Gold Cup,Harrison,United States,TRUE
+2023-07-04,Panama,El Salvador,2,2,Gold Cup,Houston,United States,TRUE
+2023-07-04,Guadeloupe,Guatemala,2,3,Gold Cup,Harrison,United States,TRUE
+2023-07-04,Canada,Cuba,4,2,Gold Cup,Houston,United States,TRUE
+2023-07-08,Panama,Qatar,4,0,Gold Cup,Arlington,United States,TRUE
+2023-07-08,Mexico,Costa Rica,2,0,Gold Cup,Arlington,United States,TRUE
+2023-07-09,Guatemala,Jamaica,0,1,Gold Cup,Cincinnati,United States,TRUE
+2023-07-09,United States,Canada,2,2,Gold Cup,Cincinnati,United States,FALSE
+2023-07-12,United States,Panama,1,1,Gold Cup,San Diego,United States,FALSE
+2023-07-12,Jamaica,Mexico,0,3,Gold Cup,Paradise,United States,TRUE
+2023-07-16,Cornwall,Sápmi,NA,NA,CONIFA World Football Cup qualification,Falmouth,England,FALSE
+2023-07-16,Mexico,Panama,NA,NA,Gold Cup,Inglewood,United States,TRUE
