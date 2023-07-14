@@ -18624,10 +18624,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2000-04-08,Madagascar,Gabon,Madagascar,Harry Randrianaivo,65,FALSE,FALSE
 2000-04-08,Malawi,Kenya,Malawi,Dereck Somanje,53,FALSE,FALSE
 2000-04-08,Malawi,Kenya,Malawi,Jones Nkhwazi,88,FALSE,FALSE
-2000-04-08,São Tomé and Príncipe,Sierra Leone,São Tomé and Príncipe,Amilcar Ramos,36,FALSE,FALSE
-2000-04-08,São Tomé and Príncipe,Sierra Leone,São Tomé and Príncipe,Celso Pontes,59,FALSE,FALSE
 2000-04-08,Seychelles,Namibia,Namibia,Eliphas Shivute,20,FALSE,FALSE
 2000-04-08,Seychelles,Namibia,Seychelles,Philip Zialor,28,FALSE,FALSE
+2000-04-08,São Tomé and Príncipe,Sierra Leone,São Tomé and Príncipe,Amilcar Ramos,36,FALSE,FALSE
+2000-04-08,São Tomé and Príncipe,Sierra Leone,São Tomé and Príncipe,Celso Pontes,59,FALSE,FALSE
 2000-04-08,Tanzania,Ghana,Ghana,Samuel Kuffour,21,FALSE,FALSE
 2000-04-08,Uganda,Guinea,Guinea,Pablo Thiam,24,FALSE,FALSE
 2000-04-08,Uganda,Guinea,Guinea,Souleymane Youla,55,FALSE,FALSE
@@ -22197,7 +22197,6 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2003-10-11,Russia,Georgia,Russia,Dmitri Bulykin,29,FALSE,FALSE
 2003-10-11,Russia,Georgia,Russia,Yegor Titov,45,FALSE,FALSE
 2003-10-11,Russia,Georgia,Russia,Dmitri Sychev,73,FALSE,FALSE
-2003-10-11,São Tomé and Príncipe,Libya,Libya,Ahmed Al Masli,85,FALSE,FALSE
 2003-10-11,Scotland,Lithuania,Scotland,Darren Fletcher,70,FALSE,FALSE
 2003-10-11,Seychelles,Zambia,Zambia,Gift Kampamba,8,FALSE,FALSE
 2003-10-11,Seychelles,Zambia,Zambia,Dadley Fichite,44,FALSE,FALSE
@@ -22209,6 +22208,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2003-10-11,Sweden,Latvia,Latvia,Māris Verpakovskis,22,FALSE,FALSE
 2003-10-11,Switzerland,Republic of Ireland,Switzerland,Hakan Yakin,6,FALSE,FALSE
 2003-10-11,Switzerland,Republic of Ireland,Switzerland,Alexander Frei,60,FALSE,FALSE
+2003-10-11,São Tomé and Príncipe,Libya,Libya,Ahmed Al Masli,85,FALSE,FALSE
 2003-10-11,Uganda,Mauritius,Uganda,Assani Bajope,17,FALSE,FALSE
 2003-10-11,Uganda,Mauritius,Uganda,Hassan Mubiru,35,FALSE,FALSE
 2003-10-11,Uganda,Mauritius,Uganda,David Obua,75,FALSE,FALSE
@@ -30550,11 +30550,6 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2011-11-11,Qatar,Indonesia,Qatar,Khalfan Ibrahim,34,FALSE,TRUE
 2011-11-11,Qatar,Indonesia,Qatar,Khalfan Ibrahim,63,FALSE,FALSE
 2011-11-11,Qatar,Indonesia,Qatar,Sebastián Soria,90,FALSE,FALSE
-2011-11-11,São Tomé and Príncipe,Congo,Congo,Matt Moussilou,1,FALSE,FALSE
-2011-11-11,São Tomé and Príncipe,Congo,Congo,Ladislas Douniama,5,FALSE,FALSE
-2011-11-11,São Tomé and Príncipe,Congo,Congo,Chris Malonga,27,FALSE,FALSE
-2011-11-11,São Tomé and Príncipe,Congo,Congo,Prince Oniangué,54,FALSE,FALSE
-2011-11-11,São Tomé and Príncipe,Congo,Congo,Harris Tchilimbou,69,FALSE,FALSE
 2011-11-11,Saudi Arabia,Thailand,Saudi Arabia,Naif Hazazi,59,FALSE,FALSE
 2011-11-11,Saudi Arabia,Thailand,Saudi Arabia,Ahmed Al-Fraidi,80,FALSE,FALSE
 2011-11-11,Saudi Arabia,Thailand,Saudi Arabia,Mohammed Noor,89,FALSE,TRUE
@@ -30565,6 +30560,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2011-11-11,Suriname,El Salvador,El Salvador,Léster Blanco,58,FALSE,FALSE
 2011-11-11,Suriname,El Salvador,El Salvador,Edwin Sánchez,78,FALSE,FALSE
 2011-11-11,Suriname,El Salvador,Suriname,Evani Esperance,81,FALSE,FALSE
+2011-11-11,São Tomé and Príncipe,Congo,Congo,Matt Moussilou,1,FALSE,FALSE
+2011-11-11,São Tomé and Príncipe,Congo,Congo,Ladislas Douniama,5,FALSE,FALSE
+2011-11-11,São Tomé and Príncipe,Congo,Congo,Chris Malonga,27,FALSE,FALSE
+2011-11-11,São Tomé and Príncipe,Congo,Congo,Prince Oniangué,54,FALSE,FALSE
+2011-11-11,São Tomé and Príncipe,Congo,Congo,Harris Tchilimbou,69,FALSE,FALSE
 2011-11-11,Tajikistan,Japan,Japan,Yasuyuki Konno,36,FALSE,FALSE
 2011-11-11,Tajikistan,Japan,Japan,Shinji Okazaki,61,FALSE,FALSE
 2011-11-11,Tajikistan,Japan,Japan,Ryoichi Maeda,82,FALSE,FALSE
@@ -34114,7 +34114,6 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-10-08,Republic of Ireland,Germany,Republic of Ireland,Shane Long,70,FALSE,FALSE
 2015-10-08,Romania,Finland,Finland,Joel Pohjanpalo,67,FALSE,FALSE
 2015-10-08,Romania,Finland,Romania,Ovidiu Hoban,90,FALSE,FALSE
-2015-10-08,São Tomé and Príncipe,Ethiopia,São Tomé and Príncipe,Luís Leal,86,FALSE,FALSE
 2015-10-08,Saudi Arabia,United Arab Emirates,United Arab Emirates,Ahmed Khalil,18,FALSE,FALSE
 2015-10-08,Saudi Arabia,United Arab Emirates,Saudi Arabia,Mohammad Al-Sahlawi,45,FALSE,FALSE
 2015-10-08,Saudi Arabia,United Arab Emirates,Saudi Arabia,Mohammad Al-Sahlawi,90,FALSE,TRUE
@@ -34126,6 +34125,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-10-08,Syria,Japan,Japan,Keisuke Honda,55,FALSE,TRUE
 2015-10-08,Syria,Japan,Japan,Shinji Okazaki,70,FALSE,FALSE
 2015-10-08,Syria,Japan,Japan,Takashi Usami,88,FALSE,FALSE
+2015-10-08,São Tomé and Príncipe,Ethiopia,São Tomé and Príncipe,Luís Leal,86,FALSE,FALSE
 2015-10-08,Turkmenistan,India,Turkmenistan,Guwanç Abylow,8,FALSE,FALSE
 2015-10-08,Turkmenistan,India,India,Jeje Lalpekhlua,28,FALSE,FALSE
 2015-10-08,Turkmenistan,India,Turkmenistan,Arslanmyrat Amanow,60,FALSE,FALSE
@@ -37546,9 +37546,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-09-04,Liberia,Sierra Leone,Liberia,Mohammed Sangare,82,FALSE,TRUE
 2019-09-04,Liberia,Sierra Leone,Liberia,Sam Johnson,88,FALSE,FALSE
 2019-09-04,Mauritius,Mozambique,Mozambique,Telinho,10,FALSE,FALSE
-2019-09-04,São Tomé and Príncipe,Guinea-Bissau,Guinea-Bissau,Joseph Mendes,85,FALSE,TRUE
 2019-09-04,South Sudan,Equatorial Guinea,Equatorial Guinea,Luis Meseguer,34,FALSE,FALSE
 2019-09-04,South Sudan,Equatorial Guinea,South Sudan,Niko Kata,75,TRUE,FALSE
+2019-09-04,São Tomé and Príncipe,Guinea-Bissau,Guinea-Bissau,Joseph Mendes,85,FALSE,TRUE
 2019-09-05,Armenia,Italy,Armenia,Aleksandre Karapetian,11,FALSE,FALSE
 2019-09-05,Armenia,Italy,Italy,Andrea Belotti,28,FALSE,FALSE
 2019-09-05,Armenia,Italy,Italy,Lorenzo Pellegrini,77,FALSE,FALSE
@@ -41007,3 +41007,107 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2022-12-18,Argentina,France,France,Kylian Mbappé,81,FALSE,FALSE
 2022-12-18,Argentina,France,Argentina,Lionel Messi,109,FALSE,FALSE
 2022-12-18,Argentina,France,France,Kylian Mbappé,118,FALSE,TRUE
+2023-06-24,United States,Jamaica,Jamaica,Damion Lowe,13,FALSE,FALSE
+2023-06-24,United States,Jamaica,United States,Brandon Vázquez,88,FALSE,FALSE
+2023-06-25,Haiti,Qatar,Qatar,Yusuf Abdurisag,20,FALSE,FALSE
+2023-06-25,Haiti,Qatar,Haiti,Duckens Nazon,45,FALSE,TRUE
+2023-06-25,Haiti,Qatar,Haiti,Frantzdy Pierrot,90,FALSE,FALSE
+2023-06-25,Mexico,Honduras,Mexico,Luis Romo,1,FALSE,FALSE
+2023-06-25,Mexico,Honduras,Mexico,Luis Romo,23,FALSE,FALSE
+2023-06-25,Mexico,Honduras,Mexico,Orbelín Pineda,52,FALSE,FALSE
+2023-06-25,Mexico,Honduras,Mexico,Luis Chávez,64,FALSE,FALSE
+2023-06-25,Trinidad and Tobago,Saint Kitts and Nevis,Trinidad and Tobago,Alvin Jones,43,FALSE,FALSE
+2023-06-25,Trinidad and Tobago,Saint Kitts and Nevis,Trinidad and Tobago,Ajani Fortune,65,FALSE,FALSE
+2023-06-25,Trinidad and Tobago,Saint Kitts and Nevis,Trinidad and Tobago,Jameel Ible,73,TRUE,FALSE
+2023-06-26,Costa Rica,Panama,Panama,José Fajardo,23,FALSE,FALSE
+2023-06-26,Costa Rica,Panama,Panama,Yoel Bárcenas,68,FALSE,FALSE
+2023-06-26,Costa Rica,Panama,Costa Rica,Aarón Suárez,90,FALSE,FALSE
+2023-06-26,El Salvador,Martinique,Martinique,Patrick Burner,11,FALSE,FALSE
+2023-06-26,El Salvador,Martinique,Martinique,Kévin Fortuné,16,FALSE,FALSE
+2023-06-26,El Salvador,Martinique,El Salvador,Bryan Tamacas,90,FALSE,TRUE
+2023-06-27,Canada,Guadeloupe,Guadeloupe,Thierry Ambrose,23,FALSE,FALSE
+2023-06-27,Canada,Guadeloupe,Canada,Lucas Cavallini,49,FALSE,FALSE
+2023-06-27,Canada,Guadeloupe,Canada,Méddy Lina,70,TRUE,FALSE
+2023-06-27,Canada,Guadeloupe,Guadeloupe,Jacen Russell-Rowe,90,TRUE,FALSE
+2023-06-27,Guatemala,Cuba,Guatemala,Darwin Lom,48,FALSE,FALSE
+2023-06-28,Jamaica,Trinidad and Tobago,Jamaica,Demarai Gray,14,FALSE,FALSE
+2023-06-28,Jamaica,Trinidad and Tobago,Jamaica,Leon Bailey,18,FALSE,FALSE
+2023-06-28,Jamaica,Trinidad and Tobago,Jamaica,Demarai Gray,30,FALSE,FALSE
+2023-06-28,Jamaica,Trinidad and Tobago,Trinidad and Tobago,Andre Rampersad,49,FALSE,FALSE
+2023-06-28,Jamaica,Trinidad and Tobago,Jamaica,Dujuan Richards,90,FALSE,FALSE
+2023-06-28,Saint Kitts and Nevis,United States,United States,Djordje Mihailovic,12,FALSE,FALSE
+2023-06-28,Saint Kitts and Nevis,United States,United States,Bryan Reynolds,14,FALSE,FALSE
+2023-06-28,Saint Kitts and Nevis,United States,United States,Jesús Ferreira,16,FALSE,FALSE
+2023-06-28,Saint Kitts and Nevis,United States,United States,Jesús Ferreira,25,FALSE,FALSE
+2023-06-28,Saint Kitts and Nevis,United States,United States,Jesús Ferreira,50,FALSE,FALSE
+2023-06-28,Saint Kitts and Nevis,United States,United States,Djordje Mihailovic,79,FALSE,FALSE
+2023-06-29,Haiti,Mexico,Mexico,Henry Martín,46,FALSE,FALSE
+2023-06-29,Haiti,Mexico,Mexico,Ricardo Adé,56,TRUE,FALSE
+2023-06-29,Haiti,Mexico,Haiti,Danley Jean Jacques,78,FALSE,FALSE
+2023-06-29,Haiti,Mexico,Mexico,Santiago Giménez,83,FALSE,FALSE
+2023-06-29,Qatar,Honduras,Qatar,Tameem Al-Abdullah,7,FALSE,FALSE
+2023-06-29,Qatar,Honduras,Honduras,Alberth Elis,90,FALSE,FALSE
+2023-06-30,Martinique,Panama,Panama,José Fajardo,57,FALSE,FALSE
+2023-06-30,Martinique,Panama,Panama,Michael Amir Murillo,69,FALSE,FALSE
+2023-06-30,Martinique,Panama,Martinique,Karl Fabien,90,FALSE,FALSE
+2023-07-01,Cuba,Guadeloupe,Guadeloupe,Matthias Phaëton,13,FALSE,FALSE
+2023-07-01,Cuba,Guadeloupe,Guadeloupe,Ange-Freddy Plumain,41,FALSE,FALSE
+2023-07-01,Cuba,Guadeloupe,Guadeloupe,Matthias Phaëton,43,FALSE,FALSE
+2023-07-01,Cuba,Guadeloupe,Guadeloupe,Anthony Baron,50,FALSE,FALSE
+2023-07-01,Cuba,Guadeloupe,Cuba,Arichel Hernández,62,FALSE,TRUE
+2023-07-02,Honduras,Haiti,Haiti,Frantzdy Pierrot,20,FALSE,FALSE
+2023-07-02,Honduras,Haiti,Honduras,Jerry Bengtson,42,FALSE,FALSE
+2023-07-02,Honduras,Haiti,Honduras,José Pinto,59,FALSE,FALSE
+2023-07-02,Jamaica,Saint Kitts and Nevis,Jamaica,Julani Archibald,30,TRUE,FALSE
+2023-07-02,Jamaica,Saint Kitts and Nevis,Jamaica,Jon Russell,45,FALSE,FALSE
+2023-07-02,Jamaica,Saint Kitts and Nevis,Jamaica,Di'Shon Bernard,49,FALSE,FALSE
+2023-07-02,Jamaica,Saint Kitts and Nevis,Jamaica,Daniel Johnson,72,FALSE,FALSE
+2023-07-02,Jamaica,Saint Kitts and Nevis,Jamaica,Cory Burke,74,FALSE,FALSE
+2023-07-02,Mexico,Qatar,Qatar,Hazem Shehata,27,FALSE,FALSE
+2023-07-02,United States,Trinidad and Tobago,United States,Jesús Ferreira,14,FALSE,FALSE
+2023-07-02,United States,Trinidad and Tobago,United States,Jesús Ferreira,38,FALSE,FALSE
+2023-07-02,United States,Trinidad and Tobago,United States,Jesús Ferreira,45,FALSE,TRUE
+2023-07-02,United States,Trinidad and Tobago,United States,Cade Cowell,65,FALSE,FALSE
+2023-07-02,United States,Trinidad and Tobago,United States,Gianluca Busio,79,FALSE,FALSE
+2023-07-02,United States,Trinidad and Tobago,United States,Brandon Vázquez,90,FALSE,FALSE
+2023-07-04,Canada,Cuba,Canada,Junior Hoilett,21,FALSE,TRUE
+2023-07-04,Canada,Cuba,Canada,Jonathan Osorio,27,FALSE,FALSE
+2023-07-04,Canada,Cuba,Cuba,Luis Paradela,45,FALSE,TRUE
+2023-07-04,Canada,Cuba,Canada,Jayden Nelson,47,FALSE,FALSE
+2023-07-04,Canada,Cuba,Canada,Liam Millar,62,FALSE,FALSE
+2023-07-04,Canada,Cuba,Cuba,Maikel Reyes,89,FALSE,TRUE
+2023-07-04,Costa Rica,Martinique,Costa Rica,Kendall Waston,10,FALSE,FALSE
+2023-07-04,Costa Rica,Martinique,Martinique,Patrick Burner,18,FALSE,FALSE
+2023-07-04,Costa Rica,Martinique,Costa Rica,Francisco Calvo,41,FALSE,FALSE
+2023-07-04,Costa Rica,Martinique,Costa Rica,Juan Pablo Vargas,55,FALSE,FALSE
+2023-07-04,Costa Rica,Martinique,Costa Rica,Joel Campbell,59,FALSE,TRUE
+2023-07-04,Costa Rica,Martinique,Costa Rica,Anthony Contreras,68,FALSE,FALSE
+2023-07-04,Costa Rica,Martinique,Martinique,Brighton Labeau,75,FALSE,TRUE
+2023-07-04,Costa Rica,Martinique,Martinique,Patrick Burner,79,FALSE,FALSE
+2023-07-04,Costa Rica,Martinique,Costa Rica,Diego Campos,90,FALSE,FALSE
+2023-07-04,Costa Rica,Martinique,Martinique,Jonathan Mexique,90,FALSE,FALSE
+2023-07-04,Guadeloupe,Guatemala,Guadeloupe,Andreaw Gravillon,27,FALSE,FALSE
+2023-07-04,Guadeloupe,Guatemala,Guatemala,Rubio Rubin,39,FALSE,FALSE
+2023-07-04,Guadeloupe,Guatemala,Guadeloupe,Ange-Freddy Plumain,63,FALSE,TRUE
+2023-07-04,Guadeloupe,Guatemala,Guatemala,Rubio Rubin,70,FALSE,FALSE
+2023-07-04,Guadeloupe,Guatemala,Guatemala,Carlos Mejía,76,FALSE,FALSE
+2023-07-04,Panama,El Salvador,El Salvador,Brayan Gil,4,FALSE,FALSE
+2023-07-04,Panama,El Salvador,Panama,Fidel Escobar,26,FALSE,FALSE
+2023-07-04,Panama,El Salvador,Panama,Ismael Díaz,71,FALSE,FALSE
+2023-07-04,Panama,El Salvador,El Salvador,Mayer Gil,90,FALSE,FALSE
+2023-07-08,Mexico,Costa Rica,Mexico,Orbelín Pineda,52,FALSE,TRUE
+2023-07-08,Mexico,Costa Rica,Mexico,Érick Sánchez,87,FALSE,FALSE
+2023-07-08,Panama,Qatar,Panama,Yoel Bárcenas,19,FALSE,FALSE
+2023-07-08,Panama,Qatar,Panama,Ismael Díaz,56,FALSE,FALSE
+2023-07-08,Panama,Qatar,Panama,Ismael Díaz,63,FALSE,FALSE
+2023-07-08,Panama,Qatar,Panama,Ismael Díaz,65,FALSE,FALSE
+2023-07-09,Guatemala,Jamaica,Jamaica,Amari'i Bell,51,FALSE,FALSE
+2023-07-09,United States,Canada,United States,Brandon Vázquez,88,FALSE,FALSE
+2023-07-09,United States,Canada,Canada,Steven Vitória,90,FALSE,TRUE
+2023-07-09,United States,Canada,Canada,Jacob Shaffelburg,109,FALSE,FALSE
+2023-07-09,United States,Canada,United States,Scott Kennedy,114,TRUE,FALSE
+2023-07-12,Jamaica,Mexico,Mexico,Henry Martín,2,FALSE,FALSE
+2023-07-12,Jamaica,Mexico,Mexico,Luis Chávez,30,FALSE,FALSE
+2023-07-12,Jamaica,Mexico,Mexico,Roberto Alvarado,90,FALSE,FALSE
+2023-07-12,United States,Panama,Panama,Iván Anderson,99,FALSE,FALSE
+2023-07-12,United States,Panama,United States,Jesús Ferreira,105,FALSE,FALSE
