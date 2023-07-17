@@ -41035,12 +41035,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-06-28,Jamaica,Trinidad and Tobago,Jamaica,Demarai Gray,30,FALSE,FALSE
 2023-06-28,Jamaica,Trinidad and Tobago,Trinidad and Tobago,Andre Rampersad,49,FALSE,FALSE
 2023-06-28,Jamaica,Trinidad and Tobago,Jamaica,Dujuan Richards,90,FALSE,FALSE
-2023-06-28,Saint Kitts and Nevis,United States,United States,Djordje Mihailovic,12,FALSE,FALSE
-2023-06-28,Saint Kitts and Nevis,United States,United States,Bryan Reynolds,14,FALSE,FALSE
-2023-06-28,Saint Kitts and Nevis,United States,United States,Jesús Ferreira,16,FALSE,FALSE
-2023-06-28,Saint Kitts and Nevis,United States,United States,Jesús Ferreira,25,FALSE,FALSE
-2023-06-28,Saint Kitts and Nevis,United States,United States,Jesús Ferreira,50,FALSE,FALSE
-2023-06-28,Saint Kitts and Nevis,United States,United States,Djordje Mihailovic,79,FALSE,FALSE
+2023-06-28,United States,Saint Kitts and Nevis,United States,Djordje Mihailovic,12,FALSE,FALSE
+2023-06-28,United States,Saint Kitts and Nevis,United States,Bryan Reynolds,14,FALSE,FALSE
+2023-06-28,United States,Saint Kitts and Nevis,United States,Jesús Ferreira,16,FALSE,FALSE
+2023-06-28,United States,Saint Kitts and Nevis,United States,Jesús Ferreira,25,FALSE,FALSE
+2023-06-28,United States,Saint Kitts and Nevis,United States,Jesús Ferreira,50,FALSE,FALSE
+2023-06-28,United States,Saint Kitts and Nevis,United States,Djordje Mihailovic,79,FALSE,FALSE
 2023-06-29,Haiti,Mexico,Mexico,Henry Martín,46,FALSE,FALSE
 2023-06-29,Haiti,Mexico,Mexico,Ricardo Adé,56,TRUE,FALSE
 2023-06-29,Haiti,Mexico,Haiti,Danley Jean Jacques,78,FALSE,FALSE
@@ -41111,3 +41111,4 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-07-12,Jamaica,Mexico,Mexico,Roberto Alvarado,90,FALSE,FALSE
 2023-07-12,United States,Panama,Panama,Iván Anderson,99,FALSE,FALSE
 2023-07-12,United States,Panama,United States,Jesús Ferreira,105,FALSE,FALSE
+2023-07-16,Mexico,Panama,Mexico,Santiago Giménez,88,FAlSE,FALSE

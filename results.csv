@@ -44051,7 +44051,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-08-31,Mexico,Paraguay,0,1,Friendly,Atlanta,United States,TRUE
 2022-09-17,Fiji,New Caledonia,1,0,MSG Prime Minister's Cup,Luganville,Vanuatu,TRUE
 2022-09-21,Solomon Islands,New Caledonia,1,0,MSG Prime Minister's Cup,Luganville,Vanuatu,TRUE
-2022-09-21,Brunei Darussalam,Maldives,0,3,Friendly,Bandar Seri Begawan,Brunei,TRUE
+2022-09-21,Brunei,Maldives,0,3,Friendly,Bandar Seri Begawan,Brunei,TRUE
 2022-09-21,Hong Kong,Myanmar,2,0,Friendly,Hong Kong,Hong Kong,FALSE
 2022-09-21,Libya,Uganda,0,0,Friendly,Benghazi,Libya,FALSE
 2022-09-21,San Marino,Seychelles,0,0,Friendly,Serravalle,San Marino,FALSE
@@ -44152,7 +44152,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-09-27,Argentina,Jamaica,3,0,Friendly,Harrison,United States,TRUE
 2022-09-27,Bahrain,Panama,0,2,Friendly,Riffa,Bahrain,FALSE
 2022-09-27,Brazil,Tunisia,5,1,Friendly,Paris,France,TRUE
-2022-09-27,Brunei Darussalam,Laos,1,0,Friendly,Bandar Seri Begawan,Brunei,TRUE
+2022-09-27,Brunei,Laos,1,0,Friendly,Bandar Seri Begawan,Brunei,TRUE
 2022-09-27,Burkina Faso,Comoros,2,1,Friendly,Casablanca,Morocco,TRUE
 2022-09-27,Canada,Uruguay,0,2,Friendly,Bratislava,Slovakia,TRUE
 2022-09-27,DR Congo,Sierra Leone,3,0,Friendly,Casablanca,Morocco,TRUE
@@ -44738,12 +44738,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-06-30,Székely Land,Chameria,3,2,CONIFA World Football Cup qualification,Miercurea Ciuc,Hungary,FALSE
 2023-06-30,Martinique,Panama,1,2,Gold Cup,Harrison,United States,TRUE
 2023-06-30,El Salvador,Costa Rica,0,0,Gold Cup,Harrison,United States,TRUE
-2023-07-01,Chameria,Two Cicilies,3,1,CONIFA World Football Cup qualification,Miercurea Ciuc,Hungary,TRUE
+2023-07-01,Chameria,Two Sicilies,3,1,CONIFA World Football Cup qualification,Miercurea Ciuc,Hungary,TRUE
 2023-07-01,India,Lebanon,0,0,SAFF Cup,Bengaluru,India,FALSE
 2023-07-01,Kuwait,Bangladesh,1,0,SAFF Cup,Bengaluru,India,TRUE
 2023-07-01,Cuba,Guadeloupe,1,4,Gold Cup,Houston,United States,TRUE
 2023-07-01,Guatemala,Canada,0,0,Gold Cup,Houston,United States,TRUE
-2023-07-02,Székely Land,Two Cicilies,7,0,CONIFA World Football Cup qualification,Miercurea Ciuc,Hungary,FALSE
+2023-07-02,Székely Land,Two Sicilies,7,0,CONIFA World Football Cup qualification,Miercurea Ciuc,Hungary,FALSE
 2023-07-02,United States,Trinidad and Tobago,6,0,Gold Cup,Charlotte,United States,FALSE
 2023-07-02,Jamaica,Saint Kitts and Nevis,5,0,Gold Cup,Santa Clara,United States,TRUE
 2023-07-02,Honduras,Haiti,2,1,Gold Cup,Charlotte,United States,TRUE
@@ -44759,5 +44759,5 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-07-09,United States,Canada,2,2,Gold Cup,Cincinnati,United States,FALSE
 2023-07-12,United States,Panama,1,1,Gold Cup,San Diego,United States,FALSE
 2023-07-12,Jamaica,Mexico,0,3,Gold Cup,Paradise,United States,TRUE
-2023-07-16,Cornwall,Sápmi,NA,NA,CONIFA World Football Cup qualification,Falmouth,England,FALSE
-2023-07-16,Mexico,Panama,NA,NA,Gold Cup,Inglewood,United States,TRUE
+2023-07-16,Kernow,Sápmi,2,1,CONIFA World Football Cup qualification,Falmouth,England,FALSE
+2023-07-16,Mexico,Panama,1,0,Gold Cup,Inglewood,United States,TRUE
