@@ -24,6 +24,7 @@ This dataset includes **45,099** results of international football matches start
 -   `home_team` - the name of the home team
 -   `away_team` - the name of the away team
 -   `winner` - winner of the penalty-shootout
+-   `first_shooter` - the team that went first in the shootout
 
 `goalscorers.csv` includes the following columns:
 
@@ -59,4 +60,4 @@ The world's your oyster, my friend.
 
 ### Contribute
 
-If you notice a mistake or the results are being updated fast enough for your liking, you can fix that by submitting a pull request.
+If you notice a mistake or the results are not updated fast enough for your liking, you can fix that by submitting a pull request.
