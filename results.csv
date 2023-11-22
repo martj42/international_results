@@ -1228,8 +1228,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1929-07-25,Estonia,Finland,1,1,Friendly,Tallinn,Estonia,FALSE
 1929-07-28,Sweden,Latvia,10,0,Friendly,Malmö,Sweden,FALSE
 1929-08-14,Latvia,Lithuania,3,1,Baltic Cup,Riga,Latvia,FALSE
-1929-08-15,Estonia,Lithuania,5,2,Baltic Cup,Riga,Latvia,TRUE
-1929-08-16,Latvia,Estonia,2,2,Baltic Cup,Riga,Latvia,FALSE
+1929-08-15,Latvia,Estonia,2,2,Baltic Cup,Riga,Latvia,FALSE
+1929-08-16,Estonia,Lithuania,5,2,Baltic Cup,Riga,Latvia,TRUE
 1929-08-27,Finland,Estonia,2,1,Friendly,Helsinki,Finland,FALSE
 1929-09-08,Czechoslovakia,Hungary,1,1,Central European International Cup,Prague,Czechoslovakia,FALSE
 1929-09-15,Austria,Czechoslovakia,2,1,Friendly,Vienna,Austria,FALSE
@@ -1336,7 +1336,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1930-08-06,Estonia,Finland,4,0,Friendly,Tallinn,Estonia,FALSE
 1930-08-10,Brazil,Yugoslavia,4,1,Friendly,Rio de Janeiro,Brazil,FALSE
 1930-08-15,Lithuania,Estonia,2,1,Baltic Cup,Kaunas,Lithuania,FALSE
-1930-08-16,Estonia,Latvia,2,3,Baltic Cup,Kaunas,Lithuania,TRUE
+1930-08-16,Latvia,Estonia,2,3,Baltic Cup,Kaunas,Lithuania,TRUE
 1930-08-17,Brazil,United States,4,3,Friendly,Rio de Janeiro,Brazil,FALSE
 1930-08-17,Lithuania,Latvia,3,3,Baltic Cup,Kaunas,Lithuania,FALSE
 1930-09-07,Denmark,Germany,6,3,Friendly,Copenhagen,Denmark,FALSE
@@ -1817,7 +1817,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1935-08-18,Luxembourg,Germany,0,1,Friendly,Luxembourg,Luxembourg,FALSE
 1935-08-18,Poland,Yugoslavia,2,3,Friendly,Katowice,Poland,FALSE
 1935-08-20,Estonia,Lithuania,1,2,Baltic Cup,Tallinn,Estonia,FALSE
-1935-08-21,Latvia,Lithuania,2,2,Baltic Cup,Tallinn,Estonia,TRUE
+1935-08-21,Lithuania,Latvia,2,2,Baltic Cup,Tallinn,Estonia,TRUE
 1935-08-22,Estonia,Latvia,1,1,Baltic Cup,Tallinn,Estonia,FALSE
 1935-08-25,Germany,Romania,4,2,Friendly,Erfurt,Germany,FALSE
 1935-09-01,Sweden,Romania,7,1,Friendly,Stockholm,Sweden,FALSE
@@ -2008,7 +2008,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1937-08-29,Germany,Estonia,4,1,FIFA World Cup qualification,Königsberg,Germany,FALSE
 1937-08-29,Denmark,Basque Country,1,11,Friendly,Copenhagen,Denmark,FALSE
 1937-09-03,Lithuania,Latvia,1,5,FIFA World Cup qualification,Kaunas,Lithuania,FALSE
-1937-09-04,Estonia,Latvia,1,1,Baltic Cup,Kaunas,Lithuania,TRUE
+1937-09-04,Latvia,Estonia,1,1,Baltic Cup,Kaunas,Lithuania,TRUE
 1937-09-05,Finland,Norway,0,2,Nordic Championship,Helsinki,Finland,FALSE
 1937-09-05,Lithuania,Estonia,0,4,Baltic Cup,Kaunas,Lithuania,FALSE
 1937-09-07,Estonia,Latvia,0,2,Baltic Cup,Kaunas,Lithuania,TRUE

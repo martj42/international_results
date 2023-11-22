@@ -268,6 +268,31 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1927-11-27,Peru,Argentina,Argentina,Juan Maglio,25,FALSE,FALSE
 1927-11-27,Peru,Argentina,Argentina,Manuel Ferreira,30,FALSE,FALSE
 1927-11-27,Peru,Argentina,Argentina,Alfredo Carricaberry,38,FALSE,FALSE
+1928-07-25,Latvia,Lithuania,Latvia,Arkādijs Pavlovs,2,FALSE,FALSE
+1928-07-25,Latvia,Lithuania,Latvia,Alberts Vaters,25,FALSE,FALSE
+1928-07-25,Latvia,Lithuania,Latvia,Alberts Vaters,66,FALSE,FALSE
+1928-07-26,Estonia,Lithuania,Estonia,Arnold Pihlak,1,FALSE,TRUE
+1928-07-26,Estonia,Lithuania,Estonia,Helmuth Räästas,14,FALSE,FALSE
+1928-07-26,Estonia,Lithuania,Estonia,Arnold Pihlak,21,FALSE,FALSE
+1928-07-26,Estonia,Lithuania,Estonia,Arnold Pihlak,57,FALSE,FALSE
+1928-07-26,Estonia,Lithuania,Estonia,Artur Maurer,74,FALSE,FALSE
+1928-07-26,Estonia,Lithuania,Estonia,Artur Maurer,78,FALSE,FALSE
+1928-07-27,Estonia,Latvia,Latvia,Arnolds Tauriņš,63,FALSE,FALSE
+1929-08-14,Latvia,Lithuania,Latvia,Voldemārs Plade,51,FALSE,FALSE
+1929-08-14,Latvia,Lithuania,Latvia,Voldemārs Plade,68,FALSE,FALSE
+1929-08-14,Latvia,Lithuania,Latvia,Voldemārs Plade,86,FALSE,FALSE
+1929-08-14,Latvia,Lithuania,Lithuania,Stepas Chmelevskis,89,FALSE,TRUE
+1929-08-15,Latvia,Estonia,Estonia,Eugen Einman,9,FALSE,FALSE
+1929-08-15,Latvia,Estonia,Latvia,Aleksandrs Priede,27,FALSE,FALSE
+1929-08-15,Latvia,Estonia,Estonia,Eduard Ellman-Eelma,29,FALSE,FALSE
+1929-08-15,Latvia,Estonia,Latvia,Arkādijs Pavlovs,63,FALSE,FALSE
+1929-08-16,Estonia,Lithuania,Estonia,Eugen Einman,16,FALSE,FALSE
+1929-08-16,Estonia,Lithuania,Lithuania,Stepas Chmelevskis,26,FALSE,FALSE
+1929-08-16,Estonia,Lithuania,Estonia,Arnold Pihlak,32,FALSE,FALSE
+1929-08-16,Estonia,Lithuania,Lithuania,Ricardas Rutkauskas,35,FALSE,FALSE
+1929-08-16,Estonia,Lithuania,Estonia,Eugen Einman,59,FALSE,FALSE
+1929-08-16,Estonia,Lithuania,Estonia,Eduard Ellman-Eelma,75,FALSE,FALSE
+1929-08-16,Estonia,Lithuania,Estonia,Eduard Ellman-Eelma,85,FALSE,FALSE
 1929-11-01,Paraguay,Uruguay,Paraguay,Aurelio González,16,FALSE,FALSE
 1929-11-01,Paraguay,Uruguay,Paraguay,Diógenes Domínguez,55,FALSE,FALSE
 1929-11-01,Paraguay,Uruguay,Paraguay,Aurelio González,86,FALSE,FALSE
@@ -361,6 +386,36 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1930-07-30,Uruguay,Argentina,Uruguay,Pedro Cea,57,FALSE,FALSE
 1930-07-30,Uruguay,Argentina,Uruguay,Santos Iriarte,68,FALSE,FALSE
 1930-07-30,Uruguay,Argentina,Uruguay,Héctor Castro,89,FALSE,FALSE
+1930-08-15,Lithuania,Estonia,Estonia,Friedrich Karm,49,FALSE,FALSE
+1930-08-15,Lithuania,Estonia,Lithuania,Jaroslavas Citavičius,65,FALSE,FALSE
+1930-08-15,Lithuania,Estonia,Lithuania,Antanas Lingis,67,FALSE,FALSE
+1930-08-16,Latvia,Estonia,Latvia,Ēriks Pētersons,11,FALSE,FALSE
+1930-08-16,Latvia,Estonia,Latvia,Voldemārs Žins,15,FALSE,FALSE
+1930-08-16,Latvia,Estonia,Estonia,Eugen Einman,18,FALSE,FALSE
+1930-08-16,Latvia,Estonia,Estonia,Friedrich Karm,38,FALSE,FALSE
+1930-08-16,Latvia,Estonia,Latvia,Fricis Dambrēvics,56,FALSE,FALSE
+1930-08-17,Lithuania,Latvia,Lithuania,Jaroslavas Citavičius,32,FALSE,FALSE
+1930-08-17,Lithuania,Latvia,Latvia,Ēriks Pētersons,37,FALSE,FALSE
+1930-08-17,Lithuania,Latvia,Lithuania,Antanas Lingis,46,FALSE,FALSE
+1930-08-17,Lithuania,Latvia,Latvia,Ēriks Pētersons,61,FALSE,FALSE
+1930-08-17,Lithuania,Latvia,Latvia,Ēriks Pētersons,64,FALSE,FALSE
+1930-08-17,Lithuania,Latvia,Lithuania,Stepas Chmelevskis,89,FALSE,FALSE
+1931-08-30,Estonia,Lithuania,Estonia,Eduard Ellman-Eelma,13,FALSE,FALSE
+1931-08-30,Estonia,Lithuania,Estonia,Leonhard Kass,50,FALSE,FALSE
+1931-08-31,Latvia,Lithuania,Latvia,Ēriks Pētersons,11,FALSE,FALSE
+1931-09-01,Estonia,Latvia,Estonia,Eduard Ellman-Eelma,10,FALSE,FALSE
+1931-09-01,Estonia,Latvia,Latvia,Jānis Škincs,16,FALSE,FALSE
+1931-09-01,Estonia,Latvia,Estonia,Friedrich Karm,51,FALSE,FALSE
+1931-09-01,Estonia,Latvia,Estonia,Friedrich Karm,67,FALSE,FALSE
+1932-08-28,Latvia,Lithuania,Lithuania,Jaroslavas Citavičius,15,FALSE,FALSE
+1932-08-28,Latvia,Lithuania,Latvia,Ēriks Pētersons,52,FALSE,FALSE
+1932-08-28,Latvia,Lithuania,Latvia,Alberts Šeibelis,53,FALSE,FALSE
+1932-08-28,Latvia,Lithuania,Latvia,Hermanis Jēnihs,65,FALSE,FALSE
+1932-08-28,Latvia,Lithuania,Latvia,Arnolds Tauriņš,73,FALSE,FALSE
+1932-08-29,Estonia,Lithuania,Estonia,Roman Mõtlik,11,FALSE,FALSE
+1932-08-29,Estonia,Lithuania,Lithuania,Eduardas Čižauskas,30,FALSE,FALSE
+1932-08-29,Estonia,Lithuania,Lithuania,Antanas Lingis,70,FALSE,FALSE
+1932-08-30,Latvia,Estonia,Latvia,Alberts Šeibelis,58,FALSE,FALSE
 1933-06-11,Sweden,Estonia,Sweden,Knut Kroon,7,FALSE,FALSE
 1933-06-11,Sweden,Estonia,Sweden,Lennart Bunke,10,FALSE,FALSE
 1933-06-11,Sweden,Estonia,Sweden,Bertil Ericsson,13,FALSE,FALSE
@@ -371,6 +426,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1933-06-11,Sweden,Estonia,Sweden,Sven Andersson,79,FALSE,FALSE
 1933-06-29,Lithuania,Sweden,Sweden,Knut Hansson,55,FALSE,FALSE
 1933-06-29,Lithuania,Sweden,Sweden,Knut Hansson,65,FALSE,FALSE
+1933-09-02,Lithuania,Estonia,Estonia,Richard Kuremaa,15,FALSE,FALSE
+1933-09-02,Lithuania,Estonia,Lithuania,Jaroslavas Citavičius,55,FALSE,FALSE
+1933-09-03,Estonia,Latvia,Latvia,Alberts Šeibelis,35,FALSE,FALSE
+1933-09-04,Lithuania,Latvia,Lithuania,Zigmas Sabaliauskas,33,FALSE,FALSE
+1933-09-04,Lithuania,Latvia,Latvia,Ēriks Pētersons,52,FALSE,FALSE
+1933-09-04,Lithuania,Latvia,Lithuania,Antanas Lingis,55,FALSE,FALSE
+1933-09-04,Lithuania,Latvia,Latvia,Ēriks Pētersons,65,FALSE,FALSE
 1933-09-24,Yugoslavia,Switzerland,Yugoslavia,Vladimir Kragić,50,FALSE,FALSE
 1933-09-24,Yugoslavia,Switzerland,Yugoslavia,Blagoje Marjanović,61,FALSE,FALSE
 1933-09-24,Yugoslavia,Switzerland,Switzerland,Alessandro Frigerio,76,FALSE,FALSE
@@ -590,6 +652,24 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1935-01-27,Argentina,Uruguay,Uruguay,Héctor Castro,18,FALSE,FALSE
 1935-01-27,Argentina,Uruguay,Uruguay,José Taboada,28,FALSE,FALSE
 1935-01-27,Argentina,Uruguay,Uruguay,Aníbal Ciocca,36,FALSE,FALSE
+1935-08-20,Estonia,Lithuania,Lithuania,Voldemaras Jaškevičius,32,FALSE,FALSE
+1935-08-20,Estonia,Lithuania,Estonia,Nikolai Linberg,45,FALSE,FALSE
+1935-08-20,Estonia,Lithuania,Lithuania,Antanas Lingis,75,FALSE,FALSE
+1935-08-21,Lithuania,Latvia,Latvia,Iļja Vestermans,17,FALSE,FALSE
+1935-08-21,Lithuania,Latvia,Lithuania,Antanas Lingis,33,FALSE,FALSE
+1935-08-21,Lithuania,Latvia,Lithuania,Romualdas Marcinkus,54,FALSE,FALSE
+1935-08-21,Lithuania,Latvia,Latvia,Iļja Vestermans,75,FALSE,FALSE
+1935-08-22,Estonia,Latvia,Estonia,Eduard Ellman-Eelma,59,FALSE,FALSE
+1935-08-22,Estonia,Latvia,Latvia,Ēriks Pētersons,80,FALSE,FALSE
+1936-08-29,Latvia,Lithuania,Lithuania,Voldemaras Jaškevičius,27,FALSE,FALSE
+1936-08-29,Latvia,Lithuania,Latvia,Iļja Vestermans,75,FALSE,FALSE
+1936-08-29,Latvia,Lithuania,Latvia,Alberts Šeibelis,90,FALSE,FALSE
+1936-08-30,Estonia,Lithuania,Estonia,Georg Siimenson,24,FALSE,FALSE
+1936-08-30,Estonia,Lithuania,Estonia,Richard Kuremaa,61,FALSE,FALSE
+1936-08-30,Estonia,Lithuania,Lithuania,Juozas Gudelis,84,FALSE,FALSE
+1936-08-31,Latvia,Estonia,Latvia,Alberts Šeibelis,35,FALSE,FALSE
+1936-08-31,Latvia,Estonia,Latvia,Jānis Lidmanis,41,FALSE,TRUE
+1936-08-31,Latvia,Estonia,Estonia,Julius Kaljo,73,FALSE,TRUE
 1936-12-27,Brazil,Peru,Brazil,Roberto Emílio da Cunha,7,FALSE,FALSE
 1936-12-27,Brazil,Peru,Brazil,Afonso Guimarães da Silva,30,FALSE,FALSE
 1936-12-27,Brazil,Peru,Peru,Teodoro Fernández,55,FALSE,FALSE
@@ -686,12 +766,26 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1937-08-29,Germany,Estonia,Germany,Josef Gauchel,53,FALSE,FALSE
 1937-08-29,Germany,Estonia,Germany,Ernst Lehner,65,FALSE,FALSE
 1937-08-29,Germany,Estonia,Germany,Josef Gauchel,86,FALSE,FALSE
+1937-09-03,Latvia,Lithuania,Latvia,Fricis Kaņeps,4,FALSE,FALSE
+1937-09-03,Latvia,Lithuania,Latvia,Vaclavs Borduško,11,FALSE,FALSE
+1937-09-03,Latvia,Lithuania,Latvia,Vaclavs Borduško,30,FALSE,FALSE
+1937-09-03,Latvia,Lithuania,Latvia,Fricis Kaņeps,45,FALSE,TRUE
+1937-09-03,Latvia,Lithuania,Latvia,Iļja Vestermans,67,FALSE,FALSE
+1937-09-03,Latvia,Lithuania,Lithuania,Jonas Paulionis,72,FALSE,FALSE
 1937-09-03,Lithuania,Latvia,Latvia,Fricis Kaņeps,4,FALSE,FALSE
 1937-09-03,Lithuania,Latvia,Latvia,Vaclavs Borduško,11,FALSE,FALSE
 1937-09-03,Lithuania,Latvia,Latvia,Vaclavs Borduško,30,FALSE,FALSE
 1937-09-03,Lithuania,Latvia,Latvia,Fricis Kaņeps,45,FALSE,TRUE
 1937-09-03,Lithuania,Latvia,Latvia,Iļja Vestermans,67,FALSE,FALSE
 1937-09-03,Lithuania,Latvia,Lithuania,Jonas Paulionis,72,FALSE,FALSE
+1937-09-04,Latvia,Estonia,Latvia,Iļja Vestermans,35,FALSE,FALSE
+1937-09-04,Latvia,Estonia,Estonia,Richard Kuremaa,68,FALSE,FALSE
+1937-09-05,Estonia,Lithuania,Estonia,Georg Siimenson,3,FALSE,FALSE
+1937-09-05,Estonia,Lithuania,Estonia,Heinrich Uukkivi,22,FALSE,FALSE
+1937-09-05,Estonia,Lithuania,Estonia,Aavo Sillandi,37,FALSE,FALSE
+1937-09-05,Estonia,Lithuania,Estonia,Georg Siimenson,50,FALSE,FALSE
+1937-09-07,Latvia,Estonia,Latvia,Jānis Rozītis,12,FALSE,FALSE
+1937-09-07,Latvia,Estonia,Latvia,Iļja Vestermans,19,FALSE,FALSE
 1937-10-05,Austria,Latvia,Latvia,Iļja Vestermans,6,FALSE,FALSE
 1937-10-05,Austria,Latvia,Austria,Camillo Jerusalem,15,FALSE,FALSE
 1937-10-05,Austria,Latvia,Austria,Franz Binder,33,FALSE,FALSE
@@ -839,6 +933,14 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1938-06-19,Hungary,Italy,Italy,Gino Colaussi,35,FALSE,FALSE
 1938-06-19,Hungary,Italy,Hungary,György Sárosi,70,FALSE,FALSE
 1938-06-19,Hungary,Italy,Italy,Silvio Piola,82,FALSE,FALSE
+1938-09-03,Estonia,Lithuania,Estonia,Ralf Veidemann,40,FALSE,FALSE
+1938-09-03,Estonia,Lithuania,Estonia,Ralf Veidemann,44,FALSE,FALSE
+1938-09-03,Estonia,Lithuania,Estonia,Heinrich Uukkivi,69,FALSE,FALSE
+1938-09-03,Estonia,Lithuania,Lithuania,Kazys Šurkus,72,FALSE,FALSE
+1938-09-04,Latvia,Lithuania,Lithuania,Voldemaras Jaškevičius,28,FALSE,FALSE
+1938-09-04,Latvia,Lithuania,Latvia,Francis Krupšs,87,FALSE,FALSE
+1938-09-05,Estonia,Latvia,Estonia,Leonhard Kass,12,FALSE,FALSE
+1938-09-05,Estonia,Latvia,Latvia,Ēriks Raisters,49,FALSE,FALSE
 1939-01-15,Chile,Paraguay,Chile,Enrique Sorrel,8,FALSE,FALSE
 1939-01-15,Chile,Paraguay,Paraguay,Tiberio Godoy,10,FALSE,FALSE
 1939-01-15,Chile,Paraguay,Paraguay,Tiberio Godoy,24,FALSE,FALSE
@@ -12228,6 +12330,15 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1991-11-13,Turkey,Republic of Ireland,Republic of Ireland,Tony Cascarino,55,FALSE,FALSE
 1991-11-13,Turkey,Republic of Ireland,Republic of Ireland,John Byrne,58,FALSE,FALSE
 1991-11-13,Wales,Luxembourg,Wales,Paul Bodin,82,FALSE,TRUE
+1991-11-15,Lithuania,Estonia,Estonia,Urmas Kirs,14,FALSE,FALSE
+1991-11-15,Lithuania,Estonia,Lithuania,Stanislovas Vitkovskis,17,FALSE,FALSE
+1991-11-15,Lithuania,Estonia,Lithuania,Tomas Ramelis,34,FALSE,FALSE
+1991-11-15,Lithuania,Estonia,Lithuania,Valdas Urbonas,54,FALSE,TRUE
+1991-11-15,Lithuania,Estonia,Lithuania,Darius Magdišauskas,69,FALSE,FALSE
+1991-11-16,Latvia,Estonia,Latvia,Dzintars Sproģis,42,FALSE,FALSE
+1991-11-16,Latvia,Estonia,Latvia,Igors Troickis,79,FALSE,FALSE
+1991-11-17,Lithuania,Latvia,Latvia,Vitalijs Teplovs,14,FALSE,FALSE
+1991-11-17,Lithuania,Latvia,Lithuania,Aurelijus Skarbalius,20,FALSE,FALSE
 1991-11-20,Belgium,Germany,Germany,Rudi Völler,16,FALSE,FALSE
 1991-11-20,Bulgaria,Romania,Romania,Adrian Popescu,31,FALSE,FALSE
 1991-11-20,Bulgaria,Romania,Bulgaria,Nasko Sirakov,55,FALSE,FALSE
@@ -12407,8 +12518,18 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1992-07-05,Trinidad and Tobago,Jamaica,Jamaica,Peter Isaacs,52,FALSE,FALSE
 1992-07-05,Trinidad and Tobago,Jamaica,Jamaica,Winston Anglin,65,FALSE,FALSE
 1992-07-05,Trinidad and Tobago,Jamaica,Trinidad and Tobago,Hutson Charles,80,FALSE,FALSE
+1992-07-10,Latvia,Estonia,Latvia,Ainars Linards,34,FALSE,FALSE
+1992-07-10,Latvia,Estonia,Latvia,Ainars Linards,38,FALSE,FALSE
+1992-07-10,Latvia,Estonia,Estonia,Indro Olumets,61,FALSE,FALSE
+1992-07-11,Lithuania,Estonia,Lithuania,Vaidotas Slekys,27,FALSE,FALSE
+1992-07-11,Lithuania,Estonia,Estonia,Indro Olumets,64,FALSE,FALSE
 1992-07-11,Solomon Islands,Tahiti,Solomon Islands,Duddley Hatei,61,FALSE,FALSE
 1992-07-11,Solomon Islands,Tahiti,Tahiti,Eric Etaeta,76,FALSE,FALSE
+1992-07-12,Latvia,Lithuania,Latvia,Vitalijs Teplovs,27,FALSE,FALSE
+1992-07-12,Latvia,Lithuania,Lithuania,Virginijus Baltušnikas,28,FALSE,FALSE
+1992-07-12,Latvia,Lithuania,Lithuania,Virginijus Baltušnikas,31,FALSE,FALSE
+1992-07-12,Latvia,Lithuania,Lithuania,Virginijus Baltušnikas,79,FALSE,FALSE
+1992-07-12,Latvia,Lithuania,Latvia,Jurijs Popkovs,89,FALSE,FALSE
 1992-07-19,Nicaragua,El Salvador,El Salvador,Miguel Estrada,3,FALSE,FALSE
 1992-07-19,Nicaragua,El Salvador,El Salvador,Mágico González,17,FALSE,FALSE
 1992-07-19,Nicaragua,El Salvador,El Salvador,Carlos Castro Borja,21,FALSE,FALSE
@@ -13513,6 +13634,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1993-06-27,Peru,Mexico,Peru,Juan Reynoso Guzmán,82,FALSE,FALSE
 1993-06-30,Ecuador,Mexico,Mexico,Hugo Sánchez,23,FALSE,FALSE
 1993-06-30,Ecuador,Mexico,Mexico,Ramón Ramírez,54,FALSE,FALSE
+1993-07-02,Estonia,Latvia,Latvia,Vitālijs Astafjevs,52,FALSE,FALSE
+1993-07-02,Estonia,Latvia,Latvia,Aleksejs Sarando,80,FALSE,FALSE
 1993-07-02,Oman,Iran,Iran,Hamid Derakhshan,36,FALSE,FALSE
 1993-07-02,Syria,Taiwan,Syria,Abdul Latif Helou,3,FALSE,FALSE
 1993-07-02,Syria,Taiwan,Syria,Jamal Kazem,6,FALSE,FALSE
@@ -13532,6 +13655,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1993-07-04,Argentina,Mexico,Argentina,Gabriel Batistuta,63,FALSE,FALSE
 1993-07-04,Argentina,Mexico,Mexico,Benjamín Galindo,67,FALSE,TRUE
 1993-07-04,Argentina,Mexico,Argentina,Gabriel Batistuta,74,FALSE,FALSE
+1993-07-04,Estonia,Lithuania,Estonia,Sergei Zamorski,25,FALSE,FALSE
+1993-07-04,Estonia,Lithuania,Estonia,Sergei Bragin,39,FALSE,FALSE
+1993-07-04,Estonia,Lithuania,Lithuania,Viktoras Olšanskis,60,FALSE,FALSE
 1993-07-04,Syria,Oman,Syria,Nizar Mahrous,45,FALSE,FALSE
 1993-07-04,Syria,Oman,Oman,Hamdan Abdulla Al-Moamari,57,FALSE,FALSE
 1993-07-04,Syria,Oman,Syria,Mohamad Moustafa Kadir,62,FALSE,TRUE
@@ -14120,6 +14246,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1994-07-16,Sweden,Bulgaria,Sweden,Håkan Mild,30,FALSE,FALSE
 1994-07-16,Sweden,Bulgaria,Sweden,Henrik Larsson,37,FALSE,FALSE
 1994-07-16,Sweden,Bulgaria,Sweden,Kennet Andersson,39,FALSE,FALSE
+1994-07-29,Lithuania,Estonia,Lithuania,Valdas Ivanauskas,11,FALSE,TRUE
+1994-07-29,Lithuania,Estonia,Lithuania,Valdas Ivanauskas,23,FALSE,FALSE
+1994-07-29,Lithuania,Estonia,Lithuania,Saulius Mikalajūnas,61,FALSE,FALSE
+1994-07-30,Estonia,Latvia,Latvia,Vitālijs Astafjevs,31,FALSE,FALSE
+1994-07-30,Estonia,Latvia,Latvia,Rolands Bulders,37,FALSE,FALSE
+1994-07-31,Lithuania,Latvia,Lithuania,Andrėjus Tereškinas,67,FALSE,TRUE
 1994-09-04,Estonia,Croatia,Croatia,Davor Šuker,44,FALSE,FALSE
 1994-09-04,Estonia,Croatia,Croatia,Davor Šuker,72,FALSE,FALSE
 1994-09-04,Israel,Poland,Israel,Ronen Harazi,44,FALSE,FALSE
@@ -14497,6 +14629,15 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1995-05-10,Armenia,North Macedonia,Armenia,Armen Shahgeldyan,50,FALSE,FALSE
 1995-05-10,Armenia,North Macedonia,North Macedonia,Gjorgji Hristov,60,FALSE,FALSE
 1995-05-10,Armenia,North Macedonia,North Macedonia,Ljupčo Markovski,69,FALSE,FALSE
+1995-05-19,Latvia,Estonia,Latvia,Armands Zeiberliņš,37,FALSE,FALSE
+1995-05-19,Latvia,Estonia,Latvia,Valērijs Ivanovs,67,FALSE,FALSE
+1995-05-20,Lithuania,Estonia,Lithuania,Aurelijus Skarbalius,27,FALSE,FALSE
+1995-05-20,Lithuania,Estonia,Lithuania,Virginijus Baltušnikas,34,FALSE,FALSE
+1995-05-20,Lithuania,Estonia,Lithuania,Aidas Preikšaitis,36,FALSE,FALSE
+1995-05-20,Lithuania,Estonia,Lithuania,Andrius Upstas,57,FALSE,FALSE
+1995-05-20,Lithuania,Estonia,Lithuania,Andrius Zuta,62,FALSE,FALSE
+1995-05-20,Lithuania,Estonia,Lithuania,Rimantas Žvingilas,75,FALSE,FALSE
+1995-05-20,Lithuania,Estonia,Lithuania,Eimantas Poderis,88,FALSE,FALSE
 1995-05-25,Faroe Islands,San Marino,Faroe Islands,Jens Kristian Hansen,6,FALSE,FALSE
 1995-05-25,Faroe Islands,San Marino,Faroe Islands,Jens Erik Rasmussen,9,FALSE,FALSE
 1995-05-25,Faroe Islands,San Marino,Faroe Islands,Julian Johnsson,52,FALSE,FALSE
@@ -15330,6 +15471,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1996-07-07,Colombia,Uruguay,Colombia,Carlos Valderrama,20,FALSE,FALSE
 1996-07-07,Colombia,Uruguay,Uruguay,Gabriel Cedrés,57,FALSE,FALSE
 1996-07-07,Colombia,Uruguay,Colombia,Antony de Ávila,78,FALSE,FALSE
+1996-07-07,Estonia,Latvia,Latvia,Rolands Bulders,16,FALSE,FALSE
+1996-07-07,Estonia,Latvia,Estonia,Urmas Rooba,36,FALSE,FALSE
+1996-07-08,Lithuania,Latvia,Lithuania,Tomas Ražanauskas,5,FALSE,TRUE
+1996-07-08,Lithuania,Latvia,Latvia,Aleksandrs Jelisejevs,44,FALSE,FALSE
+1996-07-08,Lithuania,Latvia,Lithuania,Ričardas Zdančius,68,FALSE,TRUE
+1996-07-09,Estonia,Lithuania,Lithuania,Rimantas Žvingilas,18,FALSE,TRUE
+1996-07-09,Estonia,Lithuania,Estonia,Martin Reim,21,FALSE,FALSE
 1996-08-30,Canada,Panama,Canada,Geoff Aunger,40,FALSE,FALSE
 1996-08-30,Canada,Panama,Canada,Paul Peschisolido,42,FALSE,FALSE
 1996-08-30,Canada,Panama,Panama,Jorge Dely Valdés,49,FALSE,FALSE
@@ -16670,6 +16818,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1997-07-06,Peru,Bolivia,Bolivia,Luis Cristaldo,56,FALSE,FALSE
 1997-07-06,Venezuela,Ecuador,Ecuador,Iván Hurtado,55,FALSE,FALSE
 1997-07-06,Venezuela,Ecuador,Venezuela,Gabriel Miranda,75,FALSE,FALSE
+1997-07-09,Lithuania,Estonia,Lithuania,Igoris Morinas,35,FALSE,FALSE
+1997-07-09,Lithuania,Estonia,Lithuania,Dainius Suliauskas,69,FALSE,TRUE
+1997-07-09,Lithuania,Estonia,Estonia,Martin Reim,77,FALSE,FALSE
+1997-07-10,Estonia,Latvia,Estonia,Marko Kristal,15,FALSE,FALSE
+1997-07-10,Estonia,Latvia,Latvia,Vladimirs Babičevs,30,FALSE,FALSE
+1997-07-10,Estonia,Latvia,Latvia,Marians Pahars,50,FALSE,FALSE
+1997-07-11,Lithuania,Latvia,Lithuania,Tomas Ramelis,66,FALSE,FALSE
 1997-07-20,Argentina,Venezuela,Argentina,Hernán Crespo,31,FALSE,FALSE
 1997-07-20,Argentina,Venezuela,Argentina,Pablo Paz,58,FALSE,FALSE
 1997-07-20,Bolivia,Uruguay,Bolivia,Marco Etcheverry,75,FALSE,FALSE
@@ -17343,6 +17498,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1998-02-27,Burkina Faso,DR Congo,DR Congo,Lokenge Mungongo,90,FALSE,FALSE
 1998-02-28,South Africa,Egypt,Egypt,Ahmed Hassan,5,FALSE,FALSE
 1998-02-28,South Africa,Egypt,Egypt,Tarek Mostafa,13,FALSE,FALSE
+1998-04-21,Latvia,Lithuania,Lithuania,Igors Stepanovs,20,TRUE,FALSE
+1998-04-21,Latvia,Lithuania,Lithuania,Irmantas Stumbrys,71,FALSE,FALSE
+1998-04-21,Latvia,Lithuania,Latvia,Igors Sļesarčuks,87,FALSE,FALSE
 1998-06-04,Estonia,Faroe Islands,Estonia,Kristen Viikmäe,12,FALSE,FALSE
 1998-06-04,Estonia,Faroe Islands,Estonia,Martin Reim,40,FALSE,TRUE
 1998-06-04,Estonia,Faroe Islands,Estonia,Sergei Terehhov,75,FALSE,FALSE
@@ -17459,6 +17617,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1998-06-24,Spain,Bulgaria,Spain,Kiko,90,FALSE,FALSE
 1998-06-25,Belgium,South Korea,Belgium,Luc Nilis,7,FALSE,FALSE
 1998-06-25,Belgium,South Korea,South Korea,Yoo Sang-chul,72,FALSE,FALSE
+1998-06-25,Estonia,Latvia,Latvia,Marians Pahars,19,FALSE,FALSE
+1998-06-25,Estonia,Latvia,Latvia,Vladimirs Babičevs,87,FALSE,FALSE
 1998-06-25,Germany,Iran,Germany,Oliver Bierhoff,50,FALSE,FALSE
 1998-06-25,Germany,Iran,Germany,Jürgen Klinsmann,57,FALSE,FALSE
 1998-06-25,Netherlands,Mexico,Netherlands,Phillip Cocu,4,FALSE,FALSE
@@ -20672,6 +20832,22 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2001-07-01,Tunisia,Congo,Tunisia,Zoubeir Baya,61,FALSE,FALSE
 2001-07-01,Tunisia,Congo,Tunisia,Riadh Jelassi,90,FALSE,FALSE
 2001-07-01,Uruguay,Brazil,Uruguay,Federico Magallanes,33,FALSE,TRUE
+2001-07-03,Latvia,Estonia,Latvia,Māris Verpakovskis,41,FALSE,FALSE
+2001-07-03,Latvia,Estonia,Estonia,Indrek Zelinski,47,FALSE,FALSE
+2001-07-03,Latvia,Estonia,Latvia,Marians Pahars,50,FALSE,FALSE
+2001-07-03,Latvia,Estonia,Latvia,Vladimirs Koļesņičenko,90,FALSE,FALSE
+2001-07-04,Lithuania,Estonia,Estonia,Aivar Anniste,7,FALSE,FALSE
+2001-07-04,Lithuania,Estonia,Estonia,Mark Švets,35,FALSE,FALSE
+2001-07-04,Lithuania,Estonia,Lithuania,Orestas Buitkus,37,FALSE,FALSE
+2001-07-04,Lithuania,Estonia,Lithuania,Deividas Česnauskis,46,FALSE,FALSE
+2001-07-04,Lithuania,Estonia,Lithuania,Nerijus Vasiliauskas,73,FALSE,FALSE
+2001-07-04,Lithuania,Estonia,Lithuania,Valdas Trakys,90,FALSE,FALSE
+2001-07-04,Lithuania,Estonia,Lithuania,Raimondas Vilėniškis,90,FALSE,FALSE
+2001-07-05,Latvia,Lithuania,Lithuania,Nerijus Barasa,12,FALSE,FALSE
+2001-07-05,Latvia,Lithuania,Latvia,Andrejs Rubins,45,FALSE,FALSE
+2001-07-05,Latvia,Lithuania,Latvia,Marians Pahars,52,FALSE,FALSE
+2001-07-05,Latvia,Lithuania,Latvia,Oļegs Blagonadeždins,84,FALSE,FALSE
+2001-07-05,Latvia,Lithuania,Latvia,Vladimirs Koļesņičenko,89,FALSE,FALSE
 2001-07-11,Colombia,Venezuela,Colombia,Freddy Grisales,15,FALSE,FALSE
 2001-07-11,Colombia,Venezuela,Colombia,Víctor Aristizábal,59,FALSE,TRUE
 2001-07-11,Ecuador,Chile,Chile,Reinaldo Navia,29,FALSE,FALSE
@@ -21939,6 +22115,15 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2003-06-28,Colombia,Turkey,Colombia,Giovanni Hernández,63,FALSE,FALSE
 2003-06-28,Colombia,Turkey,Turkey,Okan Yılmaz,86,FALSE,FALSE
 2003-06-29,France,Cameroon,France,Thierry Henry,97,FALSE,FALSE
+2003-07-03,Estonia,Lithuania,Lithuania,Igoris Morinas,39,FALSE,FALSE
+2003-07-03,Estonia,Lithuania,Lithuania,Deividas Česnauskis,45,FALSE,FALSE
+2003-07-03,Estonia,Lithuania,Estonia,Jaanus Sirel,57,FALSE,FALSE
+2003-07-03,Estonia,Lithuania,Lithuania,Andrius Velička,72,FALSE,FALSE
+2003-07-03,Estonia,Lithuania,Lithuania,Marius Bezykornovas,84,FALSE,FALSE
+2003-07-03,Estonia,Lithuania,Lithuania,Edgaras Česnauskis,90,FALSE,FALSE
+2003-07-04,Lithuania,Latvia,Latvia,Juris Laizāns,28,FALSE,FALSE
+2003-07-04,Lithuania,Latvia,Latvia,Andrejs Rubins,32,FALSE,FALSE
+2003-07-04,Lithuania,Latvia,Lithuania,Tomas Tamošauskas,73,FALSE,FALSE
 2003-07-12,Costa Rica,Canada,Canada,Paul Stalteri,59,FALSE,FALSE
 2003-07-12,United States,El Salvador,United States,Eddie Lewis,28,FALSE,FALSE
 2003-07-12,United States,El Salvador,United States,Brian McBride,76,FALSE,FALSE
@@ -24289,6 +24474,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2005-03-30,United States,Guatemala,United States,Steve Ralston,68,FALSE,FALSE
 2005-03-30,Uruguay,Brazil,Uruguay,Diego Forlán,48,FALSE,FALSE
 2005-03-30,Uruguay,Brazil,Brazil,Émerson Ferreira da Rosa,67,FALSE,FALSE
+2005-05-21,Lithuania,Latvia,Lithuania,Igoris Morinas,25,FALSE,FALSE
+2005-05-21,Lithuania,Latvia,Lithuania,Igoris Morinas,81,FALSE,FALSE
 2005-06-03,Bahrain,Japan,Japan,Mitsuo Ogasawara,34,FALSE,FALSE
 2005-06-03,Iran,North Korea,Iran,Rahman Rezaei,45,FALSE,FALSE
 2005-06-03,Saudi Arabia,Kuwait,Saudi Arabia,Mohammad Al-Shalhoub,19,FALSE,FALSE
@@ -26863,8 +27050,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2008-03-30,Cayman Islands,Bermuda,Bermuda,Devaun DeGraff,25,FALSE,FALSE
 2008-03-30,Cayman Islands,Bermuda,Bermuda,Kwame Steede,52,FALSE,FALSE
 2008-03-30,Cayman Islands,Bermuda,Cayman Islands,Marshall Forbes,63,FALSE,TRUE
+2008-05-30,Latvia,Estonia,Latvia,Juris Laizāns,48,FALSE,TRUE
 2008-05-31,Cameroon,Cape Verde,Cameroon,Rigobert Song,8,FALSE,FALSE
 2008-05-31,Cameroon,Cape Verde,Cameroon,Samuel Eto'o,56,FALSE,TRUE
+2008-05-31,Estonia,Lithuania,Lithuania,Valerijus Mižigurskis,89,FALSE,FALSE
 2008-05-31,Malawi,Djibouti,Malawi,Elvis Kafoteka,3,FALSE,FALSE
 2008-05-31,Malawi,Djibouti,Malawi,Essau Kanyenda,19,FALSE,FALSE
 2008-05-31,Malawi,Djibouti,Djibouti,Ahmed Daher,23,FALSE,FALSE
@@ -26906,6 +27095,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2008-06-01,Ghana,Libya,Ghana,Junior Agogo,55,FALSE,FALSE
 2008-06-01,Ghana,Libya,Ghana,Laryea Kingston,67,FALSE,FALSE
 2008-06-01,Ivory Coast,Mozambique,Ivory Coast,Sekou Cissé,75,FALSE,FALSE
+2008-06-01,Latvia,Lithuania,Latvia,Kaspars Gorkšs,56,FALSE,FALSE
+2008-06-01,Latvia,Lithuania,Latvia,Vidas Alunderis,77,TRUE,FALSE
+2008-06-01,Latvia,Lithuania,Lithuania,Ričardas Beniušis,81,FALSE,FALSE
 2008-06-01,Liberia,Gambia,Gambia,Mustapha Jarju,17,FALSE,FALSE
 2008-06-01,Liberia,Gambia,Liberia,Oliver Makor,85,FALSE,FALSE
 2008-06-01,Mali,Congo,Mali,Seydou Keita,2,FALSE,FALSE
@@ -29049,6 +29241,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2010-06-20,Brazil,Ivory Coast,Brazil,Luís Fabiano,50,FALSE,FALSE
 2010-06-20,Brazil,Ivory Coast,Brazil,Elano,62,FALSE,FALSE
 2010-06-20,Brazil,Ivory Coast,Ivory Coast,Didier Drogba,79,FALSE,FALSE
+2010-06-20,Estonia,Lithuania,Lithuania,Mantas Savėnas,31,FALSE,FALSE
+2010-06-20,Estonia,Lithuania,Lithuania,Artūras Rimkevičius,90,FALSE,FALSE
 2010-06-20,Italy,New Zealand,New Zealand,Shane Smeltz,7,FALSE,FALSE
 2010-06-20,Italy,New Zealand,Italy,Vincenzo Iaquinta,29,FALSE,TRUE
 2010-06-20,Slovakia,Paraguay,Paraguay,Enrique Vera,27,FALSE,FALSE
@@ -30843,6 +31037,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2012-02-29,United Arab Emirates,Lebanon,United Arab Emirates,Basheer Saeed,78,FALSE,FALSE
 2012-06-01,Egypt,Mozambique,Egypt,Mahmoud Fathalla,55,FALSE,FALSE
 2012-06-01,Egypt,Mozambique,Egypt,Mohamed Zidan,62,FALSE,FALSE
+2012-06-01,Estonia,Finland,Finland,Njazi Kuqi,10,FALSE,FALSE
+2012-06-01,Estonia,Finland,Finland,Njazi Kuqi,22,FALSE,FALSE
+2012-06-01,Estonia,Finland,Estonia,Andres Oper,33,FALSE,FALSE
 2012-06-01,Ghana,Lesotho,Ghana,Sulley Muntari,15,FALSE,FALSE
 2012-06-01,Ghana,Lesotho,Ghana,Dominic Adiyiah,24,FALSE,FALSE
 2012-06-01,Ghana,Lesotho,Ghana,Jordan Ayew,45,FALSE,FALSE
@@ -30850,6 +31047,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2012-06-01,Ghana,Lesotho,Ghana,Christian Atsu Twasam,86,FALSE,FALSE
 2012-06-01,Ghana,Lesotho,Ghana,Jordan Ayew,89,FALSE,FALSE
 2012-06-01,Ghana,Lesotho,Ghana,Jerry Akaminko,90,FALSE,FALSE
+2012-06-01,Latvia,Lithuania,Latvia,Aleksandrs Cauņa,12,FALSE,TRUE
+2012-06-01,Latvia,Lithuania,Latvia,Edgars Gauračs,17,FALSE,FALSE
+2012-06-01,Latvia,Lithuania,Latvia,Aleksejs Višņakovs,35,FALSE,FALSE
+2012-06-01,Latvia,Lithuania,Latvia,Edgars Gauračs,48,FALSE,FALSE
+2012-06-01,Latvia,Lithuania,Latvia,Vitālijs Smirnovs,80,FALSE,FALSE
 2012-06-01,Samoa,Tahiti,Tahiti,Lorenzo Tehau,8,FALSE,FALSE
 2012-06-01,Samoa,Tahiti,Tahiti,Jonathan Tehau,16,FALSE,FALSE
 2012-06-01,Samoa,Tahiti,Tahiti,Alvin Tehau,18,FALSE,FALSE
@@ -30903,6 +31105,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2012-06-03,Angola,Uganda,Angola,Djalma Campos,7,FALSE,FALSE
 2012-06-03,Angola,Uganda,Uganda,Emmanuel Okwi,88,FALSE,FALSE
 2012-06-03,Benin,Mali,Benin,Razak Omotoyossi,18,FALSE,FALSE
+2012-06-03,Estonia,Lithuania,Estonia,Vladimir Voskoboinikov,18,FALSE,FALSE
+2012-06-03,Finland,Latvia,Finland,Toni Kolehmainen,52,FALSE,FALSE
+2012-06-03,Finland,Latvia,Latvia,Edgars Gauračs,54,FALSE,FALSE
 2012-06-03,Japan,Oman,Japan,Keisuke Honda,11,FALSE,FALSE
 2012-06-03,Japan,Oman,Japan,Ryoichi Maeda,51,FALSE,FALSE
 2012-06-03,Japan,Oman,Japan,Shinji Okazaki,54,FALSE,FALSE
@@ -32704,6 +32909,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2013-11-20,New Zealand,Mexico,New Zealand,Chris James,80,FALSE,TRUE
 2013-11-20,New Zealand,Mexico,New Zealand,Rory Fallon,83,FALSE,FALSE
 2013-11-20,New Zealand,Mexico,Mexico,Carlos Peña,87,FALSE,FALSE
+2014-05-29,Lithuania,Finland,Lithuania,Arvydas Novikovas,42,FALSE,FALSE
+2014-05-31,Finland,Estonia,Finland,Perparim Hetemaj,49,FALSE,FALSE
+2014-05-31,Finland,Estonia,Finland,Valtteri Moren,88,FALSE,FALSE
+2014-05-31,Latvia,Lithuania,Latvia,Nauris Bulvitis,6,FALSE,FALSE
 2014-06-12,Brazil,Croatia,Croatia,Marcelo,12,TRUE,FALSE
 2014-06-12,Brazil,Croatia,Brazil,Neymar,29,FALSE,FALSE
 2014-06-12,Brazil,Croatia,Brazil,Neymar,71,FALSE,TRUE
@@ -34826,6 +35035,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2016-05-28,New Zealand,Fiji,Fiji,Roy Krishna,45,FALSE,TRUE
 2016-05-28,New Zealand,Fiji,New Zealand,Chris Wood,61,FALSE,TRUE
 2016-05-28,Vanuatu,Solomon Islands,Solomon Islands,Jerry Donga,19,FALSE,FALSE
+2016-05-29,Lithuania,Estonia,Lithuania,Nerijus Valskis,30,FALSE,FALSE
+2016-05-29,Lithuania,Estonia,Lithuania,Fiodor Černych,45,FALSE,FALSE
 2016-05-29,Papua New Guinea,New Caledonia,Papua New Guinea,Tommy Semmy,41,FALSE,FALSE
 2016-05-29,Papua New Guinea,New Caledonia,New Caledonia,Jean-Philippe Saïko,83,FALSE,FALSE
 2016-05-29,Tahiti,Samoa,Tahiti,Teaonui Tehau,2,FALSE,FALSE
@@ -34838,6 +35049,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2016-05-31,Vanuatu,New Zealand,New Zealand,Michael McGlinchey,10,FALSE,FALSE
 2016-05-31,Vanuatu,New Zealand,New Zealand,Rory Fallon,19,FALSE,FALSE
 2016-05-31,Vanuatu,New Zealand,New Zealand,Kosta Barbarouses,45,FALSE,FALSE
+2016-06-01,Latvia,Lithuania,Latvia,Artūrs Zjuzins,51,FALSE,FALSE
+2016-06-01,Latvia,Lithuania,Latvia,Artjoms Rudņevs,72,FALSE,FALSE
+2016-06-01,Latvia,Lithuania,Lithuania,Fiodor Černych,84,FALSE,FALSE
 2016-06-01,New Caledonia,Samoa,New Caledonia,Roy Kayara,18,FALSE,FALSE
 2016-06-01,New Caledonia,Samoa,New Caledonia,Kevin Nemia,28,FALSE,FALSE
 2016-06-01,New Caledonia,Samoa,New Caledonia,Roy Kayara,30,FALSE,FALSE
@@ -36631,6 +36845,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2017-11-15,Australia,Honduras,Honduras,Alberth Elis,90,FALSE,FALSE
 2017-11-15,Peru,New Zealand,Peru,Jefferson Farfán,28,FALSE,FALSE
 2017-11-15,Peru,New Zealand,Peru,Christian Ramos,65,FALSE,FALSE
+2018-05-30,Estonia,Lithuania,Estonia,Henrik Ojamaa,23,FALSE,FALSE
+2018-05-30,Estonia,Lithuania,Estonia,Mattias Käit,42,FALSE,FALSE
+2018-06-02,Latvia,Estonia,Latvia,Jānis Ikaunieks,70,FALSE,FALSE
+2018-06-05,Lithuania,Latvia,Latvia,Kaspars Dubra,46,FALSE,FALSE
+2018-06-05,Lithuania,Latvia,Lithuania,Karolis Laukžemis,86,FALSE,FALSE
 2018-06-14,Russia,Saudi Arabia,Russia,Yury Gazinsky,12,FALSE,FALSE
 2018-06-14,Russia,Saudi Arabia,Russia,Denis Cheryshev,43,FALSE,FALSE
 2018-06-14,Russia,Saudi Arabia,Russia,Artem Dzyuba,71,FALSE,FALSE
@@ -38830,6 +39049,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-05-30,China PR,Guam,China PR,Elkeson,65,FALSE,FALSE
 2021-05-30,China PR,Guam,China PR,Alan Carvalho,83,FALSE,FALSE
 2021-05-30,China PR,Guam,China PR,Alan Carvalho,87,FALSE,FALSE
+2021-06-01,Lithuania,Estonia,Estonia,Henri Anier,59,FALSE,FALSE
 2021-06-02,Cayman Islands,Aruba,Cayman Islands,Jonah Ebanks,30,FALSE,TRUE
 2021-06-02,Cayman Islands,Aruba,Aruba,Joshua John,40,FALSE,FALSE
 2021-06-02,Cayman Islands,Aruba,Aruba,Terence Groothusen,45,FALSE,FALSE
@@ -38909,6 +39129,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-06-04,Guatemala,Saint Vincent and the Grenadines,Guatemala,Marvin Ceballos,79,FALSE,TRUE
 2021-06-04,Guatemala,Saint Vincent and the Grenadines,Guatemala,Jorge Estuardo Vargas,85,FALSE,FALSE
 2021-06-04,Guatemala,Saint Vincent and the Grenadines,Guatemala,John Méndez,89,FALSE,FALSE
+2021-06-04,Latvia,Lithuania,Latvia,Markas Beneta,37,TRUE,FALSE
+2021-06-04,Latvia,Lithuania,Lithuania,Paulius Golubickas,67,FALSE,FALSE
+2021-06-04,Latvia,Lithuania,Latvia,Eduards Emsis,69,FALSE,FALSE
+2021-06-04,Latvia,Lithuania,Latvia,Roberts Uldriķis,85,FALSE,FALSE
 2021-06-04,Maldives,Syria,Syria,Mahmoud Al-Mawas,29,FALSE,FALSE
 2021-06-04,Maldives,Syria,Syria,Aias Aosman,33,FALSE,TRUE
 2021-06-04,Maldives,Syria,Syria,Mahmoud Al-Mawas,45,FALSE,TRUE
@@ -39071,6 +39295,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-06-09,Turkmenistan,Lebanon,Lebanon,Soony Saad,75,FALSE,FALSE
 2021-06-09,Turkmenistan,Lebanon,Turkmenistan,Güýçmyrat Annagulyýew,85,FALSE,FALSE
 2021-06-09,Turkmenistan,Lebanon,Turkmenistan,Altymyrat Annadurdyýew,90,FALSE,FALSE
+2021-06-10,Estonia,Latvia,Estonia,Mattias Käit,5,FALSE,FALSE
+2021-06-10,Estonia,Latvia,Estonia,Mattias Käit,40,FALSE,FALSE
+2021-06-10,Estonia,Latvia,Latvia,Dāvis Ikaunieks,84,FALSE,TRUE
 2021-06-11,Afghanistan,Oman,Oman,Abdullah Fawaz,13,FALSE,FALSE
 2021-06-11,Afghanistan,Oman,Afghanistan,Omid Popalzay,23,FALSE,FALSE
 2021-06-11,Afghanistan,Oman,Oman,Abdullah Fawaz,51,FALSE,FALSE
@@ -40837,6 +41064,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2022-06-07,United Arab Emirates,Australia,United Arab Emirates,Caio Canedo,57,FALSE,FALSE
 2022-06-07,United Arab Emirates,Australia,Australia,Ajdin Hrustic,84,FALSE,FALSE
 2022-06-14,Costa Rica,New Zealand,Costa Rica,Joel Campbell,3,FALSE,FALSE
+2022-11-16,Latvia,Estonia,Estonia,Sergei Zenjov,2,FALSE,FALSE
+2022-11-16,Latvia,Estonia,Latvia,Raimonds Krollis,45,FALSE,FALSE
+2022-11-19,Estonia,Lithuania,Estonia,Sergei Zenjov,65,FALSE,FALSE
+2022-11-19,Estonia,Lithuania,Estonia,Rasmus Peetson,89,FALSE,FALSE
+2022-11-19,Latvia,Iceland,Iceland,Ísak Bergmann Jóhannesson,62,FALSE,TRUE
+2022-11-19,Latvia,Iceland,Latvia,Andrejs Cigaņiks,67,FALSE,FALSE
 2022-11-20,Qatar,Ecuador,Ecuador,Enner Valencia,16,FALSE,TRUE
 2022-11-20,Qatar,Ecuador,Ecuador,Enner Valencia,31,FALSE,FALSE
 2022-11-21,England,Iran,England,Jude Bellingham,35,FALSE,FALSE
@@ -41775,3 +42008,5 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-11-21,Romania,Switzerland,Romania,Denis Alibec,50,FALSE,FALSE
 2023-11-21,Wales,Turkey,Wales,Neco Williams,7,FALSE,FALSE
 2023-11-21,Wales,Turkey,Turkey,Yusuf Yazıcı,70,FALSE,TRUE
+NA,Latvia,Lithuania,Latvia,Mihails Zemļinskis,34,FALSE,TRUE
+NA,Latvia,Lithuania,Latvia,Vitālijs Astafjevs,75,FALSE,FALSE
