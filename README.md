@@ -4,7 +4,7 @@ Well, what happened was that I was looking for a semi-definite easy-to-read list
 
 ### Content
 
-This dataset includes **45,286** results of international football matches starting from the very first official match in 1872 up to 2023. The matches range from FIFA World Cup to FIFI Wild Cup to regular friendly matches. The matches are strictly men's full internationals and the data does not include Olympic Games or matches where at least one of the teams was the nation's B-team, U-23 or a league select team.
+This dataset includes **45,315** results of international football matches starting from the very first official match in 1872 up to 2023. The matches range from FIFA World Cup to FIFI Wild Cup to regular friendly matches. The matches are strictly men's full internationals and the data does not include Olympic Games or matches where at least one of the teams was the nation's B-team, U-23 or a league select team.
 
 `results.csv` includes the following columns:
 

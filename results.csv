@@ -44757,8 +44757,37 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-07-08,Mexico,Costa Rica,2,0,Gold Cup,Arlington,United States,TRUE
 2023-07-09,Guatemala,Jamaica,0,1,Gold Cup,Cincinnati,United States,TRUE
 2023-07-09,United States,Canada,2,2,Gold Cup,Cincinnati,United States,FALSE
+2023-07-09,Åland,Isle of Wight,0,2,Island Games,Saint Sampson,Guernsey,TRUE
+2023-07-09,Guernsey,Western Isles,1,0,Island Games,Saint Sampson,Guernsey,FALSE
+2023-07-09,Isle of Man,Falkland Islands,3,0,Island Games,Saint Martin,Guernsey,TRUE
+2023-07-09,Ynys Môn,Shetland,2,0,Island Games,Saint Sampson,Guernsey,TRUE
+2023-07-09,Orkney,Greenland,2,2,Island Games,Saint Martin,Guernsey,TRUE
+2023-07-09,Jersey,Gozo,1,0,Island Games,Saint Sampson,Guernsey,TRUE
+2023-07-09,Menorca,Saint Helena,5,0,Island Games,Saint Sampson,Guernsey,TRUE
+2023-07-10,Western Isles,Isle of Wight,0,1,Island Games,Saint Martin,Guernsey,TRUE
+2023-07-10,Guernsey,Åland,4,1,Island Games,Saint Sampson,Guernsey,FALSE
+2023-07-10,Falkland Islands,Ynys Môn,1,5,Island Games,Saint Sampson,Guernsey,TRUE
+2023-07-10,Shetland,Isle of Man,3,2,Island Games,Saint Sampson,Guernsey,TRUE
+2023-07-10,Greenland,Frøya,2,0,Island Games,Saint Sampson,Guernsey,TRUE
+2023-07-10,Gozo,Saint Helena,3,0,Island Games,Saint Sampson,Guernsey,TRUE
+2023-07-10,Jersey,Menorca,4,0,Island Games,Saint Sampson,Guernsey,TRUE
+2023-07-11,Guernsey,Isle of Wight,1,2,Island Games,Saint Sampson,Guernsey,FALSE
+2023-07-11,Åland,Western Isles,0,2,Island Games,Saint Sampson,Guernsey,TRUE
+2023-07-11,Falkland Islands,Shetland,1,4,Island Games,Saint Sampson,Guernsey,TRUE
+2023-07-11,Isle of Man,Ynys Môn,1,2,Island Games,Saint Martin,Guernsey,TRUE
+2023-07-11,Frøya,Orkney,2,3,Island Games,Saint Peter Port,Guernsey,TRUE
+2023-07-11,Menorca,Gozo,0,1,Island Games,Saint Martin,Guernsey,TRUE
+2023-07-11,Saint Helena,Jersey,0,5,Island Games,Saint Sampson,Guernsey,TRUE
 2023-07-12,United States,Panama,1,1,Gold Cup,San Diego,United States,FALSE
 2023-07-12,Jamaica,Mexico,0,3,Gold Cup,Paradise,United States,TRUE
+2023-07-13,Frøya,Saint Helena,4,2,Island Games,Saint Martin,Guernsey,TRUE
+2023-07-13,Åland,Falkland Islands,1,1,Island Games,Saint Sampson,Guernsey,TRUE
+2023-07-13,Western Isles,Menorca,2,1,Island Games,Saint Sampson,Guernsey,TRUE
+2023-07-13,Orkney,Isle of Man,0,1,Island Games,Saint Sampson,Guernsey,TRUE
+2023-07-13,Shetland,Greenland,5,1,Island Games,Saint Sampson,Guernsey,TRUE
+2023-07-13,Guernsey,Gozo,1,0,Island Games,Saint Martin,Guernsey,FALSE
+2023-07-13,Isle of Wight,Jersey,2,3,Island Games,Saint Sampson,Guernsey,TRUE
+2023-07-14,Ynys Môn,Jersey,2,5,Island Games,Saint Peter Port,Guernsey,TRUE
 2023-07-16,Kernow,Sápmi,2,1,CONIFA World Football Cup qualification,Falmouth,England,FALSE
 2023-07-16,Mexico,Panama,1,0,Gold Cup,Inglewood,United States,TRUE
 2023-08-02,Ethiopia,Guyana,2,0,Friendly,Leesburg,United States,TRUE
