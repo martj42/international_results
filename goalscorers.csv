@@ -8291,6 +8291,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1980-09-22,Bangladesh,Iran,Iran,Behtash Fariba,80,FALSE,FALSE
 1980-09-22,Bangladesh,Iran,Iran,Behtash Fariba,82,FALSE,FALSE
 1980-09-22,Bangladesh,Iran,Iran,Abdolreza Barzegari,87,FALSE,FALSE
+1980-09-23,Malaysia,Qatar,Malaysia,Tukamin Bahari,NA,NA,NA
+1980-09-23,Malaysia,Qatar,Qatar,NA,NA,NA,NA
 1980-09-23,Malaysia,Qatar,Malaysia,Tukamin Bahari,NA,FALSE,FALSE
 1980-09-23,Malaysia,Qatar,Qatar,NA,NA,FALSE,FALSE
 1980-09-23,Syria,China PR,Syria,Jamal Keshek,86,FALSE,FALSE
@@ -41007,17 +41009,34 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2022-12-18,Argentina,France,France,Kylian Mbappé,81,FALSE,FALSE
 2022-12-18,Argentina,France,Argentina,Lionel Messi,109,FALSE,FALSE
 2022-12-18,Argentina,France,France,Kylian Mbappé,118,FALSE,TRUE
+2023-03-23,Bosnia and Herzegovina,Iceland,Bosnia and Herzegovina,Rade Krunić,14,FALSE,FALSE
+2023-03-23,Bosnia and Herzegovina,Iceland,Bosnia and Herzegovina,Rade Krunić,40,FALSE,FALSE
+2023-03-23,Bosnia and Herzegovina,Iceland,Bosnia and Herzegovina,Amar Dedić,63,FALSE,FALSE
+2023-03-23,Denmark,Finland,Denmark,Rasmus Højlund,21,FALSE,FALSE
+2023-03-23,Denmark,Finland,Finland,Oliver Antman,53,FALSE,FALSE
+2023-03-23,Denmark,Finland,Denmark,Rasmus Højlund,82,FALSE,FALSE
+2023-03-23,Denmark,Finland,Denmark,Rasmus Højlund,90,FALSE,FALSE
 2023-03-23,Italy,England,England,Declan Rice,13,FALSE,FALSE
 2023-03-23,Italy,England,England,Harry Kane,44,FALSE,TRUE
 2023-03-23,Italy,England,Italy,Mateo Retegui,56,FALSE,FALSE
+2023-03-23,Kazakhstan,Slovenia,Kazakhstan,Maksim Samorodov,23,FALSE,FALSE
+2023-03-23,Kazakhstan,Slovenia,Slovenia,David Brekalo,47,FALSE,FALSE
+2023-03-23,Kazakhstan,Slovenia,Slovenia,Žan Vipotnik,78,FALSE,FALSE
 2023-03-23,North Macedonia,Malta,North Macedonia,Elif Elmas,66,FALSE,FALSE
 2023-03-23,North Macedonia,Malta,North Macedonia,Darko Churlinov,72,FALSE,FALSE
 2023-03-23,North Macedonia,Malta,Malta,Yannick Yankam,85,FALSE,FALSE
+2023-03-23,Portugal,Liechtenstein,Portugal,João Cancelo,8,FALSE,FALSE
+2023-03-23,Portugal,Liechtenstein,Portugal,Bernardo Silva,47,FALSE,FALSE
+2023-03-23,Portugal,Liechtenstein,Portugal,Cristiano Ronaldo,51,FALSE,TRUE
+2023-03-23,Portugal,Liechtenstein,Portugal,Cristiano Ronaldo,63,FALSE,FALSE
+2023-03-23,San Marino,Northern Ireland,Northern Ireland,Dion Charles,24,FALSE,FALSE
+2023-03-23,San Marino,Northern Ireland,Northern Ireland,Dion Charles,55,FALSE,FALSE
 2023-03-24,Austria,Azerbaijan,Austria,Marcel Sabitzer,27,FALSE,FALSE
 2023-03-24,Austria,Azerbaijan,Austria,Michael Gregoritsch,29,FALSE,FALSE
 2023-03-24,Austria,Azerbaijan,Austria,Marcel Sabitzer,50,FALSE,FALSE
 2023-03-24,Austria,Azerbaijan,Azerbaijan,Emin Mahmudov,64,FALSE,FALSE
 2023-03-24,Austria,Azerbaijan,Austria,Christoph Baumgartner,69,FALSE,FALSE
+2023-03-24,Bulgaria,Montenegro,Montenegro,Nikola Krstović,70,FALSE,FALSE
 2023-03-24,Czech Republic,Poland,Czech Republic,Ladislav Krejčí,1,FALSE,FALSE
 2023-03-24,Czech Republic,Poland,Czech Republic,Tomáš Čvančara,3,FALSE,FALSE
 2023-03-24,Czech Republic,Poland,Czech Republic,Jan Kuchta,64,FALSE,FALSE
@@ -41031,14 +41050,25 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-03-24,Gibraltar,Greece,Greece,Anastasios Bakasetas,58,FALSE,FALSE
 2023-03-24,Moldova,Faroe Islands,Faroe Islands,Mads Boe Mikkelsen,27,FALSE,FALSE
 2023-03-24,Moldova,Faroe Islands,Moldova,Ion Nicolaescu,87,FALSE,TRUE
+2023-03-24,Serbia,Lithuania,Serbia,Dušan Tadić,16,FALSE,FALSE
+2023-03-24,Serbia,Lithuania,Serbia,Dušan Vlahović,53,FALSE,FALSE
 2023-03-24,Sweden,Belgium,Belgium,Romelu Lukaku,35,FALSE,FALSE
 2023-03-24,Sweden,Belgium,Belgium,Romelu Lukaku,49,FALSE,FALSE
 2023-03-24,Sweden,Belgium,Belgium,Romelu Lukaku,83,FALSE,FALSE
+2023-03-25,Andorra,Romania,Romania,Dennis Man,35,FALSE,FALSE
+2023-03-25,Andorra,Romania,Romania,Denis Alibec,49,FALSE,FALSE
 2023-03-25,Armenia,Turkey,Armenia,Ozan Kabak,10,TRUE,FALSE
 2023-03-25,Armenia,Turkey,Turkey,Orkun Kökçü,34,FALSE,FALSE
 2023-03-25,Armenia,Turkey,Turkey,Kerem Aktürkoğlu,64,FALSE,FALSE
+2023-03-25,Belarus,Switzerland,Switzerland,Renato Steffen,4,FALSE,FALSE
+2023-03-25,Belarus,Switzerland,Switzerland,Renato Steffen,17,FALSE,FALSE
+2023-03-25,Belarus,Switzerland,Switzerland,Renato Steffen,29,FALSE,FALSE
+2023-03-25,Belarus,Switzerland,Switzerland,Granit Xhaka,62,FALSE,FALSE
+2023-03-25,Belarus,Switzerland,Switzerland,Zeki Amdouni,65,FALSE,FALSE
 2023-03-25,Croatia,Wales,Croatia,Andrej Kramarić,28,FALSE,FALSE
 2023-03-25,Croatia,Wales,Wales,Nathan Broadhead,90,FALSE,FALSE
+2023-03-25,Israel,Kosovo,Kosovo,Eli Dasa,36,TRUE,FALSE
+2023-03-25,Israel,Kosovo,Israel,Dor Peretz,56,FALSE,FALSE
 2023-03-25,Scotland,Cyprus,Scotland,John McGinn,21,FALSE,FALSE
 2023-03-25,Scotland,Cyprus,Scotland,Scott McTominay,87,FALSE,FALSE
 2023-03-25,Scotland,Cyprus,Scotland,Scott McTominay,90,FALSE,FALSE
@@ -41047,11 +41077,39 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-03-25,Spain,Norway,Spain,Joselu,85,FALSE,FALSE
 2023-03-26,England,Ukraine,England,Harry Kane,37,FALSE,FALSE
 2023-03-26,England,Ukraine,England,Bukayo Saka,40,FALSE,FALSE
+2023-03-26,Kazakhstan,Denmark,Denmark,Rasmus Højlund,21,FALSE,FALSE
+2023-03-26,Kazakhstan,Denmark,Denmark,Rasmus Højlund,35,FALSE,FALSE
+2023-03-26,Kazakhstan,Denmark,Kazakhstan,Bakhtiyar Zaynutdinov,73,FALSE,TRUE
+2023-03-26,Kazakhstan,Denmark,Kazakhstan,Askhat Tagybergen,86,FALSE,FALSE
+2023-03-26,Kazakhstan,Denmark,Kazakhstan,Abat Aymbetov,89,FALSE,FALSE
+2023-03-26,Liechtenstein,Iceland,Iceland,Davíð Kristján Ólafsson,3,FALSE,FALSE
+2023-03-26,Liechtenstein,Iceland,Iceland,Hákon Arnar Haraldsson,38,FALSE,FALSE
+2023-03-26,Liechtenstein,Iceland,Iceland,Aron Gunnarsson,48,FALSE,FALSE
+2023-03-26,Liechtenstein,Iceland,Iceland,Aron Gunnarsson,68,FALSE,FALSE
+2023-03-26,Liechtenstein,Iceland,Iceland,Aron Gunnarsson,73,FALSE,TRUE
+2023-03-26,Liechtenstein,Iceland,Iceland,Andri Guðjohnsen,85,FALSE,FALSE
+2023-03-26,Liechtenstein,Iceland,Iceland,Mikael Egill Ellertsson,87,FALSE,FALSE
+2023-03-26,Luxembourg,Portugal,Portugal,Cristiano Ronaldo,9,FALSE,FALSE
+2023-03-26,Luxembourg,Portugal,Portugal,João Félix,15,FALSE,FALSE
+2023-03-26,Luxembourg,Portugal,Portugal,Bernardo Silva,18,FALSE,FALSE
+2023-03-26,Luxembourg,Portugal,Portugal,Cristiano Ronaldo,31,FALSE,FALSE
+2023-03-26,Luxembourg,Portugal,Portugal,Otávio,77,FALSE,FALSE
+2023-03-26,Luxembourg,Portugal,Portugal,Rafael Leão,88,FALSE,FALSE
 2023-03-26,Malta,Italy,Italy,Mateo Retegui,15,FALSE,FALSE
 2023-03-26,Malta,Italy,Italy,Matteo Pessina,27,FALSE,FALSE
+2023-03-26,Northern Ireland,Finland,Finland,Benjamin Källman,28,FALSE,FALSE
+2023-03-26,Slovakia,Bosnia and Herzegovina,Slovakia,Róbert Mak,13,FALSE,FALSE
+2023-03-26,Slovakia,Bosnia and Herzegovina,Slovakia,Lukáš Haraslín,40,FALSE,FALSE
+2023-03-26,Slovenia,San Marino,Slovenia,Benjamin Šeško,56,FALSE,FALSE
+2023-03-26,Slovenia,San Marino,Slovenia,Roberto Di Maio,60,TRUE,FALSE
 2023-03-27,Austria,Estonia,Estonia,Rauno Sappinen,25,FALSE,FALSE
 2023-03-27,Austria,Estonia,Austria,Florian Kainz,68,FALSE,FALSE
 2023-03-27,Austria,Estonia,Austria,Michael Gregoritsch,88,FALSE,FALSE
+2023-03-27,Hungary,Bulgaria,Hungary,Bálint Vécsei,7,FALSE,FALSE
+2023-03-27,Hungary,Bulgaria,Hungary,Dominik Szoboszlai,26,FALSE,FALSE
+2023-03-27,Hungary,Bulgaria,Hungary,Martin Ádám,39,FALSE,FALSE
+2023-03-27,Montenegro,Serbia,Serbia,Dušan Vlahović,78,FALSE,FALSE
+2023-03-27,Montenegro,Serbia,Serbia,Dušan Vlahović,90,FALSE,FALSE
 2023-03-27,Netherlands,Gibraltar,Netherlands,Memphis Depay,23,FALSE,FALSE
 2023-03-27,Netherlands,Gibraltar,Netherlands,Nathan Aké,50,FALSE,FALSE
 2023-03-27,Netherlands,Gibraltar,Netherlands,Nathan Aké,82,FALSE,FALSE
@@ -41064,11 +41122,28 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-03-27,Sweden,Azerbaijan,Sweden,Anthony Elanga,89,FALSE,FALSE
 2023-03-28,Georgia,Norway,Norway,Alexander Sørloth,15,FALSE,FALSE
 2023-03-28,Georgia,Norway,Georgia,Georges Mikautadze,60,FALSE,FALSE
+2023-03-28,Kosovo,Andorra,Kosovo,Edon Zhegrova,59,FALSE,FALSE
+2023-03-28,Kosovo,Andorra,Andorra,Albert Rosas,61,FALSE,FALSE
+2023-03-28,Romania,Belarus,Romania,Nicolae Stanciu,17,FALSE,FALSE
+2023-03-28,Romania,Belarus,Romania,Andrei Burcă,19,FALSE,FALSE
+2023-03-28,Romania,Belarus,Belarus,Vladislav Morozov,86,FALSE,FALSE
 2023-03-28,Scotland,Spain,Scotland,Scott McTominay,7,FALSE,FALSE
 2023-03-28,Scotland,Spain,Scotland,Scott McTominay,51,FALSE,FALSE
+2023-03-28,Switzerland,Israel,Switzerland,Ruben Vargas,39,FALSE,FALSE
+2023-03-28,Switzerland,Israel,Switzerland,Zeki Amdouni,47,FALSE,FALSE
+2023-03-28,Switzerland,Israel,Switzerland,Silvan Widmer,52,FALSE,FALSE
 2023-03-28,Turkey,Croatia,Croatia,Mateo Kovačić,20,FALSE,FALSE
 2023-03-28,Turkey,Croatia,Croatia,Mateo Kovačić,45,FALSE,FALSE
 2023-03-28,Wales,Latvia,Wales,Kieffer Moore,41,FALSE,FALSE
+2023-06-16,Andorra,Switzerland,Switzerland,Remo Freuler,7,FALSE,FALSE
+2023-06-16,Andorra,Switzerland,Switzerland,Zeki Amdouni,32,FALSE,FALSE
+2023-06-16,Andorra,Switzerland,Andorra,Márcio Vieira,67,FALSE,FALSE
+2023-06-16,Belarus,Israel,Belarus,Max Ebong,16,FALSE,FALSE
+2023-06-16,Belarus,Israel,Israel,Shon Weissman,85,FALSE,TRUE
+2023-06-16,Belarus,Israel,Israel,Oscar Gloukh,90,FALSE,FALSE
+2023-06-16,Denmark,Northern Ireland,Denmark,Jonas Wind,47,FALSE,FALSE
+2023-06-16,Finland,Slovenia,Finland,Joel Pohjanpalo,13,FALSE,FALSE
+2023-06-16,Finland,Slovenia,Finland,Oliver Antman,64,FALSE,FALSE
 2023-06-16,Gibraltar,France,France,Olivier Giroud,3,FALSE,FALSE
 2023-06-16,Gibraltar,France,France,Kylian Mbappé,45,FALSE,TRUE
 2023-06-16,Gibraltar,France,France,Aymen Mouelhi,78,TRUE,FALSE
@@ -41089,6 +41164,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-06-16,North Macedonia,Ukraine,Ukraine,Illya Zabarnyi,62,FALSE,FALSE
 2023-06-16,North Macedonia,Ukraine,Ukraine,Yukhym Konoplya,67,FALSE,FALSE
 2023-06-16,North Macedonia,Ukraine,Ukraine,Viktor Tsyhankov,83,FALSE,FALSE
+2023-06-16,San Marino,Kazakhstan,Kazakhstan,Yan Vorogovsky,37,FALSE,FALSE
+2023-06-16,San Marino,Kazakhstan,Kazakhstan,Askhat Tagybergen,64,FALSE,TRUE
+2023-06-16,San Marino,Kazakhstan,Kazakhstan,Baktiyor Zainutdinov,90,FALSE,FALSE
 2023-06-16,Wales,Armenia,Wales,Daniel James,10,FALSE,FALSE
 2023-06-16,Wales,Armenia,Armenia,Lucas Zelarayán,19,FALSE,FALSE
 2023-06-16,Wales,Armenia,Armenia,Grant-Leon Ranos,30,FALSE,FALSE
@@ -41107,12 +41185,25 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-06-17,Faroe Islands,Czech Republic,Czech Republic,Ladislav Krejčí,15,FALSE,FALSE
 2023-06-17,Faroe Islands,Czech Republic,Czech Republic,Václav Černý,44,FALSE,FALSE
 2023-06-17,Faroe Islands,Czech Republic,Czech Republic,Václav Černý,75,FALSE,FALSE
+2023-06-17,Iceland,Slovakia,Slovakia,Juraj Kucka,27,FALSE,FALSE
+2023-06-17,Iceland,Slovakia,Iceland,Alfreð Finnbogason,41,FALSE,TRUE
+2023-06-17,Iceland,Slovakia,Slovakia,Tomáš Suslov,69,FALSE,FALSE
+2023-06-17,Lithuania,Bulgaria,Lithuania,Edvinas Girdvainis,15,FALSE,FALSE
+2023-06-17,Lithuania,Bulgaria,Bulgaria,Marin Petkov,27,FALSE,FALSE
+2023-06-17,Luxembourg,Liechtenstein,Luxembourg,Danel Sinani,59,FALSE,FALSE
+2023-06-17,Luxembourg,Liechtenstein,Luxembourg,Gerson Rodrigues,89,FALSE,FALSE
 2023-06-17,Norway,Scotland,Norway,Erling Haaland,61,FALSE,TRUE
 2023-06-17,Norway,Scotland,Scotland,Lyndon Dykes,87,FALSE,FALSE
 2023-06-17,Norway,Scotland,Scotland,Kenny McLean,89,FALSE,FALSE
+2023-06-17,Portugal,Bosnia and Herzegovina,Portugal,Bernardo Silva,44,FALSE,FALSE
+2023-06-17,Portugal,Bosnia and Herzegovina,Portugal,Bruno Fernandes,77,FALSE,FALSE
+2023-06-17,Portugal,Bosnia and Herzegovina,Portugal,Bruno Fernandes,90,FALSE,FALSE
 2023-06-19,Armenia,Latvia,Armenia,Nair Tiknizyan,35,FALSE,FALSE
 2023-06-19,Armenia,Latvia,Latvia,Styopa Mkrtchyan,67,TRUE,FALSE
 2023-06-19,Armenia,Latvia,Armenia,Tigran Barseghyan,90,FALSE,TRUE
+2023-06-19,Belarus,Kosovo,Belarus,Vladislav Morozov,73,FALSE,FALSE
+2023-06-19,Belarus,Kosovo,Belarus,Max Ebong,75,FALSE,FALSE
+2023-06-19,Belarus,Kosovo,Kosovo,Vedat Muriqi,87,FALSE,TRUE
 2023-06-19,England,North Macedonia,England,Harry Kane,29,FALSE,FALSE
 2023-06-19,England,North Macedonia,England,Bukayo Saka,38,FALSE,FALSE
 2023-06-19,England,North Macedonia,England,Marcus Rashford,45,FALSE,FALSE
@@ -41120,15 +41211,35 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-06-19,England,North Macedonia,England,Bukayo Saka,51,FALSE,FALSE
 2023-06-19,England,North Macedonia,England,Kalvin Phillips,64,FALSE,FALSE
 2023-06-19,England,North Macedonia,England,Harry Kane,73,FALSE,TRUE
+2023-06-19,Finland,San Marino,Finland,Glen Kamara,16,FALSE,FALSE
+2023-06-19,Finland,San Marino,Finland,Benjamin Källman,39,FALSE,FALSE
+2023-06-19,Finland,San Marino,Finland,Daniel Håkans,65,FALSE,FALSE
+2023-06-19,Finland,San Marino,Finland,Daniel Håkans,72,FALSE,FALSE
+2023-06-19,Finland,San Marino,Finland,Daniel Håkans,74,FALSE,FALSE
+2023-06-19,Finland,San Marino,Finland,Teemu Pukki,76,FALSE,FALSE
 2023-06-19,France,Greece,France,Kylian Mbappé,55,FALSE,TRUE
+2023-06-19,Israel,Andorra,Israel,Raz Shlomo,42,FALSE,FALSE
+2023-06-19,Israel,Andorra,Andorra,Albert Rosas,52,FALSE,FALSE
+2023-06-19,Israel,Andorra,Israel,Manor Solomon,61,FALSE,FALSE
+2023-06-19,Northern Ireland,Kazakhstan,Kazakhstan,Abat Aymbetov,88,FALSE,FALSE
 2023-06-19,Republic of Ireland,Gibraltar,Republic of Ireland,Mikey Johnston,52,FALSE,FALSE
 2023-06-19,Republic of Ireland,Gibraltar,Republic of Ireland,Evan Ferguson,59,FALSE,FALSE
 2023-06-19,Republic of Ireland,Gibraltar,Republic of Ireland,Adam Idah,90,FALSE,FALSE
+2023-06-19,Slovenia,Denmark,Slovenia,Andraž Šporar,25,FALSE,FALSE
+2023-06-19,Slovenia,Denmark,Denmark,Rasmus Højlund,42,FALSE,FALSE
+2023-06-19,Switzerland,Romania,Switzerland,Zeki Amdouni,28,FALSE,FALSE
+2023-06-19,Switzerland,Romania,Switzerland,Zeki Amdouni,41,FALSE,FALSE
+2023-06-19,Switzerland,Romania,Romania,Valentin Mihăilă,89,FALSE,FALSE
+2023-06-19,Switzerland,Romania,Romania,Valentin Mihăilă,90,FALSE,FALSE
 2023-06-19,Turkey,Wales,Turkey,Umut Nayir,72,FALSE,FALSE
 2023-06-19,Turkey,Wales,Turkey,Arda Güler,80,FALSE,FALSE
 2023-06-19,Ukraine,Malta,Ukraine,Viktor Tsyhankov,72,FALSE,TRUE
 2023-06-20,Austria,Sweden,Austria,Christoph Baumgartner,81,FALSE,FALSE
 2023-06-20,Austria,Sweden,Austria,Christoph Baumgartner,89,FALSE,FALSE
+2023-06-20,Bosnia and Herzegovina,Luxembourg,Luxembourg,Yvandro Borges Sanches,4,FALSE,FALSE
+2023-06-20,Bosnia and Herzegovina,Luxembourg,Luxembourg,Danel Sinani,74,FALSE,FALSE
+2023-06-20,Bulgaria,Serbia,Bulgaria,Kiril Despodov,47,FALSE,FALSE
+2023-06-20,Bulgaria,Serbia,Serbia,Darko Lazović,90,FALSE,FALSE
 2023-06-20,Estonia,Belgium,Belgium,Romelu Lukaku,37,FALSE,FALSE
 2023-06-20,Estonia,Belgium,Belgium,Romelu Lukaku,40,FALSE,FALSE
 2023-06-20,Estonia,Belgium,Belgium,Johan Bakayoko,90,FALSE,FALSE
@@ -41136,6 +41247,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-06-20,Faroe Islands,Albania,Faroe Islands,Odmar Færø,45,FALSE,FALSE
 2023-06-20,Faroe Islands,Albania,Albania,Kristjan Asllani,51,FALSE,FALSE
 2023-06-20,Faroe Islands,Albania,Albania,Ernest Muçi,90,FALSE,FALSE
+2023-06-20,Hungary,Lithuania,Hungary,Barnabás Varga,32,FALSE,FALSE
+2023-06-20,Hungary,Lithuania,Hungary,Roland Sallai,83,FALSE,FALSE
+2023-06-20,Iceland,Portugal,Portugal,Cristiano Ronaldo,89,FALSE,FALSE
+2023-06-20,Liechtenstein,Slovakia,Slovakia,Denis Vavro,45,FALSE,FALSE
 2023-06-20,Moldova,Poland,Poland,Arkadiusz Milik,12,FALSE,FALSE
 2023-06-20,Moldova,Poland,Poland,Robert Lewandowski,34,FALSE,FALSE
 2023-06-20,Moldova,Poland,Moldova,Ion Nicolaescu,48,FALSE,FALSE
@@ -41251,15 +41366,37 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-07-12,Jamaica,Mexico,Mexico,Roberto Alvarado,90,FALSE,FALSE
 2023-07-12,United States,Panama,Panama,Iván Anderson,99,FALSE,FALSE
 2023-07-12,United States,Panama,United States,Jesús Ferreira,105,FALSE,FALSE
+2023-07-16,Mexico,Panama,Mexico,Santiago Giménez,88,FALSE,FALSE
 2023-09-07,Czech Republic,Albania,Czech Republic,Václav Černý,56,FALSE,FALSE
 2023-09-07,Czech Republic,Albania,Albania,Nedim Bajrami,66,FALSE,FALSE
+2023-09-07,Denmark,San Marino,Denmark,Pierre-Emile Højbjerg,26,FALSE,FALSE
+2023-09-07,Denmark,San Marino,Denmark,Joakim Mæhle,28,FALSE,FALSE
+2023-09-07,Denmark,San Marino,Denmark,Jonas Wind,40,FALSE,FALSE
+2023-09-07,Denmark,San Marino,Denmark,Christian Eriksen,90,FALSE,FALSE
 2023-09-07,France,Republic of Ireland,France,Aurélien Tchouaméni,19,FALSE,FALSE
 2023-09-07,France,Republic of Ireland,France,Marcus Thuram,48,FALSE,FALSE
+2023-09-07,Kazakhstan,Finland,Finland,Oliver Antman,78,FALSE,FALSE
+2023-09-07,Lithuania,Montenegro,Lithuania,Gytis Paulauskas,71,FALSE,FALSE
+2023-09-07,Lithuania,Montenegro,Montenegro,Nikola Krstović,78,FALSE,FALSE
+2023-09-07,Lithuania,Montenegro,Montenegro,Stefan Savić,89,FALSE,FALSE
+2023-09-07,Lithuania,Montenegro,Lithuania,Fedor Černych,90,FALSE,FALSE
 2023-09-07,Netherlands,Greece,Netherlands,Marten de Roon,17,FALSE,FALSE
 2023-09-07,Netherlands,Greece,Netherlands,Cody Gakpo,31,FALSE,FALSE
 2023-09-07,Netherlands,Greece,Netherlands,Wout Weghorst,39,FALSE,FALSE
 2023-09-07,Poland,Faroe Islands,Poland,Robert Lewandowski,73,FALSE,TRUE
 2023-09-07,Poland,Faroe Islands,Poland,Robert Lewandowski,83,FALSE,FALSE
+2023-09-07,Serbia,Hungary,Serbia,Attila Szalai,10,TRUE,FALSE
+2023-09-07,Serbia,Hungary,Hungary,Barnabás Varga,34,FALSE,FALSE
+2023-09-07,Serbia,Hungary,Hungary,Willi Orbán,36,FALSE,FALSE
+2023-09-07,Slovenia,Northern Ireland,Slovenia,Andraž Šporar,3,FALSE,FALSE
+2023-09-07,Slovenia,Northern Ireland,Northern Ireland,Isaac Price,7,FALSE,FALSE
+2023-09-07,Slovenia,Northern Ireland,Slovenia,Jonny Evans,17,TRUE,FALSE
+2023-09-07,Slovenia,Northern Ireland,Slovenia,Benjamin Šeško,42,FALSE,FALSE
+2023-09-07,Slovenia,Northern Ireland,Northern Ireland,Jonny Evans,53,FALSE,FALSE
+2023-09-07,Slovenia,Northern Ireland,Slovenia,Andraž Šporar,56,FALSE,FALSE
+2023-09-08,Bosnia and Herzegovina,Liechtenstein,Bosnia and Herzegovina,Edin Džeko,3,FALSE,FALSE
+2023-09-08,Bosnia and Herzegovina,Liechtenstein,Bosnia and Herzegovina,Simon Lüchinger,18,TRUE,FALSE
+2023-09-08,Bosnia and Herzegovina,Liechtenstein,Liechtenstein,Sandro Wolfinger,21,FALSE,FALSE
 2023-09-08,Croatia,Latvia,Croatia,Bruno Petković,3,FALSE,FALSE
 2023-09-08,Croatia,Latvia,Croatia,Luka Ivanušec,13,FALSE,FALSE
 2023-09-08,Croatia,Latvia,Croatia,Bruno Petković,44,FALSE,FALSE
@@ -41276,6 +41413,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-09-08,Georgia,Spain,Spain,Álvaro Morata,66,FALSE,FALSE
 2023-09-08,Georgia,Spain,Spain,Nico Williams,68,FALSE,FALSE
 2023-09-08,Georgia,Spain,Spain,Lamine Yamal,74,FALSE,FALSE
+2023-09-08,Luxembourg,Iceland,Luxembourg,Maxime Chanot,9,FALSE,TRUE
+2023-09-08,Luxembourg,Iceland,Luxembourg,Yvandro Borges Sanches,70,FALSE,FALSE
+2023-09-08,Luxembourg,Iceland,Iceland,Hákon Arnar Haraldsson,88,FALSE,FALSE
+2023-09-08,Luxembourg,Iceland,Luxembourg,Danel Sinani,89,FALSE,FALSE
+2023-09-08,Slovakia,Portugal,Portugal,Bruno Fernandes,43,FALSE,FALSE
 2023-09-08,Turkey,Armenia,Armenia,Artak Dashyan,49,FALSE,FALSE
 2023-09-08,Turkey,Armenia,Turkey,Bertuğ Yıldırım,88,FALSE,FALSE
 2023-09-09,Azerbaijan,Belgium,Belgium,Yannick Carrasco,38,FALSE,FALSE
@@ -41284,29 +41426,62 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-09-09,Estonia,Sweden,Sweden,Alexander Isak,39,FALSE,FALSE
 2023-09-09,Estonia,Sweden,Sweden,Robin Quaison,75,FALSE,FALSE
 2023-09-09,Estonia,Sweden,Sweden,Viktor Claesson,90,FALSE,FALSE
+2023-09-09,Kosovo,Switzerland,Switzerland,Remo Freuler,14,FALSE,FALSE
+2023-09-09,Kosovo,Switzerland,Kosovo,Vedat Muriqi,65,FALSE,FALSE
+2023-09-09,Kosovo,Switzerland,Switzerland,Amir Rrahmani,79,TRUE,FALSE
+2023-09-09,Kosovo,Switzerland,Kosovo,Vedat Muriqi,90,FALSE,FALSE
 2023-09-09,North Macedonia,Italy,Italy,Ciro Immobile,47,FALSE,FALSE
 2023-09-09,North Macedonia,Italy,North Macedonia,Enis Bardhi,81,FALSE,FALSE
+2023-09-09,Romania,Israel,Romania,Denis Alibec,27,FALSE,FALSE
+2023-09-09,Romania,Israel,Israel,Oscar Gloukh,53,FALSE,FALSE
 2023-09-09,Ukraine,England,Ukraine,Oleksandr Zinchenko,26,FALSE,FALSE
 2023-09-09,Ukraine,England,England,Kyle Walker,41,FALSE,FALSE
 2023-09-10,Albania,Poland,Albania,Jasir Asani,37,FALSE,FALSE
 2023-09-10,Albania,Poland,Albania,Mirlind Daku,62,FALSE,FALSE
 2023-09-10,Faroe Islands,Moldova,Moldova,Vadim Rață,53,FALSE,FALSE
+2023-09-10,Finland,Denmark,Denmark,Pierre-Emile Højbjerg,86,FALSE,FALSE
 2023-09-10,Greece,Gibraltar,Greece,Dimitrios Pelkas,9,FALSE,FALSE
 2023-09-10,Greece,Gibraltar,Greece,Konstantinos Mavropanos,23,FALSE,FALSE
 2023-09-10,Greece,Gibraltar,Greece,Giorgos Masouras,70,FALSE,FALSE
 2023-09-10,Greece,Gibraltar,Greece,Konstantinos Mavropanos,83,FALSE,FALSE
 2023-09-10,Greece,Gibraltar,Greece,Giorgos Masouras,90,FALSE,FALSE
+2023-09-10,Kazakhstan,Northern Ireland,Kazakhstan,Maksim Samorodov,27,FALSE,FALSE
+2023-09-10,Lithuania,Serbia,Serbia,Aleksandar Mitrović,21,FALSE,FALSE
+2023-09-10,Lithuania,Serbia,Serbia,Aleksandar Mitrović,32,FALSE,FALSE
+2023-09-10,Lithuania,Serbia,Serbia,Aleksandar Mitrović,43,FALSE,FALSE
+2023-09-10,Lithuania,Serbia,Lithuania,Gytis Paulauskas,45,FALSE,FALSE
+2023-09-10,Montenegro,Bulgaria,Montenegro,Stefan Savić,45,FALSE,FALSE
+2023-09-10,Montenegro,Bulgaria,Bulgaria,Preslav Borukov,79,FALSE,FALSE
+2023-09-10,Montenegro,Bulgaria,Montenegro,Stevan Jovetić,90,FALSE,FALSE
 2023-09-10,Republic of Ireland,Netherlands,Republic of Ireland,Adam Idah,5,FALSE,TRUE
 2023-09-10,Republic of Ireland,Netherlands,Netherlands,Cody Gakpo,19,FALSE,TRUE
 2023-09-10,Republic of Ireland,Netherlands,Netherlands,Wout Weghorst,56,FALSE,FALSE
+2023-09-10,San Marino,Slovenia,Slovenia,Žan Vipotnik,4,FALSE,FALSE
+2023-09-10,San Marino,Slovenia,Slovenia,Jan Mlakar,16,FALSE,FALSE
+2023-09-10,San Marino,Slovenia,Slovenia,Sandi Lovrić,61,FALSE,FALSE
+2023-09-10,San Marino,Slovenia,Slovenia,Žan Karničnik,67,FALSE,FALSE
 2023-09-11,Armenia,Croatia,Croatia,Andrej Kramarić,13,FALSE,FALSE
+2023-09-11,Iceland,Bosnia and Herzegovina,Iceland,Alfreð Finnbogason,90,FALSE,FALSE
 2023-09-11,Latvia,Wales,Wales,Aaron Ramsey,29,FALSE,TRUE
 2023-09-11,Latvia,Wales,Wales,David Brooks,90,FALSE,FALSE
+2023-09-11,Portugal,Luxembourg,Portugal,Gonçalo Inácio,12,FALSE,FALSE
+2023-09-11,Portugal,Luxembourg,Portugal,Gonçalo Ramos,18,FALSE,FALSE
+2023-09-11,Portugal,Luxembourg,Portugal,Gonçalo Ramos,34,FALSE,FALSE
+2023-09-11,Portugal,Luxembourg,Portugal,Gonçalo Inácio,45,FALSE,FALSE
+2023-09-11,Portugal,Luxembourg,Portugal,Diogo Jota,58,FALSE,FALSE
+2023-09-11,Portugal,Luxembourg,Portugal,Ricardo Horta,67,FALSE,FALSE
+2023-09-11,Portugal,Luxembourg,Portugal,Diogo Jota,78,FALSE,FALSE
+2023-09-11,Portugal,Luxembourg,Portugal,Bruno Fernandes,83,FALSE,FALSE
+2023-09-11,Portugal,Luxembourg,Portugal,João Félix,88,FALSE,FALSE
+2023-09-11,Slovakia,Liechtenstein,Slovakia,Dávid Hancko,1,FALSE,FALSE
+2023-09-11,Slovakia,Liechtenstein,Slovakia,Ondrej Duda,3,FALSE,FALSE
+2023-09-11,Slovakia,Liechtenstein,Slovakia,Róbert Mak,6,FALSE,FALSE
 2023-09-12,Belgium,Estonia,Belgium,Jan Vertonghen,4,FALSE,FALSE
 2023-09-12,Belgium,Estonia,Belgium,Leandro Trossard,18,FALSE,FALSE
 2023-09-12,Belgium,Estonia,Belgium,Romelu Lukaku,56,FALSE,FALSE
 2023-09-12,Belgium,Estonia,Belgium,Romelu Lukaku,58,FALSE,FALSE
 2023-09-12,Belgium,Estonia,Belgium,Charles De Ketelaere,88,FALSE,FALSE
+2023-09-12,Israel,Belarus,Israel,Gabi Kanichowsky,90,FALSE,FALSE
 2023-09-12,Italy,Ukraine,Italy,Davide Frattesi,12,FALSE,FALSE
 2023-09-12,Italy,Ukraine,Italy,Davide Frattesi,29,FALSE,FALSE
 2023-09-12,Italy,Ukraine,Ukraine,Andriy Yarmolenko,41,FALSE,FALSE
@@ -41315,6 +41490,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-09-12,Norway,Georgia,Norway,Erling Haaland,25,FALSE,FALSE
 2023-09-12,Norway,Georgia,Norway,Martin Ødegaard,33,FALSE,FALSE
 2023-09-12,Norway,Georgia,Georgia,Budu Zivzivadze,90,FALSE,FALSE
+2023-09-12,Romania,Kosovo,Romania,Nicolae Stanciu,83,FALSE,FALSE
+2023-09-12,Romania,Kosovo,Romania,Valentin Mihăilă,90,FALSE,FALSE
 2023-09-12,Spain,Cyprus,Spain,Gavi,18,FALSE,FALSE
 2023-09-12,Spain,Cyprus,Spain,Mikel Merino,33,FALSE,FALSE
 2023-09-12,Spain,Cyprus,Spain,Joselu,70,FALSE,FALSE
@@ -41325,9 +41502,15 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-09-12,Sweden,Austria,Austria,Marko Arnautović,56,FALSE,FALSE
 2023-09-12,Sweden,Austria,Austria,Marko Arnautović,69,FALSE,TRUE
 2023-09-12,Sweden,Austria,Sweden,Emil Holm,90,FALSE,FALSE
+2023-09-12,Switzerland,Andorra,Switzerland,Cedric Itten,49,FALSE,FALSE
+2023-09-12,Switzerland,Andorra,Switzerland,Granit Xhaka,84,FALSE,FALSE
+2023-09-12,Switzerland,Andorra,Switzerland,Xherdan Shaqiri,90,FALSE,TRUE
 2023-10-12,Albania,Czech Republic,Albania,Jasir Asani,9,FALSE,FALSE
 2023-10-12,Albania,Czech Republic,Albania,Taulant Seferi,51,FALSE,FALSE
 2023-10-12,Albania,Czech Republic,Albania,Taulant Seferi,73,FALSE,FALSE
+2023-10-12,Andorra,Kosovo,Kosovo,Milot Rashica,26,FALSE,FALSE
+2023-10-12,Andorra,Kosovo,Kosovo,Milot Rashica,71,FALSE,FALSE
+2023-10-12,Andorra,Kosovo,Kosovo,Altin Zeqiri,83,FALSE,FALSE
 2023-10-12,Croatia,Turkey,Turkey,Barış Alper Yılmaz,30,FALSE,FALSE
 2023-10-12,Cyprus,Norway,Norway,Alexander Sørloth,33,FALSE,FALSE
 2023-10-12,Cyprus,Norway,Norway,Erling Haaland,65,FALSE,FALSE
@@ -41346,15 +41529,39 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-10-13,Austria,Belgium,Austria,Marcel Sabitzer,84,FALSE,TRUE
 2023-10-13,Estonia,Azerbaijan,Azerbaijan,Toral Bayramov,9,FALSE,FALSE
 2023-10-13,Estonia,Azerbaijan,Azerbaijan,Ramil Sheydayev,45,FALSE,TRUE
+2023-10-13,Iceland,Luxembourg,Iceland,Orri Óskarsson,23,FALSE,FALSE
+2023-10-13,Iceland,Luxembourg,Luxembourg,Gerson Rodrigues,46,FALSE,FALSE
+2023-10-13,Liechtenstein,Bosnia and Herzegovina,Bosnia and Herzegovina,Amar Rahmanović,13,FALSE,FALSE
+2023-10-13,Liechtenstein,Bosnia and Herzegovina,Bosnia and Herzegovina,Miroslav Stevanović,41,FALSE,FALSE
 2023-10-13,Netherlands,France,France,Kylian Mbappé,7,FALSE,FALSE
 2023-10-13,Netherlands,France,France,Kylian Mbappé,53,FALSE,FALSE
 2023-10-13,Netherlands,France,Netherlands,Quilindschy Hartman,83,FALSE,FALSE
+2023-10-13,Portugal,Slovakia,Portugal,Gonçalo Ramos,18,FALSE,FALSE
+2023-10-13,Portugal,Slovakia,Portugal,Cristiano Ronaldo,29,FALSE,TRUE
+2023-10-13,Portugal,Slovakia,Slovakia,Dávid Hancko,69,FALSE,FALSE
+2023-10-13,Portugal,Slovakia,Portugal,Cristiano Ronaldo,72,FALSE,FALSE
+2023-10-13,Portugal,Slovakia,Slovakia,Stanislav Lobotka,80,FALSE,FALSE
 2023-10-13,Republic of Ireland,Greece,Greece,Giorgos Giakoumakis,20,FALSE,FALSE
 2023-10-13,Republic of Ireland,Greece,Greece,Georgios Masouras,45,FALSE,FALSE
+2023-10-14,Bulgaria,Lithuania,Lithuania,Pijus Širvys,45,FALSE,FALSE
+2023-10-14,Bulgaria,Lithuania,Lithuania,Pijus Širvys,55,FALSE,FALSE
+2023-10-14,Denmark,Kazakhstan,Denmark,Jonas Wind,36,FALSE,FALSE
+2023-10-14,Denmark,Kazakhstan,Denmark,Robert Skov,45,FALSE,FALSE
+2023-10-14,Denmark,Kazakhstan,Denmark,Robert Skov,48,FALSE,FALSE
+2023-10-14,Denmark,Kazakhstan,Kazakhstan,Yan Vorogovsky,58,FALSE,FALSE
+2023-10-14,Hungary,Serbia,Hungary,Barnabás Varga,20,FALSE,FALSE
+2023-10-14,Hungary,Serbia,Serbia,Strahinja Pavlović,33,FALSE,FALSE
+2023-10-14,Hungary,Serbia,Hungary,Roland Sallai,34,FALSE,FALSE
 2023-10-14,Italy,Malta,Italy,Giacomo Bonaventura,23,FALSE,FALSE
 2023-10-14,Italy,Malta,Italy,Domenico Berardi,45,FALSE,FALSE
 2023-10-14,Italy,Malta,Italy,Domenico Berardi,64,FALSE,FALSE
 2023-10-14,Italy,Malta,Italy,Davide Frattesi,90,FALSE,FALSE
+2023-10-14,Northern Ireland,San Marino,Northern Ireland,Paul Smyth,5,FALSE,FALSE
+2023-10-14,Northern Ireland,San Marino,Northern Ireland,Josh Magennis,11,FALSE,FALSE
+2023-10-14,Northern Ireland,San Marino,Northern Ireland,Conor McMenamin,81,FALSE,FALSE
+2023-10-14,Slovenia,Finland,Slovenia,Benjamin Šeško,16,FALSE,TRUE
+2023-10-14,Slovenia,Finland,Slovenia,Benjamin Šeško,28,FALSE,FALSE
+2023-10-14,Slovenia,Finland,Slovenia,Erik Janža,90,FALSE,FALSE
 2023-10-14,Ukraine,North Macedonia,Ukraine,Heorhiy Sudakov,30,FALSE,FALSE
 2023-10-14,Ukraine,North Macedonia,Ukraine,Oleksandr Karavayev,90,FALSE,FALSE
 2023-10-15,Czech Republic,Faroe Islands,Czech Republic,Tomáš Souček,76,FALSE,TRUE
@@ -41365,6 +41572,16 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-10-15,Norway,Spain,Spain,Gavi,49,FALSE,FALSE
 2023-10-15,Poland,Moldova,Moldova,Ion Nicolaescu,26,FALSE,FALSE
 2023-10-15,Poland,Moldova,Poland,Karol Świderski,53,FALSE,FALSE
+2023-10-15,Romania,Andorra,Romania,Nicolae Stanciu,23,FALSE,FALSE
+2023-10-15,Romania,Andorra,Romania,Ianis Hagi,28,FALSE,FALSE
+2023-10-15,Romania,Andorra,Romania,Răzvan Marin,44,FALSE,TRUE
+2023-10-15,Romania,Andorra,Romania,Florinel Coman,50,FALSE,FALSE
+2023-10-15,Switzerland,Belarus,Switzerland,Xherdan Shaqiri,28,FALSE,FALSE
+2023-10-15,Switzerland,Belarus,Belarus,Max Ebong,61,FALSE,FALSE
+2023-10-15,Switzerland,Belarus,Belarus,Denis Polyakov,69,FALSE,FALSE
+2023-10-15,Switzerland,Belarus,Belarus,Dmitry Antilevsky,84,FALSE,FALSE
+2023-10-15,Switzerland,Belarus,Switzerland,Manuel Akanji,89,FALSE,FALSE
+2023-10-15,Switzerland,Belarus,Switzerland,Zeki Amdouni,90,FALSE,FALSE
 2023-10-15,Turkey,Latvia,Turkey,Yunus Akgün,58,FALSE,FALSE
 2023-10-15,Turkey,Latvia,Turkey,Cenk Tosun,84,FALSE,FALSE
 2023-10-15,Turkey,Latvia,Turkey,Kerem Aktürkoğlu,88,FALSE,FALSE
@@ -41375,22 +41592,54 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-10-16,Azerbaijan,Austria,Austria,Marcel Sabitzer,48,FALSE,TRUE
 2023-10-16,Belgium,Sweden,Sweden,Viktor Gyökeres,15,FALSE,FALSE
 2023-10-16,Belgium,Sweden,Belgium,Romelu Lukaku,31,FALSE,TRUE
+2023-10-16,Bosnia and Herzegovina,Portugal,Portugal,Cristiano Ronaldo,5,FALSE,TRUE
+2023-10-16,Bosnia and Herzegovina,Portugal,Portugal,Cristiano Ronaldo,20,FALSE,FALSE
+2023-10-16,Bosnia and Herzegovina,Portugal,Portugal,Bruno Fernandes,25,FALSE,FALSE
+2023-10-16,Bosnia and Herzegovina,Portugal,Portugal,João Cancelo,32,FALSE,FALSE
+2023-10-16,Bosnia and Herzegovina,Portugal,Portugal,João Félix,41,FALSE,FALSE
 2023-10-16,Gibraltar,Republic of Ireland,Republic of Ireland,Evan Ferguson,8,FALSE,FALSE
 2023-10-16,Gibraltar,Republic of Ireland,Republic of Ireland,Mikey Johnston,28,FALSE,FALSE
 2023-10-16,Gibraltar,Republic of Ireland,Republic of Ireland,Matt Doherty,60,FALSE,FALSE
 2023-10-16,Gibraltar,Republic of Ireland,Republic of Ireland,Callum Robinson,80,FALSE,FALSE
 2023-10-16,Greece,Netherlands,Netherlands,Virgil van Dijk,90,FALSE,TRUE
+2023-10-16,Iceland,Liechtenstein,Iceland,Gylfi Sigurðsson,22,FALSE,TRUE
+2023-10-16,Iceland,Liechtenstein,Iceland,Alfreð Finnbogason,44,FALSE,FALSE
+2023-10-16,Iceland,Liechtenstein,Iceland,Gylfi Sigurðsson,49,FALSE,FALSE
+2023-10-16,Iceland,Liechtenstein,Iceland,Hákon Arnar Haraldsson,63,FALSE,FALSE
+2023-10-16,Luxembourg,Slovakia,Slovakia,Dávid Ďuriš,77,FALSE,FALSE
 2023-10-17,England,Italy,Italy,Gianluca Scamacca,15,FALSE,FALSE
 2023-10-17,England,Italy,England,Harry Kane,32,FALSE,TRUE
 2023-10-17,England,Italy,England,Marcus Rashford,57,FALSE,FALSE
 2023-10-17,England,Italy,England,Harry Kane,77,FALSE,FALSE
+2023-10-17,Finland,Kazakhstan,Finland,Robert Taylor,28,FALSE,FALSE
+2023-10-17,Finland,Kazakhstan,Kazakhstan,Bakhtiyar Zaynutdinov,77,FALSE,TRUE
+2023-10-17,Finland,Kazakhstan,Kazakhstan,Bakhtiyar Zaynutdinov,89,FALSE,FALSE
+2023-10-17,Lithuania,Hungary,Lithuania,Fedor Černych,20,FALSE,FALSE
+2023-10-17,Lithuania,Hungary,Lithuania,Pijus Širvys,36,FALSE,FALSE
+2023-10-17,Lithuania,Hungary,Hungary,Dominik Szoboszlai,67,FALSE,TRUE
+2023-10-17,Lithuania,Hungary,Hungary,Barnabás Varga,82,FALSE,FALSE
 2023-10-17,Malta,Ukraine,Malta,Paul Mbong,12,FALSE,FALSE
 2023-10-17,Malta,Ukraine,Ukraine,Ryan Camenzuli,38,TRUE,FALSE
 2023-10-17,Malta,Ukraine,Ukraine,Artem Dovbyk,43,FALSE,TRUE
 2023-10-17,Malta,Ukraine,Ukraine,Mykhailo Mudryk,85,FALSE,FALSE
+2023-10-17,Northern Ireland,Slovenia,Slovenia,Adam Gnezda Čerin,5,FALSE,FALSE
+2023-10-17,San Marino,Denmark,Denmark,Rasmus Højlund,42,FALSE,FALSE
+2023-10-17,San Marino,Denmark,San Marino,Alessandro Golinucci,61,FALSE,FALSE
+2023-10-17,San Marino,Denmark,Denmark,Yussuf Poulsen,70,FALSE,FALSE
+2023-10-17,Serbia,Montenegro,Serbia,Aleksandar Mitrović,9,FALSE,FALSE
+2023-10-17,Serbia,Montenegro,Montenegro,Stevan Jovetić,36,FALSE,FALSE
+2023-10-17,Serbia,Montenegro,Serbia,Aleksandar Mitrović,74,FALSE,FALSE
+2023-10-17,Serbia,Montenegro,Serbia,Dušan Tadić,77,FALSE,FALSE
+2023-11-12,Kosovo,Israel,Kosovo,Milot Rashica,41,FALSE,FALSE
+2023-11-15,Israel,Switzerland,Switzerland,Ruben Vargas,36,FALSE,FALSE
+2023-11-15,Israel,Switzerland,Israel,Shon Weissman,88,FALSE,FALSE
 2023-11-16,Azerbaijan,Sweden,Azerbaijan,Emin Mahmudov,3,FALSE,FALSE
 2023-11-16,Azerbaijan,Sweden,Azerbaijan,Renat Dadashov,6,FALSE,FALSE
 2023-11-16,Azerbaijan,Sweden,Azerbaijan,Emin Mahmudov,89,FALSE,FALSE
+2023-11-16,Bulgaria,Hungary,Hungary,Martin Ádám,10,FALSE,FALSE
+2023-11-16,Bulgaria,Hungary,Bulgaria,Spas Delev,24,FALSE,FALSE
+2023-11-16,Bulgaria,Hungary,Bulgaria,Kiril Despodov,78,FALSE,TRUE
+2023-11-16,Bulgaria,Hungary,Hungary,Aleks Petkov,90,TRUE,FALSE
 2023-11-16,Cyprus,Spain,Spain,Lamine Yamal,5,FALSE,FALSE
 2023-11-16,Cyprus,Spain,Spain,Mikel Oyarzabal,22,FALSE,FALSE
 2023-11-16,Cyprus,Spain,Spain,Joselu,28,FALSE,FALSE
@@ -41401,8 +41650,30 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-11-16,Georgia,Scotland,Scotland,Scott McTominay,49,FALSE,FALSE
 2023-11-16,Georgia,Scotland,Georgia,Khvicha Kvaratskhelia,57,FALSE,FALSE
 2023-11-16,Georgia,Scotland,Scotland,Lawrence Shankland,90,FALSE,FALSE
+2023-11-16,Liechtenstein,Portugal,Portugal,Cristiano Ronaldo,46,FALSE,FALSE
+2023-11-16,Liechtenstein,Portugal,Portugal,João Cancelo,57,FALSE,FALSE
+2023-11-16,Luxembourg,Bosnia and Herzegovina,Luxembourg,Mathias Olesen,6,FALSE,FALSE
+2023-11-16,Luxembourg,Bosnia and Herzegovina,Luxembourg,Gerson Rodrigues,30,FALSE,TRUE
+2023-11-16,Luxembourg,Bosnia and Herzegovina,Luxembourg,Nihad Mujakić,55,TRUE,FALSE
+2023-11-16,Luxembourg,Bosnia and Herzegovina,Luxembourg,Gerson Rodrigues,90,FALSE,FALSE
+2023-11-16,Luxembourg,Bosnia and Herzegovina,Bosnia and Herzegovina,Renato Gojković,90,FALSE,FALSE
+2023-11-16,Montenegro,Lithuania,Montenegro,Edvin Kuč,3,FALSE,FALSE
+2023-11-16,Montenegro,Lithuania,Montenegro,Stevan Jovetić,48,FALSE,FALSE
+2023-11-16,Slovakia,Iceland,Iceland,Orri Óskarsson,17,FALSE,FALSE
+2023-11-16,Slovakia,Iceland,Slovakia,Juraj Kucka,30,FALSE,FALSE
+2023-11-16,Slovakia,Iceland,Slovakia,Ondrej Duda,36,FALSE,TRUE
+2023-11-16,Slovakia,Iceland,Slovakia,Lukáš Haraslín,47,FALSE,FALSE
+2023-11-16,Slovakia,Iceland,Slovakia,Lukáš Haraslín,55,FALSE,FALSE
+2023-11-16,Slovakia,Iceland,Iceland,Andri Guðjohnsen,74,FALSE,FALSE
+2023-11-17,Denmark,Slovenia,Denmark,Joakim Mæhle,26,FALSE,FALSE
+2023-11-17,Denmark,Slovenia,Slovenia,Erik Janža,30,FALSE,FALSE
+2023-11-17,Denmark,Slovenia,Denmark,Thomas Delaney,54,FALSE,FALSE
 2023-11-17,England,Malta,England,Enrico Pepe,8,TRUE,FALSE
 2023-11-17,England,Malta,England,Harry Kane,75,FALSE,FALSE
+2023-11-17,Finland,Northern Ireland,Finland,Joel Pohjanpalo,42,FALSE,TRUE
+2023-11-17,Finland,Northern Ireland,Finland,Daniel Håkans,48,FALSE,FALSE
+2023-11-17,Finland,Northern Ireland,Finland,Teemu Pukki,74,FALSE,FALSE
+2023-11-17,Finland,Northern Ireland,Finland,Robin Lod,88,FALSE,FALSE
 2023-11-17,Italy,North Macedonia,Italy,Matteo Darmian,17,FALSE,FALSE
 2023-11-17,Italy,North Macedonia,Italy,Federico Chiesa,41,FALSE,FALSE
 2023-11-17,Italy,North Macedonia,Italy,Federico Chiesa,45,FALSE,FALSE
@@ -41410,12 +41681,17 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-11-17,Italy,North Macedonia,North Macedonia,Jani Atanasov,74,FALSE,FALSE
 2023-11-17,Italy,North Macedonia,Italy,Giacomo Raspadori,81,FALSE,FALSE
 2023-11-17,Italy,North Macedonia,Italy,Stephan El Shaarawy,90,FALSE,FALSE
+2023-11-17,Kazakhstan,San Marino,Kazakhstan,Islam Chesnokov,19,FALSE,FALSE
+2023-11-17,Kazakhstan,San Marino,Kazakhstan,Islam Chesnokov,51,FALSE,FALSE
+2023-11-17,Kazakhstan,San Marino,San Marino,Simone Franciosi,60,FALSE,FALSE
+2023-11-17,Kazakhstan,San Marino,Kazakhstan,Abat Aymbetov,90,FALSE,TRUE
 2023-11-17,Moldova,Albania,Albania,Sokol Çikalleshi,25,FALSE,TRUE
 2023-11-17,Moldova,Albania,Moldova,Vladislav Baboglo,87,FALSE,FALSE
 2023-11-17,Poland,Czech Republic,Poland,Jakub Piotrowski,38,FALSE,FALSE
 2023-11-17,Poland,Czech Republic,Czech Republic,Tomáš Souček,49,FALSE,FALSE
 2023-11-18,Armenia,Wales,Armenia,Lucas Zelarayán,5,FALSE,FALSE
 2023-11-18,Armenia,Wales,Wales,Nair Tiknizyan,45,TRUE,FALSE
+2023-11-18,Belarus,Andorra,Belarus,Denis Laptev,83,FALSE,FALSE
 2023-11-18,France,Gibraltar,France,Ethan Santos,3,TRUE,FALSE
 2023-11-18,France,Gibraltar,France,Marcus Thuram,4,FALSE,FALSE
 2023-11-18,France,Gibraltar,France,Warren Zaïre-Emery,16,FALSE,FALSE
@@ -41430,20 +41706,39 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-11-18,France,Gibraltar,France,Kylian Mbappé,82,FALSE,FALSE
 2023-11-18,France,Gibraltar,France,Olivier Giroud,89,FALSE,FALSE
 2023-11-18,France,Gibraltar,France,Olivier Giroud,90,FALSE,FALSE
+2023-11-18,Israel,Romania,Israel,Eran Zahavi,2,FALSE,FALSE
+2023-11-18,Israel,Romania,Romania,George Pușcaș,10,FALSE,FALSE
+2023-11-18,Israel,Romania,Romania,Ianis Hagi,63,FALSE,FALSE
 2023-11-18,Latvia,Croatia,Croatia,Lovro Majer,7,FALSE,FALSE
 2023-11-18,Latvia,Croatia,Croatia,Andrej Kramarić,16,FALSE,FALSE
 2023-11-18,Netherlands,Republic of Ireland,Netherlands,Wout Weghorst,12,FALSE,FALSE
+2023-11-18,Switzerland,Kosovo,Switzerland,Ruben Vargas,47,FALSE,FALSE
+2023-11-18,Switzerland,Kosovo,Kosovo,Muhamet Hyseni,82,FALSE,FALSE
 2023-11-19,Belgium,Azerbaijan,Belgium,Romelu Lukaku,17,FALSE,FALSE
 2023-11-19,Belgium,Azerbaijan,Belgium,Romelu Lukaku,26,FALSE,FALSE
 2023-11-19,Belgium,Azerbaijan,Belgium,Romelu Lukaku,30,FALSE,FALSE
 2023-11-19,Belgium,Azerbaijan,Belgium,Romelu Lukaku,37,FALSE,FALSE
 2023-11-19,Belgium,Azerbaijan,Belgium,Leandro Trossard,90,FALSE,FALSE
+2023-11-19,Bosnia and Herzegovina,Slovakia,Bosnia and Herzegovina,Patrik Hrošovský,49,TRUE,FALSE
+2023-11-19,Bosnia and Herzegovina,Slovakia,Slovakia,Róbert Boženík,52,FALSE,FALSE
+2023-11-19,Bosnia and Herzegovina,Slovakia,Slovakia,Ľubomír Šatka,71,FALSE,FALSE
+2023-11-19,Hungary,Montenegro,Montenegro,Slobodan Rubežić,36,FALSE,FALSE
+2023-11-19,Hungary,Montenegro,Hungary,Dominik Szoboszlai,66,FALSE,FALSE
+2023-11-19,Hungary,Montenegro,Hungary,Dominik Szoboszlai,68,FALSE,FALSE
+2023-11-19,Hungary,Montenegro,Hungary,Ádám Nagy,90,FALSE,FALSE
+2023-11-19,Liechtenstein,Luxembourg,Luxembourg,Gerson Rodrigues,69,FALSE,FALSE
+2023-11-19,Portugal,Iceland,Portugal,Bruno Fernandes,37,FALSE,FALSE
+2023-11-19,Portugal,Iceland,Portugal,Ricardo Horta,66,FALSE,FALSE
 2023-11-19,Scotland,Norway,Norway,Aron Dønnum,3,FALSE,FALSE
 2023-11-19,Scotland,Norway,Scotland,John McGinn,13,FALSE,FALSE
 2023-11-19,Scotland,Norway,Norway,Jørgen Strand Larsen,20,FALSE,FALSE
 2023-11-19,Scotland,Norway,Scotland,Leo Skiri Østigård,33,TRUE,FALSE
 2023-11-19,Scotland,Norway,Scotland,Stuart Armstrong,59,FALSE,FALSE
 2023-11-19,Scotland,Norway,Norway,Mohamed Elyounoussi,86,FALSE,FALSE
+2023-11-19,Serbia,Bulgaria,Serbia,Miloš Veljković,16,FALSE,FALSE
+2023-11-19,Serbia,Bulgaria,Bulgaria,Georgi Rusev,59,FALSE,FALSE
+2023-11-19,Serbia,Bulgaria,Bulgaria,Kiril Despodov,69,FALSE,FALSE
+2023-11-19,Serbia,Bulgaria,Serbia,Srđan Babić,82,FALSE,FALSE
 2023-11-19,Spain,Georgia,Spain,Robin Le Normand,4,FALSE,FALSE
 2023-11-19,Spain,Georgia,Georgia,Khvicha Kvaratskhelia,10,FALSE,FALSE
 2023-11-19,Spain,Georgia,Spain,Ferran Torres,55,FALSE,FALSE
@@ -41455,6 +41750,16 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-11-20,Czech Republic,Moldova,Czech Republic,Tomáš Souček,90,FALSE,FALSE
 2023-11-20,North Macedonia,England,North Macedonia,Enis Bardhi,41,FALSE,FALSE
 2023-11-20,North Macedonia,England,England,Jani Atanasov,59,TRUE,FALSE
+2023-11-20,Northern Ireland,Denmark,Northern Ireland,Isaac Price,60,FALSE,FALSE
+2023-11-20,Northern Ireland,Denmark,Northern Ireland,Dion Charles,81,FALSE,FALSE
+2023-11-20,San Marino,Finland,Finland,Pyry Soiri,50,FALSE,FALSE
+2023-11-20,San Marino,Finland,Finland,Pyry Soiri,58,FALSE,FALSE
+2023-11-20,San Marino,Finland,San Marino,Filippo Berardi,90,FALSE,TRUE
+2023-11-20,Slovenia,Kazakhstan,Slovenia,Benjamin Sesko,41,FALSE,TRUE
+2023-11-20,Slovenia,Kazakhstan,Kazakhstan,Ramazan Orazov,48,FALSE,FALSE
+2023-11-20,Slovenia,Kazakhstan,Slovenia,Benjamin Verbic,86,FALSE,FALSE
+2023-11-21,Andorra,Israel,Israel,Joan Cervós,29,TRUE,FALSE
+2023-11-21,Andorra,Israel,Israel,Gadi Kinda,81,FALSE,FALSE
 2023-11-21,Croatia,Armenia,Croatia,Ante Budimir,43,FALSE,FALSE
 2023-11-21,Gibraltar,Netherlands,Netherlands,Calvin Stengs,10,FALSE,FALSE
 2023-11-21,Gibraltar,Netherlands,Netherlands,Mats Wieffer,23,FALSE,FALSE
@@ -41466,5 +41771,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-11-21,Greece,France,Greece,Tasos Bakasetas,56,FALSE,FALSE
 2023-11-21,Greece,France,Greece,Fotis Ioannidis,61,FALSE,FALSE
 2023-11-21,Greece,France,France,Youssouf Fofana,74,FALSE,FALSE
+2023-11-21,Kosovo,Belarus,Belarus,Dmitry Antilevsky,43,FALSE,FALSE
+2023-11-21,Romania,Switzerland,Romania,Denis Alibec,50,FALSE,FALSE
 2023-11-21,Wales,Turkey,Wales,Neco Williams,7,FALSE,FALSE
 2023-11-21,Wales,Turkey,Turkey,Yusuf Yazıcı,70,FALSE,TRUE
