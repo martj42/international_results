@@ -766,12 +766,6 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1937-08-29,Germany,Estonia,Germany,Josef Gauchel,53,FALSE,FALSE
 1937-08-29,Germany,Estonia,Germany,Ernst Lehner,65,FALSE,FALSE
 1937-08-29,Germany,Estonia,Germany,Josef Gauchel,86,FALSE,FALSE
-1937-09-03,Latvia,Lithuania,Latvia,Fricis Kaņeps,4,FALSE,FALSE
-1937-09-03,Latvia,Lithuania,Latvia,Vaclavs Borduško,11,FALSE,FALSE
-1937-09-03,Latvia,Lithuania,Latvia,Vaclavs Borduško,30,FALSE,FALSE
-1937-09-03,Latvia,Lithuania,Latvia,Fricis Kaņeps,45,FALSE,TRUE
-1937-09-03,Latvia,Lithuania,Latvia,Iļja Vestermans,67,FALSE,FALSE
-1937-09-03,Latvia,Lithuania,Lithuania,Jonas Paulionis,72,FALSE,FALSE
 1937-09-03,Lithuania,Latvia,Latvia,Fricis Kaņeps,4,FALSE,FALSE
 1937-09-03,Lithuania,Latvia,Latvia,Vaclavs Borduško,11,FALSE,FALSE
 1937-09-03,Lithuania,Latvia,Latvia,Vaclavs Borduško,30,FALSE,FALSE
@@ -780,12 +774,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1937-09-03,Lithuania,Latvia,Lithuania,Jonas Paulionis,72,FALSE,FALSE
 1937-09-04,Latvia,Estonia,Latvia,Iļja Vestermans,35,FALSE,FALSE
 1937-09-04,Latvia,Estonia,Estonia,Richard Kuremaa,68,FALSE,FALSE
-1937-09-05,Estonia,Lithuania,Estonia,Georg Siimenson,3,FALSE,FALSE
-1937-09-05,Estonia,Lithuania,Estonia,Heinrich Uukkivi,22,FALSE,FALSE
-1937-09-05,Estonia,Lithuania,Estonia,Aavo Sillandi,37,FALSE,FALSE
-1937-09-05,Estonia,Lithuania,Estonia,Georg Siimenson,50,FALSE,FALSE
-1937-09-07,Latvia,Estonia,Latvia,Jānis Rozītis,12,FALSE,FALSE
-1937-09-07,Latvia,Estonia,Latvia,Iļja Vestermans,19,FALSE,FALSE
+1937-09-05,Lithuania,Estonia,Estonia,Georg Siimenson,3,FALSE,FALSE
+1937-09-05,Lithuania,Estonia,Estonia,Heinrich Uukkivi,22,FALSE,FALSE
+1937-09-05,Lithuania,Estonia,Estonia,Aavo Sillandi,37,FALSE,FALSE
+1937-09-05,Lithuania,Estonia,Estonia,Georg Siimenson,50,FALSE,FALSE
+1937-09-07,Estonia,Latvia,Latvia,Jānis Rozītis,12,FALSE,FALSE
+1937-09-07,Estonia,Latvia,Latvia,Iļja Vestermans,19,FALSE,FALSE
 1937-10-05,Austria,Latvia,Latvia,Iļja Vestermans,6,FALSE,FALSE
 1937-10-05,Austria,Latvia,Austria,Camillo Jerusalem,15,FALSE,FALSE
 1937-10-05,Austria,Latvia,Austria,Franz Binder,33,FALSE,FALSE
@@ -12335,8 +12329,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1991-11-15,Lithuania,Estonia,Lithuania,Tomas Ramelis,34,FALSE,FALSE
 1991-11-15,Lithuania,Estonia,Lithuania,Valdas Urbonas,54,FALSE,TRUE
 1991-11-15,Lithuania,Estonia,Lithuania,Darius Magdišauskas,69,FALSE,FALSE
-1991-11-16,Latvia,Estonia,Latvia,Dzintars Sproģis,42,FALSE,FALSE
-1991-11-16,Latvia,Estonia,Latvia,Igors Troickis,79,FALSE,FALSE
+1991-11-16,Estonia,Latvia,Latvia,Dzintars Sproģis,42,FALSE,FALSE
+1991-11-16,Estonia,Latvia,Latvia,Igors Troickis,79,FALSE,FALSE
 1991-11-17,Lithuania,Latvia,Latvia,Vitalijs Teplovs,14,FALSE,FALSE
 1991-11-17,Lithuania,Latvia,Lithuania,Aurelijus Skarbalius,20,FALSE,FALSE
 1991-11-20,Belgium,Germany,Germany,Rudi Völler,16,FALSE,FALSE
@@ -12521,8 +12515,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1992-07-10,Latvia,Estonia,Latvia,Ainars Linards,34,FALSE,FALSE
 1992-07-10,Latvia,Estonia,Latvia,Ainars Linards,38,FALSE,FALSE
 1992-07-10,Latvia,Estonia,Estonia,Indro Olumets,61,FALSE,FALSE
-1992-07-11,Lithuania,Estonia,Lithuania,Vaidotas Slekys,27,FALSE,FALSE
-1992-07-11,Lithuania,Estonia,Estonia,Indro Olumets,64,FALSE,FALSE
+1992-07-11,Estonia,Lithuania,Lithuania,Vaidotas Slekys,27,FALSE,FALSE
+1992-07-11,Estonia,Lithuania,Estonia,Indro Olumets,64,FALSE,FALSE
 1992-07-11,Solomon Islands,Tahiti,Solomon Islands,Duddley Hatei,61,FALSE,FALSE
 1992-07-11,Solomon Islands,Tahiti,Tahiti,Eric Etaeta,76,FALSE,FALSE
 1992-07-12,Latvia,Lithuania,Latvia,Vitalijs Teplovs,27,FALSE,FALSE
@@ -14631,13 +14625,15 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1995-05-10,Armenia,North Macedonia,North Macedonia,Ljupčo Markovski,69,FALSE,FALSE
 1995-05-19,Latvia,Estonia,Latvia,Armands Zeiberliņš,37,FALSE,FALSE
 1995-05-19,Latvia,Estonia,Latvia,Valērijs Ivanovs,67,FALSE,FALSE
-1995-05-20,Lithuania,Estonia,Lithuania,Aurelijus Skarbalius,27,FALSE,FALSE
-1995-05-20,Lithuania,Estonia,Lithuania,Virginijus Baltušnikas,34,FALSE,FALSE
-1995-05-20,Lithuania,Estonia,Lithuania,Aidas Preikšaitis,36,FALSE,FALSE
-1995-05-20,Lithuania,Estonia,Lithuania,Andrius Upstas,57,FALSE,FALSE
-1995-05-20,Lithuania,Estonia,Lithuania,Andrius Zuta,62,FALSE,FALSE
-1995-05-20,Lithuania,Estonia,Lithuania,Rimantas Žvingilas,75,FALSE,FALSE
-1995-05-20,Lithuania,Estonia,Lithuania,Eimantas Poderis,88,FALSE,FALSE
+1995-05-20,Estonia,Lithuania,Lithuania,Aurelijus Skarbalius,27,FALSE,FALSE
+1995-05-20,Estonia,Lithuania,Lithuania,Virginijus Baltušnikas,34,FALSE,FALSE
+1995-05-20,Estonia,Lithuania,Lithuania,Aidas Preikšaitis,36,FALSE,FALSE
+1995-05-20,Estonia,Lithuania,Lithuania,Andrius Upstas,57,FALSE,FALSE
+1995-05-20,Estonia,Lithuania,Lithuania,Andrius Zuta,62,FALSE,FALSE
+1995-05-20,Estonia,Lithuania,Lithuania,Rimantas Žvingilas,75,FALSE,FALSE
+1995-05-20,Estonia,Lithuania,Lithuania,Eimantas Poderis,88,FALSE,FALSE
+1995-05-21,Latvia,Lithuania,Latvia,Mihails Zemļinskis,34,FALSE,TRUE
+1995-05-21,Latvia,Lithuania,Latvia,Vitālijs Astafjevs,75,FALSE,FALSE
 1995-05-25,Faroe Islands,San Marino,Faroe Islands,Jens Kristian Hansen,6,FALSE,FALSE
 1995-05-25,Faroe Islands,San Marino,Faroe Islands,Jens Erik Rasmussen,9,FALSE,FALSE
 1995-05-25,Faroe Islands,San Marino,Faroe Islands,Julian Johnsson,52,FALSE,FALSE
@@ -15473,9 +15469,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1996-07-07,Colombia,Uruguay,Colombia,Antony de Ávila,78,FALSE,FALSE
 1996-07-07,Estonia,Latvia,Latvia,Rolands Bulders,16,FALSE,FALSE
 1996-07-07,Estonia,Latvia,Estonia,Urmas Rooba,36,FALSE,FALSE
-1996-07-08,Lithuania,Latvia,Lithuania,Tomas Ražanauskas,5,FALSE,TRUE
-1996-07-08,Lithuania,Latvia,Latvia,Aleksandrs Jelisejevs,44,FALSE,FALSE
-1996-07-08,Lithuania,Latvia,Lithuania,Ričardas Zdančius,68,FALSE,TRUE
+1996-07-08,Latvia,Lithuania,Lithuania,Tomas Ražanauskas,5,FALSE,TRUE
+1996-07-08,Latvia,Lithuania,Latvia,Aleksandrs Jelisejevs,44,FALSE,FALSE
+1996-07-08,Latvia,Lithuania,Lithuania,Ričardas Zdančius,68,FALSE,TRUE
 1996-07-09,Estonia,Lithuania,Lithuania,Rimantas Žvingilas,18,FALSE,TRUE
 1996-07-09,Estonia,Lithuania,Estonia,Martin Reim,21,FALSE,FALSE
 1996-08-30,Canada,Panama,Canada,Geoff Aunger,40,FALSE,FALSE
@@ -20836,13 +20832,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2001-07-03,Latvia,Estonia,Estonia,Indrek Zelinski,47,FALSE,FALSE
 2001-07-03,Latvia,Estonia,Latvia,Marians Pahars,50,FALSE,FALSE
 2001-07-03,Latvia,Estonia,Latvia,Vladimirs Koļesņičenko,90,FALSE,FALSE
-2001-07-04,Lithuania,Estonia,Estonia,Aivar Anniste,7,FALSE,FALSE
-2001-07-04,Lithuania,Estonia,Estonia,Mark Švets,35,FALSE,FALSE
-2001-07-04,Lithuania,Estonia,Lithuania,Orestas Buitkus,37,FALSE,FALSE
-2001-07-04,Lithuania,Estonia,Lithuania,Deividas Česnauskis,46,FALSE,FALSE
-2001-07-04,Lithuania,Estonia,Lithuania,Nerijus Vasiliauskas,73,FALSE,FALSE
-2001-07-04,Lithuania,Estonia,Lithuania,Valdas Trakys,90,FALSE,FALSE
-2001-07-04,Lithuania,Estonia,Lithuania,Raimondas Vilėniškis,90,FALSE,FALSE
+2001-07-04,Estonia,Lithuania,Estonia,Aivar Anniste,7,FALSE,FALSE
+2001-07-04,Estonia,Lithuania,Estonia,Mark Švets,35,FALSE,FALSE
+2001-07-04,Estonia,Lithuania,Lithuania,Orestas Buitkus,37,FALSE,FALSE
+2001-07-04,Estonia,Lithuania,Lithuania,Deividas Česnauskis,46,FALSE,FALSE
+2001-07-04,Estonia,Lithuania,Lithuania,Nerijus Vasiliauskas,73,FALSE,FALSE
+2001-07-04,Estonia,Lithuania,Lithuania,Valdas Trakys,90,FALSE,FALSE
+2001-07-04,Estonia,Lithuania,Lithuania,Raimondas Vilėniškis,90,FALSE,FALSE
 2001-07-05,Latvia,Lithuania,Lithuania,Nerijus Barasa,12,FALSE,FALSE
 2001-07-05,Latvia,Lithuania,Latvia,Andrejs Rubins,45,FALSE,FALSE
 2001-07-05,Latvia,Lithuania,Latvia,Marians Pahars,52,FALSE,FALSE
@@ -22121,9 +22117,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2003-07-03,Estonia,Lithuania,Lithuania,Andrius Velička,72,FALSE,FALSE
 2003-07-03,Estonia,Lithuania,Lithuania,Marius Bezykornovas,84,FALSE,FALSE
 2003-07-03,Estonia,Lithuania,Lithuania,Edgaras Česnauskis,90,FALSE,FALSE
-2003-07-04,Lithuania,Latvia,Latvia,Juris Laizāns,28,FALSE,FALSE
-2003-07-04,Lithuania,Latvia,Latvia,Andrejs Rubins,32,FALSE,FALSE
-2003-07-04,Lithuania,Latvia,Lithuania,Tomas Tamošauskas,73,FALSE,FALSE
+2003-07-04,Latvia,Lithuania,Latvia,Juris Laizāns,28,FALSE,FALSE
+2003-07-04,Latvia,Lithuania,Latvia,Andrejs Rubins,32,FALSE,FALSE
+2003-07-04,Latvia,Lithuania,Lithuania,Tomas Tamošauskas,73,FALSE,FALSE
 2003-07-12,Costa Rica,Canada,Canada,Paul Stalteri,59,FALSE,FALSE
 2003-07-12,United States,El Salvador,United States,Eddie Lewis,28,FALSE,FALSE
 2003-07-12,United States,El Salvador,United States,Brian McBride,76,FALSE,FALSE
@@ -29241,10 +29237,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2010-06-20,Brazil,Ivory Coast,Brazil,Luís Fabiano,50,FALSE,FALSE
 2010-06-20,Brazil,Ivory Coast,Brazil,Elano,62,FALSE,FALSE
 2010-06-20,Brazil,Ivory Coast,Ivory Coast,Didier Drogba,79,FALSE,FALSE
-2010-06-20,Estonia,Lithuania,Lithuania,Mantas Savėnas,31,FALSE,FALSE
-2010-06-20,Estonia,Lithuania,Lithuania,Artūras Rimkevičius,90,FALSE,FALSE
 2010-06-20,Italy,New Zealand,New Zealand,Shane Smeltz,7,FALSE,FALSE
 2010-06-20,Italy,New Zealand,Italy,Vincenzo Iaquinta,29,FALSE,TRUE
+2010-06-20,Lithuania,Estonia,Lithuania,Mantas Savėnas,31,FALSE,FALSE
+2010-06-20,Lithuania,Estonia,Lithuania,Artūras Rimkevičius,90,FALSE,FALSE
 2010-06-20,Slovakia,Paraguay,Paraguay,Enrique Vera,27,FALSE,FALSE
 2010-06-20,Slovakia,Paraguay,Paraguay,Cristian Riveros,86,FALSE,FALSE
 2010-06-21,Chile,Switzerland,Chile,Mark González,75,FALSE,FALSE
@@ -32909,7 +32905,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2013-11-20,New Zealand,Mexico,New Zealand,Chris James,80,FALSE,TRUE
 2013-11-20,New Zealand,Mexico,New Zealand,Rory Fallon,83,FALSE,FALSE
 2013-11-20,New Zealand,Mexico,Mexico,Carlos Peña,87,FALSE,FALSE
-2014-05-29,Lithuania,Finland,Lithuania,Arvydas Novikovas,42,FALSE,FALSE
+2014-05-29,Finland,Lithuania,Lithuania,Arvydas Novikovas,42,FALSE,FALSE
 2014-05-31,Finland,Estonia,Finland,Perparim Hetemaj,49,FALSE,FALSE
 2014-05-31,Finland,Estonia,Finland,Valtteri Moren,88,FALSE,FALSE
 2014-05-31,Latvia,Lithuania,Latvia,Nauris Bulvitis,6,FALSE,FALSE
@@ -37019,6 +37015,339 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2018-07-15,France,Croatia,France,Paul Pogba,59,FALSE,FALSE
 2018-07-15,France,Croatia,France,Kylian Mbappé,65,FALSE,FALSE
 2018-07-15,France,Croatia,Croatia,Mario Mandžukić,69,FALSE,FALSE
+2018-09-06,Armenia,Liechtenstein,Armenia,Marcos Pizzelli,30,FALSE,FALSE
+2018-09-06,Armenia,Liechtenstein,Liechtenstein,Sandro Wolfinger,33,FALSE,FALSE
+2018-09-06,Armenia,Liechtenstein,Armenia,Tigran Barseghyan,76,FALSE,FALSE
+2018-09-06,Czech Republic,Ukraine,Czech Republic,Patrik Schick,4,FALSE,FALSE
+2018-09-06,Czech Republic,Ukraine,Ukraine,Yevhen Konoplyanka,45,FALSE,FALSE
+2018-09-06,Czech Republic,Ukraine,Ukraine,Oleksandr Zinchenko,90,FALSE,FALSE
+2018-09-06,Gibraltar,North Macedonia,North Macedonia,Ivan Trichkovski,19,FALSE,FALSE
+2018-09-06,Gibraltar,North Macedonia,North Macedonia,Ezgjan Alioski,35,FALSE,FALSE
+2018-09-06,Kazakhstan,Georgia,Georgia,Giorgi Chakvetadze,69,FALSE,FALSE
+2018-09-06,Kazakhstan,Georgia,Georgia,Serhiy Malyi,74,TRUE,FALSE
+2018-09-06,Norway,Cyprus,Norway,Stefan Johansen,21,FALSE,FALSE
+2018-09-06,Norway,Cyprus,Norway,Stefan Johansen,42,FALSE,FALSE
+2018-09-06,Slovenia,Bulgaria,Bulgaria,Bozhidar Kraev,3,FALSE,FALSE
+2018-09-06,Slovenia,Bulgaria,Slovenia,Miha Zajc,40,FALSE,FALSE
+2018-09-06,Slovenia,Bulgaria,Bulgaria,Bozhidar Kraev,59,FALSE,FALSE
+2018-09-06,Wales,Republic of Ireland,Wales,Tom Lawrence,6,FALSE,FALSE
+2018-09-06,Wales,Republic of Ireland,Wales,Gareth Bale,18,FALSE,FALSE
+2018-09-06,Wales,Republic of Ireland,Wales,Aaron Ramsey,37,FALSE,FALSE
+2018-09-06,Wales,Republic of Ireland,Wales,Connor Roberts,55,FALSE,FALSE
+2018-09-06,Wales,Republic of Ireland,Republic of Ireland,Shaun Williams,66,FALSE,FALSE
+2018-09-07,Albania,Israel,Albania,Taulant Xhaka,55,FALSE,FALSE
+2018-09-07,Faroe Islands,Malta,Faroe Islands,Jóan Símun Edmundsson,31,FALSE,FALSE
+2018-09-07,Faroe Islands,Malta,Faroe Islands,René Joensen,38,FALSE,FALSE
+2018-09-07,Faroe Islands,Malta,Malta,Michael Mifsud,42,FALSE,FALSE
+2018-09-07,Faroe Islands,Malta,Faroe Islands,Hallur Hansson,52,FALSE,FALSE
+2018-09-07,Italy,Poland,Poland,Piotr Zieliński,40,FALSE,FALSE
+2018-09-07,Italy,Poland,Italy,Jorginho,78,FALSE,TRUE
+2018-09-07,Lithuania,Serbia,Serbia,Dušan Tadić,38,FALSE,TRUE
+2018-09-07,Turkey,Russia,Russia,Denis Cheryshev,13,FALSE,FALSE
+2018-09-07,Turkey,Russia,Turkey,Serdar Aziz,41,FALSE,FALSE
+2018-09-07,Turkey,Russia,Russia,Artem Dzyuba,49,FALSE,FALSE
+2018-09-08,Belarus,San Marino,Belarus,Ihar Stasevich,4,FALSE,FALSE
+2018-09-08,Belarus,San Marino,Belarus,Stanislaw Drahun,26,FALSE,FALSE
+2018-09-08,Belarus,San Marino,Belarus,Anton Saroka,67,FALSE,TRUE
+2018-09-08,Belarus,San Marino,Belarus,Stanislaw Drahun,87,FALSE,FALSE
+2018-09-08,Belarus,San Marino,Belarus,Yury Kavalyow,90,FALSE,FALSE
+2018-09-08,England,Spain,England,Marcus Rashford,11,FALSE,FALSE
+2018-09-08,England,Spain,Spain,Saúl Ñíguez,13,FALSE,FALSE
+2018-09-08,England,Spain,Spain,Rodrigo,32,FALSE,FALSE
+2018-09-08,Estonia,Greece,Greece,Kostas Fortounis,14,FALSE,FALSE
+2018-09-08,Finland,Hungary,Finland,Teemu Pukki,7,FALSE,FALSE
+2018-09-08,Luxembourg,Moldova,Luxembourg,Kevin Malget,34,FALSE,FALSE
+2018-09-08,Luxembourg,Moldova,Luxembourg,Olivier Thill,60,FALSE,FALSE
+2018-09-08,Luxembourg,Moldova,Luxembourg,Danel Sinani,75,FALSE,FALSE
+2018-09-08,Luxembourg,Moldova,Luxembourg,Christopher Martins,83,FALSE,FALSE
+2018-09-08,Northern Ireland,Bosnia and Herzegovina,Bosnia and Herzegovina,Haris Duljević,36,FALSE,FALSE
+2018-09-08,Northern Ireland,Bosnia and Herzegovina,Bosnia and Herzegovina,Elvis Sarić,64,FALSE,FALSE
+2018-09-08,Northern Ireland,Bosnia and Herzegovina,Northern Ireland,Will Grigg,90,FALSE,FALSE
+2018-09-08,Switzerland,Iceland,Switzerland,Steven Zuber,13,FALSE,FALSE
+2018-09-08,Switzerland,Iceland,Switzerland,Denis Zakaria,23,FALSE,FALSE
+2018-09-08,Switzerland,Iceland,Switzerland,Xherdan Shaqiri,53,FALSE,FALSE
+2018-09-08,Switzerland,Iceland,Switzerland,Haris Seferovic,67,FALSE,FALSE
+2018-09-08,Switzerland,Iceland,Switzerland,Albian Ajeti,71,FALSE,FALSE
+2018-09-08,Switzerland,Iceland,Switzerland,Admir Mehmedi,82,FALSE,FALSE
+2018-09-09,Bulgaria,Norway,Bulgaria,Radoslav Vasilev,59,FALSE,FALSE
+2018-09-09,Cyprus,Slovenia,Slovenia,Robert Berić,54,FALSE,FALSE
+2018-09-09,Cyprus,Slovenia,Cyprus,Pieros Sotiriou,69,FALSE,FALSE
+2018-09-09,Cyprus,Slovenia,Cyprus,Petar Stojanović,89,TRUE,FALSE
+2018-09-09,Denmark,Wales,Denmark,Christian Eriksen,32,FALSE,FALSE
+2018-09-09,Denmark,Wales,Denmark,Christian Eriksen,63,FALSE,TRUE
+2018-09-09,France,Netherlands,France,Kylian Mbappé,14,FALSE,FALSE
+2018-09-09,France,Netherlands,Netherlands,Ryan Babel,67,FALSE,FALSE
+2018-09-09,France,Netherlands,France,Olivier Giroud,75,FALSE,FALSE
+2018-09-09,Georgia,Latvia,Georgia,Tornike Okriashvili,77,FALSE,TRUE
+2018-09-09,Liechtenstein,Gibraltar,Liechtenstein,Dennis Salanović,32,FALSE,FALSE
+2018-09-09,Liechtenstein,Gibraltar,Liechtenstein,Sandro Wieser,72,FALSE,FALSE
+2018-09-09,North Macedonia,Armenia,North Macedonia,Ezgjan Alioski,14,FALSE,TRUE
+2018-09-09,North Macedonia,Armenia,North Macedonia,Goran Pandev,59,FALSE,FALSE
+2018-09-09,Ukraine,Slovakia,Ukraine,Andriy Yarmolenko,80,FALSE,TRUE
+2018-09-10,Andorra,Kazakhstan,Kazakhstan,Yuriy Logvinenko,68,FALSE,FALSE
+2018-09-10,Andorra,Kazakhstan,Andorra,Jordi Aláez,86,FALSE,FALSE
+2018-09-10,Kosovo,Faroe Islands,Kosovo,Arbër Zeneli,50,FALSE,FALSE
+2018-09-10,Kosovo,Faroe Islands,Kosovo,Atdhe Nuhiu,55,FALSE,FALSE
+2018-09-10,Malta,Azerbaijan,Malta,Andrei Agius,10,FALSE,TRUE
+2018-09-10,Malta,Azerbaijan,Azerbaijan,Tamkin Khalilzade,26,FALSE,FALSE
+2018-09-10,Montenegro,Lithuania,Montenegro,Stefan Savić,34,FALSE,TRUE
+2018-09-10,Montenegro,Lithuania,Montenegro,Marko Janković,35,FALSE,FALSE
+2018-09-10,Portugal,Italy,Portugal,André Silva,48,FALSE,FALSE
+2018-09-10,Scotland,Albania,Scotland,Berat Djimsiti,47,TRUE,FALSE
+2018-09-10,Scotland,Albania,Scotland,Steven Naismith,68,FALSE,FALSE
+2018-09-10,Serbia,Romania,Serbia,Aleksandar Mitrović,26,FALSE,FALSE
+2018-09-10,Serbia,Romania,Romania,Nicolae Stanciu,48,FALSE,TRUE
+2018-09-10,Serbia,Romania,Serbia,Aleksandar Mitrović,63,FALSE,FALSE
+2018-09-10,Serbia,Romania,Romania,George Țucudean,68,FALSE,FALSE
+2018-09-10,Sweden,Turkey,Sweden,Isaac Kiese Thelin,35,FALSE,FALSE
+2018-09-10,Sweden,Turkey,Sweden,Viktor Claesson,49,FALSE,FALSE
+2018-09-10,Sweden,Turkey,Turkey,Hakan Çalhanoğlu,51,FALSE,FALSE
+2018-09-10,Sweden,Turkey,Turkey,Emre Akbaba,88,FALSE,FALSE
+2018-09-10,Sweden,Turkey,Turkey,Emre Akbaba,90,FALSE,FALSE
+2018-09-11,Bosnia and Herzegovina,Austria,Bosnia and Herzegovina,Edin Džeko,78,FALSE,FALSE
+2018-09-11,Finland,Estonia,Finland,Teemu Pukki,12,FALSE,FALSE
+2018-09-11,Hungary,Greece,Hungary,Roland Sallai,15,FALSE,FALSE
+2018-09-11,Hungary,Greece,Greece,Kostas Manolas,18,FALSE,FALSE
+2018-09-11,Hungary,Greece,Hungary,László Kleinheisler,43,FALSE,FALSE
+2018-09-11,Iceland,Belgium,Belgium,Eden Hazard,29,FALSE,TRUE
+2018-09-11,Iceland,Belgium,Belgium,Romelu Lukaku,31,FALSE,FALSE
+2018-09-11,Iceland,Belgium,Belgium,Romelu Lukaku,81,FALSE,FALSE
+2018-09-11,San Marino,Luxembourg,Luxembourg,Maxime Chanot,9,FALSE,FALSE
+2018-09-11,San Marino,Luxembourg,Luxembourg,Aurélien Joachim,45,FALSE,FALSE
+2018-09-11,San Marino,Luxembourg,Luxembourg,Danel Sinani,52,FALSE,FALSE
+2018-09-11,Spain,Croatia,Spain,Saúl Ñíguez,24,FALSE,FALSE
+2018-09-11,Spain,Croatia,Spain,Marco Asensio,33,FALSE,FALSE
+2018-09-11,Spain,Croatia,Spain,Lovre Kalinić,35,TRUE,FALSE
+2018-09-11,Spain,Croatia,Spain,Rodrigo,49,FALSE,FALSE
+2018-09-11,Spain,Croatia,Spain,Sergio Ramos,57,FALSE,FALSE
+2018-09-11,Spain,Croatia,Spain,Isco,70,FALSE,FALSE
+2018-10-11,Faroe Islands,Azerbaijan,Azerbaijan,Richard Almeida de Oliveira,28,FALSE,FALSE
+2018-10-11,Faroe Islands,Azerbaijan,Azerbaijan,Dimitrij Nazarov,67,FALSE,FALSE
+2018-10-11,Faroe Islands,Azerbaijan,Azerbaijan,Richard Almeida de Oliveira,86,FALSE,TRUE
+2018-10-11,Israel,Scotland,Scotland,Charlie Mulgrew,25,FALSE,TRUE
+2018-10-11,Israel,Scotland,Israel,Dor Peretz,52,FALSE,FALSE
+2018-10-11,Israel,Scotland,Israel,Kieran Tierney,75,TRUE,FALSE
+2018-10-11,Kosovo,Malta,Kosovo,Benjamin Kololli,30,FALSE,FALSE
+2018-10-11,Kosovo,Malta,Malta,Andrei Agius,51,FALSE,FALSE
+2018-10-11,Kosovo,Malta,Kosovo,Vedat Muriqi,68,FALSE,FALSE
+2018-10-11,Kosovo,Malta,Kosovo,Benjamin Kololli,81,FALSE,FALSE
+2018-10-11,Lithuania,Romania,Romania,Alexandru Chipciu,13,FALSE,FALSE
+2018-10-11,Lithuania,Romania,Lithuania,Artūras Žulpa,90,FALSE,FALSE
+2018-10-11,Lithuania,Romania,Romania,Alexandru Maxim,90,FALSE,FALSE
+2018-10-11,Montenegro,Serbia,Serbia,Aleksandar Mitrović,18,FALSE,TRUE
+2018-10-11,Montenegro,Serbia,Serbia,Aleksandar Mitrović,81,FALSE,FALSE
+2018-10-11,Poland,Portugal,Poland,Krzysztof Piątek,18,FALSE,FALSE
+2018-10-11,Poland,Portugal,Portugal,André Silva,32,FALSE,FALSE
+2018-10-11,Poland,Portugal,Portugal,Kamil Glik,43,TRUE,FALSE
+2018-10-11,Poland,Portugal,Portugal,Bernardo Silva,52,FALSE,FALSE
+2018-10-11,Poland,Portugal,Poland,Jakub Błaszczykowski,77,FALSE,FALSE
+2018-10-12,Austria,Northern Ireland,Austria,Marko Arnautović,71,FALSE,FALSE
+2018-10-12,Belarus,Luxembourg,Belarus,Anton Saroka,43,FALSE,FALSE
+2018-10-12,Belgium,Switzerland,Belgium,Romelu Lukaku,58,FALSE,FALSE
+2018-10-12,Belgium,Switzerland,Switzerland,Mario Gavranović,76,FALSE,FALSE
+2018-10-12,Belgium,Switzerland,Belgium,Romelu Lukaku,84,FALSE,FALSE
+2018-10-12,Estonia,Finland,Finland,Teemu Pukki,90,FALSE,FALSE
+2018-10-12,Greece,Hungary,Greece,Kostas Mitroglou,65,FALSE,FALSE
+2018-10-12,Moldova,San Marino,Moldova,Radu Gînsari,31,FALSE,FALSE
+2018-10-12,Moldova,San Marino,Moldova,Radu Gînsari,67,FALSE,FALSE
+2018-10-13,Armenia,Gibraltar,Gibraltar,Joseph Chipolina,50,FALSE,TRUE
+2018-10-13,Bulgaria,Cyprus,Cyprus,Grigoris Kastanos,41,FALSE,FALSE
+2018-10-13,Bulgaria,Cyprus,Bulgaria,Kiril Despodov,59,FALSE,FALSE
+2018-10-13,Bulgaria,Cyprus,Bulgaria,Todor Nedelev,68,FALSE,FALSE
+2018-10-13,Georgia,Andorra,Georgia,Valeri Qazaishvili,33,FALSE,FALSE
+2018-10-13,Georgia,Andorra,Georgia,Valeri Qazaishvili,84,FALSE,FALSE
+2018-10-13,Georgia,Andorra,Georgia,Jaba Kankava,90,FALSE,FALSE
+2018-10-13,Latvia,Kazakhstan,Kazakhstan,Baktiyar Zaynutdinov,16,FALSE,FALSE
+2018-10-13,Latvia,Kazakhstan,Latvia,Artūrs Karašausks,40,FALSE,FALSE
+2018-10-13,Netherlands,Germany,Netherlands,Virgil van Dijk,30,FALSE,FALSE
+2018-10-13,Netherlands,Germany,Netherlands,Memphis Depay,87,FALSE,FALSE
+2018-10-13,Netherlands,Germany,Netherlands,Georginio Wijnaldum,90,FALSE,FALSE
+2018-10-13,North Macedonia,Liechtenstein,North Macedonia,Aleksandar Trajkovski,10,FALSE,FALSE
+2018-10-13,North Macedonia,Liechtenstein,North Macedonia,Aleksandar Trajkovski,30,FALSE,FALSE
+2018-10-13,North Macedonia,Liechtenstein,North Macedonia,Goran Pandev,36,FALSE,FALSE
+2018-10-13,North Macedonia,Liechtenstein,Liechtenstein,Seyhan Yildiz,37,FALSE,FALSE
+2018-10-13,North Macedonia,Liechtenstein,North Macedonia,Ezgjan Alioski,67,FALSE,FALSE
+2018-10-13,Norway,Slovenia,Norway,Ole Selnæs,45,FALSE,FALSE
+2018-10-13,Slovakia,Czech Republic,Czech Republic,Michael Krmenčík,52,FALSE,FALSE
+2018-10-13,Slovakia,Czech Republic,Slovakia,Marek Hamšík,62,FALSE,FALSE
+2018-10-13,Slovakia,Czech Republic,Czech Republic,Patrik Schick,76,FALSE,FALSE
+2018-10-14,Azerbaijan,Malta,Malta,Rowen Muscat,37,FALSE,FALSE
+2018-10-14,Azerbaijan,Malta,Azerbaijan,Araz Abdullayev,53,FALSE,FALSE
+2018-10-14,Faroe Islands,Kosovo,Kosovo,Milot Rashica,9,FALSE,FALSE
+2018-10-14,Faroe Islands,Kosovo,Faroe Islands,René Joensen,50,FALSE,FALSE
+2018-10-14,Israel,Albania,Israel,Tomer Hemed,8,FALSE,FALSE
+2018-10-14,Israel,Albania,Israel,Dia Saba,83,FALSE,FALSE
+2018-10-14,Lithuania,Montenegro,Montenegro,Stefan Mugoša,10,FALSE,FALSE
+2018-10-14,Lithuania,Montenegro,Montenegro,Boris Kopitović,35,FALSE,FALSE
+2018-10-14,Lithuania,Montenegro,Montenegro,Stefan Mugoša,45,FALSE,TRUE
+2018-10-14,Lithuania,Montenegro,Montenegro,Darko Zorić,86,FALSE,FALSE
+2018-10-14,Lithuania,Montenegro,Lithuania,Rolandas Baravykas,88,FALSE,FALSE
+2018-10-14,Poland,Italy,Italy,Cristiano Biraghi,90,FALSE,FALSE
+2018-10-14,Russia,Turkey,Russia,Roman Neustädter,20,FALSE,FALSE
+2018-10-14,Russia,Turkey,Russia,Denis Cheryshev,78,FALSE,FALSE
+2018-10-15,Bosnia and Herzegovina,Northern Ireland,Bosnia and Herzegovina,Edin Džeko,27,FALSE,FALSE
+2018-10-15,Bosnia and Herzegovina,Northern Ireland,Bosnia and Herzegovina,Edin Džeko,73,FALSE,FALSE
+2018-10-15,Estonia,Hungary,Estonia,Siim Luts,20,FALSE,FALSE
+2018-10-15,Estonia,Hungary,Hungary,Dominik Nagy,24,FALSE,FALSE
+2018-10-15,Estonia,Hungary,Hungary,Ádám Szalai,54,FALSE,FALSE
+2018-10-15,Estonia,Hungary,Estonia,Máté Pátkai,70,TRUE,FALSE
+2018-10-15,Estonia,Hungary,Estonia,Henri Anier,79,FALSE,FALSE
+2018-10-15,Estonia,Hungary,Hungary,Ádám Szalai,81,FALSE,FALSE
+2018-10-15,Finland,Greece,Finland,Pyry Soiri,46,FALSE,FALSE
+2018-10-15,Finland,Greece,Finland,Glen Kamara,89,FALSE,FALSE
+2018-10-15,Iceland,Switzerland,Switzerland,Haris Seferovic,52,FALSE,FALSE
+2018-10-15,Iceland,Switzerland,Switzerland,Michael Lang,67,FALSE,FALSE
+2018-10-15,Iceland,Switzerland,Iceland,Alfreð Finnbogason,81,FALSE,FALSE
+2018-10-15,Luxembourg,San Marino,Luxembourg,David Turpel,4,FALSE,FALSE
+2018-10-15,Luxembourg,San Marino,Luxembourg,Danel Sinani,65,FALSE,FALSE
+2018-10-15,Luxembourg,San Marino,Luxembourg,Vincent Thill,73,FALSE,FALSE
+2018-10-15,Spain,England,England,Raheem Sterling,16,FALSE,FALSE
+2018-10-15,Spain,England,England,Marcus Rashford,30,FALSE,FALSE
+2018-10-15,Spain,England,England,Raheem Sterling,38,FALSE,FALSE
+2018-10-15,Spain,England,Spain,Paco Alcácer,58,FALSE,FALSE
+2018-10-15,Spain,England,Spain,Sergio Ramos,90,FALSE,FALSE
+2018-10-16,Armenia,North Macedonia,Armenia,Marcos Pizzelli,12,FALSE,FALSE
+2018-10-16,Armenia,North Macedonia,Armenia,Yura Movsisyan,67,FALSE,FALSE
+2018-10-16,Armenia,North Macedonia,Armenia,Gevorg Ghazaryan,81,FALSE,FALSE
+2018-10-16,Armenia,North Macedonia,Armenia,Henrikh Mkhitaryan,90,FALSE,FALSE
+2018-10-16,France,Germany,Germany,Toni Kroos,14,FALSE,TRUE
+2018-10-16,France,Germany,France,Antoine Griezmann,62,FALSE,FALSE
+2018-10-16,France,Germany,France,Antoine Griezmann,80,FALSE,TRUE
+2018-10-16,Gibraltar,Liechtenstein,Liechtenstein,Dennis Salanović,15,FALSE,FALSE
+2018-10-16,Gibraltar,Liechtenstein,Gibraltar,George Cabrera,61,FALSE,FALSE
+2018-10-16,Gibraltar,Liechtenstein,Gibraltar,Joseph Chipolina,66,FALSE,FALSE
+2018-10-16,Kazakhstan,Andorra,Kazakhstan,Yerkebulan Seydakhmet,21,FALSE,FALSE
+2018-10-16,Kazakhstan,Andorra,Kazakhstan,Bauyrzhan Turysbek,39,FALSE,FALSE
+2018-10-16,Kazakhstan,Andorra,Kazakhstan,Josep Gómes,61,TRUE,FALSE
+2018-10-16,Kazakhstan,Andorra,Kazakhstan,Roman Murtazayev,74,FALSE,FALSE
+2018-10-16,Latvia,Georgia,Georgia,Jaba Kankava,8,FALSE,FALSE
+2018-10-16,Latvia,Georgia,Georgia,Valerian Gvilia,29,FALSE,FALSE
+2018-10-16,Latvia,Georgia,Georgia,Giorgi Chakvetadze,61,FALSE,FALSE
+2018-10-16,Norway,Bulgaria,Norway,Mohamed Elyounoussi,31,FALSE,FALSE
+2018-10-16,Republic of Ireland,Wales,Wales,Harry Wilson,58,FALSE,FALSE
+2018-10-16,Slovenia,Cyprus,Cyprus,Fotios Papoulis,37,FALSE,FALSE
+2018-10-16,Slovenia,Cyprus,Slovenia,Nejc Skubic,83,FALSE,FALSE
+2018-10-16,Ukraine,Czech Republic,Ukraine,Ruslan Malinovskyi,43,FALSE,FALSE
+2018-11-15,Andorra,Georgia,Georgia,Giorgi Chakvetadze,9,FALSE,FALSE
+2018-11-15,Andorra,Georgia,Andorra,Cristian Martínez,63,FALSE,FALSE
+2018-11-15,Belgium,Iceland,Belgium,Michy Batshuayi,65,FALSE,FALSE
+2018-11-15,Belgium,Iceland,Belgium,Michy Batshuayi,81,FALSE,FALSE
+2018-11-15,Croatia,Spain,Croatia,Andrej Kramarić,54,FALSE,FALSE
+2018-11-15,Croatia,Spain,Spain,Dani Ceballos,56,FALSE,FALSE
+2018-11-15,Croatia,Spain,Croatia,Tin Jedvaj,69,FALSE,FALSE
+2018-11-15,Croatia,Spain,Spain,Sergio Ramos,78,FALSE,TRUE
+2018-11-15,Croatia,Spain,Croatia,Tin Jedvaj,90,FALSE,FALSE
+2018-11-15,Greece,Finland,Greece,Albin Granlund,25,TRUE,FALSE
+2018-11-15,Hungary,Estonia,Hungary,Willi Orbán,8,FALSE,FALSE
+2018-11-15,Hungary,Estonia,Hungary,Ádám Szalai,69,FALSE,FALSE
+2018-11-15,Kazakhstan,Latvia,Kazakhstan,Gafurzhan Suyumbayev,37,FALSE,FALSE
+2018-11-15,Kazakhstan,Latvia,Latvia,Deniss Rakels,49,FALSE,FALSE
+2018-11-15,Luxembourg,Belarus,Belarus,Stanislaw Drahun,37,FALSE,FALSE
+2018-11-15,Luxembourg,Belarus,Belarus,Stanislaw Drahun,54,FALSE,FALSE
+2018-11-15,San Marino,Moldova,Moldova,Vitalie Damașcan,78,FALSE,FALSE
+2018-11-16,Cyprus,Bulgaria,Cyprus,Panagiotis Zachariou,24,FALSE,FALSE
+2018-11-16,Cyprus,Bulgaria,Bulgaria,Nikolay Dimitrov,89,FALSE,TRUE
+2018-11-16,Gibraltar,Armenia,Gibraltar,Tjay De Barr,10,FALSE,FALSE
+2018-11-16,Gibraltar,Armenia,Armenia,Yura Movsisyan,27,FALSE,FALSE
+2018-11-16,Gibraltar,Armenia,Armenia,Yura Movsisyan,48,FALSE,FALSE
+2018-11-16,Gibraltar,Armenia,Armenia,Yura Movsisyan,52,FALSE,FALSE
+2018-11-16,Gibraltar,Armenia,Armenia,Yura Movsisyan,54,FALSE,FALSE
+2018-11-16,Gibraltar,Armenia,Armenia,Artur Kartashyan,66,FALSE,FALSE
+2018-11-16,Gibraltar,Armenia,Gibraltar,Adam Priestley,78,FALSE,FALSE
+2018-11-16,Gibraltar,Armenia,Armenia,Aleksandre Karapetian,90,FALSE,FALSE
+2018-11-16,Liechtenstein,North Macedonia,North Macedonia,Enis Bardhi,53,FALSE,FALSE
+2018-11-16,Liechtenstein,North Macedonia,North Macedonia,Ilija Nestorovski,90,FALSE,FALSE
+2018-11-16,Netherlands,France,Netherlands,Georginio Wijnaldum,44,FALSE,FALSE
+2018-11-16,Netherlands,France,Netherlands,Memphis Depay,90,FALSE,TRUE
+2018-11-16,Slovakia,Ukraine,Slovakia,Albert Rusnák,6,FALSE,FALSE
+2018-11-16,Slovakia,Ukraine,Slovakia,Juraj Kucka,26,FALSE,FALSE
+2018-11-16,Slovakia,Ukraine,Ukraine,Yevhen Konoplyanka,47,FALSE,FALSE
+2018-11-16,Slovakia,Ukraine,Slovakia,Adam Zreľák,52,FALSE,FALSE
+2018-11-16,Slovakia,Ukraine,Slovakia,Róbert Mak,61,FALSE,FALSE
+2018-11-16,Slovenia,Norway,Slovenia,Benjamin Verbič,9,FALSE,FALSE
+2018-11-16,Slovenia,Norway,Norway,Bjørn Maars Johnsen,85,FALSE,FALSE
+2018-11-16,Wales,Denmark,Denmark,Nicolai Jørgensen,42,FALSE,FALSE
+2018-11-16,Wales,Denmark,Denmark,Martin Braithwaite,88,FALSE,FALSE
+2018-11-16,Wales,Denmark,Wales,Gareth Bale,89,FALSE,FALSE
+2018-11-17,Albania,Scotland,Scotland,Ryan Fraser,14,FALSE,FALSE
+2018-11-17,Albania,Scotland,Scotland,Steven Fletcher,45,FALSE,TRUE
+2018-11-17,Albania,Scotland,Scotland,James Forrest,55,FALSE,FALSE
+2018-11-17,Albania,Scotland,Scotland,James Forrest,67,FALSE,FALSE
+2018-11-17,Azerbaijan,Faroe Islands,Azerbaijan,Dimitrij Nazarov,18,FALSE,FALSE
+2018-11-17,Azerbaijan,Faroe Islands,Azerbaijan,Mahir Madatov,28,FALSE,FALSE
+2018-11-17,Malta,Kosovo,Kosovo,Vedat Muriqi,15,FALSE,FALSE
+2018-11-17,Malta,Kosovo,Kosovo,Benjamin Kololli,70,FALSE,FALSE
+2018-11-17,Malta,Kosovo,Kosovo,Donis Avdijaj,78,FALSE,FALSE
+2018-11-17,Malta,Kosovo,Kosovo,Donis Avdijaj,80,FALSE,FALSE
+2018-11-17,Malta,Kosovo,Kosovo,Milot Rashica,86,FALSE,FALSE
+2018-11-17,Romania,Lithuania,Romania,George Pușcaș,7,FALSE,FALSE
+2018-11-17,Romania,Lithuania,Romania,Claudiu Keșerü,47,FALSE,FALSE
+2018-11-17,Romania,Lithuania,Romania,Nicolae Stanciu,65,FALSE,FALSE
+2018-11-17,Serbia,Montenegro,Serbia,Adem Ljajić,30,FALSE,FALSE
+2018-11-17,Serbia,Montenegro,Serbia,Aleksandar Mitrović,32,FALSE,FALSE
+2018-11-17,Serbia,Montenegro,Montenegro,Stefan Mugoša,70,FALSE,FALSE
+2018-11-17,Turkey,Sweden,Sweden,Andreas Granqvist,71,FALSE,TRUE
+2018-11-18,England,Croatia,Croatia,Andrej Kramarić,57,FALSE,FALSE
+2018-11-18,England,Croatia,England,Jesse Lingard,78,FALSE,FALSE
+2018-11-18,England,Croatia,England,Harry Kane,85,FALSE,FALSE
+2018-11-18,Greece,Estonia,Estonia,Vassilis Lambropoulos,44,TRUE,FALSE
+2018-11-18,Hungary,Finland,Hungary,Ádám Szalai,29,FALSE,FALSE
+2018-11-18,Hungary,Finland,Hungary,Ádám Nagy,37,FALSE,FALSE
+2018-11-18,Moldova,Luxembourg,Moldova,Radu Gînsari,58,FALSE,TRUE
+2018-11-18,Moldova,Luxembourg,Luxembourg,Stefano Bensi,70,FALSE,FALSE
+2018-11-18,Northern Ireland,Austria,Austria,Xaver Schlager,49,FALSE,FALSE
+2018-11-18,Northern Ireland,Austria,Northern Ireland,Corry Evans,57,FALSE,FALSE
+2018-11-18,Northern Ireland,Austria,Austria,Valentino Lazaro,90,FALSE,FALSE
+2018-11-18,San Marino,Belarus,Belarus,Stanislaw Drahun,8,FALSE,FALSE
+2018-11-18,San Marino,Belarus,Belarus,Anton Saroka,52,FALSE,FALSE
+2018-11-18,Switzerland,Belgium,Belgium,Thorgan Hazard,2,FALSE,FALSE
+2018-11-18,Switzerland,Belgium,Belgium,Thorgan Hazard,17,FALSE,FALSE
+2018-11-18,Switzerland,Belgium,Switzerland,Ricardo Rodríguez,26,FALSE,TRUE
+2018-11-18,Switzerland,Belgium,Switzerland,Haris Seferovic,31,FALSE,FALSE
+2018-11-18,Switzerland,Belgium,Switzerland,Haris Seferovic,44,FALSE,FALSE
+2018-11-18,Switzerland,Belgium,Switzerland,Nico Elvedi,62,FALSE,FALSE
+2018-11-18,Switzerland,Belgium,Switzerland,Haris Seferovic,84,FALSE,FALSE
+2018-11-19,Bulgaria,Slovenia,Bulgaria,Galin Ivanov,68,FALSE,FALSE
+2018-11-19,Bulgaria,Slovenia,Slovenia,Miha Zajc,75,FALSE,FALSE
+2018-11-19,Cyprus,Norway,Norway,Ola Kamara,36,FALSE,FALSE
+2018-11-19,Cyprus,Norway,Norway,Ola Kamara,48,FALSE,FALSE
+2018-11-19,Czech Republic,Slovakia,Czech Republic,Patrik Schick,32,FALSE,FALSE
+2018-11-19,Georgia,Kazakhstan,Georgia,Giorgi Merebashvili,59,FALSE,FALSE
+2018-11-19,Georgia,Kazakhstan,Georgia,Giorgi Chakvetadze,84,FALSE,FALSE
+2018-11-19,Georgia,Kazakhstan,Kazakhstan,Oralkhan Omirtayev,90,FALSE,FALSE
+2018-11-19,Germany,Netherlands,Germany,Timo Werner,9,FALSE,FALSE
+2018-11-19,Germany,Netherlands,Germany,Leroy Sané,20,FALSE,FALSE
+2018-11-19,Germany,Netherlands,Netherlands,Quincy Promes,85,FALSE,FALSE
+2018-11-19,Germany,Netherlands,Netherlands,Virgil van Dijk,90,FALSE,FALSE
+2018-11-19,Liechtenstein,Armenia,Armenia,Sargis Adamyan,9,FALSE,FALSE
+2018-11-19,Liechtenstein,Armenia,Liechtenstein,Marcel Büchel,44,FALSE,FALSE
+2018-11-19,Liechtenstein,Armenia,Liechtenstein,Nicolas Hasler,47,FALSE,FALSE
+2018-11-19,Liechtenstein,Armenia,Armenia,Aleksandre Karapetian,85,FALSE,FALSE
+2018-11-19,North Macedonia,Gibraltar,North Macedonia,Enis Bardhi,27,FALSE,FALSE
+2018-11-19,North Macedonia,Gibraltar,North Macedonia,Ilija Nestorovski,67,FALSE,FALSE
+2018-11-19,North Macedonia,Gibraltar,North Macedonia,Ilija Nestorovski,80,FALSE,FALSE
+2018-11-19,North Macedonia,Gibraltar,North Macedonia,Aleksandar Trajkovski,90,FALSE,FALSE
+2018-11-20,Kosovo,Azerbaijan,Kosovo,Arbër Zeneli,2,FALSE,FALSE
+2018-11-20,Kosovo,Azerbaijan,Kosovo,Arbër Zeneli,50,FALSE,FALSE
+2018-11-20,Kosovo,Azerbaijan,Kosovo,Amir Rrahmani,61,FALSE,FALSE
+2018-11-20,Kosovo,Azerbaijan,Kosovo,Arbër Zeneli,76,FALSE,FALSE
+2018-11-20,Malta,Faroe Islands,Faroe Islands,René Joensen,3,FALSE,FALSE
+2018-11-20,Malta,Faroe Islands,Malta,Juan Carlos Corbalan,4,FALSE,FALSE
+2018-11-20,Montenegro,Romania,Romania,George Țucudean,44,FALSE,FALSE
+2018-11-20,Portugal,Poland,Portugal,André Silva,34,FALSE,FALSE
+2018-11-20,Portugal,Poland,Poland,Arkadiusz Milik,66,FALSE,TRUE
+2018-11-20,Scotland,Israel,Israel,Beram Kayal,9,FALSE,FALSE
+2018-11-20,Scotland,Israel,Scotland,James Forrest,34,FALSE,FALSE
+2018-11-20,Scotland,Israel,Scotland,James Forrest,43,FALSE,FALSE
+2018-11-20,Scotland,Israel,Scotland,James Forrest,64,FALSE,FALSE
+2018-11-20,Scotland,Israel,Israel,Eran Zahavi,75,FALSE,FALSE
+2018-11-20,Serbia,Lithuania,Serbia,Artūras Žulpa,51,TRUE,FALSE
+2018-11-20,Serbia,Lithuania,Serbia,Aleksandar Mitrović,58,FALSE,FALSE
+2018-11-20,Serbia,Lithuania,Lithuania,Deimantas Petravičius,64,FALSE,FALSE
+2018-11-20,Serbia,Lithuania,Serbia,Aleksandar Prijović,71,FALSE,FALSE
+2018-11-20,Serbia,Lithuania,Serbia,Adem Ljajić,74,FALSE,FALSE
+2018-11-20,Sweden,Russia,Sweden,Victor Lindelöf,41,FALSE,FALSE
+2018-11-20,Sweden,Russia,Sweden,Marcus Berg,72,FALSE,FALSE
 2019-01-05,United Arab Emirates,Bahrain,Bahrain,Mohamed Al-Romaihi,78,FALSE,FALSE
 2019-01-05,United Arab Emirates,Bahrain,United Arab Emirates,Ahmed Khalil,88,FALSE,TRUE
 2019-01-06,Australia,Jordan,Jordan,Anas Bani Yaseen,26,FALSE,FALSE
@@ -37303,9 +37632,25 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-03-26,Switzerland,Denmark,Denmark,Mathias Jørgensen,84,FALSE,FALSE
 2019-03-26,Switzerland,Denmark,Denmark,Christian Gytkjær,88,FALSE,FALSE
 2019-03-26,Switzerland,Denmark,Denmark,Henrik Dalsgaard,90,FALSE,FALSE
+2019-06-05,Portugal,Switzerland,Portugal,Cristiano Ronaldo,25,FALSE,FALSE
+2019-06-05,Portugal,Switzerland,Portugal,Cristiano Ronaldo,25,FALSE,FALSE
+2019-06-05,Portugal,Switzerland,Switzerland,Ricardo Rodríguez,57,FALSE,TRUE
+2019-06-05,Portugal,Switzerland,Switzerland,Ricardo Rodríguez,57,FALSE,TRUE
+2019-06-05,Portugal,Switzerland,Portugal,Cristiano Ronaldo,88,FALSE,FALSE
+2019-06-05,Portugal,Switzerland,Portugal,Cristiano Ronaldo,88,FALSE,FALSE
+2019-06-05,Portugal,Switzerland,Portugal,Cristiano Ronaldo,90,FALSE,FALSE
+2019-06-05,Portugal,Switzerland,Portugal,Cristiano Ronaldo,90,FALSE,FALSE
 2019-06-06,Bhutan,Guam,Bhutan,Tshering Dorji,35,FALSE,FALSE
 2019-06-06,Cambodia,Pakistan,Cambodia,Sieng Chanthea,81,FALSE,FALSE
 2019-06-06,Cambodia,Pakistan,Cambodia,Kouch Sokumpheak,84,FALSE,FALSE
+2019-06-06,England,Netherlands,England,Marcus Rashford,32,FALSE,TRUE
+2019-06-06,England,Netherlands,England,Marcus Rashford,32,FALSE,TRUE
+2019-06-06,England,Netherlands,Netherlands,Matthijs de Ligt,73,FALSE,FALSE
+2019-06-06,England,Netherlands,Netherlands,Matthijs de Ligt,73,FALSE,FALSE
+2019-06-06,England,Netherlands,Netherlands,Kyle Walker,97,TRUE,FALSE
+2019-06-06,England,Netherlands,Netherlands,Kyle Walker,97,TRUE,FALSE
+2019-06-06,England,Netherlands,Netherlands,Quincy Promes,114,FALSE,FALSE
+2019-06-06,England,Netherlands,Netherlands,Quincy Promes,114,FALSE,FALSE
 2019-06-06,Laos,Bangladesh,Bangladesh,Robiul Hasan,72,FALSE,FALSE
 2019-06-06,Macau,Sri Lanka,Macau,Filipe Duarte,52,FALSE,FALSE
 2019-06-06,Mongolia,Brunei,Mongolia,Norjmoogiin Tsedenbal,9,FALSE,FALSE
@@ -37391,6 +37736,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-06-08,Scotland,Cyprus,Scotland,Oliver Burke,89,FALSE,FALSE
 2019-06-08,Turkey,France,Turkey,Kaan Ayhan,30,FALSE,FALSE
 2019-06-08,Turkey,France,Turkey,Cengiz Ünder,40,FALSE,FALSE
+2019-06-09,Portugal,Netherlands,Portugal,Gonçalo Guedes,60,FALSE,FALSE
+2019-06-09,Portugal,Netherlands,Portugal,Gonçalo Guedes,60,FALSE,FALSE
 2019-06-10,Bulgaria,Kosovo,Kosovo,Milot Rashica,14,FALSE,FALSE
 2019-06-10,Bulgaria,Kosovo,Bulgaria,Ivelin Popov,43,FALSE,FALSE
 2019-06-10,Bulgaria,Kosovo,Bulgaria,Kristian Dimitrov,55,FALSE,FALSE
@@ -38578,6 +38925,129 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-11-19,Yemen,Singapore,Singapore,Ikhsan Fandi,19,FALSE,FALSE
 2019-11-19,Yemen,Singapore,Singapore,Hafiz Nor,52,FALSE,FALSE
 2019-11-19,Yemen,Singapore,Yemen,Nasser Al-Gahwashi,85,FALSE,FALSE
+2020-09-03,Bulgaria,Republic of Ireland,Bulgaria,Bozhidar Kraev,56,FALSE,FALSE
+2020-09-03,Bulgaria,Republic of Ireland,Republic of Ireland,Shane Duffy,90,FALSE,FALSE
+2020-09-03,Faroe Islands,Malta,Faroe Islands,Klæmint Olsen,25,FALSE,FALSE
+2020-09-03,Faroe Islands,Malta,Malta,Jurgen Degabriele,37,FALSE,FALSE
+2020-09-03,Faroe Islands,Malta,Malta,Andrei Agius,73,FALSE,FALSE
+2020-09-03,Faroe Islands,Malta,Faroe Islands,Andreas Olsen,87,FALSE,FALSE
+2020-09-03,Faroe Islands,Malta,Faroe Islands,Brandur Hendriksson,90,FALSE,FALSE
+2020-09-03,Finland,Wales,Wales,Kieffer Moore,80,FALSE,FALSE
+2020-09-03,Germany,Spain,Germany,Timo Werner,51,FALSE,FALSE
+2020-09-03,Germany,Spain,Spain,José Gayà,90,FALSE,FALSE
+2020-09-03,Moldova,Kosovo,Moldova,Ion Nicolaescu,20,FALSE,FALSE
+2020-09-03,Moldova,Kosovo,Kosovo,Benjamin Kololli,71,FALSE,FALSE
+2020-09-03,Russia,Serbia,Russia,Artem Dzyuba,48,FALSE,TRUE
+2020-09-03,Russia,Serbia,Russia,Vyacheslav Karavayev,69,FALSE,FALSE
+2020-09-03,Russia,Serbia,Serbia,Aleksandar Mitrović,78,FALSE,FALSE
+2020-09-03,Russia,Serbia,Russia,Artem Dzyuba,81,FALSE,FALSE
+2020-09-03,Turkey,Hungary,Hungary,Dominik Szoboszlai,80,FALSE,FALSE
+2020-09-03,Ukraine,Switzerland,Ukraine,Andriy Yarmolenko,14,FALSE,FALSE
+2020-09-03,Ukraine,Switzerland,Switzerland,Haris Seferovic,41,FALSE,FALSE
+2020-09-03,Ukraine,Switzerland,Ukraine,Oleksandr Zinchenko,68,FALSE,FALSE
+2020-09-04,Belarus,Albania,Albania,Sokol Cikalleshi,23,FALSE,FALSE
+2020-09-04,Belarus,Albania,Albania,Keidi Bare,78,FALSE,FALSE
+2020-09-04,Italy,Bosnia and Herzegovina,Bosnia and Herzegovina,Edin Džeko,57,FALSE,FALSE
+2020-09-04,Italy,Bosnia and Herzegovina,Italy,Stefano Sensi,67,FALSE,FALSE
+2020-09-04,Lithuania,Kazakhstan,Kazakhstan,Baktiyar Zaynutdinov,3,FALSE,FALSE
+2020-09-04,Lithuania,Kazakhstan,Kazakhstan,Islambek Kuat,86,FALSE,FALSE
+2020-09-04,Netherlands,Poland,Netherlands,Steven Bergwijn,61,FALSE,FALSE
+2020-09-04,Norway,Austria,Austria,Michael Gregoritsch,35,FALSE,FALSE
+2020-09-04,Norway,Austria,Austria,Marcel Sabitzer,54,FALSE,TRUE
+2020-09-04,Norway,Austria,Norway,Erling Haaland,66,FALSE,FALSE
+2020-09-04,Romania,Northern Ireland,Romania,George Pușcaș,25,FALSE,FALSE
+2020-09-04,Romania,Northern Ireland,Northern Ireland,Gavin Whyte,86,FALSE,FALSE
+2020-09-04,Scotland,Israel,Scotland,Ryan Christie,45,FALSE,TRUE
+2020-09-04,Scotland,Israel,Israel,Eran Zahavi,73,FALSE,FALSE
+2020-09-04,Slovakia,Czech Republic,Czech Republic,Vladimír Coufal,48,FALSE,FALSE
+2020-09-04,Slovakia,Czech Republic,Czech Republic,Bořek Dočkal,53,FALSE,TRUE
+2020-09-04,Slovakia,Czech Republic,Czech Republic,Michael Krmenčík,86,FALSE,FALSE
+2020-09-04,Slovakia,Czech Republic,Slovakia,Ivan Schranz,88,FALSE,FALSE
+2020-09-05,Azerbaijan,Luxembourg,Azerbaijan,Ramil Sheydayev,43,FALSE,FALSE
+2020-09-05,Azerbaijan,Luxembourg,Luxembourg,Anton Krivotsyuk,48,TRUE,FALSE
+2020-09-05,Azerbaijan,Luxembourg,Luxembourg,Gerson Rodrigues,72,FALSE,TRUE
+2020-09-05,Cyprus,Montenegro,Montenegro,Stevan Jovetić,60,FALSE,FALSE
+2020-09-05,Cyprus,Montenegro,Montenegro,Stevan Jovetić,73,FALSE,FALSE
+2020-09-05,Denmark,Belgium,Belgium,Jason Denayer,9,FALSE,FALSE
+2020-09-05,Denmark,Belgium,Belgium,Dries Mertens,76,FALSE,FALSE
+2020-09-05,Estonia,Georgia,Georgia,Nika Kacharava,32,FALSE,FALSE
+2020-09-05,Gibraltar,San Marino,Gibraltar,Graeme Torrilla,42,FALSE,FALSE
+2020-09-05,Iceland,England,England,Raheem Sterling,90,FALSE,TRUE
+2020-09-05,North Macedonia,Armenia,North Macedonia,Ezgjan Alioski,5,FALSE,TRUE
+2020-09-05,North Macedonia,Armenia,North Macedonia,Ilija Nestorovski,38,FALSE,TRUE
+2020-09-05,North Macedonia,Armenia,Armenia,Tigran Barseghyan,90,FALSE,TRUE
+2020-09-05,Portugal,Croatia,Portugal,João Cancelo,41,FALSE,FALSE
+2020-09-05,Portugal,Croatia,Portugal,Diogo Jota,58,FALSE,FALSE
+2020-09-05,Portugal,Croatia,Portugal,João Félix,70,FALSE,FALSE
+2020-09-05,Portugal,Croatia,Portugal,André Silva,90,FALSE,FALSE
+2020-09-05,Portugal,Croatia,Croatia,Bruno Petković,90,FALSE,FALSE
+2020-09-05,Sweden,France,France,Kylian Mbappé,41,FALSE,FALSE
+2020-09-06,Andorra,Faroe Islands,Faroe Islands,Klæmint Olsen,31,FALSE,FALSE
+2020-09-06,Hungary,Russia,Russia,Anton Miranchuk,15,FALSE,FALSE
+2020-09-06,Hungary,Russia,Russia,Magomed Ozdoyev,34,FALSE,FALSE
+2020-09-06,Hungary,Russia,Russia,Mário Fernandes,46,FALSE,FALSE
+2020-09-06,Hungary,Russia,Hungary,Roland Sallai,62,FALSE,FALSE
+2020-09-06,Hungary,Russia,Hungary,Nemanja Nikolić,70,FALSE,FALSE
+2020-09-06,Kosovo,Greece,Greece,Dimitris Limnios,2,FALSE,FALSE
+2020-09-06,Kosovo,Greece,Greece,Dimitris Siovas,51,FALSE,FALSE
+2020-09-06,Kosovo,Greece,Kosovo,Bernard Berisha,82,FALSE,FALSE
+2020-09-06,Malta,Latvia,Malta,Kyrian Nwoko,15,FALSE,FALSE
+2020-09-06,Malta,Latvia,Latvia,Matthew Guillaumier,25,TRUE,FALSE
+2020-09-06,Republic of Ireland,Finland,Finland,Fredrik Jensen,64,FALSE,FALSE
+2020-09-06,Slovenia,Moldova,Slovenia,Damjan Bohar,28,FALSE,FALSE
+2020-09-06,Spain,Ukraine,Spain,Sergio Ramos,3,FALSE,TRUE
+2020-09-06,Spain,Ukraine,Spain,Sergio Ramos,29,FALSE,FALSE
+2020-09-06,Spain,Ukraine,Spain,Ansu Fati,32,FALSE,FALSE
+2020-09-06,Spain,Ukraine,Spain,Ferran Torres,84,FALSE,FALSE
+2020-09-06,Switzerland,Germany,Germany,İlkay Gündoğan,14,FALSE,FALSE
+2020-09-06,Switzerland,Germany,Switzerland,Silvan Widmer,58,FALSE,FALSE
+2020-09-06,Wales,Bulgaria,Wales,Neco Williams,90,FALSE,FALSE
+2020-09-07,Albania,Lithuania,Lithuania,Donatas Kazlauskas,51,FALSE,FALSE
+2020-09-07,Austria,Romania,Romania,Denis Alibec,3,FALSE,FALSE
+2020-09-07,Austria,Romania,Austria,Christoph Baumgartner,17,FALSE,FALSE
+2020-09-07,Austria,Romania,Romania,Dragoș Grigore,51,FALSE,FALSE
+2020-09-07,Austria,Romania,Romania,Alexandru Maxim,70,FALSE,FALSE
+2020-09-07,Austria,Romania,Austria,Karim Onisiwo,81,FALSE,FALSE
+2020-09-07,Bosnia and Herzegovina,Poland,Bosnia and Herzegovina,Haris Hajradinović,24,FALSE,TRUE
+2020-09-07,Bosnia and Herzegovina,Poland,Poland,Kamil Glik,45,FALSE,FALSE
+2020-09-07,Bosnia and Herzegovina,Poland,Poland,Kamil Grosicki,67,FALSE,FALSE
+2020-09-07,Czech Republic,Scotland,Czech Republic,Jakub Pešek,12,FALSE,FALSE
+2020-09-07,Czech Republic,Scotland,Scotland,Lyndon Dykes,27,FALSE,FALSE
+2020-09-07,Czech Republic,Scotland,Scotland,Ryan Christie,52,FALSE,TRUE
+2020-09-07,Israel,Slovakia,Slovakia,Michal Ďuriš,14,FALSE,FALSE
+2020-09-07,Israel,Slovakia,Israel,Ilay Elmkies,90,FALSE,FALSE
+2020-09-07,Kazakhstan,Belarus,Belarus,Maksim Bardachow,53,FALSE,FALSE
+2020-09-07,Kazakhstan,Belarus,Kazakhstan,Abat Aimbetov,62,FALSE,FALSE
+2020-09-07,Kazakhstan,Belarus,Belarus,Vitaly Lisakovich,86,FALSE,FALSE
+2020-09-07,Netherlands,Italy,Italy,Nicolò Barella,45,FALSE,FALSE
+2020-09-07,Northern Ireland,Norway,Norway,Mohamed Elyounoussi,2,FALSE,FALSE
+2020-09-07,Northern Ireland,Norway,Northern Ireland,Paddy McNair,6,FALSE,FALSE
+2020-09-07,Northern Ireland,Norway,Norway,Erling Haaland,7,FALSE,FALSE
+2020-09-07,Northern Ireland,Norway,Norway,Alexander Sørloth,19,FALSE,FALSE
+2020-09-07,Northern Ireland,Norway,Norway,Alexander Sørloth,47,FALSE,FALSE
+2020-09-07,Northern Ireland,Norway,Norway,Erling Haaland,58,FALSE,FALSE
+2020-09-08,Armenia,Estonia,Armenia,Aleksandre Karapetian,43,FALSE,FALSE
+2020-09-08,Armenia,Estonia,Armenia,Wbeimar Angulo Mosquera,65,FALSE,FALSE
+2020-09-08,Belgium,Iceland,Iceland,Hólmbert Friðjónsson,11,FALSE,FALSE
+2020-09-08,Belgium,Iceland,Belgium,Axel Witsel,13,FALSE,FALSE
+2020-09-08,Belgium,Iceland,Belgium,Michy Batshuayi,17,FALSE,FALSE
+2020-09-08,Belgium,Iceland,Belgium,Dries Mertens,50,FALSE,FALSE
+2020-09-08,Belgium,Iceland,Belgium,Michy Batshuayi,69,FALSE,FALSE
+2020-09-08,Belgium,Iceland,Belgium,Jérémy Doku,80,FALSE,FALSE
+2020-09-08,Cyprus,Azerbaijan,Azerbaijan,Maksim Medvedev,29,FALSE,FALSE
+2020-09-08,France,Croatia,Croatia,Dejan Lovren,17,FALSE,FALSE
+2020-09-08,France,Croatia,France,Antoine Griezmann,43,FALSE,FALSE
+2020-09-08,France,Croatia,France,Dominik Livaković,45,TRUE,FALSE
+2020-09-08,France,Croatia,Croatia,Josip Brekalo,55,FALSE,FALSE
+2020-09-08,France,Croatia,France,Dayot Upamecano,65,FALSE,FALSE
+2020-09-08,France,Croatia,France,Olivier Giroud,77,FALSE,TRUE
+2020-09-08,Georgia,North Macedonia,Georgia,Tornike Okriashvili,13,FALSE,TRUE
+2020-09-08,Georgia,North Macedonia,North Macedonia,Stefan Ristovski,33,FALSE,FALSE
+2020-09-08,Luxembourg,Montenegro,Montenegro,Fatos Bećiraj,90,FALSE,TRUE
+2020-09-08,San Marino,Liechtenstein,Liechtenstein,Nicolas Hasler,3,FALSE,TRUE
+2020-09-08,San Marino,Liechtenstein,Liechtenstein,Yanik Frick,14,FALSE,FALSE
+2020-09-08,Sweden,Portugal,Portugal,Cristiano Ronaldo,45,FALSE,FALSE
+2020-09-08,Sweden,Portugal,Portugal,Cristiano Ronaldo,72,FALSE,FALSE
 2020-10-08,Argentina,Ecuador,Argentina,Lionel Messi,13,FALSE,TRUE
 2020-10-08,Bosnia and Herzegovina,Northern Ireland,Bosnia and Herzegovina,Rade Krunić,14,FALSE,FALSE
 2020-10-08,Bosnia and Herzegovina,Northern Ireland,Northern Ireland,Niall McGinn,53,FALSE,FALSE
@@ -38610,6 +39080,57 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2020-10-09,Colombia,Venezuela,Colombia,Duván Zapata,16,FALSE,FALSE
 2020-10-09,Colombia,Venezuela,Colombia,Luis Muriel,26,FALSE,FALSE
 2020-10-09,Colombia,Venezuela,Colombia,Luis Muriel,45,FALSE,FALSE
+2020-10-10,Faroe Islands,Latvia,Latvia,Jānis Ikaunieks,25,FALSE,FALSE
+2020-10-10,Faroe Islands,Latvia,Faroe Islands,Odmar Færø,28,FALSE,FALSE
+2020-10-10,Liechtenstein,Gibraltar,Gibraltar,Tjay De Barr,10,FALSE,FALSE
+2020-10-10,Luxembourg,Cyprus,Luxembourg,Danel Sinani,12,FALSE,FALSE
+2020-10-10,Luxembourg,Cyprus,Luxembourg,Danel Sinani,26,FALSE,FALSE
+2020-10-10,Montenegro,Azerbaijan,Montenegro,Stevan Jovetić,9,FALSE,FALSE
+2020-10-10,Montenegro,Azerbaijan,Montenegro,Igor Ivanović,71,FALSE,FALSE
+2020-10-10,Spain,Switzerland,Spain,Mikel Oyarzabal,14,FALSE,FALSE
+2020-10-10,Ukraine,Germany,Germany,Matthias Ginter,20,FALSE,FALSE
+2020-10-10,Ukraine,Germany,Germany,Leon Goretzka,49,FALSE,FALSE
+2020-10-10,Ukraine,Germany,Ukraine,Ruslan Malinovskyi,77,FALSE,TRUE
+2020-10-11,Armenia,Georgia,Armenia,Khoren Bayramyan,6,FALSE,FALSE
+2020-10-11,Armenia,Georgia,Georgia,Nika Kacharava,46,FALSE,FALSE
+2020-10-11,Armenia,Georgia,Georgia,Tornike Okriashvili,74,FALSE,FALSE
+2020-10-11,Armenia,Georgia,Armenia,Henrikh Mkhitaryan,89,FALSE,TRUE
+2020-10-11,Croatia,Sweden,Croatia,Nikola Vlašić,32,FALSE,FALSE
+2020-10-11,Croatia,Sweden,Sweden,Marcus Berg,66,FALSE,FALSE
+2020-10-11,Croatia,Sweden,Croatia,Andrej Kramarić,84,FALSE,FALSE
+2020-10-11,England,Belgium,Belgium,Romelu Lukaku,16,FALSE,TRUE
+2020-10-11,England,Belgium,England,Marcus Rashford,39,FALSE,TRUE
+2020-10-11,England,Belgium,England,Mason Mount,65,FALSE,FALSE
+2020-10-11,Estonia,North Macedonia,North Macedonia,Märten Kuusk,3,TRUE,FALSE
+2020-10-11,Estonia,North Macedonia,Estonia,Rauno Sappinen,33,FALSE,FALSE
+2020-10-11,Estonia,North Macedonia,Estonia,Rauno Sappinen,61,FALSE,FALSE
+2020-10-11,Estonia,North Macedonia,Estonia,Frank Liivak,76,FALSE,TRUE
+2020-10-11,Estonia,North Macedonia,North Macedonia,Goran Pandev,80,FALSE,FALSE
+2020-10-11,Estonia,North Macedonia,North Macedonia,Gjoko Zajkov,88,FALSE,FALSE
+2020-10-11,Finland,Bulgaria,Finland,Robert Taylor,52,FALSE,FALSE
+2020-10-11,Finland,Bulgaria,Finland,Fredrik Jensen,67,FALSE,FALSE
+2020-10-11,Greece,Moldova,Greece,Anastasios Bakasetas,45,FALSE,TRUE
+2020-10-11,Greece,Moldova,Greece,Petros Mantalos,50,FALSE,FALSE
+2020-10-11,Iceland,Denmark,Denmark,Rúnar Már Sigurjónsson,45,TRUE,FALSE
+2020-10-11,Iceland,Denmark,Denmark,Christian Eriksen,46,FALSE,FALSE
+2020-10-11,Iceland,Denmark,Denmark,Robert Skov,61,FALSE,FALSE
+2020-10-11,Israel,Czech Republic,Czech Republic,Joel Abu Hanna,14,TRUE,FALSE
+2020-10-11,Israel,Czech Republic,Czech Republic,Matěj Vydra,48,FALSE,FALSE
+2020-10-11,Israel,Czech Republic,Israel,Eran Zahavi,56,FALSE,FALSE
+2020-10-11,Kosovo,Slovenia,Slovenia,Haris Vučkić,22,FALSE,FALSE
+2020-10-11,Lithuania,Belarus,Lithuania,Arvydas Novikovas,7,FALSE,FALSE
+2020-10-11,Lithuania,Belarus,Belarus,Vitaly Lisakovich,59,FALSE,TRUE
+2020-10-11,Lithuania,Belarus,Belarus,Alyaksandr Sachywka,66,FALSE,FALSE
+2020-10-11,Lithuania,Belarus,Lithuania,Karolis Laukžemis,75,FALSE,FALSE
+2020-10-11,Northern Ireland,Austria,Austria,Michael Gregoritsch,42,FALSE,FALSE
+2020-10-11,Norway,Romania,Norway,Erling Haaland,13,FALSE,FALSE
+2020-10-11,Norway,Romania,Norway,Alexander Sørloth,39,FALSE,FALSE
+2020-10-11,Norway,Romania,Norway,Erling Haaland,64,FALSE,FALSE
+2020-10-11,Norway,Romania,Norway,Erling Haaland,74,FALSE,FALSE
+2020-10-11,Russia,Turkey,Russia,Anton Miranchuk,28,FALSE,FALSE
+2020-10-11,Russia,Turkey,Turkey,Kenan Karaman,62,FALSE,FALSE
+2020-10-11,Scotland,Slovakia,Scotland,Lyndon Dykes,54,FALSE,FALSE
+2020-10-11,Serbia,Hungary,Hungary,Norbert Könyves,20,FALSE,FALSE
 2020-10-13,Bolivia,Argentina,Bolivia,Marcelo Martins Moreno,24,FALSE,FALSE
 2020-10-13,Bolivia,Argentina,Argentina,Lautaro Martínez,45,FALSE,FALSE
 2020-10-13,Bolivia,Argentina,Argentina,Joaquín Correa,79,FALSE,FALSE
@@ -38623,13 +39144,65 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2020-10-13,Ecuador,Uruguay,Ecuador,Gonzalo Plata,75,FALSE,FALSE
 2020-10-13,Ecuador,Uruguay,Uruguay,Luis Suárez,83,FALSE,TRUE
 2020-10-13,Ecuador,Uruguay,Uruguay,Luis Suárez,90,FALSE,TRUE
+2020-10-13,Faroe Islands,Andorra,Faroe Islands,Klæmint Olsen,19,FALSE,FALSE
+2020-10-13,Faroe Islands,Andorra,Faroe Islands,Klæmint Olsen,33,FALSE,FALSE
+2020-10-13,Germany,Switzerland,Switzerland,Mario Gavranović,5,FALSE,FALSE
+2020-10-13,Germany,Switzerland,Switzerland,Remo Freuler,26,FALSE,FALSE
+2020-10-13,Germany,Switzerland,Germany,Timo Werner,28,FALSE,FALSE
+2020-10-13,Germany,Switzerland,Germany,Kai Havertz,55,FALSE,FALSE
+2020-10-13,Germany,Switzerland,Switzerland,Mario Gavranović,57,FALSE,FALSE
+2020-10-13,Germany,Switzerland,Germany,Serge Gnabry,60,FALSE,FALSE
+2020-10-13,Latvia,Malta,Malta,Steve Borg,90,FALSE,FALSE
+2020-10-13,Montenegro,Luxembourg,Montenegro,Igor Ivanović,34,FALSE,FALSE
+2020-10-13,Montenegro,Luxembourg,Luxembourg,Edvin Muratović,42,FALSE,FALSE
+2020-10-13,Montenegro,Luxembourg,Luxembourg,Danel Sinani,86,FALSE,FALSE
 2020-10-13,Peru,Brazil,Peru,André Carrillo,5,FALSE,FALSE
 2020-10-13,Peru,Brazil,Brazil,Neymar,28,FALSE,TRUE
 2020-10-13,Peru,Brazil,Peru,Renato Tapia,59,FALSE,FALSE
 2020-10-13,Peru,Brazil,Brazil,Richarlison,64,FALSE,FALSE
 2020-10-13,Peru,Brazil,Brazil,Neymar,83,FALSE,TRUE
 2020-10-13,Peru,Brazil,Brazil,Neymar,90,FALSE,FALSE
+2020-10-13,Ukraine,Spain,Ukraine,Viktor Tsyhankov,76,FALSE,FALSE
 2020-10-13,Venezuela,Paraguay,Paraguay,Gastón Giménez,85,FALSE,FALSE
+2020-10-14,Belarus,Kazakhstan,Belarus,Yevgeniy Yablonskiy,36,FALSE,FALSE
+2020-10-14,Belarus,Kazakhstan,Belarus,Roman Yuzepchuk,90,FALSE,FALSE
+2020-10-14,Bulgaria,Wales,Wales,Jonny Williams,85,FALSE,FALSE
+2020-10-14,Croatia,France,France,Antoine Griezmann,8,FALSE,FALSE
+2020-10-14,Croatia,France,Croatia,Nikola Vlašić,64,FALSE,FALSE
+2020-10-14,Croatia,France,France,Kylian Mbappé,79,FALSE,FALSE
+2020-10-14,England,Denmark,Denmark,Christian Eriksen,35,FALSE,TRUE
+2020-10-14,Estonia,Armenia,Armenia,Kamo Hovhannisyan,8,FALSE,FALSE
+2020-10-14,Estonia,Armenia,Estonia,Rauno Sappinen,14,FALSE,FALSE
+2020-10-14,Finland,Republic of Ireland,Finland,Fredrik Jensen,66,FALSE,FALSE
+2020-10-14,Iceland,Belgium,Belgium,Romelu Lukaku,9,FALSE,FALSE
+2020-10-14,Iceland,Belgium,Iceland,Birkir Már Sævarsson,17,FALSE,FALSE
+2020-10-14,Iceland,Belgium,Belgium,Romelu Lukaku,38,FALSE,TRUE
+2020-10-14,Italy,Netherlands,Italy,Lorenzo Pellegrini,16,FALSE,FALSE
+2020-10-14,Italy,Netherlands,Netherlands,Donny van de Beek,25,FALSE,FALSE
+2020-10-14,Moldova,Slovenia,Slovenia,Sandi Lovrić,8,FALSE,FALSE
+2020-10-14,Moldova,Slovenia,Slovenia,Haris Vučkić,37,FALSE,TRUE
+2020-10-14,Moldova,Slovenia,Slovenia,Haris Vučkić,42,FALSE,FALSE
+2020-10-14,Moldova,Slovenia,Slovenia,Haris Vučkić,55,FALSE,TRUE
+2020-10-14,North Macedonia,Georgia,Georgia,Khvicha Kvaratskhelia,74,FALSE,FALSE
+2020-10-14,North Macedonia,Georgia,North Macedonia,Ezgjan Alioski,90,FALSE,TRUE
+2020-10-14,Norway,Northern Ireland,Norway,Stuart Dallas,68,TRUE,FALSE
+2020-10-14,Poland,Bosnia and Herzegovina,Poland,Robert Lewandowski,40,FALSE,FALSE
+2020-10-14,Poland,Bosnia and Herzegovina,Poland,Karol Linetty,45,FALSE,FALSE
+2020-10-14,Poland,Bosnia and Herzegovina,Poland,Robert Lewandowski,52,FALSE,FALSE
+2020-10-14,Portugal,Sweden,Portugal,Bernardo Silva,21,FALSE,FALSE
+2020-10-14,Portugal,Sweden,Portugal,Diogo Jota,44,FALSE,FALSE
+2020-10-14,Portugal,Sweden,Portugal,Diogo Jota,72,FALSE,FALSE
+2020-10-14,Romania,Austria,Austria,Alessandro Schöpf,76,FALSE,FALSE
+2020-10-14,Scotland,Czech Republic,Scotland,Ryan Fraser,6,FALSE,FALSE
+2020-10-14,Slovakia,Israel,Slovakia,Marek Hamšík,16,FALSE,FALSE
+2020-10-14,Slovakia,Israel,Slovakia,Róbert Mak,38,FALSE,FALSE
+2020-10-14,Slovakia,Israel,Israel,Eran Zahavi,68,FALSE,FALSE
+2020-10-14,Slovakia,Israel,Israel,Eran Zahavi,76,FALSE,FALSE
+2020-10-14,Slovakia,Israel,Israel,Eran Zahavi,89,FALSE,FALSE
+2020-10-14,Turkey,Serbia,Serbia,Sergej Milinković-Savić,22,FALSE,FALSE
+2020-10-14,Turkey,Serbia,Serbia,Aleksandar Mitrović,49,FALSE,TRUE
+2020-10-14,Turkey,Serbia,Turkey,Hakan Çalhanoğlu,57,FALSE,FALSE
+2020-10-14,Turkey,Serbia,Turkey,Ozan Tufan,76,FALSE,FALSE
 2020-11-12,Argentina,Paraguay,Paraguay,Ángel Romero,21,FALSE,TRUE
 2020-11-12,Argentina,Paraguay,Argentina,Nicolás González,41,FALSE,FALSE
 2020-11-12,Bolivia,Ecuador,Bolivia,Juan Carlos Arce,37,FALSE,FALSE
@@ -38652,6 +39225,79 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2020-11-13,Colombia,Uruguay,Uruguay,Edinson Cavani,5,FALSE,FALSE
 2020-11-13,Colombia,Uruguay,Uruguay,Luis Suárez,54,FALSE,TRUE
 2020-11-13,Colombia,Uruguay,Uruguay,Darwin Núñez,73,FALSE,FALSE
+2020-11-14,Cyprus,Luxembourg,Luxembourg,Ioannis Kousoulos,5,TRUE,FALSE
+2020-11-14,Cyprus,Luxembourg,Cyprus,Grigoris Kastanos,34,FALSE,TRUE
+2020-11-14,Cyprus,Luxembourg,Cyprus,Grigoris Kastanos,71,FALSE,FALSE
+2020-11-14,Germany,Ukraine,Ukraine,Roman Yaremchuk,12,FALSE,FALSE
+2020-11-14,Germany,Ukraine,Germany,Leroy Sané,23,FALSE,FALSE
+2020-11-14,Germany,Ukraine,Germany,Timo Werner,33,FALSE,FALSE
+2020-11-14,Germany,Ukraine,Germany,Timo Werner,64,FALSE,FALSE
+2020-11-14,Latvia,Faroe Islands,Latvia,Vladimirs Kamešs,59,FALSE,FALSE
+2020-11-14,Latvia,Faroe Islands,Faroe Islands,Gunnar Vatnhamar,60,FALSE,FALSE
+2020-11-14,Malta,Andorra,Andorra,Marc Rebés,3,FALSE,FALSE
+2020-11-14,Malta,Andorra,Malta,Emili García,56,TRUE,FALSE
+2020-11-14,Malta,Andorra,Malta,Jurgen Degabriele,59,FALSE,FALSE
+2020-11-14,Malta,Andorra,Malta,Shaun Dimech,90,FALSE,FALSE
+2020-11-14,Portugal,France,France,N'Golo Kanté,54,FALSE,FALSE
+2020-11-14,Sweden,Croatia,Sweden,Dejan Kulusevski,36,FALSE,FALSE
+2020-11-14,Sweden,Croatia,Sweden,Marcus Danielson,45,FALSE,FALSE
+2020-11-14,Sweden,Croatia,Croatia,Marcus Danielson,82,TRUE,FALSE
+2020-11-14,Switzerland,Spain,Switzerland,Remo Freuler,26,FALSE,FALSE
+2020-11-14,Switzerland,Spain,Spain,Gerard Moreno,89,FALSE,FALSE
+2020-11-15,Albania,Kazakhstan,Albania,Sokol Cikalleshi,16,FALSE,FALSE
+2020-11-15,Albania,Kazakhstan,Albania,Ardian Ismajli,23,FALSE,FALSE
+2020-11-15,Albania,Kazakhstan,Kazakhstan,Aybol Abiken,25,FALSE,FALSE
+2020-11-15,Albania,Kazakhstan,Albania,Rey Manaj,63,FALSE,TRUE
+2020-11-15,Austria,Northern Ireland,Northern Ireland,Josh Magennis,75,FALSE,FALSE
+2020-11-15,Austria,Northern Ireland,Austria,Louis Schaub,81,FALSE,FALSE
+2020-11-15,Austria,Northern Ireland,Austria,Adrian Grbić,87,FALSE,FALSE
+2020-11-15,Belarus,Lithuania,Belarus,Yevgeniy Yablonskiy,5,FALSE,FALSE
+2020-11-15,Belarus,Lithuania,Belarus,Max Ebong,20,FALSE,FALSE
+2020-11-15,Belgium,England,Belgium,Youri Tielemans,10,FALSE,FALSE
+2020-11-15,Belgium,England,Belgium,Dries Mertens,24,FALSE,FALSE
+2020-11-15,Bulgaria,Finland,Finland,Teemu Pukki,7,FALSE,FALSE
+2020-11-15,Bulgaria,Finland,Finland,Robin Lod,45,FALSE,FALSE
+2020-11-15,Bulgaria,Finland,Bulgaria,Dimitar Iliev,68,FALSE,TRUE
+2020-11-15,Czech Republic,Israel,Czech Republic,Vladimír Darida,7,FALSE,FALSE
+2020-11-15,Denmark,Iceland,Denmark,Christian Eriksen,12,FALSE,TRUE
+2020-11-15,Denmark,Iceland,Iceland,Viðar Örn Kjartansson,85,FALSE,FALSE
+2020-11-15,Denmark,Iceland,Denmark,Christian Eriksen,90,FALSE,TRUE
+2020-11-15,Georgia,Armenia,Armenia,Gevorg Ghazaryan,33,FALSE,FALSE
+2020-11-15,Georgia,Armenia,Georgia,Valeri Qazaishvili,65,FALSE,TRUE
+2020-11-15,Georgia,Armenia,Armenia,Sargis Adamyan,86,FALSE,FALSE
+2020-11-15,Hungary,Serbia,Serbia,Nemanja Radonjić,17,FALSE,FALSE
+2020-11-15,Hungary,Serbia,Hungary,Zsolt Kalmár,39,FALSE,FALSE
+2020-11-15,Italy,Poland,Italy,Jorginho,27,FALSE,TRUE
+2020-11-15,Italy,Poland,Italy,Domenico Berardi,84,FALSE,FALSE
+2020-11-15,Moldova,Greece,Greece,Kostas Fortounis,32,FALSE,FALSE
+2020-11-15,Moldova,Greece,Greece,Anastasios Bakasetas,41,FALSE,FALSE
+2020-11-15,Netherlands,Bosnia and Herzegovina,Netherlands,Georginio Wijnaldum,6,FALSE,FALSE
+2020-11-15,Netherlands,Bosnia and Herzegovina,Netherlands,Georginio Wijnaldum,14,FALSE,FALSE
+2020-11-15,Netherlands,Bosnia and Herzegovina,Netherlands,Memphis Depay,55,FALSE,FALSE
+2020-11-15,Netherlands,Bosnia and Herzegovina,Bosnia and Herzegovina,Smail Prevljak,63,FALSE,FALSE
+2020-11-15,North Macedonia,Estonia,North Macedonia,Ivan Trichkovski,29,FALSE,FALSE
+2020-11-15,North Macedonia,Estonia,Estonia,Rauno Sappinen,52,FALSE,FALSE
+2020-11-15,North Macedonia,Estonia,North Macedonia,Vlatko Stojanovski,68,FALSE,FALSE
+2020-11-15,Slovakia,Scotland,Slovakia,Ján Greguš,32,FALSE,FALSE
+2020-11-15,Slovenia,Kosovo,Kosovo,Vedat Muriqi,58,FALSE,FALSE
+2020-11-15,Slovenia,Kosovo,Slovenia,Jasmin Kurtić,63,FALSE,FALSE
+2020-11-15,Slovenia,Kosovo,Slovenia,Josip Iličić,90,FALSE,TRUE
+2020-11-15,Turkey,Russia,Russia,Denis Cheryshev,11,FALSE,FALSE
+2020-11-15,Turkey,Russia,Turkey,Kenan Karaman,26,FALSE,FALSE
+2020-11-15,Turkey,Russia,Turkey,Cengiz Ünder,32,FALSE,FALSE
+2020-11-15,Turkey,Russia,Turkey,Cenk Tosun,52,FALSE,TRUE
+2020-11-15,Turkey,Russia,Russia,Daler Kuzyayev,57,FALSE,FALSE
+2020-11-15,Wales,Republic of Ireland,Wales,David Brooks,67,FALSE,FALSE
+2020-11-17,Andorra,Latvia,Latvia,Antonijs Černomordijs,6,FALSE,FALSE
+2020-11-17,Andorra,Latvia,Latvia,Jānis Ikaunieks,57,FALSE,FALSE
+2020-11-17,Andorra,Latvia,Latvia,Jānis Ikaunieks,60,FALSE,FALSE
+2020-11-17,Andorra,Latvia,Latvia,Vladislavs Gutkovskis,70,FALSE,TRUE
+2020-11-17,Andorra,Latvia,Latvia,Raimonds Krollis,90,FALSE,TRUE
+2020-11-17,Croatia,Portugal,Croatia,Mateo Kovačić,29,FALSE,FALSE
+2020-11-17,Croatia,Portugal,Portugal,Rúben Dias,52,FALSE,FALSE
+2020-11-17,Croatia,Portugal,Portugal,João Félix,60,FALSE,FALSE
+2020-11-17,Croatia,Portugal,Croatia,Mateo Kovačić,65,FALSE,FALSE
+2020-11-17,Croatia,Portugal,Portugal,Rúben Dias,90,FALSE,FALSE
 2020-11-17,Ecuador,Colombia,Ecuador,Robert Arboleda,7,FALSE,FALSE
 2020-11-17,Ecuador,Colombia,Ecuador,Ángel Mena,9,FALSE,FALSE
 2020-11-17,Ecuador,Colombia,Ecuador,Michael Estrada,32,FALSE,FALSE
@@ -38659,17 +39305,80 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2020-11-17,Ecuador,Colombia,Colombia,James Rodríguez,45,FALSE,TRUE
 2020-11-17,Ecuador,Colombia,Ecuador,Gonzalo Plata,78,FALSE,FALSE
 2020-11-17,Ecuador,Colombia,Ecuador,Pervis Estupiñán,90,FALSE,FALSE
+2020-11-17,France,Sweden,Sweden,Viktor Claesson,4,FALSE,FALSE
+2020-11-17,France,Sweden,France,Olivier Giroud,16,FALSE,FALSE
+2020-11-17,France,Sweden,France,Benjamin Pavard,36,FALSE,FALSE
+2020-11-17,France,Sweden,France,Olivier Giroud,59,FALSE,FALSE
+2020-11-17,France,Sweden,Sweden,Robin Quaison,88,FALSE,FALSE
+2020-11-17,France,Sweden,France,Kingsley Coman,90,FALSE,FALSE
+2020-11-17,Gibraltar,Liechtenstein,Gibraltar,Noah Frommelt,17,TRUE,FALSE
+2020-11-17,Gibraltar,Liechtenstein,Liechtenstein,Noah Frick,44,FALSE,FALSE
+2020-11-17,Malta,Faroe Islands,Malta,Matthew Guillaumier,54,FALSE,FALSE
+2020-11-17,Malta,Faroe Islands,Faroe Islands,Ári Jónsson,70,FALSE,FALSE
+2020-11-17,Montenegro,Cyprus,Montenegro,Stevan Jovetić,14,FALSE,FALSE
+2020-11-17,Montenegro,Cyprus,Montenegro,Aleksandar Boljević,25,FALSE,FALSE
+2020-11-17,Montenegro,Cyprus,Montenegro,Aleksandar Boljević,28,FALSE,FALSE
+2020-11-17,Montenegro,Cyprus,Montenegro,Stefan Mugoša,60,FALSE,FALSE
 2020-11-17,Paraguay,Bolivia,Paraguay,Ángel Romero,19,FALSE,TRUE
 2020-11-17,Paraguay,Bolivia,Bolivia,Marcelo Martins Moreno,41,FALSE,FALSE
 2020-11-17,Paraguay,Bolivia,Bolivia,Boris Céspedes,45,FALSE,FALSE
 2020-11-17,Paraguay,Bolivia,Paraguay,Alejandro Romero Gamarra,72,FALSE,FALSE
 2020-11-17,Peru,Argentina,Argentina,Nicolás González,17,FALSE,FALSE
 2020-11-17,Peru,Argentina,Argentina,Lautaro Martínez,28,FALSE,FALSE
+2020-11-17,Spain,Germany,Spain,Álvaro Morata,17,FALSE,FALSE
+2020-11-17,Spain,Germany,Spain,Ferran Torres,33,FALSE,FALSE
+2020-11-17,Spain,Germany,Spain,Rodri,38,FALSE,FALSE
+2020-11-17,Spain,Germany,Spain,Ferran Torres,55,FALSE,FALSE
+2020-11-17,Spain,Germany,Spain,Ferran Torres,71,FALSE,FALSE
+2020-11-17,Spain,Germany,Spain,Mikel Oyarzabal,89,FALSE,FALSE
 2020-11-17,Uruguay,Brazil,Brazil,Arthur Melo,33,FALSE,FALSE
 2020-11-17,Uruguay,Brazil,Brazil,Richarlison,45,FALSE,FALSE
 2020-11-17,Venezuela,Chile,Venezuela,Luis Mago,9,FALSE,FALSE
 2020-11-17,Venezuela,Chile,Chile,Arturo Vidal,15,FALSE,FALSE
 2020-11-17,Venezuela,Chile,Venezuela,Salomón Rondón,81,FALSE,FALSE
+2020-11-18,Albania,Belarus,Albania,Sokol Cikalleshi,20,FALSE,FALSE
+2020-11-18,Albania,Belarus,Albania,Sokol Cikalleshi,27,FALSE,TRUE
+2020-11-18,Albania,Belarus,Belarus,Maksim Skavysh,35,FALSE,FALSE
+2020-11-18,Albania,Belarus,Albania,Rey Manaj,44,FALSE,FALSE
+2020-11-18,Albania,Belarus,Belarus,Max Ebong,80,FALSE,FALSE
+2020-11-18,Armenia,North Macedonia,Armenia,Hovhannes Hambardzumyan,55,FALSE,FALSE
+2020-11-18,Austria,Norway,Norway,Ghayas Zahid,61,FALSE,FALSE
+2020-11-18,Austria,Norway,Austria,Adrian Grbić,90,FALSE,FALSE
+2020-11-18,Belgium,Denmark,Belgium,Youri Tielemans,3,FALSE,FALSE
+2020-11-18,Belgium,Denmark,Denmark,Jonas Wind,17,FALSE,FALSE
+2020-11-18,Belgium,Denmark,Belgium,Romelu Lukaku,56,FALSE,FALSE
+2020-11-18,Belgium,Denmark,Belgium,Romelu Lukaku,69,FALSE,FALSE
+2020-11-18,Belgium,Denmark,Denmark,Nacer Chadli,86,TRUE,FALSE
+2020-11-18,Belgium,Denmark,Belgium,Kevin De Bruyne,87,FALSE,FALSE
+2020-11-18,Bosnia and Herzegovina,Italy,Italy,Andrea Belotti,22,FALSE,FALSE
+2020-11-18,Bosnia and Herzegovina,Italy,Italy,Domenico Berardi,68,FALSE,FALSE
+2020-11-18,Czech Republic,Slovakia,Czech Republic,Tomáš Souček,17,FALSE,FALSE
+2020-11-18,Czech Republic,Slovakia,Czech Republic,Zdeněk Ondrášek,55,FALSE,FALSE
+2020-11-18,England,Iceland,England,Declan Rice,20,FALSE,FALSE
+2020-11-18,England,Iceland,England,Mason Mount,24,FALSE,FALSE
+2020-11-18,England,Iceland,England,Phil Foden,80,FALSE,FALSE
+2020-11-18,England,Iceland,England,Phil Foden,84,FALSE,FALSE
+2020-11-18,Hungary,Turkey,Hungary,Dávid Sigér,57,FALSE,FALSE
+2020-11-18,Hungary,Turkey,Hungary,Kevin Varga,90,FALSE,FALSE
+2020-11-18,Israel,Scotland,Israel,Manor Solomon,44,FALSE,FALSE
+2020-11-18,Kazakhstan,Lithuania,Kazakhstan,Abat Aimbetov,38,FALSE,FALSE
+2020-11-18,Kazakhstan,Lithuania,Lithuania,Modestas Vorobjovas,40,FALSE,FALSE
+2020-11-18,Kazakhstan,Lithuania,Lithuania,Arvydas Novikovas,90,FALSE,FALSE
+2020-11-18,Kosovo,Moldova,Kosovo,Lirim Kastrati,31,FALSE,FALSE
+2020-11-18,Northern Ireland,Romania,Northern Ireland,Liam Boyce,56,FALSE,FALSE
+2020-11-18,Northern Ireland,Romania,Romania,Eric Bicfalvi,81,FALSE,FALSE
+2020-11-18,Poland,Netherlands,Poland,Kamil Jóźwiak,6,FALSE,FALSE
+2020-11-18,Poland,Netherlands,Netherlands,Memphis Depay,77,FALSE,TRUE
+2020-11-18,Poland,Netherlands,Netherlands,Georginio Wijnaldum,84,FALSE,FALSE
+2020-11-18,Serbia,Russia,Serbia,Nemanja Radonjić,10,FALSE,FALSE
+2020-11-18,Serbia,Russia,Serbia,Luka Jović,25,FALSE,FALSE
+2020-11-18,Serbia,Russia,Serbia,Dušan Vlahović,41,FALSE,FALSE
+2020-11-18,Serbia,Russia,Serbia,Luka Jović,45,FALSE,FALSE
+2020-11-18,Serbia,Russia,Serbia,Filip Mladenović,64,FALSE,FALSE
+2020-11-18,Wales,Finland,Wales,Harry Wilson,29,FALSE,FALSE
+2020-11-18,Wales,Finland,Wales,Daniel James,46,FALSE,FALSE
+2020-11-18,Wales,Finland,Finland,Teemu Pukki,63,FALSE,FALSE
+2020-11-18,Wales,Finland,Wales,Kieffer Moore,84,FALSE,FALSE
 2020-12-04,Qatar,Bangladesh,Qatar,Abdulaziz Hatem,9,FALSE,FALSE
 2020-12-04,Qatar,Bangladesh,Qatar,Akram Afif,33,FALSE,FALSE
 2020-12-04,Qatar,Bangladesh,Qatar,Almoez Ali,72,FALSE,TRUE
@@ -40063,6 +40772,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-09-09,Paraguay,Venezuela,Paraguay,Alejandro Romero Gamarra,46,FALSE,FALSE
 2021-09-09,Paraguay,Venezuela,Venezuela,Jhon Chancellor,90,FALSE,FALSE
 2021-09-09,Uruguay,Ecuador,Uruguay,Gastón Pereiro,90,FALSE,FALSE
+2021-10-06,Italy,Spain,Spain,Ferran Torres,17,FALSE,FALSE
+2021-10-06,Italy,Spain,Spain,Ferran Torres,17,FALSE,FALSE
+2021-10-06,Italy,Spain,Spain,Ferran Torres,45,FALSE,FALSE
+2021-10-06,Italy,Spain,Spain,Ferran Torres,45,FALSE,FALSE
+2021-10-06,Italy,Spain,Italy,Lorenzo Pellegrini,83,FALSE,FALSE
+2021-10-06,Italy,Spain,Italy,Lorenzo Pellegrini,83,FALSE,FALSE
 2021-10-06,Morocco,Guinea-Bissau,Morocco,Achraf Hakimi,31,FALSE,FALSE
 2021-10-06,Morocco,Guinea-Bissau,Morocco,Imran Louza,45,FALSE,TRUE
 2021-10-06,Morocco,Guinea-Bissau,Morocco,Ilias Chair,49,FALSE,FALSE
@@ -40074,6 +40789,16 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-10-07,Australia,Oman,Oman,Rabia Al-Alawi,28,FALSE,FALSE
 2021-10-07,Australia,Oman,Australia,Martin Boyle,49,FALSE,FALSE
 2021-10-07,Australia,Oman,Australia,Mitchell Duke,89,FALSE,FALSE
+2021-10-07,Belgium,France,Belgium,Yannick Carrasco,37,FALSE,FALSE
+2021-10-07,Belgium,France,Belgium,Yannick Carrasco,37,FALSE,FALSE
+2021-10-07,Belgium,France,Belgium,Romelu Lukaku,40,FALSE,FALSE
+2021-10-07,Belgium,France,Belgium,Romelu Lukaku,40,FALSE,FALSE
+2021-10-07,Belgium,France,France,Karim Benzema,62,FALSE,FALSE
+2021-10-07,Belgium,France,France,Karim Benzema,62,FALSE,FALSE
+2021-10-07,Belgium,France,France,Kylian Mbappé,69,FALSE,TRUE
+2021-10-07,Belgium,France,France,Kylian Mbappé,69,FALSE,TRUE
+2021-10-07,Belgium,France,France,Théo Hernandez,90,FALSE,FALSE
+2021-10-07,Belgium,France,France,Théo Hernandez,90,FALSE,FALSE
 2021-10-07,China PR,Vietnam,China PR,Zhang Yuning,53,FALSE,FALSE
 2021-10-07,China PR,Vietnam,China PR,Wu Lei,75,FALSE,FALSE
 2021-10-07,China PR,Vietnam,Vietnam,Hồ Tấn Tài,80,FALSE,FALSE
@@ -40245,12 +40970,24 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-10-10,Costa Rica,El Salvador,El Salvador,Jairo Henríquez,12,FALSE,FALSE
 2021-10-10,Costa Rica,El Salvador,Costa Rica,Bryan Ruiz,52,FALSE,FALSE
 2021-10-10,Costa Rica,El Salvador,Costa Rica,Celso Borges,58,FALSE,TRUE
+2021-10-10,Italy,Belgium,Italy,Nicolò Barella,46,FALSE,FALSE
+2021-10-10,Italy,Belgium,Italy,Nicolò Barella,46,FALSE,FALSE
+2021-10-10,Italy,Belgium,Italy,Domenico Berardi,65,FALSE,TRUE
+2021-10-10,Italy,Belgium,Italy,Domenico Berardi,65,FALSE,TRUE
+2021-10-10,Italy,Belgium,Belgium,Charles De Ketelaere,86,FALSE,FALSE
+2021-10-10,Italy,Belgium,Belgium,Charles De Ketelaere,86,FALSE,FALSE
 2021-10-10,Kenya,Mali,Mali,Ibrahima Koné,55,FALSE,FALSE
 2021-10-10,Madagascar,DR Congo,Madagascar,Njiva Rakotoharimalala,1,FALSE,FALSE
 2021-10-10,Mexico,Honduras,Mexico,Sebastián Córdova,18,FALSE,FALSE
 2021-10-10,Mexico,Honduras,Mexico,Rogelio Funes Mori,76,FALSE,FALSE
 2021-10-10,Mexico,Honduras,Mexico,Hirving Lozano,86,FALSE,FALSE
 2021-10-10,Panama,United States,Panama,Aníbal Godoy,54,FALSE,FALSE
+2021-10-10,Spain,France,Spain,Mikel Oyarzabal,64,FALSE,FALSE
+2021-10-10,Spain,France,Spain,Mikel Oyarzabal,64,FALSE,FALSE
+2021-10-10,Spain,France,France,Karim Benzema,66,FALSE,FALSE
+2021-10-10,Spain,France,France,Karim Benzema,66,FALSE,FALSE
+2021-10-10,Spain,France,France,Kylian Mbappé,80,FALSE,FALSE
+2021-10-10,Spain,France,France,Kylian Mbappé,80,FALSE,FALSE
 2021-10-10,Uganda,Rwanda,Uganda,Fahad Bayo,22,FALSE,FALSE
 2021-10-10,Venezuela,Ecuador,Ecuador,Enner Valencia,37,FALSE,TRUE
 2021-10-10,Venezuela,Ecuador,Venezuela,Darwin Machís,45,FALSE,FALSE
@@ -40945,6 +41682,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2022-03-24,Lebanon,Syria,Syria,Alaa Al Dali,14,FALSE,FALSE
 2022-03-24,Lebanon,Syria,Syria,Mardik Mardikian,38,FALSE,TRUE
 2022-03-24,Lebanon,Syria,Syria,Mohammad Al Marmour,44,FALSE,FALSE
+2022-03-24,Moldova,Kazakhstan,Moldova,Ion Nicolaescu,45,FALSE,FALSE
+2022-03-24,Moldova,Kazakhstan,Kazakhstan,Serhiy Malyi,63,FALSE,FALSE
+2022-03-24,Moldova,Kazakhstan,Kazakhstan,Veaceslav Posmac,79,TRUE,FALSE
 2022-03-24,New Zealand,New Caledonia,New Zealand,Alex Greive,8,FALSE,FALSE
 2022-03-24,New Zealand,New Caledonia,New Caledonia,Jean-Philippe Saïko,12,FALSE,FALSE
 2022-03-24,New Zealand,New Caledonia,New Zealand,Logan Rogerson,36,FALSE,TRUE
@@ -41012,12 +41752,15 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2022-03-29,Bolivia,Brazil,Brazil,Richarlison,90,FALSE,FALSE
 2022-03-29,Chile,Uruguay,Uruguay,Luis Suárez,79,FALSE,FALSE
 2022-03-29,Chile,Uruguay,Uruguay,Federico Valverde,90,FALSE,FALSE
+2022-03-29,Cyprus,Estonia,Cyprus,Marinos Tzionis,19,FALSE,FALSE
+2022-03-29,Cyprus,Estonia,Cyprus,Pieros Sotiriou,51,FALSE,FALSE
 2022-03-29,Ecuador,Argentina,Argentina,Julián Álvarez,24,FALSE,FALSE
 2022-03-29,Ecuador,Argentina,Ecuador,Enner Valencia,90,FALSE,FALSE
 2022-03-29,Iran,Lebanon,Iran,Sardar Azmoun,35,FALSE,FALSE
 2022-03-29,Iran,Lebanon,Iran,Alireza Jahanbakhsh,72,FALSE,FALSE
 2022-03-29,Japan,Vietnam,Vietnam,Nguyễn Thanh Bình,19,FALSE,FALSE
 2022-03-29,Japan,Vietnam,Japan,Maya Yoshida,55,FALSE,FALSE
+2022-03-29,Kazakhstan,Moldova,Moldova,Igor Armaș,13,FALSE,FALSE
 2022-03-29,Morocco,DR Congo,Morocco,Azzedine Ounahi,21,FALSE,FALSE
 2022-03-29,Morocco,DR Congo,Morocco,Tarik Tissoudali,45,FALSE,FALSE
 2022-03-29,Morocco,DR Congo,Morocco,Azzedine Ounahi,54,FALSE,FALSE
@@ -41055,15 +41798,424 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2022-06-01,Italy,Argentina,Argentina,Lautaro Martínez,28,FALSE,FALSE
 2022-06-01,Italy,Argentina,Argentina,Ángel Di María,45,FALSE,FALSE
 2022-06-01,Italy,Argentina,Argentina,Paulo Dybala,90,FALSE,FALSE
+2022-06-01,Poland,Wales,Wales,Jonny Williams,52,FALSE,FALSE
+2022-06-01,Poland,Wales,Poland,Jakub Kamiński,72,FALSE,FALSE
+2022-06-01,Poland,Wales,Poland,Karol Świderski,85,FALSE,FALSE
 2022-06-01,Scotland,Ukraine,Ukraine,Andriy Yarmolenko,33,FALSE,FALSE
 2022-06-01,Scotland,Ukraine,Ukraine,Roman Yaremchuk,49,FALSE,FALSE
 2022-06-01,Scotland,Ukraine,Scotland,Callum McGregor,79,FALSE,FALSE
 2022-06-01,Scotland,Ukraine,Ukraine,Artem Dovbyk,90,FALSE,FALSE
+2022-06-02,Bulgaria,North Macedonia,Bulgaria,Kiril Despodov,13,FALSE,FALSE
+2022-06-02,Bulgaria,North Macedonia,North Macedonia,Milan Ristovski,50,FALSE,FALSE
+2022-06-02,Cyprus,Kosovo,Kosovo,Valon Berisha,65,FALSE,FALSE
+2022-06-02,Cyprus,Kosovo,Kosovo,Edon Zhegrova,78,FALSE,FALSE
+2022-06-02,Czech Republic,Switzerland,Czech Republic,Jan Kuchta,11,FALSE,FALSE
+2022-06-02,Czech Republic,Switzerland,Switzerland,Noah Okafor,44,FALSE,FALSE
+2022-06-02,Czech Republic,Switzerland,Czech Republic,Djibril Sow,58,TRUE,FALSE
+2022-06-02,Estonia,San Marino,Estonia,Robert Kirss,24,FALSE,FALSE
+2022-06-02,Estonia,San Marino,Estonia,Joonas Tamm,32,FALSE,FALSE
+2022-06-02,Georgia,Gibraltar,Georgia,Khvicha Kvaratskhelia,12,FALSE,FALSE
+2022-06-02,Georgia,Gibraltar,Georgia,Guram Kashia,33,FALSE,FALSE
+2022-06-02,Georgia,Gibraltar,Georgia,Georges Mikautadze,87,FALSE,FALSE
+2022-06-02,Georgia,Gibraltar,Georgia,Valeri Qazaishvili,88,FALSE,FALSE
+2022-06-02,Israel,Iceland,Israel,Liel Abada,25,FALSE,FALSE
+2022-06-02,Israel,Iceland,Iceland,Þórir Jóhann Helgason,42,FALSE,FALSE
+2022-06-02,Israel,Iceland,Iceland,Arnór Sigurðsson,53,FALSE,FALSE
+2022-06-02,Israel,Iceland,Israel,Shon Weissman,84,FALSE,FALSE
+2022-06-02,Northern Ireland,Greece,Greece,Anastasios Bakasetas,39,FALSE,FALSE
+2022-06-02,Serbia,Norway,Norway,Erling Haaland,26,FALSE,FALSE
+2022-06-02,Slovenia,Sweden,Sweden,Emil Forsberg,39,FALSE,TRUE
+2022-06-02,Slovenia,Sweden,Sweden,Dejan Kulusevski,88,FALSE,FALSE
+2022-06-02,Spain,Portugal,Spain,Álvaro Morata,25,FALSE,FALSE
+2022-06-02,Spain,Portugal,Portugal,Ricardo Horta,82,FALSE,FALSE
+2022-06-03,Belarus,Slovakia,Slovakia,Tomáš Suslov,61,FALSE,FALSE
+2022-06-03,Belgium,Netherlands,Netherlands,Steven Bergwijn,40,FALSE,FALSE
+2022-06-03,Belgium,Netherlands,Netherlands,Memphis Depay,51,FALSE,FALSE
+2022-06-03,Belgium,Netherlands,Netherlands,Denzel Dumfries,61,FALSE,FALSE
+2022-06-03,Belgium,Netherlands,Netherlands,Memphis Depay,65,FALSE,FALSE
+2022-06-03,Belgium,Netherlands,Belgium,Michy Batshuayi,90,FALSE,FALSE
+2022-06-03,Croatia,Austria,Austria,Marko Arnautović,41,FALSE,FALSE
+2022-06-03,Croatia,Austria,Austria,Michael Gregoritsch,54,FALSE,FALSE
+2022-06-03,Croatia,Austria,Austria,Marcel Sabitzer,57,FALSE,FALSE
+2022-06-03,France,Denmark,France,Karim Benzema,51,FALSE,FALSE
+2022-06-03,France,Denmark,Denmark,Andreas Cornelius,68,FALSE,FALSE
+2022-06-03,France,Denmark,Denmark,Andreas Cornelius,88,FALSE,FALSE
+2022-06-03,Kazakhstan,Azerbaijan,Kazakhstan,Abat Aymbetov,50,FALSE,FALSE
+2022-06-03,Kazakhstan,Azerbaijan,Kazakhstan,Abat Aymbetov,60,FALSE,FALSE
+2022-06-03,Latvia,Andorra,Latvia,Roberts Uldriķis,9,FALSE,FALSE
+2022-06-03,Latvia,Andorra,Latvia,Roberts Uldriķis,77,FALSE,FALSE
+2022-06-03,Latvia,Andorra,Latvia,Jānis Ikaunieks,85,FALSE,TRUE
+2022-06-03,Liechtenstein,Moldova,Moldova,Ion Nicolaescu,5,FALSE,TRUE
+2022-06-03,Liechtenstein,Moldova,Moldova,Vadim Bolohan,90,FALSE,FALSE
+2022-06-04,Armenia,Republic of Ireland,Armenia,Eduard Spertsyan,74,FALSE,FALSE
+2022-06-04,Finland,Bosnia and Herzegovina,Finland,Teemu Pukki,45,FALSE,TRUE
+2022-06-04,Finland,Bosnia and Herzegovina,Bosnia and Herzegovina,Smail Prevljak,90,FALSE,FALSE
+2022-06-04,Hungary,England,Hungary,Dominik Szoboszlai,66,FALSE,TRUE
+2022-06-04,Italy,Germany,Italy,Lorenzo Pellegrini,70,FALSE,FALSE
+2022-06-04,Italy,Germany,Germany,Joshua Kimmich,73,FALSE,FALSE
+2022-06-04,Lithuania,Luxembourg,Luxembourg,Danel Sinani,44,FALSE,FALSE
+2022-06-04,Lithuania,Luxembourg,Luxembourg,Danel Sinani,78,FALSE,FALSE
+2022-06-04,Montenegro,Romania,Montenegro,Stefan Mugoša,66,FALSE,FALSE
+2022-06-04,Montenegro,Romania,Montenegro,Marko Vukčević,87,FALSE,FALSE
+2022-06-04,Turkey,Faroe Islands,Turkey,Cengiz Ünder,37,FALSE,FALSE
+2022-06-04,Turkey,Faroe Islands,Turkey,Halil Dervişoğlu,47,FALSE,FALSE
+2022-06-04,Turkey,Faroe Islands,Turkey,Serdar Dursun,82,FALSE,FALSE
+2022-06-04,Turkey,Faroe Islands,Turkey,Merih Demiral,85,FALSE,FALSE
+2022-06-05,Bulgaria,Georgia,Georgia,Zuriko Davitashvili,4,FALSE,FALSE
+2022-06-05,Bulgaria,Georgia,Georgia,Andrea Hristov,31,TRUE,FALSE
+2022-06-05,Bulgaria,Georgia,Bulgaria,Atanas Iliev,50,FALSE,FALSE
+2022-06-05,Bulgaria,Georgia,Georgia,Budu Zivzivadze,52,FALSE,FALSE
+2022-06-05,Bulgaria,Georgia,Georgia,Khvicha Kvaratskhelia,58,FALSE,TRUE
+2022-06-05,Bulgaria,Georgia,Georgia,Valeri Qazaishvili,69,FALSE,FALSE
+2022-06-05,Bulgaria,Georgia,Bulgaria,Iliyan Stefanov,83,FALSE,FALSE
+2022-06-05,Czech Republic,Spain,Czech Republic,Jakub Pešek,4,FALSE,FALSE
+2022-06-05,Czech Republic,Spain,Spain,Gavi,45,FALSE,FALSE
+2022-06-05,Czech Republic,Spain,Czech Republic,Jan Kuchta,66,FALSE,FALSE
+2022-06-05,Czech Republic,Spain,Spain,Iñigo Martínez,90,FALSE,FALSE
+2022-06-05,Gibraltar,North Macedonia,North Macedonia,Enis Bardhi,21,FALSE,FALSE
+2022-06-05,Gibraltar,North Macedonia,North Macedonia,Boban Nikolov,84,FALSE,FALSE
+2022-06-05,Kosovo,Greece,Greece,Anastasios Bakasetas,36,FALSE,FALSE
+2022-06-05,Portugal,Switzerland,Portugal,William Carvalho,15,FALSE,FALSE
+2022-06-05,Portugal,Switzerland,Portugal,Cristiano Ronaldo,35,FALSE,FALSE
+2022-06-05,Portugal,Switzerland,Portugal,Cristiano Ronaldo,39,FALSE,FALSE
+2022-06-05,Portugal,Switzerland,Portugal,João Cancelo,68,FALSE,FALSE
+2022-06-05,San Marino,Malta,Malta,Jan Busuttil,59,FALSE,FALSE
+2022-06-05,San Marino,Malta,Malta,Matthew Guillaumier,75,FALSE,FALSE
+2022-06-05,Serbia,Slovenia,Serbia,Aleksandar Mitrović,24,FALSE,FALSE
+2022-06-05,Serbia,Slovenia,Slovenia,Petar Stojanović,30,FALSE,FALSE
+2022-06-05,Serbia,Slovenia,Serbia,Sergej Milinković-Savić,56,FALSE,FALSE
+2022-06-05,Serbia,Slovenia,Serbia,Luka Jović,85,FALSE,FALSE
+2022-06-05,Serbia,Slovenia,Serbia,Nemanja Radonjić,90,FALSE,FALSE
+2022-06-05,Sweden,Norway,Norway,Erling Haaland,20,FALSE,TRUE
+2022-06-05,Sweden,Norway,Norway,Erling Haaland,69,FALSE,FALSE
+2022-06-05,Sweden,Norway,Sweden,Anthony Elanga,90,FALSE,FALSE
 2022-06-05,Wales,Ukraine,Wales,Gareth Bale,34,FALSE,FALSE
+2022-06-06,Austria,Denmark,Denmark,Pierre-Emile Højbjerg,28,FALSE,FALSE
+2022-06-06,Austria,Denmark,Austria,Xaver Schlager,67,FALSE,FALSE
+2022-06-06,Austria,Denmark,Denmark,Jens Stryger Larsen,84,FALSE,FALSE
+2022-06-06,Croatia,France,France,Adrien Rabiot,52,FALSE,FALSE
+2022-06-06,Croatia,France,Croatia,Andrej Kramarić,83,FALSE,TRUE
+2022-06-06,Iceland,Albania,Albania,Taulant Seferi,30,FALSE,FALSE
+2022-06-06,Iceland,Albania,Iceland,Jón Dagur Þorsteinsson,49,FALSE,FALSE
+2022-06-06,Latvia,Liechtenstein,Latvia,Artūrs Zjuzins,73,FALSE,FALSE
+2022-06-06,Slovakia,Kazakhstan,Kazakhstan,Aslan Darabayev,26,FALSE,FALSE
+2022-06-07,Bosnia and Herzegovina,Romania,Bosnia and Herzegovina,Smail Prevljak,68,FALSE,FALSE
+2022-06-07,Faroe Islands,Luxembourg,Luxembourg,Gerson Rodrigues,74,FALSE,TRUE
+2022-06-07,Finland,Montenegro,Finland,Joel Pohjanpalo,31,FALSE,FALSE
+2022-06-07,Finland,Montenegro,Finland,Joel Pohjanpalo,38,FALSE,FALSE
+2022-06-07,Germany,England,Germany,Jonas Hofmann,50,FALSE,FALSE
+2022-06-07,Germany,England,England,Harry Kane,88,FALSE,TRUE
+2022-06-07,Italy,Hungary,Italy,Nicolò Barella,30,FALSE,FALSE
+2022-06-07,Italy,Hungary,Italy,Lorenzo Pellegrini,45,FALSE,FALSE
+2022-06-07,Italy,Hungary,Hungary,Gianluca Mancini,61,TRUE,FALSE
+2022-06-07,Lithuania,Turkey,Turkey,Doğukan Sinik,2,FALSE,FALSE
+2022-06-07,Lithuania,Turkey,Turkey,Doğukan Sinik,14,FALSE,FALSE
+2022-06-07,Lithuania,Turkey,Turkey,Serdar Dursun,56,FALSE,TRUE
+2022-06-07,Lithuania,Turkey,Turkey,Serdar Dursun,81,FALSE,FALSE
+2022-06-07,Lithuania,Turkey,Turkey,Yunus Akgün,89,FALSE,FALSE
+2022-06-07,Lithuania,Turkey,Turkey,Halil Dervişoğlu,90,FALSE,FALSE
 2022-06-07,United Arab Emirates,Australia,Australia,Jackson Irvine,53,FALSE,FALSE
 2022-06-07,United Arab Emirates,Australia,United Arab Emirates,Caio Canedo,57,FALSE,FALSE
 2022-06-07,United Arab Emirates,Australia,Australia,Ajdin Hrustic,84,FALSE,FALSE
+2022-06-08,Belgium,Poland,Poland,Robert Lewandowski,28,FALSE,FALSE
+2022-06-08,Belgium,Poland,Belgium,Axel Witsel,42,FALSE,FALSE
+2022-06-08,Belgium,Poland,Belgium,Kevin De Bruyne,59,FALSE,FALSE
+2022-06-08,Belgium,Poland,Belgium,Leandro Trossard,73,FALSE,FALSE
+2022-06-08,Belgium,Poland,Belgium,Leandro Trossard,80,FALSE,FALSE
+2022-06-08,Belgium,Poland,Belgium,Leander Dendoncker,83,FALSE,FALSE
+2022-06-08,Belgium,Poland,Belgium,Loïs Openda,90,FALSE,FALSE
+2022-06-08,Republic of Ireland,Ukraine,Ukraine,Viktor Tsyhankov,49,FALSE,FALSE
+2022-06-08,Scotland,Armenia,Scotland,Anthony Ralston,28,FALSE,FALSE
+2022-06-08,Scotland,Armenia,Scotland,Scott McKenna,40,FALSE,FALSE
+2022-06-08,Wales,Netherlands,Netherlands,Teun Koopmeiners,50,FALSE,FALSE
+2022-06-08,Wales,Netherlands,Wales,Rhys Norrington-Davies,90,FALSE,FALSE
+2022-06-08,Wales,Netherlands,Netherlands,Wout Weghorst,90,FALSE,FALSE
+2022-06-09,Gibraltar,Bulgaria,Bulgaria,Georgi Minchev,45,FALSE,FALSE
+2022-06-09,Gibraltar,Bulgaria,Gibraltar,Liam Walker,61,FALSE,TRUE
+2022-06-09,Greece,Cyprus,Greece,Anastasios Bakasetas,8,FALSE,FALSE
+2022-06-09,Greece,Cyprus,Greece,Vangelis Pavlidis,20,FALSE,FALSE
+2022-06-09,Greece,Cyprus,Greece,Dimitrios Limnios,48,FALSE,FALSE
+2022-06-09,Kosovo,Northern Ireland,Kosovo,Vedat Muriqi,9,FALSE,TRUE
+2022-06-09,Kosovo,Northern Ireland,Kosovo,Zymer Bytyqi,19,FALSE,FALSE
+2022-06-09,Kosovo,Northern Ireland,Northern Ireland,Shayne Lavery,44,FALSE,FALSE
+2022-06-09,Kosovo,Northern Ireland,Kosovo,Vedat Muriqi,52,FALSE,FALSE
+2022-06-09,Kosovo,Northern Ireland,Northern Ireland,Daniel Ballard,83,FALSE,FALSE
+2022-06-09,Malta,Estonia,Estonia,Konstantin Vassiljev,21,FALSE,FALSE
+2022-06-09,Malta,Estonia,Malta,Karl Hein,56,TRUE,FALSE
+2022-06-09,Malta,Estonia,Estonia,Henri Anier,90,FALSE,FALSE
+2022-06-09,North Macedonia,Georgia,Georgia,Budu Zivzivadze,52,FALSE,FALSE
+2022-06-09,North Macedonia,Georgia,Georgia,Khvicha Kvaratskhelia,62,FALSE,FALSE
+2022-06-09,North Macedonia,Georgia,Georgia,Otar Kiteishvili,84,FALSE,FALSE
+2022-06-09,Portugal,Czech Republic,Portugal,João Cancelo,33,FALSE,FALSE
+2022-06-09,Portugal,Czech Republic,Portugal,Gonçalo Guedes,38,FALSE,FALSE
+2022-06-09,Sweden,Serbia,Serbia,Luka Jović,45,FALSE,FALSE
+2022-06-09,Switzerland,Spain,Spain,Pablo Sarabia,13,FALSE,FALSE
+2022-06-10,Albania,Israel,Albania,Armando Broja,45,FALSE,TRUE
+2022-06-10,Albania,Israel,Israel,Manor Solomon,57,FALSE,FALSE
+2022-06-10,Albania,Israel,Israel,Manor Solomon,73,FALSE,FALSE
+2022-06-10,Andorra,Liechtenstein,Andorra,Jordi Aláez,78,FALSE,TRUE
+2022-06-10,Andorra,Liechtenstein,Andorra,Jesús Rubio,82,FALSE,FALSE
+2022-06-10,Andorra,Liechtenstein,Liechtenstein,Livio Meier,90,FALSE,FALSE
+2022-06-10,Austria,France,Austria,Andreas Weimann,37,FALSE,FALSE
+2022-06-10,Austria,France,France,Kylian Mbappé,83,FALSE,FALSE
+2022-06-10,Azerbaijan,Slovakia,Slovakia,Vladimír Weiss,81,FALSE,FALSE
+2022-06-10,Belarus,Kazakhstan,Kazakhstan,Abat Aymbetov,13,FALSE,FALSE
+2022-06-10,Belarus,Kazakhstan,Belarus,Vladislav Malkevich,84,FALSE,FALSE
+2022-06-10,Denmark,Croatia,Croatia,Mario Pašalić,69,FALSE,FALSE
+2022-06-10,Moldova,Latvia,Moldova,Ion Nicolaescu,5,FALSE,TRUE
+2022-06-10,Moldova,Latvia,Latvia,Vladislavs Gutkovskis,19,FALSE,FALSE
+2022-06-10,Moldova,Latvia,Latvia,Jānis Ikaunieks,26,FALSE,FALSE
+2022-06-10,Moldova,Latvia,Latvia,Vladislavs Gutkovskis,60,FALSE,FALSE
+2022-06-10,Moldova,Latvia,Moldova,Nichita Moțpan,64,FALSE,FALSE
+2022-06-10,Moldova,Latvia,Latvia,Jānis Ikaunieks,75,FALSE,FALSE
+2022-06-11,Faroe Islands,Lithuania,Lithuania,Fedor Černych,6,FALSE,FALSE
+2022-06-11,Faroe Islands,Lithuania,Faroe Islands,Viljormur Davidsen,20,FALSE,TRUE
+2022-06-11,Faroe Islands,Lithuania,Faroe Islands,Jákup Andreasen,45,FALSE,FALSE
+2022-06-11,Hungary,Germany,Hungary,Zsolt Nagy,6,FALSE,FALSE
+2022-06-11,Hungary,Germany,Germany,Jonas Hofmann,9,FALSE,FALSE
+2022-06-11,Luxembourg,Turkey,Turkey,Hakan Çalhanoğlu,37,FALSE,TRUE
+2022-06-11,Luxembourg,Turkey,Turkey,Serdar Dursun,76,FALSE,FALSE
+2022-06-11,Montenegro,Bosnia and Herzegovina,Bosnia and Herzegovina,Luka Menalo,62,FALSE,FALSE
+2022-06-11,Montenegro,Bosnia and Herzegovina,Montenegro,Adam Marušić,77,FALSE,FALSE
+2022-06-11,Netherlands,Poland,Poland,Matty Cash,18,FALSE,FALSE
+2022-06-11,Netherlands,Poland,Poland,Piotr Zieliński,49,FALSE,FALSE
+2022-06-11,Netherlands,Poland,Netherlands,Davy Klaassen,51,FALSE,FALSE
+2022-06-11,Netherlands,Poland,Netherlands,Denzel Dumfries,54,FALSE,FALSE
+2022-06-11,Republic of Ireland,Scotland,Republic of Ireland,Alan Browne,20,FALSE,FALSE
+2022-06-11,Republic of Ireland,Scotland,Republic of Ireland,Troy Parrott,28,FALSE,FALSE
+2022-06-11,Republic of Ireland,Scotland,Republic of Ireland,Michael Obafemi,51,FALSE,FALSE
+2022-06-11,Romania,Finland,Romania,Nicușor Bancu,30,FALSE,FALSE
+2022-06-11,Ukraine,Armenia,Ukraine,Ruslan Malinovskyi,61,FALSE,FALSE
+2022-06-11,Ukraine,Armenia,Ukraine,Oleksandr Karavayev,77,FALSE,FALSE
+2022-06-11,Ukraine,Armenia,Ukraine,Vitaliy Mykolenko,84,FALSE,FALSE
+2022-06-11,Wales,Belgium,Belgium,Youri Tielemans,51,FALSE,FALSE
+2022-06-11,Wales,Belgium,Wales,Brennan Johnson,86,FALSE,FALSE
+2022-06-12,Greece,Kosovo,Greece,Giorgos Giakoumakis,71,FALSE,FALSE
+2022-06-12,Greece,Kosovo,Greece,Petros Mantalos,90,FALSE,FALSE
+2022-06-12,Malta,San Marino,Malta,Zach Muscat,50,FALSE,FALSE
+2022-06-12,North Macedonia,Gibraltar,North Macedonia,Enis Bardhi,4,FALSE,FALSE
+2022-06-12,North Macedonia,Gibraltar,North Macedonia,Graeme Torrilla,14,TRUE,FALSE
+2022-06-12,North Macedonia,Gibraltar,North Macedonia,Bojan Miovski,16,FALSE,FALSE
+2022-06-12,North Macedonia,Gibraltar,North Macedonia,Darko Churlinov,31,FALSE,FALSE
+2022-06-12,Northern Ireland,Cyprus,Cyprus,Andronikos Kakoullis,32,FALSE,FALSE
+2022-06-12,Northern Ireland,Cyprus,Cyprus,Andronikos Kakoullis,51,FALSE,FALSE
+2022-06-12,Northern Ireland,Cyprus,Northern Ireland,Paddy McNair,71,FALSE,FALSE
+2022-06-12,Northern Ireland,Cyprus,Northern Ireland,Jonny Evans,90,FALSE,FALSE
+2022-06-12,Norway,Sweden,Norway,Erling Haaland,10,FALSE,FALSE
+2022-06-12,Norway,Sweden,Norway,Erling Haaland,54,FALSE,TRUE
+2022-06-12,Norway,Sweden,Sweden,Emil Forsberg,62,FALSE,FALSE
+2022-06-12,Norway,Sweden,Norway,Alexander Sørloth,77,FALSE,FALSE
+2022-06-12,Norway,Sweden,Sweden,Viktor Gyökeres,90,FALSE,FALSE
+2022-06-12,Slovenia,Serbia,Serbia,Andrija Živković,8,FALSE,FALSE
+2022-06-12,Slovenia,Serbia,Serbia,Aleksandar Mitrović,35,FALSE,FALSE
+2022-06-12,Slovenia,Serbia,Slovenia,Adam Gnezda Čerin,48,FALSE,FALSE
+2022-06-12,Slovenia,Serbia,Slovenia,Benjamin Šeško,53,FALSE,FALSE
+2022-06-12,Spain,Czech Republic,Spain,Carlos Soler,24,FALSE,FALSE
+2022-06-12,Spain,Czech Republic,Spain,Pablo Sarabia,75,FALSE,FALSE
+2022-06-12,Switzerland,Portugal,Switzerland,Haris Seferovic,1,FALSE,FALSE
+2022-06-13,Azerbaijan,Belarus,Azerbaijan,Mahir Emreli,76,FALSE,FALSE
+2022-06-13,Azerbaijan,Belarus,Azerbaijan,Ramil Sheydayev,90,FALSE,FALSE
+2022-06-13,Denmark,Austria,Denmark,Jonas Wind,21,FALSE,FALSE
+2022-06-13,Denmark,Austria,Denmark,Andreas Skov Olsen,37,FALSE,FALSE
+2022-06-13,France,Croatia,Croatia,Luka Modrić,5,FALSE,TRUE
+2022-06-13,Iceland,Israel,Iceland,Jón Dagur Þorsteinsson,9,FALSE,FALSE
+2022-06-13,Iceland,Israel,Israel,Daníel Leó Grétarsson,35,TRUE,FALSE
+2022-06-13,Iceland,Israel,Iceland,Þórir Jóhann Helgason,60,FALSE,FALSE
+2022-06-13,Iceland,Israel,Israel,Dor Peretz,65,FALSE,FALSE
+2022-06-13,Kazakhstan,Slovakia,Kazakhstan,Yan Vorogovsky,18,FALSE,FALSE
+2022-06-13,Kazakhstan,Slovakia,Kazakhstan,Elkhan Astanov,39,FALSE,FALSE
+2022-06-13,Kazakhstan,Slovakia,Slovakia,Matúš Bero,51,FALSE,FALSE
+2022-06-14,Armenia,Scotland,Armenia,Vahan Bichakhchyan,6,FALSE,FALSE
+2022-06-14,Armenia,Scotland,Scotland,Stuart Armstrong,14,FALSE,FALSE
+2022-06-14,Armenia,Scotland,Scotland,Stuart Armstrong,45,FALSE,FALSE
+2022-06-14,Armenia,Scotland,Scotland,John McGinn,50,FALSE,FALSE
+2022-06-14,Armenia,Scotland,Scotland,Che Adams,54,FALSE,FALSE
+2022-06-14,Bosnia and Herzegovina,Finland,Bosnia and Herzegovina,Miralem Pjanić,5,FALSE,TRUE
+2022-06-14,Bosnia and Herzegovina,Finland,Finland,Teemu Pukki,10,FALSE,FALSE
+2022-06-14,Bosnia and Herzegovina,Finland,Finland,Benjamin Källman,18,FALSE,FALSE
+2022-06-14,Bosnia and Herzegovina,Finland,Bosnia and Herzegovina,Edin Džeko,29,FALSE,FALSE
+2022-06-14,Bosnia and Herzegovina,Finland,Bosnia and Herzegovina,Edin Džeko,58,FALSE,FALSE
 2022-06-14,Costa Rica,New Zealand,Costa Rica,Joel Campbell,3,FALSE,FALSE
+2022-06-14,England,Hungary,Hungary,Roland Sallai,16,FALSE,FALSE
+2022-06-14,England,Hungary,Hungary,Roland Sallai,70,FALSE,FALSE
+2022-06-14,England,Hungary,Hungary,Zsolt Nagy,80,FALSE,FALSE
+2022-06-14,England,Hungary,Hungary,Dániel Gazdag,89,FALSE,FALSE
+2022-06-14,Germany,Italy,Germany,Joshua Kimmich,10,FALSE,FALSE
+2022-06-14,Germany,Italy,Germany,İlkay Gündoğan,45,FALSE,TRUE
+2022-06-14,Germany,Italy,Germany,Thomas Müller,51,FALSE,FALSE
+2022-06-14,Germany,Italy,Germany,Timo Werner,68,FALSE,FALSE
+2022-06-14,Germany,Italy,Germany,Timo Werner,69,FALSE,FALSE
+2022-06-14,Germany,Italy,Italy,Wilfried Gnonto,78,FALSE,FALSE
+2022-06-14,Germany,Italy,Italy,Alessandro Bastoni,90,FALSE,FALSE
+2022-06-14,Liechtenstein,Latvia,Latvia,Vladislavs Gutkovskis,20,FALSE,FALSE
+2022-06-14,Liechtenstein,Latvia,Latvia,Vladislavs Gutkovskis,28,FALSE,FALSE
+2022-06-14,Luxembourg,Faroe Islands,Luxembourg,Gerson Rodrigues,12,FALSE,TRUE
+2022-06-14,Luxembourg,Faroe Islands,Luxembourg,Leandro Barreiro,49,FALSE,FALSE
+2022-06-14,Luxembourg,Faroe Islands,Faroe Islands,Jóannes Bjartalíð,57,FALSE,FALSE
+2022-06-14,Luxembourg,Faroe Islands,Faroe Islands,Jóannes Bjartalíð,59,FALSE,FALSE
+2022-06-14,Moldova,Andorra,Moldova,Mihail Caimacov,26,FALSE,TRUE
+2022-06-14,Moldova,Andorra,Andorra,Márcio Vieira,45,FALSE,FALSE
+2022-06-14,Moldova,Andorra,Moldova,Ion Nicolaescu,50,FALSE,TRUE
+2022-06-14,Netherlands,Wales,Netherlands,Noa Lang,17,FALSE,FALSE
+2022-06-14,Netherlands,Wales,Netherlands,Cody Gakpo,23,FALSE,FALSE
+2022-06-14,Netherlands,Wales,Wales,Brennan Johnson,26,FALSE,FALSE
+2022-06-14,Netherlands,Wales,Netherlands,Memphis Depay,90,FALSE,FALSE
+2022-06-14,Netherlands,Wales,Wales,Gareth Bale,90,FALSE,TRUE
+2022-06-14,Poland,Belgium,Belgium,Michy Batshuayi,16,FALSE,FALSE
+2022-06-14,Romania,Montenegro,Montenegro,Stefan Mugoša,42,FALSE,FALSE
+2022-06-14,Romania,Montenegro,Montenegro,Stefan Mugoša,56,FALSE,FALSE
+2022-06-14,Romania,Montenegro,Montenegro,Stefan Mugoša,63,FALSE,FALSE
+2022-06-14,Turkey,Lithuania,Turkey,Kaan Ayhan,37,FALSE,FALSE
+2022-06-14,Turkey,Lithuania,Turkey,Hakan Çalhanoğlu,54,FALSE,TRUE
+2022-06-14,Ukraine,Republic of Ireland,Republic of Ireland,Nathan Collins,31,FALSE,FALSE
+2022-06-14,Ukraine,Republic of Ireland,Ukraine,Artem Dovbyk,47,FALSE,FALSE
+2022-09-21,Scotland,Ukraine,Scotland,John McGinn,70,FALSE,FALSE
+2022-09-21,Scotland,Ukraine,Scotland,Lyndon Dykes,80,FALSE,FALSE
+2022-09-21,Scotland,Ukraine,Scotland,Lyndon Dykes,87,FALSE,FALSE
+2022-09-22,Belgium,Wales,Belgium,Kevin De Bruyne,10,FALSE,FALSE
+2022-09-22,Belgium,Wales,Belgium,Michy Batshuayi,37,FALSE,FALSE
+2022-09-22,Belgium,Wales,Wales,Kieffer Moore,50,FALSE,FALSE
+2022-09-22,Croatia,Denmark,Croatia,Borna Sosa,49,FALSE,FALSE
+2022-09-22,Croatia,Denmark,Denmark,Christian Eriksen,77,FALSE,FALSE
+2022-09-22,Croatia,Denmark,Croatia,Lovro Majer,79,FALSE,FALSE
+2022-09-22,France,Austria,France,Kylian Mbappé,56,FALSE,FALSE
+2022-09-22,France,Austria,France,Olivier Giroud,65,FALSE,FALSE
+2022-09-22,Kazakhstan,Belarus,Kazakhstan,Mikhail Gabyshev,29,FALSE,FALSE
+2022-09-22,Kazakhstan,Belarus,Belarus,Pavel Savitsky,45,FALSE,FALSE
+2022-09-22,Kazakhstan,Belarus,Kazakhstan,Bakhtiyar Zaynutdinov,79,FALSE,FALSE
+2022-09-22,Latvia,Moldova,Moldova,Ioan-Călin Revenco,26,FALSE,FALSE
+2022-09-22,Latvia,Moldova,Moldova,Ion Nicolaescu,45,FALSE,FALSE
+2022-09-22,Latvia,Moldova,Latvia,Jānis Ikaunieks,55,FALSE,FALSE
+2022-09-22,Liechtenstein,Andorra,Andorra,Albert Rosas,4,FALSE,FALSE
+2022-09-22,Liechtenstein,Andorra,Andorra,Joan Cervós,80,FALSE,FALSE
+2022-09-22,Lithuania,Faroe Islands,Faroe Islands,Jákup Andreasen,22,FALSE,FALSE
+2022-09-22,Lithuania,Faroe Islands,Lithuania,Vykintas Slivka,41,FALSE,FALSE
+2022-09-22,Poland,Netherlands,Netherlands,Cody Gakpo,13,FALSE,FALSE
+2022-09-22,Poland,Netherlands,Netherlands,Steven Bergwijn,60,FALSE,FALSE
+2022-09-22,Slovakia,Azerbaijan,Azerbaijan,Renat Dadashov,44,FALSE,FALSE
+2022-09-22,Slovakia,Azerbaijan,Slovakia,Erik Jirka,90,FALSE,TRUE
+2022-09-22,Slovakia,Azerbaijan,Azerbaijan,Hojjat Haghverdi,90,FALSE,FALSE
+2022-09-22,Turkey,Luxembourg,Luxembourg,Marvin da Graça,8,FALSE,FALSE
+2022-09-22,Turkey,Luxembourg,Turkey,Cengiz Ünder,16,FALSE,TRUE
+2022-09-22,Turkey,Luxembourg,Luxembourg,Danel Sinani,37,FALSE,FALSE
+2022-09-22,Turkey,Luxembourg,Turkey,Maxime Chanot,39,TRUE,FALSE
+2022-09-22,Turkey,Luxembourg,Luxembourg,Gerson Rodrigues,69,FALSE,FALSE
+2022-09-22,Turkey,Luxembourg,Turkey,İsmail Yüksek,87,FALSE,FALSE
+2022-09-23,Bosnia and Herzegovina,Montenegro,Bosnia and Herzegovina,Ermedin Demirović,45,FALSE,FALSE
+2022-09-23,Bulgaria,Gibraltar,Bulgaria,Valentin Antov,23,FALSE,FALSE
+2022-09-23,Bulgaria,Gibraltar,Gibraltar,Roy Chipolina,26,FALSE,FALSE
+2022-09-23,Bulgaria,Gibraltar,Bulgaria,Kiril Despodov,36,FALSE,FALSE
+2022-09-23,Bulgaria,Gibraltar,Bulgaria,Radoslav Kirilov,52,FALSE,FALSE
+2022-09-23,Bulgaria,Gibraltar,Bulgaria,Iliyan Stefanov,55,FALSE,FALSE
+2022-09-23,Bulgaria,Gibraltar,Bulgaria,Marin Petkov,81,FALSE,FALSE
+2022-09-23,Estonia,Malta,Estonia,Rauno Sappinen,45,FALSE,TRUE
+2022-09-23,Estonia,Malta,Malta,Teddy Teuma,51,FALSE,TRUE
+2022-09-23,Estonia,Malta,Estonia,Henri Anier,86,FALSE,FALSE
+2022-09-23,Finland,Romania,Finland,Teemu Pukki,12,FALSE,FALSE
+2022-09-23,Finland,Romania,Romania,Florin Tănase,52,FALSE,FALSE
+2022-09-23,Georgia,North Macedonia,Georgia,Bojan Miovski,35,TRUE,FALSE
+2022-09-23,Georgia,North Macedonia,Georgia,Khvicha Kvaratskhelia,64,FALSE,FALSE
+2022-09-23,Germany,Hungary,Hungary,Ádám Szalai,17,FALSE,FALSE
+2022-09-23,Italy,England,Italy,Giacomo Raspadori,68,FALSE,FALSE
+2022-09-24,Armenia,Ukraine,Ukraine,Oleksandr Tymchyk,22,FALSE,FALSE
+2022-09-24,Armenia,Ukraine,Ukraine,Oleksandr Zubkov,57,FALSE,FALSE
+2022-09-24,Armenia,Ukraine,Ukraine,Artem Dovbyk,69,FALSE,FALSE
+2022-09-24,Armenia,Ukraine,Ukraine,Danylo Ihnatenko,81,FALSE,FALSE
+2022-09-24,Armenia,Ukraine,Ukraine,Artem Dovbyk,84,FALSE,FALSE
+2022-09-24,Cyprus,Greece,Cyprus,Marinos Tzionis,18,FALSE,FALSE
+2022-09-24,Czech Republic,Portugal,Portugal,Diogo Dalot,33,FALSE,FALSE
+2022-09-24,Czech Republic,Portugal,Portugal,Bruno Fernandes,45,FALSE,FALSE
+2022-09-24,Czech Republic,Portugal,Portugal,Diogo Dalot,52,FALSE,FALSE
+2022-09-24,Czech Republic,Portugal,Portugal,Diogo Jota,82,FALSE,FALSE
+2022-09-24,Israel,Albania,Israel,Shon Weissman,46,FALSE,FALSE
+2022-09-24,Israel,Albania,Albania,Myrto Uzuni,88,FALSE,FALSE
+2022-09-24,Israel,Albania,Israel,Tai Baribo,90,FALSE,FALSE
+2022-09-24,Northern Ireland,Kosovo,Kosovo,Vedat Muriqi,58,FALSE,FALSE
+2022-09-24,Northern Ireland,Kosovo,Northern Ireland,Gavin Whyte,82,FALSE,FALSE
+2022-09-24,Northern Ireland,Kosovo,Northern Ireland,Josh Magennis,90,FALSE,FALSE
+2022-09-24,Scotland,Republic of Ireland,Republic of Ireland,John Egan,18,FALSE,FALSE
+2022-09-24,Scotland,Republic of Ireland,Scotland,Jack Hendry,50,FALSE,FALSE
+2022-09-24,Scotland,Republic of Ireland,Scotland,Ryan Christie,82,FALSE,TRUE
+2022-09-24,Serbia,Sweden,Sweden,Viktor Claesson,15,FALSE,FALSE
+2022-09-24,Serbia,Sweden,Serbia,Aleksandar Mitrović,18,FALSE,FALSE
+2022-09-24,Serbia,Sweden,Serbia,Aleksandar Mitrović,45,FALSE,FALSE
+2022-09-24,Serbia,Sweden,Serbia,Aleksandar Mitrović,48,FALSE,FALSE
+2022-09-24,Serbia,Sweden,Serbia,Saša Lukić,70,FALSE,FALSE
+2022-09-24,Slovenia,Norway,Norway,Erling Haaland,47,FALSE,FALSE
+2022-09-24,Slovenia,Norway,Slovenia,Andraž Šporar,69,FALSE,FALSE
+2022-09-24,Slovenia,Norway,Slovenia,Benjamin Šeško,81,FALSE,FALSE
+2022-09-24,Spain,Switzerland,Switzerland,Manuel Akanji,21,FALSE,FALSE
+2022-09-24,Spain,Switzerland,Spain,Jordi Alba,55,FALSE,FALSE
+2022-09-24,Spain,Switzerland,Switzerland,Breel Embolo,59,FALSE,FALSE
+2022-09-25,Andorra,Latvia,Latvia,Vladislavs Gutkovskis,50,FALSE,FALSE
+2022-09-25,Andorra,Latvia,Andorra,Albert Rosas,88,FALSE,FALSE
+2022-09-25,Austria,Croatia,Croatia,Luka Modrić,6,FALSE,FALSE
+2022-09-25,Austria,Croatia,Austria,Christoph Baumgartner,9,FALSE,FALSE
+2022-09-25,Austria,Croatia,Croatia,Marko Livaja,69,FALSE,FALSE
+2022-09-25,Austria,Croatia,Croatia,Dejan Lovren,72,FALSE,FALSE
+2022-09-25,Azerbaijan,Kazakhstan,Azerbaijan,Aleksandr Marochkin,66,TRUE,FALSE
+2022-09-25,Azerbaijan,Kazakhstan,Azerbaijan,Filip Ozobić,74,FALSE,FALSE
+2022-09-25,Azerbaijan,Kazakhstan,Azerbaijan,Anatoliy Nuriyev,90,FALSE,FALSE
+2022-09-25,Denmark,France,Denmark,Kasper Dolberg,34,FALSE,FALSE
+2022-09-25,Denmark,France,Denmark,Andreas Skov Olsen,39,FALSE,FALSE
+2022-09-25,Faroe Islands,Turkey,Faroe Islands,Viljormur Davidsen,51,FALSE,FALSE
+2022-09-25,Faroe Islands,Turkey,Faroe Islands,Jóan Símun Edmundsson,59,FALSE,FALSE
+2022-09-25,Faroe Islands,Turkey,Turkey,Serdar Gürler,89,FALSE,FALSE
+2022-09-25,Luxembourg,Lithuania,Luxembourg,Gerson Rodrigues,89,FALSE,FALSE
+2022-09-25,Moldova,Liechtenstein,Moldova,Victor Stînă,90,FALSE,FALSE
+2022-09-25,Moldova,Liechtenstein,Moldova,Victor Stînă,90,FALSE,FALSE
+2022-09-25,Netherlands,Belgium,Netherlands,Virgil van Dijk,73,FALSE,FALSE
+2022-09-25,Slovakia,Belarus,Belarus,Ivan Bakhar,45,FALSE,FALSE
+2022-09-25,Slovakia,Belarus,Slovakia,Adam Zreľák,65,FALSE,FALSE
+2022-09-25,Wales,Poland,Poland,Karol Świderski,58,FALSE,FALSE
+2022-09-26,England,Germany,Germany,İlkay Gündoğan,52,FALSE,TRUE
+2022-09-26,England,Germany,Germany,Kai Havertz,67,FALSE,FALSE
+2022-09-26,England,Germany,England,Luke Shaw,72,FALSE,FALSE
+2022-09-26,England,Germany,England,Mason Mount,75,FALSE,FALSE
+2022-09-26,England,Germany,England,Harry Kane,83,FALSE,TRUE
+2022-09-26,England,Germany,Germany,Kai Havertz,87,FALSE,FALSE
+2022-09-26,Gibraltar,Georgia,Georgia,Khvicha Kvaratskhelia,19,FALSE,TRUE
+2022-09-26,Gibraltar,Georgia,Georgia,Giorgi Tsitaishvili,48,FALSE,FALSE
+2022-09-26,Gibraltar,Georgia,Gibraltar,Louie Annesley,75,FALSE,FALSE
+2022-09-26,Hungary,Italy,Italy,Giacomo Raspadori,27,FALSE,FALSE
+2022-09-26,Hungary,Italy,Italy,Federico Dimarco,52,FALSE,FALSE
+2022-09-26,Montenegro,Finland,Finland,Oliver Antman,47,FALSE,FALSE
+2022-09-26,Montenegro,Finland,Finland,Benjamin Källman,53,FALSE,FALSE
+2022-09-26,North Macedonia,Bulgaria,Bulgaria,Kiril Despodov,50,FALSE,FALSE
+2022-09-26,Romania,Bosnia and Herzegovina,Romania,Dennis Man,38,FALSE,FALSE
+2022-09-26,Romania,Bosnia and Herzegovina,Romania,George Pușcaș,73,FALSE,FALSE
+2022-09-26,Romania,Bosnia and Herzegovina,Bosnia and Herzegovina,Edin Džeko,77,FALSE,FALSE
+2022-09-26,Romania,Bosnia and Herzegovina,Romania,Andrei Rațiu,79,FALSE,FALSE
+2022-09-26,Romania,Bosnia and Herzegovina,Romania,George Pușcaș,86,FALSE,FALSE
+2022-09-26,San Marino,Estonia,Estonia,Henri Anier,38,FALSE,FALSE
+2022-09-26,San Marino,Estonia,Estonia,Taijo Teniste,56,FALSE,FALSE
+2022-09-26,San Marino,Estonia,Estonia,Rauno Sappinen,66,FALSE,FALSE
+2022-09-26,San Marino,Estonia,Estonia,Henri Anier,77,FALSE,FALSE
+2022-09-27,Albania,Iceland,Albania,Ermir Lenjani,35,FALSE,FALSE
+2022-09-27,Albania,Iceland,Iceland,Mikael Anderson,90,FALSE,FALSE
+2022-09-27,Greece,Northern Ireland,Greece,Dimitrios Pelkas,14,FALSE,FALSE
+2022-09-27,Greece,Northern Ireland,Northern Ireland,Shayne Lavery,18,FALSE,FALSE
+2022-09-27,Greece,Northern Ireland,Greece,Georgios Masouras,55,FALSE,FALSE
+2022-09-27,Greece,Northern Ireland,Greece,Petros Mantalos,80,FALSE,FALSE
+2022-09-27,Kosovo,Cyprus,Kosovo,Florent Muslija,22,FALSE,FALSE
+2022-09-27,Kosovo,Cyprus,Kosovo,Donat Rrudhani,45,FALSE,FALSE
+2022-09-27,Kosovo,Cyprus,Kosovo,Elbasan Rashani,47,FALSE,FALSE
+2022-09-27,Kosovo,Cyprus,Kosovo,Vedat Muriqi,52,FALSE,FALSE
+2022-09-27,Kosovo,Cyprus,Cyprus,Valentin Roberge,81,FALSE,FALSE
+2022-09-27,Kosovo,Cyprus,Kosovo,Vedat Muriqi,84,FALSE,FALSE
+2022-09-27,Norway,Serbia,Serbia,Dušan Vlahović,42,FALSE,FALSE
+2022-09-27,Norway,Serbia,Serbia,Aleksandar Mitrović,54,FALSE,FALSE
+2022-09-27,Portugal,Spain,Spain,Álvaro Morata,88,FALSE,FALSE
+2022-09-27,Republic of Ireland,Armenia,Republic of Ireland,John Egan,18,FALSE,FALSE
+2022-09-27,Republic of Ireland,Armenia,Republic of Ireland,Michael Obafemi,52,FALSE,FALSE
+2022-09-27,Republic of Ireland,Armenia,Armenia,Artak Dashyan,71,FALSE,FALSE
+2022-09-27,Republic of Ireland,Armenia,Armenia,Eduard Spertsyan,73,FALSE,FALSE
+2022-09-27,Republic of Ireland,Armenia,Republic of Ireland,Robbie Brady,90,FALSE,TRUE
+2022-09-27,Sweden,Slovenia,Slovenia,Benjamin Šeško,28,FALSE,FALSE
+2022-09-27,Sweden,Slovenia,Sweden,Emil Forsberg,42,FALSE,FALSE
+2022-09-27,Switzerland,Czech Republic,Switzerland,Remo Freuler,29,FALSE,FALSE
+2022-09-27,Switzerland,Czech Republic,Switzerland,Breel Embolo,30,FALSE,FALSE
+2022-09-27,Switzerland,Czech Republic,Czech Republic,Patrik Schick,45,FALSE,FALSE
 2022-11-16,Latvia,Estonia,Estonia,Sergei Zenjov,2,FALSE,FALSE
 2022-11-16,Latvia,Estonia,Latvia,Raimonds Krollis,45,FALSE,FALSE
 2022-11-19,Estonia,Lithuania,Estonia,Sergei Zenjov,65,FALSE,FALSE
@@ -41368,6 +42520,24 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-03-28,Turkey,Croatia,Croatia,Mateo Kovačić,20,FALSE,FALSE
 2023-03-28,Turkey,Croatia,Croatia,Mateo Kovačić,45,FALSE,FALSE
 2023-03-28,Wales,Latvia,Wales,Kieffer Moore,41,FALSE,FALSE
+2023-06-14,Netherlands,Croatia,Netherlands,Donyell Malen,34,FALSE,FALSE
+2023-06-14,Netherlands,Croatia,Netherlands,Donyell Malen,34,FALSE,FALSE
+2023-06-14,Netherlands,Croatia,Croatia,Andrej Kramarić,55,FALSE,TRUE
+2023-06-14,Netherlands,Croatia,Croatia,Andrej Kramarić,55,FALSE,TRUE
+2023-06-14,Netherlands,Croatia,Croatia,Mario Pašalić,72,FALSE,FALSE
+2023-06-14,Netherlands,Croatia,Croatia,Mario Pašalić,72,FALSE,FALSE
+2023-06-14,Netherlands,Croatia,Netherlands,Noa Lang,90,FALSE,FALSE
+2023-06-14,Netherlands,Croatia,Netherlands,Noa Lang,90,FALSE,FALSE
+2023-06-14,Netherlands,Croatia,Croatia,Bruno Petković,98,FALSE,FALSE
+2023-06-14,Netherlands,Croatia,Croatia,Bruno Petković,98,FALSE,FALSE
+2023-06-14,Netherlands,Croatia,Croatia,Luka Modrić,116,FALSE,TRUE
+2023-06-14,Netherlands,Croatia,Croatia,Luka Modrić,116,FALSE,TRUE
+2023-06-15,Spain,Italy,Spain,Yeremy Pino,3,FALSE,FALSE
+2023-06-15,Spain,Italy,Spain,Yeremy Pino,3,FALSE,FALSE
+2023-06-15,Spain,Italy,Italy,Ciro Immobile,11,FALSE,TRUE
+2023-06-15,Spain,Italy,Italy,Ciro Immobile,11,FALSE,TRUE
+2023-06-15,Spain,Italy,Spain,Joselu,88,FALSE,FALSE
+2023-06-15,Spain,Italy,Spain,Joselu,88,FALSE,FALSE
 2023-06-16,Andorra,Switzerland,Switzerland,Remo Freuler,7,FALSE,FALSE
 2023-06-16,Andorra,Switzerland,Switzerland,Zeki Amdouni,32,FALSE,FALSE
 2023-06-16,Andorra,Switzerland,Andorra,Márcio Vieira,67,FALSE,FALSE
@@ -41431,6 +42601,16 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-06-17,Portugal,Bosnia and Herzegovina,Portugal,Bernardo Silva,44,FALSE,FALSE
 2023-06-17,Portugal,Bosnia and Herzegovina,Portugal,Bruno Fernandes,77,FALSE,FALSE
 2023-06-17,Portugal,Bosnia and Herzegovina,Portugal,Bruno Fernandes,90,FALSE,FALSE
+2023-06-18,Netherlands,Italy,Italy,Federico Dimarco,6,FALSE,FALSE
+2023-06-18,Netherlands,Italy,Italy,Federico Dimarco,6,FALSE,FALSE
+2023-06-18,Netherlands,Italy,Italy,Davide Frattesi,20,FALSE,FALSE
+2023-06-18,Netherlands,Italy,Italy,Davide Frattesi,20,FALSE,FALSE
+2023-06-18,Netherlands,Italy,Netherlands,Steven Bergwijn,68,FALSE,FALSE
+2023-06-18,Netherlands,Italy,Netherlands,Steven Bergwijn,68,FALSE,FALSE
+2023-06-18,Netherlands,Italy,Italy,Federico Chiesa,72,FALSE,FALSE
+2023-06-18,Netherlands,Italy,Italy,Federico Chiesa,72,FALSE,FALSE
+2023-06-18,Netherlands,Italy,Netherlands,Georginio Wijnaldum,89,FALSE,FALSE
+2023-06-18,Netherlands,Italy,Netherlands,Georginio Wijnaldum,89,FALSE,FALSE
 2023-06-19,Armenia,Latvia,Armenia,Nair Tiknizyan,35,FALSE,FALSE
 2023-06-19,Armenia,Latvia,Latvia,Styopa Mkrtchyan,67,TRUE,FALSE
 2023-06-19,Armenia,Latvia,Armenia,Tigran Barseghyan,90,FALSE,TRUE
@@ -42008,5 +43188,3 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-11-21,Romania,Switzerland,Romania,Denis Alibec,50,FALSE,FALSE
 2023-11-21,Wales,Turkey,Wales,Neco Williams,7,FALSE,FALSE
 2023-11-21,Wales,Turkey,Turkey,Yusuf Yazıcı,70,FALSE,TRUE
-NA,Latvia,Lithuania,Latvia,Mihails Zemļinskis,34,FALSE,TRUE
-NA,Latvia,Lithuania,Latvia,Vitālijs Astafjevs,75,FALSE,FALSE
