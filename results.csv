@@ -1666,7 +1666,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1934-03-25,Italy,Greece,4,0,FIFA World Cup qualification,Milan,Italy,FALSE
 1934-03-25,Switzerland,Austria,2,3,Central European International Cup,Geneva,Switzerland,FALSE
 1934-04-01,Yugoslavia,Bulgaria,2,3,Friendly,Belgrade,Yugoslavia,FALSE
-1934-04-06,Israel,Egypt,1,4,FIFA World Cup qualification,Tel Aviv,Palestine,TRUE
+1934-04-06,Israel,Egypt,1,4,FIFA World Cup qualification,Tel Aviv,Palestine,FALSE
 1934-04-08,Netherlands,Republic of Ireland,5,2,FIFA World Cup qualification,Amsterdam,Netherlands,FALSE
 1934-04-14,England,Scotland,3,0,British Home Championship,London,England,FALSE
 1934-04-15,Austria,Hungary,5,2,Friendly,Vienna,Austria,FALSE
@@ -2059,7 +2059,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1938-01-10,Dominica,Saint Lucia,1,3,Friendly,Roseau,Dominica,FALSE
 1938-01-11,Dominica,Saint Lucia,1,0,Friendly,Roseau,Dominica,FALSE
 1938-01-16,Luxembourg,Hungary,0,6,Friendly,Luxembourg,Luxembourg,FALSE
-1938-01-22,Israel,Greece,1,3,FIFA World Cup qualification,Tel Aviv,Palestine,TRUE
+1938-01-22,Israel,Greece,1,3,FIFA World Cup qualification,Tel Aviv,Palestine,FALSE
 1938-01-30,France,Belgium,5,3,Friendly,Paris,France,FALSE
 1938-01-30,Portugal,Spain,1,0,Friendly,Lisbon,Portugal,FALSE
 1938-02-06,Germany,Switzerland,1,1,Friendly,Cologne,Germany,FALSE
@@ -45099,3 +45099,189 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-10-17,Northern Ireland,Slovenia,0,1,UEFA Euro qualification,Belfast,Northern Ireland,FALSE
 2023-10-17,San Marino,Denmark,1,2,UEFA Euro qualification,Serravalle,San Marino,FALSE
 2023-10-23,United Arab Emirates,Kuwait,1,0,Friendly,Dubai,United Arab Emirates,FALSE
+2023-11-11,Guatemala,Jamaica,0,0,Friendly,Harrison,United States,TRUE
+2023-11-12,Kosovo,Israel,1,0,UEFA Euro qualification,Pristina,Kosovo,FALSE
+2023-11-15,Ethiopia,Sierra Leone,0,0,FIFA World Cup qualification,El Jadida,Morocco,TRUE
+2023-11-15,DR Congo,Mauritania,2,0,FIFA World Cup qualification,Kinshasa,DR Congo,FALSE
+2023-11-15,Rwanda,Zimbabwe,0,0,FIFA World Cup qualification,Butare,Rwanda,FALSE
+2023-11-15,Equatorial Guinea,Namibia,1,0,FIFA World Cup qualification,Malabo,Equatorial Guinea,FALSE
+2023-11-15,Belgium,Serbia,1,0,Friendly,Leuven,Belgium,FALSE
+2023-11-15,Israel,Switzerland,1,1,UEFA Euro qualification,Felcsút,Hungary,TRUE
+2023-11-16,Sint Maarten,Guadeloupe,0,2,CONCACAF Nations League,Bridgetown,Barbados,TRUE
+2023-11-16,Saint Kitts and Nevis,Saint Lucia,0,0,CONCACAF Nations League,Basseterre,Saint Kitts and Nevis,FALSE
+2023-11-16,United States Virgin Islands,Aruba,1,4,CONCACAF Nations League,Saint Croix,United States Virgin Islands,FALSE
+2023-11-16,British Virgin Islands,Dominica,1,2,CONCACAF Nations League,Road Town,British Virgin Islands,FALSE
+2023-11-16,Costa Rica,Panama,0,3,CONCACAF Nations League,San José,Costa Rica,FALSE
+2023-11-16,United States,Trinidad and Tobago,3,0,CONCACAF Nations League,Austin,United States,FALSE
+2023-11-16,Bolivia,Peru,2,0,FIFA World Cup qualification,La Paz,Bolivia,FALSE
+2023-11-16,Venezuela,Ecuador,0,0,FIFA World Cup qualification,Maturín,Venezuela,FALSE
+2023-11-16,Colombia,Brazil,2,1,FIFA World Cup qualification,Barranquilla,Colombia,FALSE
+2023-11-16,Argentina,Uruguay,0,2,FIFA World Cup qualification,Buenos Aires,Argentina,FALSE
+2023-11-16,Chile,Paraguay,0,0,FIFA World Cup qualification,Santiago,Chile,FALSE
+2023-11-16,Qatar,Afghanistan,8,1,FIFA World Cup qualification,Al Rayyan,Qatar,FALSE
+2023-11-16,Kuwait,India,0,1,FIFA World Cup qualification,Kuwait City,Kuwait,FALSE
+2023-11-16,Japan,Myanmar,5,0,FIFA World Cup qualification,Suita,Japan,FALSE
+2023-11-16,Syria,North Korea,1,0,FIFA World Cup qualification,Jeddah,Saudi Arabia,TRUE
+2023-11-16,Thailand,China PR,1,2,FIFA World Cup qualification,Bangkok,Thailand,FALSE
+2023-11-16,South Korea,Singapore,5,0,FIFA World Cup qualification,Seoul,South Korea,FALSE
+2023-11-16,Oman,Taiwan,3,0,FIFA World Cup qualification,Muscat,Oman,FALSE
+2023-11-16,Malaysia,Kyrgyzstan,4,3,FIFA World Cup qualification,Kuala Lumpur,Malaysia,FALSE
+2023-11-16,Iran,Hong Kong,4,0,FIFA World Cup qualification,Tehran,Iran,FALSE
+2023-11-16,Turkmenistan,Uzbekistan,1,3,FIFA World Cup qualification,Ashgabat,Turkmenistan,FALSE
+2023-11-16,Iraq,Indonesia,5,1,FIFA World Cup qualification,Basra,Iraq,FALSE
+2023-11-16,Philippines,Vietnam,0,2,FIFA World Cup qualification,Manila,Philippines,FALSE
+2023-11-16,Tajikistan,Jordan,1,1,FIFA World Cup qualification,Dushanbe,Tajikistan,FALSE
+2023-11-16,Saudi Arabia,Pakistan,4,0,FIFA World Cup qualification,Al-Hasa,Saudi Arabia,FALSE
+2023-11-16,United Arab Emirates,Nepal,4,0,FIFA World Cup qualification,Dubai,United Arab Emirates,FALSE
+2023-11-16,Yemen,Bahrain,0,2,FIFA World Cup qualification,Abha,Saudi Arabia,TRUE
+2023-11-16,Lebanon,Palestine,0,0,FIFA World Cup qualification,Sharjah,United Arab Emirates,TRUE
+2023-11-16,Australia,Bangladesh,7,0,FIFA World Cup qualification,Melbourne,Australia,FALSE
+2023-11-16,Egypt,Djibouti,6,0,FIFA World Cup qualification,Cairo,Egypt,FALSE
+2023-11-16,Sudan,Togo,1,1,FIFA World Cup qualification,Benghazi,Libya,TRUE
+2023-11-16,Nigeria,Lesotho,1,1,FIFA World Cup qualification,Uyo,Nigeria,FALSE
+2023-11-16,Cape Verde,Angola,0,0,FIFA World Cup qualification,Praia,Cape Verde,FALSE
+2023-11-16,Burundi,Gambia,3,2,FIFA World Cup qualification,Dar es Salaam,Tanzania,TRUE
+2023-11-16,Gabon,Kenya,2,1,FIFA World Cup qualification,Franceville,Gabon,FALSE
+2023-11-16,Botswana,Mozambique,2,3,FIFA World Cup qualification,Francistown,Botswana,FALSE
+2023-11-16,Algeria,Somalia,3,1,FIFA World Cup qualification,Algiers,Algeria,FALSE
+2023-11-16,Curaçao,El Salvador,1,1,Friendly,Willemstad,Curaçao,FALSE
+2023-11-16,Norway,Faroe Islands,2,0,Friendly,Oslo,Norway,FALSE
+2023-11-16,Cyprus,Spain,1,3,UEFA Euro qualification,Limassol,Cyprus,FALSE
+2023-11-16,Georgia,Scotland,2,2,UEFA Euro qualification,Tbilisi,Georgia,FALSE
+2023-11-16,Estonia,Austria,0,2,UEFA Euro qualification,Tallinn,Estonia,FALSE
+2023-11-16,Azerbaijan,Sweden,3,0,UEFA Euro qualification,Baku,Azerbaijan,FALSE
+2023-11-16,Bulgaria,Hungary,2,2,UEFA Euro qualification,Sofia,Bulgaria,FALSE
+2023-11-16,Montenegro,Lithuania,2,0,UEFA Euro qualification,Podgorica,Montenegro,FALSE
+2023-11-16,Liechtenstein,Portugal,0,2,UEFA Euro qualification,Vaduz,Liechtenstein,FALSE
+2023-11-16,Luxembourg,Bosnia and Herzegovina,4,1,UEFA Euro qualification,Luxembourg,Luxembourg,FALSE
+2023-11-16,Slovakia,Iceland,4,2,UEFA Euro qualification,Bratislava,Slovakia,FALSE
+2023-11-17,Montserrat,Dominican Republic,2,1,CONCACAF Nations League,Look Out,Montserrat,FALSE
+2023-11-17,Barbados,Nicaragua,0,4,CONCACAF Nations League,Bridgetown,Barbados,FALSE
+2023-11-17,Bermuda,Saint Vincent and the Grenadines,3,1,CONCACAF Nations League,Devonshire Parish,Bermuda,FALSE
+2023-11-17,Belize,French Guiana,1,0,CONCACAF Nations League,Belmopan,Belize,FALSE
+2023-11-17,Honduras,Mexico,2,0,CONCACAF Nations League,Tegucigalpa,Honduras,FALSE
+2023-11-17,Burkina Faso,Guinea-Bissau,1,1,FIFA World Cup qualification,Marrakech,Morocco,TRUE
+2023-11-17,Eswatini,Libya,0,1,FIFA World Cup qualification,Mbombela,South Africa,TRUE
+2023-11-17,Cameroon,Mauritius,3,0,FIFA World Cup qualification,Douala,Cameroon,FALSE
+2023-11-17,Zambia,Congo,4,2,FIFA World Cup qualification,Ndola,Zambia,FALSE
+2023-11-17,Ivory Coast,Seychelles,9,0,FIFA World Cup qualification,Abidjan,Ivory Coast,FALSE
+2023-11-17,Guinea,Uganda,2,1,FIFA World Cup qualification,Berkane,Morocco,TRUE
+2023-11-17,Liberia,Malawi,0,1,FIFA World Cup qualification,Monrovia,Liberia,FALSE
+2023-11-17,Tunisia,São Tomé and Príncipe,4,0,FIFA World Cup qualification,Radès,Tunisia,FALSE
+2023-11-17,Comoros,Central African Republic,4,2,FIFA World Cup qualification,Moroni,Comoros,FALSE
+2023-11-17,Ghana,Madagascar,1,0,FIFA World Cup qualification,Kumasi,Ghana,FALSE
+2023-11-17,Mali,Chad,3,1,FIFA World Cup qualification,Bamako,Mali,FALSE
+2023-11-17,Greece,New Zealand,2,0,Friendly,Athens,Greece,FALSE
+2023-11-17,England,Malta,2,0,UEFA Euro qualification,London,England,FALSE
+2023-11-17,Italy,North Macedonia,5,2,UEFA Euro qualification,Rome,Italy,FALSE
+2023-11-17,Moldova,Albania,1,1,UEFA Euro qualification,Chișinău,Moldova,FALSE
+2023-11-17,Poland,Czech Republic,1,1,UEFA Euro qualification,Warsaw,Poland,FALSE
+2023-11-17,Finland,Northern Ireland,4,0,UEFA Euro qualification,Helsinki,Finland,FALSE
+2023-11-17,Denmark,Slovenia,2,1,UEFA Euro qualification,Copenhagen,Denmark,FALSE
+2023-11-17,Kazakhstan,San Marino,3,1,UEFA Euro qualification,Astana,Kazakhstan,FALSE
+2023-11-18,Antigua and Barbuda,Puerto Rico,2,3,CONCACAF Nations League,Piggotts,Antigua and Barbuda,FALSE
+2023-11-18,Anguilla,Bonaire,0,3,CONCACAF Nations League,The Valley,Anguilla,FALSE
+2023-11-18,Jamaica,Canada,1,2,CONCACAF Nations League,Kingston,Jamaica,FALSE
+2023-11-18,Senegal,South Sudan,4,0,FIFA World Cup qualification,Diamniadio,Senegal,FALSE
+2023-11-18,South Africa,Benin,2,1,FIFA World Cup qualification,Durban,South Africa,FALSE
+2023-11-18,Niger,Tanzania,0,1,FIFA World Cup qualification,Marrakech,Morocco,TRUE
+2023-11-18,Germany,Turkey,2,3,Friendly,Berlin,Germany,FALSE
+2023-11-18,France,Gibraltar,14,0,UEFA Euro qualification,Nice,France,FALSE
+2023-11-18,Netherlands,Republic of Ireland,1,0,UEFA Euro qualification,Amsterdam,Netherlands,FALSE
+2023-11-18,Armenia,Wales,1,1,UEFA Euro qualification,Yerevan,Armenia,FALSE
+2023-11-18,Latvia,Croatia,0,2,UEFA Euro qualification,Riga,Latvia,FALSE
+2023-11-18,Belarus,Andorra,1,0,UEFA Euro qualification,Budapest,Hungary,TRUE
+2023-11-18,Switzerland,Kosovo,1,1,UEFA Euro qualification,Basel,Switzerland,FALSE
+2023-11-18,Israel,Romania,1,2,UEFA Euro qualification,Felcsút,Hungary,TRUE
+2023-11-19,Guadeloupe,Saint Kitts and Nevis,5,0,CONCACAF Nations League,Sainte-Anne,Guadeloupe,FALSE
+2023-11-19,Saint Lucia,Sint Maarten,1,2,CONCACAF Nations League,Gros Islet,Saint Lucia,FALSE
+2023-11-19,Sierra Leone,Egypt,0,2,FIFA World Cup qualification,Monrovia,Liberia,TRUE
+2023-11-19,Sudan,DR Congo,1,0,FIFA World Cup qualification,Benghazi,Libya,TRUE
+2023-11-19,Zimbabwe,Nigeria,1,1,FIFA World Cup qualification,Butare,Rwanda,TRUE
+2023-11-19,Burundi,Gabon,1,2,FIFA World Cup qualification,Dar es Salaam,Tanzania,TRUE
+2023-11-19,Mozambique,Algeria,0,2,FIFA World Cup qualification,Maputo,Mozambique,FALSE
+2023-11-19,Cyprus,Lithuania,1,0,Friendly,Limassol,Cyprus,FALSE
+2023-11-19,Scotland,Norway,3,3,UEFA Euro qualification,Glasgow,Scotland,FALSE
+2023-11-19,Spain,Georgia,3,1,UEFA Euro qualification,Valladolid,Spain,FALSE
+2023-11-19,Belgium,Azerbaijan,5,0,UEFA Euro qualification,Brussels,Belgium,FALSE
+2023-11-19,Sweden,Estonia,2,0,UEFA Euro qualification,Stockholm,Sweden,FALSE
+2023-11-19,Hungary,Montenegro,3,1,UEFA Euro qualification,Budapest,Hungary,FALSE
+2023-11-19,Serbia,Bulgaria,2,2,UEFA Euro qualification,Leskovac,Serbia,FALSE
+2023-11-19,Portugal,Iceland,2,0,UEFA Euro qualification,Lisbon,Portugal,FALSE
+2023-11-19,Bosnia and Herzegovina,Slovakia,1,2,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,FALSE
+2023-11-19,Liechtenstein,Luxembourg,0,1,UEFA Euro qualification,Vaduz,Liechtenstein,FALSE
+2023-11-20,Montserrat,Barbados,4,2,CONCACAF Nations League,Look Out,Montserrat,FALSE
+2023-11-20,Aruba,Cayman Islands,5,1,CONCACAF Nations League,Oranjestad,Aruba,FALSE
+2023-11-20,Dominica,Turks and Caicos Islands,2,0,CONCACAF Nations League,Road Town,British Virgin Islands,TRUE
+2023-11-20,Panama,Costa Rica,3,1,CONCACAF Nations League,Panama City,Panama,FALSE
+2023-11-20,Trinidad and Tobago,United States,2,1,CONCACAF Nations League,Port of Spain,Trinidad and Tobago,FALSE
+2023-11-20,Djibouti,Guinea-Bissau,0,1,FIFA World Cup qualification,Cairo,Egypt,TRUE
+2023-11-20,Gambia,Ivory Coast,0,2,FIFA World Cup qualification,Dar es Salaam,Tanzania,TRUE
+2023-11-20,Seychelles,Kenya,0,5,FIFA World Cup qualification,Abidjan,Ivory Coast,TRUE
+2023-11-20,Liberia,Equatorial Guinea,0,1,FIFA World Cup qualification,Monrovia,Liberia,FALSE
+2023-11-20,Mali,Central African Republic,1,1,FIFA World Cup qualification,Bamako,Mali,FALSE
+2023-11-20,Chad,Madagascar,0,3,FIFA World Cup qualification,Oujda,Morocco,TRUE
+2023-11-20,Curaçao,El Salvador,1,1,Friendly,Willemstad,Curaçao,FALSE
+2023-11-20,North Macedonia,England,1,1,UEFA Euro qualification,Skopje,North Macedonia,FALSE
+2023-11-20,Ukraine,Italy,0,0,UEFA Euro qualification,Leverkusen,Germany,TRUE
+2023-11-20,Albania,Faroe Islands,0,0,UEFA Euro qualification,Tirana,Albania,FALSE
+2023-11-20,Czech Republic,Moldova,3,0,UEFA Euro qualification,Olomouc,Czech Republic,FALSE
+2023-11-20,Northern Ireland,Denmark,2,0,UEFA Euro qualification,Belfast,Northern Ireland,FALSE
+2023-11-20,San Marino,Finland,1,2,UEFA Euro qualification,Serravalle,San Marino,FALSE
+2023-11-20,Slovenia,Kazakhstan,2,1,UEFA Euro qualification,Ljubljana,Slovenia,FALSE
+2023-11-21,Nicaragua,Dominican Republic,0,0,CONCACAF Nations League,Managua,Nicaragua,FALSE
+2023-11-21,French Guiana,Bermuda,3,0,CONCACAF Nations League,Fort de France,Martinique,TRUE
+2023-11-21,Saint Vincent and the Grenadines,Belize,3,0,CONCACAF Nations League,Saint George's,Saint Vincent and the Grenadines,FALSE
+2023-11-21,Guyana,Antigua and Barbuda,6,0,CONCACAF Nations League,Santo Domingo,Dominican Republic,TRUE
+2023-11-21,Puerto Rico,Bahamas,6,1,CONCACAF Nations League,Bayamón,Puerto Rico,FALSE
+2023-11-21,Bonaire,Saint Martin,0,4,CONCACAF Nations League,Rincon,Bonaire,FALSE
+2023-11-21,Canada,Jamaica,2,3,CONCACAF Nations League,Toronto,Canada,FALSE
+2023-11-21,Mexico,Honduras,2,0,CONCACAF Nations League,Mexico City,Mexico,FALSE
+2023-11-21,Ecuador,Chile,1,0,FIFA World Cup qualification,Quito,Ecuador,FALSE
+2023-11-21,Paraguay,Colombia,0,1,FIFA World Cup qualification,Asunción,Paraguay,FALSE
+2023-11-21,Uruguay,Bolivia,3,0,FIFA World Cup qualification,Montevideo,Uruguay,FALSE
+2023-11-21,Peru,Venezuela,1,1,FIFA World Cup qualification,Lima,Peru,FALSE
+2023-11-21,Brazil,Argentina,0,1,FIFA World Cup qualification,Rio de Janeiro,Brazil,FALSE
+2023-11-21,India,Qatar,0,3,FIFA World Cup qualification,Bhubaneswar,India,FALSE
+2023-11-21,Afghanistan,Kuwait,0,4,FIFA World Cup qualification,Damman,Saudi Arabia,TRUE
+2023-11-21,Myanmar,North Korea,1,6,FIFA World Cup qualification,Yangon,Myanmar,FALSE
+2023-11-21,Syria,Japan,0,5,FIFA World Cup qualification,Jeddah,Saudi Arabia,TRUE
+2023-11-21,China PR,South Korea,0,3,FIFA World Cup qualification,Shenzhen,China PR,FALSE
+2023-11-21,Singapore,Thailand,1,3,FIFA World Cup qualification,Kallang,Singapore,FALSE
+2023-11-21,Taiwan,Malaysia,0,1,FIFA World Cup qualification,Taipei,Taiwan,FALSE
+2023-11-21,Kyrgyzstan,Oman,1,0,FIFA World Cup qualification,Bishkek,Kyrgyzstan,FALSE
+2023-11-21,Uzbekistan,Iran,2,2,FIFA World Cup qualification,Tashkent,Uzbekistan,FALSE
+2023-11-21,Hong Kong,Turkmenistan,2,2,FIFA World Cup qualification,Hong Kong,Hong Kong,FALSE
+2023-11-21,Philippines,Indonesia,1,1,FIFA World Cup qualification,Manila,Philippines,FALSE
+2023-11-21,Vietnam,Iraq,0,1,FIFA World Cup qualification,Hanoi,Vietnam,FALSE
+2023-11-21,Pakistan,Tajikistan,1,6,FIFA World Cup qualification,Islamabad,Pakistan,FALSE
+2023-11-21,Jordan,Saudi Arabia,0,2,FIFA World Cup qualification,Amman,Jordan,FALSE
+2023-11-21,Bahrain,United Arab Emirates,0,2,FIFA World Cup qualification,Riffa,Bahrain,FALSE
+2023-11-21,Nepal,Yemen,0,2,FIFA World Cup qualification,Kathmandu,Nepal,FALSE
+2023-11-21,Palestine,Australia,0,1,FIFA World Cup qualification,Kuwait City,Kuwait,TRUE
+2023-11-21,Bangladesh,Lebanon,1,1,FIFA World Cup qualification,Dhaka,Bangladesh,FALSE
+2023-11-21,Ethiopia,Burkina Faso,0,3,FIFA World Cup qualification,El Jadida,Morocco,TRUE
+2023-11-21,South Sudan,Mauritania,0,0,FIFA World Cup qualification,Diamniadio,Senegal,TRUE
+2023-11-21,Togo,Senegal,0,0,FIFA World Cup qualification,Lomé,Togo,FALSE
+2023-11-21,Lesotho,Benin,0,0,FIFA World Cup qualification,Durban,South Africa,TRUE
+2023-11-21,Rwanda,South Africa,2,0,FIFA World Cup qualification,Butare,Rwanda,FALSE
+2023-11-21,Eswatini,Cape Verde,0,2,FIFA World Cup qualification,Mbombela,South Africa,TRUE
+2023-11-21,Libya,Cameroon,1,1,FIFA World Cup qualification,Benghazi,Libya,FALSE
+2023-11-21,Mauritius,Angola,0,0,FIFA World Cup qualification,Saint Pierre,Mauritius,FALSE
+2023-11-21,Niger,Zambia,2,1,FIFA World Cup qualification,Marrakech,Morocco,TRUE
+2023-11-21,Tanzania,Morocco,0,2,FIFA World Cup qualification,Dar es Salaam,Tanzania,FALSE
+2023-11-21,Somalia,Uganda,0,1,FIFA World Cup qualification,Berkane,Morocco,TRUE
+2023-11-21,Botswana,Guinea,1,0,FIFA World Cup qualification,Francistown,Botswana,FALSE
+2023-11-21,Malawi,Tunisia,0,1,FIFA World Cup qualification,Lilongwe,Malawi,FALSE
+2023-11-21,São Tomé and Príncipe,Namibia,0,2,FIFA World Cup qualification,Agadir,Morocco,TRUE
+2023-11-21,Comoros,Ghana,1,0,FIFA World Cup qualification,Moroni,Comoros,FALSE
+2023-11-21,Austria,Germany,2,0,Friendly,Vienna,Austria,FALSE
+2023-11-21,Poland,Latvia,2,0,Friendly,Warsaw,Poland,FALSE
+2023-11-21,Republic of Ireland,New Zealand,1,1,Friendly,Dublin,Republic of Ireland,FALSE
+2023-11-21,Gibraltar,Netherlands,0,6,UEFA Euro qualification,Faro-Loulé,Portugal,TRUE
+2023-11-21,Greece,France,2,2,UEFA Euro qualification,Athens,Greece,FALSE
+2023-11-21,Wales,Turkey,1,1,UEFA Euro qualification,Cardiff,Wales,FALSE
+2023-11-21,Croatia,Armenia,1,0,UEFA Euro qualification,Zagreb,Croatia,FALSE
+2023-11-21,Andorra,Israel,0,2,UEFA Euro qualification,Andorra la Vella,Andorra,FALSE
+2023-11-21,Kosovo,Belarus,0,1,UEFA Euro qualification,Pristina,Kosovo,FALSE
+2023-11-21,Romania,Switzerland,1,0,UEFA Euro qualification,Bucharest,Romania,FALSE

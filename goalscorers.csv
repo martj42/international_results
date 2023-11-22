@@ -41007,6 +41007,146 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2022-12-18,Argentina,France,France,Kylian Mbappé,81,FALSE,FALSE
 2022-12-18,Argentina,France,Argentina,Lionel Messi,109,FALSE,FALSE
 2022-12-18,Argentina,France,France,Kylian Mbappé,118,FALSE,TRUE
+2023-03-23,Italy,England,England,Declan Rice,13,FALSE,FALSE
+2023-03-23,Italy,England,England,Harry Kane,44,FALSE,TRUE
+2023-03-23,Italy,England,Italy,Mateo Retegui,56,FALSE,FALSE
+2023-03-23,North Macedonia,Malta,North Macedonia,Elif Elmas,66,FALSE,FALSE
+2023-03-23,North Macedonia,Malta,North Macedonia,Darko Churlinov,72,FALSE,FALSE
+2023-03-23,North Macedonia,Malta,Malta,Yannick Yankam,85,FALSE,FALSE
+2023-03-24,Austria,Azerbaijan,Austria,Marcel Sabitzer,27,FALSE,FALSE
+2023-03-24,Austria,Azerbaijan,Austria,Michael Gregoritsch,29,FALSE,FALSE
+2023-03-24,Austria,Azerbaijan,Austria,Marcel Sabitzer,50,FALSE,FALSE
+2023-03-24,Austria,Azerbaijan,Azerbaijan,Emin Mahmudov,64,FALSE,FALSE
+2023-03-24,Austria,Azerbaijan,Austria,Christoph Baumgartner,69,FALSE,FALSE
+2023-03-24,Czech Republic,Poland,Czech Republic,Ladislav Krejčí,1,FALSE,FALSE
+2023-03-24,Czech Republic,Poland,Czech Republic,Tomáš Čvančara,3,FALSE,FALSE
+2023-03-24,Czech Republic,Poland,Czech Republic,Jan Kuchta,64,FALSE,FALSE
+2023-03-24,Czech Republic,Poland,Poland,Damian Szymański,87,FALSE,FALSE
+2023-03-24,France,Netherlands,France,Antoine Griezmann,2,FALSE,FALSE
+2023-03-24,France,Netherlands,France,Dayot Upamecano,8,FALSE,FALSE
+2023-03-24,France,Netherlands,France,Kylian Mbappé,21,FALSE,FALSE
+2023-03-24,France,Netherlands,France,Kylian Mbappé,88,FALSE,FALSE
+2023-03-24,Gibraltar,Greece,Greece,Georgios Masouras,11,FALSE,FALSE
+2023-03-24,Gibraltar,Greece,Greece,Manolis Siopis,45,FALSE,FALSE
+2023-03-24,Gibraltar,Greece,Greece,Anastasios Bakasetas,58,FALSE,FALSE
+2023-03-24,Moldova,Faroe Islands,Faroe Islands,Mads Boe Mikkelsen,27,FALSE,FALSE
+2023-03-24,Moldova,Faroe Islands,Moldova,Ion Nicolaescu,87,FALSE,TRUE
+2023-03-24,Sweden,Belgium,Belgium,Romelu Lukaku,35,FALSE,FALSE
+2023-03-24,Sweden,Belgium,Belgium,Romelu Lukaku,49,FALSE,FALSE
+2023-03-24,Sweden,Belgium,Belgium,Romelu Lukaku,83,FALSE,FALSE
+2023-03-25,Armenia,Turkey,Armenia,Ozan Kabak,10,TRUE,FALSE
+2023-03-25,Armenia,Turkey,Turkey,Orkun Kökçü,34,FALSE,FALSE
+2023-03-25,Armenia,Turkey,Turkey,Kerem Aktürkoğlu,64,FALSE,FALSE
+2023-03-25,Croatia,Wales,Croatia,Andrej Kramarić,28,FALSE,FALSE
+2023-03-25,Croatia,Wales,Wales,Nathan Broadhead,90,FALSE,FALSE
+2023-03-25,Scotland,Cyprus,Scotland,John McGinn,21,FALSE,FALSE
+2023-03-25,Scotland,Cyprus,Scotland,Scott McTominay,87,FALSE,FALSE
+2023-03-25,Scotland,Cyprus,Scotland,Scott McTominay,90,FALSE,FALSE
+2023-03-25,Spain,Norway,Spain,Dani Olmo,13,FALSE,FALSE
+2023-03-25,Spain,Norway,Spain,Joselu,84,FALSE,FALSE
+2023-03-25,Spain,Norway,Spain,Joselu,85,FALSE,FALSE
+2023-03-26,England,Ukraine,England,Harry Kane,37,FALSE,FALSE
+2023-03-26,England,Ukraine,England,Bukayo Saka,40,FALSE,FALSE
+2023-03-26,Malta,Italy,Italy,Mateo Retegui,15,FALSE,FALSE
+2023-03-26,Malta,Italy,Italy,Matteo Pessina,27,FALSE,FALSE
+2023-03-27,Austria,Estonia,Estonia,Rauno Sappinen,25,FALSE,FALSE
+2023-03-27,Austria,Estonia,Austria,Florian Kainz,68,FALSE,FALSE
+2023-03-27,Austria,Estonia,Austria,Michael Gregoritsch,88,FALSE,FALSE
+2023-03-27,Netherlands,Gibraltar,Netherlands,Memphis Depay,23,FALSE,FALSE
+2023-03-27,Netherlands,Gibraltar,Netherlands,Nathan Aké,50,FALSE,FALSE
+2023-03-27,Netherlands,Gibraltar,Netherlands,Nathan Aké,82,FALSE,FALSE
+2023-03-27,Poland,Albania,Poland,Karol Świderski,41,FALSE,FALSE
+2023-03-27,Republic of Ireland,France,France,Benjamin Pavard,50,FALSE,FALSE
+2023-03-27,Sweden,Azerbaijan,Sweden,Emil Forsberg,38,FALSE,FALSE
+2023-03-27,Sweden,Azerbaijan,Sweden,Bəhlul Mustafazadə,65,TRUE,FALSE
+2023-03-27,Sweden,Azerbaijan,Sweden,Viktor Gyökeres,79,FALSE,FALSE
+2023-03-27,Sweden,Azerbaijan,Sweden,Jesper Karlsson,88,FALSE,FALSE
+2023-03-27,Sweden,Azerbaijan,Sweden,Anthony Elanga,89,FALSE,FALSE
+2023-03-28,Georgia,Norway,Norway,Alexander Sørloth,15,FALSE,FALSE
+2023-03-28,Georgia,Norway,Georgia,Georges Mikautadze,60,FALSE,FALSE
+2023-03-28,Scotland,Spain,Scotland,Scott McTominay,7,FALSE,FALSE
+2023-03-28,Scotland,Spain,Scotland,Scott McTominay,51,FALSE,FALSE
+2023-03-28,Turkey,Croatia,Croatia,Mateo Kovačić,20,FALSE,FALSE
+2023-03-28,Turkey,Croatia,Croatia,Mateo Kovačić,45,FALSE,FALSE
+2023-03-28,Wales,Latvia,Wales,Kieffer Moore,41,FALSE,FALSE
+2023-06-16,Gibraltar,France,France,Olivier Giroud,3,FALSE,FALSE
+2023-06-16,Gibraltar,France,France,Kylian Mbappé,45,FALSE,TRUE
+2023-06-16,Gibraltar,France,France,Aymen Mouelhi,78,TRUE,FALSE
+2023-06-16,Greece,Republic of Ireland,Greece,Anastasios Bakasetas,15,FALSE,TRUE
+2023-06-16,Greece,Republic of Ireland,Republic of Ireland,Nathan Collins,27,FALSE,FALSE
+2023-06-16,Greece,Republic of Ireland,Greece,Georgios Masouras,49,FALSE,FALSE
+2023-06-16,Latvia,Turkey,Turkey,Abdülkerim Bardakcı,22,FALSE,FALSE
+2023-06-16,Latvia,Turkey,Latvia,Eduards Emsis,51,FALSE,FALSE
+2023-06-16,Latvia,Turkey,Turkey,Cengiz Ünder,61,FALSE,FALSE
+2023-06-16,Latvia,Turkey,Latvia,Kristers Tobers,90,FALSE,FALSE
+2023-06-16,Latvia,Turkey,Turkey,İrfan Kahveci,90,FALSE,FALSE
+2023-06-16,Malta,England,England,Ferdinando Apap,8,TRUE,FALSE
+2023-06-16,Malta,England,England,Trent Alexander-Arnold,28,FALSE,FALSE
+2023-06-16,Malta,England,England,Harry Kane,31,FALSE,TRUE
+2023-06-16,Malta,England,England,Callum Wilson,83,FALSE,TRUE
+2023-06-16,North Macedonia,Ukraine,North Macedonia,Enis Bardhi,31,FALSE,TRUE
+2023-06-16,North Macedonia,Ukraine,North Macedonia,Elif Elmas,39,FALSE,FALSE
+2023-06-16,North Macedonia,Ukraine,Ukraine,Illya Zabarnyi,62,FALSE,FALSE
+2023-06-16,North Macedonia,Ukraine,Ukraine,Yukhym Konoplya,67,FALSE,FALSE
+2023-06-16,North Macedonia,Ukraine,Ukraine,Viktor Tsyhankov,83,FALSE,FALSE
+2023-06-16,Wales,Armenia,Wales,Daniel James,10,FALSE,FALSE
+2023-06-16,Wales,Armenia,Armenia,Lucas Zelarayán,19,FALSE,FALSE
+2023-06-16,Wales,Armenia,Armenia,Grant-Leon Ranos,30,FALSE,FALSE
+2023-06-16,Wales,Armenia,Armenia,Grant-Leon Ranos,66,FALSE,FALSE
+2023-06-16,Wales,Armenia,Wales,Harry Wilson,72,FALSE,FALSE
+2023-06-16,Wales,Armenia,Armenia,Lucas Zelarayán,75,FALSE,FALSE
+2023-06-17,Albania,Moldova,Albania,Jasir Asani,52,FALSE,FALSE
+2023-06-17,Albania,Moldova,Albania,Nedim Bajrami,76,FALSE,FALSE
+2023-06-17,Azerbaijan,Estonia,Estonia,Rauno Sappinen,27,FALSE,FALSE
+2023-06-17,Azerbaijan,Estonia,Azerbaijan,Anton Kryvotsyuk,62,FALSE,FALSE
+2023-06-17,Belgium,Austria,Austria,Orel Mangala,21,TRUE,FALSE
+2023-06-17,Belgium,Austria,Belgium,Romelu Lukaku,62,FALSE,FALSE
+2023-06-17,Cyprus,Georgia,Georgia,Georges Mikautadze,31,FALSE,FALSE
+2023-06-17,Cyprus,Georgia,Cyprus,Ioannis Pittas,39,FALSE,TRUE
+2023-06-17,Cyprus,Georgia,Georgia,Zuriko Davitashvili,84,FALSE,FALSE
+2023-06-17,Faroe Islands,Czech Republic,Czech Republic,Ladislav Krejčí,15,FALSE,FALSE
+2023-06-17,Faroe Islands,Czech Republic,Czech Republic,Václav Černý,44,FALSE,FALSE
+2023-06-17,Faroe Islands,Czech Republic,Czech Republic,Václav Černý,75,FALSE,FALSE
+2023-06-17,Norway,Scotland,Norway,Erling Haaland,61,FALSE,TRUE
+2023-06-17,Norway,Scotland,Scotland,Lyndon Dykes,87,FALSE,FALSE
+2023-06-17,Norway,Scotland,Scotland,Kenny McLean,89,FALSE,FALSE
+2023-06-19,Armenia,Latvia,Armenia,Nair Tiknizyan,35,FALSE,FALSE
+2023-06-19,Armenia,Latvia,Latvia,Styopa Mkrtchyan,67,TRUE,FALSE
+2023-06-19,Armenia,Latvia,Armenia,Tigran Barseghyan,90,FALSE,TRUE
+2023-06-19,England,North Macedonia,England,Harry Kane,29,FALSE,FALSE
+2023-06-19,England,North Macedonia,England,Bukayo Saka,38,FALSE,FALSE
+2023-06-19,England,North Macedonia,England,Marcus Rashford,45,FALSE,FALSE
+2023-06-19,England,North Macedonia,England,Bukayo Saka,47,FALSE,FALSE
+2023-06-19,England,North Macedonia,England,Bukayo Saka,51,FALSE,FALSE
+2023-06-19,England,North Macedonia,England,Kalvin Phillips,64,FALSE,FALSE
+2023-06-19,England,North Macedonia,England,Harry Kane,73,FALSE,TRUE
+2023-06-19,France,Greece,France,Kylian Mbappé,55,FALSE,TRUE
+2023-06-19,Republic of Ireland,Gibraltar,Republic of Ireland,Mikey Johnston,52,FALSE,FALSE
+2023-06-19,Republic of Ireland,Gibraltar,Republic of Ireland,Evan Ferguson,59,FALSE,FALSE
+2023-06-19,Republic of Ireland,Gibraltar,Republic of Ireland,Adam Idah,90,FALSE,FALSE
+2023-06-19,Turkey,Wales,Turkey,Umut Nayir,72,FALSE,FALSE
+2023-06-19,Turkey,Wales,Turkey,Arda Güler,80,FALSE,FALSE
+2023-06-19,Ukraine,Malta,Ukraine,Viktor Tsyhankov,72,FALSE,TRUE
+2023-06-20,Austria,Sweden,Austria,Christoph Baumgartner,81,FALSE,FALSE
+2023-06-20,Austria,Sweden,Austria,Christoph Baumgartner,89,FALSE,FALSE
+2023-06-20,Estonia,Belgium,Belgium,Romelu Lukaku,37,FALSE,FALSE
+2023-06-20,Estonia,Belgium,Belgium,Romelu Lukaku,40,FALSE,FALSE
+2023-06-20,Estonia,Belgium,Belgium,Johan Bakayoko,90,FALSE,FALSE
+2023-06-20,Faroe Islands,Albania,Albania,Nedim Bajrami,20,FALSE,FALSE
+2023-06-20,Faroe Islands,Albania,Faroe Islands,Odmar Færø,45,FALSE,FALSE
+2023-06-20,Faroe Islands,Albania,Albania,Kristjan Asllani,51,FALSE,FALSE
+2023-06-20,Faroe Islands,Albania,Albania,Ernest Muçi,90,FALSE,FALSE
+2023-06-20,Moldova,Poland,Poland,Arkadiusz Milik,12,FALSE,FALSE
+2023-06-20,Moldova,Poland,Poland,Robert Lewandowski,34,FALSE,FALSE
+2023-06-20,Moldova,Poland,Moldova,Ion Nicolaescu,48,FALSE,FALSE
+2023-06-20,Moldova,Poland,Moldova,Ion Nicolaescu,79,FALSE,FALSE
+2023-06-20,Moldova,Poland,Moldova,Vladislav Baboglo,85,FALSE,FALSE
+2023-06-20,Norway,Cyprus,Norway,Ola Solbakken,12,FALSE,FALSE
+2023-06-20,Norway,Cyprus,Norway,Erling Haaland,56,FALSE,TRUE
+2023-06-20,Norway,Cyprus,Norway,Erling Haaland,60,FALSE,FALSE
+2023-06-20,Norway,Cyprus,Cyprus,Grigoris Kastanos,90,FALSE,FALSE
+2023-06-20,Scotland,Georgia,Scotland,Callum McGregor,6,FALSE,FALSE
+2023-06-20,Scotland,Georgia,Scotland,Scott McTominay,47,FALSE,FALSE
 2023-06-24,United States,Jamaica,Jamaica,Damion Lowe,13,FALSE,FALSE
 2023-06-24,United States,Jamaica,United States,Brandon Vázquez,88,FALSE,FALSE
 2023-06-25,Haiti,Qatar,Qatar,Yusuf Abdurisag,20,FALSE,FALSE
@@ -41111,4 +41251,220 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-07-12,Jamaica,Mexico,Mexico,Roberto Alvarado,90,FALSE,FALSE
 2023-07-12,United States,Panama,Panama,Iván Anderson,99,FALSE,FALSE
 2023-07-12,United States,Panama,United States,Jesús Ferreira,105,FALSE,FALSE
-2023-07-16,Mexico,Panama,Mexico,Santiago Giménez,88,FAlSE,FALSE
+2023-09-07,Czech Republic,Albania,Czech Republic,Václav Černý,56,FALSE,FALSE
+2023-09-07,Czech Republic,Albania,Albania,Nedim Bajrami,66,FALSE,FALSE
+2023-09-07,France,Republic of Ireland,France,Aurélien Tchouaméni,19,FALSE,FALSE
+2023-09-07,France,Republic of Ireland,France,Marcus Thuram,48,FALSE,FALSE
+2023-09-07,Netherlands,Greece,Netherlands,Marten de Roon,17,FALSE,FALSE
+2023-09-07,Netherlands,Greece,Netherlands,Cody Gakpo,31,FALSE,FALSE
+2023-09-07,Netherlands,Greece,Netherlands,Wout Weghorst,39,FALSE,FALSE
+2023-09-07,Poland,Faroe Islands,Poland,Robert Lewandowski,73,FALSE,TRUE
+2023-09-07,Poland,Faroe Islands,Poland,Robert Lewandowski,83,FALSE,FALSE
+2023-09-08,Croatia,Latvia,Croatia,Bruno Petković,3,FALSE,FALSE
+2023-09-08,Croatia,Latvia,Croatia,Luka Ivanušec,13,FALSE,FALSE
+2023-09-08,Croatia,Latvia,Croatia,Bruno Petković,44,FALSE,FALSE
+2023-09-08,Croatia,Latvia,Croatia,Andrej Kramarić,68,FALSE,FALSE
+2023-09-08,Croatia,Latvia,Croatia,Mario Pašalić,78,FALSE,FALSE
+2023-09-08,Cyprus,Scotland,Scotland,Scott McTominay,6,FALSE,FALSE
+2023-09-08,Cyprus,Scotland,Scotland,Ryan Porteous,16,FALSE,FALSE
+2023-09-08,Cyprus,Scotland,Scotland,John McGinn,30,FALSE,FALSE
+2023-09-08,Georgia,Spain,Spain,Álvaro Morata,22,FALSE,FALSE
+2023-09-08,Georgia,Spain,Spain,Solomon Kvirkvelia,27,TRUE,FALSE
+2023-09-08,Georgia,Spain,Spain,Dani Olmo,38,FALSE,FALSE
+2023-09-08,Georgia,Spain,Spain,Álvaro Morata,40,FALSE,FALSE
+2023-09-08,Georgia,Spain,Georgia,Giorgi Chakvetadze,49,FALSE,FALSE
+2023-09-08,Georgia,Spain,Spain,Álvaro Morata,66,FALSE,FALSE
+2023-09-08,Georgia,Spain,Spain,Nico Williams,68,FALSE,FALSE
+2023-09-08,Georgia,Spain,Spain,Lamine Yamal,74,FALSE,FALSE
+2023-09-08,Turkey,Armenia,Armenia,Artak Dashyan,49,FALSE,FALSE
+2023-09-08,Turkey,Armenia,Turkey,Bertuğ Yıldırım,88,FALSE,FALSE
+2023-09-09,Azerbaijan,Belgium,Belgium,Yannick Carrasco,38,FALSE,FALSE
+2023-09-09,Estonia,Sweden,Sweden,Viktor Gyökeres,18,FALSE,FALSE
+2023-09-09,Estonia,Sweden,Sweden,Dejan Kulusevski,24,FALSE,FALSE
+2023-09-09,Estonia,Sweden,Sweden,Alexander Isak,39,FALSE,FALSE
+2023-09-09,Estonia,Sweden,Sweden,Robin Quaison,75,FALSE,FALSE
+2023-09-09,Estonia,Sweden,Sweden,Viktor Claesson,90,FALSE,FALSE
+2023-09-09,North Macedonia,Italy,Italy,Ciro Immobile,47,FALSE,FALSE
+2023-09-09,North Macedonia,Italy,North Macedonia,Enis Bardhi,81,FALSE,FALSE
+2023-09-09,Ukraine,England,Ukraine,Oleksandr Zinchenko,26,FALSE,FALSE
+2023-09-09,Ukraine,England,England,Kyle Walker,41,FALSE,FALSE
+2023-09-10,Albania,Poland,Albania,Jasir Asani,37,FALSE,FALSE
+2023-09-10,Albania,Poland,Albania,Mirlind Daku,62,FALSE,FALSE
+2023-09-10,Faroe Islands,Moldova,Moldova,Vadim Rață,53,FALSE,FALSE
+2023-09-10,Greece,Gibraltar,Greece,Dimitrios Pelkas,9,FALSE,FALSE
+2023-09-10,Greece,Gibraltar,Greece,Konstantinos Mavropanos,23,FALSE,FALSE
+2023-09-10,Greece,Gibraltar,Greece,Giorgos Masouras,70,FALSE,FALSE
+2023-09-10,Greece,Gibraltar,Greece,Konstantinos Mavropanos,83,FALSE,FALSE
+2023-09-10,Greece,Gibraltar,Greece,Giorgos Masouras,90,FALSE,FALSE
+2023-09-10,Republic of Ireland,Netherlands,Republic of Ireland,Adam Idah,5,FALSE,TRUE
+2023-09-10,Republic of Ireland,Netherlands,Netherlands,Cody Gakpo,19,FALSE,TRUE
+2023-09-10,Republic of Ireland,Netherlands,Netherlands,Wout Weghorst,56,FALSE,FALSE
+2023-09-11,Armenia,Croatia,Croatia,Andrej Kramarić,13,FALSE,FALSE
+2023-09-11,Latvia,Wales,Wales,Aaron Ramsey,29,FALSE,TRUE
+2023-09-11,Latvia,Wales,Wales,David Brooks,90,FALSE,FALSE
+2023-09-12,Belgium,Estonia,Belgium,Jan Vertonghen,4,FALSE,FALSE
+2023-09-12,Belgium,Estonia,Belgium,Leandro Trossard,18,FALSE,FALSE
+2023-09-12,Belgium,Estonia,Belgium,Romelu Lukaku,56,FALSE,FALSE
+2023-09-12,Belgium,Estonia,Belgium,Romelu Lukaku,58,FALSE,FALSE
+2023-09-12,Belgium,Estonia,Belgium,Charles De Ketelaere,88,FALSE,FALSE
+2023-09-12,Italy,Ukraine,Italy,Davide Frattesi,12,FALSE,FALSE
+2023-09-12,Italy,Ukraine,Italy,Davide Frattesi,29,FALSE,FALSE
+2023-09-12,Italy,Ukraine,Ukraine,Andriy Yarmolenko,41,FALSE,FALSE
+2023-09-12,Malta,North Macedonia,North Macedonia,Elif Elmas,5,FALSE,FALSE
+2023-09-12,Malta,North Macedonia,North Macedonia,Jovan Manev,41,FALSE,FALSE
+2023-09-12,Norway,Georgia,Norway,Erling Haaland,25,FALSE,FALSE
+2023-09-12,Norway,Georgia,Norway,Martin Ødegaard,33,FALSE,FALSE
+2023-09-12,Norway,Georgia,Georgia,Budu Zivzivadze,90,FALSE,FALSE
+2023-09-12,Spain,Cyprus,Spain,Gavi,18,FALSE,FALSE
+2023-09-12,Spain,Cyprus,Spain,Mikel Merino,33,FALSE,FALSE
+2023-09-12,Spain,Cyprus,Spain,Joselu,70,FALSE,FALSE
+2023-09-12,Spain,Cyprus,Spain,Ferran Torres,73,FALSE,FALSE
+2023-09-12,Spain,Cyprus,Spain,Álex Baena,77,FALSE,FALSE
+2023-09-12,Spain,Cyprus,Spain,Ferran Torres,83,FALSE,FALSE
+2023-09-12,Sweden,Austria,Austria,Michael Gregoritsch,53,FALSE,FALSE
+2023-09-12,Sweden,Austria,Austria,Marko Arnautović,56,FALSE,FALSE
+2023-09-12,Sweden,Austria,Austria,Marko Arnautović,69,FALSE,TRUE
+2023-09-12,Sweden,Austria,Sweden,Emil Holm,90,FALSE,FALSE
+2023-10-12,Albania,Czech Republic,Albania,Jasir Asani,9,FALSE,FALSE
+2023-10-12,Albania,Czech Republic,Albania,Taulant Seferi,51,FALSE,FALSE
+2023-10-12,Albania,Czech Republic,Albania,Taulant Seferi,73,FALSE,FALSE
+2023-10-12,Croatia,Turkey,Turkey,Barış Alper Yılmaz,30,FALSE,FALSE
+2023-10-12,Cyprus,Norway,Norway,Alexander Sørloth,33,FALSE,FALSE
+2023-10-12,Cyprus,Norway,Norway,Erling Haaland,65,FALSE,FALSE
+2023-10-12,Cyprus,Norway,Norway,Erling Haaland,72,FALSE,FALSE
+2023-10-12,Cyprus,Norway,Norway,Fredrik Aursnes,81,FALSE,FALSE
+2023-10-12,Faroe Islands,Poland,Poland,Sebastian Szymański,4,FALSE,FALSE
+2023-10-12,Faroe Islands,Poland,Poland,Adam Buksa,65,FALSE,FALSE
+2023-10-12,Latvia,Armenia,Latvia,Jānis Ikaunieks,39,FALSE,FALSE
+2023-10-12,Latvia,Armenia,Latvia,Daniels Balodis,68,FALSE,FALSE
+2023-10-12,Spain,Scotland,Spain,Álvaro Morata,73,FALSE,FALSE
+2023-10-12,Spain,Scotland,Spain,Oihan Sancet,86,FALSE,FALSE
+2023-10-13,Austria,Belgium,Belgium,Dodi Lukebakio,12,FALSE,FALSE
+2023-10-13,Austria,Belgium,Belgium,Dodi Lukebakio,55,FALSE,FALSE
+2023-10-13,Austria,Belgium,Belgium,Romelu Lukaku,58,FALSE,FALSE
+2023-10-13,Austria,Belgium,Austria,Konrad Laimer,72,FALSE,FALSE
+2023-10-13,Austria,Belgium,Austria,Marcel Sabitzer,84,FALSE,TRUE
+2023-10-13,Estonia,Azerbaijan,Azerbaijan,Toral Bayramov,9,FALSE,FALSE
+2023-10-13,Estonia,Azerbaijan,Azerbaijan,Ramil Sheydayev,45,FALSE,TRUE
+2023-10-13,Netherlands,France,France,Kylian Mbappé,7,FALSE,FALSE
+2023-10-13,Netherlands,France,France,Kylian Mbappé,53,FALSE,FALSE
+2023-10-13,Netherlands,France,Netherlands,Quilindschy Hartman,83,FALSE,FALSE
+2023-10-13,Republic of Ireland,Greece,Greece,Giorgos Giakoumakis,20,FALSE,FALSE
+2023-10-13,Republic of Ireland,Greece,Greece,Georgios Masouras,45,FALSE,FALSE
+2023-10-14,Italy,Malta,Italy,Giacomo Bonaventura,23,FALSE,FALSE
+2023-10-14,Italy,Malta,Italy,Domenico Berardi,45,FALSE,FALSE
+2023-10-14,Italy,Malta,Italy,Domenico Berardi,64,FALSE,FALSE
+2023-10-14,Italy,Malta,Italy,Davide Frattesi,90,FALSE,FALSE
+2023-10-14,Ukraine,North Macedonia,Ukraine,Heorhiy Sudakov,30,FALSE,FALSE
+2023-10-14,Ukraine,North Macedonia,Ukraine,Oleksandr Karavayev,90,FALSE,FALSE
+2023-10-15,Czech Republic,Faroe Islands,Czech Republic,Tomáš Souček,76,FALSE,TRUE
+2023-10-15,Georgia,Cyprus,Georgia,Otar Kiteishvili,46,FALSE,FALSE
+2023-10-15,Georgia,Cyprus,Georgia,Khvicha Kvaratskhelia,58,FALSE,FALSE
+2023-10-15,Georgia,Cyprus,Georgia,Levan Shengelia,82,FALSE,FALSE
+2023-10-15,Georgia,Cyprus,Georgia,Georges Mikautadze,90,FALSE,TRUE
+2023-10-15,Norway,Spain,Spain,Gavi,49,FALSE,FALSE
+2023-10-15,Poland,Moldova,Moldova,Ion Nicolaescu,26,FALSE,FALSE
+2023-10-15,Poland,Moldova,Poland,Karol Świderski,53,FALSE,FALSE
+2023-10-15,Turkey,Latvia,Turkey,Yunus Akgün,58,FALSE,FALSE
+2023-10-15,Turkey,Latvia,Turkey,Cenk Tosun,84,FALSE,FALSE
+2023-10-15,Turkey,Latvia,Turkey,Kerem Aktürkoğlu,88,FALSE,FALSE
+2023-10-15,Turkey,Latvia,Turkey,Cenk Tosun,90,FALSE,FALSE
+2023-10-15,Wales,Croatia,Wales,Harry Wilson,47,FALSE,FALSE
+2023-10-15,Wales,Croatia,Wales,Harry Wilson,60,FALSE,FALSE
+2023-10-15,Wales,Croatia,Croatia,Mario Pašalić,75,FALSE,FALSE
+2023-10-16,Azerbaijan,Austria,Austria,Marcel Sabitzer,48,FALSE,TRUE
+2023-10-16,Belgium,Sweden,Sweden,Viktor Gyökeres,15,FALSE,FALSE
+2023-10-16,Belgium,Sweden,Belgium,Romelu Lukaku,31,FALSE,TRUE
+2023-10-16,Gibraltar,Republic of Ireland,Republic of Ireland,Evan Ferguson,8,FALSE,FALSE
+2023-10-16,Gibraltar,Republic of Ireland,Republic of Ireland,Mikey Johnston,28,FALSE,FALSE
+2023-10-16,Gibraltar,Republic of Ireland,Republic of Ireland,Matt Doherty,60,FALSE,FALSE
+2023-10-16,Gibraltar,Republic of Ireland,Republic of Ireland,Callum Robinson,80,FALSE,FALSE
+2023-10-16,Greece,Netherlands,Netherlands,Virgil van Dijk,90,FALSE,TRUE
+2023-10-17,England,Italy,Italy,Gianluca Scamacca,15,FALSE,FALSE
+2023-10-17,England,Italy,England,Harry Kane,32,FALSE,TRUE
+2023-10-17,England,Italy,England,Marcus Rashford,57,FALSE,FALSE
+2023-10-17,England,Italy,England,Harry Kane,77,FALSE,FALSE
+2023-10-17,Malta,Ukraine,Malta,Paul Mbong,12,FALSE,FALSE
+2023-10-17,Malta,Ukraine,Ukraine,Ryan Camenzuli,38,TRUE,FALSE
+2023-10-17,Malta,Ukraine,Ukraine,Artem Dovbyk,43,FALSE,TRUE
+2023-10-17,Malta,Ukraine,Ukraine,Mykhailo Mudryk,85,FALSE,FALSE
+2023-11-16,Azerbaijan,Sweden,Azerbaijan,Emin Mahmudov,3,FALSE,FALSE
+2023-11-16,Azerbaijan,Sweden,Azerbaijan,Renat Dadashov,6,FALSE,FALSE
+2023-11-16,Azerbaijan,Sweden,Azerbaijan,Emin Mahmudov,89,FALSE,FALSE
+2023-11-16,Cyprus,Spain,Spain,Lamine Yamal,5,FALSE,FALSE
+2023-11-16,Cyprus,Spain,Spain,Mikel Oyarzabal,22,FALSE,FALSE
+2023-11-16,Cyprus,Spain,Spain,Joselu,28,FALSE,FALSE
+2023-11-16,Cyprus,Spain,Cyprus,Kostas Pileas,75,FALSE,FALSE
+2023-11-16,Estonia,Austria,Austria,Konrad Laimer,25,FALSE,FALSE
+2023-11-16,Estonia,Austria,Austria,Philipp Lienhart,39,FALSE,FALSE
+2023-11-16,Georgia,Scotland,Georgia,Khvicha Kvaratskhelia,15,FALSE,FALSE
+2023-11-16,Georgia,Scotland,Scotland,Scott McTominay,49,FALSE,FALSE
+2023-11-16,Georgia,Scotland,Georgia,Khvicha Kvaratskhelia,57,FALSE,FALSE
+2023-11-16,Georgia,Scotland,Scotland,Lawrence Shankland,90,FALSE,FALSE
+2023-11-17,England,Malta,England,Enrico Pepe,8,TRUE,FALSE
+2023-11-17,England,Malta,England,Harry Kane,75,FALSE,FALSE
+2023-11-17,Italy,North Macedonia,Italy,Matteo Darmian,17,FALSE,FALSE
+2023-11-17,Italy,North Macedonia,Italy,Federico Chiesa,41,FALSE,FALSE
+2023-11-17,Italy,North Macedonia,Italy,Federico Chiesa,45,FALSE,FALSE
+2023-11-17,Italy,North Macedonia,North Macedonia,Jani Atanasov,52,FALSE,FALSE
+2023-11-17,Italy,North Macedonia,North Macedonia,Jani Atanasov,74,FALSE,FALSE
+2023-11-17,Italy,North Macedonia,Italy,Giacomo Raspadori,81,FALSE,FALSE
+2023-11-17,Italy,North Macedonia,Italy,Stephan El Shaarawy,90,FALSE,FALSE
+2023-11-17,Moldova,Albania,Albania,Sokol Çikalleshi,25,FALSE,TRUE
+2023-11-17,Moldova,Albania,Moldova,Vladislav Baboglo,87,FALSE,FALSE
+2023-11-17,Poland,Czech Republic,Poland,Jakub Piotrowski,38,FALSE,FALSE
+2023-11-17,Poland,Czech Republic,Czech Republic,Tomáš Souček,49,FALSE,FALSE
+2023-11-18,Armenia,Wales,Armenia,Lucas Zelarayán,5,FALSE,FALSE
+2023-11-18,Armenia,Wales,Wales,Nair Tiknizyan,45,TRUE,FALSE
+2023-11-18,France,Gibraltar,France,Ethan Santos,3,TRUE,FALSE
+2023-11-18,France,Gibraltar,France,Marcus Thuram,4,FALSE,FALSE
+2023-11-18,France,Gibraltar,France,Warren Zaïre-Emery,16,FALSE,FALSE
+2023-11-18,France,Gibraltar,France,Kylian Mbappé,30,FALSE,TRUE
+2023-11-18,France,Gibraltar,France,Jonathan Clauss,34,FALSE,FALSE
+2023-11-18,France,Gibraltar,France,Kingsley Coman,36,FALSE,FALSE
+2023-11-18,France,Gibraltar,France,Youssouf Fofana,37,FALSE,FALSE
+2023-11-18,France,Gibraltar,France,Adrien Rabiot,63,FALSE,FALSE
+2023-11-18,France,Gibraltar,France,Kingsley Coman,65,FALSE,FALSE
+2023-11-18,France,Gibraltar,France,Ousmane Dembélé,73,FALSE,FALSE
+2023-11-18,France,Gibraltar,France,Kylian Mbappé,74,FALSE,FALSE
+2023-11-18,France,Gibraltar,France,Kylian Mbappé,82,FALSE,FALSE
+2023-11-18,France,Gibraltar,France,Olivier Giroud,89,FALSE,FALSE
+2023-11-18,France,Gibraltar,France,Olivier Giroud,90,FALSE,FALSE
+2023-11-18,Latvia,Croatia,Croatia,Lovro Majer,7,FALSE,FALSE
+2023-11-18,Latvia,Croatia,Croatia,Andrej Kramarić,16,FALSE,FALSE
+2023-11-18,Netherlands,Republic of Ireland,Netherlands,Wout Weghorst,12,FALSE,FALSE
+2023-11-19,Belgium,Azerbaijan,Belgium,Romelu Lukaku,17,FALSE,FALSE
+2023-11-19,Belgium,Azerbaijan,Belgium,Romelu Lukaku,26,FALSE,FALSE
+2023-11-19,Belgium,Azerbaijan,Belgium,Romelu Lukaku,30,FALSE,FALSE
+2023-11-19,Belgium,Azerbaijan,Belgium,Romelu Lukaku,37,FALSE,FALSE
+2023-11-19,Belgium,Azerbaijan,Belgium,Leandro Trossard,90,FALSE,FALSE
+2023-11-19,Scotland,Norway,Norway,Aron Dønnum,3,FALSE,FALSE
+2023-11-19,Scotland,Norway,Scotland,John McGinn,13,FALSE,FALSE
+2023-11-19,Scotland,Norway,Norway,Jørgen Strand Larsen,20,FALSE,FALSE
+2023-11-19,Scotland,Norway,Scotland,Leo Skiri Østigård,33,TRUE,FALSE
+2023-11-19,Scotland,Norway,Scotland,Stuart Armstrong,59,FALSE,FALSE
+2023-11-19,Scotland,Norway,Norway,Mohamed Elyounoussi,86,FALSE,FALSE
+2023-11-19,Spain,Georgia,Spain,Robin Le Normand,4,FALSE,FALSE
+2023-11-19,Spain,Georgia,Georgia,Khvicha Kvaratskhelia,10,FALSE,FALSE
+2023-11-19,Spain,Georgia,Spain,Ferran Torres,55,FALSE,FALSE
+2023-11-19,Spain,Georgia,Spain,Luka Lochoshvili,72,TRUE,FALSE
+2023-11-19,Sweden,Estonia,Sweden,Viktor Claesson,22,FALSE,FALSE
+2023-11-19,Sweden,Estonia,Sweden,Emil Forsberg,55,FALSE,FALSE
+2023-11-20,Czech Republic,Moldova,Czech Republic,David Douděra,14,FALSE,FALSE
+2023-11-20,Czech Republic,Moldova,Czech Republic,Tomáš Chorý,72,FALSE,FALSE
+2023-11-20,Czech Republic,Moldova,Czech Republic,Tomáš Souček,90,FALSE,FALSE
+2023-11-20,North Macedonia,England,North Macedonia,Enis Bardhi,41,FALSE,FALSE
+2023-11-20,North Macedonia,England,England,Jani Atanasov,59,TRUE,FALSE
+2023-11-21,Croatia,Armenia,Croatia,Ante Budimir,43,FALSE,FALSE
+2023-11-21,Gibraltar,Netherlands,Netherlands,Calvin Stengs,10,FALSE,FALSE
+2023-11-21,Gibraltar,Netherlands,Netherlands,Mats Wieffer,23,FALSE,FALSE
+2023-11-21,Gibraltar,Netherlands,Netherlands,Teun Koopmeiners,38,FALSE,FALSE
+2023-11-21,Gibraltar,Netherlands,Netherlands,Calvin Stengs,50,FALSE,FALSE
+2023-11-21,Gibraltar,Netherlands,Netherlands,Calvin Stengs,62,FALSE,FALSE
+2023-11-21,Gibraltar,Netherlands,Netherlands,Cody Gakpo,81,FALSE,FALSE
+2023-11-21,Greece,France,France,Randal Kolo Muani,42,FALSE,FALSE
+2023-11-21,Greece,France,Greece,Tasos Bakasetas,56,FALSE,FALSE
+2023-11-21,Greece,France,Greece,Fotis Ioannidis,61,FALSE,FALSE
+2023-11-21,Greece,France,France,Youssouf Fofana,74,FALSE,FALSE
+2023-11-21,Wales,Turkey,Wales,Neco Williams,7,FALSE,FALSE
+2023-11-21,Wales,Turkey,Turkey,Yusuf Yazıcı,70,FALSE,TRUE
