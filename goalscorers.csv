@@ -36951,9 +36951,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-03-21,Netherlands,Belarus,Netherlands,Memphis Depay,55,FALSE,TRUE
 2019-03-21,Netherlands,Belarus,Netherlands,Virgil van Dijk,86,FALSE,FALSE
 2019-03-21,North Macedonia,Latvia,North Macedonia,Ezgjan Alioski,11,FALSE,FALSE
-2019-03-21,North Macedonia,Latvia,North Macedonia,Eljif Elmas,29,FALSE,FALSE
+2019-03-21,North Macedonia,Latvia,North Macedonia,Elif Elmas,29,FALSE,FALSE
 2019-03-21,North Macedonia,Latvia,Latvia,Darko Velkovski,87,TRUE,FALSE
-2019-03-21,North Macedonia,Latvia,North Macedonia,Eljif Elmas,90,FALSE,FALSE
+2019-03-21,North Macedonia,Latvia,North Macedonia,Elif Elmas,90,FALSE,FALSE
 2019-03-21,Northern Ireland,Estonia,Northern Ireland,Niall McGinn,56,FALSE,FALSE
 2019-03-21,Northern Ireland,Estonia,Northern Ireland,Steven Davis,75,FALSE,TRUE
 2019-03-21,Slovakia,Hungary,Slovakia,Ondrej Duda,42,FALSE,FALSE
@@ -37215,7 +37215,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-06-10,Spain,Sweden,Spain,Álvaro Morata,85,FALSE,TRUE
 2019-06-10,Spain,Sweden,Spain,Mikel Oyarzabal,87,FALSE,FALSE
 2019-06-10,Ukraine,Luxembourg,Ukraine,Roman Yaremchuk,6,FALSE,FALSE
-2019-06-11,Albania,Moldova,Albania,Sokol Cikalleshi,66,FALSE,FALSE
+2019-06-11,Albania,Moldova,Albania,Sokol Çikalleshi,66,FALSE,FALSE
 2019-06-11,Albania,Moldova,Albania,Ylber Ramadani,90,FALSE,FALSE
 2019-06-11,Andorra,France,France,Kylian Mbappé,11,FALSE,FALSE
 2019-06-11,Andorra,France,France,Wissam Ben Yedder,30,FALSE,FALSE
@@ -37678,7 +37678,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-09-07,France,Albania,France,Olivier Giroud,27,FALSE,FALSE
 2019-09-07,France,Albania,France,Kingsley Coman,68,FALSE,FALSE
 2019-09-07,France,Albania,France,Jonathan Ikoné,85,FALSE,FALSE
-2019-09-07,France,Albania,Albania,Sokol Cikalleshi,90,FALSE,TRUE
+2019-09-07,France,Albania,Albania,Sokol Çikalleshi,90,FALSE,TRUE
 2019-09-07,Iceland,Moldova,Iceland,Kolbeinn Sigþórsson,31,FALSE,FALSE
 2019-09-07,Iceland,Moldova,Iceland,Birkir Bjarnason,55,FALSE,FALSE
 2019-09-07,Iceland,Moldova,Iceland,Jón Daði Böðvarsson,77,FALSE,FALSE
@@ -37756,7 +37756,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-09-10,Albania,Iceland,Albania,Elseid Hysaj,52,FALSE,FALSE
 2019-09-10,Albania,Iceland,Iceland,Kolbeinn Sigþórsson,58,FALSE,FALSE
 2019-09-10,Albania,Iceland,Albania,Odise Roshi,79,FALSE,FALSE
-2019-09-10,Albania,Iceland,Albania,Sokol Cikalleshi,83,FALSE,FALSE
+2019-09-10,Albania,Iceland,Albania,Sokol Çikalleshi,83,FALSE,FALSE
 2019-09-10,Angola,Gambia,Angola,Geraldo,41,FALSE,FALSE
 2019-09-10,Angola,Gambia,Gambia,Assan Ceesay,65,FALSE,FALSE
 2019-09-10,Angola,Gambia,Angola,Fábio Abreu,68,FALSE,FALSE
@@ -37918,8 +37918,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-10-10,Netherlands,Northern Ireland,Netherlands,Memphis Depay,80,FALSE,FALSE
 2019-10-10,Netherlands,Northern Ireland,Netherlands,Memphis Depay,90,FALSE,FALSE
 2019-10-10,Netherlands,Northern Ireland,Netherlands,Luuk de Jong,90,FALSE,FALSE
-2019-10-10,North Macedonia,Slovenia,North Macedonia,Eljif Elmas,50,FALSE,FALSE
-2019-10-10,North Macedonia,Slovenia,North Macedonia,Eljif Elmas,68,FALSE,FALSE
+2019-10-10,North Macedonia,Slovenia,North Macedonia,Elif Elmas,50,FALSE,FALSE
+2019-10-10,North Macedonia,Slovenia,North Macedonia,Elif Elmas,68,FALSE,FALSE
 2019-10-10,North Macedonia,Slovenia,Slovenia,Josip Iličić,90,FALSE,TRUE
 2019-10-10,Oman,Afghanistan,Oman,Abdul Aziz Al-Muqbali,27,FALSE,FALSE
 2019-10-10,Oman,Afghanistan,Oman,Abdul Aziz Al-Muqbali,38,FALSE,FALSE
@@ -38025,7 +38025,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-10-14,Lithuania,Serbia,Serbia,Aleksandar Mitrović,49,FALSE,FALSE
 2019-10-14,Lithuania,Serbia,Serbia,Aleksandar Mitrović,53,FALSE,FALSE
 2019-10-14,Lithuania,Serbia,Lithuania,Donatas Kazlauskas,79,FALSE,FALSE
-2019-10-14,Moldova,Albania,Albania,Sokol Cikalleshi,22,FALSE,FALSE
+2019-10-14,Moldova,Albania,Albania,Sokol Çikalleshi,22,FALSE,FALSE
 2019-10-14,Moldova,Albania,Albania,Keidi Bare,34,FALSE,FALSE
 2019-10-14,Moldova,Albania,Albania,Lorenc Trashi,40,FALSE,FALSE
 2019-10-14,Moldova,Albania,Albania,Rey Manaj,90,FALSE,FALSE
@@ -38664,7 +38664,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-03-28,North Macedonia,Liechtenstein,North Macedonia,Enis Bardhi,7,FALSE,FALSE
 2021-03-28,North Macedonia,Liechtenstein,North Macedonia,Aleksandar Trajkovski,51,FALSE,FALSE
 2021-03-28,North Macedonia,Liechtenstein,North Macedonia,Aleksandar Trajkovski,54,FALSE,FALSE
-2021-03-28,North Macedonia,Liechtenstein,North Macedonia,Eljif Elmas,62,FALSE,FALSE
+2021-03-28,North Macedonia,Liechtenstein,North Macedonia,Elif Elmas,62,FALSE,FALSE
 2021-03-28,North Macedonia,Liechtenstein,North Macedonia,Ilija Nestorovski,82,FALSE,TRUE
 2021-03-28,Poland,Andorra,Poland,Robert Lewandowski,30,FALSE,FALSE
 2021-03-28,Poland,Andorra,Poland,Robert Lewandowski,55,FALSE,FALSE
@@ -38784,7 +38784,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-03-31,England,Poland,England,Harry Maguire,85,FALSE,FALSE
 2021-03-31,Germany,North Macedonia,North Macedonia,Goran Pandev,45,FALSE,FALSE
 2021-03-31,Germany,North Macedonia,Germany,İlkay Gündoğan,63,FALSE,TRUE
-2021-03-31,Germany,North Macedonia,North Macedonia,Eljif Elmas,85,FALSE,FALSE
+2021-03-31,Germany,North Macedonia,North Macedonia,Elif Elmas,85,FALSE,FALSE
 2021-03-31,Greece,Georgia,Greece,Otar Kakabadze,76,TRUE,FALSE
 2021-03-31,Greece,Georgia,Georgia,Khvicha Kvaratskhelia,78,FALSE,FALSE
 2021-03-31,Liechtenstein,Iceland,Iceland,Birkir Már Sævarsson,12,FALSE,FALSE
@@ -39451,7 +39451,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-07-20,Panama,Grenada,Panama,José Luis Rodríguez,64,FALSE,FALSE
 2021-07-20,Panama,Grenada,Grenada,Romar Frank,76,FALSE,FALSE
 2021-07-20,Suriname,Guadeloupe,Suriname,Gleofilo Vlijter,14,FALSE,FALSE
-2021-07-20,Suriname,Guadeloupe,Guadeloupe,Matthias Phaeton,20,FALSE,FALSE
+2021-07-20,Suriname,Guadeloupe,Guadeloupe,Matthias Phaëton,20,FALSE,FALSE
 2021-07-20,Suriname,Guadeloupe,Suriname,Nigel Hasselbaink,79,FALSE,FALSE
 2021-07-24,Mexico,Honduras,Mexico,Rogelio Funes Mori,26,FALSE,FALSE
 2021-07-24,Mexico,Honduras,Mexico,Jonathan dos Santos,31,FALSE,FALSE
@@ -39576,7 +39576,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-09-02,Peru,Uruguay,Peru,Renato Tapia,25,FALSE,FALSE
 2021-09-02,Peru,Uruguay,Uruguay,Giorgian de Arrascaeta,29,FALSE,FALSE
 2021-09-02,Poland,Albania,Poland,Robert Lewandowski,12,FALSE,FALSE
-2021-09-02,Poland,Albania,Albania,Sokol Cikalleshi,25,FALSE,FALSE
+2021-09-02,Poland,Albania,Albania,Sokol Çikalleshi,25,FALSE,FALSE
 2021-09-02,Poland,Albania,Poland,Adam Buksa,44,FALSE,FALSE
 2021-09-02,Poland,Albania,Poland,Grzegorz Krychowiak,54,FALSE,FALSE
 2021-09-02,Poland,Albania,Poland,Karol Linetty,89,FALSE,FALSE
@@ -40376,8 +40376,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-11-14,Malta,Slovakia,Slovakia,Ondrej Duda,80,FALSE,FALSE
 2021-11-14,North Macedonia,Iceland,North Macedonia,Ezgjan Alioski,7,FALSE,FALSE
 2021-11-14,North Macedonia,Iceland,Iceland,Jón Dagur Þorsteinsson,54,FALSE,FALSE
-2021-11-14,North Macedonia,Iceland,North Macedonia,Eljif Elmas,65,FALSE,FALSE
-2021-11-14,North Macedonia,Iceland,North Macedonia,Eljif Elmas,86,FALSE,FALSE
+2021-11-14,North Macedonia,Iceland,North Macedonia,Elif Elmas,65,FALSE,FALSE
+2021-11-14,North Macedonia,Iceland,North Macedonia,Elif Elmas,86,FALSE,FALSE
 2021-11-14,Portugal,Serbia,Portugal,Renato Sanches,2,FALSE,FALSE
 2021-11-14,Portugal,Serbia,Serbia,Dušan Tadić,33,FALSE,FALSE
 2021-11-14,Portugal,Serbia,Serbia,Aleksandar Mitrović,90,FALSE,FALSE
