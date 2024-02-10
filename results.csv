@@ -45314,3 +45314,152 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-11-21,Andorra,Israel,0,2,UEFA Euro qualification,Andorra la Vella,Andorra,FALSE
 2023-11-21,Kosovo,Belarus,0,1,UEFA Euro qualification,Pristina,Kosovo,FALSE
 2023-11-21,Romania,Switzerland,1,0,UEFA Euro qualification,Bucharest,Romania,FALSE
+2023-12-16,Mexico,Colombia,2,3,Friendly,Los Angeles,United States,TRUE
+2024-01-01,Japan,Thailand,5,0,Friendly,Tokyo,Japan,FALSE
+2024-01-01,China PR,Hong Kong,1,2,Friendly,Abu Dhabi,United Arab Emirates,TRUE
+2024-01-02,Indonesia,Libya,0,4,Friendly,Antalya,Turkey,TRUE
+2024-01-04,Tajikistan,Hong Kong,2,1,Friendly,Abu Dhabi,United Arab Emirates,TRUE
+2024-01-04,Saudi Arabia,Lebanon,1,0,Friendly,Doha,Qatar,TRUE
+2024-01-05,Indonesia,Libya,1,2,Friendly,Antalya,Turkey,TRUE
+2024-01-05,Iran,Burkina Faso,2,1,Friendly,Kish,Iran,FALSE
+2024-01-05,Kyrgyzstan,Syria,1,1,Friendly,Abu Dhabi,United Arab Emirates,TRUE
+2024-01-05,Qatar,Jordan,1,2,Friendly,Al Rayyan,Qatar,FALSE
+2024-01-05,Togo,Algeria,0,3,Friendly,Lomé,Togo,FALSE
+2024-01-06,DR Congo,Angola,0,0,Friendly,Dubai,United Arab Emirates,TRUE
+2024-01-06,Iraq,South Korea,0,1,Friendly,Abu Dhabi,United Arab Emirates,TRUE
+2024-01-06,Bahrain,Australia,0,2,Friendly,Abu Dhabi,United Arab Emirates,TRUE
+2024-01-06,Mozambique,Lesotho,2,0,Friendly,Johannesburg,South Africa,TRUE
+2024-01-06,United Arab Emirates,Oman,0,1,Friendly,Abu Dhabi,United Arab Emirates,FALSE
+2024-01-06,Ivory Coast,Sierra Leone,5,1,Friendly,San-Pédro,Ivory Coast,FALSE
+2024-01-06,Tunisia,Mauritania,0,0,Friendly,Radès,Tunisia,FALSE
+2024-01-06,Mali,Guinea-Bissau,6,2,Friendly,Bamako,Mali,FALSE
+2024-01-07,Uzbekistan,Palestine,1,0,Friendly,Doha,Qatar,TRUE
+2024-01-07,Egypt,Tanzania,2,0,Friendly,Cairo,Egypt,FALSE
+2024-01-08,Nigeria,Guinea,0,2,Friendly,Abu Dhabi,United Arab Emirates,TRUE
+2024-01-08,Botswana,Mozambique,1,1,Friendly,Johannesburg,South Africa,TRUE
+2024-01-08,Syria,Malaysia,2,2,Friendly,Doha,Qatar,TRUE
+2024-01-08,Senegal,Niger,1,0,Friendly,Dakar,Senegal,FALSE
+2024-01-08,Ghana,Namibia,0,0,Friendly,Kumasi,Ghana,FALSE
+2024-01-09,Japan,Jordan,6,1,Friendly,Doha,Qatar,TRUE
+2024-01-09,Kyrgyzstan,Vietnam,2,1,Friendly,Al Khor,Qatar,TRUE
+2024-01-09,Zambia,Cameroon,1,1,Friendly,Jeddah,Saudi Arabia,TRUE
+2024-01-09,Equatorial Guinea,Djibouti,1,1,Friendly,Malabo,Equatorial Guinea,FALSE
+2024-01-09,Saudi Arabia,Palestine,0,0,Friendly,Al Wakrah,Qatar,TRUE
+2024-01-09,Burundi,Algeria,0,4,Friendly,Lomé,Togo,TRUE
+2024-01-09,Indonesia,Iran,0,5,Friendly,Al Rayyan,Qatar,TRUE
+2024-01-10,South Africa,Lesotho,0,0,Friendly,Pretoria,South Africa,FALSE
+2024-01-10,DR Congo,Burkina Faso,1,2,Friendly,Abu Dhabi,United Arab Emirates,TRUE
+2024-01-10,Bahrain,Angola,0,3,Friendly,Dubai,United Arab Emirates,TRUE
+2024-01-10,Saudi Arabia,Hong Kong,2,0,Friendly,Al Wakrah,Qatar,TRUE
+2024-01-10,Tunisia,Cape Verde,2,0,Friendly,Radès,Tunisia,FALSE
+2024-01-11,Morocco,Sierra Leone,3,1,Friendly,San Pédro,Ivory Coast,TRUE
+2024-01-12,Qatar,Lebanon,3,0,AFC Asian Cup,Lusail,Qatar,FALSE
+2024-01-12,Kuwait,Libya,1,3,Friendly,Cairo,Egypt,TRUE
+2024-01-12,Sweden,Estonia,2,1,Friendly,Paphos,Cyprus,TRUE
+2024-01-13,China PR,Tajikistan,0,0,AFC Asian Cup,Doha,Qatar,TRUE
+2024-01-13,Australia,India,2,0,AFC Asian Cup,Al Rayyan,Qatar,TRUE
+2024-01-13,Uzbekistan,Syria,0,0,AFC Asian Cup,Doha,Qatar,TRUE
+2024-01-13,Ivory Coast,Guinea-Bissau,2,0,African Cup of Nations,Ebimpé,Ivory Coast,FALSE
+2024-01-13,Guatemala,Iceland,0,1,Friendly,Fort Lauderdale,United States,TRUE
+2024-01-14,United Arab Emirates,Hong Kong,3,1,AFC Asian Cup,Al Rayyan,Qatar,TRUE
+2024-01-14,Iran,Palestine,4,1,AFC Asian Cup,Al Rayyan,Qatar,TRUE
+2024-01-14,Japan,Vietnam,4,2,AFC Asian Cup,Doha,Qatar,TRUE
+2024-01-14,Nigeria,Equatorial Guinea,1,1,African Cup of Nations,Ebimpé,Ivory Coast,TRUE
+2024-01-14,Egypt,Mozambique,2,2,African Cup of Nations,Abidjan,Ivory Coast,TRUE
+2024-01-14,Ghana,Cape Verde,1,2,African Cup of Nations,Abidjan,Ivory Coast,TRUE
+2024-01-15,Indonesia,Iraq,1,3,AFC Asian Cup,Doha,Qatar,TRUE
+2024-01-15,South Korea,Bahrain,3,1,AFC Asian Cup,Doha,Qatar,TRUE
+2024-01-15,Malaysia,Jordan,0,4,AFC Asian Cup,Al Wakrah,Qatar,TRUE
+2024-01-15,Senegal,Gambia,3,0,African Cup of Nations,Yamoussoukro,Ivory Coast,TRUE
+2024-01-15,Cameroon,Guinea,1,1,African Cup of Nations,Yamoussoukro,Ivory Coast,TRUE
+2024-01-15,Algeria,Angola,1,1,African Cup of Nations,Bouaké,Ivory Coast,TRUE
+2024-01-16,Thailand,Kyrgyzstan,2,0,AFC Asian Cup,Doha,Qatar,TRUE
+2024-01-16,Saudi Arabia,Oman,2,1,AFC Asian Cup,Al Rayyan,Qatar,TRUE
+2024-01-16,Burkina Faso,Mauritania,1,0,African Cup of Nations,Bouaké,Ivory Coast,TRUE
+2024-01-16,Tunisia,Namibia,0,1,African Cup of Nations,Korhogo,Ivory Coast,TRUE
+2024-01-16,Mali,South Africa,2,0,African Cup of Nations,Korhogo,Ivory Coast,TRUE
+2024-01-17,Lebanon,China PR,0,0,AFC Asian Cup,Doha,Qatar,TRUE
+2024-01-17,Qatar,Tajikistan,1,0,AFC Asian Cup,Al Khor,Qatar,FALSE
+2024-01-17,Morocco,Tanzania,3,0,African Cup of Nations,San-Pédro,Ivory Coast,TRUE
+2024-01-17,DR Congo,Zambia,1,1,African Cup of Nations,San-Pédro,Ivory Coast,TRUE
+2024-01-17,Honduras,Iceland,0,2,Friendly,Fort Lauderdale,United States,TRUE
+2024-01-18,Syria,Australia,0,1,AFC Asian Cup,Doha,Qatar,TRUE
+2024-01-18,India,Uzbekistan,0,3,AFC Asian Cup,Al Rayyan,Qatar,TRUE
+2024-01-18,Palestine,United Arab Emirates,1,1,AFC Asian Cup,Al Wakrah,Qatar,TRUE
+2024-01-18,Equatorial Guinea,Guinea-Bissau,4,2,African Cup of Nations,Ebimpé,Ivory Coast,TRUE
+2024-01-18,Ivory Coast,Nigeria,0,1,African Cup of Nations,Ebimpé,Ivory Coast,FALSE
+2024-01-18,Egypt,Ghana,2,2,African Cup of Nations,Abidjan,Ivory Coast,TRUE
+2024-01-19,Hong Kong,Iran,0,1,AFC Asian Cup,Al Rayyan,Qatar,TRUE
+2024-01-19,Iraq,Japan,2,1,AFC Asian Cup,Al Rayyan,Qatar,TRUE
+2024-01-19,Vietnam,Indonesia,0,1,AFC Asian Cup,Doha,Qatar,TRUE
+2024-01-19,Cape Verde,Mozambique,3,0,African Cup of Nations,Abidjan,Ivory Coast,TRUE
+2024-01-19,Senegal,Cameroon,3,1,African Cup of Nations,Yamoussoukro,Ivory Coast,TRUE
+2024-01-19,Guinea,Gambia,1,0,African Cup of Nations,Yamoussoukro,Ivory Coast,TRUE
+2024-01-19,Kuwait,Uganda,0,2,Friendly,Cairo,Egypt,TRUE
+2024-01-20,Jordan,South Korea,2,2,AFC Asian Cup,Doha,Qatar,TRUE
+2024-01-20,Bahrain,Malaysia,1,0,AFC Asian Cup,Doha,Qatar,TRUE
+2024-01-20,Algeria,Burkina Faso,2,2,African Cup of Nations,Bouaké,Ivory Coast,TRUE
+2024-01-20,Mauritania,Angola,2,3,African Cup of Nations,Bouaké,Ivory Coast,TRUE
+2024-01-20,Tunisia,Mali,1,1,African Cup of Nations,Korhogo,Ivory Coast,TRUE
+2024-01-20,United States,Slovenia,0,1,Friendly,San Antonio,United States,FALSE
+2024-01-21,Oman,Thailand,0,0,AFC Asian Cup,Doha,Qatar,TRUE
+2024-01-21,Kyrgyzstan,Saudi Arabia,0,2,AFC Asian Cup,Al Rayyan,Qatar,TRUE
+2024-01-21,South Africa,Namibia,4,0,African Cup of Nations,Korhogo,Ivory Coast,TRUE
+2024-01-21,Morocco,DR Congo,1,1,African Cup of Nations,San-Pédro,Ivory Coast,TRUE
+2024-01-21,Zambia,Tanzania,1,1,African Cup of Nations,San-Pédro,Ivory Coast,TRUE
+2024-01-22,Qatar,China PR,1,0,AFC Asian Cup,Al Rayyan,Qatar,FALSE
+2024-01-22,Tajikistan,Lebanon,2,1,AFC Asian Cup,Doha,Qatar,TRUE
+2024-01-22,Guinea-Bissau,Nigeria,0,1,African Cup of Nations,Abidjan,Ivory Coast,TRUE
+2024-01-22,Ivory Coast,Equatorial Guinea,0,4,African Cup of Nations,Ebimpé,Ivory Coast,FALSE
+2024-01-22,Cape Verde,Egypt,2,2,African Cup of Nations,Abidjan,Ivory Coast,TRUE
+2024-01-22,Mozambique,Ghana,2,2,African Cup of Nations,Ebimpé,Ivory Coast,TRUE
+2024-01-23,Australia,Uzbekistan,1,1,AFC Asian Cup,Al Wakrah,Qatar,TRUE
+2024-01-23,Syria,India,1,0,AFC Asian Cup,Al Khor,Qatar,TRUE
+2024-01-23,Hong Kong,Palestine,0,3,AFC Asian Cup,Doha,Qatar,TRUE
+2024-01-23,Iran,United Arab Emirates,2,1,AFC Asian Cup,Al Rayyan,Qatar,TRUE
+2024-01-23,Gambia,Cameroon,2,3,African Cup of Nations,Bouaké,Ivory Coast,TRUE
+2024-01-23,Guinea,Senegal,0,2,African Cup of Nations,Yamoussoukro,Ivory Coast,TRUE
+2024-01-23,Angola,Burkina Faso,2,0,African Cup of Nations,Yamoussoukro,Ivory Coast,TRUE
+2024-01-23,Mauritania,Algeria,1,0,African Cup of Nations,Bouaké,Ivory Coast,TRUE
+2024-01-24,Iraq,Vietnam,3,2,AFC Asian Cup,Doha,Qatar,TRUE
+2024-01-24,Japan,Indonesia,3,1,AFC Asian Cup,Doha,Qatar,TRUE
+2024-01-24,Namibia,Mali,0,0,African Cup of Nations,San-Pédro,Ivory Coast,TRUE
+2024-01-24,South Africa,Tunisia,0,0,African Cup of Nations,Korhogo,Ivory Coast,TRUE
+2024-01-24,Tanzania,DR Congo,0,0,African Cup of Nations,Korhogo,Ivory Coast,TRUE
+2024-01-24,Zambia,Morocco,0,1,African Cup of Nations,San-Pédro,Ivory Coast,TRUE
+2024-01-25,Jordan,Bahrain,0,1,AFC Asian Cup,Al Rayyan,Qatar,TRUE
+2024-01-25,South Korea,Malaysia,3,3,AFC Asian Cup,Al Wakrah,Qatar,TRUE
+2024-01-25,Kyrgyzstan,Oman,1,1,AFC Asian Cup,Doha,Qatar,TRUE
+2024-01-25,Saudi Arabia,Thailand,0,0,AFC Asian Cup,Al Rayyan,Qatar,TRUE
+2024-01-27,Angola,Namibia,3,0,African Cup of Nations,Bouaké,Ivory Coast,TRUE
+2024-01-27,Nigeria,Cameroon,2,0,African Cup of Nations,Abidjan,Ivory Coast,TRUE
+2024-01-28,Australia,Indonesia,4,0,AFC Asian Cup,Doha,Qatar,TRUE
+2024-01-28,Tajikistan,United Arab Emirates,1,1,AFC Asian Cup,Al Rayyan,Qatar,TRUE
+2024-01-28,Egypt,DR Congo,1,1,African Cup of Nations,San-Pédro,Ivory Coast,TRUE
+2024-01-28,Equatorial Guinea,Guinea,0,1,African Cup of Nations,Ebimpé,Ivory Coast,TRUE
+2024-01-29,Iraq,Jordan,2,3,AFC Asian Cup,Al Rayyan,Qatar,TRUE
+2024-01-29,Qatar,Palestine,2,1,AFC Asian Cup,Al Khor,Qatar,FALSE
+2024-01-29,Cape Verde,Mauritania,1,0,African Cup of Nations,Abidjan,Ivory Coast,TRUE
+2024-01-29,Ivory Coast,Senegal,1,1,African Cup of Nations,Yamoussoukro,Ivory Coast,FALSE
+2024-01-30,Saudi Arabia,South Korea,1,1,AFC Asian Cup,Al Rayyan,Qatar,TRUE
+2024-01-30,Uzbekistan,Thailand,2,1,AFC Asian Cup,Al Wakrah,Qatar,TRUE
+2024-01-30,Mali,Burkina Faso,2,1,African Cup of Nations,Korhogo,Ivory Coast,TRUE
+2024-01-30,Morocco,South Africa,0,2,African Cup of Nations,San-Pédro,Ivory Coast,TRUE
+2024-01-31,Bahrain,Japan,1,3,AFC Asian Cup,Doha,Qatar,TRUE
+2024-01-31,Iran,Syria,1,1,AFC Asian Cup,Doha,Qatar,TRUE
+2024-02-02,Australia,South Korea,1,2,AFC Asian Cup,Al Wakrah,Qatar,TRUE
+2024-02-02,Tajikistan,Jordan,0,1,AFC Asian Cup,Al Rayyan,Qatar,TRUE
+2024-02-02,DR Congo,Guinea,3,1,African Cup of Nations,Ebimpé,Ivory Coast,TRUE
+2024-02-02,Nigeria,Angola,1,0,African Cup of Nations,Abidjan,Ivory Coast,TRUE
+2024-02-03,Iran,Japan,2,1,AFC Asian Cup,Al Rayyan,Qatar,TRUE
+2024-02-03,Qatar,Uzbekistan,1,1,AFC Asian Cup,Al Khor,Qatar,FALSE
+2024-02-03,Cape Verde,South Africa,0,0,African Cup of Nations,Yamoussoukro,Ivory Coast,TRUE
+2024-02-03,Ivory Coast,Mali,2,1,African Cup of Nations,Bouaké,Ivory Coast,FALSE
+2024-02-03,Costa Rica,El Salvador,2,0,Friendly,San José,Costa Rica,FALSE
+2024-02-06,Jordan,South Korea,2,0,AFC Asian Cup,Al Rayyan,Qatar,TRUE
+2024-02-07,Qatar,Iran,3,2,AFC Asian Cup,Doha,Qatar,FALSE
+2024-02-07,Ivory Coast,DR Congo,1,0,African Cup of Nations,Ebimpé,Ivory Coast,FALSE
+2024-02-07,Nigeria,South Africa,1,1,African Cup of Nations,Bouaké,Ivory Coast,TRUE
+2024-02-10,Qatar,Jordan,3,1,AFC Asian Cup,Lusail,Qatar,FALSE
+2024-02-10,South Africa,DR Congo,0,0,African Cup of Nations,Abidjan,Ivory Coast,TRUE
+2024-02-11,Ivory Coast,Nigeria,NA,NA,African Cup of Nations,Ebimpé,Ivory Coast,FALSE
