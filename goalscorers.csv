@@ -33351,7 +33351,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-01-09,Australia,Kuwait,Australia,James Troisi,90,FALSE,FALSE
 2015-01-10,Saudi Arabia,China PR,China PR,Yu Hai,81,FALSE,FALSE
 2015-01-10,South Korea,Oman,South Korea,Cho Young-cheol,45,FALSE,FALSE
-2015-01-10,Uzbekistan,North Korea,Uzbekistan,Igor Sergeyev,62,FALSE,FALSE
+2015-01-10,Uzbekistan,North Korea,Uzbekistan,Igor Sergeev,62,FALSE,FALSE
 2015-01-11,Iran,Bahrain,Iran,Ehsan Hajsafi,45,FALSE,FALSE
 2015-01-11,Iran,Bahrain,Iran,Masoud Shojaei,71,FALSE,FALSE
 2015-01-11,United Arab Emirates,Qatar,Qatar,Khalfan Ibrahim,23,FALSE,FALSE
@@ -34235,8 +34235,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-09-08,North Macedonia,Spain,Spain,Tome Pačovski,8,TRUE,FALSE
 2015-09-08,Philippines,Uzbekistan,Uzbekistan,Odil Ahmedov,1,FALSE,FALSE
 2015-09-08,Philippines,Uzbekistan,Uzbekistan,Sardor Rashidov,14,FALSE,FALSE
-2015-09-08,Philippines,Uzbekistan,Uzbekistan,Igor Sergeyev,43,FALSE,FALSE
-2015-09-08,Philippines,Uzbekistan,Uzbekistan,Igor Sergeyev,65,FALSE,FALSE
+2015-09-08,Philippines,Uzbekistan,Uzbekistan,Igor Sergeev,43,FALSE,FALSE
+2015-09-08,Philippines,Uzbekistan,Uzbekistan,Igor Sergeev,65,FALSE,FALSE
 2015-09-08,Philippines,Uzbekistan,Philippines,Stephan Schröck,68,FALSE,FALSE
 2015-09-08,Philippines,Uzbekistan,Uzbekistan,Sardor Rashidov,80,FALSE,FALSE
 2015-09-08,Slovenia,Estonia,Slovenia,Robert Berić,63,FALSE,FALSE
@@ -34275,7 +34275,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-10-08,Albania,Serbia,Serbia,Adem Ljajić,90,FALSE,FALSE
 2015-10-08,Argentina,Ecuador,Ecuador,Frickson Erazo,81,FALSE,FALSE
 2015-10-08,Argentina,Ecuador,Ecuador,Felipe Caicedo,82,FALSE,FALSE
-2015-10-08,Bahrain,Uzbekistan,Uzbekistan,Igor Sergeyev,52,FALSE,FALSE
+2015-10-08,Bahrain,Uzbekistan,Uzbekistan,Igor Sergeev,52,FALSE,FALSE
 2015-10-08,Bahrain,Uzbekistan,Uzbekistan,Odil Ahmedov,56,FALSE,FALSE
 2015-10-08,Bahrain,Uzbekistan,Uzbekistan,Sardor Rashidov,66,FALSE,FALSE
 2015-10-08,Bahrain,Uzbekistan,Uzbekistan,Eldor Shomurodov,90,FALSE,FALSE
@@ -34663,7 +34663,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-11-12,United Arab Emirates,Timor-Leste,United Arab Emirates,Ahmed Khalil,57,FALSE,FALSE
 2015-11-12,United Arab Emirates,Timor-Leste,United Arab Emirates,Ahmed Al Hashmi,87,FALSE,FALSE
 2015-11-12,Uzbekistan,North Korea,North Korea,Ri Hyok-chol,2,FALSE,FALSE
-2015-11-12,Uzbekistan,North Korea,Uzbekistan,Igor Sergeyev,23,FALSE,FALSE
+2015-11-12,Uzbekistan,North Korea,Uzbekistan,Igor Sergeev,23,FALSE,FALSE
 2015-11-12,Uzbekistan,North Korea,Uzbekistan,Alexander Geynrikh,65,FALSE,FALSE
 2015-11-12,Uzbekistan,North Korea,Uzbekistan,Odil Ahmedov,87,FALSE,FALSE
 2015-11-13,Angola,South Africa,Angola,Gelson,2,FALSE,FALSE
@@ -38002,7 +38002,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-06-26,Uganda,Zimbabwe,Uganda,Emmanuel Okwi,12,FALSE,FALSE
 2019-06-26,Uganda,Zimbabwe,Zimbabwe,Khama Billiat,40,FALSE,FALSE
 2019-06-26,United States,Panama,United States,Jozy Altidore,66,FALSE,FALSE
-2019-06-27,Kenya,Tanzania,Tanzania,Saimon Msuva,6,FALSE,FALSE
+2019-06-27,Kenya,Tanzania,Tanzania,Simon Msuva,6,FALSE,FALSE
 2019-06-27,Kenya,Tanzania,Kenya,Michael Olunga,39,FALSE,FALSE
 2019-06-27,Kenya,Tanzania,Tanzania,Mbwana Samatta,40,FALSE,FALSE
 2019-06-27,Kenya,Tanzania,Kenya,Johanna Omolo,62,FALSE,FALSE
@@ -38102,7 +38102,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-07-17,Tunisia,Nigeria,Nigeria,Odion Ighalo,3,FALSE,FALSE
 2019-07-19,Senegal,Algeria,Algeria,Baghdad Bounedjah,2,FALSE,FALSE
 2019-09-04,Burundi,Tanzania,Burundi,Cédric Amissi,81,FALSE,FALSE
-2019-09-04,Burundi,Tanzania,Tanzania,Saimon Msuva,85,FALSE,FALSE
+2019-09-04,Burundi,Tanzania,Tanzania,Simon Msuva,85,FALSE,FALSE
 2019-09-04,Djibouti,Eswatini,Djibouti,Mahdi Houssein Mahabeh,45,FALSE,TRUE
 2019-09-04,Djibouti,Eswatini,Eswatini,Siboniso Mamba,56,FALSE,FALSE
 2019-09-04,Djibouti,Eswatini,Djibouti,Abdi Idleh Hamza,74,FALSE,FALSE
@@ -38464,7 +38464,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-10-10,Japan,Mongolia,Japan,Maya Yoshida,29,FALSE,FALSE
 2019-10-10,Japan,Mongolia,Japan,Yuto Nagatomo,33,FALSE,FALSE
 2019-10-10,Japan,Mongolia,Japan,Kensuke Nagai,40,FALSE,FALSE
-2019-10-10,Japan,Mongolia,Japan,Wataru Endo,57,FALSE,FALSE
+2019-10-10,Japan,Mongolia,Japan,Wataru Endō,57,FALSE,FALSE
 2019-10-10,Japan,Mongolia,Japan,Daichi Kamada,82,FALSE,FALSE
 2019-10-10,Kazakhstan,Cyprus,Kazakhstan,Temirlan Yerlanov,34,FALSE,FALSE
 2019-10-10,Kazakhstan,Cyprus,Cyprus,Pieros Sotiriou,73,FALSE,FALSE
@@ -38521,7 +38521,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-10-10,Uzbekistan,Yemen,Uzbekistan,Eldor Shomurodov,33,FALSE,FALSE
 2019-10-10,Uzbekistan,Yemen,Uzbekistan,Jamshid Iskanderov,53,FALSE,FALSE
 2019-10-10,Uzbekistan,Yemen,Uzbekistan,Islom Tukhtakhujaev,72,FALSE,FALSE
-2019-10-10,Uzbekistan,Yemen,Uzbekistan,Igor Sergeyev,90,FALSE,FALSE
+2019-10-10,Uzbekistan,Yemen,Uzbekistan,Igor Sergeev,90,FALSE,FALSE
 2019-10-10,Vietnam,Malaysia,Vietnam,Nguyễn Quang Hải,40,FALSE,FALSE
 2019-10-11,Andorra,Moldova,Andorra,Marc Vales,63,FALSE,FALSE
 2019-10-11,Czech Republic,England,England,Harry Kane,5,FALSE,TRUE
@@ -40473,7 +40473,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-09-02,Chile,Brazil,Brazil,Éverton Ribeiro,64,FALSE,FALSE
 2021-09-02,Czech Republic,Belarus,Czech Republic,Antonín Barák,34,FALSE,FALSE
 2021-09-02,DR Congo,Tanzania,DR Congo,Dieumerci Mbokani,23,FALSE,FALSE
-2021-09-02,DR Congo,Tanzania,Tanzania,Saimon Msuva,36,FALSE,FALSE
+2021-09-02,DR Congo,Tanzania,Tanzania,Simon Msuva,36,FALSE,FALSE
 2021-09-02,Ecuador,Paraguay,Ecuador,Félix Torres,88,FALSE,FALSE
 2021-09-02,Ecuador,Paraguay,Ecuador,Michael Estrada,90,FALSE,FALSE
 2021-09-02,Estonia,Belgium,Estonia,Mattias Käit,2,FALSE,FALSE
@@ -40960,7 +40960,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-10-10,Argentina,Uruguay,Argentina,Lionel Messi,38,FALSE,FALSE
 2021-10-10,Argentina,Uruguay,Argentina,Rodrigo De Paul,44,FALSE,FALSE
 2021-10-10,Argentina,Uruguay,Argentina,Lautaro Martínez,62,FALSE,FALSE
-2021-10-10,Benin,Tanzania,Tanzania,Saimon Msuva,6,FALSE,FALSE
+2021-10-10,Benin,Tanzania,Tanzania,Simon Msuva,6,FALSE,FALSE
 2021-10-10,Bolivia,Peru,Bolivia,Ramiro Vaca,83,FALSE,FALSE
 2021-10-10,Cape Verde,Liberia,Cape Verde,Ryan Mendes,90,FALSE,FALSE
 2021-10-10,Central African Republic,Nigeria,Nigeria,Leon Balogun,29,FALSE,FALSE
@@ -41331,7 +41331,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-11-14,Luxembourg,Republic of Ireland,Republic of Ireland,Shane Duffy,67,FALSE,FALSE
 2021-11-14,Luxembourg,Republic of Ireland,Republic of Ireland,Chiedozie Ogbene,75,FALSE,FALSE
 2021-11-14,Luxembourg,Republic of Ireland,Republic of Ireland,Callum Robinson,88,FALSE,FALSE
-2021-11-14,Madagascar,Tanzania,Tanzania,Saimon Msuva,25,FALSE,FALSE
+2021-11-14,Madagascar,Tanzania,Tanzania,Simon Msuva,25,FALSE,FALSE
 2021-11-14,Madagascar,Tanzania,Madagascar,Hakim Abdallah,74,FALSE,FALSE
 2021-11-14,Mali,Uganda,Mali,Kalifa Coulibaly,19,FALSE,FALSE
 2021-11-14,Malta,Slovakia,Slovakia,Albert Rusnák,6,FALSE,FALSE
@@ -41573,7 +41573,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2022-01-27,Paraguay,Uruguay,Uruguay,Luis Suárez,50,FALSE,FALSE
 2022-01-27,Saudi Arabia,Oman,Saudi Arabia,Firas Al-Buraikan,48,FALSE,FALSE
 2022-01-27,United Arab Emirates,Syria,United Arab Emirates,Caio Canedo,43,FALSE,FALSE
-2022-01-27,United Arab Emirates,Syria,United Arab Emirates,Yahya Al Ghassani,70,FALSE,FALSE
+2022-01-27,United Arab Emirates,Syria,United Arab Emirates,Yahya Al-Ghassani,70,FALSE,FALSE
 2022-01-27,United States,El Salvador,United States,Antonee Robinson,52,FALSE,FALSE
 2022-01-28,Colombia,Peru,Peru,Edison Flores,85,FALSE,FALSE
 2022-01-28,Venezuela,Bolivia,Venezuela,Salomón Rondón,24,FALSE,FALSE
@@ -42569,7 +42569,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-06-16,North Macedonia,Ukraine,Ukraine,Viktor Tsyhankov,83,FALSE,FALSE
 2023-06-16,San Marino,Kazakhstan,Kazakhstan,Yan Vorogovsky,37,FALSE,FALSE
 2023-06-16,San Marino,Kazakhstan,Kazakhstan,Askhat Tagybergen,64,FALSE,TRUE
-2023-06-16,San Marino,Kazakhstan,Kazakhstan,Baktiyar Zaynutdinov,90,FALSE,FALSE
+2023-06-16,San Marino,Kazakhstan,Kazakhstan,Bakhtiyar Zaynutdinov,90,FALSE,FALSE
 2023-06-16,Wales,Armenia,Wales,Daniel James,10,FALSE,FALSE
 2023-06-16,Wales,Armenia,Armenia,Lucas Zelarayán,19,FALSE,FALSE
 2023-06-16,Wales,Armenia,Armenia,Grant-Leon Ranos,30,FALSE,FALSE
