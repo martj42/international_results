@@ -43938,6 +43938,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-09-24,Mexico,Peru,1,0,Friendly,Pasadena,United States,TRUE
 2022-09-24,South Africa,Sierra Leone,4,0,Friendly,Johannesburg,South Africa,FALSE
 2022-09-24,Tanzania,Uganda,1,0,Friendly,Benghazi,Libya,TRUE
+2022-09-24,Kyrgyzstan,Russia,1,2,Friendly,Bishkek,Kyrgyzstan,FALSE
 2022-09-24,Vanuatu,Papua New Guinea,0,1,MSG Prime Minister's Cup,Port Vila,Vanuatu,FALSE
 2022-09-24,Czech Republic,Portugal,0,4,UEFA Nations League,Prague,Czech Republic,FALSE
 2022-09-24,Spain,Switzerland,1,2,UEFA Nations League,Zaragoza,Spain,FALSE
@@ -44785,6 +44786,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-09-12,China PR,Syria,0,1,Friendly,Chengdu,China PR,FALSE
 2023-09-12,Egypt,Tunisia,1,3,Friendly,Cairo,Egypt,FALSE
 2023-09-12,Germany,France,2,1,Friendly,Dortmund,Germany,FALSE
+2023-09-12,Qatar,Russia,1,1,Friendly,Al Wakrah,Qatar,FALSE
 2023-09-12,Ghana,Liberia,3,1,Friendly,Accra,Ghana,FALSE
 2023-09-12,Iran,Angola,4,0,Friendly,Tehran,Iran,FALSE
 2023-09-12,Japan,Turkey,4,2,Friendly,Genk,Belgium,TRUE
@@ -44838,6 +44840,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-10-12,Egypt,Zambia,1,0,Friendly,Al Ain,United Arab Emirates,TRUE
 2023-10-12,Georgia,Thailand,8,0,Friendly,Tbilisi,Georgia,FALSE
 2023-10-12,Montenegro,Lebanon,3,2,Friendly,Podgorica,Montenegro,FALSE
+2023-10-12,Russia,Cameroon,1,0,Friendly,Moscow,Russia,FALSE
 2023-10-12,Sweden,Moldova,3,1,Friendly,Stockholm,Sweden,FALSE
 2023-10-12,Spain,Scotland,2,0,UEFA Euro qualification,Seville,Spain,FALSE
 2023-10-12,Cyprus,Norway,0,4,UEFA Euro qualification,Larnaca,Cyprus,FALSE
@@ -44912,6 +44915,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-10-16,Turks and Caicos Islands,British Virgin Islands,2,2,CONCACAF Nations League,Providenciales,Turks and Caicos Islands,FALSE
 2023-10-16,Algeria,Egypt,1,1,Friendly,Al Ain,United Arab Emirates,TRUE
 2023-10-16,Botswana,Eswatini,2,1,Friendly,Lobatse,Botswana,FALSE
+2023-10-16,Kenya,Russia,2,2,Friendly,Antalya,Turkey,TRUE
 2023-10-16,China PR,Uzbekistan,1,2,Friendly,Dalian,China PR,FALSE
 2023-10-16,Mozambique,Nigeria,2,3,Friendly,Albufeira,Portugal,TRUE
 2023-10-16,Senegal,Cameroon,1,0,Friendly,Lens,France,TRUE
@@ -45098,6 +45102,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-11-20,Mali,Central African Republic,1,1,FIFA World Cup qualification,Bamako,Mali,FALSE
 2023-11-20,Chad,Madagascar,0,3,FIFA World Cup qualification,Oujda,Morocco,TRUE
 2023-11-20,Curaçao,El Salvador,1,1,Friendly,Willemstad,Curaçao,FALSE
+2023-11-20,Russia,Cuba,8,0,Friendly,Volgograd,Russia,FALSE
 2023-11-20,North Macedonia,England,1,1,UEFA Euro qualification,Skopje,North Macedonia,FALSE
 2023-11-20,Ukraine,Italy,0,0,UEFA Euro qualification,Leverkusen,Germany,TRUE
 2023-11-20,Albania,Faroe Islands,0,0,UEFA Euro qualification,Tirana,Albania,FALSE
