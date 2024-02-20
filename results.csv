@@ -17717,7 +17717,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1993-01-03,Burkina Faso,Mali,1,0,Friendly,Libreville,Gabon,TRUE
 1993-01-03,Gabon,Ghana,2,3,Friendly,Libreville,Gabon,FALSE
 1993-01-08,Uganda,Tanzania,3,1,Friendly,Kampala,Uganda,FALSE
-1993-01-09,Sierra Leone,Togo,0,0,African Cup of Nations qualification,Conakry,Guinea,TRUE
 1993-01-10,Angola,Zimbabwe,1,1,FIFA World Cup qualification,Luanda,Angola,FALSE
 1993-01-10,Botswana,South Africa,0,2,Friendly,Gaborone,Botswana,FALSE
 1993-01-10,DR Congo,Cameroon,1,2,FIFA World Cup qualification,Kinshasa,Zaïre,FALSE
@@ -17747,7 +17746,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1993-01-23,Venezuela,Peru,0,0,Friendly,Puerto Ordaz,Venezuela,FALSE
 1993-01-24,India,Cameroon,1,1,Nehru Cup,Madras,India,FALSE
 1993-01-24,Malta,Portugal,0,1,FIFA World Cup qualification,Attard,Malta,FALSE
-1993-01-24,Togo,Senegal,1,1,African Cup of Nations qualification,Lomé,Togo,FALSE
 1993-01-25,Bolivia,Russia,1,2,Nehru Cup,Madras,India,TRUE
 1993-01-26,India,Finland,0,2,Nehru Cup,Madras,India,FALSE
 1993-01-27,Ecuador,Belarus,1,1,Friendly,Guayaquil,Ecuador,FALSE
@@ -18809,18 +18807,17 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1994-08-30,Iceland,United Arab Emirates,1,0,Friendly,Reykjavík,Iceland,FALSE
 1994-08-31,North Macedonia,Turkey,0,2,Friendly,Skopje,North Macedonia,FALSE
 1994-09-02,Solomon Islands,Fiji,1,0,Friendly,Honiara,Solomon Islands,FALSE
+1994-09-03,Senegal,Mauritania,0,0,African Cup of Nations qualification,Dakar,Senegal,FALSE
 1994-09-03,Tanzania,Uganda,4,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,FALSE
 1994-09-04,Angola,Namibia,2,0,African Cup of Nations qualification,Luanda,Angola,FALSE
 1994-09-04,Botswana,Guinea,0,1,African Cup of Nations qualification,Gaborone,Botswana,FALSE
 1994-09-04,Burkina Faso,Morocco,2,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,FALSE
-1994-09-04,Congo,Gambia,1,1,African Cup of Nations qualification,Pointe-Noire,Congo,FALSE
 1994-09-04,DR Congo,Malawi,1,1,African Cup of Nations qualification,Kinshasa,Zaïre,FALSE
 1994-09-04,Estonia,Croatia,0,2,UEFA Euro qualification,Tallinn,Estonia,FALSE
 1994-09-04,Ethiopia,Algeria,0,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,FALSE
-1994-09-04,Guinea-Bissau,Tunisia,1,3,African Cup of Nations qualification,Bissau,Guinea-Bissau,FALSE
+1994-09-04,Ghana,Sierra Leone,4,1,African Cup of Nations qualification,Accra,Ghana,FALSE
 1994-09-04,Israel,Poland,2,1,UEFA Euro qualification,Ramat-Gan,Israel,FALSE
 1994-09-04,Liberia,Togo,1,0,African Cup of Nations qualification,Monrovia,Liberia,FALSE
-1994-09-04,Madagascar,South Africa,0,1,African Cup of Nations qualification,Antananarivo,Madagascar,FALSE
 1994-09-04,Mali,Mozambique,2,1,African Cup of Nations qualification,Bamako,Mali,FALSE
 1994-09-04,Sudan,Egypt,0,0,African Cup of Nations qualification,Khartoum,Sudan,FALSE
 1994-09-06,Czech Republic,Malta,6,1,UEFA Euro qualification,Ostrava,Czech Republic,FALSE
@@ -18890,14 +18887,13 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1994-10-12,Ukraine,Slovenia,0,0,UEFA Euro qualification,Kyiv,Ukraine,FALSE
 1994-10-14,Algeria,Sudan,1,1,African Cup of Nations qualification,Algiers,Algeria,FALSE
 1994-10-14,Egypt,Tanzania,5,1,African Cup of Nations qualification,Cairo,Egypt,FALSE
-1994-10-14,Mauritania,Guinea-Bissau,1,1,African Cup of Nations qualification,Nouakchott,Mauritania,FALSE
 1994-10-15,Malawi,Zimbabwe,3,1,African Cup of Nations qualification,Blantyre,Malawi,FALSE
 1994-10-15,Namibia,Mali,2,1,African Cup of Nations qualification,Windhoek,Namibia,FALSE
 1994-10-15,Uganda,Ethiopia,4,1,African Cup of Nations qualification,Kampala,Uganda,FALSE
 1994-10-16,Cameroon,DR Congo,1,0,African Cup of Nations qualification,Douala,Cameroon,FALSE
 1994-10-16,Guinea,Angola,3,1,African Cup of Nations qualification,Conakry,Guinea,FALSE
 1994-10-16,Mozambique,Botswana,3,1,African Cup of Nations qualification,Maputo,Mozambique,FALSE
-1994-10-16,Niger,Ghana,1,5,African Cup of Nations qualification,Niamey,Niger,FALSE
+1994-10-16,Sierra Leone,Congo,3,2,African Cup of Nations qualification,Freetown,Sierra Leone,FALSE
 1994-10-16,Togo,Senegal,2,0,African Cup of Nations qualification,Lomé,Togo,FALSE
 1994-10-19,Peru,Uruguay,0,1,Friendly,Lima,Peru,FALSE
 1994-10-19,Saudi Arabia,United States,2,1,Friendly,Khobar,Saudi Arabia,FALSE
@@ -18907,6 +18903,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1994-10-26,Saudi Arabia,Trinidad and Tobago,1,0,Friendly,Riyadh,Saudi Arabia,FALSE
 1994-10-28,United Arab Emirates,Senegal,3,2,Friendly,Abu Dhabi,United Arab Emirates,FALSE
 1994-10-29,Kuwait,Iceland,0,1,Friendly,Al Ain,United Arab Emirates,TRUE
+1994-10-30,Mali,Guinea,2,0,African Cup of Nations qualification,Bamako,Mali,FALSE
 1994-11-03,United Arab Emirates,Qatar,2,0,Gulf Cup,Abu Dhabi,United Arab Emirates,FALSE
 1994-11-04,Bahrain,Kuwait,2,1,Gulf Cup,Abu Dhabi,United Arab Emirates,TRUE
 1994-11-04,Oman,Saudi Arabia,1,2,Gulf Cup,Abu Dhabi,United Arab Emirates,TRUE
@@ -18921,23 +18918,20 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1994-11-10,Saudi Arabia,Bahrain,3,1,Gulf Cup,Abu Dhabi,United Arab Emirates,TRUE
 1994-11-11,Egypt,Ethiopia,5,0,African Cup of Nations qualification,Cairo,Egypt,FALSE
 1994-11-11,Mauritania,Liberia,1,1,African Cup of Nations qualification,Nouakchott,Mauritania,FALSE
-1994-11-12,Gambia,Ghana,1,2,African Cup of Nations qualification,Banjul,Gambia,FALSE
 1994-11-12,Qatar,Saudi Arabia,1,2,Gulf Cup,Abu Dhabi,United Arab Emirates,TRUE
 1994-11-12,Romania,Slovakia,3,2,UEFA Euro qualification,Bucharest,Romania,FALSE
 1994-11-12,Tanzania,Sudan,2,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,FALSE
 1994-11-12,Uganda,Algeria,1,1,African Cup of Nations qualification,Kampala,Uganda,FALSE
 1994-11-12,United Arab Emirates,Bahrain,0,0,Gulf Cup,Abu Dhabi,United Arab Emirates,FALSE
 1994-11-13,Gabon,Mauritius,3,0,African Cup of Nations qualification,Libreville,Gabon,FALSE
-1994-11-13,Guinea-Bissau,Senegal,1,4,African Cup of Nations qualification,Bissau,Guinea-Bissau,FALSE
-1994-11-13,Lesotho,Cameroon,2,0,African Cup of Nations qualification,Maseru,Lesotho,FALSE
 1994-11-13,Mali,Angola,0,0,African Cup of Nations qualification,Bamako,Mali,FALSE
 1994-11-13,Morocco,Ivory Coast,1,0,African Cup of Nations qualification,Casablanca,Morocco,FALSE
 1994-11-13,Mozambique,Guinea,2,1,African Cup of Nations qualification,Maputo,Mozambique,FALSE
-1994-11-13,Niger,Sierra Leone,4,2,African Cup of Nations qualification,Niamey,Niger,FALSE
+1994-11-13,Namibia,Botswana,1,1,African Cup of Nations qualification,Windhoek,Namibia,FALSE
+1994-11-13,Tunisia,Togo,1,1,African Cup of Nations qualification,Tunis,Tunisia,FALSE
 1994-11-13,Oman,Kuwait,0,0,Gulf Cup,Abu Dhabi,United Arab Emirates,TRUE
 1994-11-13,Portugal,Austria,1,0,UEFA Euro qualification,Lisbon,Portugal,FALSE
 1994-11-13,Ukraine,Estonia,3,0,UEFA Euro qualification,Kyiv,Ukraine,FALSE
-1994-11-13,Zambia,South Africa,1,1,African Cup of Nations qualification,Lusaka,Zambia,FALSE
 1994-11-13,Zimbabwe,DR Congo,2,1,African Cup of Nations qualification,Harare,Zimbabwe,FALSE
 1994-11-15,Bahrain,Qatar,1,1,Gulf Cup,Abu Dhabi,United Arab Emirates,TRUE
 1994-11-15,Grenada,Trinidad and Tobago,1,2,Friendly,St. George's,Grenada,FALSE
@@ -19029,16 +19023,16 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1995-01-04,Vietnam,Estonia,1,0,Friendly,Ho Chi Minh City,Vietnam,FALSE
 1995-01-06,Japan,Nigeria,0,3,Confederations Cup,Riyadh,Saudi Arabia,TRUE
 1995-01-06,Saudi Arabia,Mexico,0,2,Confederations Cup,Riyadh,Saudi Arabia,FALSE
+1995-01-07,Botswana,Mali,1,3,African Cup of Nations qualification,Gaborone,Botswana,FALSE
 1995-01-07,Senegal,Tunisia,0,0,African Cup of Nations qualification,Ziguinchor,Senegal,FALSE
-1995-01-07,Sierra Leone,Gambia,2,0,African Cup of Nations qualification,Freetown,Sierra Leone,FALSE
+1995-01-08,Algeria,Egypt,1,0,African Cup of Nations qualification,Algiers,Algeria,FALSE
 1995-01-08,Angola,Mozambique,1,0,African Cup of Nations qualification,Luanda,Angola,FALSE
 1995-01-08,Cameroon,Malawi,0,0,African Cup of Nations qualification,Yaoundé,Cameroon,FALSE
-1995-01-08,Congo,Niger,3,1,African Cup of Nations qualification,Brazzaville,Congo,FALSE
-1995-01-08,DR Congo,Lesotho,3,0,African Cup of Nations qualification,Kinshasa,Zaïre,FALSE
 1995-01-08,Ethiopia,Tanzania,1,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,FALSE
 1995-01-08,Guinea,Namibia,3,0,African Cup of Nations qualification,Conakry,Guinea,FALSE
 1995-01-08,Japan,Argentina,1,5,Confederations Cup,Riyadh,Saudi Arabia,TRUE
 1995-01-08,Saudi Arabia,Denmark,0,2,Confederations Cup,Riyadh,Saudi Arabia,FALSE
+1995-01-08,Sudan,Uganda,3,1,African Cup of Nations qualification,Omdurman,Sudan,FALSE
 1995-01-08,Togo,Mauritania,0,0,African Cup of Nations qualification,Lomé,Togo,FALSE
 1995-01-09,Mauritius,Zambia,0,3,African Cup of Nations qualification,Port Louis,Mauritius,FALSE
 1995-01-10,Denmark,Mexico,1,1,Confederations Cup,Riyadh,Saudi Arabia,TRUE
@@ -19054,10 +19048,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1995-01-22,Ethiopia,Sudan,2,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,FALSE
 1995-01-22,Ghana,Congo,3,1,African Cup of Nations qualification,Accra,Ghana,FALSE
 1995-01-22,Ivory Coast,Burkina Faso,2,2,African Cup of Nations qualification,Abidjan,Ivory Coast,FALSE
-1995-01-22,Lesotho,Malawi,0,2,African Cup of Nations qualification,Maseru,Lesotho,FALSE
 1995-01-22,Liberia,Senegal,1,1,African Cup of Nations qualification,Monrovia,Liberia,FALSE
 1995-01-22,Mozambique,Namibia,4,2,African Cup of Nations qualification,Maputo,Mozambique,FALSE
-1995-01-22,Niger,Gambia,1,1,African Cup of Nations qualification,Niamey,Niger,FALSE
 1995-01-22,Zimbabwe,Cameroon,4,1,African Cup of Nations qualification,Harare,Zimbabwe,FALSE
 1995-01-25,Cyprus,Greece,2,3,Friendly,Larnaca,Cyprus,FALSE
 1995-01-26,Canada,Portugal,1,1,Friendly,Toronto,Canada,FALSE
@@ -19158,16 +19150,17 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1995-04-02,Sri Lanka,India,1,0,SAFF Cup,Colombo,Sri Lanka,FALSE
 1995-04-03,Bolivia,Venezuela,0,0,Friendly,Sucre,Bolivia,FALSE
 1995-04-05,Uruguay,Peru,1,0,Friendly,Montevideo,Uruguay,FALSE
+1995-04-07,Algeria,Ethiopia,2,0,African Cup of Nations qualification,Algiers,Algeria,FALSE
+1995-04-07,Egypt,Sudan,3,1,African Cup of Nations qualification,Alexandria,Egypt,FALSE
 1995-04-07,Mauritania,Senegal,0,1,African Cup of Nations qualification,Nouakchott,Mauritania,FALSE
 1995-04-08,Sierra Leone,Ghana,1,0,African Cup of Nations qualification,Freetown,Sierra Leone,FALSE
 1995-04-08,Uganda,Tanzania,2,0,African Cup of Nations qualification,Kampala,Uganda,FALSE
 1995-04-08,Zambia,Gabon,1,0,African Cup of Nations qualification,Lusaka,Zambia,FALSE
-1995-04-09,Gambia,Congo,1,1,African Cup of Nations qualification,Banjul,Gambia,FALSE
 1995-04-09,Guinea,Botswana,5,0,African Cup of Nations qualification,Conakry,Guinea,FALSE
-1995-04-09,Lesotho,Zimbabwe,0,2,African Cup of Nations qualification,Maseru,Lesotho,FALSE
 1995-04-09,Malawi,DR Congo,0,1,African Cup of Nations qualification,Lilongwe,Malawi,FALSE
 1995-04-09,Morocco,Burkina Faso,0,0,African Cup of Nations qualification,Casablanca,Morocco,FALSE
 1995-04-09,Mozambique,Mali,1,0,African Cup of Nations qualification,Maputo,Mozambique,FALSE
+1995-04-09,Namibia,Angola,2,2,African Cup of Nations qualification,Windhoek,Namibia,FALSE
 1995-04-09,Saint Lucia,Grenada,4,0,CFU Caribbean Cup qualification,Castries,Saint Lucia,FALSE
 1995-04-09,Togo,Liberia,0,0,African Cup of Nations qualification,Lomé,Togo,FALSE
 1995-04-12,North Macedonia,Bulgaria,0,0,Friendly,Strumica,North Macedonia,FALSE
@@ -19182,11 +19175,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1995-04-23,Botswana,Mozambique,0,3,African Cup of Nations qualification,Gaborone,Botswana,FALSE
 1995-04-23,DR Congo,Cameroon,2,1,African Cup of Nations qualification,Kinshasa,Zaïre,FALSE
 1995-04-23,Ethiopia,Uganda,0,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,FALSE
-1995-04-23,Ghana,Niger,1,0,African Cup of Nations qualification,Accra,Ghana,FALSE
 1995-04-23,Liberia,Tunisia,1,0,African Cup of Nations qualification,Monrovia,Liberia,FALSE
 1995-04-23,Mali,Namibia,2,0,African Cup of Nations qualification,Bamako,Mali,FALSE
 1995-04-23,Zimbabwe,Malawi,1,1,African Cup of Nations qualification,Harare,Zimbabwe,FALSE
-1995-04-24,Sudan,Algeria,2,0,African Cup of Nations qualification,Khartoum,Sudan,FALSE
+1995-04-24,Sudan,Algeria,0,2,African Cup of Nations qualification,Khartoum,Sudan,FALSE
 1995-04-25,Poland,Israel,4,3,UEFA Euro qualification,Zabrze,Poland,FALSE
 1995-04-26,Armenia,Spain,0,2,UEFA Euro qualification,Yerevan,Armenia,FALSE
 1995-04-26,Austria,Liechtenstein,7,0,UEFA Euro qualification,Salzburg,Austria,FALSE
@@ -19263,12 +19255,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1995-06-03,England,Japan,2,1,Friendly,London,England,FALSE
 1995-06-03,Liechtenstein,Republic of Ireland,0,0,UEFA Euro qualification,Eschen,Liechtenstein,FALSE
 1995-06-03,Portugal,Latvia,3,2,UEFA Euro qualification,Porto,Portugal,FALSE
-1995-06-03,Sierra Leone,Niger,5,1,African Cup of Nations qualification,Freetown,Sierra Leone,FALSE
 1995-06-03,Sudan,Tanzania,2,1,African Cup of Nations qualification,Khartoum,Sudan,FALSE
 1995-06-04,Angola,Mali,1,0,African Cup of Nations qualification,Luanda,Angola,FALSE
 1995-06-04,Botswana,Namibia,1,1,African Cup of Nations qualification,Gaborone,Botswana,FALSE
 1995-06-04,Brazil,Sweden,1,0,Friendly,Birmingham,England,TRUE
-1995-06-04,Cameroon,Lesotho,4,1,African Cup of Nations qualification,Yaoundé,Cameroon,FALSE
 1995-06-04,Canada,Turkey,1,3,Friendly,Toronto,Canada,FALSE
 1995-06-04,DR Congo,Zimbabwe,5,0,African Cup of Nations qualification,Kinshasa,Zaïre,FALSE
 1995-06-04,Ecuador,Zambia,4,1,Korea Cup,Changwon,South Korea,TRUE
@@ -19364,6 +19354,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1995-07-16,Malawi,Cameroon,1,3,African Cup of Nations qualification,Blantyre,Malawi,FALSE
 1995-07-16,Mali,Botswana,4,0,African Cup of Nations qualification,Bamako,Mali,FALSE
 1995-07-16,Mozambique,Angola,2,1,African Cup of Nations qualification,Maputo,Mozambique,FALSE
+1995-07-16,Namibia,Guinea,0,0,African Cup of Nations qualification,Windhoek,Namibia,FALSE
 1995-07-16,Paraguay,Colombia,1,1,Copa América,Montevideo,Uruguay,TRUE
 1995-07-16,Uruguay,Bolivia,2,1,Copa América,Montevideo,Uruguay,FALSE
 1995-07-16,Isle of Man,Ynys Môn,0,2,Island Games,Gibraltar,Gibraltar,TRUE
@@ -20274,7 +20265,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1996-10-05,Wales,Netherlands,1,3,FIFA World Cup qualification,Cardiff,Wales,FALSE
 1996-10-06,Algeria,Ivory Coast,4,1,African Cup of Nations qualification,Algiers,Algeria,FALSE
 1996-10-06,Benin,Mali,1,2,African Cup of Nations qualification,Cotonou,Benin,FALSE
-1996-10-06,Central African Republic,Guinea,2,3,African Cup of Nations qualification,Bangui,Central African Republic,FALSE
 1996-10-06,DR Congo,Liberia,0,0,African Cup of Nations qualification,Kinshasa,Zaïre,FALSE
 1996-10-06,Ethiopia,Senegal,1,2,African Cup of Nations qualification,Addis Ababa,Ethiopia,FALSE
 1996-10-06,Faroe Islands,Serbia,1,8,FIFA World Cup qualification,Toftir,Faroe Islands,FALSE
@@ -20283,7 +20273,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1996-10-06,Ghana,Angola,2,1,African Cup of Nations qualification,Kumasi,Ghana,FALSE
 1996-10-06,Mauritius,Malawi,1,2,African Cup of Nations qualification,Curepipe,Mauritius,FALSE
 1996-10-06,Panama,El Salvador,1,1,FIFA World Cup qualification,Panama City,Panama,FALSE
-1996-10-06,Sudan,Zimbabwe,0,3,African Cup of Nations qualification,Khartoum,Sudan,FALSE
 1996-10-06,Trinidad and Tobago,Guatemala,1,1,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,FALSE
 1996-10-06,Tunisia,Sierra Leone,2,0,African Cup of Nations qualification,Tunis,Tunisia,FALSE
 1996-10-06,Zambia,Mozambique,1,0,African Cup of Nations qualification,Lusaka,Zambia,FALSE
@@ -20593,10 +20582,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1997-02-22,Bosnia and Herzegovina,Vietnam,4,0,Dunhill Cup,Kuala Lumpur,Malaysia,TRUE
 1997-02-22,Hong Kong,South Korea,0,2,FIFA World Cup qualification,Victoria,Hong Kong,FALSE
 1997-02-22,Indonesia,Zimbabwe,0,0,Dunhill Cup,Kuala Lumpur,Malaysia,TRUE
+1997-02-22,Malawi,Mozambique,2,0,African Cup of Nations qualification,Blantyre,Malawi,FALSE
 1997-02-23,Benin,Algeria,1,1,African Cup of Nations qualification,Cotonou,Benin,FALSE
 1997-02-23,Botswana,Lesotho,1,4,Friendly,Jwaneng,Botswana,FALSE
 1997-02-23,China PR,Finland,2,1,Dunhill Cup,Kuala Lumpur,Malaysia,TRUE
 1997-02-23,Ethiopia,Egypt,1,1,African Cup of Nations qualification,Addis Ababa,Ethiopia,FALSE
+1997-02-23,Guinea,Sierra Leone,1,0,African Cup of Nations qualification,Conakry,Guinea,FALSE
 1997-02-23,Guyana,French Guiana,2,2,CFU Caribbean Cup qualification,Georgetown,Guyana,FALSE
 1997-02-23,Jamaica,Bermuda,3,2,CFU Caribbean Cup qualification,Kingston,Jamaica,FALSE
 1997-02-23,Malaysia,Singapore,0,0,Dunhill Cup,Kuala Lumpur,Malaysia,FALSE
@@ -20966,6 +20957,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1997-06-20,Uzbekistan,Indonesia,3,0,FIFA World Cup qualification,Tashkent,Uzbekistan,FALSE
 1997-06-21,Antigua and Barbuda,Saint Lucia,1,1,Friendly,St. John's,Antigua and Barbuda,FALSE
 1997-06-21,Bolivia,Colombia,2,1,Copa América,La Paz,Bolivia,FALSE
+1997-06-21,Malawi,Mauritius,3,2,African Cup of Nations qualification,Lilongwe,Malawi,FALSE
 1997-06-21,Morocco,Egypt,1,0,African Cup of Nations qualification,Rabat,Morocco,FALSE
 1997-06-21,Papua New Guinea,Fiji,0,1,FIFA World Cup qualification,Port Moresby,Papua New Guinea,FALSE
 1997-06-21,Peru,Argentina,2,1,Copa América,Sucre,Bolivia,TRUE
@@ -21043,6 +21035,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1997-07-10,Saint Kitts and Nevis,Grenada,2,1,CFU Caribbean Cup,Basseterre,Saint Kitts and Nevis,FALSE
 1997-07-10,Trinidad and Tobago,Jamaica,1,1,CFU Caribbean Cup,St. John's,Antigua and Barbuda,TRUE
 1997-07-11,Lithuania,Latvia,1,0,Baltic Cup,Vilnius,Lithuania,FALSE
+1997-07-12,Zambia,Malawi,3,1,African Cup of Nations qualification,Lusaka,Zambia,FALSE
+1997-07-13,Algeria,Mali,1,0,African Cup of Nations qualification,Algiers,Algeria,FALSE
 1997-07-13,Benin,Ivory Coast,0,0,African Cup of Nations qualification,Cotonou,Benin,FALSE
 1997-07-13,DR Congo,Tanzania,1,1,African Cup of Nations qualification,Kinshasa,DR Congo,FALSE
 1997-07-13,Egypt,Senegal,2,0,African Cup of Nations qualification,Cairo,Egypt,FALSE
@@ -21781,6 +21775,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1998-08-01,Namibia,Malawi,2,1,African Cup of Nations qualification,Windhoek,Namibia,FALSE
 1998-08-01,Palau,Guam,2,15,Friendly,Koror,Palau,FALSE
 1998-08-01,Uganda,Rwanda,5,0,African Cup of Nations qualification,Kampala,Uganda,FALSE
+1998-08-02,Benin,Angola,2,1,African Cup of Nations qualification,Cotonou,Benin,FALSE
 1998-08-02,Botswana,Mozambique,0,0,African Cup of Nations qualification,Gaborone,Botswana,FALSE
 1998-08-02,Burundi,Tanzania,1,0,African Cup of Nations qualification,Bujumbura,Burundi,FALSE
 1998-08-02,Chad,Congo,1,1,African Cup of Nations qualification,N'Djamena,Chad,FALSE
@@ -21825,6 +21820,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1998-08-20,Estonia,Moldova,0,1,Friendly,Kohtla-Järve,Estonia,FALSE
 1998-08-23,Burkina Faso,Togo,1,1,Friendly,Ouagadougou,Burkina Faso,FALSE
 1998-08-23,Mauritius,Lesotho,3,1,African Cup of Nations qualification,Curepipe,Mauritius,FALSE
+1998-08-23,Madagascar,Eswatini,1,1,African Cup of Nations qualification,Antananarivo,Madagascar,FALSE
 1998-08-26,Malaysia,Singapore,0,2,AFF Championship,Hanoi,Vietnam,TRUE
 1998-08-26,Vietnam,Laos,4,1,AFF Championship,Hanoi,Vietnam,FALSE
 1998-08-27,Indonesia,Philippines,3,0,AFF Championship,Ho Chi Minh City,Vietnam,TRUE
@@ -21935,12 +21931,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1998-10-02,New Zealand,Fiji,1,0,Oceania Nations Cup,Brisbane,Australia,TRUE
 1998-10-03,Bahrain,Sudan,2,3,Friendly,Manama,Bahrain,FALSE
 1998-10-03,Kenya,Madagascar,1,1,African Cup of Nations qualification,Nairobi,Kenya,FALSE
-1998-10-03,Morocco,Sierra Leone,3,0,African Cup of Nations qualification,Casablanca,Morocco,FALSE
 1998-10-03,Namibia,Congo,0,1,African Cup of Nations qualification,Windhoek,Namibia,FALSE
 1998-10-03,South Africa,Angola,1,0,African Cup of Nations qualification,Johannesburg,South Africa,FALSE
 1998-10-04,Australia,New Zealand,0,1,Oceania Nations Cup,Brisbane,Australia,FALSE
-1998-10-04,Burkina Faso,Nigeria,0,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,FALSE
-1998-10-04,Cameroon,Ghana,1,3,African Cup of Nations qualification,Douala,Cameroon,FALSE
 1998-10-04,Gabon,Mauritius,2,0,African Cup of Nations qualification,Libreville,Gabon,FALSE
 1998-10-04,Mali,Ivory Coast,0,1,African Cup of Nations qualification,Bamako,Mali,FALSE
 1998-10-04,Mozambique,Eritrea,3,1,African Cup of Nations qualification,Maputo,Mozambique,FALSE
@@ -22078,14 +22071,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1999-01-22,Estonia,Norway,3,3,Friendly,Umm al-Fahm,Israel,TRUE
 1999-01-23,Eritrea,Cameroon,0,0,African Cup of Nations qualification,Asmara,Eritrea,FALSE
 1999-01-23,Mauritius,South Africa,1,1,African Cup of Nations qualification,Curepipe,Mauritius,FALSE
-1999-01-23,Nigeria,Burundi,2,0,African Cup of Nations qualification,Abeokuta,Nigeria,FALSE
 1999-01-23,Senegal,Burkina Faso,1,1,African Cup of Nations qualification,Dakar,Senegal,FALSE
 1999-01-23,Zimbabwe,Malawi,3,0,Friendly,Bulawayo,Zimbabwe,FALSE
 1999-01-24,Angola,Gabon,3,1,African Cup of Nations qualification,Luanda,Angola,FALSE
 1999-01-24,Bolivia,United States,0,0,Friendly,Santa Cruz,Bolivia,FALSE
 1999-01-24,Congo,Mali,0,0,African Cup of Nations qualification,Pointe-Noire,Congo,FALSE
 1999-01-24,DR Congo,Kenya,2,1,African Cup of Nations qualification,Kinshasa,DR Congo,FALSE
-1999-01-24,Ghana,Mozambique,1,0,African Cup of Nations qualification,Accra,Ghana,FALSE
 1999-01-24,Guinea,Morocco,1,1,African Cup of Nations qualification,Conakry,Guinea,FALSE
 1999-01-24,Ivory Coast,Namibia,3,0,African Cup of Nations qualification,Abidjan,Ivory Coast,FALSE
 1999-01-24,Liberia,Uganda,2,0,African Cup of Nations qualification,Monrovia,Liberia,FALSE
@@ -22149,12 +22140,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1999-02-28,Burundi,Burkina Faso,1,2,African Cup of Nations qualification,Bujumbura,Burundi,FALSE
 1999-02-28,Cameroon,Mozambique,1,0,African Cup of Nations qualification,Yaoundé,Cameroon,FALSE
 1999-02-28,Congo,Ivory Coast,1,0,African Cup of Nations qualification,Pointe-Noire,Congo,FALSE
-1999-02-28,Ghana,Eritrea,5,0,African Cup of Nations qualification,Accra,Ghana,FALSE
 1999-02-28,Guyana,Barbados,2,2,CFU Caribbean Cup qualification,Georgetown,Guyana,FALSE
 1999-02-28,Kenya,Zambia,0,1,African Cup of Nations qualification,Nairobi,Kenya,FALSE
 1999-02-28,Liberia,Algeria,1,1,African Cup of Nations qualification,Monrovia,Liberia,FALSE
 1999-02-28,Madagascar,DR Congo,3,1,African Cup of Nations qualification,Antananarivo,Madagascar,FALSE
-1999-02-28,Senegal,Nigeria,1,1,African Cup of Nations qualification,Dakar,Senegal,FALSE
 1999-02-28,Togo,Morocco,2,3,African Cup of Nations qualification,Lomé,Togo,FALSE
 1999-03-03,Bolivia,Jamaica,0,0,Friendly,Guatemala,Guatemala,TRUE
 1999-03-03,Bulgaria,Slovakia,2,0,Friendly,Stara Zagora,Bulgaria,FALSE
@@ -22255,6 +22244,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1999-04-11,DR Congo,Madagascar,2,0,African Cup of Nations qualification,Kinshasa,DR Congo,FALSE
 1999-04-11,Ivory Coast,Congo,2,0,African Cup of Nations qualification,Abidjan,Ivory Coast,FALSE
 1999-04-11,Mali,Namibia,2,1,African Cup of Nations qualification,Bamako,Mali,FALSE
+1999-04-11,Morocco,Togo,1,1,African Cup of Nations qualification,Rabat,Morocco,FALSE
 1999-04-11,Mozambique,Cameroon,1,6,African Cup of Nations qualification,Maputo,Mozambique,FALSE
 1999-04-13,Saint Vincent and the Grenadines,Grenada,2,1,Friendly,Kingstown,Saint Vincent and the Grenadines,FALSE
 1999-04-14,Mexico,Ecuador,0,0,Friendly,Monterrey,Mexico,FALSE
@@ -22376,6 +22366,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1999-06-06,Mali,Congo,3,1,African Cup of Nations qualification,Bamako,Mali,FALSE
 1999-06-06,Morocco,Guinea,1,0,African Cup of Nations qualification,Rabat,Morocco,FALSE
 1999-06-06,Tunisia,Algeria,2,0,African Cup of Nations qualification,Tunis,Tunisia,FALSE
+1999-06-06,Zambia,Madagascar,1,1,African Cup of Nations qualification,Chililabombwe,Zambia,FALSE
 1999-06-07,Jamaica,Grenada,2,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,TRUE
 1999-06-07,Trinidad and Tobago,Guadeloupe,3,2,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,FALSE
 1999-06-08,Brazil,Netherlands,3,1,Friendly,Goiânia,Brazil,FALSE
@@ -23432,10 +23423,13 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2000-06-29,Colombia,Argentina,1,3,FIFA World Cup qualification,Bogotá,Colombia,FALSE
 2000-06-29,Ecuador,Peru,2,1,FIFA World Cup qualification,Quito,Ecuador,FALSE
 2000-06-29,Netherlands,Italy,0,0,UEFA Euro,Amsterdam,Netherlands,FALSE
+2000-06-30,Chad,Libya,3,1,African Cup of Nations qualification,N'Djamena,Chad,FALSE
 2000-06-30,Djibouti,Burundi,1,3,African Cup of Nations qualification,Djibouti,Djibouti,FALSE
 2000-07-01,Botswana,Madagascar,1,0,African Cup of Nations qualification,Gaborone,Botswana,FALSE
 2000-07-01,Costa Rica,Panama,5,1,Friendly,Alajuela,Costa Rica,FALSE
 2000-07-01,El Salvador,Mexico,0,3,Friendly,San Francisco,United States,TRUE
+2000-07-01,Gambia,Guinea,2,2,African Cup of Nations qualification,Bakau,Gambia,FALSE
+2000-07-01,São Tomé and Príncipe,Gabon,1,1,African Cup of Nations qualification,São Tomé,São Tomé and Príncipe,FALSE
 2000-07-01,Seychelles,Zimbabwe,0,1,African Cup of Nations qualification,Victoria,Seychelles,FALSE
 2000-07-01,Tanzania,Mauritius,0,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,FALSE
 2000-07-01,Uganda,Malawi,3,1,African Cup of Nations qualification,Kampala,Uganda,FALSE
@@ -23474,6 +23468,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2000-07-15,Eritrea,Sudan,2,1,African Cup of Nations qualification,Asmara,Eritrea,FALSE
 2000-07-15,Gabon,São Tomé and Príncipe,4,1,African Cup of Nations qualification,Libreville,Gabon,FALSE
 2000-07-15,Kenya,Eswatini,3,0,African Cup of Nations qualification,Nairobi,Kenya,FALSE
+2000-07-15,Madagascar,Botswana,2,0,African Cup of Nations qualification,Antananarivo,Madagascar,FALSE
 2000-07-15,Malawi,Uganda,1,2,African Cup of Nations qualification,Blantyre,Malawi,FALSE
 2000-07-15,Namibia,Benin,8,2,African Cup of Nations qualification,Windhoek,Namibia,FALSE
 2000-07-15,Zambia,Ethiopia,2,0,African Cup of Nations qualification,Lusaka,Zambia,FALSE
@@ -23481,6 +23476,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2000-07-16,Angola,Equatorial Guinea,4,1,African Cup of Nations qualification,Luanda,Angola,FALSE
 2000-07-16,Barbados,Costa Rica,2,1,FIFA World Cup qualification,Bridgetown,Barbados,FALSE
 2000-07-16,Canada,Trinidad and Tobago,0,2,FIFA World Cup qualification,Edmonton,Canada,FALSE
+2000-07-16,Congo,Rwanda,5,1,African Cup of Nations qualification,Pointe Noire,Congo,FALSE
 2000-07-16,DR Congo,Central African Republic,2,0,African Cup of Nations qualification,Kinshasa,DR Congo,FALSE
 2000-07-16,El Salvador,Honduras,2,5,FIFA World Cup qualification,San Salvador,El Salvador,FALSE
 2000-07-16,Guatemala,United States,1,1,FIFA World Cup qualification,Mazatenango,Guatemala,FALSE
@@ -23488,6 +23484,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2000-07-16,Ivory Coast,Niger,6,0,African Cup of Nations qualification,Abidjan,Ivory Coast,FALSE
 2000-07-16,Mauritius,Tanzania,3,2,African Cup of Nations qualification,Curepipe,Mauritius,FALSE
 2000-07-16,Mozambique,Lesotho,1,0,African Cup of Nations qualification,Maputo,Mozambique,FALSE
+2000-07-16,Zimbabwe,Seychelles,5,0,African Cup of Nations qualification,Bulawayo,Zimbabwe,FALSE
 2000-07-16,Panama,Mexico,0,1,FIFA World Cup qualification,Panama City,Panama,FALSE
 2000-07-18,Paraguay,Brazil,2,1,FIFA World Cup qualification,Asunción,Paraguay,FALSE
 2000-07-18,Uruguay,Venezuela,3,1,FIFA World Cup qualification,Montevideo,Uruguay,FALSE
@@ -23594,7 +23591,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2000-09-02,Paraguay,Venezuela,3,0,FIFA World Cup qualification,Asunción,Paraguay,FALSE
 2000-09-02,Switzerland,Russia,0,1,FIFA World Cup qualification,Zürich,Switzerland,FALSE
 2000-09-02,Turkey,Moldova,2,0,FIFA World Cup qualification,Istanbul,Turkey,FALSE
-2000-09-02,Uganda,Guinea,3,1,African Cup of Nations qualification,Kampala,Uganda,FALSE
 2000-09-02,Ukraine,Poland,1,3,FIFA World Cup qualification,Kyiv,Ukraine,FALSE
 2000-09-02,Zambia,Madagascar,1,2,African Cup of Nations qualification,Lusaka,Zambia,FALSE
 2000-09-03,Jamaica,Saint Vincent and the Grenadines,2,0,FIFA World Cup qualification,Kingston,Jamaica,FALSE
@@ -23685,12 +23681,13 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2000-10-08,Barbados,Guatemala,1,3,FIFA World Cup qualification,Bridgetown,Barbados,FALSE
 2000-10-08,Bolivia,Peru,1,0,FIFA World Cup qualification,La Paz,Bolivia,FALSE
 2000-10-08,Ecuador,Chile,1,0,FIFA World Cup qualification,Quito,Ecuador,FALSE
-2000-10-08,Guinea,Senegal,1,0,African Cup of Nations qualification,Conakry,Guinea,FALSE
 2000-10-08,Honduras,Jamaica,1,0,FIFA World Cup qualification,Tegucigalpa,Honduras,FALSE
 2000-10-08,Hong Kong,Singapore,1,0,Friendly,Victoria,Hong Kong,FALSE
+2000-10-08,Ghana,Zimbabwe,4,1,African Cup of Nations qualification,Accra,Ghana,FALSE
 2000-10-08,Mauritius,Congo,1,2,African Cup of Nations qualification,Curepipe,Mauritius,FALSE
 2000-10-08,Mexico,Trinidad and Tobago,7,0,FIFA World Cup qualification,Mexico City,Mexico,FALSE
 2000-10-08,Morocco,Kenya,1,0,African Cup of Nations qualification,Casablanca,Morocco,FALSE
+2000-10-08,Namibia,Zambia,1,2,African Cup of Nations qualification,Windhoek,Namibia,FALSE
 2000-10-08,Qatar,Thailand,3,1,Friendly,Doha,Qatar,FALSE
 2000-10-08,Sudan,Egypt,0,1,African Cup of Nations qualification,Khartoum,Sudan,FALSE
 2000-10-08,Togo,Uganda,3,0,African Cup of Nations qualification,Lomé,Togo,FALSE
@@ -23855,13 +23852,13 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2001-01-13,Burkina Faso,Angola,1,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,FALSE
 2001-01-13,India,Iceland,0,3,Millennium Cup,Kochi,India,FALSE
 2001-01-13,Kenya,Gabon,2,1,African Cup of Nations qualification,Nairobi,Kenya,FALSE
+2001-01-13,Mauritius,South Africa,1,1,African Cup of Nations qualification,Mauritius,Mauritius,FALSE
 2001-01-13,Namibia,Madagascar,2,2,African Cup of Nations qualification,Windhoek,Namibia,FALSE
 2001-01-13,Nigeria,Zambia,1,0,African Cup of Nations qualification,Lagos,Nigeria,FALSE
 2001-01-13,Tunisia,Morocco,0,1,African Cup of Nations qualification,Tunis,Tunisia,FALSE
 2001-01-13,Uganda,Senegal,1,1,African Cup of Nations qualification,Kampala,Uganda,FALSE
 2001-01-14,DR Congo,Ghana,2,1,African Cup of Nations qualification,Kinshasa,DR Congo,FALSE
 2001-01-14,Egypt,Libya,4,0,African Cup of Nations qualification,Cairo,Egypt,FALSE
-2001-01-14,Guinea,Togo,0,0,African Cup of Nations qualification,Conakry,Guinea,FALSE
 2001-01-14,Liberia,Congo,5,1,African Cup of Nations qualification,Monrovia,Liberia,FALSE
 2001-01-14,Romania,Hong Kong,4,2,Millennium Cup,Margao,India,TRUE
 2001-01-14,Serbia,Bosnia and Herzegovina,1,1,Millennium Cup,Kochi,India,TRUE
@@ -24380,6 +24377,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2001-06-03,Bolivia,Venezuela,5,0,FIFA World Cup qualification,La Paz,Bolivia,FALSE
 2001-06-03,Burundi,Burkina Faso,0,0,African Cup of Nations qualification,Bujumbura,Burundi,FALSE
 2001-06-03,Congo,Mauritius,0,0,African Cup of Nations qualification,Pointe-Noire,Congo,FALSE
+2001-06-03,Egypt,Sudan,3,2,African Cup of Nations qualification,Alexandria,Egypt,FALSE
 2001-06-03,Costa Rica,El Salvador,1,1,UNCAF Cup,San Pedro Sula,Honduras,TRUE
 2001-06-03,France,Mexico,4,0,Confederations Cup,Ulsan,South Korea,TRUE
 2001-06-03,Gambia,Senegal,0,0,Friendly,Banjul,Gambia,FALSE
@@ -24434,6 +24432,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2001-06-13,Tahiti,Solomon Islands,2,0,FIFA World Cup qualification,North Shore,New Zealand,TRUE
 2001-06-16,Jamaica,United States,0,0,FIFA World Cup qualification,Kingston,Jamaica,FALSE
 2001-06-16,Madagascar,Zambia,0,1,African Cup of Nations qualification,Antananarivo,Madagascar,FALSE
+2001-06-16,Mauritius,Liberia,0,2,African Cup of Nations qualification,Belle Vue Harel,Mauritius,FALSE
 2001-06-16,Mexico,Costa Rica,1,2,FIFA World Cup qualification,Mexico City,Mexico,FALSE
 2001-06-16,Morocco,Gabon,0,1,African Cup of Nations qualification,Fès,Morocco,FALSE
 2001-06-16,Namibia,Nigeria,0,2,African Cup of Nations qualification,Windhoek,Namibia,FALSE
@@ -24441,8 +24440,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2001-06-17,Angola,Burundi,2,1,African Cup of Nations qualification,Cabinda,Angola,FALSE
 2001-06-17,Burkina Faso,Algeria,1,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,FALSE
 2001-06-17,DR Congo,Zimbabwe,2,1,African Cup of Nations qualification,Kinshasa,DR Congo,FALSE
+2001-06-17,Ghana,Lesotho,3,1,African Cup of Nations qualification,Kumasi,Ghana,FALSE
 2001-06-17,Ivory Coast,Egypt,2,2,African Cup of Nations qualification,Abidjan,Ivory Coast,FALSE
+2001-06-17,South Africa,Congo,0,0,African Cup of Nations qualification,Durban,South Africa,FALSE
 2001-06-17,Sudan,Libya,1,0,African Cup of Nations qualification,Khartoum,Sudan,FALSE
+2001-06-17,Togo,Senegal,1,0,African Cup of Nations qualification,Lomé,Togo,FALSE
+2001-06-17,Tunisia,Kenya,4,1,African Cup of Nations qualification,Tunis,Tunisia,FALSE
 2001-06-20,Costa Rica,Jamaica,2,1,FIFA World Cup qualification,Alajuela,Costa Rica,FALSE
 2001-06-20,Honduras,Mexico,3,1,FIFA World Cup qualification,San Pedro Sula,Honduras,FALSE
 2001-06-20,New Zealand,Australia,0,2,FIFA World Cup qualification,Wellington,New Zealand,FALSE
@@ -25357,6 +25360,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2002-09-07,Belgium,Bulgaria,0,2,UEFA Euro qualification,Brussels,Belgium,FALSE
 2002-09-07,Bosnia and Herzegovina,Romania,0,3,UEFA Euro qualification,Sarajevo,Bosnia and Herzegovina,FALSE
 2002-09-07,Botswana,Eswatini,0,0,African Cup of Nations qualification,Gaborone,Botswana,FALSE
+2002-09-07,Madagascar,Egypt,1,0,African Cup of Nations qualification,Antananarivo,Madagascar,FALSE
 2002-09-07,Croatia,Estonia,0,0,UEFA Euro qualification,Osijek,Croatia,FALSE
 2002-09-07,Cyprus,France,1,2,UEFA Euro qualification,Nicosia,Cyprus,FALSE
 2002-09-07,England,Portugal,1,1,Friendly,Birmingham,England,FALSE
@@ -25424,6 +25428,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2002-10-12,Italy,Serbia,1,1,UEFA Euro qualification,Naples,Italy,FALSE
 2002-10-12,Lithuania,Faroe Islands,2,0,UEFA Euro qualification,Kaunas,Lithuania,FALSE
 2002-10-12,North Macedonia,Turkey,1,2,UEFA Euro qualification,Skopje,North Macedonia,FALSE
+2002-10-12,Liberia,Niger,1,0,African Cup of Nations qualification,Monrovia,Liberia,FALSE
+2002-10-12,Cape Verde,Kenya,0,1,African Cup of Nations qualification,Praia,Cape Verde,FALSE
 2002-10-12,Malawi,Angola,1,0,African Cup of Nations qualification,Lilongwe,Malawi,FALSE
 2002-10-12,Malta,Israel,0,2,UEFA Euro qualification,Attard,Malta,FALSE
 2002-10-12,Mauritius,Madagascar,0,1,African Cup of Nations qualification,Centre de Flacq,Mauritius,FALSE
@@ -25437,11 +25443,15 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2002-10-12,Spain,Northern Ireland,3,0,UEFA Euro qualification,Albacete,Spain,FALSE
 2002-10-12,Sweden,Hungary,1,1,UEFA Euro qualification,Solna,Sweden,FALSE
 2002-10-12,Tanzania,Sudan,1,2,African Cup of Nations qualification,Mwanza,Tanzania,FALSE
+2002-10-12,Togo,Mauritania,1,0,African Cup of Nations qualification,Lomé,Togo,FALSE
 2002-10-12,Ukraine,Greece,2,0,UEFA Euro qualification,Kyiv,Ukraine,FALSE
 2002-10-12,Zambia,Benin,1,1,African Cup of Nations qualification,Lusaka,Zambia,FALSE
+2002-10-13,Burkina Faso,Central African Republic,2,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,FALSE
+2002-10-13,South Africa,Burundi,2,0,African Cup of Nations qualification,Bloemfontein,South Africa,FALSE
 2002-10-13,DR Congo,Botswana,2,0,African Cup of Nations qualification,Kinshasa,DR Congo,FALSE
 2002-10-13,Estonia,New Zealand,3,2,Friendly,Tallinn,Estonia,FALSE
 2002-10-13,Ethiopia,Guinea,1,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,FALSE
+2002-10-13,Gambia,Lesotho,6,0,African Cup of Nations qualification,Bakau,Gambia,FALSE
 2002-10-13,Ghana,Rwanda,4,2,African Cup of Nations qualification,Accra,Ghana,FALSE
 2002-10-13,Mali,Seychelles,3,0,African Cup of Nations qualification,Bamako,Mali,FALSE
 2002-10-13,Morocco,Equatorial Guinea,5,0,African Cup of Nations qualification,Rabat,Morocco,FALSE
@@ -26124,6 +26134,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2003-07-06,Lesotho,Gambia,1,0,African Cup of Nations qualification,Maseru,Lesotho,FALSE
 2003-07-06,Madagascar,Mauritius,0,2,African Cup of Nations qualification,Antananarivo,Madagascar,FALSE
 2003-07-06,Rwanda,Ghana,1,0,African Cup of Nations qualification,Kigali,Rwanda,FALSE
+2003-07-06,Sudan,Tanzania,3,0,African Cup of Nations qualification,Omdurman,Sudan,FALSE
 2003-07-06,United States,Paraguay,2,0,Friendly,Columbus,United States,FALSE
 2003-07-07,Fiji,Solomon Islands,2,1,South Pacific Games,Lautoka,Fiji,FALSE
 2003-07-07,Kiribati,Vanuatu,0,18,South Pacific Games,Lautoka,Fiji,TRUE
@@ -26373,7 +26384,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2003-10-12,Zimbabwe,Mauritania,3,0,FIFA World Cup qualification,Harare,Zimbabwe,FALSE
 2003-10-13,Bhutan,Indonesia,0,2,AFC Asian Cup qualification,Jeddah,Saudi Arabia,TRUE
 2003-10-13,Saudi Arabia,Yemen,3,1,AFC Asian Cup qualification,Jeddah,Saudi Arabia,FALSE
-2003-10-14,Eritrea,Sudan,0,0,FIFA World Cup qualification,Asmara,Eritrea,FALSE
 2003-10-15,Indonesia,Yemen,2,2,AFC Asian Cup qualification,Jeddah,Saudi Arabia,TRUE
 2003-10-15,Mexico,Uruguay,0,2,Friendly,Chicago,United States,TRUE
 2003-10-15,Saudi Arabia,Bhutan,4,0,AFC Asian Cup qualification,Jeddah,Saudi Arabia,FALSE
@@ -30574,7 +30584,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2008-05-31,Hungary,Croatia,1,1,Friendly,Budapest,Hungary,FALSE
 2008-05-31,South Korea,Jordan,2,2,FIFA World Cup qualification,Seoul,South Korea,FALSE
 2008-05-31,Malawi,Djibouti,8,1,FIFA World Cup qualification,Blantyre,Malawi,FALSE
-2008-05-31,Morocco,Ethiopia,3,0,FIFA World Cup qualification,Casablanca,Morocco,FALSE
 2008-05-31,Namibia,Kenya,2,1,FIFA World Cup qualification,Windhoek,Namibia,FALSE
 2008-05-31,Portugal,Georgia,2,0,Friendly,Viseu,Portugal,FALSE
 2008-05-31,Romania,Montenegro,4,0,Friendly,Bucharest,Romania,FALSE
@@ -30667,7 +30676,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2008-06-08,Benin,Uganda,4,1,FIFA World Cup qualification,Cotonou,Benin,FALSE
 2008-06-08,Congo,Sudan,1,0,FIFA World Cup qualification,Brazzaville,Congo,FALSE
 2008-06-08,DR Congo,Malawi,1,0,FIFA World Cup qualification,Kinshasa,DR Congo,FALSE
-2008-06-08,Ethiopia,Rwanda,1,2,FIFA World Cup qualification,Addis Ababa,Ethiopia,FALSE
 2008-06-08,Gambia,Senegal,0,0,FIFA World Cup qualification,Bakau,Gambia,FALSE
 2008-06-08,Germany,Poland,2,0,UEFA Euro,Klagenfurt,Austria,TRUE
 2008-06-08,Kuwait,Syria,4,2,FIFA World Cup qualification,Kuwait City,Kuwait,FALSE
@@ -30697,7 +30705,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2008-06-12,Croatia,Germany,2,1,UEFA Euro,Klagenfurt,Austria,TRUE
 2008-06-13,Djibouti,DR Congo,0,6,FIFA World Cup qualification,Djibouti,Djibouti,FALSE
 2008-06-13,Italy,Romania,1,1,UEFA Euro,Zürich,Switzerland,TRUE
-2008-06-13,Mauritania,Ethiopia,0,1,FIFA World Cup qualification,Nouakchott,Mauritania,FALSE
 2008-06-13,Netherlands,France,4,1,UEFA Euro,Berne,Switzerland,TRUE
 2008-06-14,Bahrain,Oman,1,1,FIFA World Cup qualification,Riffa,Bahrain,FALSE
 2008-06-14,Botswana,Ivory Coast,1,1,FIFA World Cup qualification,Gaborone,Botswana,FALSE
@@ -30795,7 +30802,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2008-06-22,Curaçao,Haiti,0,1,FIFA World Cup qualification,Willemstad,Netherlands Antilles,TRUE
 2008-06-22,Egypt,Malawi,2,0,FIFA World Cup qualification,Cairo,Egypt,FALSE
 2008-06-22,El Salvador,Panama,3,1,FIFA World Cup qualification,San Salvador,El Salvador,FALSE
-2008-06-22,Ethiopia,Mauritania,6,1,FIFA World Cup qualification,Addis Ababa,Ethiopia,FALSE
 2008-06-22,Ghana,Gabon,2,0,FIFA World Cup qualification,Accra,Ghana,FALSE
 2008-06-22,Guinea,Namibia,4,0,FIFA World Cup qualification,Conakry,Guinea,FALSE
 2008-06-22,Guyana,Suriname,1,2,FIFA World Cup qualification,Providence,Guyana,FALSE
@@ -31536,6 +31542,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2009-03-28,Uruguay,Paraguay,2,0,FIFA World Cup qualification,Montevideo,Uruguay,FALSE
 2009-03-28,Uzbekistan,Qatar,4,0,FIFA World Cup qualification,Tashkent,Uzbekistan,FALSE
 2009-03-28,Wales,Finland,0,2,FIFA World Cup qualification,Cardiff,Wales,FALSE
+2009-03-29,Mozambique,Nigeria,0,0,FIFA World Cup qualification,Maputo,Mozambique,FALSE
 2009-03-29,Ivory Coast,Malawi,5,0,FIFA World Cup qualification,Abidjan,Ivory Coast,FALSE
 2009-03-29,Ecuador,Brazil,1,1,FIFA World Cup qualification,Quito,Ecuador,FALSE
 2009-03-29,Peru,Chile,1,3,FIFA World Cup qualification,Lima,Peru,FALSE
@@ -31678,6 +31685,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2009-06-06,Uzbekistan,Japan,0,1,FIFA World Cup qualification,Tashkent,Uzbekistan,FALSE
 2009-06-06,Zambia,Rwanda,1,0,FIFA World Cup qualification,Chililabombwe,Zambia,FALSE
 2009-06-06,Corsica,Congo,1,1,Friendly,Ajaccio,France,FALSE
+2009-06-07,Cameroon,Morocco,0,0,FIFA World Cup qualification,Yaoundé,Cameroon,FALSE
 2009-06-07,Guinea,Ivory Coast,1,2,FIFA World Cup qualification,Conakry,Guinea,FALSE
 2009-06-07,Guyana,French Guiana,2,3,Friendly,Paramaribo,Suriname,TRUE
 2009-06-07,Jamaica,Panama,3,2,Friendly,Kingston,Jamaica,FALSE
