@@ -14315,7 +14315,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1986-01-29,Egypt,England,0,4,Friendly,Cairo,Egypt,FALSE
 1986-01-30,India,Peru,0,1,Nehru Cup,Trivandrum,India,FALSE
 1986-02-01,Senegal,Guinea,2,1,Amílcar Cabral Cup,Dakar,Senegal,FALSE
-1986-02-02,Canada,Uruguay,1,3,Friendly,Miami,United States,TRUE
+1986-02-02,Canada,Uruguay,1,3,Miami Cup,Miami,United States,TRUE
 1986-02-02,Gambia,Guinea-Bissau,3,0,Amílcar Cabral Cup,Dakar,Senegal,TRUE
 1986-02-02,Mauritania,Sierra Leone,0,1,Amílcar Cabral Cup,Dakar,Senegal,TRUE
 1986-02-02,Qatar,Hungary,0,3,Friendly,Doha,Qatar,FALSE
@@ -14323,13 +14323,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1986-02-04,Gambia,Sierra Leone,1,2,Amílcar Cabral Cup,Dakar,Senegal,TRUE
 1986-02-04,Guinea-Bissau,Mauritania,1,0,Amílcar Cabral Cup,Dakar,Senegal,TRUE
 1986-02-05,Italy,Germany,1,2,Friendly,Avellino,Italy,FALSE
-1986-02-05,Jamaica,Paraguay,1,4,Friendly,Miami,United States,TRUE
+1986-02-05,Jamaica,Paraguay,1,4,Miami Cup,Miami,United States,TRUE
 1986-02-05,Portugal,Luxembourg,2,0,Friendly,Portimão,Portugal,FALSE
 1986-02-05,Senegal,Mali,1,0,Amílcar Cabral Cup,Dakar,Senegal,FALSE
-1986-02-05,United States,Canada,0,0,Friendly,Miami,United States,FALSE
 1986-02-06,Gambia,Mauritania,3,1,Amílcar Cabral Cup,Dakar,Senegal,TRUE
 1986-02-06,Guinea-Bissau,Sierra Leone,2,3,Amílcar Cabral Cup,Dakar,Senegal,TRUE
-1986-02-07,United States,Uruguay,1,1,Friendly,Miami,United States,FALSE
 1986-02-08,Guinea,Sierra Leone,1,2,Amílcar Cabral Cup,Dakar,Senegal,TRUE
 1986-02-08,Senegal,Gambia,1,0,Amílcar Cabral Cup,Dakar,Senegal,FALSE
 1986-02-09,Bulgaria,German DR,1,2,Friendly,Querétaro,Mexico,TRUE
@@ -15174,11 +15172,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1988-03-29,Mexico,El Salvador,8,0,Friendly,Mexico City,Mexico,FALSE
 1988-03-30,Colombia,Canada,3,0,Friendly,Armenia,Colombia,FALSE
 1988-03-30,German DR,Romania,3,3,Friendly,Halle,German DR,FALSE
-1988-03-31,Argentina,Russia,2,4,Friendly,Berlin,Germany,TRUE
-1988-03-31,Germany,Sweden,1,1,Friendly,Berlin,Germany,FALSE
+1988-03-31,Argentina,Russia,2,4,Four Nations Tournament,Berlin,Germany,TRUE
+1988-03-31,Germany,Sweden,1,1,Four Nations Tournament,Berlin,Germany,FALSE
 1988-03-31,Yugoslavia,Italy,1,1,Friendly,Split,Yugoslavia,FALSE
-1988-04-02,Germany,Argentina,1,0,Friendly,Berlin,Germany,FALSE
-1988-04-02,Sweden,Russia,2,0,Friendly,Berlin,Germany,TRUE
+1988-04-02,Germany,Argentina,1,0,Four Nations Tournament,Berlin,Germany,FALSE
+1988-04-02,Sweden,Russia,2,0,Four Nations Tournament,Berlin,Germany,TRUE
 1988-04-05,Jamaica,Canada,0,4,Friendly,Kingston,Jamaica,FALSE
 1988-04-06,Greece,Austria,2,2,Friendly,Piraeus,Greece,FALSE
 1988-04-07,Jamaica,Canada,0,0,Friendly,Montego Bay,Jamaica,FALSE
@@ -15369,7 +15367,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1988-08-04,Burkina Faso,Niger,1,0,Tournament Burkina Faso,Ouagadougou,Burkina Faso,FALSE
 1988-08-04,Finland,Bulgaria,1,1,Friendly,Vaasa,Finland,FALSE
 1988-08-04,Zambia,Malawi,7,1,Friendly,Lusaka,Zambia,FALSE
-1988-08-05,El Salvador,Guatemala,1,2,Friendly,Los Angeles,United States,TRUE
+1988-08-05,El Salvador,Guatemala,1,2,Marlboro Cup,Los Angeles,United States,TRUE
 1988-08-05,Indonesia,Thailand,1,0,Indonesia Tournament,Jakarta,Indonesia,FALSE
 1988-08-05,Tunisia,Guinea,5,0,FIFA World Cup qualification,Tunis,Tunisia,FALSE
 1988-08-06,Albania,Cuba,0,0,Friendly,Berat,Albania,FALSE
@@ -15864,7 +15862,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1989-06-04,Republic of Ireland,Hungary,2,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
 1989-06-04,Japan,North Korea,2,1,FIFA World Cup qualification,Tokyo,Japan,FALSE
 1989-06-04,Mali,Guinea,3,0,Amílcar Cabral Cup,Bamako,Mali,FALSE
-1989-06-04,United States,Peru,3,0,Friendly,East Rutherford,United States,FALSE
+1989-06-04,United States,Peru,3,0,Marlboro Cup,East Rutherford,United States,FALSE
 1989-06-05,Malaysia,South Korea,0,3,FIFA World Cup qualification,Singapore,Singapore,TRUE
 1989-06-05,Singapore,Nepal,7,0,FIFA World Cup qualification,Singapore,Singapore,FALSE
 1989-06-06,Grenada,Trinidad and Tobago,1,0,CFU Caribbean Cup qualification,St. George's,Grenada,FALSE
@@ -15993,7 +15991,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1989-08-05,Tunisia,Malawi,3,0,Friendly,Tunis,Tunisia,FALSE
 1989-08-06,Uruguay,Colombia,0,0,Friendly,Montevideo,Uruguay,FALSE
 1989-08-06,Venezuela,Chile,1,3,FIFA World Cup qualification,Caracas,Venezuela,FALSE
-1989-08-10,Mexico,South Korea,4,2,Friendly,Los Angeles,United States,TRUE
+1989-08-10,Mexico,South Korea,4,2,Marlboro Cup,Los Angeles,United States,TRUE
 1989-08-12,Egypt,Malawi,1,0,FIFA World Cup qualification,Cairo,Egypt,FALSE
 1989-08-12,Kenya,Liberia,1,0,FIFA World Cup qualification,Nairobi,Kenya,FALSE
 1989-08-12,Nigeria,Angola,1,0,FIFA World Cup qualification,Lagos,Nigeria,FALSE
@@ -16003,7 +16001,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1989-08-13,El Salvador,Trinidad and Tobago,0,0,CONCACAF Championship,Tegucigalpa,Honduras,TRUE
 1989-08-13,Ivory Coast,Zimbabwe,5,0,FIFA World Cup qualification,Abidjan,Ivory Coast,FALSE
 1989-08-13,Morocco,Tunisia,0,0,FIFA World Cup qualification,Casablanca,Morocco,FALSE
-1989-08-13,United States,South Korea,1,2,Friendly,Los Angeles,United States,FALSE
+1989-08-13,United States,South Korea,1,2,Marlboro Cup,Los Angeles,United States,FALSE
 1989-08-16,Sweden,France,2,4,Friendly,Malmö,Sweden,FALSE
 1989-08-20,Bolivia,Peru,2,1,FIFA World Cup qualification,La Paz,Bolivia,FALSE
 1989-08-20,Brazil,Venezuela,6,0,FIFA World Cup qualification,São Paulo,Brazil,FALSE
@@ -16202,15 +16200,15 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1990-01-27,United Arab Emirates,Egypt,1,0,Friendly,Abu Dhabi,United Arab Emirates,FALSE
 1990-01-28,Nigeria,Senegal,1,1,Friendly,Bauchi,Nigeria,FALSE
 1990-01-29,Thailand,Kenya,2,1,King's Cup,Bangkok,Thailand,FALSE
-1990-02-02,Colombia,Uruguay,0,2,Friendly,Miami,United States,TRUE
+1990-02-02,Colombia,Uruguay,0,2,Miami Cup,Miami,United States,TRUE
 1990-02-02,Indonesia,Kenya,2,3,King's Cup,Bangkok,Thailand,TRUE
 1990-02-02,Iran,Poland,0,2,Friendly,Tehran,Iran,FALSE
-1990-02-02,United States,Costa Rica,0,2,Friendly,Miami,United States,FALSE
+1990-02-02,United States,Costa Rica,0,2,Miami Cup,Miami,United States,FALSE
 1990-02-04,Algeria,Romania,0,0,Friendly,Algiers,Algeria,FALSE
-1990-02-04,Costa Rica,Uruguay,0,2,Friendly,Miami,United States,TRUE
+1990-02-04,Costa Rica,Uruguay,0,2,Miami Cup,Miami,United States,TRUE
 1990-02-04,Iran,Poland,0,1,Friendly,Tehran,Iran,FALSE
 1990-02-04,South Korea,Norway,2,3,Malta International Tournament,Attard,Malta,TRUE
-1990-02-04,United States,Colombia,1,1,Friendly,Miami,United States,FALSE
+1990-02-04,United States,Colombia,1,1,Miami Cup,Miami,United States,FALSE
 1990-02-05,Thailand,Indonesia,1,1,King's Cup,Bangkok,Thailand,FALSE
 1990-02-05,United Arab Emirates,Denmark,1,1,Friendly,Dubai,United Arab Emirates,FALSE
 1990-02-07,Malta,Norway,1,1,Malta International Tournament,Attard,Malta,FALSE
@@ -16226,14 +16224,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1990-02-15,Kuwait,Finland,0,1,Friendly,Kuwait City,Kuwait,FALSE
 1990-02-17,United Arab Emirates,Sweden,0,2,Friendly,Dubai,United Arab Emirates,FALSE
 1990-02-18,Egypt,South Korea,0,0,Friendly,Cairo,Egypt,FALSE
-1990-02-20,Colombia,Russia,0,0,Friendly,Los Angeles,United States,TRUE
+1990-02-20,Colombia,Russia,0,0,Marlboro Cup,Los Angeles,United States,TRUE
 1990-02-21,Belgium,Sweden,0,0,Friendly,Brussels,Belgium,FALSE
 1990-02-21,Gambia,Guinea-Bissau,0,1,Friendly,Banjul,Gambia,FALSE
 1990-02-21,Kuwait,Bahrain,1,0,Gulf Cup,Kuwait City,Kuwait,FALSE
 1990-02-21,Morocco,Ivory Coast,2,1,Friendly,Rabat,Morocco,FALSE
 1990-02-21,Netherlands,Italy,0,0,Friendly,Rotterdam,Netherlands,FALSE
 1990-02-21,Spain,Czechoslovakia,1,0,Friendly,Alicante,Spain,FALSE
-1990-02-22,Costa Rica,Russia,1,2,Friendly,Los Angeles,United States,TRUE
+1990-02-22,Costa Rica,Russia,1,2,Marlboro Cup,Los Angeles,United States,TRUE
 1990-02-22,Oman,United Arab Emirates,1,1,Gulf Cup,Kuwait City,Kuwait,TRUE
 1990-02-23,Qatar,Bahrain,0,0,Gulf Cup,Kuwait City,Kuwait,TRUE
 1990-02-24,Kuwait,Oman,1,1,Gulf Cup,Kuwait City,Kuwait,FALSE
@@ -16319,11 +16317,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1990-04-29,Suriname,Guyana,5,0,CFU Caribbean Cup qualification,Paramaribo,Suriname,FALSE
 1990-05-01,Guadeloupe,Martinique,1,0,Friendly,Paris,France,TRUE
 1990-05-03,Austria,Argentina,1,1,Friendly,Vienna,Austria,FALSE
-1990-05-04,Colombia,Poland,2,1,Friendly,Chicago,United States,TRUE
+1990-05-04,Colombia,Poland,2,1,Marlboro Cup,Chicago,United States,TRUE
 1990-05-05,Brazil,Bulgaria,2,1,Friendly,Campinas,Brazil,FALSE
 1990-05-05,United States,Malta,1,0,Friendly,Piscataway,United States,FALSE
 1990-05-06,Cayman Islands,Jamaica,1,2,Friendly,George Town,Cayman Islands,FALSE
-1990-05-06,Costa Rica,Poland,0,2,Friendly,Chicago,United States,TRUE
+1990-05-06,Costa Rica,Poland,0,2,Marlboro Cup,Chicago,United States,TRUE
 1990-05-06,Saint Martin,Guadeloupe,2,1,CFU Caribbean Cup qualification,Marigot,Saint Martin,FALSE
 1990-05-08,Switzerland,Argentina,1,1,Friendly,Berne,Switzerland,FALSE
 1990-05-08,Andalusia,Uruguay,1,1,Friendly,Seville,Spain,FALSE
@@ -16651,8 +16649,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1991-01-27,Togo,Nigeria,0,0,African Cup of Nations qualification,Lomé,Togo,FALSE
 1991-01-29,Mexico,Colombia,0,0,Friendly,León,Mexico,FALSE
 1991-01-30,Australia,Czechoslovakia,0,1,Friendly,Melbourne,Australia,FALSE
-1991-02-01,United States,Switzerland,0,1,Friendly,Miami,United States,FALSE
-1991-02-03,Colombia,Switzerland,2,3,Friendly,Miami,United States,TRUE
+1991-02-01,United States,Switzerland,0,1,Miami Cup,Miami,United States,FALSE
+1991-02-03,Colombia,Switzerland,2,3,Miami Cup,Miami,United States,TRUE
 1991-02-05,Northern Ireland,Poland,3,1,Friendly,Belfast,Northern Ireland,FALSE
 1991-02-06,Malaysia,Indonesia,1,2,Merdeka Tournament,Kuala Lumpur,Malaysia,FALSE
 1991-02-06,Australia,Czechoslovakia,0,2,Friendly,Parramatta,Australia,FALSE
@@ -16833,14 +16831,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1991-06-09,South Korea,Indonesia,3,0,Korea Cup,Daejeon,South Korea,FALSE
 1991-06-11,Egypt,Indonesia,6,0,Korea Cup,Seoul,South Korea,TRUE
 1991-06-11,South Korea,Malta,1,1,Korea Cup,Gwangju,South Korea,FALSE
-1991-06-12,Denmark,Italy,0,2,Friendly,Malmö,Sweden,TRUE
+1991-06-12,Denmark,Italy,0,2,Scania 100 Tournament,Malmö,Sweden,TRUE
 1991-06-12,Malaysia,England,2,4,Friendly,Kuala Lumpur,Malaysia,FALSE
 1991-06-12,Peru,Uruguay,1,0,Friendly,Lima,Peru,FALSE
-1991-06-13,Sweden,Russia,2,3,Friendly,Gothenburg,Sweden,FALSE
+1991-06-13,Sweden,Russia,2,3,Scania 100 Tournament,Gothenburg,Sweden,FALSE
 1991-06-14,Bolivia,Paraguay,0,1,Copa Paz del Chaco,Santa Cruz,Bolivia,FALSE
 1991-06-14,South Korea,Australia,0,0,Korea Cup,Seoul,South Korea,FALSE
-1991-06-15,Sweden,Denmark,4,0,Friendly,Norrköping,Sweden,FALSE
-1991-06-16,Italy,Russia,1,1,Friendly,Solna,Sweden,TRUE
+1991-06-15,Sweden,Denmark,4,0,Scania 100 Tournament,Norrköping,Sweden,FALSE
+1991-06-16,Italy,Russia,1,1,Scania 100 Tournament,Solna,Sweden,TRUE
 1991-06-16,South Korea,Egypt,2,0,Korea Cup,Seoul,South Korea,FALSE
 1991-06-16,Paraguay,Bolivia,0,0,Copa Paz del Chaco,Asunción,Paraguay,FALSE
 1991-06-19,Ecuador,Chile,2,1,Friendly,Guayaquil,Ecuador,FALSE
@@ -18507,10 +18505,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1994-02-16,Italy,France,0,1,Friendly,Naples,Italy,FALSE
 1994-02-16,South Korea,Romania,1,2,Friendly,Changwon,South Korea,FALSE
 1994-02-16,Malta,Belgium,1,0,Friendly,Attard,Malta,FALSE
-1994-02-18,Colombia,Sweden,0,0,Friendly,Miami,United States,TRUE
-1994-02-18,United States,Bolivia,1,1,Friendly,Miami,United States,FALSE
-1994-02-20,Bolivia,Colombia,0,2,Friendly,Miami,United States,TRUE
-1994-02-20,United States,Sweden,1,3,Friendly,Miami,United States,FALSE
+1994-02-18,Colombia,Sweden,0,0,Joe Robbie Cup,Miami,United States,TRUE
+1994-02-18,United States,Bolivia,1,1,Joe Robbie Cup,Miami,United States,FALSE
+1994-02-20,Bolivia,Colombia,0,2,Joe Robbie Cup,Miami,United States,TRUE
+1994-02-20,United States,Sweden,1,3,Joe Robbie Cup,Miami,United States,FALSE
 1994-02-23,Dominica,Antigua and Barbuda,3,2,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,TRUE
 1994-02-23,Israel,Georgia,2,0,Friendly,Ashdod,Israel,FALSE
 1994-02-23,Mali,Ghana,0,0,Friendly,Bamako,Mali,FALSE
@@ -18633,14 +18631,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1994-04-30,United States,Chile,0,2,Friendly,Albuquerque,United States,FALSE
 1994-05-01,South Korea,Cameroon,2,2,Friendly,Seoul,South Korea,FALSE
 1994-05-02,Jersey,Guernsey,3,1,Friendly,St. Helier,Jersey,FALSE
-1994-05-03,Colombia,Peru,1,0,Friendly,Miami,United States,TRUE
-1994-05-03,El Salvador,Honduras,3,1,Friendly,Miami,United States,TRUE
+1994-05-03,Colombia,Peru,1,0,Miami Cup,Miami,United States,TRUE
+1994-05-03,El Salvador,Honduras,3,1,Miami Cup,Miami,United States,TRUE
 1994-05-03,South Korea,Cameroon,2,1,Friendly,Changwon,South Korea,FALSE
 1994-05-04,Bolivia,Saudi Arabia,1,0,Friendly,Cannes,France,TRUE
 1994-05-04,Brazil,Iceland,3,0,Friendly,Florianópolis,Brazil,FALSE
 1994-05-04,Poland,Hungary,3,2,Friendly,Kraków,Poland,FALSE
-1994-05-05,Colombia,El Salvador,3,0,Friendly,Miami,United States,TRUE
-1994-05-05,Honduras,Peru,2,1,Friendly,Miami,United States,TRUE
+1994-05-05,Colombia,El Salvador,3,0,Miami Cup,Miami,United States,TRUE
+1994-05-05,Honduras,Peru,2,1,Miami Cup,Miami,United States,TRUE
 1994-05-05,Sweden,Nigeria,3,1,Friendly,Solna,Sweden,FALSE
 1994-05-07,United States,Estonia,4,0,Friendly,Fullerton,United States,FALSE
 1994-05-09,Greece,Cameroon,0,3,Friendly,Piraeus,Greece,FALSE

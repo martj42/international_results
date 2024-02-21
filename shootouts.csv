@@ -33,7 +33,7 @@ date,home_team,away_team,winner,first_shooter
 1979-01-13,Guinea-Bissau,Mali,Mali,
 1979-01-14,Guinea-Bissau,Guinea,Guinea,
 1979-04-29,Cameroon,Guinea,Guinea,
-1979-05-22,Argentina,Netherlands,Argentina,
+1979-05-22,Argentina,Netherlands,Argentina,Argentina
 1980-02-16,Gambia,Mauritania,Gambia,
 1980-03-19,Algeria,Egypt,Algeria,
 1980-06-21,Italy,Czechoslovakia,Czechoslovakia,Italy
@@ -99,7 +99,7 @@ date,home_team,away_team,winner,first_shooter
 1988-01-06,South Korea,Egypt,South Korea,
 1988-03-23,Algeria,Nigeria,Nigeria,
 1988-03-26,Morocco,Algeria,Algeria,
-1988-03-31,Germany,Sweden,Sweden,
+1988-03-31,Germany,Sweden,Sweden,Sweden
 1988-05-05,Mali,Senegal,Mali,
 1988-05-08,Guinea,Mali,Guinea,
 1988-05-28,Canada,Greece,Canada,
@@ -117,8 +117,8 @@ date,home_team,away_team,winner,first_shooter
 1989-12-11,Chad,Cameroon,Cameroon,
 1989-12-16,Malawi,Uganda,Uganda,
 1990-01-28,Nigeria,Senegal,Nigeria,
-1990-02-04,United States,Colombia,Colombia,
-1990-02-20,Colombia,Russia,Colombia,
+1990-02-04,United States,Colombia,Colombia,Colombia
+1990-02-20,Colombia,Russia,Colombia,Colombia
 1990-05-18,Zimbabwe,Eswatini,Zimbabwe,
 1990-06-25,Republic of Ireland,Romania,Republic of Ireland,Romania
 1990-06-30,Yugoslavia,Argentina,Argentina,Argentina
@@ -132,8 +132,8 @@ date,home_team,away_team,winner,first_shooter
 1991-01-22,Senegal,Algeria,Senegal,
 1991-01-23,Ivory Coast,Cameroon,Ivory Coast,
 1991-06-14,South Korea,Australia,South Korea,
-1991-06-16,Italy,Russia,Italy,
-1991-07-07,United States,Honduras,United States,
+1991-06-16,Italy,Russia,Italy,Russia
+1991-07-07,United States,Honduras,United States,United States
 1991-08-08,Czechoslovakia,Yugoslavia,Czechoslovakia,
 1991-09-20,Fiji,Solomon Islands,Fiji,
 1991-09-28,Egypt,Mali,Egypt,
@@ -162,7 +162,7 @@ date,home_team,away_team,winner,first_shooter
 1994-07-10,Romania,Sweden,Sweden,Sweden
 1994-07-17,Brazil,Italy,Brazil,Italy
 1994-12-08,Tanzania,Uganda,Tanzania,
-1995-01-10,Denmark,Mexico,Denmark,
+1995-01-10,Denmark,Mexico,Denmark,Denmark
 1995-01-13,Mexico,Nigeria,Mexico,
 1995-02-26,Japan,South Korea,Japan,
 1995-03-31,India,Bangladesh,India,
@@ -208,8 +208,8 @@ date,home_team,away_team,winner,first_shooter
 1998-02-21,Ivory Coast,Egypt,Egypt,
 1998-02-27,Burkina Faso,DR Congo,DR Congo,
 1998-04-22,Hungary,North Macedonia,Hungary,
-1998-05-29,Belgium,England,Belgium,
-1998-05-29,Morocco,France,Morocco,
+1998-05-29,Belgium,England,Belgium,Belgium
+1998-05-29,Morocco,France,Morocco,Morocco
 1998-06-30,Argentina,England,Argentina,Argentina
 1998-07-03,France,Italy,France,France
 1998-07-07,Brazil,Netherlands,Brazil,Brazil
@@ -233,7 +233,7 @@ date,home_team,away_team,winner,first_shooter
 2000-02-04,Romania,Georgia,Romania,
 2000-02-12,South Africa,Tunisia,South Africa,
 2000-02-13,Nigeria,Cameroon,Cameroon,Nigeria
-2000-02-19,United States,Colombia,Colombia,
+2000-02-19,United States,Colombia,Colombia,United States
 2000-03-19,Suriname,Saint Lucia,Suriname,
 2000-04-29,British Virgin Islands,Sint Maarten,British Virgin Islands,
 2000-04-30,British Virgin Islands,Antigua and Barbuda,Antigua and Barbuda,
@@ -241,7 +241,7 @@ date,home_team,away_team,winner,first_shooter
 2000-05-11,Senegal,Mali,Senegal,
 2000-05-20,Malawi,Angola,Angola,
 2000-05-21,Barbados,Cuba,Barbados,
-2000-06-04,France,Japan,France,
+2000-06-04,France,Japan,France,France
 2000-06-07,Iran,Egypt,Egypt,
 2000-06-11,Lesotho,Zambia,Lesotho,
 2000-06-29,Netherlands,Italy,Italy,Italy
@@ -265,9 +265,9 @@ date,home_team,away_team,winner,first_shooter
 2001-10-24,Tanzania,DR Congo,Tanzania,
 2001-12-18,Ethiopia,Burundi,Ethiopia,
 2002-01-06,Martinique,Haiti,Martinique,
-2002-01-26,Canada,Martinique,Canada,
-2002-01-27,Mexico,South Korea,South Korea,
-2002-01-30,United States,Canada,United States,
+2002-01-26,Canada,Martinique,Canada,Canada
+2002-01-27,Mexico,South Korea,South Korea,South Korea
+2002-01-30,United States,Canada,United States,United States
 2002-02-10,Senegal,Cameroon,Cameroon,Cameroon
 2002-02-12,Cyprus,Switzerland,Cyprus,
 2002-02-15,China PR,Slovenia,Slovenia,
@@ -328,9 +328,9 @@ date,home_team,away_team,winner,first_shooter
 2005-02-09,Austria,Latvia,Latvia,
 2005-02-27,Costa Rica,Honduras,Costa Rica,
 2005-04-16,Namibia,Botswana,Botswana,
-2005-06-26,Mexico,Argentina,Argentina,
-2005-07-21,Colombia,Panama,Panama,
-2005-07-24,United States,Panama,United States,United States
+2005-06-26,Mexico,Argentina,Argentina,Mexico
+2005-07-17,South Africa,Panama,Panama,Panama
+2005-07-24,United States,Panama,United States,Panama
 2005-07-28,Kuwait,United Arab Emirates,United Arab Emirates,
 2005-07-30,Egypt,United Arab Emirates,Egypt,
 2005-08-13,South Africa,Zambia,Zambia,
@@ -366,7 +366,7 @@ date,home_team,away_team,winner,first_shooter
 2008-06-22,Spain,Italy,Spain,Spain
 2008-07-27,Zambia,Zimbabwe,Zambia,
 2009-06-26,Provence,Sápmi,Sápmi,
-2009-07-23,Costa Rica,Mexico,Mexico,
+2009-07-23,Costa Rica,Mexico,Mexico,Mexico
 2009-10-28,Zimbabwe,South Africa,Zimbabwe,
 2010-01-25,Zambia,Nigeria,Nigeria,
 2010-06-29,Paraguay,Japan,Paraguay,Paraguay
@@ -375,8 +375,8 @@ date,home_team,away_team,winner,first_shooter
 2011-02-08,Romania,Ukraine,Ukraine,
 2011-02-09,Sweden,Ukraine,Ukraine,
 2011-06-08,Uruguay,Netherlands,Uruguay,
-2011-06-18,Costa Rica,Honduras,Honduras,
-2011-06-19,Panama,El Salvador,Panama,
+2011-06-18,Costa Rica,Honduras,Honduras,Costa Rica
+2011-06-19,Panama,El Salvador,Panama,Panama
 2011-06-29,Saare County,Åland Islands,Åland Islands,
 2011-06-30,Isle of Man,Menorca,Menorca,
 2011-07-12,Saint Lucia,Aruba,Saint Lucia,
@@ -385,22 +385,22 @@ date,home_team,away_team,winner,first_shooter
 2011-07-20,Paraguay,Venezuela,Paraguay,Paraguay
 2012-02-05,Gabon,Mali,Mali,
 2012-02-12,Zambia,Ivory Coast,Zambia,
-2012-06-03,Finland,Latvia,Latvia,
+2012-06-03,Finland,Latvia,Latvia,Finland
 2012-06-17,Mozambique,Tanzania,Mozambique,
 2012-06-24,England,Italy,Italy,Italy
 2012-06-27,Portugal,Spain,Spain,Spain
 2012-09-02,India,Cameroon,India,
 2012-10-13,Uganda,Zambia,Zambia,
-2012-11-21,Argentina,Brazil,Brazil,
+2012-11-21,Argentina,Brazil,Brazil,Argentina
 2013-01-23,Sweden,North Korea,Sweden,
 2013-02-02,South Africa,Mali,Mali,
 2013-02-06,Burkina Faso,Ghana,Burkina Faso,
-2013-06-27,Spain,Italy,Spain,
-2013-06-30,Uruguay,Italy,Italy,
+2013-06-27,Spain,Italy,Spain,Italy
+2013-06-30,Uruguay,Italy,Italy,Uruguay
 2013-07-13,Zimbabwe,Malawi,Zimbabwe,
 2013-07-14,Angola,Lesotho,Lesotho,
 2013-07-17,Zambia,South Africa,Zambia,
-2014-05-29,Latvia,Estonia,Latvia,
+2014-05-29,Latvia,Estonia,Latvia,Estonia
 2014-06-04,Abkhazia,South Ossetia,South Ossetia,
 2014-06-04,Ellan Vannin,Iraqi Kurdistan,Ellan Vannin,
 2014-06-05,Padania,Abkhazia,Padania,
@@ -414,7 +414,7 @@ date,home_team,away_team,winner,first_shooter
 2015-01-23,Iran,Iraq,Iraq,
 2015-01-23,Japan,United Arab Emirates,United Arab Emirates,
 2015-01-30,Curaçao,Aruba,Aruba,
-2015-02-07,Equatorial Guinea,DR Congo,DR Congo,
+2015-02-07,Equatorial Guinea,DR Congo,DR Congo,Equatorial Guinea
 2015-02-08,Ivory Coast,Ghana,Ivory Coast,Ghana
 2015-05-24,Zambia,Namibia,Namibia,
 2015-05-24,South Africa,Botswana,Botswana,
@@ -425,11 +425,9 @@ date,home_team,away_team,winner,first_shooter
 2015-06-27,Brazil,Paraguay,Paraguay,Brazil
 2015-07-02,Gibraltar,Åland Islands,Åland Islands,
 2015-07-04,Chile,Argentina,Chile,Chile
-2015-07-04,Zambia,Namibia,Zambia,
-2015-07-19,Trinidad and Tobago,Panama,Panama,
-2015-07-25,United States,Panama,Panama,
+2015-07-19,Trinidad and Tobago,Panama,Panama,Panama
+2015-07-25,United States,Panama,Panama,United States
 2015-10-13,El Salvador,Guatemala,Guatemala,
-2016-02-03,DR Congo,Guinea,DR Congo,
 2016-05-27,Corsica,Basque Country,Basque Country,
 2016-06-01,United Koreans in Japan,Northern Cyprus,Northern Cyprus,
 2016-06-02,Iraqi Kurdistan,Padania,Padania,
@@ -452,12 +450,12 @@ date,home_team,away_team,winner,first_shooter
 2016-07-02,Germany,Italy,Germany,Italy
 2017-01-11,Chile,Croatia,Chile,
 2017-01-14,China PR,Croatia,China PR,
-2017-01-28,Senegal,Cameroon,Cameroon,
-2017-02-01,Burkina Faso,Egypt,Egypt,
+2017-01-28,Senegal,Cameroon,Cameroon,Senegal
+2017-02-01,Burkina Faso,Egypt,Egypt,Egypt
 2017-06-09,Kárpátalja,Ellan Vannin,Kárpátalja,
 2017-06-09,Padania,Abkhazia,Padania,
 2017-06-10,Northern Cyprus,Padania,Padania,
-2017-06-28,Portugal,Chile,Chile,
+2017-06-28,Portugal,Chile,Chile,Chile
 2017-06-29,Hitra,Western Isles,Western Isles,
 2017-06-29,Greenland,Menorca,Greenland,
 2017-07-01,Namibia,Lesotho,Lesotho,
@@ -482,7 +480,7 @@ date,home_team,away_team,winner,first_shooter
 2018-07-03,Colombia,England,England,Colombia
 2018-07-07,Russia,Croatia,Croatia,Russia
 2019-01-20,Jordan,Vietnam,Vietnam,
-2019-01-21,Australia,Uzbekistan,Australia,
+2019-01-21,Australia,Uzbekistan,Australia,Australia
 2019-03-23,Oman,Singapore,Oman,
 2019-06-01,Lesotho,Uganda,Lesotho,
 2019-06-02,South Africa,Botswana,Botswana,
@@ -494,76 +492,76 @@ date,home_team,away_team,winner,first_shooter
 2019-06-07,Lesotho,Zimbabwe,Zimbabwe,
 2019-06-07,South Africa,Malawi,South Africa,
 2019-06-08,Abkhazia,Chameria,Abkhazia,
-2019-06-09,Switzerland,England,England,
+2019-06-09,Switzerland,England,England,England
 2019-06-27,Brazil,Paraguay,Brazil,Paraguay
 2019-06-28,Colombia,Chile,Chile,Colombia
-2019-06-29,Mexico,Costa Rica,Mexico,
+2019-06-29,Mexico,Costa Rica,Mexico,Mexico
 2019-06-29,Uruguay,Peru,Peru,Uruguay
-2019-07-05,Morocco,Benin,Benin,
-2019-07-07,Madagascar,DR Congo,Madagascar,
-2019-07-08,Ghana,Tunisia,Tunisia,
-2019-07-11,Ivory Coast,Algeria,Algeria,
-2019-09-08,Tanzania,Burundi,Tanzania,
+2019-07-05,Morocco,Benin,Benin,Benin
+2019-07-07,Madagascar,DR Congo,Madagascar,Madagascar
+2019-07-08,Ghana,Tunisia,Tunisia,Ghana
+2019-07-11,Ivory Coast,Algeria,Algeria,Algeria
+2019-09-08,Tanzania,Burundi,Tanzania,Tanzania
 2019-10-13,Chad,Liberia,Chad,
 2019-10-13,Gambia,Djibouti,Gambia,
-2020-10-08,Bosnia and Herzegovina,Northern Ireland,Northern Ireland,
-2020-10-08,Slovakia,Republic of Ireland,Slovakia,
-2020-10-08,Scotland,Israel,Scotland,
-2020-11-12,Serbia,Scotland,Scotland,
-2021-06-03,Mexico,Costa Rica,Mexico,
-2021-06-06,Honduras,Costa Rica,Honduras,
+2020-10-08,Bosnia and Herzegovina,Northern Ireland,Northern Ireland,Bosnia and Herzegovina
+2020-10-08,Slovakia,Republic of Ireland,Slovakia,Slovakia
+2020-10-08,Scotland,Israel,Scotland,Scotland
+2020-11-12,Serbia,Scotland,Scotland,Scotland
+2021-06-03,Mexico,Costa Rica,Mexico,Mexico
+2021-06-06,Honduras,Costa Rica,Honduras,Costa Rica
 2021-06-28,France,Switzerland,Switzerland,Switzerland
 2021-07-02,Peru,Paraguay,Peru,Paraguay
 2021-07-02,Switzerland,Spain,Spain,Spain
 2021-07-03,Uruguay,Colombia,Colombia,Colombia
 2021-07-06,Italy,Spain,Italy,Italy
-2021-07-06,Trinidad and Tobago,French Guiana,Trinidad and Tobago,
+2021-07-06,Trinidad and Tobago,French Guiana,Trinidad and Tobago,French Guiana
 2021-07-06,Argentina,Colombia,Argentina,Colombia
-2021-07-06,Guatemala,Guadeloupe,Guadeloupe,
+2021-07-06,Guatemala,Guadeloupe,Guadeloupe,Guatemala
 2021-07-11,England,Italy,Italy,Italy
-2021-07-16,Senegal,Eswatini,Senegal,
-2021-07-18,Eswatini,Mozambique,Eswatini,
-2021-07-18,South Africa,Senegal,South Africa,
+2021-07-16,Senegal,Eswatini,Senegal,Eswatini
+2021-07-18,Eswatini,Mozambique,Eswatini,Mozambique
+2021-07-18,South Africa,Senegal,South Africa,South Africa
 2021-11-19,Sri Lanka,Seychelles,Seychelles,
-2021-12-11,Morocco,Algeria,Algeria,
-2021-12-18,Qatar,Egypt,Qatar,
-2022-01-23,Burkina Faso,Gabon,Burkina Faso,
-2022-01-26,Ivory Coast,Egypt,Egypt,
-2022-01-26,Mali,Equatorial Guinea,Equatorial Guinea,
-2022-02-03,Cameroon,Egypt,Egypt,
-2022-02-05,Cameroon,Burkina Faso,Cameroon,
+2021-12-11,Morocco,Algeria,Algeria,Algeria
+2021-12-18,Qatar,Egypt,Qatar,Qatar
+2022-01-23,Burkina Faso,Gabon,Burkina Faso,Gabon
+2022-01-26,Ivory Coast,Egypt,Egypt,Ivory Coast
+2022-01-26,Mali,Equatorial Guinea,Equatorial Guinea,Equatorial Guinea
+2022-02-03,Cameroon,Egypt,Egypt,Cameroon
+2022-02-05,Cameroon,Burkina Faso,Cameroon,Cameroon
 2022-02-06,Senegal,Egypt,Senegal,Senegal
 2022-03-25,Tajikistan,Uganda,Uganda,
-2022-03-29,Kazakhstan,Moldova,Kazakhstan,
-2022-03-29,Senegal,Egypt,Senegal,
-2022-06-13,Australia,Peru,Australia,
-2022-06-14,Chile,Ghana,Ghana,
+2022-03-29,Kazakhstan,Moldova,Kazakhstan,Moldova
+2022-03-29,Senegal,Egypt,Senegal,Senegal
+2022-06-13,Australia,Peru,Australia,Australia
+2022-06-14,Chile,Ghana,Ghana,Chile
 2022-09-22,Thailand,Malaysia,Malaysia,
 2022-09-23,Iraq,Oman,Oman,
 2022-09-25,Malaysia,Tajikistan,Tajikistan,
-2022-11-16,Lithuania,Iceland,Iceland,
-2022-11-16,Latvia,Estonia,Latvia,
-2022-11-19,Latvia,Iceland,Iceland,
+2022-11-16,Lithuania,Iceland,Iceland,Lithuania
+2022-11-16,Latvia,Estonia,Latvia,Latvia
+2022-11-19,Latvia,Iceland,Iceland,Iceland
 2022-12-05,Japan,Croatia,Croatia,Japan
 2022-12-06,Morocco,Spain,Morocco,Morocco
 2022-12-09,Croatia,Brazil,Croatia,Croatia
 2022-12-09,Netherlands,Argentina,Argentina,Netherlands
 2022-12-18,Argentina,France,Argentina,France
-2023-06-16,Curaçao,Saint Kitts and Nevis,Saint Kitts and Nevis,
-2023-06-17,Guyana,Grenada,Guyana,
-2023-06-17,Suriname,Puerto Rico,Puerto Rico,
-2023-06-18,Croatia,Spain,Spain,
-2023-06-20,Saint Kitts and Nevis,French Guiana,Saint Kitts and Nevis,
-2023-07-01,India,Lebanon,India,
-2023-07-04,India,Kuwait,India,
-2023-07-09,United States,Canada,United States,
+2023-06-16,Curaçao,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis
+2023-06-17,Guyana,Grenada,Guyana,Guyana
+2023-06-17,Suriname,Puerto Rico,Puerto Rico,Suriname
+2023-06-18,Croatia,Spain,Spain,Croatia
+2023-06-20,Saint Kitts and Nevis,French Guiana,Saint Kitts and Nevis,French Guiana
+2023-07-01,India,Lebanon,India,India
+2023-07-04,India,Kuwait,India,India
+2023-07-09,United States,Canada,United States,Canada
 2023-07-09,Orkney,Greenland,Greenland,
-2023-07-13,Åland,Falkland Islands,Åland,
-2023-07-12,United States,Panama,Panama,
-2023-09-07,Iraq,India,Iraq,
-2023-09-10,Thailand,Iraq,Iraq,
-2023-10-13,Iraq,Qatar,Qatar,
-2023-11-21,Mexico,Honduras,Mexico,
+2023-07-13,Åland,Falkland Islands,Åland,Åland
+2023-07-12,United States,Panama,Panama,United States
+2023-09-07,Iraq,India,Iraq,India
+2023-09-10,Thailand,Iraq,Iraq,Thailand
+2023-10-13,Iraq,Qatar,Qatar,Qatar
+2023-11-21,Mexico,Honduras,Mexico,Mexico
 2024-01-28,Egypt,DR Congo,DR Congo,Egypt
 2024-01-28,Tajikistan,United Arab Emirates,Tajikistan,Tajikistan
 2024-01-29,Ivory Coast,Senegal,Ivory Coast,Senegal
