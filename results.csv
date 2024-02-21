@@ -805,9 +805,33 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1924-05-21,Austria,Bulgaria,6,0,Friendly,Vienna,Austria,FALSE
 1924-05-25,Argentina,Uruguay,4,0,Copa Newton,Buenos Aires,Argentina,FALSE
 1924-05-25,Uruguay,Argentina,2,0,Copa Lipton,Montevideo,Uruguay,FALSE
+1924-05-25,Italy,Spain,1,0,Olympic Games,Colombes,France,TRUE
+1924-05-25,Czechoslovakia,Turkey,5,2,Olympic Games,Paris,France,TRUE
+1924-05-25,Switzerland,Lithuania,9,0,Olympic Games,Vincennes,France,TRUE
+1924-05-25,United States,Estonia,1,0,Olympic Games,Vincennes,France,TRUE
+1924-05-26,Uruguay,Yugoslavia,7,0,Olympic Games,Colombes,France,TRUE
+1924-05-26,Hungary,Poland,5,0,Olympic Games,Paris,France,TRUE
 1924-05-27,Egypt,Lithuania,10,0,Friendly,Vincennes,France,TRUE
+1924-05-27,France,Latvia,7,0,Olympic Games,Paris,France,FALSE
+1924-05-27,Netherlands,Romania,6,0,Olympic Games,Colombes,France,TRUE
+1924-05-28,Switzerland,Czechoslovakia,1,1,Olympic Games,Paris,France,TRUE
+1924-05-28,Republic of Ireland,Bulgaria,1,0,Olympic Games,Colombes,France,TRUE
+1924-05-29,Italy,Luxembourg,2,0,Olympic Games,Paris,France,TRUE
+1924-05-29,Sweden,Belgium,8,1,Olympic Games,Colombes,France,TRUE
+1924-05-29,Egypt,Hungary,3,0,Olympic Games,Paris,France,TRUE
+1924-05-29,Uruguay,United States,3,0,Olympic Games,Paris,France,TRUE
+1924-05-30,Switzerland,Czechoslovakia,1,0,Olympic Games,Paris,France,TRUE
+1924-06-01,France,Uruguay,1,5,Olympic Games,Colombes,France,FALSE
+1924-06-01,Sweden,Egypt,5,0,Olympic Games,Paris,France,TRUE
+1924-06-02,Switzerland,Italy,2,1,Olympic Games,Paris,France,TRUE
+1924-06-02,Netherlands,Republic of Ireland,2,1,Olympic Games,Paris,France,TRUE
 1924-06-04,France,Hungary,0,1,Friendly,Le Havre,France,FALSE
+1924-06-05,Switzerland,Sweden,2,1,Olympic Games,Colombes,France,TRUE
+1924-06-06,Uruguay,Netherlands,2,1,Olympic Games,Colombes,France,TRUE
 1924-06-07,Australia,Canada,3,2,Friendly,Brisbane,Australia,FALSE
+1924-06-08,Sweden,Netherlands,1,1,Olympic Games,Colombes,France,TRUE
+1924-06-09,Sweden,Netherlands,3,1,Olympic Games,Colombes,France,TRUE
+1924-06-09,Uruguay,Switzerland,3,0,Olympic Games,Colombes,France,TRUE
 1924-06-10,Poland,United States,2,3,Friendly,Warsaw,Poland,FALSE
 1924-06-14,Australia,Canada,0,1,Friendly,Sydney,Australia,FALSE
 1924-06-15,Denmark,Sweden,2,3,Nordic Championship,Copenhagen,Denmark,FALSE
@@ -1137,9 +1161,31 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1928-05-13,France,Czechoslovakia,0,2,Friendly,Colombes,France,FALSE
 1928-05-17,France,England,1,5,Friendly,Colombes,France,FALSE
 1928-05-19,Belgium,England,1,3,Friendly,Antwerp,Belgium,FALSE
+1928-05-27,Portugal,Chile,4,2,Olympic Games,Amsterdam,Netherlands,TRUE
+1928-05-27,Belgium,Luxembourg,5,3,Olympic Games,Amsterdam,Netherlands,TRUE
+1928-05-28,Germany,Switzerland,4,0,Olympic Games,Amsterdam,Netherlands,TRUE
+1928-05-28,Egypt,Turkey,7,1,Olympic Games,Amsterdam,Netherlands,TRUE
+1928-05-29,Italy,France,4,3,Olympic Games,Amsterdam,Netherlands,TRUE
+1928-05-29,Portugal,Yugoslavia,2,1,Olympic Games,Amsterdam,Netherlands,TRUE
+1928-05-29,Argentina,United States,11,2,Olympic Games,Amsterdam,Netherlands,TRUE
+1928-05-30,Spain,Mexico,7,1,Olympic Games,Amsterdam,Netherlands,TRUE
+1928-05-30,Netherlands,Uruguay,0,2,Olympic Games,Amsterdam,Netherlands,FALSE
+1928-06-01,Italy,Spain,1,1,Olympic Games,Amsterdam,Netherlands,TRUE
+1928-06-02,Argentina,Belgium,6,3,Olympic Games,Amsterdam,Netherlands,TRUE
 1928-06-03,Finland,Norway,0,6,Friendly,Helsinki,Finland,FALSE
+1928-06-03,Uruguay,Germany,4,1,Olympic Games,Amsterdam,Netherlands,TRUE
+1928-06-04,Italy,Spain,7,1,Olympic Games,Amsterdam,Netherlands,TRUE
+1928-06-04,Egypt,Portugal,2,1,Olympic Games,Amsterdam,Netherlands,TRUE
+1928-06-05,Netherlands,Belgium,3,1,Olympic Games,Rotterdam,Netherlands,FALSE
+1928-06-05,Chile,Mexico,3,1,Olympic Games,Arnhem,Netherlands,TRUE
+1928-06-06,Argentina,Egypt,6,0,Olympic Games,Amsterdam,Netherlands,TRUE
 1928-06-07,Sweden,Norway,6,1,Nordic Championship,Stockholm,Sweden,FALSE
+1928-06-07,Uruguay,Italy,3,2,Olympic Games,Amsterdam,Netherlands,TRUE
+1928-06-08,Netherlands,Chile,2,2,Olympic Games,Rotterdam,Netherlands,FALSE
+1928-06-09,Italy,Egypt,11,3,Olympic Games,Amsterdam,Netherlands,TRUE
 1928-06-10,Poland,United States,3,3,Friendly,Warsaw,Poland,FALSE
+1928-06-10,Uruguay,Argentina,1,1,Olympic Games,Amsterdam,Netherlands,TRUE
+1928-06-13,Uruguay,Argentina,2,1,Olympic Games,Amsterdam,Netherlands,TRUE
 1928-06-14,Netherlands,Egypt,1,2,Friendly,Rotterdam,Netherlands,FALSE
 1928-06-17,Norway,Denmark,2,3,Nordic Championship,Oslo,Norway,FALSE
 1928-06-28,Luxembourg,Egypt,1,1,Friendly,Esch-sur-Alzette,Luxembourg,FALSE
@@ -17789,11 +17835,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1993-02-18,Argentina,Brazil,1,1,Friendly,Buenos Aires,Argentina,FALSE
 1993-02-18,United Arab Emirates,Bulgaria,1,0,Friendly,Dubai,United Arab Emirates,FALSE
 1993-02-19,Costa Rica,Nicaragua,2,0,UNCAF Cup,San José,Costa Rica,FALSE
-1993-02-20,Finland,Estonia,0,0,Friendly,Vantaa,Finland,FALSE
-1993-02-20,Latvia,Lithuania,1,2,Friendly,Vantaa,Finland,TRUE
+1993-02-20,Finland,Estonia,0,0,Four Nations Tournament,Vantaa,Finland,FALSE
+1993-02-20,Latvia,Lithuania,1,2,Four Nations Tournament,Vantaa,Finland,TRUE
 1993-02-20,United Arab Emirates,Bulgaria,1,3,Friendly,Dubai,United Arab Emirates,FALSE
-1993-02-21,Estonia,Latvia,0,2,Friendly,Vantaa,Finland,TRUE
-1993-02-21,Finland,Lithuania,3,0,Friendly,Vantaa,Finland,FALSE
+1993-02-21,Estonia,Latvia,0,2,Four Nations Tournament,Vantaa,Finland,TRUE
+1993-02-21,Finland,Lithuania,3,0,Four Nations Tournament,Vantaa,Finland,FALSE
 1993-02-21,United States,Russia,0,0,Friendly,Palo Alto,United States,FALSE
 1993-02-24,Argentina,Denmark,1,1,CONMEBOL–UEFA Cup of Champions,Mar del Plata,Argentina,FALSE
 1993-02-24,Kuwait,China PR,1,0,Friendly,Kuwait City,Kuwait,FALSE

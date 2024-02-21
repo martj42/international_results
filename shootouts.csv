@@ -154,7 +154,7 @@ date,home_team,away_team,winner,first_shooter
 1993-06-26,Colombia,Uruguay,Colombia,Colombia
 1993-06-27,Brazil,Argentina,Argentina,Brazil
 1993-07-01,Colombia,Argentina,Argentina,Colombia
-1993-08-15,Australia,Canada,Australia,
+1993-08-15,Australia,Canada,Australia,Australia
 1993-10-24,Burundi,Guinea,Guinea,
 1994-01-29,Burkina Faso,Guinea,Burkina Faso,
 1994-04-06,Nigeria,Ivory Coast,Nigeria,
@@ -191,9 +191,9 @@ date,home_team,away_team,winner,first_shooter
 1996-11-29,Sudan,Kenya,Sudan,
 1996-12-11,Morocco,Croatia,Croatia,
 1996-12-12,Croatia,Czech Republic,Croatia,
-1996-12-19,Iran,Saudi Arabia,Saudi Arabia,
-1996-12-21,Iran,Kuwait,Iran,
-1996-12-21,United Arab Emirates,Saudi Arabia,Saudi Arabia,
+1996-12-19,Iran,Saudi Arabia,Saudi Arabia,Iran
+1996-12-21,Iran,Kuwait,Iran,Kuwait
+1996-12-21,United Arab Emirates,Saudi Arabia,Saudi Arabia,Saudi Arabia
 1996-12-27,Benin,Burkina Faso,Benin,
 1997-02-07,Russia,Serbia,Russia,
 1997-04-10,India,Iraq,Iraq,
@@ -289,7 +289,7 @@ date,home_team,away_team,winner,first_shooter
 2002-12-27,Niger,Burkina Faso,Burkina Faso,
 2002-12-29,Niger,Mali,Niger,
 2003-01-20,Bangladesh,Maldives,Bangladesh,
-2003-02-04,Uruguay,Iran,Uruguay,
+2003-02-04,Uruguay,Iran,Uruguay,Iran
 2003-03-07,Benin,Niger,Benin,
 2003-03-15,Guadeloupe,French Guiana,Guadeloupe,
 2003-03-22,Mozambique,Lesotho,Mozambique,
@@ -311,9 +311,9 @@ date,home_team,away_team,winner,first_shooter
 2004-07-18,Angola,Botswana,Angola,
 2004-07-21,Uruguay,Brazil,Brazil,Brazil
 2004-07-25,Argentina,Brazil,Brazil,Argentina
-2004-07-30,Uzbekistan,Bahrain,Bahrain,
-2004-07-31,Japan,Jordan,Japan,
-2004-08-03,China PR,Iran,China PR,
+2004-07-30,Uzbekistan,Bahrain,Bahrain,Bahrain
+2004-07-31,Japan,Jordan,Japan,Japan
+2004-08-03,China PR,Iran,China PR,China PR
 2004-10-22,Nigeria,Ecuador,Ecuador,
 2004-10-24,Zimbabwe,Zambia,Zambia,
 2004-11-20,Zambia,Angola,Angola,
@@ -335,7 +335,7 @@ date,home_team,away_team,winner,first_shooter
 2005-07-30,Egypt,United Arab Emirates,Egypt,
 2005-08-13,South Africa,Zambia,Zambia,
 2005-08-15,Ukraine,Israel,Israel,
-2005-11-16,Australia,Uruguay,Australia,
+2005-11-16,Australia,Uruguay,Australia,Australia
 2005-12-10,Syria,Iraq,Iraq,
 2005-12-10,Zanzibar,Uganda,Zanzibar,
 2006-02-04,Nigeria,Tunisia,Nigeria,
@@ -356,10 +356,10 @@ date,home_team,away_team,winner,first_shooter
 2007-05-26,Malawi,South Africa,South Africa,
 2007-05-26,Eswatini,Mauritius,Mauritius,
 2007-07-10,Uruguay,Brazil,Brazil,Brazil
-2007-07-21,Japan,Australia,Japan,
-2007-07-22,Iran,South Korea,South Korea,
-2007-07-25,Iraq,South Korea,Iraq,
-2007-07-28,South Korea,Japan,South Korea,
+2007-07-21,Japan,Australia,Japan,Australia
+2007-07-22,Iran,South Korea,South Korea,South Korea
+2007-07-25,Iraq,South Korea,Iraq,South Korea
+2007-07-28,South Korea,Japan,South Korea,South Korea
 2007-07-29,Botswana,Angola,Botswana,
 2007-10-24,South Africa,Zambia,South Africa,
 2008-06-20,Croatia,Turkey,Turkey,Croatia
@@ -371,10 +371,10 @@ date,home_team,away_team,winner,first_shooter
 2010-01-25,Zambia,Nigeria,Nigeria,
 2010-06-29,Paraguay,Japan,Paraguay,Paraguay
 2010-07-02,Uruguay,Ghana,Uruguay,Uruguay
-2011-01-25,Japan,South Korea,Japan,
+2011-01-25,Japan,South Korea,Japan,Japan
 2011-02-08,Romania,Ukraine,Ukraine,
 2011-02-09,Sweden,Ukraine,Ukraine,
-2011-06-08,Uruguay,Netherlands,Uruguay,
+2011-06-08,Uruguay,Netherlands,Uruguay,Netherlands
 2011-06-18,Costa Rica,Honduras,Honduras,Costa Rica
 2011-06-19,Panama,El Salvador,Panama,Panama
 2011-06-29,Saare County,Åland Islands,Åland Islands,
@@ -383,8 +383,8 @@ date,home_team,away_team,winner,first_shooter
 2011-07-16,Argentina,Uruguay,Uruguay,Argentina
 2011-07-17,Brazil,Paraguay,Paraguay,Brazil
 2011-07-20,Paraguay,Venezuela,Paraguay,Paraguay
-2012-02-05,Gabon,Mali,Mali,
-2012-02-12,Zambia,Ivory Coast,Zambia,
+2012-02-05,Gabon,Mali,Mali,Gabon
+2012-02-12,Zambia,Ivory Coast,Zambia,Ivory Coast
 2012-06-03,Finland,Latvia,Latvia,Finland
 2012-06-17,Mozambique,Tanzania,Mozambique,
 2012-06-24,England,Italy,Italy,Italy
@@ -393,8 +393,8 @@ date,home_team,away_team,winner,first_shooter
 2012-10-13,Uganda,Zambia,Zambia,
 2012-11-21,Argentina,Brazil,Brazil,Argentina
 2013-01-23,Sweden,North Korea,Sweden,
-2013-02-02,South Africa,Mali,Mali,
-2013-02-06,Burkina Faso,Ghana,Burkina Faso,
+2013-02-02,South Africa,Mali,Mali,South Africa
+2013-02-06,Burkina Faso,Ghana,Burkina Faso,Ghana
 2013-06-27,Spain,Italy,Spain,Italy
 2013-06-30,Uruguay,Italy,Italy,Uruguay
 2013-07-13,Zimbabwe,Malawi,Zimbabwe,
@@ -411,8 +411,8 @@ date,home_team,away_team,winner,first_shooter
 2014-06-29,Costa Rica,Greece,Costa Rica,Costa Rica
 2014-07-05,Netherlands,Costa Rica,Netherlands,Costa Rica
 2014-07-09,Netherlands,Argentina,Argentina,Netherlands
-2015-01-23,Iran,Iraq,Iraq,
-2015-01-23,Japan,United Arab Emirates,United Arab Emirates,
+2015-01-23,Iran,Iraq,Iraq,Iran
+2015-01-23,Japan,United Arab Emirates,United Arab Emirates,Japan
 2015-01-30,Curaçao,Aruba,Aruba,
 2015-02-07,Equatorial Guinea,DR Congo,DR Congo,Equatorial Guinea
 2015-02-08,Ivory Coast,Ghana,Ivory Coast,Ghana
@@ -436,7 +436,7 @@ date,home_team,away_team,winner,first_shooter
 2016-06-03,Vietnam,Hong Kong,Vietnam,
 2016-06-03,Iraqi Kurdistan,Western Armenia,Western Armenia,
 2016-06-03,Chagos Islands,Raetia,Raetia,
-2016-06-04,United Koreans in Japan,Iraqi Kurdistan,United Koreans in Japan,
+2016-06-04,United Koreans in Japan,Iraqi Kurdistan,United Koreans in Japan,United Koreans in Japan
 2016-06-05,Abkhazia,Panjab,Abkhazia,
 2016-06-11,Papua New Guinea,New Zealand,New Zealand,New Zealand
 2016-06-17,Peru,Colombia,Colombia,Colombia
@@ -479,7 +479,7 @@ date,home_team,away_team,winner,first_shooter
 2018-07-01,Croatia,Denmark,Croatia,Denmark
 2018-07-03,Colombia,England,England,Colombia
 2018-07-07,Russia,Croatia,Croatia,Russia
-2019-01-20,Jordan,Vietnam,Vietnam,
+2019-01-20,Jordan,Vietnam,Vietnam,Vietnam
 2019-01-21,Australia,Uzbekistan,Australia,Australia
 2019-03-23,Oman,Singapore,Oman,
 2019-06-01,Lesotho,Uganda,Lesotho,
