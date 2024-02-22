@@ -3865,6 +3865,17 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1963-03-21,Bolivia,Peru,Bolivia,Máximo Alcócer,49,FALSE,FALSE
 1963-03-21,Bolivia,Peru,Bolivia,Ausberto García,57,FALSE,FALSE
 1963-03-21,Bolivia,Peru,Peru,Pedro Pablo León,80,FALSE,FALSE
+1963-03-23,El Salvador,Nicaragua,El Salvador,"Eduardo ""Volkswagen"" Hernández",4,FALSE,FALSE
+1963-03-23,El Salvador,Nicaragua,El Salvador,Mario Monge,21,FALSE,FALSE
+1963-03-23,El Salvador,Nicaragua,El Salvador,Mario Monge,63,FALSE,FALSE
+1963-03-23,El Salvador,Nicaragua,El Salvador,Rodolfo Ruiz,75,FALSE,FALSE
+1963-03-23,El Salvador,Nicaragua,El Salvador,Alfredo Ruano,81,FALSE,FALSE
+1963-03-23,El Salvador,Nicaragua,El Salvador,Rodolfo Ruiz,87,FALSE,FALSE
+1963-03-23,El Salvador,Nicaragua,Nicaragua,Armando Mendieta,89,FALSE,FALSE
+1963-03-23,Guatemala,Panama,Guatemala,Jorge Roldán,48,FALSE,FALSE
+1963-03-23,Guatemala,Panama,Guatemala,Eduardo de León,59,FALSE,FALSE
+1963-03-23,Guatemala,Panama,Panama,Everardo Vega,73,FALSE,TRUE
+1963-03-23,Guatemala,Panama,Panama,Adolfo Díaz Gáez,82,FALSE,FALSE
 1963-03-24,Argentina,Brazil,Argentina,Mario Rodríguez,3,FALSE,FALSE
 1963-03-24,Argentina,Brazil,Argentina,Raúl Armando Savoy,33,FALSE,FALSE
 1963-03-24,Argentina,Brazil,Argentina,Ernesto Humberto Juárez,86,FALSE,FALSE
@@ -3872,10 +3883,30 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1963-03-24,Bolivia,Paraguay,Bolivia,Ausberto García,88,FALSE,FALSE
 1963-03-24,Colombia,Peru,Peru,Alberto Gallardo,25,FALSE,FALSE
 1963-03-24,Colombia,Peru,Colombia,Francisco González,33,FALSE,FALSE
+1963-03-24,Costa Rica,Jamaica,Costa Rica,Edgar Marín,29,FALSE,FALSE
+1963-03-24,Costa Rica,Jamaica,Costa Rica,Edgar Marín,35,FALSE,FALSE
+1963-03-24,Costa Rica,Jamaica,Costa Rica,Juan José Gámez,37,FALSE,FALSE
+1963-03-24,Costa Rica,Jamaica,Costa Rica,Juan González,73,FALSE,FALSE
+1963-03-24,Costa Rica,Jamaica,Costa Rica,Juan José Gámez,77,FALSE,FALSE
+1963-03-24,Costa Rica,Jamaica,Costa Rica,Luis Vázquez,83,FALSE,FALSE
+1963-03-24,Mexico,Curaçao,Curaçao,Ronald Delanoy,12,FALSE,FALSE
+1963-03-24,Mexico,Curaçao,Mexico,Guillermo Ortiz Camargo,24,FALSE,FALSE
+1963-03-24,Mexico,Curaçao,Curaçao,Jesús del Muro,80,TRUE,FALSE
+1963-03-25,El Salvador,Panama,Panama,Benjamín Velasco,82,TRUE,FALSE
+1963-03-25,El Salvador,Panama,El Salvador,"Eduardo ""Volkswagen"" Hernández",87,FALSE,FALSE
+1963-03-25,Honduras,Nicaragua,Honduras,René Rodríguez Reyes,31,FALSE,FALSE
 1963-03-27,Brazil,Ecuador,Brazil,Oswaldo Taurisano,5,FALSE,FALSE
 1963-03-27,Brazil,Ecuador,Brazil,Oswaldo Taurisano,60,FALSE,FALSE
 1963-03-27,Brazil,Ecuador,Ecuador,Néstor Azón,84,FALSE,FALSE
 1963-03-27,Brazil,Ecuador,Ecuador,Carlos Alberto Raffo,90,FALSE,FALSE
+1963-03-27,El Salvador,Honduras,Honduras,Félix Guerra,16,FALSE,FALSE
+1963-03-27,El Salvador,Honduras,Honduras,Carlos Suazo,27,FALSE,FALSE
+1963-03-27,El Salvador,Honduras,El Salvador,César Reynosa,30,FALSE,FALSE
+1963-03-27,El Salvador,Honduras,El Salvador,"Eduardo ""Volkswagen"" Hernández",65,FALSE,FALSE
+1963-03-27,Guatemala,Nicaragua,Guatemala,Eduardo de León,14,FALSE,TRUE
+1963-03-27,Guatemala,Nicaragua,Nicaragua,Dámaso Silva,39,FALSE,FALSE
+1963-03-27,Guatemala,Nicaragua,Guatemala,Antony Ewing,71,FALSE,FALSE
+1963-03-27,Guatemala,Nicaragua,Guatemala,Haroldo Juárez,85,FALSE,FALSE
 1963-03-27,Paraguay,Peru,Paraguay,Cecilio Martínez,5,FALSE,FALSE
 1963-03-27,Paraguay,Peru,Paraguay,Cecilio Martínez,25,FALSE,FALSE
 1963-03-27,Paraguay,Peru,Paraguay,César Cabrera,45,FALSE,FALSE
@@ -3887,6 +3918,26 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1963-03-28,Bolivia,Argentina,Bolivia,Ramiro Blacut,32,FALSE,FALSE
 1963-03-28,Bolivia,Argentina,Argentina,Mario Rodríguez,34,FALSE,FALSE
 1963-03-28,Bolivia,Argentina,Bolivia,Wilfredo Camacho,88,FALSE,FALSE
+1963-03-28,Costa Rica,Curaçao,Costa Rica,Mario Cordero,38,FALSE,TRUE
+1963-03-28,Jamaica,Mexico,Mexico,Vicente Pereda,4,FALSE,FALSE
+1963-03-28,Jamaica,Mexico,Mexico,Armando Garrido,17,FALSE,FALSE
+1963-03-28,Jamaica,Mexico,Mexico,Guillermo Ortiz Camargo,27,FALSE,FALSE
+1963-03-28,Jamaica,Mexico,Mexico,Guillermo Ortiz Camargo,35,FALSE,TRUE
+1963-03-28,Jamaica,Mexico,Mexico,Fernando Cuenca,49,FALSE,FALSE
+1963-03-28,Jamaica,Mexico,Mexico,Isidoro Díaz,77,FALSE,FALSE
+1963-03-28,Jamaica,Mexico,Mexico,Albino Morales,80,FALSE,FALSE
+1963-03-28,Jamaica,Mexico,Mexico,Isidoro Díaz,88,FALSE,FALSE
+1963-03-29,Guatemala,Honduras,Guatemala,Francisco López Contreras,9,FALSE,FALSE
+1963-03-29,Guatemala,Honduras,Honduras,Felipe Barahona,28,FALSE,FALSE
+1963-03-29,Guatemala,Honduras,Honduras,Félix Guerra,42,FALSE,FALSE
+1963-03-29,Nicaragua,Panama,Panama,Luis Góyez,11,FALSE,FALSE
+1963-03-29,Nicaragua,Panama,Panama,Carlos Valderrama,41,FALSE,FALSE
+1963-03-29,Nicaragua,Panama,Panama,Juan Santamaría,45,FALSE,FALSE
+1963-03-29,Nicaragua,Panama,Panama,Juan Santamaría,58,FALSE,FALSE
+1963-03-29,Nicaragua,Panama,Panama,Luis Carlos Ponce,71,FALSE,FALSE
+1963-03-30,Jamaica,Curaçao,Curaçao,Toribio Briesen,8,FALSE,FALSE
+1963-03-30,Jamaica,Curaçao,Jamaica,Locelles Dinckley,24,FALSE,FALSE
+1963-03-30,Jamaica,Curaçao,Curaçao,Daniel Pablo,73,FALSE,FALSE
 1963-03-31,Argentina,Paraguay,Paraguay,César Cabrera,33,FALSE,FALSE
 1963-03-31,Argentina,Paraguay,Argentina,Juan Carlos Lallana,58,FALSE,FALSE
 1963-03-31,Belgium,Yugoslavia,Yugoslavia,Milan Galić,21,FALSE,FALSE
@@ -3908,8 +3959,33 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1963-03-31,Colombia,Ecuador,Ecuador,Carlos Alberto Raffo,88,FALSE,FALSE
 1963-03-31,Czechoslovakia,German DR,Czechoslovakia,Václav Mašek,66,FALSE,FALSE
 1963-03-31,Czechoslovakia,German DR,German DR,Peter Ducke,85,FALSE,FALSE
+1963-03-31,El Salvador,Guatemala,El Salvador,"Eduardo ""Volkswagen"" Hernández",24,FALSE,FALSE
+1963-03-31,El Salvador,Guatemala,Guatemala,Hugo Peña,28,FALSE,FALSE
+1963-03-31,Panama,Honduras,Honduras,Nilmo Edwards,46,FALSE,FALSE
 1963-03-31,Switzerland,Netherlands,Netherlands,Piet Kruiver,6,FALSE,FALSE
 1963-03-31,Switzerland,Netherlands,Switzerland,Anton Allemann,37,FALSE,FALSE
+1963-04-03,El Salvador,Costa Rica,Costa Rica,Juan González,17,FALSE,FALSE
+1963-04-03,El Salvador,Costa Rica,Costa Rica,Juan González,22,FALSE,FALSE
+1963-04-03,El Salvador,Costa Rica,El Salvador,Armando Chacón,49,FALSE,FALSE
+1963-04-03,El Salvador,Costa Rica,Costa Rica,Juan González,72,FALSE,FALSE
+1963-04-03,El Salvador,Costa Rica,Costa Rica,Walter Pearson,76,FALSE,FALSE
+1963-04-03,Honduras,Curaçao,Curaçao,Eugene Testing,2,FALSE,FALSE
+1963-04-03,Honduras,Curaçao,Curaçao,George Sillie,21,FALSE,FALSE
+1963-04-03,Honduras,Curaçao,Honduras,Carlos Suazo,32,FALSE,FALSE
+1963-04-03,Honduras,Curaçao,Curaçao,Ruben Brandborg,75,FALSE,FALSE
+1963-04-03,Honduras,Curaçao,Curaçao,Ruben Brandborg,89,FALSE,FALSE
+1963-04-05,Costa Rica,Curaçao,Costa Rica,Walter Pearson,54,FALSE,FALSE
+1963-04-05,El Salvador,Honduras,El Salvador,Mario Monge,10,FALSE,FALSE
+1963-04-05,El Salvador,Honduras,El Salvador,"Eduardo ""Volkswagen"" Hernández",13,FALSE,FALSE
+1963-04-05,El Salvador,Honduras,El Salvador,"Eduardo ""Volkswagen"" Hernández",34,FALSE,FALSE
+1963-04-07,Costa Rica,Honduras,Honduras,Dolores Cruz,49,FALSE,FALSE
+1963-04-07,Costa Rica,Honduras,Costa Rica,Enrique Córdoba,52,FALSE,FALSE
+1963-04-07,Costa Rica,Honduras,Costa Rica,Rubén Jiménez,59,FALSE,FALSE
+1963-04-07,El Salvador,Curaçao,Curaçao,Eugene Testing,7,FALSE,FALSE
+1963-04-07,El Salvador,Curaçao,El Salvador,"Eduardo ""Volkswagen"" Hernández",14,FALSE,FALSE
+1963-04-07,El Salvador,Curaçao,El Salvador,Mauricio Ernesto González,60,FALSE,FALSE
+1963-04-07,El Salvador,Curaçao,Curaçao,Juan Maximiliano Pablo,78,FALSE,FALSE
+1963-04-07,El Salvador,Curaçao,El Salvador,"Eduardo ""Volkswagen"" Hernández",80,FALSE,FALSE
 1963-05-30,Spain,Northern Ireland,Spain,Amancio Amaro,60,FALSE,FALSE
 1963-05-30,Spain,Northern Ireland,Northern Ireland,Willie Irvine,76,FALSE,FALSE
 1963-06-29,Denmark,Albania,Denmark,Jens Petersen,18,FALSE,TRUE
@@ -4115,13 +4191,23 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1965-03-04,Mexico,Honduras,Mexico,José Luis González Dávila,6,FALSE,FALSE
 1965-03-04,Mexico,Honduras,Mexico,José Luis Aussin,14,FALSE,FALSE
 1965-03-04,Mexico,Honduras,Mexico,Salvador Reyes Monteón,82,FALSE,FALSE
+1965-03-07,El Salvador,Nicaragua,El Salvador,Mauricio Ernesto González,49,FALSE,FALSE
+1965-03-07,El Salvador,Nicaragua,El Salvador,Juan Francisco Barraza,63,FALSE,FALSE
+1965-03-07,El Salvador,Nicaragua,El Salvador,Mauricio Ernesto González,67,FALSE,FALSE
+1965-03-07,El Salvador,Nicaragua,El Salvador,Mauricio Ernesto González,84,FALSE,FALSE
 1965-03-07,Trinidad and Tobago,Costa Rica,Costa Rica,Leonel Hernández,29,FALSE,FALSE
 1965-03-07,United States,Mexico,Mexico,José Luis González Dávila,34,FALSE,FALSE
 1965-03-07,United States,Mexico,United States,Walt Schmotolocha,49,FALSE,FALSE
 1965-03-07,United States,Mexico,United States,Helmut Bicek,59,FALSE,FALSE
 1965-03-07,United States,Mexico,Mexico,Salvador Reyes Monteón,65,FALSE,FALSE
+1965-03-11,Honduras,Nicaragua,Nicaragua,Pedro Jirón,36,FALSE,FALSE
+1965-03-11,Honduras,Nicaragua,Nicaragua,Gerardo Barrios Morales,87,FALSE,FALSE
 1965-03-12,Mexico,United States,Mexico,Isidoro Díaz,9,FALSE,FALSE
 1965-03-12,Mexico,United States,Mexico,Ramiro Navarro,57,FALSE,FALSE
+1965-03-14,El Salvador,Honduras,El Salvador,Mario Monge,33,FALSE,FALSE
+1965-03-14,El Salvador,Honduras,El Salvador,Sergio Méndez,48,FALSE,FALSE
+1965-03-14,El Salvador,Honduras,Honduras,"Carlos Castillo, honduran footballer",84,FALSE,FALSE
+1965-03-14,El Salvador,Honduras,El Salvador,Jorge Liévano,90,FALSE,FALSE
 1965-03-14,Suriname,Trinidad and Tobago,Suriname,Siegfried Haltman,9,FALSE,FALSE
 1965-03-14,Suriname,Trinidad and Tobago,Suriname,Siegfried Haltman,19,FALSE,FALSE
 1965-03-14,Suriname,Trinidad and Tobago,Suriname,Kenneth Kluivert,31,FALSE,FALSE
@@ -4140,8 +4226,57 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1965-03-17,Wales,Greece,Wales,Ivor Allchurch,74,FALSE,FALSE
 1965-03-21,Honduras,United States,United States,Ed Murphy,80,FALSE,FALSE
 1965-03-21,Honduras,United States,Honduras,José Ricardo Taylor,85,FALSE,FALSE
+1965-03-28,Costa Rica,Curaçao,Costa Rica,Leonel Hernández,16,FALSE,FALSE
+1965-03-28,Costa Rica,Curaçao,Costa Rica,Guido Peña,30,FALSE,FALSE
+1965-03-28,Costa Rica,Curaçao,Costa Rica,Guido Peña,42,FALSE,FALSE
+1965-03-28,Costa Rica,Curaçao,Costa Rica,Guido Peña,44,FALSE,FALSE
+1965-03-28,Costa Rica,Curaçao,Costa Rica,William Quirós,51,FALSE,FALSE
+1965-03-28,Costa Rica,Curaçao,Costa Rica,Guido Peña,67,FALSE,FALSE
+1965-03-28,El Salvador,Mexico,Mexico,Isidoro Díaz,22,FALSE,FALSE
+1965-03-28,El Salvador,Mexico,Mexico,Javier Valdivia,55,FALSE,FALSE
+1965-03-28,Guatemala,Haiti,Guatemala,Hugo Peña,12,FALSE,FALSE
+1965-03-28,Guatemala,Haiti,Guatemala,Alberto López,24,FALSE,FALSE
+1965-03-28,Guatemala,Haiti,Guatemala,Carlos Valdez,67,FALSE,FALSE
+1965-03-30,Costa Rica,Haiti,Costa Rica,Edgar Marín,8,FALSE,FALSE
+1965-03-30,Costa Rica,Haiti,Costa Rica,Leonel Hernández,26,FALSE,FALSE
+1965-03-30,Costa Rica,Haiti,Haiti,Guy Saint-Vil,67,FALSE,FALSE
+1965-03-30,Costa Rica,Haiti,Costa Rica,Leonel Hernández,85,FALSE,FALSE
+1965-03-30,El Salvador,Curaçao,El Salvador,"Eduardo ""Volkswagen"" Hernández",8,FALSE,FALSE
+1965-03-30,El Salvador,Curaçao,Curaçao,Virgilio Sillie,59,FALSE,FALSE
+1965-04-01,Mexico,Curaçao,Mexico,Javier Fragoso,57,FALSE,FALSE
+1965-04-01,Mexico,Curaçao,Mexico,Ernesto Cisneros,71,FALSE,FALSE
+1965-04-01,Mexico,Curaçao,Mexico,Javier Fragoso,85,FALSE,FALSE
+1965-04-01,Mexico,Curaçao,Mexico,Ernesto Cisneros,86,FALSE,FALSE
+1965-04-01,Mexico,Curaçao,Mexico,Ernesto Cisneros,89,FALSE,FALSE
+1965-04-04,Guatemala,El Salvador,Guatemala,Fernando de Paz,16,FALSE,FALSE
+1965-04-04,Guatemala,El Salvador,Guatemala,Eduardo de León,31,FALSE,FALSE
+1965-04-04,Guatemala,El Salvador,Guatemala,Carlos Valdez,40,FALSE,FALSE
+1965-04-04,Guatemala,El Salvador,El Salvador,Sergio Méndez,58,FALSE,FALSE
+1965-04-04,Guatemala,El Salvador,Guatemala,Ricardo Clark,88,FALSE,FALSE
+1965-04-04,Haiti,Mexico,Mexico,Ernesto Cisneros,30,FALSE,FALSE
+1965-04-04,Haiti,Mexico,Mexico,Ernesto Cisneros,39,FALSE,FALSE
+1965-04-04,Haiti,Mexico,Mexico,Javier Fragoso,41,FALSE,FALSE
+1965-04-06,Costa Rica,Mexico,Costa Rica,Edgar Zúñiga,9,FALSE,FALSE
+1965-04-06,Costa Rica,Mexico,Mexico,Felipe Ruvalcaba,45,FALSE,FALSE
+1965-04-06,Guatemala,Curaçao,Guatemala,Hugo Peña,10,FALSE,FALSE
+1965-04-06,Guatemala,Curaçao,Curaçao,Edwin Loran,26,FALSE,FALSE
+1965-04-06,Guatemala,Curaçao,Curaçao,Virgilio Sillie,47,FALSE,FALSE
+1965-04-06,Guatemala,Curaçao,Guatemala,Hugo Peña,49,FALSE,FALSE
+1965-04-06,Guatemala,Curaçao,Guatemala,Hilario Bertrand,65,TRUE,FALSE
+1965-04-08,Costa Rica,El Salvador,El Salvador,Mauricio Alonso Rodríguez,44,FALSE,FALSE
+1965-04-08,Costa Rica,El Salvador,El Salvador,Mauricio Alonso Rodríguez,60,FALSE,FALSE
+1965-04-08,Costa Rica,El Salvador,Costa Rica,Leonel Hernández,63,FALSE,TRUE
+1965-04-08,Haiti,Curaçao,Curaçao,Eugene Testing,62,FALSE,FALSE
+1965-04-08,Haiti,Curaçao,Haiti,Joseph Obas,84,FALSE,FALSE
 1965-04-11,Albania,Switzerland,Switzerland,René-Pierre Quentin,21,FALSE,FALSE
 1965-04-11,Albania,Switzerland,Switzerland,Köbi Kuhn,88,FALSE,FALSE
+1965-04-11,El Salvador,Haiti,Haiti,Guy Saint-Vil,22,FALSE,FALSE
+1965-04-11,El Salvador,Haiti,El Salvador,Sergio Méndez,34,FALSE,FALSE
+1965-04-11,El Salvador,Haiti,El Salvador,Juan Francisco Barraza,49,FALSE,FALSE
+1965-04-11,El Salvador,Haiti,El Salvador,Mauricio Ernesto González,79,FALSE,FALSE
+1965-04-11,Guatemala,Mexico,Guatemala,Jorge Roldán,7,FALSE,FALSE
+1965-04-11,Guatemala,Mexico,Mexico,Ernesto Cisneros,24,FALSE,FALSE
+1965-04-11,Guatemala,Mexico,Mexico,Javier Fragoso,35,FALSE,FALSE
 1965-04-18,Yugoslavia,France,Yugoslavia,Milan Galić,59,FALSE,FALSE
 1965-04-19,Turkey,Portugal,Portugal,Eusébio,59,FALSE,FALSE
 1965-04-24,Germany,Cyprus,Germany,Klaus-Dieter Sieloff,16,FALSE,FALSE
@@ -4693,6 +4828,41 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1967-02-22,Turkey,Republic of Ireland,Turkey,Ayhan Elmastaşoğlu,35,FALSE,FALSE
 1967-02-22,Turkey,Republic of Ireland,Turkey,Ogün Altıparmak,78,FALSE,FALSE
 1967-02-22,Turkey,Republic of Ireland,Republic of Ireland,Noel Cantwell,89,FALSE,FALSE
+1967-03-05,Honduras,Trinidad and Tobago,Honduras,Dolores Cruz,35,FALSE,FALSE
+1967-03-06,Haiti,Guatemala,Haiti,Guy Saint-Vil,21,FALSE,FALSE
+1967-03-06,Haiti,Guatemala,Guatemala,Hugo Peña,60,FALSE,FALSE
+1967-03-06,Haiti,Guatemala,Guatemala,Manuel Recinos,62,FALSE,FALSE
+1967-03-06,Mexico,Nicaragua,Mexico,Raúl Arellano Gallo,36,FALSE,FALSE
+1967-03-06,Mexico,Nicaragua,Mexico,Raúl Arellano Gallo,43,FALSE,FALSE
+1967-03-06,Mexico,Nicaragua,Mexico,Raúl Arellano Gallo,53,FALSE,FALSE
+1967-03-06,Mexico,Nicaragua,Mexico,Manuel Lapuente,85,FALSE,FALSE
+1967-03-08,Haiti,Trinidad and Tobago,Trinidad and Tobago,Gerry Browne,4,FALSE,FALSE
+1967-03-08,Haiti,Trinidad and Tobago,Trinidad and Tobago,Alvin Corneal,17,FALSE,FALSE
+1967-03-08,Haiti,Trinidad and Tobago,Haiti,Guy Saint-Vil,33,FALSE,TRUE
+1967-03-08,Haiti,Trinidad and Tobago,Trinidad and Tobago,Alvin Corneal,52,FALSE,TRUE
+1967-03-08,Haiti,Trinidad and Tobago,Haiti,Joseph Pierre,56,FALSE,FALSE
+1967-03-08,Honduras,Nicaragua,Nicaragua,Rudy Sobalvarro,10,FALSE,FALSE
+1967-03-08,Honduras,Nicaragua,Honduras,Thomas Máximo,25,FALSE,FALSE
+1967-03-10,Guatemala,Mexico,Guatemala,Manuel Recinos,83,FALSE,FALSE
+1967-03-10,Haiti,Nicaragua,Nicaragua,Francisco Romero,14,FALSE,FALSE
+1967-03-10,Haiti,Nicaragua,Haiti,Claude Némurin,75,FALSE,FALSE
+1967-03-10,Haiti,Nicaragua,Haiti,Jean-Claude Désir,85,FALSE,FALSE
+1967-03-12,Mexico,Trinidad and Tobago,Mexico,Luis Estrada,22,FALSE,FALSE
+1967-03-12,Mexico,Trinidad and Tobago,Mexico,Manuel Cerda Canela,40,FALSE,FALSE
+1967-03-12,Mexico,Trinidad and Tobago,Mexico,Luis Estrada,53,FALSE,FALSE
+1967-03-12,Mexico,Trinidad and Tobago,Mexico,Fernando Bustos,83,FALSE,FALSE
+1967-03-14,Haiti,Mexico,Mexico,Luis Estrada,39,FALSE,FALSE
+1967-03-14,Trinidad and Tobago,Guatemala,Guatemala,Jorge Roldán,35,FALSE,FALSE
+1967-03-14,Trinidad and Tobago,Guatemala,Guatemala,Eduardo de León,79,FALSE,FALSE
+1967-03-17,Honduras,Haiti,Honduras,Enrique Grey Fúnez,40,FALSE,FALSE
+1967-03-17,Honduras,Haiti,Honduras,Enrique Grey Fúnez,78,FALSE,FALSE
+1967-03-17,Nicaragua,Trinidad and Tobago,Trinidad and Tobago,Gerry Browne,30,FALSE,FALSE
+1967-03-17,Nicaragua,Trinidad and Tobago,Nicaragua,Manuel Cuadra,82,FALSE,FALSE
+1967-03-17,Nicaragua,Trinidad and Tobago,Trinidad and Tobago,Kelvin Berassa,85,FALSE,FALSE
+1967-03-17,Nicaragua,Trinidad and Tobago,Trinidad and Tobago,Kelvin Berassa,86,FALSE,FALSE
+1967-03-19,Guatemala,Nicaragua,Guatemala,Hugo Peña,30,FALSE,FALSE
+1967-03-19,Guatemala,Nicaragua,Guatemala,Manuel Recinos,33,FALSE,FALSE
+1967-03-19,Honduras,Mexico,Mexico,Jesús Prado,34,FALSE,FALSE
 1967-03-19,Luxembourg,Belgium,Belgium,Paul Van Himst,19,FALSE,FALSE
 1967-03-19,Luxembourg,Belgium,Belgium,Jacques Stockman,30,FALSE,FALSE
 1967-03-19,Luxembourg,Belgium,Belgium,Paul Van Himst,36,FALSE,FALSE
@@ -5540,18 +5710,61 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1969-11-22,Italy,German DR,Italy,Sandro Mazzola,7,FALSE,FALSE
 1969-11-22,Italy,German DR,Italy,Angelo Domenghini,25,FALSE,FALSE
 1969-11-22,Italy,German DR,Italy,Luigi Riva,36,FALSE,FALSE
+1969-11-23,Costa Rica,Jamaica,Costa Rica,Álvaro Cascante,1,FALSE,FALSE
+1969-11-23,Costa Rica,Jamaica,Costa Rica,Roy Sáenz,62,FALSE,FALSE
+1969-11-23,Costa Rica,Jamaica,Costa Rica,Edward Dawkins,67,TRUE,FALSE
 1969-11-23,Zimbabwe,Australia,Zimbabwe,Bobby Chalmers,63,FALSE,FALSE
 1969-11-23,Zimbabwe,Australia,Australia,Tom McColl,68,FALSE,FALSE
+1969-11-27,Costa Rica,Curaçao,Costa Rica,Jaime Grant,1,FALSE,FALSE
+1969-11-27,Costa Rica,Curaçao,Curaçao,Ismael Croes,30,FALSE,FALSE
+1969-11-27,Costa Rica,Curaçao,Costa Rica,Álvaro Cascante,75,FALSE,FALSE
+1969-11-27,Guatemala,Trinidad and Tobago,Guatemala,Tomás Gamboa,8,FALSE,FALSE
+1969-11-27,Guatemala,Trinidad and Tobago,Guatemala,Marco Fión,84,FALSE,FALSE
+1969-11-27,Mexico,Jamaica,Mexico,Francisco Mancilla,15,FALSE,FALSE
+1969-11-27,Mexico,Jamaica,Mexico,Alfonso Sabater,83,FALSE,FALSE
+1969-11-29,Guatemala,Curaçao,Guatemala,Nelson Melgar,4,FALSE,FALSE
+1969-11-29,Guatemala,Curaçao,Curaçao,Carlos Regales,22,FALSE,FALSE
+1969-11-29,Guatemala,Curaçao,Guatemala,Daniel Salamanca,24,FALSE,FALSE
+1969-11-29,Guatemala,Curaçao,Guatemala,Rolando Valdez,32,FALSE,FALSE
+1969-11-29,Guatemala,Curaçao,Guatemala,Daniel Salamanca,46,FALSE,FALSE
+1969-11-29,Guatemala,Curaçao,Guatemala,Edgar Meulens,54,TRUE,FALSE
+1969-11-29,Guatemala,Curaçao,Guatemala,Nelson Melgar,82,FALSE,FALSE
 1969-11-29,Zimbabwe,Australia,Australia,Johnny Warren,17,FALSE,FALSE
 1969-11-29,Zimbabwe,Australia,Australia,Phillemon Tegire,22,TRUE,FALSE
 1969-11-29,Zimbabwe,Australia,Zimbabwe,Bobby Chalmers,54,FALSE,FALSE
 1969-11-29,Zimbabwe,Australia,Australia,Willie Rutherford,57,FALSE,FALSE
+1969-11-30,Costa Rica,Mexico,Costa Rica,Jaime Grant,4,FALSE,FALSE
+1969-11-30,Costa Rica,Mexico,Costa Rica,Roy Sáenz,33,FALSE,FALSE
+1969-11-30,Jamaica,Trinidad and Tobago,Jamaica,Delroy Scott,20,FALSE,FALSE
+1969-11-30,Jamaica,Trinidad and Tobago,Jamaica,Joshua Hamilton,31,FALSE,FALSE
+1969-11-30,Jamaica,Trinidad and Tobago,Trinidad and Tobago,Everald Cummings,33,FALSE,FALSE
+1969-11-30,Jamaica,Trinidad and Tobago,Trinidad and Tobago,Keith Douglas,40,FALSE,FALSE
+1969-11-30,Jamaica,Trinidad and Tobago,Trinidad and Tobago,Ulrich Haynes,85,FALSE,FALSE
+1969-12-02,Curaçao,Trinidad and Tobago,Trinidad and Tobago,Ulrich Haynes,4,FALSE,FALSE
+1969-12-02,Curaçao,Trinidad and Tobago,Curaçao,Melvin Loefstok,11,FALSE,FALSE
+1969-12-02,Curaçao,Trinidad and Tobago,Curaçao,Melvin Loefstok,49,FALSE,FALSE
+1969-12-02,Curaçao,Trinidad and Tobago,Curaçao,Martijn,65,FALSE,FALSE
+1969-12-02,Mexico,Guatemala,Guatemala,Marco Fión,46,FALSE,FALSE
 1969-12-03,Czechoslovakia,Hungary,Czechoslovakia,Andrej Kvašňák,44,FALSE,TRUE
 1969-12-03,Czechoslovakia,Hungary,Czechoslovakia,František Veselý,57,FALSE,FALSE
 1969-12-03,Czechoslovakia,Hungary,Czechoslovakia,Jozef Adamec,65,FALSE,FALSE
 1969-12-03,Czechoslovakia,Hungary,Czechoslovakia,Karol Jokl,80,FALSE,FALSE
 1969-12-03,Czechoslovakia,Hungary,Hungary,Lajos Kocsis,90,FALSE,TRUE
+1969-12-04,Costa Rica,Trinidad and Tobago,Costa Rica,Víctor Ruiz,10,FALSE,FALSE
+1969-12-04,Costa Rica,Trinidad and Tobago,Costa Rica,Víctor Ruiz,55,FALSE,FALSE
+1969-12-04,Costa Rica,Trinidad and Tobago,Costa Rica,Víctor Ruiz,65,FALSE,FALSE
+1969-12-04,Costa Rica,Trinidad and Tobago,Costa Rica,Víctor Ruiz,70,FALSE,FALSE
+1969-12-04,Costa Rica,Trinidad and Tobago,Costa Rica,Wálter Elizondo,85,FALSE,TRUE
 1969-12-04,Israel,Australia,Israel,David Zeman,16,TRUE,FALSE
+1969-12-04,Mexico,Curaçao,Curaçao,Adelbert Toppenberg,42,FALSE,FALSE
+1969-12-04,Mexico,Curaçao,Curaçao,Adelbert Toppenberg,65,FALSE,FALSE
+1969-12-04,Mexico,Curaçao,Mexico,José Álvarez Crespo,69,FALSE,FALSE
+1969-12-04,Mexico,Curaçao,Mexico,Leopoldo Barba,71,FALSE,FALSE
+1969-12-06,Jamaica,Curaçao,Curaçao,Carlos Regales,6,FALSE,FALSE
+1969-12-06,Jamaica,Curaçao,Curaçao,Martijn,48,FALSE,FALSE
+1969-12-06,Jamaica,Curaçao,Jamaica,David Largie,50,FALSE,FALSE
+1969-12-07,Costa Rica,Guatemala,Guatemala,Marco Antonio Fión,7,FALSE,FALSE
+1969-12-07,Costa Rica,Guatemala,Costa Rica,Vicente Wanchope,50,FALSE,FALSE
 1969-12-07,Luxembourg,Bulgaria,Bulgaria,Dinko Dermendzhiev,35,FALSE,FALSE
 1969-12-07,Luxembourg,Bulgaria,Bulgaria,Dimitar Yakimov,37,FALSE,FALSE
 1969-12-07,Luxembourg,Bulgaria,Luxembourg,Paul Philipp,58,FALSE,TRUE
@@ -5946,12 +6159,21 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1971-11-17,Netherlands,Luxembourg,Netherlands,Oeki Hoekema,54,FALSE,FALSE
 1971-11-17,Netherlands,Luxembourg,Netherlands,Johan Cruyff,60,FALSE,FALSE
 1971-11-17,Netherlands,Luxembourg,Netherlands,Rinus Israël,82,FALSE,FALSE
+1971-11-20,Cuba,Costa Rica,Cuba,Roy Sáenz,42,FALSE,FALSE
+1971-11-20,Cuba,Costa Rica,Cuba,Roy Sáenz,44,FALSE,FALSE
+1971-11-20,Cuba,Costa Rica,Cuba,Alfonso Estupiñán,55,FALSE,FALSE
 1971-11-20,Italy,Austria,Italy,Pierino Prati,10,FALSE,FALSE
 1971-11-20,Italy,Austria,Austria,Kurt Jara,36,FALSE,FALSE
 1971-11-20,Italy,Austria,Austria,Robert Sara,59,FALSE,FALSE
 1971-11-20,Italy,Austria,Italy,Giancarlo De Sisti,75,FALSE,FALSE
 1971-11-21,Portugal,Belgium,Belgium,Raoul Lambert,61,FALSE,FALSE
 1971-11-21,Portugal,Belgium,Portugal,Fernando Peres,90,FALSE,TRUE
+1971-11-21,Trinidad and Tobago,Honduras,Trinidad and Tobago,Anthony Douglas,25,FALSE,FALSE
+1971-11-21,Trinidad and Tobago,Honduras,Honduras,Miguel Ángel Matamoros,36,FALSE,TRUE
+1971-11-23,Cuba,Honduras,Cuba,Francisco Piedra,10,FALSE,FALSE
+1971-11-23,Cuba,Honduras,Cuba,Andrés Roldán,26,FALSE,FALSE
+1971-11-23,Cuba,Honduras,Cuba,José Verdecia,49,FALSE,FALSE
+1971-11-23,Cuba,Honduras,Honduras,Jorge Brand,59,FALSE,FALSE
 1971-11-24,Romania,Wales,Romania,Nicolae Lupescu,9,FALSE,FALSE
 1971-11-24,Romania,Wales,Romania,Mircea Lucescu,74,FALSE,FALSE
 1971-11-24,Spain,Cyprus,Spain,Pirri,9,FALSE,FALSE
@@ -5961,11 +6183,40 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1971-11-24,Spain,Cyprus,Spain,Francisco Javier Aguilar García,63,FALSE,FALSE
 1971-11-24,Spain,Cyprus,Spain,Enrique Lora,66,FALSE,FALSE
 1971-11-24,Spain,Cyprus,Spain,José Francisco Rojo,75,FALSE,FALSE
+1971-11-26,Trinidad and Tobago,Mexico,Mexico,José Alfredo Jiménez,46,FALSE,FALSE
+1971-11-26,Trinidad and Tobago,Mexico,Mexico,Roberto Rodríguez,85,FALSE,TRUE
+1971-11-27,Costa Rica,Honduras,Costa Rica,Hernán Morales,10,FALSE,FALSE
+1971-11-27,Costa Rica,Honduras,Costa Rica,Roy Sáenz,38,FALSE,FALSE
+1971-11-27,Costa Rica,Honduras,Honduras,Oscar Hernandez,45,FALSE,FALSE
+1971-11-28,Cuba,Mexico,Mexico,Roberto Rodríguez,15,FALSE,TRUE
+1971-11-28,Trinidad and Tobago,Haiti,Trinidad and Tobago,Wilfred Cave,7,FALSE,FALSE
+1971-11-28,Trinidad and Tobago,Haiti,Haiti,Pierre Bayonne,40,FALSE,FALSE
+1971-11-28,Trinidad and Tobago,Haiti,Haiti,Emmanuel Sanon,43,FALSE,FALSE
+1971-11-28,Trinidad and Tobago,Haiti,Haiti,Leintz Domingue,44,FALSE,FALSE
+1971-11-28,Trinidad and Tobago,Haiti,Haiti,Ramon Moraldo,51,TRUE,FALSE
+1971-11-28,Trinidad and Tobago,Haiti,Haiti,Claude Barthelemy,75,FALSE,FALSE
+1971-11-28,Trinidad and Tobago,Haiti,Haiti,Pierre Bayonne,81,FALSE,FALSE
+1971-11-30,Trinidad and Tobago,Cuba,Trinidad and Tobago,Wilfred Cave,15,FALSE,FALSE
+1971-11-30,Trinidad and Tobago,Cuba,Trinidad and Tobago,Clibert Lennard,70,FALSE,FALSE
+1971-11-30,Trinidad and Tobago,Cuba,Cuba,José Luis Elejalde,77,FALSE,FALSE
+1971-11-30,Trinidad and Tobago,Cuba,Cuba,Dagoberto Lara,89,FALSE,FALSE
 1971-12-01,Greece,England,England,Geoff Hurst,59,FALSE,FALSE
 1971-12-01,Greece,England,England,Martin Chivers,90,FALSE,FALSE
+1971-12-01,Haiti,Honduras,Honduras,Arnulfo Echeverría,1,FALSE,FALSE
+1971-12-01,Haiti,Honduras,Haiti,Pierre Bayonne,28,FALSE,FALSE
+1971-12-01,Haiti,Honduras,Haiti,Emmanuel Sanon,41,FALSE,FALSE
+1971-12-01,Haiti,Honduras,Haiti,Jean-Claude Desir,44,FALSE,FALSE
+1971-12-02,Costa Rica,Mexico,Mexico,Roberto Rodríguez,73,FALSE,FALSE
 1971-12-04,Bulgaria,France,Bulgaria,Petar Zhekov,47,FALSE,FALSE
 1971-12-04,Bulgaria,France,Bulgaria,Atanas Mihaylov,82,FALSE,FALSE
 1971-12-04,Bulgaria,France,France,Bernard Blanchet,84,FALSE,FALSE
+1971-12-04,Honduras,Mexico,Mexico,Octavio Muciño,42,FALSE,FALSE
+1971-12-04,Honduras,Mexico,Honduras,Rigoberto Gómez,69,FALSE,FALSE
+1971-12-04,Honduras,Mexico,Mexico,Octavio Muciño,83,FALSE,FALSE
+1971-12-05,Trinidad and Tobago,Costa Rica,Costa Rica,Emilio Valle,24,FALSE,FALSE
+1971-12-05,Trinidad and Tobago,Costa Rica,Trinidad and Tobago,Aubert Philips,30,FALSE,FALSE
+1971-12-05,Trinidad and Tobago,Costa Rica,Trinidad and Tobago,Steve David,58,FALSE,FALSE
+1971-12-05,Trinidad and Tobago,Costa Rica,Trinidad and Tobago,Anthony Douglas,69,FALSE,FALSE
 1971-12-05,Turkey,Poland,Turkey,Cemil Turan,52,FALSE,FALSE
 1972-02-16,Northern Ireland,Spain,Spain,José Francisco Rojo,41,FALSE,FALSE
 1972-02-16,Northern Ireland,Spain,Northern Ireland,Sammy Morgan,71,FALSE,FALSE
@@ -6618,9 +6869,52 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1973-11-27,Austria,Sweden,Sweden,Roland Sandberg,12,FALSE,FALSE
 1973-11-27,Austria,Sweden,Sweden,Bo Larsson,28,FALSE,TRUE
 1973-11-27,Austria,Sweden,Austria,Roland Hattenberger,39,FALSE,FALSE
+1973-11-29,Honduras,Trinidad and Tobago,Honduras,Rubén Guifarro,33,FALSE,FALSE
+1973-11-29,Honduras,Trinidad and Tobago,Honduras,Óscar Rolando Hernández,51,FALSE,FALSE
+1973-11-29,Honduras,Trinidad and Tobago,Trinidad and Tobago,Steve David,61,FALSE,FALSE
+1973-12-01,Haiti,Curaçao,Haiti,Emmanuel Sanon,25,FALSE,FALSE
+1973-12-01,Haiti,Curaçao,Haiti,Jean-Claude Désir,29,FALSE,FALSE
+1973-12-01,Haiti,Curaçao,Haiti,Emmanuel Sanon,61,FALSE,FALSE
+1973-12-03,Honduras,Mexico,Honduras,Rubén Guifarro,54,FALSE,FALSE
+1973-12-03,Honduras,Mexico,Mexico,Horacio López Salgado,73,FALSE,FALSE
+1973-12-04,Haiti,Trinidad and Tobago,Haiti,Emmanuel Sanon,9,FALSE,FALSE
+1973-12-04,Haiti,Trinidad and Tobago,Trinidad and Tobago,Steve David,14,FALSE,FALSE
+1973-12-04,Haiti,Trinidad and Tobago,Haiti,Roger Saint-Vil,88,FALSE,FALSE
+1973-12-05,Guatemala,Curaçao,Guatemala,Jorge Roldán,6,FALSE,FALSE
+1973-12-05,Guatemala,Curaçao,Curaçao,Adelbert Toppenberg,18,FALSE,FALSE
+1973-12-05,Guatemala,Curaçao,Guatemala,René Morales,63,FALSE,FALSE
+1973-12-05,Guatemala,Curaçao,Curaçao,Siegfried Schoop,75,FALSE,FALSE
+1973-12-07,Haiti,Honduras,Haiti,Guy Saint-Vil,59,FALSE,FALSE
+1973-12-08,Mexico,Curaçao,Mexico,Horacio López Salgado,10,FALSE,FALSE
+1973-12-08,Mexico,Curaçao,Mexico,Octavio Muciño,32,FALSE,FALSE
+1973-12-08,Mexico,Curaçao,Mexico,Héctor Pulido,35,FALSE,FALSE
+1973-12-08,Mexico,Curaçao,Mexico,Octavio Muciño,45,FALSE,FALSE
+1973-12-08,Mexico,Curaçao,Mexico,Octavio Muciño,46,FALSE,FALSE
+1973-12-08,Mexico,Curaçao,Mexico,Horacio López Salgado,76,FALSE,FALSE
+1973-12-08,Mexico,Curaçao,Mexico,Manuel Lapuente,78,FALSE,FALSE
+1973-12-08,Mexico,Curaçao,Mexico,Octavio Muciño,82,FALSE,FALSE
 1973-12-09,DR Congo,Morocco,DR Congo,Kembo Uba Kembo,58,FALSE,FALSE
 1973-12-09,DR Congo,Morocco,DR Congo,Kembo Uba Kembo,61,FALSE,FALSE
 1973-12-09,DR Congo,Morocco,DR Congo,Mbungu Ekofa,79,FALSE,FALSE
+1973-12-10,Guatemala,Trinidad and Tobago,Trinidad and Tobago,Steve David,30,FALSE,FALSE
+1973-12-12,Honduras,Curaçao,Honduras,Roberto Soza,33,FALSE,FALSE
+1973-12-12,Honduras,Curaçao,Honduras,Rubén Guifarro,50,FALSE,FALSE
+1973-12-12,Honduras,Curaçao,Curaçao,Rignald Alfonso Clemencia,62,FALSE,FALSE
+1973-12-12,Honduras,Curaçao,Curaçao,Erroll Maximino St. Jago,73,FALSE,FALSE
+1973-12-13,Haiti,Guatemala,Guatemala,Benjamín Monterroso,4,FALSE,FALSE
+1973-12-13,Haiti,Guatemala,Haiti,Emmanuel Sanon,28,FALSE,FALSE
+1973-12-13,Haiti,Guatemala,Haiti,Emmanuel Sanon,72,FALSE,FALSE
+1973-12-14,Mexico,Trinidad and Tobago,Trinidad and Tobago,Everald Cummings,35,FALSE,FALSE
+1973-12-14,Mexico,Trinidad and Tobago,Trinidad and Tobago,Everald Cummings,39,FALSE,FALSE
+1973-12-14,Mexico,Trinidad and Tobago,Trinidad and Tobago,Steve David,52,FALSE,FALSE
+1973-12-14,Mexico,Trinidad and Tobago,Trinidad and Tobago,Warren Archibald,62,FALSE,FALSE
+1973-12-15,Guatemala,Honduras,Honduras,Jorge Alberto Bran Guevara,15,FALSE,FALSE
+1973-12-15,Guatemala,Honduras,Guatemala,Juan Banegas,83,FALSE,FALSE
+1973-12-17,Curaçao,Trinidad and Tobago,Trinidad and Tobago,Steve David,16,FALSE,FALSE
+1973-12-17,Curaçao,Trinidad and Tobago,Trinidad and Tobago,Siegfried Brunken,33,TRUE,FALSE
+1973-12-17,Curaçao,Trinidad and Tobago,Trinidad and Tobago,Steve David,51,FALSE,FALSE
+1973-12-17,Curaçao,Trinidad and Tobago,Trinidad and Tobago,Steve David,62,FALSE,FALSE
+1973-12-18,Haiti,Mexico,Mexico,Enrique Borja,30,FALSE,FALSE
 1973-12-19,Greece,Yugoslavia,Yugoslavia,Dušan Bajević,12,FALSE,FALSE
 1973-12-19,Greece,Yugoslavia,Yugoslavia,Stanislav Karasi,15,FALSE,FALSE
 1973-12-19,Greece,Yugoslavia,Greece,Kostas Eleftherakis,29,FALSE,FALSE
@@ -7669,6 +7963,14 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1977-10-02,Hong Kong,Kuwait,Kuwait,Faisal Al-Dakhil,35,FALSE,FALSE
 1977-10-02,Hong Kong,Kuwait,Kuwait,Jasem Yaqoub,52,FALSE,FALSE
 1977-10-02,Hong Kong,Kuwait,Kuwait,Hamad Khalid Bo Hamad,72,FALSE,FALSE
+1977-10-08,Canada,El Salvador,El Salvador,Luis Ramírez Zapata,44,FALSE,FALSE
+1977-10-08,Canada,El Salvador,El Salvador,Luis Ramírez Zapata,84,FALSE,FALSE
+1977-10-08,Canada,El Salvador,Canada,Brian Budd,85,FALSE,FALSE
+1977-10-08,Guatemala,Suriname,Suriname,Edwin Schal,2,FALSE,FALSE
+1977-10-08,Guatemala,Suriname,Guatemala,Felix McDonald,15,FALSE,FALSE
+1977-10-08,Guatemala,Suriname,Guatemala,Felix McDonald,38,FALSE,FALSE
+1977-10-08,Guatemala,Suriname,Suriname,Delano Rigters,55,FALSE,FALSE
+1977-10-08,Guatemala,Suriname,Guatemala,Mario René Alfaro,85,FALSE,FALSE
 1977-10-08,Nigeria,Egypt,Nigeria,Christian Chukwu,24,FALSE,FALSE
 1977-10-08,Nigeria,Egypt,Nigeria,Segun Odegbami,54,FALSE,FALSE
 1977-10-08,Nigeria,Egypt,Nigeria,Segun Odegbami,67,FALSE,FALSE
@@ -7679,11 +7981,26 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1977-10-09,Denmark,Portugal,Portugal,Manuel Fernandes,61,FALSE,FALSE
 1977-10-09,Denmark,Portugal,Portugal,Octávio Machado,79,FALSE,FALSE
 1977-10-09,Denmark,Portugal,Denmark,Allan Hansen,88,FALSE,FALSE
+1977-10-09,Mexico,Haiti,Mexico,Hugo Sánchez,1,FALSE,FALSE
+1977-10-09,Mexico,Haiti,Mexico,Víctor Rangel,46,FALSE,FALSE
+1977-10-09,Mexico,Haiti,Mexico,Víctor Rangel,70,FALSE,FALSE
+1977-10-09,Mexico,Haiti,Haiti,Arsène Auguste,78,FALSE,FALSE
+1977-10-09,Mexico,Haiti,Mexico,Víctor Rangel,82,FALSE,FALSE
 1977-10-09,South Korea,Kuwait,South Korea,Park Sang-in,59,FALSE,FALSE
+1977-10-12,Canada,Suriname,Canada,Buzz Parsons,32,FALSE,FALSE
+1977-10-12,Canada,Suriname,Suriname,Remie Olmberg,40,FALSE,TRUE
+1977-10-12,Canada,Suriname,Canada,Mike Bakic,74,FALSE,FALSE
 1977-10-12,German DR,Austria,Austria,Roland Hattenberger,43,FALSE,FALSE
 1977-10-12,German DR,Austria,German DR,Wolfram Löwe,50,FALSE,FALSE
+1977-10-12,Guatemala,Haiti,Haiti,Leintz Domingue,20,FALSE,TRUE
+1977-10-12,Guatemala,Haiti,Haiti,Pierre Bayonne,44,FALSE,FALSE
+1977-10-12,Guatemala,Haiti,Guatemala,José Emilio Mitrovich,58,FALSE,FALSE
 1977-10-12,Luxembourg,England,England,Ray Kennedy,31,FALSE,FALSE
 1977-10-12,Luxembourg,England,England,Paul Mariner,90,FALSE,FALSE
+1977-10-12,Mexico,El Salvador,Mexico,Javier Cárdenas,36,FALSE,FALSE
+1977-10-12,Mexico,El Salvador,Mexico,Víctor Rangel,59,FALSE,FALSE
+1977-10-12,Mexico,El Salvador,El Salvador,Norberto Huezo,75,FALSE,FALSE
+1977-10-12,Mexico,El Salvador,Mexico,Víctor Rangel,90,FALSE,FALSE
 1977-10-12,Northern Ireland,Netherlands,Netherlands,Willy van de Kerkhof,76,FALSE,FALSE
 1977-10-12,Wales,Scotland,Scotland,Don Masson,78,FALSE,TRUE
 1977-10-12,Wales,Scotland,Scotland,Kenny Dalglish,85,FALSE,FALSE
@@ -7694,13 +8011,45 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1977-10-15,Italy,Finland,Italy,Roberto Bettega,62,FALSE,FALSE
 1977-10-15,Italy,Finland,Finland,Kai Haaskivi,67,FALSE,FALSE
 1977-10-15,Italy,Finland,Italy,Renato Zaccarelli,71,FALSE,FALSE
+1977-10-15,Mexico,Suriname,Suriname,Edwin Schal,23,FALSE,TRUE
+1977-10-15,Mexico,Suriname,Mexico,Víctor Rangel,24,FALSE,FALSE
+1977-10-15,Mexico,Suriname,Mexico,Raul Isiordia,37,FALSE,FALSE
+1977-10-15,Mexico,Suriname,Mexico,Hugo Sánchez,39,FALSE,FALSE
+1977-10-15,Mexico,Suriname,Mexico,Raul Isiordia,49,FALSE,FALSE
+1977-10-15,Mexico,Suriname,Mexico,Alfred Jiménez,73,FALSE,FALSE
+1977-10-15,Mexico,Suriname,Mexico,Rafael Chávez,80,FALSE,FALSE
+1977-10-15,Mexico,Suriname,Mexico,Alfred Jiménez,84,FALSE,FALSE
+1977-10-15,Mexico,Suriname,Mexico,Hugo Sánchez,90,FALSE,FALSE
 1977-10-16,Australia,Kuwait,Kuwait,Fat'hi Kameel Fayaz Matar Marzouq,42,FALSE,FALSE
 1977-10-16,Australia,Kuwait,Kuwait,Abdulaziz Al-Anberi,49,FALSE,FALSE
 1977-10-16,Australia,Kuwait,Australia,Jimmy Rooney,83,FALSE,FALSE
+1977-10-16,Canada,Guatemala,Canada,Buzz Parsons,20,FALSE,FALSE
+1977-10-16,Canada,Guatemala,Canada,Bob Lenarduzzi,35,FALSE,FALSE
+1977-10-16,Canada,Guatemala,Guatemala,Mario René Alfaro,62,FALSE,FALSE
+1977-10-16,El Salvador,Haiti,Haiti,Emmanuel Sanon,24,FALSE,FALSE
+1977-10-19,Mexico,Guatemala,Mexico,Arturo Vázquez Ayala,28,FALSE,TRUE
+1977-10-19,Mexico,Guatemala,Guatemala,José Emilio Mitrovich,44,FALSE,FALSE
+1977-10-19,Mexico,Guatemala,Mexico,Javier Cárdenas,81,FALSE,FALSE
+1977-10-20,Canada,Haiti,Haiti,Guy Dorsainville,78,FALSE,FALSE
+1977-10-20,Canada,Haiti,Canada,Mike Bakic,90,FALSE,FALSE
+1977-10-20,El Salvador,Suriname,El Salvador,Mágico González,42,FALSE,FALSE
+1977-10-20,El Salvador,Suriname,Suriname,Errol Emanuelson,58,FALSE,FALSE
+1977-10-20,El Salvador,Suriname,El Salvador,Elmer Rosas,77,FALSE,FALSE
+1977-10-20,El Salvador,Suriname,El Salvador,Elmer Rosas,87,FALSE,FALSE
+1977-10-20,El Salvador,Suriname,Suriname,Remie Olmberg,89,FALSE,TRUE
 1977-10-21,Egypt,Nigeria,Egypt,Moustafa Abdou,11,FALSE,FALSE
 1977-10-21,Egypt,Nigeria,Egypt,Moustafa Abdou,27,FALSE,FALSE
 1977-10-21,Egypt,Nigeria,Egypt,Mokhtar Mokhtar,50,FALSE,FALSE
 1977-10-21,Egypt,Nigeria,Nigeria,Godwin Iwelumo,75,FALSE,FALSE
+1977-10-22,Mexico,Canada,Canada,Buzz Parsons,9,FALSE,FALSE
+1977-10-22,Mexico,Canada,Mexico,Javier Guzmán,31,FALSE,FALSE
+1977-10-22,Mexico,Canada,Mexico,Javier Guzmán,40,FALSE,FALSE
+1977-10-22,Mexico,Canada,Mexico,Hugo Sánchez,65,FALSE,FALSE
+1977-10-23,El Salvador,Guatemala,El Salvador,Elmer Rosas,44,FALSE,FALSE
+1977-10-23,El Salvador,Guatemala,Guatemala,Sergio Rivera,58,FALSE,FALSE
+1977-10-23,El Salvador,Guatemala,Guatemala,Sergio Rivera,75,FALSE,FALSE
+1977-10-23,El Salvador,Guatemala,El Salvador,Norberto Huezo,85,FALSE,FALSE
+1977-10-23,Haiti,Suriname,Haiti,Leintz Domingue,7,FALSE,FALSE
 1977-10-26,Netherlands,Belgium,Netherlands,René van de Kerkhof,4,FALSE,FALSE
 1977-10-26,Spain,Romania,Spain,Eugenio Leal,75,FALSE,FALSE
 1977-10-26,Spain,Romania,Spain,Rubén Cano,83,FALSE,FALSE
@@ -9161,13 +9510,32 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1981-10-31,Hungary,Norway,Hungary,László Kiss,60,FALSE,FALSE
 1981-10-31,Hungary,Norway,Hungary,László Fazekas,79,FALSE,FALSE
 1981-10-31,Hungary,Norway,Hungary,László Kiss,85,FALSE,FALSE
+1981-11-01,Mexico,Cuba,Mexico,Ricardo Castro,18,FALSE,FALSE
+1981-11-01,Mexico,Cuba,Mexico,Hugo Sánchez,43,FALSE,FALSE
+1981-11-01,Mexico,Cuba,Mexico,Hugo Sánchez,50,FALSE,FALSE
+1981-11-01,Mexico,Cuba,Mexico,Manuel Manzo,53,FALSE,FALSE
+1981-11-02,Canada,El Salvador,Canada,Mike Stojanović,90,FALSE,FALSE
+1981-11-03,Honduras,Haiti,Honduras,David Buezo,35,FALSE,FALSE
+1981-11-03,Honduras,Haiti,Honduras,Jorge Elvir Urquia,40,FALSE,FALSE
+1981-11-03,Honduras,Haiti,Honduras,Eduardo Laing,64,FALSE,FALSE
+1981-11-03,Honduras,Haiti,Honduras,José Roberto Figueroa,75,FALSE,FALSE
 1981-11-04,Saudi Arabia,Kuwait,Kuwait,Abdulaziz Al-Anberi,55,FALSE,FALSE
+1981-11-06,Canada,Haiti,Haiti,Gerald Romulas,34,FALSE,FALSE
+1981-11-06,Canada,Haiti,Canada,Mike Stojanović,50,FALSE,FALSE
+1981-11-06,Mexico,El Salvador,El Salvador,Ever Hernández,81,FALSE,FALSE
+1981-11-08,Honduras,Cuba,Honduras,David Buezo,36,FALSE,FALSE
+1981-11-08,Honduras,Cuba,Honduras,Anthony Costly,69,FALSE,FALSE
 1981-11-11,German DR,Malta,German DR,Andreas Krause,11,FALSE,FALSE
 1981-11-11,German DR,Malta,German DR,Joachim Streich,35,FALSE,FALSE
 1981-11-11,German DR,Malta,Malta,Ernest Spiteri-Gonzi,41,FALSE,FALSE
 1981-11-11,German DR,Malta,German DR,Jürgen Heun,71,FALSE,FALSE
 1981-11-11,German DR,Malta,German DR,Joachim Streich,75,FALSE,FALSE
 1981-11-11,German DR,Malta,German DR,John Holland,90,TRUE,FALSE
+1981-11-11,Haiti,Mexico,Haiti,Daniel Cadet,47,FALSE,FALSE
+1981-11-11,Haiti,Mexico,Mexico,Hugo Sánchez,87,FALSE,FALSE
+1981-11-12,Honduras,Canada,Honduras,Carlos Orlando Caballero,12,FALSE,FALSE
+1981-11-12,Honduras,Canada,Canada,Ian Bridge,19,FALSE,FALSE
+1981-11-12,Honduras,Canada,Honduras,José Roberto Figueroa,40,FALSE,FALSE
 1981-11-12,Saudi Arabia,China PR,Saudi Arabia,Ahmed Al Nifawi,10,FALSE,FALSE
 1981-11-12,Saudi Arabia,China PR,Saudi Arabia,Majed Abdullah,11,FALSE,FALSE
 1981-11-12,Saudi Arabia,China PR,China PR,Zuo Shusheng,62,FALSE,FALSE
@@ -9176,6 +9544,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1981-11-12,Saudi Arabia,China PR,China PR,Huang Xiangdong,88,FALSE,FALSE
 1981-11-14,Italy,Greece,Italy,Bruno Conti,61,FALSE,FALSE
 1981-11-14,Italy,Greece,Greece,Dinos Kouis,87,FALSE,FALSE
+1981-11-15,Haiti,Cuba,Cuba,Frantz Mathieu,55,TRUE,FALSE
+1981-11-15,Haiti,Cuba,Cuba,Ramón Núñez,90,FALSE,FALSE
+1981-11-15,Mexico,Canada,Mexico,Ricardo Castro,29,FALSE,FALSE
+1981-11-15,Mexico,Canada,Canada,Ian Bridge,57,FALSE,FALSE
 1981-11-15,Morocco,Cameroon,Cameroon,Roger Milla,15,FALSE,TRUE
 1981-11-15,Morocco,Cameroon,Cameroon,Jean-Pierre Tokoto,40,FALSE,FALSE
 1981-11-15,Poland,Malta,Poland,Andrzej Iwan,6,FALSE,FALSE
@@ -9204,6 +9576,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1981-11-18,Russia,Wales,Russia,Yuri Gavrilov,64,FALSE,FALSE
 1981-11-19,China PR,Saudi Arabia,China PR,Huang Xiangdong,24,FALSE,FALSE
 1981-11-19,China PR,Saudi Arabia,China PR,Cai Jinbiao,27,FALSE,FALSE
+1981-11-19,El Salvador,Haiti,El Salvador,Norberto Huezo,18,FALSE,TRUE
+1981-11-21,Cuba,Canada,Cuba,Ramón Núñez,2,FALSE,FALSE
+1981-11-21,Cuba,Canada,Canada,Wes McLeod,48,FALSE,FALSE
+1981-11-21,Cuba,Canada,Cuba,Jorge Luis Rodríguez,74,FALSE,FALSE
+1981-11-21,Cuba,Canada,Canada,Bob Iarusci,84,FALSE,FALSE
 1981-11-21,Yugoslavia,Luxembourg,Yugoslavia,Vahid Halilhodžić,1,FALSE,FALSE
 1981-11-21,Yugoslavia,Luxembourg,Yugoslavia,Vahid Halilhodžić,45,FALSE,FALSE
 1981-11-21,Yugoslavia,Luxembourg,Yugoslavia,Ivica Šurjak,65,FALSE,FALSE
@@ -10139,6 +10516,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1985-02-23,Singapore,Japan,Singapore,Yahya Madon,39,FALSE,FALSE
 1985-02-23,Singapore,Japan,Japan,Koichi Hashiratani,47,FALSE,FALSE
 1985-02-23,Singapore,Japan,Japan,Hisashi Kato,84,FALSE,FALSE
+1985-02-24,El Salvador,Suriname,El Salvador,Mauricio Alfaro,25,FALSE,FALSE
+1985-02-24,El Salvador,Suriname,El Salvador,Wilfredo Huezo,52,FALSE,FALSE
+1985-02-24,El Salvador,Suriname,El Salvador,Ever Hernández,89,FALSE,FALSE
 1985-02-24,Portugal,Germany,Germany,Pierre Littbarski,28,FALSE,FALSE
 1985-02-24,Portugal,Germany,Germany,Rudi Völler,37,FALSE,FALSE
 1985-02-24,Portugal,Germany,Portugal,Diamantino Miranda,57,FALSE,FALSE
@@ -10152,6 +10532,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1985-02-26,China PR,Brunei,China PR,Zuo Shusheng,65,FALSE,FALSE
 1985-02-26,China PR,Brunei,China PR,Zhao Dayu,85,FALSE,FALSE
 1985-02-26,China PR,Brunei,China PR,Zhao Dayu,90,FALSE,FALSE
+1985-02-27,El Salvador,Suriname,El Salvador,José María Rivas,49,FALSE,FALSE
+1985-02-27,El Salvador,Suriname,El Salvador,Luis Ramírez Zapata,70,FALSE,FALSE
+1985-02-27,El Salvador,Suriname,El Salvador,José María Rivas,87,FALSE,FALSE
 1985-02-27,Greece,Albania,Greece,Dimitris Saravakos,9,FALSE,FALSE
 1985-02-27,Greece,Albania,Greece,Kostas Antoniou,37,FALSE,FALSE
 1985-02-27,Netherlands,Cyprus,Cyprus,Panayiotis Marangos,8,FALSE,FALSE
@@ -10172,10 +10555,18 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1985-03-02,Nepal,South Korea,South Korea,Lee Tae-ho,64,FALSE,FALSE
 1985-03-03,Ecuador,Chile,Chile,Juan Carlos Letelier,31,FALSE,FALSE
 1985-03-03,Ecuador,Chile,Ecuador,Hans Maldonado,43,FALSE,FALSE
+1985-03-03,Honduras,Suriname,Suriname,Rinaldo Entingh,32,FALSE,FALSE
+1985-03-03,Honduras,Suriname,Honduras,Eduardo Laing,40,FALSE,FALSE
+1985-03-06,Honduras,Suriname,Honduras,José Roberto Figueroa,9,FALSE,FALSE
+1985-03-06,Honduras,Suriname,Honduras,José Roberto Figueroa,77,FALSE,FALSE
+1985-03-06,Honduras,Suriname,Suriname,Kenneth Stjeward,86,FALSE,FALSE
 1985-03-08,Libya,Sudan,Libya,Abubaker Ben Brahim,53,FALSE,FALSE
 1985-03-08,Libya,Sudan,Libya,Ali Al-Beshari,55,FALSE,FALSE
 1985-03-08,Libya,Sudan,Libya,Ibrahim Al-Maadani,61,FALSE,FALSE
 1985-03-08,Libya,Sudan,Libya,Abubaker Bani,71,FALSE,FALSE
+1985-03-10,El Salvador,Honduras,El Salvador,José María Rivas,NA,FALSE,FALSE
+1985-03-10,El Salvador,Honduras,Honduras,Roberto Bailey,NA,FALSE,FALSE
+1985-03-10,El Salvador,Honduras,Honduras,Eduardo Laing,NA,FALSE,FALSE
 1985-03-10,Malaysia,South Korea,Malaysia,Dollah Salleh,49,FALSE,FALSE
 1985-03-10,Uruguay,Ecuador,Uruguay,Carlos Aguilera,32,FALSE,FALSE
 1985-03-10,Uruguay,Ecuador,Ecuador,Hamilton Cuvi,54,FALSE,FALSE
@@ -10294,6 +10685,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1985-04-13,Brunei,Macau,Brunei,Ahmed Rahim,NA,FALSE,FALSE
 1985-04-13,Brunei,Macau,Macau,Alberto Carvalhal,NA,FALSE,FALSE
 1985-04-13,Brunei,Macau,Macau,Daniel Pinto,NA,FALSE,FALSE
+1985-04-13,Canada,Haiti,Canada,Igor Vrablic,30,FALSE,FALSE
+1985-04-13,Canada,Haiti,Canada,Mike Sweeney,41,FALSE,FALSE
 1985-04-17,Austria,Hungary,Hungary,József Kiprich,21,FALSE,FALSE
 1985-04-17,Austria,Hungary,Hungary,József Kiprich,33,FALSE,FALSE
 1985-04-17,Austria,Hungary,Hungary,Lajos Détári,48,FALSE,FALSE
@@ -10312,6 +10705,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1985-04-19,Syria,Yemen,Syria,Radwan Al-Sheikh Hassan,40,FALSE,FALSE
 1985-04-19,Syria,Yemen,Syria,Mahmoud Al-Sayed,70,FALSE,FALSE
 1985-04-19,United Arab Emirates,Saudi Arabia,United Arab Emirates,Fahad Khamees,5,FALSE,FALSE
+1985-04-20,Canada,Guatemala,Canada,Dale Mitchell,22,FALSE,FALSE
+1985-04-20,Canada,Guatemala,Canada,Dale Mitchell,43,FALSE,FALSE
+1985-04-20,Canada,Guatemala,Guatemala,Julio Gómez Rendón,66,FALSE,FALSE
 1985-04-20,Nigeria,Kenya,Nigeria,Dahiru Sadi,18,FALSE,FALSE
 1985-04-20,Nigeria,Kenya,Nigeria,Rashidi Yekini,20,FALSE,FALSE
 1985-04-20,Nigeria,Kenya,Kenya,Joe Masiga,36,FALSE,FALSE
@@ -10321,10 +10717,16 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1985-04-21,Ghana,Ivory Coast,Ghana,Opoku Nti,50,FALSE,FALSE
 1985-04-21,Ghana,Ivory Coast,Ghana,George Alhassan,79,FALSE,FALSE
 1985-04-21,Madagascar,Egypt,Madagascar,Herilia Rafanodina,57,FALSE,FALSE
+1985-04-24,Costa Rica,Trinidad and Tobago,Costa Rica,Franklin Williams,15,FALSE,FALSE
+1985-04-24,Costa Rica,Trinidad and Tobago,Costa Rica,Miguel Lacey,65,FALSE,FALSE
+1985-04-24,Costa Rica,Trinidad and Tobago,Costa Rica,Nilton Nóbrega,79,FALSE,FALSE
+1985-04-26,Haiti,Guatemala,Guatemala,Carlos Eduardo Estrada,79,FALSE,FALSE
 1985-04-26,Yemen,Kuwait,Kuwait,Salah Al-Hasawi,13,FALSE,FALSE
 1985-04-26,Yemen,Kuwait,Kuwait,Faisal Al-Dakhil,25,FALSE,FALSE
 1985-04-26,Yemen,Kuwait,Kuwait,Salah Al-Hasawi,57,FALSE,FALSE
 1985-04-26,Yemen,Kuwait,Yemen,Abdulnaser Abbas,88,FALSE,FALSE
+1985-04-28,Costa Rica,Trinidad and Tobago,Trinidad and Tobago,Nevick De Noon,18,FALSE,FALSE
+1985-04-28,Costa Rica,Trinidad and Tobago,Costa Rica,Jorge Manuel Ulate,57,FALSE,FALSE
 1985-04-28,Macau,Hong Kong,Hong Kong,Lau Wing Yip,80,FALSE,FALSE
 1985-04-28,Macau,Hong Kong,Hong Kong,Cheung Ka-Ping,88,FALSE,FALSE
 1985-04-30,Czechoslovakia,Germany,Germany,Thomas Berthold,8,FALSE,FALSE
@@ -10351,6 +10753,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1985-05-02,Russia,Switzerland,Russia,Georgi Kondratiev,45,FALSE,FALSE
 1985-05-04,Hong Kong,Macau,Hong Kong,Lau Wing Yip,8,FALSE,FALSE
 1985-05-04,Hong Kong,Macau,Hong Kong,Lau Wing Yip,30,FALSE,FALSE
+1985-05-05,Guatemala,Canada,Canada,Dale Mitchell,39,FALSE,FALSE
+1985-05-05,Guatemala,Canada,Guatemala,Byron Pérez,42,FALSE,FALSE
 1985-05-05,Iraq,Qatar,Iraq,Ahmed Radhi,21,FALSE,FALSE
 1985-05-05,Iraq,Qatar,Qatar,Mansour Muftah,44,FALSE,FALSE
 1985-05-05,Iraq,Qatar,Iraq,Karim Mohammed Allawi,76,FALSE,FALSE
@@ -10358,6 +10762,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1985-05-07,Austria,Cyprus,Austria,Toni Polster,35,FALSE,FALSE
 1985-05-07,Austria,Cyprus,Austria,Walter Schachner,53,FALSE,FALSE
 1985-05-07,Austria,Cyprus,Austria,Gerald Willfurth,71,FALSE,FALSE
+1985-05-08,Haiti,Canada,Canada,Dale Mitchell,14,FALSE,FALSE
+1985-05-08,Haiti,Canada,Canada,Igor Vrablic,56,FALSE,FALSE
 1985-05-12,China PR,Macau,China PR,Jia Xiuquan,10,FALSE,FALSE
 1985-05-12,China PR,Macau,China PR,Li Hui,12,FALSE,FALSE
 1985-05-12,China PR,Macau,China PR,Yang Zhaohui,27,FALSE,FALSE
@@ -10365,6 +10771,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1985-05-12,China PR,Macau,China PR,Wang Huiliang,60,FALSE,FALSE
 1985-05-12,China PR,Macau,China PR,Zhao Dayu,67,FALSE,FALSE
 1985-05-14,Hungary,Netherlands,Netherlands,Rob de Wit,69,FALSE,FALSE
+1985-05-15,Guatemala,Haiti,Guatemala,Raúl Chacón,44,FALSE,FALSE
+1985-05-15,Guatemala,Haiti,Guatemala,Selvin Galindo,48,FALSE,FALSE
+1985-05-15,Guatemala,Haiti,Guatemala,Juan Manuel Funes,62,FALSE,FALSE
+1985-05-15,Guatemala,Haiti,Guatemala,Alfredo Solórzano,71,FALSE,FALSE
+1985-05-15,United States,Trinidad and Tobago,Trinidad and Tobago,Adrian Fonrose,19,FALSE,FALSE
+1985-05-15,United States,Trinidad and Tobago,United States,Chico Borja,29,FALSE,FALSE
+1985-05-15,United States,Trinidad and Tobago,United States,Mark Peterson,89,FALSE,FALSE
 1985-05-18,German DR,Luxembourg,German DR,Ralf Minge,19,FALSE,FALSE
 1985-05-18,German DR,Luxembourg,German DR,Ralf Minge,38,FALSE,FALSE
 1985-05-18,German DR,Luxembourg,German DR,Rainer Ernst,45,FALSE,TRUE
@@ -10384,6 +10797,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1985-05-19,Greece,Poland,Poland,Dariusz Dziekanowski,90,FALSE,FALSE
 1985-05-19,South Korea,Malaysia,South Korea,Park Chang-Sun,12,FALSE,FALSE
 1985-05-19,South Korea,Malaysia,South Korea,Cho Min-Kook,19,FALSE,FALSE
+1985-05-19,United States,Trinidad and Tobago,United States,Paul Caligiuri,15,FALSE,FALSE
 1985-05-22,Finland,England,Finland,Jari Rantanen,5,FALSE,FALSE
 1985-05-22,Finland,England,England,Mark Hateley,50,FALSE,FALSE
 1985-05-25,North Korea,Singapore,North Korea,Yun Jong-su,25,FALSE,FALSE
@@ -10391,6 +10805,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1985-05-26,Bolivia,Paraguay,Bolivia,Silvio Rojas,9,FALSE,FALSE
 1985-05-26,Bolivia,Paraguay,Paraguay,Jorge Amado Nunes,82,FALSE,FALSE
 1985-05-26,Colombia,Peru,Colombia,Miguel Augusto Prince,26,FALSE,FALSE
+1985-05-26,Costa Rica,United States,Costa Rica,Óscar Ramírez,42,FALSE,FALSE
+1985-05-26,Costa Rica,United States,United States,"John Kerr, Jr.",44,FALSE,FALSE
 1985-05-26,Venezuela,Argentina,Argentina,Diego Maradona,2,FALSE,FALSE
 1985-05-26,Venezuela,Argentina,Venezuela,Orlando Torres,8,FALSE,FALSE
 1985-05-26,Venezuela,Argentina,Argentina,Daniel Passarella,42,FALSE,FALSE
@@ -10398,6 +10814,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1985-05-26,Venezuela,Argentina,Venezuela,Herbert Marquez,58,FALSE,FALSE
 1985-05-28,Iceland,Scotland,Scotland,Jim Bett,86,FALSE,FALSE
 1985-05-30,Albania,Poland,Poland,Zbigniew Boniek,24,FALSE,FALSE
+1985-05-31,United States,Costa Rica,Costa Rica,Evaristo Coronado,35,FALSE,FALSE
 1985-06-01,Bulgaria,Yugoslavia,Bulgaria,Plamen Getov,27,FALSE,FALSE
 1985-06-01,Bulgaria,Yugoslavia,Yugoslavia,Milko Djurovski,29,FALSE,FALSE
 1985-06-01,Bulgaria,Yugoslavia,Bulgaria,Plamen Getov,58,FALSE,FALSE
@@ -10470,11 +10887,18 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1985-07-30,Indonesia,South Korea,South Korea,Huh Jung-Moo,32,FALSE,FALSE
 1985-07-30,Indonesia,South Korea,South Korea,Kim Joo-sung,47,FALSE,FALSE
 1985-07-30,Indonesia,South Korea,Indonesia,Dede Sulaiman,87,FALSE,FALSE
+1985-08-11,Costa Rica,Honduras,Honduras,José Roberto Figueroa,8,FALSE,TRUE
+1985-08-11,Costa Rica,Honduras,Costa Rica,Alvaro Solano,19,FALSE,FALSE
+1985-08-11,Costa Rica,Honduras,Honduras,Porfirio Armando Betancourt,24,FALSE,FALSE
+1985-08-11,Costa Rica,Honduras,Costa Rica,Johnny Williams,81,FALSE,FALSE
 1985-08-11,Japan,Hong Kong,Japan,Kazushi Kimura,9,FALSE,FALSE
 1985-08-11,Japan,Hong Kong,Japan,Hiromi Hara,11,FALSE,FALSE
 1985-08-11,Japan,Hong Kong,Japan,Takashi Mizunuma,53,FALSE,FALSE
+1985-08-17,Canada,Costa Rica,Costa Rica,Johnny Williams,12,FALSE,FALSE
+1985-08-17,Canada,Costa Rica,Canada,Paul James,58,FALSE,FALSE
 1985-08-21,France,Uruguay,France,Dominique Rocheteau,4,FALSE,FALSE
 1985-08-21,France,Uruguay,France,José Touré,56,FALSE,FALSE
+1985-08-25,Honduras,Canada,Canada,George Pakos,58,FALSE,FALSE
 1985-08-28,Romania,Finland,Romania,Gheorghe Hagi,7,FALSE,FALSE
 1985-08-28,Romania,Finland,Romania,Dorin Mateuț,56,FALSE,FALSE
 1985-09-03,Israel,Taiwan,Israel,Rifaat Turk,28,FALSE,FALSE
@@ -10485,6 +10909,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1985-09-03,Israel,Taiwan,Israel,Uri Malmilian,90,FALSE,FALSE
 1985-09-06,Bahrain,Syria,Bahrain,Ebrahim Isa,42,FALSE,FALSE
 1985-09-06,Bahrain,Syria,Syria,Nizar Mahrous,61,FALSE,FALSE
+1985-09-08,Honduras,Costa Rica,Costa Rica,Alexandre Guimarães,7,FALSE,FALSE
+1985-09-08,Honduras,Costa Rica,Honduras,Porfirio Armando Betancourt,40,FALSE,FALSE
+1985-09-08,Honduras,Costa Rica,Honduras,José Roberto Figueroa,51,FALSE,FALSE
+1985-09-08,Honduras,Costa Rica,Honduras,José Roberto Figueroa,56,FALSE,TRUE
 1985-09-08,Israel,Taiwan,Israel,Avi Cohen,7,FALSE,FALSE
 1985-09-08,Israel,Taiwan,Israel,Zahi Armeli,18,FALSE,FALSE
 1985-09-08,Israel,Taiwan,Israel,Eli Ohana,56,FALSE,FALSE
@@ -10496,6 +10924,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1985-09-11,England,Romania,Romania,Rodion Cămătaru,60,FALSE,FALSE
 1985-09-11,German DR,France,German DR,Rainer Ernst,53,FALSE,FALSE
 1985-09-11,German DR,France,German DR,Ronald Kreer,81,FALSE,FALSE
+1985-09-14,Canada,Honduras,Canada,George Pakos,15,FALSE,FALSE
+1985-09-14,Canada,Honduras,Honduras,Porfirio Armando Betancourt,49,FALSE,FALSE
+1985-09-14,Canada,Honduras,Canada,Igor Vrablic,61,FALSE,FALSE
 1985-09-20,Syria,Bahrain,Syria,Abdul Kader Kardaghli,4,FALSE,FALSE
 1985-09-20,United Arab Emirates,Iraq,United Arab Emirates,Adnan Al Talyani,15,FALSE,FALSE
 1985-09-20,United Arab Emirates,Iraq,Iraq,Hussein Saeed,42,FALSE,FALSE
@@ -11499,6 +11930,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1989-03-15,Saudi Arabia,Syria,Saudi Arabia,Mohaisen Al-Jam'an,75,FALSE,FALSE
 1989-03-15,Saudi Arabia,Syria,Syria,Nizar Mahrous,85,FALSE,FALSE
 1989-03-17,Iran,Bangladesh,Iran,Samad Marfavi,81,FALSE,FALSE
+1989-03-19,Guatemala,Costa Rica,Guatemala,Raúl Chacón,39,FALSE,TRUE
 1989-03-19,Israel,Australia,Israel,Eli Ohana,67,FALSE,TRUE
 1989-03-19,Israel,Australia,Australia,Charlie Yankos,72,FALSE,FALSE
 1989-03-20,Yemen,Saudi Arabia,Saudi Arabia,Ahmed Jamil Madani,79,FALSE,FALSE
@@ -11508,6 +11940,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1989-03-23,Spain,Malta,Spain,Manolo,80,FALSE,FALSE
 1989-03-25,Syria,Yemen,Syria,Walid Abu Al-Sel,41,FALSE,FALSE
 1989-03-25,Syria,Yemen,Syria,Nizar Mahrous,48,FALSE,FALSE
+1989-04-02,Costa Rica,Guatemala,Costa Rica,Róger Flores,42,FALSE,FALSE
+1989-04-02,Costa Rica,Guatemala,Guatemala,Julio Rodas,51,FALSE,FALSE
+1989-04-02,Costa Rica,Guatemala,Costa Rica,Evaristo Coronado,78,FALSE,FALSE
 1989-04-02,New Zealand,Australia,New Zealand,Malcolm Dunford,19,FALSE,FALSE
 1989-04-02,New Zealand,Australia,New Zealand,Billy Wright,80,FALSE,FALSE
 1989-04-05,Saudi Arabia,Yemen,Saudi Arabia,Majed Abdullah,44,FALSE,FALSE
@@ -11521,6 +11956,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1989-04-12,Hungary,Malta,Hungary,Imre Boda,49,FALSE,TRUE
 1989-04-16,Australia,Israel,Israel,Eli Ohana,40,FALSE,FALSE
 1989-04-16,Australia,Israel,Australia,Paul Trimboli,88,FALSE,FALSE
+1989-04-16,Costa Rica,United States,Costa Rica,Gilberto Rhoden,14,FALSE,FALSE
 1989-04-26,Bulgaria,Denmark,Denmark,Flemming Povlsen,41,FALSE,FALSE
 1989-04-26,Bulgaria,Denmark,Denmark,Brian Laudrup,89,FALSE,FALSE
 1989-04-26,England,Albania,England,Gary Lineker,5,FALSE,FALSE
@@ -11546,6 +11982,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1989-04-29,Belgium,Czechoslovakia,Belgium,Marc Degryse,29,FALSE,FALSE
 1989-04-29,Belgium,Czechoslovakia,Czechoslovakia,Milan Luhový,41,FALSE,FALSE
 1989-04-29,Belgium,Czechoslovakia,Belgium,Marc Degryse,77,FALSE,FALSE
+1989-04-30,United States,Costa Rica,United States,Tab Ramos,72,FALSE,FALSE
 1989-05-07,Sweden,Poland,Sweden,Roger Ljung,85,FALSE,FALSE
 1989-05-07,Sweden,Poland,Poland,Ryszard Tarasiewicz,87,FALSE,FALSE
 1989-05-07,Sweden,Poland,Sweden,Niclas Nyhlén,90,FALSE,FALSE
@@ -11554,6 +11991,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1989-05-09,Czechoslovakia,Luxembourg,Czechoslovakia,Michal Bílek,81,FALSE,FALSE
 1989-05-09,Czechoslovakia,Luxembourg,Czechoslovakia,Tomáš Skuhravý,84,FALSE,FALSE
 1989-05-10,Turkey,Russia,Russia,Oleksiy Mykhaylychenko,41,FALSE,FALSE
+1989-05-13,United States,Trinidad and Tobago,United States,Steve Trittschuh,48,FALSE,FALSE
+1989-05-13,United States,Trinidad and Tobago,Trinidad and Tobago,Hutson Charles,88,FALSE,FALSE
 1989-05-17,Denmark,Greece,Denmark,Brian Laudrup,24,FALSE,FALSE
 1989-05-17,Denmark,Greece,Greece,Kostas Mavridis,39,FALSE,FALSE
 1989-05-17,Denmark,Greece,Denmark,Jan Bartram,47,FALSE,FALSE
@@ -11595,6 +12034,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1989-05-27,South Korea,Malaysia,South Korea,Hwang Sun-hong,79,FALSE,FALSE
 1989-05-28,Republic of Ireland,Malta,Republic of Ireland,Ray Houghton,32,FALSE,FALSE
 1989-05-28,Republic of Ireland,Malta,Republic of Ireland,Kevin Moran,55,FALSE,FALSE
+1989-05-28,Trinidad and Tobago,Costa Rica,Trinidad and Tobago,Philibert Jones,13,FALSE,FALSE
+1989-05-28,Trinidad and Tobago,Costa Rica,Costa Rica,Evaristo Coronado,69,FALSE,FALSE
 1989-05-30,Iran,Thailand,Iran,Farshad Pious,33,FALSE,FALSE
 1989-05-30,Iran,Thailand,Iran,Mohsen Garousi,42,FALSE,FALSE
 1989-05-30,Iran,Thailand,Iran,Farshad Pious,64,FALSE,FALSE
@@ -11645,6 +12086,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1989-06-10,Nigeria,Cameroon,Nigeria,Samson Siasia,86,FALSE,FALSE
 1989-06-11,Angola,Gabon,Angola,Joseph Maluka,7,FALSE,FALSE
 1989-06-11,Angola,Gabon,Angola,Joseph Maluka,28,FALSE,FALSE
+1989-06-11,Costa Rica,Trinidad and Tobago,Costa Rica,Juan Cayasso,2,FALSE,FALSE
 1989-06-11,Japan,Indonesia,Japan,Takumi Horiike,5,FALSE,FALSE
 1989-06-11,Japan,Indonesia,Japan,Osamu Maeda,16,FALSE,FALSE
 1989-06-11,Japan,Indonesia,Japan,Katsuyoshi Shinto,19,FALSE,FALSE
@@ -11655,10 +12097,19 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1989-06-14,Norway,Yugoslavia,Yugoslavia,Dragan Stojković,21,FALSE,FALSE
 1989-06-14,Norway,Yugoslavia,Yugoslavia,Zlatko Vujović,86,FALSE,FALSE
 1989-06-14,Norway,Yugoslavia,Norway,Jan Åge Fjørtoft,89,FALSE,FALSE
+1989-06-17,United States,Guatemala,United States,Bruce Murray,3,FALSE,FALSE
+1989-06-17,United States,Guatemala,Guatemala,Raúl Chacón,22,FALSE,FALSE
+1989-06-17,United States,Guatemala,United States,Eric Eichmann,67,FALSE,FALSE
 1989-06-24,Malawi,Kenya,Malawi,Peterkins Kayira,55,FALSE,FALSE
 1989-06-25,Angola,Cameroon,Angola,Paulo António Alves,5,FALSE,FALSE
 1989-06-25,Angola,Cameroon,Cameroon,François Omam-Biyik,59,FALSE,FALSE
 1989-06-25,Angola,Cameroon,Cameroon,André Kana-Biyik,70,FALSE,FALSE
+1989-06-25,El Salvador,Costa Rica,Costa Rica,Juan Cayasso,16,FALSE,FALSE
+1989-06-25,El Salvador,Costa Rica,El Salvador,Jaime Rodriguez,24,FALSE,FALSE
+1989-06-25,El Salvador,Costa Rica,Costa Rica,Carlos Hidalgo,46,FALSE,FALSE
+1989-06-25,El Salvador,Costa Rica,Costa Rica,Leonidas Flores,51,FALSE,FALSE
+1989-06-25,El Salvador,Costa Rica,El Salvador,José Maria Rivas,63,FALSE,FALSE
+1989-06-25,El Salvador,Costa Rica,Costa Rica,Leonidas Flores,75,FALSE,FALSE
 1989-06-25,Gabon,Nigeria,Gabon,Nicaise Ondeno,32,FALSE,FALSE
 1989-06-25,Gabon,Nigeria,Gabon,Michel Minko,37,FALSE,FALSE
 1989-06-25,Gabon,Nigeria,Nigeria,Samson Siasia,57,FALSE,FALSE
@@ -11742,6 +12193,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1989-07-15,China PR,Iran,China PR,Liu Haiguang,73,FALSE,FALSE
 1989-07-15,China PR,Iran,China PR,Zhang Xiaowen,87,FALSE,FALSE
 1989-07-16,Brazil,Uruguay,Brazil,Romário,49,FALSE,FALSE
+1989-07-16,Costa Rica,El Salvador,Costa Rica,Pastor Fernández,55,FALSE,FALSE
 1989-07-22,Iran,China PR,Iran,Mohsen Garousi,15,FALSE,FALSE
 1989-07-22,Iran,China PR,Iran,Sayed Ali Eftekhari,16,FALSE,FALSE
 1989-07-22,Iran,China PR,Iran,Farshad Pious,53,FALSE,FALSE
@@ -11749,6 +12201,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1989-07-22,Iran,China PR,China PR,Ma Lin,66,FALSE,FALSE
 1989-07-29,China PR,Thailand,China PR,Jia Xiuquan,2,FALSE,FALSE
 1989-07-29,China PR,Thailand,China PR,Ma Lin,4,FALSE,FALSE
+1989-07-30,Trinidad and Tobago,El Salvador,Trinidad and Tobago,Leonson Lewis,50,FALSE,FALSE
+1989-07-30,Trinidad and Tobago,El Salvador,Trinidad and Tobago,Leonson Lewis,61,FALSE,FALSE
 1989-07-30,Venezuela,Brazil,Brazil,Branco,5,FALSE,FALSE
 1989-07-30,Venezuela,Brazil,Brazil,Romário,65,FALSE,FALSE
 1989-07-30,Venezuela,Brazil,Brazil,Bebeto,79,FALSE,FALSE
@@ -11782,6 +12236,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1989-08-20,Brazil,Venezuela,Brazil,Careca,86,FALSE,FALSE
 1989-08-20,Colombia,Ecuador,Colombia,Arnoldo Iguarán,32,FALSE,FALSE
 1989-08-20,Colombia,Ecuador,Colombia,Arnoldo Iguarán,72,FALSE,FALSE
+1989-08-20,Guatemala,Trinidad and Tobago,Trinidad and Tobago,Kerry Jamerson,57,FALSE,FALSE
 1989-08-23,Austria,Iceland,Austria,Heimo Pfeifenberger,47,FALSE,FALSE
 1989-08-23,Austria,Iceland,Iceland,Ragnar Margeirsson,48,FALSE,FALSE
 1989-08-23,Austria,Iceland,Austria,Manfred Zsak,62,FALSE,FALSE
@@ -11807,6 +12262,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1989-09-03,Bolivia,Uruguay,Bolivia,Álvaro Peña,47,FALSE,FALSE
 1989-09-03,Bolivia,Uruguay,Uruguay,Rubén Sosa,49,FALSE,FALSE
 1989-09-03,Brazil,Chile,Brazil,Careca,49,FALSE,FALSE
+1989-09-03,Trinidad and Tobago,Guatemala,Guatemala,Julio Rodas,6,FALSE,FALSE
+1989-09-03,Trinidad and Tobago,Guatemala,Trinidad and Tobago,Philibert Jones,10,FALSE,FALSE
+1989-09-03,Trinidad and Tobago,Guatemala,Trinidad and Tobago,Kerry Jamerson,88,FALSE,FALSE
 1989-09-05,Norway,France,France,Jean-Pierre Papin,40,FALSE,TRUE
 1989-09-05,Norway,France,Norway,Rune Bratseth,84,FALSE,FALSE
 1989-09-06,Belgium,Portugal,Belgium,Jan Ceulemans,34,FALSE,FALSE
@@ -11832,6 +12290,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1989-09-17,Colombia,Paraguay,Paraguay,Alfredo Mendoza,45,FALSE,FALSE
 1989-09-17,Colombia,Paraguay,Colombia,Arnoldo Iguarán,56,FALSE,FALSE
 1989-09-17,Colombia,Paraguay,Colombia,Rubén Darío Hernández,67,FALSE,FALSE
+1989-09-17,El Salvador,United States,United States,Hugo Pérez,61,FALSE,FALSE
 1989-09-17,Uruguay,Bolivia,Uruguay,Rubén Sosa,31,FALSE,FALSE
 1989-09-17,Uruguay,Bolivia,Uruguay,Enzo Francescoli,39,FALSE,FALSE
 1989-09-20,Iceland,Turkey,Iceland,Pétur Pétursson,56,FALSE,FALSE
@@ -11964,6 +12423,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1989-11-17,Egypt,Algeria,Egypt,Hossam Hassan,4,FALSE,FALSE
 1989-11-18,France,Cyprus,France,Didier Deschamps,25,FALSE,FALSE
 1989-11-18,France,Cyprus,France,Laurent Blanc,75,FALSE,FALSE
+1989-11-19,Trinidad and Tobago,United States,United States,Paul Caligiuri,30,FALSE,FALSE
 1989-11-19,Tunisia,Cameroon,Cameroon,François Omam-Biyik,14,FALSE,FALSE
 1990-03-02,Algeria,Nigeria,Algeria,Rabah Madjer,36,FALSE,FALSE
 1990-03-02,Algeria,Nigeria,Algeria,Rabah Madjer,58,FALSE,FALSE
