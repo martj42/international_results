@@ -86,6 +86,11 @@ date,home_team,away_team,winner,first_shooter
 1986-06-21,Brazil,France,France,Brazil
 1986-06-21,Mexico,Germany,Germany,Germany
 1986-06-22,Spain,Belgium,Belgium,Spain
+1986-10-01,Saudi Arabia,Iraq,Saudi Arabia,
+1986-10-01,South Korea,Iran,South Korea,
+1986-10-01,United Arab Emirates,Indonesia,Indonesia,
+1986-10-01,Kuwait,China,Kuwait,
+1986-10-03,Saudi Arabia,Kuwait,Saudi Arabia,
 1986-10-19,Gabon,Angola,Angola,
 1986-12-17,Chad,Gabon,Chad,
 1987-03-01,Mali,Sierra Leone,Mali,
@@ -125,6 +130,8 @@ date,home_team,away_team,winner,first_shooter
 1990-07-03,Italy,Argentina,Argentina,Italy
 1990-07-04,Germany,England,Germany,England
 1990-08-03,China PR,South Korea,South Korea,
+1990-10-01,Saudi Arabia,North Korea,North Korea,
+1990-10-06,Iran,North Korea,Iran,
 1990-12-17,Tanzania,Uganda,Uganda,
 1990-12-17,Central African Republic,Equatorial Guinea,Central African Republic,
 1991-01-21,Cameroon,Algeria,Cameroon,
@@ -217,6 +224,7 @@ date,home_team,away_team,winner,first_shooter
 1998-11-17,Guatemala,Honduras,Guatemala,
 1998-11-18,Guatemala,Mexico,Guatemala,
 1998-12-02,United Arab Emirates,North Korea,United Arab Emirates,
+1998-12-14,Qatar,Kuwait,Kuwait,
 1999-05-22,Malawi,Namibia,Namibia,
 1999-06-16,Thailand,New Zealand,Thailand,
 1999-06-19,New Zealand,Poland,Poland,
