@@ -14,6 +14,7 @@ date,home_team,away_team,winner,first_shooter
 1973-08-09,India,Vietnam Republic,Vietnam Republic,
 1973-08-23,Algeria,Syria,Syria,
 1973-08-25,Algeria,Iraq,Algeria,
+1973-09-06,Singapore,Vietnam Republic,Vietnam Republic,
 1974-03-28,Qatar,United Arab Emirates,Qatar,
 1974-07-24,Hong Kong,Indonesia,Indonesia,
 1974-08-01,India,Indonesia,Indonesia,
@@ -22,6 +23,7 @@ date,home_team,away_team,winner,first_shooter
 1974-12-18,South Korea,Malaysia,South Korea,
 1975-07-13,Morocco,Ghana,Morocco,
 1975-11-09,Kenya,Malawi,Kenya,
+1975-12-09,Thailand,Malaysia,Thailand,
 1975-12-23,Libya,Syria,Syria,
 1976-06-20,Czechoslovakia,Germany,Czechoslovakia,Czechoslovakia
 1976-12-22,South Korea,Malaysia,Malaysia,
@@ -34,6 +36,7 @@ date,home_team,away_team,winner,first_shooter
 1979-01-14,Guinea-Bissau,Guinea,Guinea,
 1979-04-29,Cameroon,Guinea,Guinea,
 1979-05-22,Argentina,Netherlands,Argentina,Argentina
+1979-09-29,Indonesia,Thailand,Indonesia,
 1980-02-16,Gambia,Mauritania,Gambia,
 1980-03-19,Algeria,Egypt,Algeria,
 1980-06-21,Italy,Czechoslovakia,Czechoslovakia,Italy
@@ -42,6 +45,7 @@ date,home_team,away_team,winner,first_shooter
 1980-12-31,Hong Kong,China PR,China PR,
 1981-02-13,Mali,Guinea,Guinea,
 1981-05-10,Rwanda,Ethiopia,Ethiopia,
+1981-12-13,Malaysia,Singapore,Malaysia,
 1982-02-21,Ivory Coast,Togo,Togo,
 1982-02-22,Ivory Coast,Burkina Faso,Burkina Faso,
 1982-03-19,Libya,Ghana,Ghana,
@@ -55,6 +59,7 @@ date,home_team,away_team,winner,first_shooter
 1983-02-27,Mali,Guinea,Mali,
 1983-04-22,Egypt,Congo,Egypt,
 1983-04-24,Mauritius,Ethiopia,Ethiopia,
+1983-06-04,Thailand,Malaysia,Thailand,
 1983-07-18,Hong Kong,Thailand,Thailand,
 1983-08-28,Morocco,Nigeria,Nigeria,
 1983-12-15,Ivory Coast,Mali,Ivory Coast,
@@ -82,6 +87,7 @@ date,home_team,away_team,winner,first_shooter
 1985-08-25,Mali,Guinea,Guinea,
 1985-09-15,Mozambique,Libya,Mozambique,
 1985-10-11,Kenya,Uganda,Kenya,
+1985-12-15,Singapore,Malaysia,Singapore,
 1986-03-21,Egypt,Cameroon,Egypt,
 1986-06-21,Brazil,France,France,Brazil
 1986-06-21,Mexico,Germany,Germany,Germany
@@ -117,6 +123,7 @@ date,home_team,away_team,winner,first_shooter
 1988-12-18,South Korea,Saudi Arabia,Saudi Arabia,South Korea
 1989-04-23,Ghana,Gabon,Gabon,
 1989-04-23,Kenya,Sudan,Kenya,
+1989-08-30,Indonesia,Thailand,Indonesia,
 1989-11-08,Iran,Uganda,Uganda,
 1989-11-12,Iraq,Uganda,Iraq,
 1989-12-11,Chad,Cameroon,Cameroon,
@@ -144,6 +151,8 @@ date,home_team,away_team,winner,first_shooter
 1991-08-08,Czechoslovakia,Yugoslavia,Czechoslovakia,
 1991-09-20,Fiji,Solomon Islands,Fiji,
 1991-09-28,Egypt,Mali,Egypt,
+1991-12-02,Indonesia,Singapore,Indonesia,
+1991-12-04,Indonesia,Thailand,Indonesia,
 1992-01-23,Cameroon,Ivory Coast,Ivory Coast,
 1992-01-26,Ghana,Ivory Coast,Ivory Coast,Ghana
 1992-06-22,Netherlands,Denmark,Denmark,Netherlands
@@ -158,6 +167,7 @@ date,home_team,away_team,winner,first_shooter
 1993-05-27,Bolivia,Paraguay,Bolivia,
 1993-05-28,Martinique,Saint Kitts and Nevis,Martinique,
 1993-05-30,Jamaica,Martinique,Martinique,
+1993-06-17,Singapore,Myanmar,Singapore,
 1993-06-26,Colombia,Uruguay,Colombia,Colombia
 1993-06-27,Brazil,Argentina,Argentina,Brazil
 1993-07-01,Colombia,Argentina,Argentina,Colombia
@@ -206,6 +216,7 @@ date,home_team,away_team,winner,first_shooter
 1997-04-10,India,Iraq,Iraq,
 1997-06-22,Ecuador,Mexico,Mexico,Ecuador
 1997-07-10,Trinidad and Tobago,Jamaica,Trinidad and Tobago,
+1997-10-18,Indonesia,Thailand,Thailand,
 1997-10-20,Haiti,Cuba,Haiti,
 1997-10-22,Cuba,Cameroon,Cuba,
 1997-12-07,Gambia,Guinea,Guinea,
@@ -236,6 +247,7 @@ date,home_team,away_team,winner,first_shooter
 1999-08-03,Rwanda,Kenya,Kenya,
 1999-08-07,Rwanda,Burundi,Rwanda,
 1999-08-07,Zambia,Mozambique,Zambia,
+1999-08-14,Indonesia,Singapore,Indonesia,
 1999-08-28,Namibia,Eswatini,Namibia,
 1999-11-26,Gabon,Togo,Togo,
 2000-02-04,Romania,Georgia,Romania,
