@@ -5597,7 +5597,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1963-03-29,Nicaragua,Panama,0,5,CONCACAF Championship,San Salvador,El Salvador,TRUE
 1963-03-30,Costa Rica,Mexico,0,0,CONCACAF Championship,Santa Ana,El Salvador,TRUE
 1963-03-30,Jamaica,Curaçao,1,2,CONCACAF Championship,Santa Ana,El Salvador,TRUE
-1963-03-31,Panama,Honduras,1,0,CONCACAF Championship,San Salvador,El Salvador,TRUE
+1963-03-31,Panama,Honduras,0,1,CONCACAF Championship,San Salvador,El Salvador,TRUE
 1963-03-31,El Salvador,Guatemala,1,1,CONCACAF Championship,San Salvador,El Salvador,FALSE
 1963-03-31,Argentina,Paraguay,1,1,Copa América,La Paz,Bolivia,TRUE
 1963-03-31,Belgium,Yugoslavia,0,1,UEFA Euro qualification,Brussels,Belgium,FALSE
@@ -7717,7 +7717,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1969-11-26,South Korea,Vietnam Republic,3,0,King's Cup,Bangkok,Thailand,TRUE
 1969-11-27,Australia,Zimbabwe,0,0,FIFA World Cup qualification,Maputo,Mozambique,TRUE
 1969-11-27,Costa Rica,Curaçao,2,1,CONCACAF Championship,San José,Costa Rica,FALSE
-1969-11-27,Jamaica,Mexico,0,2,CONCACAF Championship,San José,Costa Rica,TRUE
 1969-11-27,Mexico,Jamaica,2,0,CONCACAF Championship,San José,Costa Rica,TRUE
 1969-11-27,Guatemala,Trinidad and Tobago,2,0,CONCACAF Championship,San José,Costa Rica,TRUE
 1969-11-28,Indonesia,South Korea,0,1,King's Cup,Bangkok,Thailand,TRUE
