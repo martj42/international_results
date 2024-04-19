@@ -31956,11 +31956,23 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2008-09-21,Antigua and Barbuda,Guyana,3,0,Friendly,St. John's,Antigua and Barbuda,FALSE
 2008-09-24,Mexico,Chile,0,1,Friendly,Los Angeles,United States,TRUE
 2008-09-24,Saint Kitts and Nevis,British Virgin Islands,4,0,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,FALSE
+2008-09-24,Tahiti,New Caledonia,0,1,Coupe de l'Outre-Mer,La Courneuve,France,TRUE
+2008-09-24,Guadeloupe,Martinique,0,1,Coupe de l'Outre-Mer,La Courneuve,France,TRUE
+2008-09-25,Mayotte,Réunion,1,6,Coupe de l'Outre-Mer,Franconville,France,TRUE
 2008-09-26,British Virgin Islands,Barbados,1,2,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,TRUE
+2008-09-27,New Caledonia,Guadeloupe,0,4,Coupe de l'Outre-Mer,Melun,France,TRUE
+2008-09-27,Tahiti,Martinique,0,1,Coupe de l'Outre-Mer,Melun,France,TRUE
 2008-09-28,Saint Kitts and Nevis,Barbados,1,3,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,FALSE
+2008-09-28,French Guiana,Mayotte,4,2,Coupe de l'Outre-Mer,Bonneuil-sur-Marne,France,TRUE
 2008-09-30,South Africa,Malawi,3,0,Friendly,Johannesburg,South Africa,FALSE
+2008-09-30,Tahiti,Guadeloupe,0,1,Coupe de l'Outre-Mer,Colombes,France,TRUE
+2008-09-30,New Caledonia,Martinique,1,1,Coupe de l'Outre-Mer,Poissy,France,TRUE
 2008-10-01,Vietnam,Myanmar,2,3,Friendly,Ho Chi Minh City,Vietnam,FALSE
+2008-10-01,French Guiana,Réunion,0,2,Coupe de l'Outre-Mer,Viry-Châtillon,France,TRUE
 2008-10-03,Myanmar,Turkmenistan,1,2,Friendly,Ho Chi Minh City,Vietnam,TRUE
+2008-10-03,New Caledonia,Mayotte,3,2,Coupe de l'Outre-Mer,La Courneuve,France,TRUE
+2008-10-03,Guadeloupe,French Guiana,4,0,Coupe de l'Outre-Mer,La Courneuve,France,TRUE
+2008-10-04,Martinique,Réunion,0,1,Coupe de l'Outre-Mer,Val de Marne,France,TRUE
 2008-10-08,Trinidad and Tobago,Dominican Republic,9,0,Friendly,Port of Spain,Trinidad and Tobago,FALSE
 2008-10-09,Japan,United Arab Emirates,1,1,Friendly,Niigata,Japan,FALSE
 2008-10-10,Malaysia,Pakistan,4,1,Friendly,Kuala Lumpur,Malaysia,FALSE
@@ -33314,13 +33326,13 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2010-05-18,Yemen,Oman,0,1,Friendly,Sana'a,Yemen,FALSE
 2010-05-19,Austria,Croatia,0,1,Friendly,Klagenfurt,Austria,FALSE
 2010-05-19,Belgium,Bulgaria,2,1,Friendly,Brussels,Belgium,FALSE
-2010-05-19,Gabon,Togo,3,0,Friendly,Ajaccio,France,TRUE
-2010-05-19,Corsica,Brittany,2,0,Friendly,Ajaccio,France,FALSE
+2010-05-19,Gabon,Togo,3,0,Corsica Cup,Ajaccio,France,TRUE
+2010-05-19,Corsica,Brittany,2,0,Corsica Cup,Ajaccio,France,FALSE
 2010-05-20,Aruba,Venezuela,0,3,Friendly,Oranjestad,Aruba,FALSE
 2010-05-21,DR Congo,Saudi Arabia,0,2,Friendly,Schwaz,Austria,TRUE
 2010-05-21,Estonia,Finland,2,0,Friendly,Tallinn,Estonia,FALSE
-2010-05-21,Brittany,Togo,2,1,Friendly,Bastia,France,FALSE
-2010-05-21,Corsica,Gabon,1,1,Friendly,Bastia,France,FALSE
+2010-05-21,Brittany,Togo,2,1,Corsica Cup,Bastia,France,FALSE
+2010-05-21,Corsica,Gabon,1,1,Corsica Cup,Bastia,France,FALSE
 2010-05-22,Turkey,Czech Republic,2,1,Friendly,Harrison,United States,TRUE
 2010-05-23,Croatia,Wales,2,0,Friendly,Osijek,Croatia,FALSE
 2010-05-24,Argentina,Canada,5,0,Friendly,Buenos Aires,Argentina,FALSE
@@ -33667,23 +33679,37 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2010-09-19,Saint Martin,British Virgin Islands,3,1,Friendly,Quartier d'Orléans,Saint Martin,FALSE
 2010-09-21,Iraq,Oman,3,2,Friendly,Amman,Jordan,TRUE
 2010-09-21,Saint Lucia,Trinidad and Tobago,0,3,Friendly,St. John's,Antigua and Barbuda,TRUE
+2010-09-22,Réunion,Saint Pierre and Miquelon,11,0,Coupe de l'Outre-Mer,Val-d'Oise,France,TRUE
+2010-09-22,French Guiana,Mayotte,2,2,Coupe de l'Outre-Mer,Val-d'Oise,France,TRUE
 2010-09-23,Antigua and Barbuda,Saint Lucia,5,0,Friendly,St. John's,Antigua and Barbuda,FALSE
+2010-09-23,Martinique,Tahiti,4,1,Coupe de l'Outre-Mer,Val-de-Marne,France,TRUE
+2010-09-23,Guadeloupe,New Caledonia,1,1,Coupe de l'Outre-Mer,Val-de-Marne,France,TRUE
 2010-09-24,Iran,Bahrain,3,0,WAFF Championship,Amman,Jordan,TRUE
 2010-09-24,Jordan,Syria,1,1,WAFF Championship,Amman,Jordan,FALSE
 2010-09-24,Vietnam,North Korea,0,0,Friendly,Hanoi,Vietnam,FALSE
 2010-09-25,Iraq,Yemen,2,1,WAFF Championship,Amman,Jordan,TRUE
+2010-09-25,Mayotte,Réunion,1,2,Coupe de l'Outre-Mer,Hauts de Seine,France,TRUE
+2010-09-25,French Guiana,Saint Pierre and Miquelon,7,0,Coupe de l'Outre-Mer,Hauts de Seine,France,TRUE
 2010-09-26,Bahrain,Oman,2,0,WAFF Championship,Amman,Jordan,TRUE
 2010-09-26,Barbados,Dominica,1,3,Friendly,Bridgetown,Barbados,FALSE
 2010-09-26,Guyana,Trinidad and Tobago,1,1,Friendly,Providence,Guyana,FALSE
 2010-09-26,Syria,Kuwait,1,2,WAFF Championship,Amman,Jordan,TRUE
+2010-09-26,New Caledonia,Martinique,0,4,Coupe de l'Outre-Mer,Essonne,France,TRUE
+2010-09-26,Guadeloupe,Tahiti,1,1,Coupe de l'Outre-Mer,Essonne,France,TRUE
 2010-09-27,Yemen,Palestine,3,1,WAFF Championship,Amman,Jordan,TRUE
 2010-09-28,Jordan,Kuwait,2,2,WAFF Championship,Amman,Jordan,FALSE
 2010-09-28,Oman,Iran,2,2,WAFF Championship,Amman,Jordan,TRUE
+2010-09-28,French Guiana,Réunion,0,1,Coupe de l'Outre-Mer,Seine-Saint-Denis,France,TRUE
+2010-09-28,Mayotte,Saint Pierre and Miquelon,10,0,Coupe de l'Outre-Mer,Val d'Oise,France,TRUE
 2010-09-29,Palestine,Iraq,0,3,WAFF Championship,Amman,Jordan,TRUE
+2010-09-29,Guadeloupe,Martinique,2,0,Coupe de l'Outre-Mer,Val de Marne,France,TRUE
+2010-09-29,New Caledonia,Tahiti,1,1,Coupe de l'Outre-Mer,Essonne,France,TRUE
 2010-10-01,Iran,Iraq,2,1,WAFF Championship,Amman,Jordan,TRUE
 2010-10-01,Kuwait,Yemen,1,1,WAFF Championship,Amman,Jordan,TRUE
 2010-10-01,Saint Martin,Cayman Islands,1,1,CFU Caribbean Cup qualification,Bayamón,Puerto Rico,TRUE
+2010-10-01,Mayotte,Guadeloupe,0,4,Coupe de l'Outre-Mer,Seine-Saint-Denis,France,TRUE
 2010-10-02,Puerto Rico,Anguilla,3,1,CFU Caribbean Cup qualification,Bayamón,Puerto Rico,FALSE
+2010-10-02,Réunion,Martinique,0,0,Coupe de l'Outre-Mer,Val-de-Marne,France,TRUE
 2010-10-03,Iran,Kuwait,1,2,WAFF Championship,Amman,Jordan,TRUE
 2010-10-04,Cayman Islands,Anguilla,4,1,CFU Caribbean Cup qualification,Bayamón,Puerto Rico,TRUE
 2010-10-04,India,Hong Kong,0,1,Friendly,Pune,India,FALSE
@@ -35760,18 +35786,34 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2012-09-16,French Guiana,Haiti,1,2,Friendly,Cayenne,French Guiana,FALSE
 2012-09-19,Brazil,Argentina,2,1,Superclásico de las Américas,Goiânia,Brazil,FALSE
 2012-09-20,Nepal,Bangladesh,1,1,Friendly,Kathmandu,Nepal,FALSE
+2012-09-22,Guadeloupe,Saint Pierre and Miquelon,13,0,Coupe de l'Outre-Mer,Versailles,France,TRUE
+2012-09-22,Réunion,French Guiana,2,0,Coupe de l'Outre-Mer,Versailles,France,TRUE
+2012-09-22,Tahiti,Mayotte,1,3,Coupe de l'Outre-Mer,Issy-les-Moulineaux,France,TRUE
+2012-09-22,Martinique,New Caledonia,2,0,Coupe de l'Outre-Mer,Issy-les-Moulineaux,France,TRUE
 2012-09-23,Aruba,Dominican Republic,2,2,CFU Caribbean Cup qualification,Bridgetown,Barbados,TRUE
 2012-09-23,Barbados,Dominica,1,0,CFU Caribbean Cup qualification,Bridgetown,Barbados,FALSE
+2012-09-24,Réunion,Saint Pierre and Miquelon,10,0,Coupe de l'Outre-Mer,Saint-Ouen,France,TRUE
+2012-09-24,Guadeloupe,French Guiana,4,2,Coupe de l'Outre-Mer,Saint-Ouen,France,TRUE
+2012-09-24,New Caledonia,Mayotte,0,2,Coupe de l'Outre-Mer,Corbeil-Essonnes,France,TRUE
+2012-09-24,Martinique,Tahiti,2,3,Coupe de l'Outre-Mer,Corbeil-Essonnes,France,TRUE
 2012-09-25,Barbados,Dominican Republic,0,1,CFU Caribbean Cup qualification,Bridgetown,Barbados,FALSE
 2012-09-25,Dominica,Aruba,3,2,CFU Caribbean Cup qualification,Bridgetown,Barbados,TRUE
 2012-09-25,Philippines,Guam,1,0,Friendly,Manila,Philippines,FALSE
 2012-09-25,Abkhazia,Artsakh,1,1,Friendly,Sukhumi,Georgia,FALSE
+2012-09-26,Réunion,Guadeloupe,2,1,Coupe de l'Outre-Mer,Franconville,France,TRUE
+2012-09-26,French Guiana,Saint Pierre and Miquelon,11,1,Coupe de l'Outre-Mer,Saint-Ouen-l'Aumône,France,TRUE
+2012-09-26,New Caledonia,Tahiti,0,1,Coupe de l'Outre-Mer,Franconville,France,TRUE
+2012-09-26,Martinique,Mayotte,3,0,Coupe de l'Outre-Mer,Saint-Ouen-l'Aumône,France,TRUE
 2012-09-27,Barbados,Aruba,2,1,CFU Caribbean Cup qualification,Bridgetown,Barbados,FALSE
 2012-09-27,Dominican Republic,Dominica,2,1,CFU Caribbean Cup qualification,Bridgetown,Barbados,TRUE
 2012-09-27,Philippines,Macau,5,0,Friendly,Manila,Philippines,FALSE
 2012-09-28,Oman,Yemen,2,1,Friendly,Muscat,Oman,FALSE
+2012-09-28,Saint Pierre and Miquelon,New Caledonia,1,16,Coupe de l'Outre-Mer,Clairefontaine-en-Yvelines,France,TRUE
+2012-09-28,French Guiana,Tahiti,2,1,Coupe de l'Outre-Mer,Clairefontaine-en-Yvelines,France,TRUE
 2012-09-29,Macau,Guam,0,3,Friendly,Manila,Philippines,TRUE
 2012-09-29,Philippines,Taiwan,3,1,Friendly,Manila,Philippines,FALSE
+2012-09-29,Guadeloupe,Mayotte,1,0,Coupe de l'Outre-Mer,Saint-Gratien,France,TRUE
+2012-09-29,Réunion,Martinique,2,2,Coupe de l'Outre-Mer,Saint-Gratien,France,TRUE
 2012-10-05,Myanmar,Brunei,1,0,AFF Championship qualification,Yangon,Myanmar,FALSE
 2012-10-05,Cambodia,Timor-Leste,1,5,AFF Championship qualification,Yangon,Myanmar,TRUE
 2012-10-07,Myanmar,Timor-Leste,2,1,AFF Championship qualification,Yangon,Myanmar,FALSE

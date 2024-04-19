@@ -388,12 +388,19 @@ date,home_team,away_team,winner,first_shooter
 2008-06-20,Croatia,Turkey,Turkey,Croatia
 2008-06-22,Spain,Italy,Spain,Spain
 2008-07-27,Zambia,Zimbabwe,Zambia,
+2008-09-30,New Caledonia,Martinique,Martinique,
 2009-06-26,Provence,Sápmi,Sápmi,
 2009-07-23,Costa Rica,Mexico,Mexico,Mexico
 2009-10-28,Zimbabwe,South Africa,Zimbabwe,
 2010-01-25,Zambia,Nigeria,Nigeria,Zambia
+2010-05-21,Corsica,Gabon,Corsica,
 2010-06-29,Paraguay,Japan,Paraguay,Paraguay
 2010-07-02,Uruguay,Ghana,Uruguay,Uruguay
+2010-09-22,French Guiana,Mayotte,Mayotte,
+2010-09-23,Guadeloupe,New Caledonia,New Caledonia,
+2010-09-26,Guadeloupe,Tahiti,Tahiti,
+2010-09-29,New Caledonia,Tahiti,Tahiti,
+2010-10-02,Réunion,Martinique,Martinique,
 2011-01-25,Japan,South Korea,Japan,Japan
 2011-02-08,Romania,Ukraine,Ukraine,
 2011-02-09,Sweden,Ukraine,Ukraine,
@@ -415,6 +422,7 @@ date,home_team,away_team,winner,first_shooter
 2012-06-27,Portugal,Spain,Spain,Spain
 2012-08-25,Alderney,Sealand,Sealand,
 2012-09-02,India,Cameroon,India,
+2012-09-29,Réunion,Martinique,Réunion,
 2012-10-13,Uganda,Zambia,Zambia,
 2012-11-21,Argentina,Brazil,Brazil,Argentina
 2013-01-23,Sweden,North Korea,Sweden,
@@ -584,8 +592,8 @@ date,home_team,away_team,winner,first_shooter
 2023-07-04,India,Kuwait,India,India
 2023-07-09,United States,Canada,United States,Canada
 2023-07-09,Orkney,Greenland,Greenland,
-2023-07-13,Åland,Falkland Islands,Åland,Åland
 2023-07-12,United States,Panama,Panama,United States
+2023-07-13,Åland,Falkland Islands,Åland,Åland
 2023-09-07,Iraq,India,Iraq,India
 2023-09-10,Thailand,Iraq,Iraq,Thailand
 2023-10-13,Iraq,Qatar,Qatar,Qatar
