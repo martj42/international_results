@@ -95,7 +95,7 @@ date,home_team,away_team,winner,first_shooter
 1986-10-01,Saudi Arabia,Iraq,Saudi Arabia,
 1986-10-01,South Korea,Iran,South Korea,
 1986-10-01,United Arab Emirates,Indonesia,Indonesia,
-1986-10-01,Kuwait,China,Kuwait,
+1986-10-01,Kuwait,China PR,Kuwait,
 1986-10-03,Saudi Arabia,Kuwait,Saudi Arabia,
 1986-10-19,Gabon,Angola,Angola,
 1986-12-17,Chad,Gabon,Chad,
@@ -572,6 +572,10 @@ date,home_team,away_team,winner,first_shooter
 2022-03-29,Senegal,Egypt,Senegal,Senegal
 2022-06-13,Australia,Peru,Australia,Australia
 2022-06-14,Chile,Ghana,Ghana,Chile
+2022-07-12,Zambia,Botswana,Zambia,
+2022-07-13,South Africa,Mozambique,Mozambique,
+2022-07-13,Senegal,Eswatini,Senegal,
+2022-07-17,Mozambique,Senegal,Senegal,
 2022-09-22,Thailand,Malaysia,Malaysia,
 2022-09-23,Iraq,Oman,Oman,
 2022-09-25,Malaysia,Tajikistan,Tajikistan,
@@ -594,10 +598,13 @@ date,home_team,away_team,winner,first_shooter
 2023-07-09,Orkney,Greenland,Greenland,
 2023-07-12,United States,Panama,Panama,United States
 2023-07-13,Åland,Falkland Islands,Åland,Åland
+2023-07-14,Malawi,Lesotho,Lesotho,
+2023-07-16,South Africa,Malawi,South Africa,
 2023-09-07,Iraq,India,Iraq,India
 2023-09-10,Thailand,Iraq,Iraq,Thailand
 2023-10-13,Iraq,Qatar,Qatar,Qatar
 2023-11-21,Mexico,Honduras,Mexico,Mexico
+2023-12-02,Solomon Islands,New Caledonia,New Caledonia,
 2024-01-28,Egypt,DR Congo,DR Congo,Egypt
 2024-01-28,Tajikistan,United Arab Emirates,Tajikistan,Tajikistan
 2024-01-29,Ivory Coast,Senegal,Ivory Coast,Senegal

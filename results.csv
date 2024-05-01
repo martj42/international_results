@@ -9614,7 +9614,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1974-09-01,Finland,Poland,1,2,UEFA Euro qualification,Helsinki,Finland,FALSE
 1974-09-02,Kuwait,Thailand,3,2,Asian Games,Tehran,Iran,TRUE
 1974-09-02,India,Iraq,0,3,Asian Games,Tehran,Iran,TRUE
-1974-09-02,North Korea,China,2,0,Asian Games,Tehran,Iran,TRUE
+1974-09-02,North Korea,China PR,2,0,Asian Games,Tehran,Iran,TRUE
 1974-09-03,Denmark,Indonesia,9,0,Friendly,Copenhagen,Denmark,FALSE
 1974-09-03,Japan,Philippines,4,0,Asian Games,Tehran,Iran,TRUE
 1974-09-03,Israel,Malaysia,8,3,Asian Games,Tehran,Iran,TRUE
@@ -9627,7 +9627,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1974-09-04,Sweden,Netherlands,1,5,Friendly,Solna,Sweden,FALSE
 1974-09-04,Switzerland,Germany,1,2,Friendly,Basel,Switzerland,FALSE
 1974-09-04,South Korea,Thailand,1,0,Asian Games,Tehran,Iran,TRUE
-1974-09-04,China,India,7,1,Asian Games,Tehran,Iran,TRUE
+1974-09-04,China PR,India,7,1,Asian Games,Tehran,Iran,TRUE
 1974-09-04,North Korea,Iraq,0,1,Asian Games,Tehran,Iran,TRUE
 1974-09-05,Mexico,United States,3,1,Friendly,Monterrey,Mexico,FALSE
 1974-09-05,Israel,Philippines,6,0,Asian Games,Tehran,Iran,TRUE
@@ -9636,7 +9636,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1974-09-05,Iran,Myanmar,2,1,Asian Games,Tehran,Iran,FALSE
 1974-09-06,Libya,DR Congo,0,2,Friendly,Tripoli,Libya,FALSE
 1974-09-06,South Korea,Kuwait,0,4,Asian Games,Tehran,Iran,TRUE
-1974-09-06,China,Iraq,0,1,Asian Games,Tehran,Iran,TRUE
+1974-09-06,China PR,Iraq,0,1,Asian Games,Tehran,Iran,TRUE
 1974-09-06,India,North Korea,1,4,Asian Games,Tehran,Iran,TRUE
 1974-09-07,Poland,France,0,2,Friendly,Wrocław,Poland,FALSE
 1974-09-07,Malaysia,Philippines,11,0,Asian Games,Tehran,Iran,TRUE
@@ -11362,21 +11362,21 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1978-12-03,Mauritius,Lesotho,0,1,African Cup of Nations qualification,Port Louis,Mauritius,FALSE
 1978-12-10,India,Malaysia,0,1,Asian Games,Bangkok,Thailand,TRUE
 1978-12-10,Iraq,Qatar,2,1,Asian Games,Bangkok,Thailand,TRUE
-1978-12-10,China,Saudi Arabia,1,0,Asian Games,Bangkok,Thailand,TRUE
+1978-12-10,China PR,Saudi Arabia,1,0,Asian Games,Bangkok,Thailand,TRUE
 1978-12-11,Bahrain,South Korea,1,5,Asian Games,Bangkok,Thailand,TRUE
 1978-12-11,Japan,Kuwait,0,2,Asian Games,Bangkok,Thailand,TRUE
 1978-12-11,Thailand,Myanmar,2,1,Asian Games,Bangkok,Thailand,FALSE
 1978-12-12,Antigua and Barbuda,Martinique,0,2,Friendly,St. John's,Antigua and Barbuda,FALSE
 1978-12-12,Bangladesh,Malaysia,0,1,Asian Games,Bangkok,Thailand,TRUE
 1978-12-12,Qatar,Saudi Arabia,2,2,Asian Games,Bangkok,Thailand,TRUE
-1978-12-12,China,Iraq,0,2,Asian Games,Bangkok,Thailand,TRUE
+1978-12-12,China PR,Iraq,0,2,Asian Games,Bangkok,Thailand,TRUE
 1978-12-13,Greece,Romania,2,1,Friendly,Athens,Greece,FALSE
 1978-12-13,Spain,Cyprus,5,0,UEFA Euro qualification,Salamanca,Spain,FALSE
 1978-12-13,Bahrain,Japan,0,4,Asian Games,Bangkok,Thailand,TRUE
 1978-12-13,South Korea,Kuwait,2,0,Asian Games,Bangkok,Thailand,TRUE
 1978-12-13,Myanmar,North Korea,0,3,Asian Games,Bangkok,Thailand,TRUE
 1978-12-14,Bangladesh,India,0,3,Asian Games,Bangkok,Thailand,TRUE
-1978-12-14,China,Qatar,3,0,Asian Games,Bangkok,Thailand,TRUE
+1978-12-14,China PR,Qatar,3,0,Asian Games,Bangkok,Thailand,TRUE
 1978-12-14,Iraq,Saudi Arabia,1,1,Asian Games,Bangkok,Thailand,TRUE
 1978-12-15,Japan,South Korea,1,3,Asian Games,Bangkok,Thailand,TRUE
 1978-12-15,Bahrain,Kuwait,0,3,Asian Games,Bangkok,Thailand,TRUE
@@ -11385,20 +11385,20 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1978-12-17,Malawi,Madagascar,5,1,African Cup of Nations qualification,Blantyre,Malawi,FALSE
 1978-12-17,India,Kuwait,1,6,Asian Games,Bangkok,Thailand,TRUE
 1978-12-17,Iraq,North Korea,0,1,Asian Games,Bangkok,Thailand,TRUE
-1978-12-17,China,South Korea,0,1,Asian Games,Bangkok,Thailand,TRUE
+1978-12-17,China PR,South Korea,0,1,Asian Games,Bangkok,Thailand,TRUE
 1978-12-17,Thailand,Malaysia,2,1,Asian Games,Bangkok,Thailand,FALSE
 1978-12-18,Iraq,Kuwait,3,0,Asian Games,Bangkok,Thailand,TRUE
 1978-12-18,India,North Korea,1,3,Asian Games,Bangkok,Thailand,TRUE
-1978-12-18,Thailand,China,1,4,Asian Games,Bangkok,Thailand,FALSE
+1978-12-18,Thailand,China PR,1,4,Asian Games,Bangkok,Thailand,FALSE
 1978-12-18,Malaysia,South Korea,0,1,Asian Games,Bangkok,Thailand,TRUE
 1978-12-19,Israel,Romania,1,1,Friendly,Jaffa,Israel,FALSE
 1978-12-19,Syria,Tunisia,2,1,Friendly,Damascus,Syria,FALSE
 1978-12-19,India,Iraq,0,3,Asian Games,Bangkok,Thailand,TRUE
 1978-12-19,North Korea,Kuwait,2,2,Asian Games,Bangkok,Thailand,TRUE
-1978-12-19,China,Malaysia,7,1,Asian Games,Bangkok,Thailand,TRUE
+1978-12-19,China PR,Malaysia,7,1,Asian Games,Bangkok,Thailand,TRUE
 1978-12-19,Thailand,South Korea,1,3,Asian Games,Bangkok,Thailand,FALSE
 1978-12-20,Germany,Netherlands,3,1,Friendly,Düsseldorf,Germany,FALSE
-1978-12-20,Iraq,China,0,1,Asian Games,Bangkok,Thailand,TRUE
+1978-12-20,Iraq,China PR,0,1,Asian Games,Bangkok,Thailand,TRUE
 1978-12-20,North Korea,South Korea,0,0,Asian Games,Bangkok,Thailand,TRUE
 1978-12-21,Italy,Spain,1,0,Friendly,Rome,Italy,FALSE
 1978-12-25,South Korea,Macau,4,1,AFC Asian Cup qualification,Manila,Philippines,TRUE
@@ -12593,15 +12593,38 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1981-07-05,Dominica,Guadeloupe,2,3,CFU Caribbean Cup qualification,Roseau,Dominica,FALSE
 1981-07-05,Saint Vincent and the Grenadines,Martinique,2,1,CFU Caribbean Cup qualification,Kingstown,Saint Vincent and the Grenadines,FALSE
 1981-07-06,Malawi,Mozambique,3,1,Friendly,Blantyre,Malawi,FALSE
+1981-07-07,Vanuatu,Western Samoa,13,1,South Pacific Mini Games,Honiara,Solomon Islands,TRUE
+1981-07-07,Solomon Islands,Fiji,1,2,South Pacific Mini Games,Honiara,Solomon Islands,FALSE
+1981-07-07,Tahiti,New Caledonia,1,0,South Pacific Mini Games,Honiara,Solomon Islands,TRUE
 1981-07-08,Brazil,Spain,1,0,Friendly,Salvador,Brazil,FALSE
 1981-07-08,Mozambique,Zimbabwe,2,4,Friendly,Lilongwe,Malawi,TRUE
+1981-07-08,Papua New Guinea,Fiji,3,2,South Pacific Mini Games,Honiara,Solomon Islands,TRUE
+1981-07-08,Vanuatu,New Caledonia,2,2,South Pacific Mini Games,Honiara,Solomon Islands,TRUE
+1981-07-08,Tahiti,Western Samoa,13,0,South Pacific Mini Games,Honiara,Solomon Islands,TRUE
+1981-07-09,Solomon Islands,New Caledonia,1,1,South Pacific Mini Games,Honiara,Solomon Islands,FALSE
+1981-07-09,Papua New Guinea,Western Samoa,4,1,South Pacific Mini Games,Honiara,Solomon Islands,TRUE
+1981-07-09,Tahiti,Vanuatu,1,1,South Pacific Mini Games,Honiara,Solomon Islands,TRUE
 1981-07-10,Malawi,Zimbabwe,2,0,Friendly,Blantyre,Malawi,FALSE
+1981-07-10,Vanuatu,Fiji,1,1,South Pacific Mini Games,Honiara,Solomon Islands,TRUE
+1981-07-10,Solomon Islands,Western Samoa,5,0,South Pacific Mini Games,Honiara,Solomon Islands,FALSE
+1981-07-10,New Caledonia,Papua New Guinea,5,1,South Pacific Mini Games,Honiara,Solomon Islands,TRUE
+1981-07-11,Fiji,Western Samoa,4,0,South Pacific Mini Games,Honiara,Solomon Islands,TRUE
+1981-07-11,Tahiti,Papua New Guinea,5,0,South Pacific Mini Games,Honiara,Solomon Islands,TRUE
+1981-07-11,Solomon Islands,Vanuatu,2,1,South Pacific Mini Games,Honiara,Solomon Islands,FALSE
 1981-07-12,Kenya,Mauritius,2,1,Friendly,Saint-Paul,Réunion,TRUE
 1981-07-12,Réunion,Madagascar,2,3,Friendly,Saint-Pierre,Réunion,FALSE
 1981-07-13,Réunion,Madagascar,0,3,Friendly,Saint-Pierre,Réunion,FALSE
+1981-07-13,Vanuatu,Papua New Guinea,2,3,South Pacific Mini Games,Honiara,Solomon Islands,TRUE
+1981-07-13,New Caledonia,Fiji,3,0,South Pacific Mini Games,Honiara,Solomon Islands,TRUE
+1981-07-13,Solomon Islands,Tahiti,1,4,South Pacific Mini Games,Honiara,Solomon Islands,FALSE
 1981-07-14,Madagascar,Mauritius,0,0,Friendly,Saint-Pierre,Réunion,TRUE
 1981-07-14,Réunion,Kenya,1,3,Friendly,Saint-Paul,Réunion,FALSE
+1981-07-14,New Caledonia,Western Samoa,8,0,South Pacific Mini Games,Honiara,Solomon Islands,TRUE
+1981-07-14,Tahiti,Fiji,6,0,South Pacific Mini Games,Honiara,Solomon Islands,TRUE
+1981-07-14,Solomon Islands,Papua New Guinea,1,2,South Pacific Mini Games,Honiara,Solomon Islands,FALSE
 1981-07-15,Uruguay,Chile,0,0,Copa Juan Pinto Durán,Montevideo,Uruguay,FALSE
+1981-07-15,Papua New Guinea,Vanuatu,1,0,South Pacific Mini Games,Honiara,Solomon Islands,TRUE
+1981-07-15,Tahiti,New Caledonia,1,0,South Pacific Mini Games,Honiara,Solomon Islands,TRUE
 1981-07-16,Benin,DR Congo,1,2,Friendly,Cotonou,Benin,FALSE
 1981-07-17,Trinidad and Tobago,Barbados,1,1,CFU Caribbean Cup qualification,Port of Spain,Trinidad and Tobago,FALSE
 1981-07-18,Nigeria,Burkina Faso,1,0,Friendly,Lagos,Nigeria,FALSE
@@ -13196,7 +13219,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1982-11-20,Uganda,Zimbabwe,1,1,CECAFA Cup,Kampala,Uganda,FALSE
 1982-11-20,North Korea,Syria,1,1,Asian Games,New Delhi,India,TRUE
 1982-11-20,Saudi Arabia,Thailand,1,0,Asian Games,New Delhi,India,TRUE
-1982-11-20,China,Malaysia,1,0,Asian Games,New Delhi,India,TRUE
+1982-11-20,China PR,Malaysia,1,0,Asian Games,New Delhi,India,TRUE
 1982-11-20,India,Bangladesh,2,0,Asian Games,New Delhi,India,FALSE
 1982-11-21,Kenya,Zanzibar,2,2,CECAFA Cup,Jinja,Uganda,TRUE
 1982-11-21,Kuwait,Nepal,3,1,Asian Games,New Delhi,India,TRUE
@@ -13206,7 +13229,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1982-11-22,North Korea,Thailand,3,0,Asian Games,New Delhi,India,TRUE
 1982-11-22,Saudi Arabia,Syria,1,1,Asian Games,New Delhi,India,TRUE
 1982-11-22,India,Malaysia,1,0,Asian Games,New Delhi,India,FALSE
-1982-11-22,China,Bangladesh,1,0,Asian Games,New Delhi,India,TRUE
+1982-11-22,China PR,Bangladesh,1,0,Asian Games,New Delhi,India,TRUE
 1982-11-23,Kuwait,Myanmar,4,0,Asian Games,New Delhi,India,TRUE
 1982-11-23,Iraq,Nepal,3,0,Asian Games,New Delhi,India,TRUE
 1982-11-23,South Korea,Iran,0,1,Asian Games,New Delhi,India,TRUE
@@ -13215,7 +13238,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1982-11-24,Uganda,Zanzibar,3,0,CECAFA Cup,Kampala,Uganda,FALSE
 1982-11-24,North Korea,Saudi Arabia,2,2,Asian Games,New Delhi,India,TRUE
 1982-11-24,Thailand,Syria,3,1,Asian Games,New Delhi,India,TRUE
-1982-11-24,India,China,2,2,Asian Games,New Delhi,India,FALSE
+1982-11-24,India,China PR,2,2,Asian Games,New Delhi,India,FALSE
 1982-11-24,Malaysia,Bangladesh,1,2,Asian Games,New Delhi,India,TRUE
 1982-11-25,Iraq,Kuwait,1,2,Asian Games,New Delhi,India,TRUE
 1982-11-25,Myanmar,Nepal,3,0,Asian Games,New Delhi,India,TRUE
@@ -13223,7 +13246,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1982-11-25,Iran,South Yemen,2,0,Asian Games,New Delhi,India,TRUE
 1982-11-26,Zanzibar,Zimbabwe,0,3,CECAFA Cup,Kampala,Uganda,TRUE
 1982-11-27,Uganda,Kenya,1,1,CECAFA Cup,Kampala,Uganda,FALSE
-1982-11-27,North Korea,China,1,0,Asian Games,New Delhi,India,TRUE
+1982-11-27,North Korea,China PR,1,0,Asian Games,New Delhi,India,TRUE
 1982-11-27,India,Saudi Arabia,0,1,Asian Games,New Delhi,India,FALSE
 1982-11-28,Gambia,Mali,1,0,African Cup of Nations qualification,Banjul,Gambia,FALSE
 1982-11-28,Senegal,Niger,1,0,African Cup of Nations qualification,Dakar,Senegal,FALSE
@@ -15143,7 +15166,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1986-09-19,Fiji,New Zealand,1,2,Friendly,Suva,Fiji,FALSE
 1986-09-20,Iran,Thailand,4,0,Friendly,Seoul,South Korea,TRUE
 1986-09-20,South Korea,India,3,0,Asian Games,Busan,South Korea,FALSE
-1986-09-20,China,Bahrain,5,1,Asian Games,Busan,South Korea,TRUE
+1986-09-20,China PR,Bahrain,5,1,Asian Games,Busan,South Korea,TRUE
 1986-09-20,Kuwait,Bangladesh,4,0,Asian Games,Daejeon,South Korea,TRUE
 1986-09-20,Japan,Nepal,5,0,Asian Games,Daejeon,South Korea,TRUE
 1986-09-21,Uganda,Rwanda,1,0,Friendly,Kampala,Uganda,FALSE
@@ -15151,7 +15174,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1986-09-21,United Arab Emirates,Pakistan,1,0,Asian Games,Daegu,South Korea,TRUE
 1986-09-21,Malaysia,Saudi Arabia,1,3,Asian Games,Gwangju,South Korea,TRUE
 1986-09-21,Qatar,Indonesia,1,1,Asian Games,Gwangju,South Korea,TRUE
-1986-09-22,China,India,2,1,Asian Games,Busan,South Korea,TRUE
+1986-09-22,China PR,India,2,1,Asian Games,Busan,South Korea,TRUE
 1986-09-22,Japan,Iran,0,2,Asian Games,Daejeon,South Korea,TRUE
 1986-09-22,Nepal,Kuwait,0,5,Asian Games,Daejeon,South Korea,TRUE
 1986-09-23,United Arab Emirates,Thailand,2,1,Asian Games,Daegu,South Korea,TRUE
@@ -15176,7 +15199,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1986-09-27,Thailand,Iraq,1,2,Asian Games,Daegu,South Korea,TRUE
 1986-09-27,Indonesia,Malaysia,1,0,Asian Games,Gwangju,South Korea,TRUE
 1986-09-28,Zambia,DR Congo,0,1,Friendly,Lusaka,Zambia,FALSE
-1986-09-28,South Korea,China,4,2,Asian Games,Busan,South Korea,FALSE
+1986-09-28,South Korea,China PR,4,2,Asian Games,Busan,South Korea,FALSE
 1986-09-28,Japan,Bangladesh,4,0,Asian Games,Daejeon,South Korea,TRUE
 1986-09-28,Iran,Nepal,6,0,Asian Games,Daejeon,South Korea,TRUE
 1986-09-29,United Arab Emirates,Oman,0,0,Asian Games,Daegu,South Korea,TRUE
@@ -15186,7 +15209,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1986-10-01,Saudi Arabia,Iraq,1,1,Asian Games,Seoul,South Korea,TRUE
 1986-10-01,South Korea,Iran,1,1,Asian Games,Busan,South Korea,FALSE
 1986-10-01,United Arab Emirates,Indonesia,2,2,Asian Games,Seoul,South Korea,TRUE
-1986-10-01,Kuwait,China,1,1,Asian Games,Busan,South Korea,TRUE
+1986-10-01,Kuwait,China PR,1,1,Asian Games,Busan,South Korea,TRUE
 1986-10-03,South Korea,Indonesia,4,0,Asian Games,Seoul,South Korea,FALSE
 1986-10-03,Saudi Arabia,Kuwait,2,2,Asian Games,Seoul,South Korea,TRUE
 1986-10-04,Indonesia,Kuwait,0,5,Asian Games,Seoul,South Korea,TRUE
@@ -19108,10 +19131,26 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1993-12-05,Sierra Leone,Senegal,2,0,Amílcar Cabral Cup,Freetown,Sierra Leone,FALSE
 1993-12-05,United States,El Salvador,7,0,Friendly,Mission Viejo,United States,FALSE
 1993-12-06,Tanzania,Uganda,1,0,Friendly,Nairobi,Kenya,TRUE
+1993-12-07,Vanuatu,Tonga,3,0,South Pacific Mini Games,Port Vila,Vanuatu,FALSE
+1993-12-07,Tahiti,Guam,11,0,South Pacific Mini Games,Port Vila,Vanuatu,TRUE
+1993-12-07,Fiji,Solomon Islands,1,0,South Pacific Mini Games,Port Vila,Vanuatu,TRUE
+1993-12-08,New Caledonia,Papua New Guinea,1,1,South Pacific Mini Games,Port Vila,Vanuatu,TRUE
+1993-12-09,Tahiti,Fiji,1,0,South Pacific Mini Games,Port Vila,Vanuatu,TRUE
 1993-12-10,Bangladesh,Myanmar,3,1,Friendly,Dhaka,Bangladesh,FALSE
 1993-12-10,Kenya,Tanzania,2,1,Friendly,Nairobi,Kenya,FALSE
+1993-12-10,Tonga,Papua New Guinea,0,5,South Pacific Mini Games,Port Vila,Vanuatu,TRUE
+1993-12-10,Vanuatu,New Caledonia,1,1,South Pacific Mini Games,Port Vila,Vanuatu,FALSE
+1993-12-11,Solomon Islands,Guam,12,1,South Pacific Mini Games,Port Vila,Vanuatu,TRUE
+1993-12-13,New Caledonia,Tonga,11,0,South Pacific Mini Games,Port Vila,Vanuatu,TRUE
+1993-12-13,Vanuatu,Papua New Guinea,1,0,South Pacific Mini Games,Port Vila,Vanuatu,FALSE
+1993-12-13,Fiji,Guam,12,0,South Pacific Mini Games,Port Vila,Vanuatu,TRUE
+1993-12-13,Tahiti,Solomon Islands,3,0,South Pacific Mini Games,Port Vila,Vanuatu,TRUE
+1993-12-14,Tahiti,New Caledonia,2,1,South Pacific Mini Games,Port Vila,Vanuatu,TRUE
+1993-12-14,Vanuatu,Fiji,0,2,South Pacific Mini Games,Port Vila,Vanuatu,FALSE
 1993-12-15,Argentina,Germany,2,1,Friendly,Miami,United States,TRUE
 1993-12-16,Mexico,Brazil,0,1,Friendly,Guadalajara,Mexico,FALSE
+1993-12-16,Vanuatu,New Caledonia,1,2,South Pacific Mini Games,Port Vila,Vanuatu,FALSE
+1993-12-16,Tahiti,Fiji,3,0,South Pacific Mini Games,Port Vila,Vanuatu,TRUE
 1993-12-18,United States,Germany,0,3,Friendly,Palo Alto,United States,FALSE
 1993-12-19,Mali,Ivory Coast,0,1,Friendly,Bamako,Mali,FALSE
 1993-12-22,Mexico,Germany,0,0,Friendly,Mexico City,Mexico,FALSE
@@ -21559,19 +21598,19 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1997-05-11,Kazakhstan,Pakistan,3,0,FIFA World Cup qualification,Almaty,Kazakhstan,FALSE
 1997-05-11,Tajikistan,China PR,0,1,FIFA World Cup qualification,Dushanbe,Tajikistan,FALSE
 1997-05-11,Turkmenistan,Vietnam,2,1,FIFA World Cup qualification,Ashgabat,Turkmenistan,FALSE
-1997-05-11,Mongolia,China,0,6,East Asian Games,Busan,South Korea,TRUE
+1997-05-11,Mongolia,China PR,0,6,East Asian Games,Busan,South Korea,TRUE
 1997-05-11,Guam,Japan,0,12,East Asian Games,Busan,South Korea,TRUE
 1997-05-13,Kazakhstan,Guam,20,1,East Asian Games,Busan,South Korea,TRUE
 1997-05-13,Japan,Mongolia,5,0,East Asian Games,Busan,South Korea,TRUE
-1997-05-15,Guam,China,0,7,East Asian Games,Busan,South Korea,TRUE
+1997-05-15,Guam,China PR,0,7,East Asian Games,Busan,South Korea,TRUE
 1997-05-15,Kazakhstan,Japan,2,2,East Asian Games,Busan,South Korea,TRUE
 1997-05-16,Yemen,Cambodia,7,0,FIFA World Cup qualification,Sana'a,Yemen,FALSE
 1997-05-17,Mongolia,Kazakhstan,3,11,East Asian Games,Busan,South Korea,TRUE
-1997-05-17,China,Japan,2,0,East Asian Games,Busan,South Korea,TRUE
+1997-05-17,China PR,Japan,2,0,East Asian Games,Busan,South Korea,TRUE
 1997-05-18,Estonia,Latvia,1,3,FIFA World Cup qualification,Tallinn,Estonia,FALSE
 1997-05-18,Jamaica,El Salvador,1,0,FIFA World Cup qualification,Kingston,Jamaica,FALSE
 1997-05-19,Guam,Mongolia,0,4,East Asian Games,Busan,South Korea,TRUE
-1997-05-19,China,Kazakhstan,0,0,East Asian Games,Busan,South Korea,TRUE
+1997-05-19,China PR,Kazakhstan,0,0,East Asian Games,Busan,South Korea,TRUE
 1997-05-21,Republic of Ireland,Liechtenstein,5,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
 1997-05-21,Japan,South Korea,1,1,Friendly,Tokyo,Japan,FALSE
 1997-05-21,Thailand,Northern Ireland,0,0,Friendly,Bangkok,Thailand,FALSE
@@ -39856,7 +39895,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2016-11-23,Malaysia,Vietnam,0,1,AFF Championship,Yangon,Myanmar,TRUE
 2016-11-25,Philippines,Thailand,0,1,AFF Championship,Bocaue,Philippines,FALSE
 2016-11-25,Singapore,Indonesia,1,2,AFF Championship,Manila,Philippines,TRUE
-2016-11-26,Ryūkyū,United Koreans of Japan,0,9,Friendly,Nakagusuku,Japan,TRUE
+2016-11-26,Ryūkyū,United Koreans in Japan,0,9,Friendly,Nakagusuku,Japan,TRUE
 2016-11-26,Myanmar,Malaysia,1,0,AFF Championship,Yangon,Myanmar,FALSE
 2016-11-26,Vietnam,Cambodia,2,1,AFF Championship,Naypyidaw,Myanmar,TRUE
 2016-12-03,Indonesia,Vietnam,2,1,AFF Championship,Bogor,Indonesia,FALSE
@@ -42269,9 +42308,26 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-07-19,Tajikistan,North Korea,0,1,Intercontinental Cup,Ahmedabad,India,TRUE
 2019-07-20,Papua New Guinea,Fiji,1,1,Pacific Games,Apia,Samoa,TRUE
 2019-07-21,Equatorial Guinea,Liberia,1,1,Friendly,Malabo,Equatorial Guinea,FALSE
+2019-07-30,Iraq,Lebanon,1,0,WAFF Championship,Karbala,Iraq,FALSE
+2019-07-30,Yemen,Palestine,0,1,WAFF Championship,Karbala,Iraq,TRUE
+2019-08-02,Iraq,Palestine,2,1,WAFF Championship,Karbala,Iraq,FALSE
+2019-08-02,Lebanon,Syria,2,1,WAFF Championship,Karbala,Iraq,TRUE
+2019-08-04,Jordan,Bahrain,0,1,WAFF Championship,Erbil,Iraq,TRUE
+2019-08-04,Saudi Arabia,Kuwait,1,2,WAFF Championship,Erbil,Iraq,TRUE
+2019-08-05,Syria,Yemen,1,1,WAFF Championship,Karbala,Iraq,TRUE
+2019-08-05,Lebanon,Palestine,0,0,WAFF Championship,Karbala,Iraq,TRUE
+2019-08-07,Bahrain,Saudi Arabia,0,0,WAFF Championship,Erbil,Iraq,TRUE
+2019-08-07,Kuwait,Jordan,1,1,WAFF Championship,Erbil,Iraq,TRUE
+2019-08-08,Yemen,Lebanon,2,1,WAFF Championship,Karbala,Iraq,TRUE
+2019-08-08,Iraq,Syria,0,0,WAFF Championship,Karbala,Iraq,FALSE
 2019-08-09,South Ossetia,Luhansk PR,2,0,Friendly,Tskhinvali,Georgia,FALSE
+2019-08-10,Jordan,Saudi Arabia,3,0,WAFF Championship,Erbil,Iraq,TRUE
+2019-08-10,Kuwait,Bahrain,0,1,WAFF Championship,Erbil,Iraq,TRUE
 2019-08-11,Saint Vincent and the Grenadines,Trinidad and Tobago,1,0,Friendly,Georgetown,Saint Vincent and the Grenadines,FALSE
+2019-08-11,Palestine,Syria,4,3,WAFF Championship,Karbala,Iraq,TRUE
+2019-08-11,Iraq,Yemen,2,1,WAFF Championship,Karbala,Iraq,FALSE
 2019-08-14,Dominican Republic,Guatemala,0,0,Friendly,Santiago de los Caballeros,Dominican Republic,FALSE
+2019-08-14,Iraq,Bahrain,0,1,WAFF Championship,Karbala,Iraq,FALSE
 2019-08-27,Saint Kitts and Nevis,Antigua and Barbuda,4,3,Friendly,Basseterre,Saint Kitts and Nevis,FALSE
 2019-08-28,Belize,Saint Vincent and the Grenadines,1,1,Friendly,Belmopan,Belize,FALSE
 2019-08-28,Taiwan,Guam,3,0,Friendly,Kaohsiung,Taiwan,FALSE
@@ -44253,29 +44309,55 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-12-04,Palestine,Saudi Arabia,1,1,Arab Cup,Al Rayyan,Qatar,TRUE
 2021-12-04,Lebanon,Algeria,0,2,Arab Cup,Al Wakrah,Qatar,TRUE
 2021-12-04,Sudan,Egypt,0,5,Arab Cup,Doha,Qatar,TRUE
+2021-12-05,East Timor,Thailand,0,2,AFF Championship,Kallang,Singapore,TRUE
+2021-12-05,Singapore,Myanmar,3,0,AFF Championship,Kallang,Singapore,FALSE
 2021-12-06,Oman,Bahrain,3,0,Arab Cup,Al Rayyan,Qatar,TRUE
 2021-12-06,Qatar,Iraq,3,0,Arab Cup,Al Khor,Qatar,FALSE
 2021-12-06,Syria,Mauritania,1,2,Arab Cup,Al Wakrah,Qatar,TRUE
 2021-12-06,Tunisia,United Arab Emirates,1,0,Arab Cup,Doha,Qatar,TRUE
+2021-12-06,Cambodia,Malaysia,1,3,AFF Championship,Bishan,Singapore,TRUE
+2021-12-06,Laos,Vietnam,0,2,AFF Championship,Bishan,Singapore,TRUE
 2021-12-07,Jordan,Palestine,5,1,Arab Cup,Doha,Qatar,TRUE
 2021-12-07,Morocco,Saudi Arabia,1,0,Arab Cup,Doha,Qatar,TRUE
 2021-12-07,Algeria,Egypt,1,1,Arab Cup,Al Wakrah,Qatar,TRUE
 2021-12-07,Lebanon,Sudan,1,0,Arab Cup,Al Rayyan,Qatar,TRUE
 2021-12-08,Mexico,Chile,2,2,Friendly,Austin,United States,TRUE
+2021-12-08,Myanmar,East Timor,2,0,AFF Championship,Kallang,Singapore,TRUE
+2021-12-08,Singapore,Philippines,2,1,AFF Championship,Kallang,Singapore,FALSE
 2021-12-09,Tanzania,Uganda,0,2,Friendly,Dar es Salaam,Tanzania,FALSE
+2021-12-09,Malaysia,Laos,4,0,AFF Championship,Bishan,Singapore,TRUE
+2021-12-09,Indonesia,Cambodia,4,2,AFF Championship,Bishan,Singapore,TRUE
 2021-12-10,Tunisia,Oman,2,1,Arab Cup,Al Rayyan,Qatar,TRUE
 2021-12-10,Qatar,United Arab Emirates,5,0,Arab Cup,Al Khor,Qatar,FALSE
 2021-12-11,Egypt,Jordan,3,1,Arab Cup,Al Wakrah,Qatar,TRUE
 2021-12-11,Morocco,Algeria,2,2,Arab Cup,Doha,Qatar,TRUE
 2021-12-11,El Salvador,Chile,0,1,Friendly,Los Angeles,United States,TRUE
+2021-12-11,East Timor,Philippines,0,7,AFF Championship,Kallang,Singapore,TRUE
+2021-12-11,Thailand,Myanmar,4,0,AFF Championship,Kallang,Singapore,TRUE
+2021-12-12,Laos,Indonesia,1,5,AFF Championship,Bishan,Singapore,TRUE
+2021-12-12,Vietnam,Malaysia,3,0,AFF Championship,Bishan,Singapore,TRUE
+2021-12-14,Philippines,Thailand,1,2,AFF Championship,Kallang,Singapore,TRUE
+2021-12-14,Singapore,East Timor,2,0,AFF Championship,Kallang,Singapore,FALSE
 2021-12-15,Tunisia,Egypt,1,0,Arab Cup,Doha,Qatar,TRUE
 2021-12-15,Qatar,Algeria,1,2,Arab Cup,Doha,Qatar,FALSE
+2021-12-15,Cambodia,Laos,3,0,AFF Championship,Bishan,Singapore,TRUE
+2021-12-15,Indonesia,Vietnam,0,0,AFF Championship,Bishan,Singapore,TRUE
 2021-12-18,Qatar,Egypt,0,0,Arab Cup,Doha,Qatar,FALSE
 2021-12-18,Tunisia,Algeria,0,2,Arab Cup,Al Khor,Qatar,TRUE
 2021-12-18,United States,Bosnia and Herzegovina,1,0,Friendly,Los Angeles,United States,FALSE
+2021-12-18,Singapore,Thailand,0,2,AFF Championship,Kallang,Singapore,FALSE
+2021-12-18,Myanmar,Philippines,2,3,AFF Championship,Bishan,Singapore,TRUE
+2021-12-19,Vietnam,Cambodia,4,0,AFF Championship,Bishan,Singapore,TRUE
+2021-12-19,Malaysia,Indonesia,1,4,AFF Championship,Kallang,Singapore,TRUE
+2021-12-22,Singapore,Indonesia,1,1,AFF Championship,Kallang,Singapore,FALSE
+2021-12-23,Vietnam,Thailand,0,2,AFF Championship,Kallang,Singapore,TRUE
+2021-12-25,Singapore,Indonesia,2,4,AFF Championship,Kallang,Singapore,FALSE
+2021-12-26,Thailand,Vietnam,0,0,AFF Championship,Kallang,Singapore,TRUE
+2021-12-29,Indonesia,Thailand,0,4,AFF Championship,Kallang,Singapore,TRUE
 2021-12-30,Mauritania,Burkina Faso,0,0,Friendly,Abu Dhabi,United Arab Emirates,TRUE
 2021-12-30,Sudan,Ethiopia,2,3,Friendly,Limbé,Cameroon,TRUE
 2021-12-31,Malawi,Comoros,2,1,Friendly,Jeddah,Saudi Arabia,TRUE
+2022-01-01,Thailand,Indonesia,2,2,AFF Championship,Kallang,Singapore,TRUE
 2022-01-02,Gabon,Burkina Faso,0,3,Friendly,Dubai,United Arab Emirates,TRUE
 2022-01-02,Sudan,Zimbabwe,0,0,Friendly,Yaoundé,Cameroon,TRUE
 2022-01-03,Rwanda,Guinea,3,0,Friendly,Kigali,Rwanda,FALSE
@@ -44881,7 +44963,36 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-06-17,Mapuche,Maule Sur,0,1,CONIFA South America Football Cup,Linares,Chile,TRUE
 2022-06-18,Mapuche,Aymara,3,1,CONIFA South America Football Cup,Linares,Chile,TRUE
 2022-06-19,Aymara,Maule Sur,0,1,CONIFA South America Football Cup,Linares,Chile,TRUE
+2022-07-05,Seychelles,Botswana,0,1,COSAFA Cup,Durban,South Africa,TRUE
+2022-07-05,Angola,Comoros,3,1,COSAFA Cup,Durban,South Africa,TRUE
+2022-07-06,Mauritius,Eswatini,0,3,COSAFA Cup,Durban,South Africa,TRUE
+2022-07-06,Lesotho,Malawi,2,1,COSAFA Cup,Durban,South Africa,TRUE
+2022-07-07,Comoros,Botswana,0,1,COSAFA Cup,Durban,South Africa,TRUE
+2022-07-07,Angola,Seychelles,3,0,COSAFA Cup,Durban,South Africa,TRUE
+2022-07-08,Malawi,Eswatini,1,1,COSAFA Cup,Durban,South Africa,TRUE
+2022-07-08,Lesotho,Mauritius,2,1,COSAFA Cup,Durban,South Africa,TRUE
+2022-07-10,Seychelles,Comoros,1,2,COSAFA Cup,KwaMashu,South Africa,TRUE
+2022-07-10,Botswana,Angola,1,0,COSAFA Cup,Durban,South Africa,TRUE
+2022-07-10,Mauritius,Malawi,0,2,COSAFA Cup,KwaMashu,South Africa,TRUE
+2022-07-10,Eswatini,Lesotho,2,0,COSAFA Cup,Durban,South Africa,TRUE
+2022-07-12,Madagascar,Namibia,0,2,COSAFA Cup,KwaMashu,South Africa,TRUE
+2022-07-12,Zambia,Botswana,1,1,COSAFA Cup,KwaMashu,South Africa,TRUE
+2022-07-13,South Africa,Mozambique,0,0,COSAFA Cup,KwaMashu,South Africa,FALSE
+2022-07-13,Senegal,Eswatini,1,1,COSAFA Cup,KwaMashu,South Africa,TRUE
+2022-07-15,South Africa,Madagascar,2,1,COSAFA Cup,Sugar Ray Xulu Stadium,South Africa,FALSE
+2022-07-15,Botswana,Eswatini,2,0,COSAFA Cup,Sugar Ray Xulu Stadium,South Africa,TRUE
+2022-07-15,Namibia,Mozambique,1,0,COSAFA Cup,Durban,South Africa,TRUE
+2022-07-15,Zambia,Senegal,4,3,COSAFA Cup,Durban,South Africa,TRUE
 2022-07-16,Elba Island,Raetia,5,0,Friendly,Capoliveri,Italy,FALSE
+2022-07-17,South Africa,Botswana,2,1,COSAFA Cup,Sugar Ray Xulu Stadium,South Africa,FALSE
+2022-07-17,Mozambique,Senegal,1,1,COSAFA Cup,Moses Mabhida Stadium,South Africa,TRUE
+2022-07-17,Namibia,Zambia,0,1,COSAFA Cup,Moses Mabhida Stadium,South Africa,TRUE
+2022-07-19,Japan,Hong Kong,6,0,EAFF Championship,Kashima,Japan,FALSE
+2022-07-20,China PR,South Korea,0,3,EAFF Championship,Toyota,Japan,TRUE
+2022-07-24,South Korea,Hong Kong,3,0,EAFF Championship,Toyota,Japan,TRUE
+2022-07-24,Japan,China PR,0,0,EAFF Championship,Toyota,Japan,FALSE
+2022-07-27,China PR,Hong Kong,1,0,EAFF Championship,Toyota,Japan,TRUE
+2022-07-27,Japan,South Korea,3,0,EAFF Championship,Toyota,Japan,FALSE
 2022-08-07,Raetia,Tibet,3,3,Friendly,Chur,Switzerland,FALSE
 2022-08-31,Mexico,Paraguay,0,1,Friendly,Atlanta,United States,TRUE
 2022-09-17,Fiji,New Caledonia,1,0,MSG Prime Minister's Cup,Luganville,Vanuatu,TRUE
@@ -45195,28 +45306,54 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-12-17,Croatia,Morocco,2,1,FIFA World Cup,Al Rayyan,Qatar,TRUE
 2022-12-17,Singapore,Maldives,3,1,Friendly,Singapore,Singapore,FALSE
 2022-12-18,Argentina,France,3,3,FIFA World Cup,Lusail,Qatar,TRUE
+2022-12-20,Cambodia,Philippines,3,2,AFF Championship,Phnom Penh,Cambodia,FALSE
+2022-12-20,Brunei,Thailand,0,5,AFF Championship,Kuala Lumpur,Malaysia,TRUE
+2022-12-21,Myanmar,Malaysia,0,1,AFF Championship,Yangon,Myanmar,FALSE
+2022-12-21,Laos,Vietnam,0,6,AFF Championship,Vientiane,Laos,FALSE
 2022-12-23,Oman,Syria,2,1,Friendly,Dubai,United Arab Emirates,TRUE
+2022-12-23,Philippines,Brunei,5,1,AFF Championship,Manila,Philippines,FALSE
+2022-12-23,Indonesia,Cambodia,2,1,AFF Championship,Jakarta,Indonesia,FALSE
+2022-12-24,Singapore,Myanmar,3,2,AFF Championship,Singapore,Singapore,FALSE
+2022-12-24,Malaysia,Laos,5,0,AFF Championship,Kuala Lumpur,Malaysia,FALSE
+2022-12-26,Brunei,Indonesia,0,7,AFF Championship,Kuala Lumpur,Malaysia,TRUE
+2022-12-26,Thailand,Philippines,4,0,AFF Championship,Pathum Thani,Thailand,FALSE
+2022-12-27,Laos,Singapore,0,2,AFF Championship,Vientiane,Laos,FALSE
+2022-12-27,Vietnam,Malaysia,3,0,AFF Championship,Hanoi,Vietnam,FALSE
+2022-12-29,Cambodia,Brunei,5,1,AFF Championship,Phnom Penh,Cambodia,FALSE
+2022-12-29,Indonesia,Thailand,1,1,AFF Championship,Jakarta,Indonesia,FALSE
 2022-12-30,Iraq,Kuwait,1,0,Friendly,Basra,Iraq,FALSE
 2022-12-30,Oman,Syria,1,0,Friendly,Dubai,United Arab Emirates,TRUE
 2022-12-30,United Arab Emirates,Lebanon,1,0,Friendly,Abu Dhabi,United Arab Emirates,FALSE
+2022-12-30,Myanmar,Laos,2,2,AFF Championship,Yangon,Myanmar,FALSE
+2022-12-30,Singapore,Vietnam,0,0,AFF Championship,Singapore,Singapore,FALSE
+2023-01-02,Thailand,Cambodia,3,1,AFF Championship,Pathum Thani,Thailand,FALSE
+2023-01-02,Philippines,Indonesia,1,2,AFF Championship,Manila,Philippines,FALSE
+2023-01-03,Vietnam,Myanmar,3,0,AFF Championship,Hanoi,Vietnam,FALSE
+2023-01-03,Malaysia,Singapore,4,1,AFF Championship,Kuala Lumpur,Malaysia,FALSE
 2023-01-06,Iraq,Oman,0,0,Gulf Cup,Basra,Iraq,FALSE
 2023-01-06,Yemen,Saudi Arabia,0,2,Gulf Cup,Basra,Iraq,TRUE
+2023-01-06,Indonesia,Vietnam,0,0,AFF Championship,Jakarta,Indonesia,FALSE
 2023-01-07,Bahrain,United Arab Emirates,2,1,Gulf Cup,Basra,Iraq,TRUE
 2023-01-07,Kuwait,Qatar,0,2,Gulf Cup,Basra,Iraq,TRUE
+2023-01-07,Malaysia,Thailand,1,0,AFF Championship,Kuala Lumpur,Malaysia,FALSE
 2023-01-08,Iceland,Estonia,1,1,Friendly,Albufeira,Portugal,TRUE
 2023-01-09,Sweden,Finland,2,0,Friendly,Faro-Loulé,Portugal,TRUE
 2023-01-09,Oman,Yemen,3,2,Gulf Cup,Basra,Iraq,TRUE
 2023-01-09,Iraq,Saudi Arabia,2,0,Gulf Cup,Basra,Iraq,FALSE
+2023-01-09,Vietnam,Indonesia,2,0,AFF Championship,Hanoi,Vietnam,FALSE
 2023-01-10,United Arab Emirates,Kuwait,0,1,Gulf Cup,Basra,Iraq,TRUE
 2023-01-10,Qatar,Bahrain,1,2,Gulf Cup,Basra,Iraq,TRUE
+2023-01-10,Thailand,Malaysia,3,0,AFF Championship,Pathum Thani,Thailand,FALSE
 2023-01-12,Finland,Estonia,0,1,Friendly,Albufeira,Portugal,TRUE
 2023-01-12,Sweden,Iceland,2,1,Friendly,Faro-Loulé,Portugal,TRUE
 2023-01-12,Iraq,Yemen,5,0,Gulf Cup,Basra,Iraq,FALSE
 2023-01-12,Saudi Arabia,Oman,1,2,Gulf Cup,Basra,Iraq,TRUE
 2023-01-13,Bahrain,Kuwait,1,1,Gulf Cup,Basra,Iraq,TRUE
 2023-01-13,Qatar,United Arab Emirates,1,1,Gulf Cup,Basra,Iraq,TRUE
+2023-01-13,Vietnam,Thailand,2,2,AFF Championship,Hanoi,Vietnam,FALSE
 2023-01-16,Iraq,Qatar,2,1,Gulf Cup,Basra,Iraq,FALSE
 2023-01-16,Bahrain,Oman,0,1,Gulf Cup,Basra,Iraq,TRUE
+2023-01-16,Thailand,Vietnam,1,0,AFF Championship,Pathum Thani,Thailand,FALSE
 2023-01-19,Iraq,Oman,3,2,Gulf Cup,Basra,Iraq,FALSE
 2023-01-25,United States,Serbia,1,2,Friendly,Los Angeles,United States,FALSE
 2023-01-28,United States,Colombia,0,0,Friendly,Carson,United States,FALSE
@@ -45614,8 +45751,16 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-07-04,Panama,El Salvador,2,2,Gold Cup,Houston,United States,TRUE
 2023-07-04,Guadeloupe,Guatemala,2,3,Gold Cup,Harrison,United States,TRUE
 2023-07-04,Canada,Cuba,4,2,Gold Cup,Houston,United States,TRUE
+2023-07-05,Eswatini,Botswana,0,1,COSAFA Cup,Durban,South Africa,TRUE
+2023-07-05,South Africa,Namibia,1,1,COSAFA Cup,Durban,South Africa,FALSE
+2023-07-06,Seychelles,Comoros,0,3,COSAFA Cup,Durban,South Africa,TRUE
+2023-07-06,Zambia,Malawi,0,1,COSAFA Cup,Durban,South Africa,TRUE
+2023-07-07,Mauritius,Lesotho,0,2,COSAFA Cup,Durban,South Africa,TRUE
+2023-07-07,Mozambique,Angola,1,1,COSAFA Cup,Durban,South Africa,TRUE
 2023-07-08,Panama,Qatar,4,0,Gold Cup,Arlington,United States,TRUE
 2023-07-08,Mexico,Costa Rica,2,0,Gold Cup,Arlington,United States,TRUE
+2023-07-08,South Africa,Botswana,2,1,COSAFA Cup,Durban,South Africa,FALSE
+2023-07-08,Namibia,Eswatini,1,2,COSAFA Cup,Durban,South Africa,TRUE
 2023-07-09,Guatemala,Jamaica,0,1,Gold Cup,Cincinnati,United States,TRUE
 2023-07-09,United States,Canada,2,2,Gold Cup,Cincinnati,United States,FALSE
 2023-07-09,Åland,Isle of Wight,0,2,Island Games,Saint Sampson,Guernsey,TRUE
@@ -45625,6 +45770,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-07-09,Orkney,Greenland,2,2,Island Games,Saint Martin,Guernsey,TRUE
 2023-07-09,Jersey,Gozo,1,0,Island Games,Saint Sampson,Guernsey,TRUE
 2023-07-09,Menorca,Saint Helena,5,0,Island Games,Saint Sampson,Guernsey,TRUE
+2023-07-09,Zambia,Comoros,2,1,COSAFA Cup,Durban,South Africa,TRUE
+2023-07-09,Malawi,Seychelles,2,0,COSAFA Cup,Durban,South Africa,TRUE
 2023-07-10,Western Isles,Isle of Wight,0,1,Island Games,Saint Martin,Guernsey,TRUE
 2023-07-10,Guernsey,Åland,4,1,Island Games,Saint Sampson,Guernsey,FALSE
 2023-07-10,Falkland Islands,Ynys Môn,1,5,Island Games,Saint Sampson,Guernsey,TRUE
@@ -45632,6 +45779,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-07-10,Greenland,Frøya,2,0,Island Games,Saint Sampson,Guernsey,TRUE
 2023-07-10,Gozo,Saint Helena,3,0,Island Games,Saint Sampson,Guernsey,TRUE
 2023-07-10,Jersey,Menorca,4,0,Island Games,Saint Sampson,Guernsey,TRUE
+2023-07-10,Angola,Mauritius,0,1,COSAFA Cup,KwaMashu,South Africa,TRUE
+2023-07-10,Mozambique,Lesotho,0,1,COSAFA Cup,KwaMashu,South Africa,TRUE
 2023-07-11,Guernsey,Isle of Wight,1,2,Island Games,Saint Sampson,Guernsey,FALSE
 2023-07-11,Åland,Western Isles,0,2,Island Games,Saint Sampson,Guernsey,TRUE
 2023-07-11,Falkland Islands,Shetland,1,4,Island Games,Saint Sampson,Guernsey,TRUE
@@ -45639,8 +45788,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-07-11,Frøya,Orkney,2,3,Island Games,Saint Peter Port,Guernsey,TRUE
 2023-07-11,Menorca,Gozo,0,1,Island Games,Saint Martin,Guernsey,TRUE
 2023-07-11,Saint Helena,Jersey,0,5,Island Games,Saint Sampson,Guernsey,TRUE
+2023-07-11,Namibia,Botswana,0,0,COSAFA Cup,Durban,South Africa,TRUE
+2023-07-11,South Africa,Eswatini,2,1,COSAFA Cup,KwaMashu,South Africa,FALSE
+2023-07-11,Malawi,Comoros,2,0,COSAFA Cup,Durban,South Africa,TRUE
+2023-07-11,Seychelles,Zambia,2,4,COSAFA Cup,KwaMashu,South Africa,TRUE
 2023-07-12,United States,Panama,1,1,Gold Cup,San Diego,United States,FALSE
 2023-07-12,Jamaica,Mexico,0,3,Gold Cup,Paradise,United States,TRUE
+2023-07-12,Angola,Lesotho,4,2,COSAFA Cup,Durban,South Africa,TRUE
+2023-07-12,Mauritius,Mozambique,0,1,COSAFA Cup,KwaMashu,South Africa,TRUE
 2023-07-13,Frøya,Saint Helena,4,2,Island Games,Saint Martin,Guernsey,TRUE
 2023-07-13,Åland,Falkland Islands,1,1,Island Games,Saint Sampson,Guernsey,TRUE
 2023-07-13,Western Isles,Menorca,2,1,Island Games,Saint Sampson,Guernsey,TRUE
@@ -45649,8 +45804,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-07-13,Guernsey,Gozo,1,0,Island Games,Saint Martin,Guernsey,FALSE
 2023-07-13,Isle of Wight,Jersey,2,3,Island Games,Saint Sampson,Guernsey,TRUE
 2023-07-14,Ynys Môn,Jersey,2,5,Island Games,Saint Peter Port,Guernsey,TRUE
+2023-07-14,Malawi,Lesotho,1,1,COSAFA Cup,Durban,South Africa,TRUE
+2023-07-14,South Africa,Zambia,1,2,COSAFA Cup,Durban,South Africa,FALSE
 2023-07-16,Kernow,Sápmi,2,1,CONIFA World Football Cup qualification,Falmouth,England,FALSE
 2023-07-16,Mexico,Panama,1,0,Gold Cup,Inglewood,United States,TRUE
+2023-07-16,South Africa,Malawi,0,0,COSAFA Cup,Durban,South Africa,FALSE
+2023-07-16,Lesotho,Zambia,0,1,COSAFA Cup,Durban,South Africa,TRUE
 2023-08-02,Ethiopia,Guyana,2,0,Friendly,Leesburg,United States,TRUE
 2023-08-04,Tamil Eelam,Hmong,3,0,CONIFA Asia Cup,Alcochete,Portugal,TRUE
 2023-08-05,Hmong,Tibet,5,4,CONIFA Asia Cup,Alcochete,Portugal,TRUE
@@ -45825,8 +45984,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-09-12,Switzerland,Andorra,3,0,UEFA Euro qualification,Sion,Switzerland,FALSE
 2023-09-12,Israel,Belarus,1,0,UEFA Euro qualification,Tel Aviv,Israel,FALSE
 2023-09-12,Romania,Kosovo,2,0,UEFA Euro qualification,Bucharest,Romania,FALSE
+2023-10-08,Papua New Guinea,Solomon Islands,1,3,MSG Prime Minister's Cup,New Caledonia,New Caledonia,TRUE
+2023-10-08,New Caledonia,Vanuatu,4,0,MSG Prime Minister's Cup,New Caledonia,New Caledonia,FALSE
 2023-10-10,China PR,Vietnam,2,0,Friendly,Dalian,China PR,FALSE
 2023-10-11,Wales,Gibraltar,4,0,Friendly,Wrexham,Wales,FALSE
+2023-10-11,Solomon Islands,Vanuatu,1,0,MSG Prime Minister's Cup,New Caledonia,New Caledonia,TRUE
+2023-10-11,New Caledonia,Papua New Guinea,3,1,MSG Prime Minister's Cup,New Caledonia,New Caledonia,FALSE
 2023-10-12,Suriname,Haiti,1,1,CONCACAF Nations League,Paramaribo,Suriname,FALSE
 2023-10-12,Grenada,Jamaica,1,4,CONCACAF Nations League,Saint George's,Grenada,FALSE
 2023-10-12,Cuba,Honduras,0,0,CONCACAF Nations League,Santo Domingo,Dominican Republic,TRUE
@@ -45907,6 +46070,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-10-14,Northern Ireland,San Marino,3,0,UEFA Euro qualification,Belfast,Northern Ireland,FALSE
 2023-10-14,Slovenia,Finland,3,0,UEFA Euro qualification,Ljubljana,Slovenia,FALSE
 2023-10-14,Denmark,Kazakhstan,3,1,UEFA Euro qualification,Copenhagen,Denmark,FALSE
+2023-10-14,Papua New Guinea,Vanuatu,0,1,MSG Prime Minister's Cup,New Caledonia,New Caledonia,TRUE
+2023-10-14,New Caledonia,Solomon Islands,0,1,MSG Prime Minister's Cup,New Caledonia,New Caledonia,FALSE
 2023-10-15,Honduras,Cuba,4,0,CONCACAF Nations League,Tegucigalpa,Honduras,FALSE
 2023-10-15,Haiti,Jamaica,2,3,CONCACAF Nations League,Port of Spain,Trinidad and Tobago,TRUE
 2023-10-15,Suriname,Grenada,4,0,CONCACAF Nations League,Paramaribo,Suriname,FALSE
@@ -46073,6 +46238,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-11-17,Finland,Northern Ireland,4,0,UEFA Euro qualification,Helsinki,Finland,FALSE
 2023-11-17,Denmark,Slovenia,2,1,UEFA Euro qualification,Copenhagen,Denmark,FALSE
 2023-11-17,Kazakhstan,San Marino,3,1,UEFA Euro qualification,Astana,Kazakhstan,FALSE
+2023-11-17,Papua New Guinea,Tuvalu,3,0,Pacific Games,Honiara,Solomon Islands,TRUE
+2023-11-17,Solomon Islands,Samoa,1,0,Pacific Games,Honiara,Solomon Islands,FALSE
 2023-11-18,Antigua and Barbuda,Puerto Rico,2,3,CONCACAF Nations League,Piggotts,Antigua and Barbuda,FALSE
 2023-11-18,Anguilla,Bonaire,0,3,CONCACAF Nations League,The Valley,Anguilla,FALSE
 2023-11-18,Jamaica,Canada,1,2,CONCACAF Nations League,Kingston,Jamaica,FALSE
@@ -46087,6 +46254,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-11-18,Belarus,Andorra,1,0,UEFA Euro qualification,Budapest,Hungary,TRUE
 2023-11-18,Switzerland,Kosovo,1,1,UEFA Euro qualification,Basel,Switzerland,FALSE
 2023-11-18,Israel,Romania,1,2,UEFA Euro qualification,Felcsút,Hungary,TRUE
+2023-11-18,New Caledonia,Tonga,7,0,Pacific Games,Honiara,Solomon Islands,TRUE
+2023-11-18,Fiji,Northern Mariana Islands,10,0,Pacific Games,Honiara,Solomon Islands,TRUE
 2023-11-19,Guadeloupe,Saint Kitts and Nevis,5,0,CONCACAF Nations League,Sainte-Anne,Guadeloupe,FALSE
 2023-11-19,Saint Lucia,Sint Maarten,1,2,CONCACAF Nations League,Gros Islet,Saint Lucia,FALSE
 2023-11-19,Sierra Leone,Egypt,0,2,FIFA World Cup qualification,Monrovia,Liberia,TRUE
@@ -46124,6 +46293,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-11-20,Northern Ireland,Denmark,2,0,UEFA Euro qualification,Belfast,Northern Ireland,FALSE
 2023-11-20,San Marino,Finland,1,2,UEFA Euro qualification,Serravalle,San Marino,FALSE
 2023-11-20,Slovenia,Kazakhstan,2,1,UEFA Euro qualification,Ljubljana,Slovenia,FALSE
+2023-11-20,Tuvalu,Vanuatu,0,6,Pacific Games,Honiara,Solomon Islands,TRUE
+2023-11-20,Samoa,American Samoa,10,0,Pacific Games,Honiara,Solomon Islands,TRUE
 2023-11-21,Nicaragua,Dominican Republic,0,0,CONCACAF Nations League,Managua,Nicaragua,FALSE
 2023-11-21,French Guiana,Bermuda,3,0,CONCACAF Nations League,Fort de France,Martinique,TRUE
 2023-11-21,Saint Vincent and the Grenadines,Belize,3,0,CONCACAF Nations League,Saint George's,Saint Vincent and the Grenadines,FALSE
@@ -46180,6 +46351,24 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-11-21,Andorra,Israel,0,2,UEFA Euro qualification,Andorra la Vella,Andorra,FALSE
 2023-11-21,Kosovo,Belarus,0,1,UEFA Euro qualification,Pristina,Kosovo,FALSE
 2023-11-21,Romania,Switzerland,1,0,UEFA Euro qualification,Bucharest,Romania,FALSE
+2023-11-21,Tonga,Cook Islands,1,2,Pacific Games,Honiara,Solomon Islands,TRUE
+2023-11-21,Fiji,Tahiti,0,0,Pacific Games,Honiara,Solomon Islands,TRUE
+2023-11-23,Vanuatu,Papua New Guinea,1,1,Pacific Games,Honiara,Solomon Islands,TRUE
+2023-11-23,Solomon Islands,American Samoa,11,0,Pacific Games,Honiara,Solomon Islands,FALSE
+2023-11-24,Cook Islands,New Caledonia,0,8,Pacific Games,Honiara,Solomon Islands,TRUE
+2023-11-24,Northern Mariana Islands,Tahiti,0,5,Pacific Games,Honiara,Solomon Islands,TRUE
+2023-11-27,Northern Mariana Islands,American Samoa,4,0,Pacific Games,Honiara,Solomon Islands,TRUE
+2023-11-27,Tonga,Tuvalu,0,4,Pacific Games,Honiara,Solomon Islands,TRUE
+2023-11-27,Tahiti,Samoa,2,1,Pacific Games,Honiara,Solomon Islands,TRUE
+2023-11-27,Cook Islands,Papua New Guinea,0,3,Pacific Games,Solomon Islands,Solomon Islands,TRUE
+2023-11-28,New Caledonia,Vanuatu,1,0,Pacific Games,Solomon Islands,Solomon Islands,TRUE
+2023-11-28,Solomon Islands,Fiji,2,0,Pacific Games,Solomon Islands,Solomon Islands,FALSE
+2023-11-30,American Samoa,Tonga,2,6,Pacific Games,Solomon Islands,Solomon Islands,TRUE
+2023-11-30,Northern Mariana Islands,Tuvalu,1,4,Pacific Games,Solomon Islands,Solomon Islands,TRUE
+2023-11-30,Samoa,Cook Islands,3,0,Pacific Games,Solomon Islands,Solomon Islands,TRUE
+2023-11-30,Tahiti,Papua New Guinea,2,0,Pacific Games,Solomon Islands,Solomon Islands,TRUE
+2023-12-01,Vanuatu,Fiji,2,4,Pacific Games,Solomon Islands,Solomon Islands,TRUE
+2023-12-02,Solomon Islands,New Caledonia,2,2,Pacific Games,Solomon Islands,Solomon Islands,FALSE
 2023-12-16,Mexico,Colombia,2,3,Friendly,Los Angeles,United States,TRUE
 2024-01-01,Japan,Thailand,5,0,Friendly,Tokyo,Japan,FALSE
 2024-01-01,China PR,Hong Kong,1,2,Friendly,Abu Dhabi,United Arab Emirates,TRUE
