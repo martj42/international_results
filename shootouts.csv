@@ -36,6 +36,7 @@ date,home_team,away_team,winner,first_shooter
 1979-01-14,Guinea-Bissau,Guinea,Guinea,
 1979-04-29,Cameroon,Guinea,Guinea,
 1979-05-22,Argentina,Netherlands,Argentina,Argentina
+1979-08-31,Seychelles,Mauritius,Seychelles,
 1979-09-29,Indonesia,Thailand,Indonesia,
 1980-02-16,Gambia,Mauritania,Gambia,
 1980-03-19,Algeria,Egypt,Algeria,
@@ -85,9 +86,12 @@ date,home_team,away_team,winner,first_shooter
 1985-07-10,Bahrain,Qatar,Bahrain,
 1985-07-12,Saudi Arabia,Qatar,Saudi Arabia,
 1985-08-25,Mali,Guinea,Guinea,
+1985-08-31,Mauritius,Réunion,Mauritius,
 1985-09-15,Mozambique,Libya,Mozambique,
 1985-10-11,Kenya,Uganda,Kenya,
 1985-12-15,Singapore,Malaysia,Singapore,
+1985-12-25,Pakistan,Nepal,Nepal,
+1985-12-25,Bangladesh,India,India,
 1986-03-21,Egypt,Cameroon,Egypt,
 1986-06-21,Brazil,France,France,Brazil
 1986-06-21,Mexico,Germany,Germany,Germany
@@ -104,6 +108,9 @@ date,home_team,away_team,winner,first_shooter
 1987-06-19,Australia,Egypt,Australia,
 1987-06-21,South Korea,Australia,South Korea,
 1987-07-19,DR Congo,Senegal,DR Congo,
+1987-08-08,Ivory Coast,Madagascar,Ivory Coast,
+1987-08-09,Cameroon,Egypt,Egypt,
+1987-08-10,Kenya,Malawi,Malawi,
 1987-12-13,Malawi,Zimbabwe,Zimbabwe,
 1987-12-18,Equatorial Guinea,Gabon,Gabon,
 1987-12-27,Ethiopia,Zimbabwe,Ethiopia,
@@ -173,6 +180,7 @@ date,home_team,away_team,winner,first_shooter
 1993-07-01,Colombia,Argentina,Argentina,Colombia
 1993-08-15,Australia,Canada,Australia,Australia
 1993-10-24,Burundi,Guinea,Guinea,
+1993-12-26,Nepal,India,Nepal,
 1994-01-29,Burkina Faso,Guinea,Burkina Faso,
 1994-04-06,Nigeria,Ivory Coast,Nigeria,Nigeria
 1994-07-05,Mexico,Bulgaria,Bulgaria,Mexico
@@ -195,6 +203,8 @@ date,home_team,away_team,winner,first_shooter
 1995-12-02,Algeria,Ivory Coast,Ivory Coast,
 1995-12-06,Ethiopia,Zanzibar,Zanzibar,
 1995-12-07,Honduras,Costa Rica,Honduras,
+1995-12-25,Bangladesh,Sri Lanka,Bangladesh,
+1995-12-27,Sri Lanka,Nepal,Sri Lanka,
 1996-01-28,Gabon,Tunisia,Tunisia,Tunisia
 1996-02-22,Japan,Sweden,Sweden,
 1996-04-28,Barbados,Jamaica,Jamaica,
@@ -231,6 +241,7 @@ date,home_team,away_team,winner,first_shooter
 1998-06-30,Argentina,England,Argentina,Argentina
 1998-07-03,France,Italy,France,France
 1998-07-07,Brazil,Netherlands,Brazil,Brazil
+1998-08-15,Réunion,Madagascar,Réunion,
 1998-09-05,Indonesia,Thailand,Indonesia,
 1998-11-17,Guatemala,Honduras,Guatemala,
 1998-11-18,Guatemala,Mexico,Guatemala,
@@ -383,6 +394,8 @@ date,home_team,away_team,winner,first_shooter
 2007-07-25,Iraq,South Korea,Iraq,South Korea
 2007-07-28,South Korea,Japan,South Korea,South Korea
 2007-07-29,Botswana,Angola,Botswana,
+2007-08-18,Mauritius,Mayotte,Mayotte,
+2007-08-18,Madagascar,Réunion,Réunion,
 2007-10-24,South Africa,Zambia,South Africa,
 2008-05-05,Jersey,Guernsey,Jersey,
 2008-06-20,Croatia,Turkey,Turkey,Croatia
@@ -414,6 +427,8 @@ date,home_team,away_team,winner,first_shooter
 2011-07-16,Argentina,Uruguay,Uruguay,Argentina
 2011-07-17,Brazil,Paraguay,Paraguay,Brazil
 2011-07-20,Paraguay,Venezuela,Paraguay,Paraguay
+2011-08-11,Mayotte,Mauritius,Mauritius,
+2011-08-13,Seychelles,Mauritius,Seychelles,
 2012-02-05,Gabon,Mali,Mali,Gabon
 2012-02-12,Zambia,Ivory Coast,Zambia,Ivory Coast
 2012-06-03,Finland,Latvia,Latvia,Finland
@@ -537,6 +552,7 @@ date,home_team,away_team,winner,first_shooter
 2019-07-07,Madagascar,DR Congo,Madagascar,Madagascar
 2019-07-08,Ghana,Tunisia,Tunisia,Ghana
 2019-07-11,Ivory Coast,Algeria,Algeria,Algeria
+2019-07-28,Mauritius,Réunion,Réunion,
 2019-09-08,Tanzania,Burundi,Tanzania,Tanzania
 2019-10-13,Chad,Liberia,Chad,
 2019-10-13,Gambia,Djibouti,Gambia,
