@@ -1,0 +1,31 @@
+# ==================
+# Project Details
+# ==================
+name: "international_soccer_results"
+config-version: 2
+require-dbt-version:
+- ">=1.0.0"
+- "<2.0.0"
+version: "0.1"
+profile: "prophecy-default"
+
+# ==================
+# File Path Configs
+# ==================
+clean-targets:
+- "target"
+- "dbt_modules"
+- "logs"
+seed-paths:
+- "seeds"
+model-paths:
+- "models"
+- "prophecy-sources"
+macro-paths:
+- "macros"
+target-path: "target"
+
+# ==================
+# Model Configs
+# ==================
+models: null

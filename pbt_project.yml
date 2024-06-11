@@ -1,0 +1,138 @@
+name: international_soccer_results
+description: ''
+version: 0.0.1
+author: null
+language: sql
+buildSystem: ''
+buildSystemDetails: null
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-06-11 22:04:54'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds:
+  .prophecy/metadata/sqlseeds/goalscorers:
+    name: goalscorers
+    schema:
+      providerType: Snowflake
+      fields:
+      - name: date
+        dataType:
+          type: Date
+      - name: home_team
+        dataType:
+          type: String
+      - name: away_team
+        dataType:
+          type: String
+      - name: team
+        dataType:
+          type: String
+      - name: scorer
+        dataType:
+          type: String
+      - name: minute
+        dataType:
+          type: Number
+      - name: own_goal
+        dataType:
+          type: String
+      - name: penalty
+        dataType:
+          type: String
+    description: null
+    author: vlaunir@prophecy.io
+    files:
+    - goalscorers.csv
+    createdAt: '2024-06-11 22:04:54'
+  .prophecy/metadata/sqlseeds/results:
+    name: results
+    schema:
+      providerType: Snowflake
+      fields:
+      - name: date
+        dataType:
+          type: Date
+      - name: home_team
+        dataType:
+          type: String
+      - name: away_team
+        dataType:
+          type: String
+      - name: home_score
+        dataType:
+          type: Number
+      - name: away_score
+        dataType:
+          type: Number
+      - name: tournament
+        dataType:
+          type: String
+      - name: city
+        dataType:
+          type: String
+      - name: country
+        dataType:
+          type: String
+      - name: neutral
+        dataType:
+          type: String
+    description: null
+    author: vlaunir@prophecy.io
+    files:
+    - results.csv
+    createdAt: '2024-06-11 22:04:54'
+  .prophecy/metadata/sqlseeds/shootouts:
+    name: shootouts
+    schema:
+      providerType: Snowflake
+      fields:
+      - name: date
+        dataType:
+          type: Date
+      - name: home_team
+        dataType:
+          type: String
+      - name: away_team
+        dataType:
+          type: String
+      - name: winner
+        dataType:
+          type: String
+      - name: first_shooter
+        dataType:
+          type: String
+    description: null
+    author: vlaunir@prophecy.io
+    files:
+    - shootouts.csv
+    createdAt: '2024-06-11 22:04:54'
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline:
+  name: sqlPipeline
+  description: null
+  author: vlaunir@prophecy.io
+  createdAt: '2024-06-11 22:04:54'
+dependencies: []
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
