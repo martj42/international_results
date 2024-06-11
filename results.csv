@@ -47074,6 +47074,132 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-03-26,Slovenia,Portugal,2,0,Friendly,Ljubljana,Slovenia,FALSE
 2024-03-26,Spain,Brazil,3,3,Friendly,Madrid,Spain,FALSE
 2024-03-26,Finland,Estonia,2,1,Friendly,Helsinki,Finland,FALSE
+2024-06-01,Mexico,Bolivia,1,0,Friendly,Chicago,United States,TRUE
+2024-06-01,Costa Rica,Uruguay,0,0,Friendly,San Jose,Costa Rica,FALSE
+2024-06-02,Indonesia,Tanzania,0,0,Friendly,Jakarta,Indonesia,FALSE
+2024-06-03,Gibraltar,Scotland,0,2,Friendly,Faro,Portugal,TRUE
+2024-06-03,Croatia,North Macedonia,3,0,Friendly,Rijeka,Croatia,FALSE
+2024-06-03,Germany,Ukraine,0,0,Friendly,Nuremberg,Germany,FALSE
+2024-06-03,England,Bosnia and Herzegovina,3,0,Friendly,Newcastle,England,FALSE
+2024-06-03,Albania,Liechtenstein,3,0,Friendly,Szombathely,Hungary,TRUE
+2024-06-04,Slovenia,Armenia,2,1,Friendly,Ljubljana,Slovenia,FALSE
+2024-06-04,Switzerland,Estonia,4,0,Friendly,Lucerne,Switzerland,FALSE
+2024-06-04,Romania,Bulgaria,0,0,Friendly,Bucharest,Romania,FALSE
+2024-06-04,Austria,Serbia,2,1,Friendly,Vienna,Austria,FALSE
+2024-06-04,Republic of Ireland,Hungary,2,1,Friendly,Dublin,Ireland,FALSE
+2024-06-04,Portugal,Finland,4,2,Friendly,Lisbon,Portugal,FALSE
+2024-06-04,Italy,Turkey,0,0,Friendly,Bologna,Italy,FALSE
+2024-06-05,Slovakia,San Marino,4,0,Friendly,Wiener Neustadt,Austria,TRUE
+2024-06-05,Norway,Kosovo,3,0,Friendly,Oslo,Norway,FALSE
+2024-06-05,Denmark,Sweden,2,1,Friendly,Copenhagen,Denmark,FALSE
+2024-06-05,Belgium,Montenegro,2,0,Friendly,Brussels,Belgium,FALSE
+2024-06-05,France,Luxembourg,3,0,Friendly,Metz,France,FALSE
+2024-06-05,Spain,Andorra,5,0,Friendly,Badajoz,Spain,FALSE
+2024-06-06,Mexico,Uruguray,0,4,Friendly,Denver,United States,TRUE
+2024-06-06,Gibraltar,Wales,0,0,Friendly,Faro,Portugal,TRUE
+2024-06-06,Netherlands,Canada,4,0,Friendly,Rotterdam,Netherlands,FALSE
+2024-06-06,Guinea-Bissau,Ethiopia,0,0,FIFA World Cup qualification,Bissau,Guinea-Bissau,FALSE
+2024-06-06,Egypt,Burkina Faso,2,1,FIFA World Cup qualification,Cairo,Egypt,FALSE
+2024-06-06,Mauritania,Sudan,0,2,FIFA World Cup qualification,Nouakchott,Mauritania,FALSE
+2024-06-06,Senegal,DR Congo,1,1,FIFA World Cup qualification,Dakar, Senegal,FALSE
+2024-06-06,Benin,Rwanda,1,0,FIFA World Cup qualification,Abidjan,Ivory Coast,FALSE
+2024-06-06,Libya,Mauritius,2,1,FIFA World Cup qualification,Benghazi,Libya,FALSE
+2024-06-06,Algeria,Guinea,1,2,FIFA World Cup qualification,Algiers,Algeria,FALSE
+2024-06-06,Malawi,São Tomé and Príncipe,3,1,FIFA World Cup qualification,Lilongwe,Malawi,FALSE
+2024-06-06,India,Kuwait,0,0,FIFA World Cup qualification,Kilkata,India,FALSE
+2024-06-06,Afghanistan,Qatar,0,0,FIFA World Cup qualification,Hofuf,Saudi Arabia,FALSE
+2024-06-06,Myanmar,Japan,0,5,FIFA World Cup qualification,Yangon,Myanmar,FALSE
+2024-06-06,North Korea,Syria,1,0,FIFA World Cup qualification,Vientiane,Laos,FALSE
+2024-06-06,Singapore,South Korea,0,7,FIFA World Cup qualification,Singapore,Singapore,FALSE
+2024-06-06,China,Thailand,1,1,FIFA World Cup qualification,Shenyang,China,FALSE
+2024-06-06,Taiwan,Oman,0,3,FIFA World Cup qualification,Taipei,Taiwan,FALSE
+2024-06-06,Kyrgyzstan,Malaysia,1,1,FIFA World Cup qualification,Bishkek,Kyrgyzstan,FALSE
+2024-06-06,Hong Kong,Iran,2,4,FIFA World Cup qualification,Hong Kong,Hong Kong,FALSE
+2024-06-06,Uzbekistan,Turkmenistan,3,1,FIFA World Cup qualification,Tashkent,Uzbekistan,FALSE
+2024-06-06,Vietnam,Philippines,3,2,FIFA World Cup qualification,Hanoi,Vietnam,FALSE
+2024-06-06,Pakistan,Saudi Arabia,0,3,FIFA World Cup qualification,Islamabad,Pakistan,FALSE
+2024-06-06,Jordan,Tajikistan,3,0,FIFA World Cup qualification,Amman,Jordan,FALSE
+2024-06-06,Nepal,United Arab Emirates,0,4,FIFA World Cup qualification,Dammam,Saudi Arabia,FALSE
+2024-06-06,Bahrain,Yemen,0,0,FIFA World Cup qualification,Riffa,Bahrain,FALSE
+2024-06-06,Bangladesh,Australia,0,2,FIFA World Cup qualification,Dhaka,Bangladesh,FALSE
+2024-06-06,Palestine,Lebanon,0,0,FIFA World Cup qualification,Doha,Qatar,FALSE
+2024-06-06,Trinidad and Tobago,Grenada,2,2,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,FALSE
+2024-06-06,Curaçao,Barbados,4,1,FIFA World Cup qualification,Willemstad,Curaçao,FALSE
+2024-06-06,Haiti,Saint Lucia,2,1,FIFA World Cup qualification,Wildey,Barbados,FALSE
+2024-06-06,Nicaragua,Montserrat,4,1,FIFA World Cup qualification,Managua,Nicaragua,FALSE
+2024-06-06,Guatemala,Dominica,6,0,FIFA World Cup qualification,Guatemala City,Guatemala,FALSE
+2024-06-06,Jamaica,Dominican Republic,1,0,FIFA World Cup qualification,Kingston,Jamaica,FALSE
+2024-06-07,Czech Republic,Malta,7,1,Friendly,Grodig,Austria,TRUE
+2024-06-07,Belarus,Russia,0,4,Friendly,Brest,Belarus,FALSE
+2024-06-07,Romania,Liechtenstein,0,0,Friendly,Bucharest,Romania,FALSE
+2024-06-07,England,Iceland,0,1,Friendly,London,England,FALSE
+2024-06-07,Germany,Greece,2,1,Friendly,Monchengladbach,Germany,FALSE
+2024-06-07,Poland,Ukraine,3,1,Friendly,Warsaw,Poland,FALSE
+2024-06-07,Scotland,Finland,2,2,Friendly,Glasgow,Scotland,FALSE
+2024-06-07,Armenia,Kazakhstan,2,1,Friendly,Yerevan,Armenia,FALSE
+2024-06-07,Albania,Azerbaijan,3,1,Friendly,Szombathely,Hungary,TRUE
+2024-06-07,Cambodia,Mongolia,2,0,Friendly,Phnom Penh,Cambodia,FALSE
+2024-06-07,Zimbabwe,Lesotho,0,2,FIFA World Cup qualification,Soweto,South Africa,FALSE
+2024-06-07,Nigeria,South Africa,1,1,FIFA World Cup qualification,Uyo,Nigeria,FALSE
+2024-06-07,Angola,Eswatini,1,0,FIFA World Cup qualification,Luanda,Angola,FALSE
+2024-06-07,Morocco,Zambia,2,1,FIFA World Cup qualification,Agadir,Morocco,FALSE
+2024-06-07,Kenya,Burundi,1,1,FIFA World Cup qualification,Lilongwe,Malawi,FALSE
+2024-06-07,Ivory Coast,Gabon,1,0,FIFA World Cup qualification,Korhogo,Ivory Coast,FALSE
+2024-06-07,Mozambique,Somalia,2,1,FIFA World Cup qualification,Maputo,Mozambique,FALSE
+2024-06-07,Uganda,Botswana,1,0,FIFA World Cup qualification,Kampala,Uganda,FALSE
+2024-06-07,Madagascar,Comoros,2,1,FIFA World Cup qualification,Johannesburg,South Africa,FALSE
+2024-06-07,Honduras,Cuba,3,1,FIFA World Cup qualification,Tegucigalpa,Honduras,FALSE
+2024-06-07,Costa Rica,Saint Kitts and Nevis,4,0,FIFA World Cup qualification,San José,Costa Rica,FALSE
+2024-06-07,Panama,Guyana,2,0,FIFA World Cup qualification,Panama City,Panama,FALSE
+2024-06-07,El Salvador,Puerto Rico,0,0,FIFA World Cup qualification,San Salvador,El Salvador,FALSE
+2024-06-08,Peru,Paraguay,0,0,Friendly,Lima,Peru,FALSE
+2024-06-08,Slovenia,Bulgaria,1,1,Friendly,Ljubljana, Slovenia,FALSE
+2024-06-08,Switzerland,Austria,1,1,Friendly,St.Gallen,Switzerland,FALSE
+2024-06-08,Sweden,Serbia,0,3,Friendly,Solna,Sweden,FALSE
+2024-06-08,Hungary,Israel,3,0,Friendly,Debrecen,Hungary,FALSE
+2024-06-08,Portugal,Croatia,1,2,Friendly,Alges,Portugal,FALSE
+2024-06-08,Denmark,Norway,3,1,Friendly,Brondby,Denmark,FALSE
+2024-06-08,Belgium,Luxembourg,3,0,Friendly,Brussels,Belgium,FALSE
+2024-06-08,Spain,Northern Ireland,5,1,Friendly,Palma de Mallorca,Spain,FALSE
+2024-06-08,United States,Colombia,1,5,Friendly,Washington DC,United States,FALSE
+2024-06-08,Moldova,Cyprus,3,2,Friendly,Chișinău,Moldova,FALSE
+2024-06-08,Brunei,Sri Lanka,1,0,Friendly,Bandar Seri Begawan,Brunei,FALSE
+2024-06-08,Cameroon,Cape Verde,4,1,FIFA World Cup qualification,Garoua,Cameroon,FALSE
+2024-06-08,Gambia,Seychelles,5,1,FIFA World Cup qualification,Berkane,Morocco,FALSE
+2024-06-08,Bahamas,Trinidad and Tobago,1,7,FIFA World Cup qualification,Basseterre,Saint Kitts and Nevis,FALSE
+2024-06-08,British Virgin Islands,Guatemala,0,3,FIFA World Cup qualification,Road Town,British Virgin Islands,FALSE
+2024-06-08,Anguilla,Suriname,0,4,FIFA World Cup qualification,The Valley,Anguilla,FALSE
+2024-06-09,Mexico,Brazil,2,3,Friendly,College Station Texas, United States,TRUE
+2024-06-09,Slovakia,Wales,4,0,Friendly,Trnava,Slovakia,FALSE
+2024-06-09,Italy,Bosnia and Herzegovina,1,0,Friendly,Empoli,Italy,FALSE
+2024-06-09,France,Canada,0,0,Friendly,Bordeaux,France,FALSE
+2024-06-09,Montenegro,Georgia,1,3,Friendly,Podgorica,Montenegro,FALSE
+2024-06-09,Djibouti,Ethiopia,1,1,FIFA World Cup qualification,El Jadida,Morocco,FALSE
+2024-06-09,DR Congo,Togo,1,0,FIFA World Cup qualification,Kinshasa,DR Congo,FALSE
+2024-06-09,Mauritania,Senegal,0,1,FIFA World Cup qualification,Nouakchott,Mauritania,FALSE
+2024-06-09,São Tomé and Príncipe,Liberia,0,1,FIFA World Cup qualification,Berkane,São Tomé and Príncipe,FALSE
+2024-06-09,Namibia,Tunisia,0,0,FIFA World Cup qualification,Soweto,South Africa,FALSE
+2024-06-09,Cayman Islands,Antigua and Barbuda,1,0,FIFA World Cup qualification,George Town,Cayman Islands,FALSE
+2024-06-09,Grenada,Costa Rica,0,3,FIFA World Cup qualification,St. George's,Grenada,FALSE
+2024-06-09,Aruba,Curaçao,0,2,FIFA World Cup qualification,Oranjestad,Aruba,FALSE
+2024-06-09,Barbados,Haiti,1,3,FIFA World Cup qualification,Wildey,Barbados,FALSE
+2024-06-09,Belize,Nicaragua,0,4,FIFA World Cup qualification,Belmopan,Belize,FALSE
+2024-06-09,Dominica,Jamaica,2,3,FIFA World Cup qualification,Roseau,Dominica,FALSE
+2024-06-09,Saint Vincent and the Grenadines,El Salvador,1,3,FIFA World Cup qualification,Paramaribo,Suriname,FALSE
+2024-06-10,Argentina,Ecuador,1,0,Friendly,Chicago,United States,TRUE
+2024-06-10,Czech Republic,North Macedonia,2,1,Friendly,Hradec Králové,Czech Republic,FALSE
+2024-06-10,Poland,Turkey,2,1,Friendly,Warsaw,Poland,FALSE
+2024-06-10,Netherlands,Iceland,4,0,Friendly,Rotterdam,Netherlands,FALSE
+2024-06-10,Guinea-Bissau,Egypt,1,1,FIFA World Cup qualification,Bissau,Guinea Bissau,FALSE
+2024-06-10,Burkina Faso,Sierra Leone,2,2,FIFA World Cup qualification,Bamako,Mali,FALSE
+2024-06-10,Benin,Nigeria,2,1,FIFA World Cup qualification,Abidjan,Ivory Coast,FALSE
+2024-06-10,Somalia,Botswana,1,3,FIFA World Cup qualification,Maputo,Mozambique,FALSE
+2024-06-10,Uganda,Algeria,1,2,FIFA World Cup qualification,Kampala,Uganda,FALSE
+2024-06-10,Guinea,Mozambique,0,1,FIFA World Cup qualification,El Jadida,Morocco,FALSE
+2024-06-10,Equatorial Guinea,Malawi,1,0,FIFA World Cup qualification,Malabo,Equatorial Guinea,FALSE
+2024-06-10,Ghana,Central African Republic,4,3,FIFA World Cup qualification,Kumasi,Ghana,FALSE
+2024-06-10,Bermuda,Honduras,1,6,FIFA World Cup qualification,Hamilton,Bermuda,FALSE
+2024-06-10,Montserrat,Panama,1,3,FIFA World Cup qualification,Managua,Nicaragua,FALSE
 2024-06-14,Germany,Scotland,NA,NA,UEFA Euro,Munich,Germany,FALSE
 2024-06-15,Hungary,Switzerland,NA,NA,UEFA Euro,Cologne,Germany,TRUE
 2024-06-15,Spain,Croatia,NA,NA,UEFA Euro,Berlin,Germany,TRUE
