@@ -1,0 +1,220 @@
+{
+  "id" : "goalscores",
+  "metainfo" : {
+    "label" : "goalscores",
+    "autoLayout" : false,
+    "staleState" : "none",
+    "sourceSuggestions" : {
+      "sources" : [ ]
+    },
+    "graphConfig" : {
+      "entityConfig" : {
+        "schema" : "'DEV'",
+        "type" : "ModelConfig"
+      }
+    },
+    "version" : 3
+  },
+  "processes" : {
+    "goalscores##pcuNIHZq" : {
+      "id" : "goalscores##pcuNIHZq",
+      "component" : "TargetModel",
+      "metadata" : {
+        "label" : "goalscores",
+        "x" : 20,
+        "y" : 20,
+        "phase" : 0,
+        "macroDependencies" : [ ]
+      },
+      "properties" : {
+        "customQueryDisabled" : true,
+        "customQuery" : false,
+        "incrementalEditorDisabled" : true,
+        "query" : "SELECT * \n\nFROM goalscorers\n",
+        "incrementalKey" : false,
+        "incremental" : {
+          "expression" : "true"
+        }
+      },
+      "ports" : {
+        "inputs" : [ {
+          "id" : "gR1I0s8t",
+          "schema" : {
+            "providerType" : "Snowflake",
+            "fields" : [ {
+              "name" : "date",
+              "dataType" : {
+                "type" : "Date"
+              }
+            }, {
+              "name" : "home_team",
+              "dataType" : {
+                "type" : "String"
+              }
+            }, {
+              "name" : "away_team",
+              "dataType" : {
+                "type" : "String"
+              }
+            }, {
+              "name" : "team",
+              "dataType" : {
+                "type" : "String"
+              }
+            }, {
+              "name" : "scorer",
+              "dataType" : {
+                "type" : "String"
+              }
+            }, {
+              "name" : "minute",
+              "dataType" : {
+                "type" : "Number"
+              }
+            }, {
+              "name" : "own_goal",
+              "dataType" : {
+                "type" : "String"
+              }
+            }, {
+              "name" : "penalty",
+              "dataType" : {
+                "type" : "String"
+              }
+            } ]
+          },
+          "slug" : "goalscorers"
+        } ],
+        "outputs" : [ {
+          "id" : "Qd6PvEVS",
+          "schema" : {
+            "providerType" : "Snowflake",
+            "fields" : [ {
+              "name" : "DATE",
+              "dataType" : {
+                "type" : "Date"
+              }
+            }, {
+              "name" : "HOME_TEAM",
+              "dataType" : {
+                "type" : "String"
+              }
+            }, {
+              "name" : "AWAY_TEAM",
+              "dataType" : {
+                "type" : "String"
+              }
+            }, {
+              "name" : "TEAM",
+              "dataType" : {
+                "type" : "String"
+              }
+            }, {
+              "name" : "SCORER",
+              "dataType" : {
+                "type" : "String"
+              }
+            }, {
+              "name" : "MINUTE",
+              "dataType" : {
+                "type" : "Number"
+              }
+            }, {
+              "name" : "OWN_GOAL",
+              "dataType" : {
+                "type" : "String"
+              }
+            }, {
+              "name" : "PENALTY",
+              "dataType" : {
+                "type" : "String"
+              }
+            } ]
+          },
+          "slug" : "out"
+        } ],
+        "isCustomOutputSchema" : false,
+        "autoUpdateOnRun" : false
+      }
+    },
+    "mSHYi7LmgmYEiV2Lb2hU2" : {
+      "id" : "mSHYi7LmgmYEiV2Lb2hU2",
+      "component" : "Seed",
+      "metadata" : {
+        "label" : "goalscorers",
+        "slug" : "goalscorers",
+        "x" : -140,
+        "y" : 20,
+        "phase" : 0
+      },
+      "properties" : {
+        "table" : {
+          "name" : "goalscorers",
+          "sourceType" : "Seed",
+          "alias" : ""
+        }
+      },
+      "ports" : {
+        "inputs" : [ ],
+        "outputs" : [ {
+          "id" : "TiimcPhzzFrnabX7A14wk",
+          "schema" : {
+            "providerType" : "Snowflake",
+            "fields" : [ {
+              "name" : "date",
+              "dataType" : {
+                "type" : "Date"
+              }
+            }, {
+              "name" : "home_team",
+              "dataType" : {
+                "type" : "String"
+              }
+            }, {
+              "name" : "away_team",
+              "dataType" : {
+                "type" : "String"
+              }
+            }, {
+              "name" : "team",
+              "dataType" : {
+                "type" : "String"
+              }
+            }, {
+              "name" : "scorer",
+              "dataType" : {
+                "type" : "String"
+              }
+            }, {
+              "name" : "minute",
+              "dataType" : {
+                "type" : "Number"
+              }
+            }, {
+              "name" : "own_goal",
+              "dataType" : {
+                "type" : "String"
+              }
+            }, {
+              "name" : "penalty",
+              "dataType" : {
+                "type" : "String"
+              }
+            } ]
+          },
+          "slug" : "out"
+        } ],
+        "isCustomOutputSchema" : false,
+        "autoUpdateOnRun" : false
+      }
+    }
+  },
+  "connections" : [ {
+    "id" : "zdRuYYgKsmn3TfaFnPSoI$$7xGQMFP7ycOZqDk0jgz8-",
+    "source" : "mSHYi7LmgmYEiV2Lb2hU2",
+    "sourcePort" : "TiimcPhzzFrnabX7A14wk",
+    "target" : "goalscores##pcuNIHZq",
+    "targetPort" : "gR1I0s8t"
+  } ],
+  "component" : "Model"
+}

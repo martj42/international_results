@@ -1,0 +1,12 @@
+---
+version: 2
+macros:
+- name: "generate_database_name"
+  arguments:
+  - name: "custom_database_name"
+    type: "value"
+    description: "{\"ProphecyType\": \"value\"}"
+  - name: "node"
+    type: "value"
+    description: "{\"ProphecyType\": \"value\"}"
+  macroType: "expression"

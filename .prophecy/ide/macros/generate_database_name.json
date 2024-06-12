@@ -1,0 +1,55 @@
+{
+  "generate_database_name" : {
+    "name" : "generate_database_name",
+    "macroType" : "query",
+    "definition" : "    {%- set default_database = target.database -%}\n    {%- if custom_database_name is none -%}\n        {{ default_database }}\n    {%- else -%}\n        {{ custom_database_name | trim }}\n    {%- endif -%}",
+    "parameters" : {
+      "type" : "record",
+      "fields" : [ {
+        "name" : "custom_database_name",
+        "kind" : {
+          "type" : "value",
+          "value" : "None"
+        },
+        "optional" : false,
+        "isWorkflowNodeConfiguration" : false,
+        "isReferenced" : false
+      }, {
+        "name" : "node",
+        "kind" : {
+          "type" : "value",
+          "value" : "None"
+        },
+        "optional" : false,
+        "isWorkflowNodeConfiguration" : false,
+        "isReferenced" : false
+      } ]
+    },
+    "staleState" : "none",
+    "propertiesFile" : {
+      "name" : "macros",
+      "content" : "---\nversion: 2\nmacros:\n- name: \"generate_database_name\"\n  arguments:\n  - name: \"custom_database_name\"\n    type: \"value\"\n    description: \"{\\\"ProphecyType\\\": \\\"value\\\"}\"\n  - name: \"node\"\n    type: \"value\"\n    description: \"{\\\"ProphecyType\\\": \\\"value\\\"}\"\n  macroType: \"query\"\n",
+      "path" : "international_soccer_results/macros/macros.yml",
+      "projectConfiguration" : null,
+      "folderConfiguration" : {
+        "version" : 2,
+        "macros" : [ {
+          "name" : "generate_database_name",
+          "arguments" : [ {
+            "name" : "custom_database_name",
+            "type" : "value",
+            "description" : "{\"ProphecyType\": \"value\"}"
+          }, {
+            "name" : "node",
+            "type" : "value",
+            "description" : "{\"ProphecyType\": \"value\"}"
+          } ],
+          "macroType" : "query"
+        } ]
+      },
+      "packagesYml" : null,
+      "editable" : true
+    },
+    "version" : 0
+  }
+}

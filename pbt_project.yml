@@ -23,10 +23,61 @@ functions:
   airflowFunctions: {}
   businessRules: {}
 subgraphs: {}
-sqlModels: {}
+sqlModels:
+  .prophecy/metadata/sqlmodels/goalscores:
+    name: goalscores
+    schema:
+      providerType: Snowflake
+      fields:
+      - name: DATE
+        dataType:
+          type: Date
+      - name: HOME_TEAM
+        dataType:
+          type: String
+      - name: AWAY_TEAM
+        dataType:
+          type: String
+      - name: TEAM
+        dataType:
+          type: String
+      - name: SCORER
+        dataType:
+          type: String
+      - name: MINUTE
+        dataType:
+          type: Number
+      - name: OWN_GOAL
+        dataType:
+          type: String
+      - name: PENALTY
+        dataType:
+          type: String
+    description: null
+    author: vlaunir@prophecy.io
+    files:
+    - models/raw/goalscores.sql
+    - .prophecy/ide/models/goalscores.json
+    sqlDependencies:
+      models: []
+      datasets: []
+      seeds: []
+      sources: []
+      snapshots: []
+    createdAt: '2024-06-11 22:14:55'
 sqlSnapshots: {}
 sqlTests: {}
-sqlMacros: {}
+sqlMacros:
+  .prophecy/metadata/sqlmacros/generate_database_name:
+    name: generate_database_name
+    macroType: query
+    description: null
+    author: vlaunir@prophecy.io
+    files:
+    - macros/generate_database_name.sql
+    - .prophecy/ide/macros/generate_database_name.json
+    - macros/macros.yml
+    createdAt: '2024-06-12 02:45:52'
 sqlSeeds:
   .prophecy/metadata/sqlseeds/goalscorers:
     name: goalscorers

@@ -28,4 +28,12 @@ target-path: "target"
 # ==================
 # Model Configs
 # ==================
-models: null
+models:
+  international_soccer_results:
+    raw:
+      database: "'INTERNATIONAL_SOCCER_RESULTS'"
+
+# ============
+# Misc
+# ============
+dispatch: []
