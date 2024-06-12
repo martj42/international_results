@@ -82,7 +82,7 @@ sqlSeeds:
   .prophecy/metadata/sqlseeds/goalscorers:
     name: goalscorers
     schema:
-      providerType: Snowflake
+      providerType: Databricks
       fields:
       - name: date
         dataType:
@@ -101,7 +101,7 @@ sqlSeeds:
           type: String
       - name: minute
         dataType:
-          type: Number
+          type: Integer
       - name: own_goal
         dataType:
           type: String
@@ -116,7 +116,7 @@ sqlSeeds:
   .prophecy/metadata/sqlseeds/results:
     name: results
     schema:
-      providerType: Snowflake
+      providerType: Databricks
       fields:
       - name: date
         dataType:
@@ -129,10 +129,10 @@ sqlSeeds:
           type: String
       - name: home_score
         dataType:
-          type: Number
+          type: Integer
       - name: away_score
         dataType:
-          type: Number
+          type: Integer
       - name: tournament
         dataType:
           type: String
@@ -153,7 +153,7 @@ sqlSeeds:
   .prophecy/metadata/sqlseeds/shootouts:
     name: shootouts
     schema:
-      providerType: Snowflake
+      providerType: Databricks
       fields:
       - name: date
         dataType:
