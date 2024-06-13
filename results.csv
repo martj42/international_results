@@ -47266,8 +47266,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-06-11,Guyana,Belize,3,1,FIFA World Cup qualification,Bridgetown,Barbados,TRUE
 2024-06-11,Dominican Republic,British Virgin Islands,4,0,FIFA World Cup qualification,San Cristóbal,Dominican Republic,FALSE
 2024-06-11,Puerto Rico,Anguilla,8,0,FIFA World Cup qualification,Bayamón,Puerto Rico,FALSE
-2024-06-12,Ecuador,Bolivia,NA,NA,Friendly,Chester,United States,TRUE
-2024-06-12,United States,Brazil,NA,NA,Friendly,Orlando,United States,FALSE
+2024-06-12,Ecuador,Bolivia,3,1,Friendly,Chester,United States,TRUE
+2024-06-12,United States,Brazil,1,1,Friendly,Orlando,United States,FALSE
 2024-06-14,Germany,Scotland,NA,NA,UEFA Euro,Munich,Germany,FALSE
 2024-06-14,Argentina,Guatemala,NA,NA,Friendly,Landover,United States,TRUE
 2024-06-14,El Salvador,Peru,NA,NA,Friendly,Philadelphia,United States,TRUE
