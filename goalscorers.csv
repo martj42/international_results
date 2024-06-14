@@ -44128,3 +44128,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-06-11,Latvia,Faroe Islands,Latvia,Andrejs Cigaņiks,49,FALSE,FALSE
 2024-06-11,Lithuania,Estonia,Estonia,Mark Anders Lepik,82,FALSE,FALSE
 2024-06-11,Lithuania,Estonia,Lithuania,Giedrius Matulevicius,84,FALSE,FALSE
+2024-06-14,Germany,Scotland,Germany,Florian Wirtz,10,FALSE,FALSE
+2024-06-14,Germany,Scotland,Germany,Jamal Musiala,19,FALSE,FALSE
+2024-06-14,Germany,Scotland,Germany,Kai Havertz,45,FALSE,TRUE
+2024-06-14,Germany,Scotland,Germany,Niclas Füllkrug,68,FALSE,FALSE
+2024-06-14,Germany,Scotland,Scotland,Antonio Rüdiger,87,TRUE,FALSE
+2024-06-14,Germany,Scotland,Germany,Emre Can,90,FALSE,FALSE
