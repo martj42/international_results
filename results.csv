@@ -5858,7 +5858,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1963-08-29,Fiji,Papua New Guinea,3,1,South Pacific Games,Suva,Fiji,FALSE
 1963-08-30,Solomon Islands,Vanuatu,6,3,South Pacific Games,Suva,Fiji,TRUE
 1963-09-01,Colombia,Costa Rica,4,5,Friendly,Bogotá,Colombia,FALSE
-1963-09-01,Fiji,Solomon Islands,5,0,South Pacific Games,Suva,Lautoka,FALSE
+1963-09-01,Fiji,Solomon Islands,5,0,South Pacific Games,Suva,Fiji,FALSE
 1963-09-01,New Caledonia,Tahiti,2,1,South Pacific Games,Suva,Fiji,TRUE
 1963-09-04,China PR,Myanmar,4,0,Friendly,Beijing,China PR,FALSE
 1963-09-04,Colombia,Costa Rica,1,0,Friendly,Cali,Colombia,FALSE
@@ -8103,7 +8103,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1970-08-08,Singapore,Thailand,4,5,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
 1970-08-09,Hong Kong,South Korea,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
 1970-08-09,India,Vietnam Republic,2,1,Merdeka Tournament,Ipoh,Malaysia,TRUE
-1970-08-09,Taiwan,Western Australia,1,3,Merdeka Tournament,Ipoh,Malaysia,FALSE
+1970-08-09,Taiwan,Western Australia,1,3,Merdeka Tournament,Ipoh,Malaysia,TRUE
 1970-08-09,Malaysia,Myanmar,1,2,Merdeka Tournament,Kuala Lumpur,Malaysia,FALSE
 1970-08-10,Indonesia,Thailand,6,3,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
 1970-08-10,Japan,Singapore,4,0,Merdeka Tournament,Kuala Lumpur,Malaysia,TRUE
@@ -9407,7 +9407,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1973-08-15,Congo,Uganda,3,2,Friendly,Brazzaville,Congo,FALSE
 1973-08-15,Egypt,Tunisia,0,1,Palestine Cup,Tripoli,Libya,TRUE
 1973-08-15,Singapore,India,4,5,Friendly,Kallang,Singapore,FALSE
-1973-08-16,Yemen,United Arab Emirates,1,1,Palestine Cup,Benghazi,Libya,FALSE
+1973-08-16,Yemen,United Arab Emirates,1,1,Palestine Cup,Benghazi,Libya,TRUE
 1973-08-16,Syria,Yemen DPR,7,1,Palestine Cup,Tripoli,Libya,TRUE
 1973-08-16,Egypt,Palestine,2,0,Palestine Cup,Tripoli,Libya,TRUE
 1973-08-17,Algeria,Yemen,15,1,Palestine Cup,Benghazi,Libya,TRUE
@@ -28106,7 +28106,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2004-05-15,Samoa,Vanuatu,0,3,FIFA World Cup qualification,Apia,Samoa,FALSE
 2004-05-15,Solomon Islands,New Caledonia,2,0,FIFA World Cup qualification,Honiara,Solomon Islands,FALSE
 2004-05-15,Tonga,Cook Islands,2,1,FIFA World Cup qualification,Honiara,Solomon Islands,TRUE
-2004-05-15,Åland,Sealand,2,2,Friendly,Åland,Finland,FALSE
+2004-05-15,Åland Islands,Sealand,2,2,Friendly,Åland,Finland,FALSE
 2004-05-16,Zimbabwe,Zambia,0,0,Friendly,Harare,Zimbabwe,FALSE
 2004-05-17,American Samoa,Papua New Guinea,0,10,FIFA World Cup qualification,Apia,Samoa,TRUE
 2004-05-17,New Caledonia,Cook Islands,8,0,FIFA World Cup qualification,Honiara,Solomon Islands,TRUE
@@ -30392,7 +30392,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2006-11-12,Haiti,Suriname,1,1,CFU Caribbean Cup qualification,Fort-de-France,Martinique,TRUE
 2006-11-12,Martinique,Cuba,0,0,CFU Caribbean Cup qualification,Fort-de-France,Martinique,FALSE
 2006-11-12,Philippines,Laos,1,2,AFF Championship qualification,Bacolod,Philippines,FALSE
-2006-11-12,Timor-Leste,Brunei,2,3,AFF Championship qualification,Bacolod,Philippines,FALSE
+2006-11-12,Timor-Leste,Brunei,2,3,AFF Championship qualification,Bacolod,Philippines,TRUE
 2006-11-14,Australia,Ghana,1,1,Friendly,London,England,TRUE
 2006-11-14,Cambodia,Laos,2,2,AFF Championship qualification,Bacolod,Philippines,TRUE
 2006-11-14,Mali,Congo,1,0,Friendly,La Courneuve,France,TRUE
@@ -30443,7 +30443,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2006-11-16,Laos,Timor-Leste,3,2,AFF Championship qualification,Bacolod,Philippines,TRUE
 2006-11-16,Brunei,Cambodia,1,1,AFF Championship qualification,Bacolod,Philippines,TRUE
 2006-11-18,Philippines,Cambodia,1,0,AFF Championship qualification,Bacolod,Philippines,FALSE
-2006-11-18,Brunei,Laos,1,4,AFF Championship qualification,Bacolod,Philippines,FALSE
+2006-11-18,Brunei,Laos,1,4,AFF Championship qualification,Bacolod,Philippines,TRUE
 2006-11-18,Tanzania,Angola,1,1,Friendly,Dar es Salaam,Tanzania,FALSE
 2006-11-19,Barbados,Bahamas,2,1,CFU Caribbean Cup qualification,Bridgetown,Barbados,FALSE
 2006-11-19,Panama,Peru,1,2,Friendly,Panama City,Panama,FALSE
@@ -30453,7 +30453,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2006-11-19,Northern Cyprus,Crimea,5,0,ELF Cup,Lefkoşa,Northern Cyprus,FALSE
 2006-11-20,Cambodia,Timor-Leste,4,1,AFF Championship qualification,Bacolod,Philippines,TRUE
 2006-11-20,Philippines,Brunei,4,1,AFF Championship qualification,Bacolod,Philippines,TRUE
-2006-11-20,Monaco,Ambazonia,3,0,Viva World Cup,Costebelle,France,FALSE
+2006-11-20,Monaco,Ambazonia,3,0,Viva World Cup,Costebelle,France,TRUE
 2006-11-20,Occitania,Sápmi,0,7,Viva World Cup,Costebelle,France,FALSE
 2006-11-20,Găgăuzia,Kyrgyzstan,1,6,ELF Cup,Gazimağusa,Northern Cyprus,TRUE
 2006-11-20,Greenland,Zanzibar,1,1,ELF Cup,Gazimağusa,Northern Cyprus,TRUE
@@ -46155,7 +46155,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-07-08,Namibia,Eswatini,1,2,COSAFA Cup,Durban,South Africa,TRUE
 2023-07-09,Guatemala,Jamaica,0,1,Gold Cup,Cincinnati,United States,TRUE
 2023-07-09,United States,Canada,2,2,Gold Cup,Cincinnati,United States,FALSE
-2023-07-09,Åland,Isle of Wight,0,2,Island Games,Saint Sampson,Guernsey,TRUE
+2023-07-09,Åland Islands,Isle of Wight,0,2,Island Games,Saint Sampson,Guernsey,TRUE
 2023-07-09,Guernsey,Western Isles,1,0,Island Games,Saint Sampson,Guernsey,FALSE
 2023-07-09,Isle of Man,Falkland Islands,3,0,Island Games,Saint Martin,Guernsey,TRUE
 2023-07-09,Ynys Môn,Shetland,2,0,Island Games,Saint Sampson,Guernsey,TRUE
@@ -46165,7 +46165,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-07-09,Zambia,Comoros,2,1,COSAFA Cup,Durban,South Africa,TRUE
 2023-07-09,Malawi,Seychelles,2,0,COSAFA Cup,Durban,South Africa,TRUE
 2023-07-10,Western Isles,Isle of Wight,0,1,Island Games,Saint Martin,Guernsey,TRUE
-2023-07-10,Guernsey,Åland,4,1,Island Games,Saint Sampson,Guernsey,FALSE
+2023-07-10,Guernsey,Åland Islands,4,1,Island Games,Saint Sampson,Guernsey,FALSE
 2023-07-10,Falkland Islands,Ynys Môn,1,5,Island Games,Saint Sampson,Guernsey,TRUE
 2023-07-10,Shetland,Isle of Man,3,2,Island Games,Saint Sampson,Guernsey,TRUE
 2023-07-10,Greenland,Frøya,2,0,Island Games,Saint Sampson,Guernsey,TRUE
@@ -46174,7 +46174,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-07-10,Angola,Mauritius,0,1,COSAFA Cup,KwaMashu,South Africa,TRUE
 2023-07-10,Mozambique,Lesotho,0,1,COSAFA Cup,KwaMashu,South Africa,TRUE
 2023-07-11,Guernsey,Isle of Wight,1,2,Island Games,Saint Sampson,Guernsey,FALSE
-2023-07-11,Åland,Western Isles,0,2,Island Games,Saint Sampson,Guernsey,TRUE
+2023-07-11,Åland Islands,Western Isles,0,2,Island Games,Saint Sampson,Guernsey,TRUE
 2023-07-11,Falkland Islands,Shetland,1,4,Island Games,Saint Sampson,Guernsey,TRUE
 2023-07-11,Isle of Man,Ynys Môn,1,2,Island Games,Saint Martin,Guernsey,TRUE
 2023-07-11,Frøya,Orkney,2,3,Island Games,St. Peter Port,Guernsey,TRUE
@@ -46189,7 +46189,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-07-12,Angola,Lesotho,4,2,COSAFA Cup,Durban,South Africa,TRUE
 2023-07-12,Mauritius,Mozambique,0,1,COSAFA Cup,KwaMashu,South Africa,TRUE
 2023-07-13,Frøya,Saint Helena,4,2,Island Games,Saint Martin,Guernsey,TRUE
-2023-07-13,Åland,Falkland Islands,1,1,Island Games,Saint Sampson,Guernsey,TRUE
+2023-07-13,Åland Islands,Falkland Islands,1,1,Island Games,Saint Sampson,Guernsey,TRUE
 2023-07-13,Western Isles,Menorca,2,1,Island Games,Saint Sampson,Guernsey,TRUE
 2023-07-13,Orkney,Isle of Man,0,1,Island Games,Saint Sampson,Guernsey,TRUE
 2023-07-13,Shetland,Greenland,5,1,Island Games,Saint Sampson,Guernsey,TRUE
@@ -46926,6 +46926,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-03-18,Solomon Islands,Fiji,2,1,Friendly,Honiara,Solomon Islands,FALSE
 2024-03-20,Bonaire,El Salvador,1,1,Friendly,"Washington, D.C.",United States,TRUE
 2024-03-20,San Marino,Saint Kitts and Nevis,1,3,Friendly,Serravalle,San Marino,FALSE
+2024-03-20,Djibouti,Liberia,0,2,African Cup of Nations qualification,Marrakech,Morocco,TRUE
+2024-03-20,Somalia,Eswatini,0,3,African Cup of Nations qualification,El Jadida,Morocco,TRUE
+2024-03-20,Tonga,Samoa,1,4,Oceania Nations Cup qualification,Nuku'alofa,Tonga,FALSE
 2024-03-21,South Africa,Andorra,1,1,FIFA Series,Annaba,Algeria,TRUE
 2024-03-21,Cape Verde,Guyana,1,0,FIFA Series,Jeddah,Saudi Arabia,TRUE
 2024-03-21,Guinea,Vanuatu,6,0,FIFA Series,Jeddah,Saudi Arabia,TRUE
@@ -46993,6 +46996,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-03-22,Romania,Northern Ireland,1,1,Friendly,Bucharest,Romania,FALSE
 2024-03-22,Senegal,Gabon,3,0,Friendly,Amiens,France,TRUE
 2024-03-22,Spain,Colombia,0,1,Friendly,London,England,TRUE
+2024-03-22,Chad,Mauritius,1,0,African Cup of Nations qualification,Yaoundé,Cameroon,TRUE
+2024-03-22,São Tomé and Príncipe,South Sudan,1,1,African Cup of Nations qualification,Berkane,Morocco,TRUE
 2024-03-23,Tunisia,Croatia,0,0,FIFA Series,Cairo,Egypt,TRUE
 2024-03-23,Canada,Trinidad and Tobago,2,0,CONCACAF Nations League,Frisco,United States,TRUE
 2024-03-23,Costa Rica,Honduras,3,1,CONCACAF Nations League,Frisco,United States,TRUE
@@ -47003,6 +47008,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-03-23,Ivory Coast,Benin,2,2,Friendly,Amiens,France,TRUE
 2024-03-23,Republic of Ireland,Belgium,0,0,Friendly,Dublin,Republic of Ireland,FALSE
 2024-03-23,Slovakia,Austria,0,2,Friendly,Bratislava,Slovakia,FALSE
+2024-03-23,Samoa,Cook Islands,1,0,Oceania Nations Cup qualification,Nuku'alofa,Tonga,TRUE
 2024-03-24,Jamaica,Panama,1,0,CONCACAF Nations League,Arlington,United States,TRUE
 2024-03-24,United States,Mexico,2,0,CONCACAF Nations League,Arlington,United States,FALSE
 2024-03-24,Belize,Puerto Rico,3,0,Friendly,Belmopan,Belize,FALSE
@@ -47074,6 +47080,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-03-26,Slovenia,Portugal,2,0,Friendly,Ljubljana,Slovenia,FALSE
 2024-03-26,Spain,Brazil,3,3,Friendly,Madrid,Spain,FALSE
 2024-03-26,Finland,Estonia,2,1,Friendly,Helsinki,Finland,FALSE
+2024-03-26,Liberia,Djibouti,0,0,African Cup of Nations qualification,Monrovia,Liberia,FALSE
+2024-03-26,Eswatini,Somalia,2,2,African Cup of Nations qualification,Mbombela,South Africa,TRUE
+2024-03-26,Mauritius,Chad,1,2,African Cup of Nations qualification,Saint Pierre,Mauritius,FALSE
+2024-03-26,South Sudan,São Tomé and Príncipe,0,0,African Cup of Nations qualification,Berkane,Morocco,TRUE
+2024-03-26,Tonga,Cook Islands,0,1,Oceania Nations Cup qualification,Nuku'alofa,Tonga,FALSE
 2024-04-06,Northern Mariana Islands,Guam,2,2,Marianas Cup,Koblerville,Northern Mariana Islands,FALSE
 2024-04-07,Northern Mariana Islands,Guam,2,1,Marianas Cup,Koblerville,Northern Mariana Islands,FALSE
 2024-04-14,Trinidad and Tobago,Guyana,2,1,Friendly,Port of Spain,Trinidad and Tobago,FALSE
