@@ -47280,58 +47280,101 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-06-12,Ecuador,Bolivia,3,1,Friendly,Chester,United States,TRUE
 2024-06-12,United States,Brazil,1,1,Friendly,Orlando,United States,FALSE
 2024-06-14,Germany,Scotland,5,1,UEFA Euro,Munich,Germany,FALSE
-2024-06-14,Argentina,Guatemala,NA,NA,Friendly,Landover,United States,TRUE
-2024-06-14,El Salvador,Peru,NA,NA,Friendly,Philadelphia,United States,TRUE
-2024-06-15,Hungary,Switzerland,NA,NA,UEFA Euro,Cologne,Germany,TRUE
-2024-06-15,Spain,Croatia,NA,NA,UEFA Euro,Berlin,Germany,TRUE
-2024-06-15,Italy,Albania,NA,NA,UEFA Euro,Dortmund,Germany,TRUE
+2024-06-14,Argentina,Guatemala,4,1,Friendly,Landover,United States,TRUE
+2024-06-14,El Salvador,Peru,0,1,Friendly,Philadelphia,United States,TRUE
+2024-06-15,Hungary,Switzerland,1,3,UEFA Euro,Cologne,Germany,TRUE
+2024-06-15,Spain,Croatia,3,0,UEFA Euro,Berlin,Germany,TRUE
+2024-06-15,Italy,Albania,2,1,UEFA Euro,Dortmund,Germany,TRUE
 2024-06-15,Colombia,Bolivia,NA,NA,Friendly,Denver,United States,TRUE
 2024-06-15,Ecuador,Honduras,NA,NA,Friendly,Hartford,United States,TRUE
+2024-06-15,Vanuatu,Solomon Islands,1,0,Oceania Nations Cup,Port Vila,Vanuatu,FALSE
 2024-06-16,Slovenia,Denmark,NA,NA,UEFA Euro,Stuttgart,Germany,TRUE
 2024-06-16,Serbia,England,NA,NA,UEFA Euro,Gelsenkirchen,Germany,TRUE
 2024-06-16,Poland,Netherlands,NA,NA,UEFA Euro,Hamburg,Germany,TRUE
 2024-06-16,Panama,Paraguay,NA,NA,Friendly,Panama City,Panama,FALSE
+2024-06-16,Tahiti,Samoa,NA,NA,Oceania Nations Cup,Suva,Fiji,TRUE
+2024-06-16,Fiji,Papua New Guinea,NA,NA,Oceania Nations Cup,Suva,Fiji,FALSE
 2024-06-17,Austria,France,NA,NA,UEFA Euro,Düsseldorf,Germany,TRUE
 2024-06-17,Romania,Ukraine,NA,NA,UEFA Euro,Munich,Germany,TRUE
 2024-06-17,Belgium,Slovakia,NA,NA,UEFA Euro,Frankfurt,Germany,TRUE
 2024-06-18,Turkey,Georgia,NA,NA,UEFA Euro,Dortmund,Germany,TRUE
 2024-06-18,Portugal,Czech Republic,NA,NA,UEFA Euro,Leipzig,Germany,TRUE
+2024-06-18,New Zealand,Solomon Islands,NA,NA,Oceania Nations Cup,Port Vila,Vanuatu,TRUE
 2024-06-19,Germany,Hungary,NA,NA,UEFA Euro,Stuttgart,Germany,FALSE
 2024-06-19,Scotland,Switzerland,NA,NA,UEFA Euro,Cologne,Germany,TRUE
 2024-06-19,Croatia,Albania,NA,NA,UEFA Euro,Hamburg,Germany,TRUE
+2024-06-19,Papua New Guinea,Tahiti,NA,NA,Oceania Nations Cup,Suva,Fiji,TRUE
+2024-06-19,Fiji,Samoa,NA,NA,Oceania Nations Cup,Suva,Fiji,FALSE
 2024-06-20,Spain,Italy,NA,NA,UEFA Euro,Gelsenkirchen,Germany,TRUE
 2024-06-20,Slovenia,Serbia,NA,NA,UEFA Euro,Munich,Germany,TRUE
 2024-06-20,Denmark,England,NA,NA,UEFA Euro,Frankfurt,Germany,TRUE
+2024-06-20,Argentina,Canada,NA,NA,Copa América,Atlanta,United States,TRUE
 2024-06-21,Poland,Austria,NA,NA,UEFA Euro,Berlin,Germany,TRUE
 2024-06-21,Netherlands,France,NA,NA,UEFA Euro,Leipzig,Germany,TRUE
 2024-06-21,Slovakia,Ukraine,NA,NA,UEFA Euro,Düsseldorf,Germany,TRUE
+2024-06-21,Vanuatu,New Zealand,NA,NA,Oceania Nations Cup,Port Vila,Vanuatu,FALSE
+2024-06-21,Peru,Chile,NA,NA,Copa América,Arlington,United States,TRUE
 2024-06-22,Belgium,Romania,NA,NA,UEFA Euro,Cologne,Germany,TRUE
 2024-06-22,Georgia,Czech Republic,NA,NA,UEFA Euro,Hamburg,Germany,TRUE
 2024-06-22,Turkey,Portugal,NA,NA,UEFA Euro,Dortmund,Germany,TRUE
+2024-06-22,Samoa,Papua New Guinea,NA,NA,Oceania Nations Cup,Suva,Fiji,TRUE
+2024-06-22,Fiji,Tahiti,NA,NA,Oceania Nations Cup,Suva,Fiji,FALSE
+2024-06-22,Ecuador,Venezuela,NA,NA,Copa América,Santa Clara,United States,TRUE
+2024-06-22,Mexico,Jamaica,NA,NA,Copa América,Houston,United States,TRUE
 2024-06-23,Germany,Switzerland,NA,NA,UEFA Euro,Frankfurt,Germany,FALSE
 2024-06-23,Scotland,Hungary,NA,NA,UEFA Euro,Stuttgart,Germany,TRUE
+2024-06-23,United States,Bolivia,NA,NA,Copa América,Arlington,United States,FALSE
+2024-06-23,Uruguay,Panama,NA,NA,Copa América,Miami Gardens,United States,TRUE
 2024-06-24,Albania,Spain,NA,NA,UEFA Euro,Düsseldorf,Germany,TRUE
 2024-06-24,Croatia,Italy,NA,NA,UEFA Euro,Leipzig,Germany,TRUE
+2024-06-24,Colombia,Paraguay,NA,NA,Copa América,Houston,United States,TRUE
+2024-06-24,Brazil,Costa Rica,NA,NA,Copa América,Inglewood,United States,TRUE
 2024-06-25,England,Slovenia,NA,NA,UEFA Euro,Cologne,Germany,TRUE
 2024-06-25,Denmark,Serbia,NA,NA,UEFA Euro,Munich,Germany,TRUE
 2024-06-25,Netherlands,Austria,NA,NA,UEFA Euro,Berlin,Germany,TRUE
 2024-06-25,France,Poland,NA,NA,UEFA Euro,Dortmund,Germany,TRUE
+2024-06-25,Peru,Canada,NA,NA,Copa América,Kansas City,United States,TRUE
+2024-06-25,Chile,Argentina,NA,NA,Copa América,East Rutherford,United States,TRUE
 2024-06-26,Slovakia,Romania,NA,NA,UEFA Euro,Frankfurt,Germany,TRUE
 2024-06-26,Ukraine,Belgium,NA,NA,UEFA Euro,Stuttgart,Germany,TRUE
 2024-06-26,Georgia,Portugal,NA,NA,UEFA Euro,Gelsenkirchen,Germany,TRUE
 2024-06-26,Czech Republic,Turkey,NA,NA,UEFA Euro,Hamburg,Germany,TRUE
+2024-06-26,NA,NA,NA,NA,Oceania Nations Cup,Port Vila,Vanuatu,TRUE
+2024-06-26,Ecuador,Jamaica,NA,NA,Copa América,Las Vegas,United States,TRUE
+2024-06-26,Venezuela,Mexico,NA,NA,Copa América,Inglewood,United States,TRUE
+2024-06-27,United States,Panama,NA,NA,Copa América,Atlanta,United States,FALSE
+2024-06-27,Uruguay,Bolivia,NA,NA,Copa América,East Rutherford,United States,TRUE
+2024-06-28,Colombia,Costa Rica,NA,NA,Copa América,Glendale,United States,TRUE
+2024-06-28,Paraguay,Brazil,NA,NA,Copa América,Las Vegas,United States,TRUE
 2024-06-29,NA,NA,NA,NA,UEFA Euro,Berlin,Germany,TRUE
 2024-06-29,NA,NA,NA,NA,UEFA Euro,Dortmund,Germany,TRUE
+2024-06-29,Argentina,Peru,NA,NA,Copa América,Miami Gardens,United States,TRUE
+2024-06-29,Canada,Chile,NA,NA,Copa América,Orlando,United States,TRUE
 2024-06-30,NA,NA,NA,NA,UEFA Euro,Gelsenkirchen,Germany,TRUE
 2024-06-30,NA,NA,NA,NA,UEFA Euro,Cologne,Germany,TRUE
+2024-06-30,NA,NA,NA,NA,Oceania Nations Cup,Port Vila,Vanuatu,TRUE
+2024-06-30,Mexico,Ecuador,NA,NA,Copa América,Glendale,United States,TRUE
+2024-06-30,Jamaica,Venezuela,NA,NA,Copa América,Austin,United States,TRUE
 2024-07-01,NA,NA,NA,NA,UEFA Euro,Düsseldorf,Germany,TRUE
 2024-07-01,NA,NA,NA,NA,UEFA Euro,Frankfurt,Germany,TRUE
+2024-07-01,United States,Uruguay,NA,NA,Copa América,Kansas City,United States,FALSE
+2024-07-01,Bolivia,Panama,NA,NA,Copa América,Orlando,United States,TRUE
 2024-07-02,NA,NA,NA,NA,UEFA Euro,Munich,Germany,TRUE
 2024-07-02,NA,NA,NA,NA,UEFA Euro,Leipzig,Germany,TRUE
+2024-07-02,Brazil,Colombia,NA,NA,Copa América,Santa Clara,United States,TRUE
+2024-07-02,Costa Rica,Paraguay,NA,NA,Copa América,Austin,United States,TRUE
+2024-07-04,NA,NA,NA,NA,Copa América,Houston,United States,TRUE
 2024-07-05,NA,NA,NA,NA,UEFA Euro,Stuttgart,Germany,TRUE
 2024-07-05,NA,NA,NA,NA,UEFA Euro,Hamburg,Germany,TRUE
+2024-07-05,NA,NA,NA,NA,Copa América,Arlington,United States,TRUE
 2024-07-06,NA,NA,NA,NA,UEFA Euro,Düsseldorf,Germany,TRUE
 2024-07-06,NA,NA,NA,NA,UEFA Euro,Berlin,Germany,TRUE
+2024-07-06,NA,NA,NA,NA,Copa América,Las Vegas,United States,TRUE
+2024-07-06,NA,NA,NA,NA,Copa América,Glendale,United States,TRUE
 2024-07-09,NA,NA,NA,NA,UEFA Euro,Munich,Germany,TRUE
+2024-07-09,NA,NA,NA,NA,Copa América,East Rutherford,United States,TRUE
 2024-07-10,NA,NA,NA,NA,UEFA Euro,Dortmund,Germany,TRUE
+2024-07-10,NA,NA,NA,NA,Copa América,Charlotte,United States,TRUE
+2024-07-13,NA,NA,NA,NA,Copa América,Charlotte,United States,TRUE
 2024-07-14,NA,NA,NA,NA,UEFA Euro,Berlin,Germany,TRUE
+2024-07-14,NA,NA,NA,NA,Copa América,Miami Gardens,United States,TRUE
