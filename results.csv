@@ -47297,9 +47297,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-06-17,Austria,France,0,1,UEFA Euro,Düsseldorf,Germany,TRUE
 2024-06-17,Romania,Ukraine,3,0,UEFA Euro,Munich,Germany,TRUE
 2024-06-17,Belgium,Slovakia,0,1,UEFA Euro,Frankfurt,Germany,TRUE
-2024-06-18,Turkey,Georgia,NA,NA,UEFA Euro,Dortmund,Germany,TRUE
-2024-06-18,Portugal,Czech Republic,NA,NA,UEFA Euro,Leipzig,Germany,TRUE
-2024-06-18,New Zealand,Solomon Islands,NA,NA,Oceania Nations Cup,Port Vila,Vanuatu,TRUE
+2024-06-18,Turkey,Georgia,3,1,UEFA Euro,Dortmund,Germany,TRUE
+2024-06-18,Portugal,Czech Republic,2,1,UEFA Euro,Leipzig,Germany,TRUE
+2024-06-18,New Zealand,Solomon Islands,3,0,Oceania Nations Cup,Port Vila,Vanuatu,TRUE
 2024-06-19,Germany,Hungary,NA,NA,UEFA Euro,Stuttgart,Germany,FALSE
 2024-06-19,Scotland,Switzerland,NA,NA,UEFA Euro,Cologne,Germany,TRUE
 2024-06-19,Croatia,Albania,NA,NA,UEFA Euro,Hamburg,Germany,TRUE
