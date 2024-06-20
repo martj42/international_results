@@ -47305,9 +47305,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-06-19,Croatia,Albania,2,2,UEFA Euro,Hamburg,Germany,TRUE
 2024-06-19,Papua New Guinea,Tahiti,1,1,Oceania Nations Cup,Suva,Fiji,TRUE
 2024-06-19,Fiji,Samoa,9,1,Oceania Nations Cup,Suva,Fiji,FALSE
-2024-06-20,Spain,Italy,NA,NA,UEFA Euro,Gelsenkirchen,Germany,TRUE
-2024-06-20,Slovenia,Serbia,NA,NA,UEFA Euro,Munich,Germany,TRUE
-2024-06-20,Denmark,England,NA,NA,UEFA Euro,Frankfurt,Germany,TRUE
+2024-06-20,Spain,Italy,1,0,UEFA Euro,Gelsenkirchen,Germany,TRUE
+2024-06-20,Slovenia,Serbia,1,1,UEFA Euro,Munich,Germany,TRUE
+2024-06-20,Denmark,England,1,1,UEFA Euro,Frankfurt,Germany,TRUE
 2024-06-20,Argentina,Canada,NA,NA,Copa América,Atlanta,United States,TRUE
 2024-06-21,Poland,Austria,NA,NA,UEFA Euro,Berlin,Germany,TRUE
 2024-06-21,Netherlands,France,NA,NA,UEFA Euro,Leipzig,Germany,TRUE
