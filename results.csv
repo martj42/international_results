@@ -47149,7 +47149,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-06-06,Vietnam,Philippines,3,2,FIFA World Cup qualification,Hanoi,Vietnam,FALSE
 2024-06-06,Jordan,Tajikistan,3,0,FIFA World Cup qualification,Amman,Jordan,FALSE
 2024-06-06,Pakistan,Saudi Arabia,0,3,FIFA World Cup qualification,Islamabad,Pakistan,FALSE
-2024-06-06,Nepal,United Arab Emirates,0,4,FIFA World Cup qualification,Damman,Saudi Arabia,TRUE
+2024-06-06,Nepal,United Arab Emirates,0,4,FIFA World Cup qualification,Dammam,Saudi Arabia,TRUE
 2024-06-06,Bahrain,Yemen,0,0,FIFA World Cup qualification,Riffa,Bahrain,FALSE
 2024-06-06,Bangladesh,Australia,0,2,FIFA World Cup qualification,Dhaka,Bangladesh,FALSE
 2024-06-06,Palestine,Lebanon,0,0,FIFA World Cup qualification,Doha,Qatar,TRUE
@@ -47191,9 +47191,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-06-08,Slovenia,Bulgaria,1,1,Friendly,Ljubljana,Slovenia,FALSE
 2024-06-08,Spain,Northern Ireland,5,1,Friendly,Mallorca,Spain,FALSE
 2024-06-08,Sweden,Serbia,0,3,Friendly,Stockholm,Sweden,FALSE
-2024-06-08,Switzerland,Austria,1,1,Friendly,Sankt Gallen,Switzerland,FALSE
+2024-06-08,Switzerland,Austria,1,1,Friendly,St. Gallen,Switzerland,FALSE
 2024-06-08,United States,Colombia,1,5,Friendly,Landover,United States,FALSE
-2024-06-08,Cameroon,Cape Verde,4,1,FIFA World Cup qualification,Yaounde,Cameroon,FALSE
+2024-06-08,Cameroon,Cape Verde,4,1,FIFA World Cup qualification,Yaoundé,Cameroon,FALSE
 2024-06-08,Gambia,Seychelles,5,1,FIFA World Cup qualification,Berkane,Morocco,TRUE
 2024-06-08,Cayman Islands,Antigua and Barbuda,1,0,FIFA World Cup qualification,George Town,Cayman Islands,FALSE
 2024-06-08,Bahamas,Trinidad and Tobago,1,7,FIFA World Cup qualification,Basseterre,Saint Kitts and Nevis,TRUE
@@ -47212,7 +47212,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-06-09,São Tomé and Príncipe,Liberia,0,1,FIFA World Cup qualification,Oujda,Morocco,TRUE
 2024-06-09,Namibia,Tunisia,0,0,FIFA World Cup qualification,Johannesburg,South Africa,TRUE
 2024-06-09,Bermuda,Honduras,1,6,FIFA World Cup qualification,Hamilton,Bermuda,FALSE
-2024-06-09,Grenada,Costa Rica,0,3,FIFA World Cup qualification,Saint George's,Grenada,FALSE
+2024-06-09,Grenada,Costa Rica,0,3,FIFA World Cup qualification,St. George's,Grenada,FALSE
 2024-06-09,Barbados,Haiti,1,3,FIFA World Cup qualification,Bridgetown,Barbados,FALSE
 2024-06-09,Montserrat,Panama,1,3,FIFA World Cup qualification,Managua,Nicaragua,TRUE
 2024-06-09,Dominica,Jamaica,2,3,FIFA World Cup qualification,Roseau,Dominica,FALSE
@@ -47238,7 +47238,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-06-11,Israel,Belarus,4,0,Friendly,Budapest,Hungary,TRUE
 2024-06-11,Moldova,Ukraine,0,4,Friendly,Chișinău,Moldova,FALSE
 2024-06-11,Mongolia,Cambodia,2,1,Friendly,Ulaanbaatar,Mongolia,FALSE
-2024-06-11,Portugal,Republic of Ireland,3,0,Friendly,Aviero,Portugal,FALSE
+2024-06-11,Portugal,Republic of Ireland,3,0,Friendly,Aveiro,Portugal,FALSE
 2024-06-11,San Marino,Cyprus,1,4,Friendly,Serravalle,San Marino,FALSE
 2024-06-11,South Sudan,Sudan,0,3,FIFA World Cup qualification,Juba,South Sudan,FALSE
 2024-06-11,Lesotho,Rwanda,0,1,FIFA World Cup qualification,Durban,South Africa,TRUE
@@ -47268,7 +47268,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-06-11,Tajikistan,Pakistan,3,0,FIFA World Cup qualification,Dushanbe,Tajikistan,FALSE
 2024-06-11,Saudi Arabia,Jordan,1,2,FIFA World Cup qualification,Riyadh,Saudi Arabia,FALSE
 2024-06-11,United Arab Emirates,Bahrain,1,1,FIFA World Cup qualification,Dubai,United Arab Emirates,FALSE
-2024-06-11,Yemen,Nepal,2,2,FIFA World Cup qualification,Damman,Saudi Arabia,TRUE
+2024-06-11,Yemen,Nepal,2,2,FIFA World Cup qualification,Dammam,Saudi Arabia,TRUE
 2024-06-11,Lebanon,Bangladesh,4,0,FIFA World Cup qualification,Al Rayyan,Qatar,TRUE
 2024-06-11,Australia,Palestine,5,0,FIFA World Cup qualification,Perth,Australia,FALSE
 2024-06-11,Cuba,Cayman Islands,3,0,FIFA World Cup qualification,Santiago,Cuba,FALSE
@@ -47308,10 +47308,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-06-20,Spain,Italy,1,0,UEFA Euro,Gelsenkirchen,Germany,TRUE
 2024-06-20,Slovenia,Serbia,1,1,UEFA Euro,Munich,Germany,TRUE
 2024-06-20,Denmark,England,1,1,UEFA Euro,Frankfurt,Germany,TRUE
-2024-06-20,Argentina,Canada,NA,NA,Copa América,Atlanta,United States,TRUE
-2024-06-21,Poland,Austria,NA,NA,UEFA Euro,Berlin,Germany,TRUE
-2024-06-21,Netherlands,France,NA,NA,UEFA Euro,Leipzig,Germany,TRUE
-2024-06-21,Slovakia,Ukraine,NA,NA,UEFA Euro,Düsseldorf,Germany,TRUE
+2024-06-20,Argentina,Canada,2,0,Copa América,Atlanta,United States,TRUE
+2024-06-21,Poland,Austria,1,3,UEFA Euro,Berlin,Germany,TRUE
+2024-06-21,Netherlands,France,0,0,UEFA Euro,Leipzig,Germany,TRUE
+2024-06-21,Slovakia,Ukraine,1,2,UEFA Euro,Düsseldorf,Germany,TRUE
 2024-06-21,Vanuatu,New Zealand,NA,NA,Oceania Nations Cup,Port Vila,Vanuatu,FALSE
 2024-06-21,Peru,Chile,NA,NA,Copa América,Arlington,United States,TRUE
 2024-06-22,Belgium,Romania,NA,NA,UEFA Euro,Cologne,Germany,TRUE
