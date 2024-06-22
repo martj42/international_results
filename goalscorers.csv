@@ -44184,3 +44184,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-06-21,Slovakia,Ukraine,Slovakia,Ivan Schranz,17,FALSE,FALSE
 2024-06-21,Slovakia,Ukraine,Ukraine,Mykola Shaparenko,54,FALSE,FALSE
 2024-06-21,Slovakia,Ukraine,Ukraine,Roman Yaremchuk,80,FALSE,FALSE
+2024-06-22,Belgium,Romania,Belgium,Youri Tielemans,2,FALSE,FALSE
+2024-06-22,Belgium,Romania,Belgium,Kevin De Bruyne,80,FALSE,FALSE
+2024-06-22,Georgia,Czech Republic,Georgia,Georges Mikautadze,45,FALSE,TRUE
+2024-06-22,Georgia,Czech Republic,Czech Republic,Patrik Schick,59,FALSE,FALSE
+2024-06-22,Turkey,Portugal,Portugal,Bernardo Silva,21,FALSE,FALSE
+2024-06-22,Turkey,Portugal,Portugal,Samet Akaydin,28,TRUE,FALSE
+2024-06-22,Turkey,Portugal,Portugal,Bruno Fernandes,56,FALSE,FALSE
