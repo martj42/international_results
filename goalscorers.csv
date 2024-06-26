@@ -44195,9 +44195,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-06-22,Turkey,Portugal,Portugal,Bernardo Silva,21,FALSE,FALSE
 2024-06-22,Turkey,Portugal,Portugal,Samet Akaydin,28,TRUE,FALSE
 2024-06-22,Turkey,Portugal,Portugal,Bruno Fernandes,56,FALSE,FALSE
+2024-06-23,Germany,Switzerland,Switzerland,Dan Ndoye,28,FALSE,FALSE
+2024-06-23,Germany,Switzerland,Germany,Niclas Füllkrug,90,FALSE,FALSE
 2024-06-23,Scotland,Hungary,Hungary,Kevin Csoboth,90,FALSE,FALSE
-2024-06-23,Switzerland,Germany,Switzerland,Dan Ndoye,28,FALSE,FALSE
-2024-06-23,Switzerland,Germany,Germany,Niclas Füllkrug,90,FALSE,FALSE
 2024-06-23,United States,Bolivia,United States,Christian Pulisic,3,FALSE,FALSE
 2024-06-23,United States,Bolivia,United States,Folarin Balogun,44,FALSE,FALSE
 2024-06-23,Uruguay,Panama,Uruguay,Maximiliano Araújo,16,FALSE,FALSE
@@ -44205,5 +44205,24 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-06-23,Uruguay,Panama,Uruguay,Matías Viña,90,FALSE,FALSE
 2024-06-23,Uruguay,Panama,Panama,Michael Amir Murillo,90,FALSE,FALSE
 2024-06-24,Albania,Spain,Spain,Ferran Torres,13,FALSE,FALSE
+2024-06-24,Colombia,Paraguay,Colombia,Daniel Muñoz,32,FALSE,FALSE
+2024-06-24,Colombia,Paraguay,Colombia,Jefferson Lerma,42,FALSE,FALSE
+2024-06-24,Colombia,Paraguay,Paraguay,Julio Enciso,69,FALSE,FALSE
 2024-06-24,Croatia,Italy,Croatia,Luka Modrić,55,FALSE,FALSE
 2024-06-24,Croatia,Italy,Italy,Mattia Zaccagni,90,FALSE,FALSE
+2024-06-25,Chile,Argentina,Argentina,Lautaro Martínez,88,FALSE,FALSE
+2024-06-25,France,Poland,France,Kylian Mbappé,56,FALSE,TRUE
+2024-06-25,France,Poland,Poland,Robert Lewandowski,79,FALSE,TRUE
+2024-06-25,Netherlands,Austria,Austria,Donyell Malen,6,TRUE,FALSE
+2024-06-25,Netherlands,Austria,Netherlands,Cody Gakpo,47,FALSE,FALSE
+2024-06-25,Netherlands,Austria,Austria,Romano Schmid,59,FALSE,FALSE
+2024-06-25,Netherlands,Austria,Netherlands,Memphis Depay,75,FALSE,FALSE
+2024-06-25,Netherlands,Austria,Austria,Marcel Sabitzer,80,FALSE,FALSE
+2024-06-25,Peru,Canada,Canada,Jonathan David,74,FALSE,FALSE
+2024-06-26,Czech Republic,Turkey,Turkey,Hakan Çalhanoğlu,51,FALSE,FALSE
+2024-06-26,Czech Republic,Turkey,Czech Republic,Tomáš Souček,66,FALSE,FALSE
+2024-06-26,Czech Republic,Turkey,Turkey,Cenk Tosun,90,FALSE,FALSE
+2024-06-26,Georgia,Portugal,Georgia,Khvicha Kvaratskhelia,2,FALSE,FALSE
+2024-06-26,Georgia,Portugal,Georgia,Georges Mikautadze,57,FALSE,TRUE
+2024-06-26,Slovakia,Romania,Slovakia,Ondrej Duda,24,FALSE,FALSE
+2024-06-26,Slovakia,Romania,Romania,Răzvan Marin,37,FALSE,TRUE
