@@ -44144,17 +44144,29 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-06-15,Spain,Croatia,Spain,Álvaro Morata,29,FALSE,FALSE
 2024-06-15,Spain,Croatia,Spain,Fabián Ruiz,32,FALSE,FALSE
 2024-06-15,Spain,Croatia,Spain,Dani Carvajal,45,FALSE,FALSE
+2024-06-15,Vanuatu,Solomon Islands,Vanuatu,Kensi Tangis,72,FALSE,FALSE
+2024-06-16,Fiji,Papua New Guinea,Fiji,Nabil Begg,2,FALSE,FALSE
+2024-06-16,Fiji,Papua New Guinea,Fiji,Thomas Dunn,43,FALSE,FALSE
+2024-06-16,Fiji,Papua New Guinea,Fiji,Thomas Dunn,52,FALSE,FALSE
+2024-06-16,Fiji,Papua New Guinea,Fiji,Alwin Komolong,55,TRUE,FALSE
+2024-06-16,Fiji,Papua New Guinea,Fiji,Roy Krishna,64,FALSE,FALSE
+2024-06-16,Fiji,Papua New Guinea,Papua New Guinea,Tommy Semmy,88,FALSE,FALSE
 2024-06-16,Poland,Netherlands,Poland,Adam Buksa,16,FALSE,FALSE
 2024-06-16,Poland,Netherlands,Netherlands,Cody Gakpo,29,FALSE,FALSE
 2024-06-16,Poland,Netherlands,Netherlands,Wout Weghorst,83,FALSE,FALSE
 2024-06-16,Serbia,England,England,Jude Bellingham,13,FALSE,FALSE
 2024-06-16,Slovenia,Denmark,Denmark,Christian Eriksen,17,FALSE,FALSE
 2024-06-16,Slovenia,Denmark,Slovenia,Erik Janža,77,FALSE,FALSE
+2024-06-16,Tahiti,Samoa,Tahiti,Matéo Degrumelle,4,FALSE,FALSE
+2024-06-16,Tahiti,Samoa,Tahiti,Teaonui Tehau,28,FALSE,FALSE
 2024-06-17,Austria,France,France,Maximilian Wöber,38,TRUE,FALSE
 2024-06-17,Belgium,Slovakia,Slovakia,Ivan Schranz,7,FALSE,FALSE
 2024-06-17,Romania,Ukraine,Romania,Nicolae Stanciu,29,FALSE,FALSE
 2024-06-17,Romania,Ukraine,Romania,Răzvan Marin,53,FALSE,FALSE
 2024-06-17,Romania,Ukraine,Romania,Denis Drăguș,57,FALSE,FALSE
+2024-06-18,New Zealand,Solomon Islands,New Zealand,Ben Waine,6,FALSE,FALSE
+2024-06-18,New Zealand,Solomon Islands,New Zealand,Ben Waine,11,FALSE,FALSE
+2024-06-18,New Zealand,Solomon Islands,New Zealand,Kosta Barbarouses,45,FALSE,FALSE
 2024-06-18,Portugal,Czech Republic,Czech Republic,Lukáš Provod,62,FALSE,FALSE
 2024-06-18,Portugal,Czech Republic,Portugal,Robin Hranáč,69,TRUE,FALSE
 2024-06-18,Portugal,Czech Republic,Portugal,Francisco Conceição,90,FALSE,FALSE
@@ -44166,8 +44178,20 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-06-19,Croatia,Albania,Croatia,Andrej Kramarić,74,FALSE,FALSE
 2024-06-19,Croatia,Albania,Croatia,Klaus Gjasula,76,TRUE,FALSE
 2024-06-19,Croatia,Albania,Albania,Klaus Gjasula,90,FALSE,FALSE
+2024-06-19,Fiji,Samoa,Fiji,Setareki Hughes,3,FALSE,FALSE
+2024-06-19,Fiji,Samoa,Fiji,Thomas Dunn,38,FALSE,FALSE
+2024-06-19,Fiji,Samoa,Fiji,Roy Krishna,45,FALSE,TRUE
+2024-06-19,Fiji,Samoa,Samoa,Luke Salisbury,47,FALSE,FALSE
+2024-06-19,Fiji,Samoa,Fiji,Roy Krishna,53,FALSE,TRUE
+2024-06-19,Fiji,Samoa,Fiji,Setareki Hughes,61,FALSE,FALSE
+2024-06-19,Fiji,Samoa,Fiji,Filipe Baravilala,64,FALSE,FALSE
+2024-06-19,Fiji,Samoa,Fiji,Nabil Begg,67,FALSE,FALSE
+2024-06-19,Fiji,Samoa,Fiji,Etonia Dogalau,83,FALSE,FALSE
+2024-06-19,Fiji,Samoa,Fiji,Etonia Dogalau,89,FALSE,FALSE
 2024-06-19,Germany,Hungary,Germany,Jamal Musiala,22,FALSE,FALSE
 2024-06-19,Germany,Hungary,Germany,İlkay Gündoğan,67,FALSE,FALSE
+2024-06-19,Papua New Guinea,Tahiti,Tahiti,Matéo Degrumelle,15,FALSE,FALSE
+2024-06-19,Papua New Guinea,Tahiti,Papua New Guinea,Pala Paul,25,FALSE,FALSE
 2024-06-19,Scotland,Switzerland,Scotland,Scott McTominay,13,FALSE,FALSE
 2024-06-19,Scotland,Switzerland,Switzerland,Xherdan Shaqiri,26,FALSE,FALSE
 2024-06-20,Argentina,Canada,Argentina,Julián Álvarez,49,FALSE,FALSE
@@ -44184,14 +44208,22 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-06-21,Slovakia,Ukraine,Slovakia,Ivan Schranz,17,FALSE,FALSE
 2024-06-21,Slovakia,Ukraine,Ukraine,Mykola Shaparenko,54,FALSE,FALSE
 2024-06-21,Slovakia,Ukraine,Ukraine,Roman Yaremchuk,80,FALSE,FALSE
+2024-06-21,Vanuatu,New Zealand,New Zealand,Max Mata,10,FALSE,FALSE
+2024-06-21,Vanuatu,New Zealand,New Zealand,Brian Kaltak,27,TRUE,FALSE
+2024-06-21,Vanuatu,New Zealand,New Zealand,Elijah Just,63,FALSE,FALSE
+2024-06-21,Vanuatu,New Zealand,New Zealand,Ben Old,78,FALSE,FALSE
 2024-06-22,Belgium,Romania,Belgium,Youri Tielemans,2,FALSE,FALSE
 2024-06-22,Belgium,Romania,Belgium,Kevin De Bruyne,80,FALSE,FALSE
 2024-06-22,Ecuador,Venezuela,Ecuador,Jeremy Sarmiento,40,FALSE,FALSE
 2024-06-22,Ecuador,Venezuela,Venezuela,Jhonder Cádiz,64,FALSE,FALSE
 2024-06-22,Ecuador,Venezuela,Venezuela,Eduard Bello,74,FALSE,FALSE
+2024-06-22,Fiji,Tahiti,Fiji,Roy Krishna,26,FALSE,TRUE
 2024-06-22,Georgia,Czech Republic,Georgia,Georges Mikautadze,45,FALSE,TRUE
 2024-06-22,Georgia,Czech Republic,Czech Republic,Patrik Schick,59,FALSE,FALSE
 2024-06-22,Mexico,Jamaica,Mexico,Gerardo Arteaga,69,FALSE,FALSE
+2024-06-22,Samoa,Papua New Guinea,Papua New Guinea,Tommy Semmy,26,FALSE,FALSE
+2024-06-22,Samoa,Papua New Guinea,Papua New Guinea,Ati Kepo,47,FALSE,FALSE
+2024-06-22,Samoa,Papua New Guinea,Samoa,Pharrell Trainor,67,FALSE,FALSE
 2024-06-22,Turkey,Portugal,Portugal,Bernardo Silva,21,FALSE,FALSE
 2024-06-22,Turkey,Portugal,Portugal,Samet Akaydin,28,TRUE,FALSE
 2024-06-22,Turkey,Portugal,Portugal,Bruno Fernandes,56,FALSE,FALSE
@@ -44231,3 +44263,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-06-26,Slovakia,Romania,Slovakia,Ondrej Duda,24,FALSE,FALSE
 2024-06-26,Slovakia,Romania,Romania,Răzvan Marin,37,FALSE,TRUE
 2024-06-26,Venezuela,Mexico,Venezuela,Salomón Rondón,57,FALSE,TRUE
+2024-06-27,New Zealand,Tahiti,New Zealand,Finn Surman,7,FALSE,FALSE
+2024-06-27,New Zealand,Tahiti,New Zealand,Ben Waine,45,FALSE,FALSE
+2024-06-27,New Zealand,Tahiti,New Zealand,Kosta Barbarouses,45,FALSE,FALSE
+2024-06-27,New Zealand,Tahiti,New Zealand,Ben Waine,53,FALSE,FALSE
+2024-06-27,New Zealand,Tahiti,New Zealand,Kosta Barbarouses,72,FALSE,FALSE
+2024-06-27,Vanuatu,Fiji,Vanuatu,Johnathan Spokeyjack,12,FALSE,FALSE
+2024-06-27,Vanuatu,Fiji,Fiji,Sitiveni Cavuilagi,46,FALSE,FALSE
+2024-06-27,Vanuatu,Fiji,Vanuatu,Jason Thomas,56,FALSE,FALSE
