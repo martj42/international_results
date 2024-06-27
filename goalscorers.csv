@@ -44222,7 +44222,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-06-26,Czech Republic,Turkey,Turkey,Hakan Çalhanoğlu,51,FALSE,FALSE
 2024-06-26,Czech Republic,Turkey,Czech Republic,Tomáš Souček,66,FALSE,FALSE
 2024-06-26,Czech Republic,Turkey,Turkey,Cenk Tosun,90,FALSE,FALSE
+2024-06-26,Ecuador,Jamaica,Ecuador,Kasey Palmer,13,TRUE,FALSE
+2024-06-26,Ecuador,Jamaica,Ecuador,Kendry Páez,45,FALSE,TRUE
+2024-06-26,Ecuador,Jamaica,Jamaica,Michail Antonio,54,FALSE,FALSE
+2024-06-26,Ecuador,Jamaica,Ecuador,Alan Minda,90,FALSE,FALSE
 2024-06-26,Georgia,Portugal,Georgia,Khvicha Kvaratskhelia,2,FALSE,FALSE
 2024-06-26,Georgia,Portugal,Georgia,Georges Mikautadze,57,FALSE,TRUE
 2024-06-26,Slovakia,Romania,Slovakia,Ondrej Duda,24,FALSE,FALSE
 2024-06-26,Slovakia,Romania,Romania,Răzvan Marin,37,FALSE,TRUE
+2024-06-26,Venezuela,Mexico,Venezuela,Salomón Rondón,57,FALSE,TRUE
