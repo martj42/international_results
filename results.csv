@@ -47343,18 +47343,18 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-06-26,Venezuela,Mexico,1,0,Copa América,Inglewood,United States,TRUE
 2024-06-27,Vanuatu,Fiji,2,1,Oceania Nations Cup,Port Vila,Vanuatu,FALSE
 2024-06-27,New Zealand,Tahiti,5,0,Oceania Nations Cup,Port Vila,Vanuatu,TRUE
-2024-06-27,United States,Panama,NA,NA,Copa América,Atlanta,United States,FALSE
-2024-06-27,Uruguay,Bolivia,NA,NA,Copa América,East Rutherford,United States,TRUE
-2024-06-28,Colombia,Costa Rica,NA,NA,Copa América,Glendale,United States,TRUE
-2024-06-28,Paraguay,Brazil,NA,NA,Copa América,Las Vegas,United States,TRUE
-2024-06-29,Switzerland,Italy,NA,NA,UEFA Euro,Berlin,Germany,TRUE
-2024-06-29,Germany,Denmark,NA,NA,UEFA Euro,Dortmund,Germany,FALSE
-2024-06-29,Argentina,Peru,NA,NA,Copa América,Miami Gardens,United States,TRUE
-2024-06-29,Canada,Chile,NA,NA,Copa América,Orlando,United States,TRUE
+2024-06-27,United States,Panama,1,2,Copa América,Atlanta,United States,FALSE
+2024-06-27,Uruguay,Bolivia,4,0,Copa América,East Rutherford,United States,TRUE
+2024-06-28,Colombia,Costa Rica,3,0,Copa América,Glendale,United States,TRUE
+2024-06-28,Paraguay,Brazil,1,4,Copa América,Las Vegas,United States,TRUE
+2024-06-29,Switzerland,Italy,2,0,UEFA Euro,Berlin,Germany,TRUE
+2024-06-29,Germany,Denmark,2,0,UEFA Euro,Dortmund,Germany,FALSE
+2024-06-29,Argentina,Peru,2,0,Copa América,Miami Gardens,United States,TRUE
+2024-06-29,Canada,Chile,0,0,Copa América,Orlando,United States,TRUE
 2024-06-30,England,Slovakia,NA,NA,UEFA Euro,Gelsenkirchen,Germany,TRUE
 2024-06-30,Spain,Georgia,NA,NA,UEFA Euro,Cologne,Germany,TRUE
-2024-06-30,Tahiti,Fiji,NA,NA,Oceania Nations Cup,Port Vila,Vanuatu,TRUE
-2024-06-30,Vanuatu,New Zealand,NA,NA,Oceania Nations Cup,Port Vila,Vanuatu,FALSE
+2024-06-30,Tahiti,Fiji,2,1,Oceania Nations Cup,Port Vila,Vanuatu,TRUE
+2024-06-30,Vanuatu,New Zealand,0,3,Oceania Nations Cup,Port Vila,Vanuatu,FALSE
 2024-06-30,Mexico,Ecuador,NA,NA,Copa América,Glendale,United States,TRUE
 2024-06-30,Jamaica,Venezuela,NA,NA,Copa América,Austin,United States,TRUE
 2024-07-01,France,Belgium,NA,NA,UEFA Euro,Düsseldorf,Germany,TRUE
