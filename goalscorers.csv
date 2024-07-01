@@ -44293,9 +44293,21 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-06-29,Germany,Denmark,Germany,Jamal Musiala,68,FALSE,FALSE
 2024-06-29,Switzerland,Italy,Switzerland,Remo Freuler,37,FALSE,FALSE
 2024-06-29,Switzerland,Italy,Switzerland,Ruben Vargas,46,FALSE,FALSE
+2024-06-30,England,Slovakia,Slovakia,Ivan Schranz,25,FALSE,FALSE
+2024-06-30,England,Slovakia,England,Jude Bellingham,90,FALSE,FALSE
+2024-06-30,England,Slovakia,England,Harry Kane,91,FALSE,FALSE
+2024-06-30,Jamaica,Venezuela,Venezuela,Eduard Bello,49,FALSE,FALSE
+2024-06-30,Jamaica,Venezuela,Venezuela,Salomón Rondón,56,FALSE,FALSE
+2024-06-30,Jamaica,Venezuela,Venezuela,Eric Ramírez,85,FALSE,FALSE
+2024-06-30,Spain,Georgia,Georgia,Robin Le Normand,18,TRUE,FALSE
+2024-06-30,Spain,Georgia,Spain,Rodri,39,FALSE,FALSE
+2024-06-30,Spain,Georgia,Spain,Fabián Ruiz,51,FALSE,FALSE
+2024-06-30,Spain,Georgia,Spain,Nico Williams,75,FALSE,FALSE
+2024-06-30,Spain,Georgia,Spain,Dani Olmo,83,FALSE,FALSE
 2024-06-30,Tahiti,Fiji,Fiji,Roy Krishna,58,FALSE,FALSE
 2024-06-30,Tahiti,Fiji,Tahiti,Teaonui Tehau,72,FALSE,FALSE
 2024-06-30,Tahiti,Fiji,Tahiti,Teaonui Tehau,83,FALSE,FALSE
 2024-06-30,Vanuatu,New Zealand,New Zealand,Cameron Howieson,2,FALSE,FALSE
 2024-06-30,Vanuatu,New Zealand,New Zealand,Jesse Randall,83,FALSE,FALSE
 2024-06-30,Vanuatu,New Zealand,New Zealand,Max Mata,90,FALSE,FALSE
+2024-07-01,France,Belgium,France,Jan Vertonghen,85,TRUE,FALSE
