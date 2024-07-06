@@ -47369,13 +47369,13 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-07-05,Germany,Spain,1,2,UEFA Euro,Stuttgart,Germany,FALSE
 2024-07-05,Portugal,France,0,0,UEFA Euro,Hamburg,Germany,TRUE
 2024-07-05,Venezuela,Canada,1,1,Copa América,Arlington,United States,TRUE
-2024-07-06,England,Switzerland,NA,NA,UEFA Euro,Düsseldorf,Germany,TRUE
-2024-07-06,Netherlands,Turkey,NA,NA,UEFA Euro,Berlin,Germany,TRUE
+2024-07-06,England,Switzerland,1,1,UEFA Euro,Düsseldorf,Germany,TRUE
+2024-07-06,Netherlands,Turkey,2,1,UEFA Euro,Berlin,Germany,TRUE
 2024-07-06,Uruguay,Brazil,NA,NA,Copa América,Las Vegas,United States,TRUE
 2024-07-06,Colombia,Panama,NA,NA,Copa América,Glendale,United States,TRUE
 2024-07-09,Spain,France,NA,NA,UEFA Euro,Munich,Germany,TRUE
 2024-07-09,Argentina,Canada,NA,NA,Copa América,East Rutherford,United States,TRUE
-2024-07-10,NA,NA,NA,NA,UEFA Euro,Dortmund,Germany,TRUE
+2024-07-10,Netherlands,England,NA,NA,UEFA Euro,Dortmund,Germany,TRUE
 2024-07-10,NA,NA,NA,NA,Copa América,Charlotte,United States,TRUE
 2024-07-13,NA,NA,NA,NA,Copa América,Charlotte,United States,TRUE
 2024-07-14,NA,NA,NA,NA,UEFA Euro,Berlin,Germany,TRUE
