@@ -44280,7 +44280,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-06-27,Vanuatu,Fiji,Fiji,Sitiveni Cavuilagi,46,FALSE,FALSE
 2024-06-27,Vanuatu,Fiji,Vanuatu,Jason Thomas,56,FALSE,FALSE
 2024-06-28,Colombia,Costa Rica,Colombia,Luis Díaz,31,FALSE,TRUE
-2024-06-28,Colombia,Costa Rica,Colombia,Dávinson Sánchez,59,FALSE,FALSE
+2024-06-28,Colombia,Costa Rica,Colombia,Davinson Sánchez,59,FALSE,FALSE
 2024-06-28,Colombia,Costa Rica,Colombia,Jhon Córdoba,62,FALSE,FALSE
 2024-06-28,Paraguay,Brazil,Brazil,Vinícius Júnior,35,FALSE,FALSE
 2024-06-28,Paraguay,Brazil,Brazil,Sávio,43,FALSE,FALSE
@@ -44334,6 +44334,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-07-05,Germany,Spain,Spain,Mikel Merino,119,FALSE,FALSE
 2024-07-05,Venezuela,Canada,Canada,Jacob Shaffelburg,13,FALSE,FALSE
 2024-07-05,Venezuela,Canada,Venezuela,Salomón Rondón,65,FALSE,FALSE
+2024-07-06,Colombia,Panama,Colombia,Jhon Córdoba,8,FALSE,FALSE
+2024-07-06,Colombia,Panama,Colombia,James Rodríguez,15,FALSE,TRUE
+2024-07-06,Colombia,Panama,Colombia,Luis Díaz,41,FALSE,FALSE
+2024-07-06,Colombia,Panama,Colombia,Richard Ríos,70,FALSE,FALSE
+2024-07-06,Colombia,Panama,Colombia,Miguel Borja,90,FALSE,TRUE
 2024-07-06,England,Switzerland,Switzerland,Breel Embolo,75,FALSE,FALSE
 2024-07-06,England,Switzerland,England,Bukayo Saka,80,FALSE,FALSE
 2024-07-06,Netherlands,Turkey,Turkey,Samet Akaydin,35,FALSE,FALSE
