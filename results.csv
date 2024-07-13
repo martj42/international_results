@@ -2328,6 +2328,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1938-08-11,Bolivia,Venezuela,3,1,Bolivarian Games,Bogotá,Colombia,TRUE
 1938-08-11,Ecuador,Peru,1,9,Bolivarian Games,Bogotá,Colombia,TRUE
 1938-08-13,Colombia,Venezuela,2,0,Bolivarian Games,Bogotá,Colombia,FALSE
+1938-08-14,Bolivia,Peru,0,3,Bolivarian Games,Bogota,Colombia,TRUE
 1938-08-16,Colombia,Bolivia,1,2,Bolivarian Games,Bogotá,Colombia,FALSE
 1938-08-17,Estonia,Finland,1,3,Friendly,Tallinn,Estonia,FALSE
 1938-08-17,Peru,Venezuela,2,1,Bolivarian Games,Bogotá,Colombia,TRUE
@@ -7038,9 +7039,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1967-07-08,Tanzania,Zambia,2,1,Friendly,Dar es Salaam,Tanzania,FALSE
 1967-07-16,Russia,Greece,4,0,UEFA Euro qualification,Tbilisi,Soviet Union,FALSE
 1967-07-28,Peru,Uruguay,0,1,Friendly,Lima,Peru,FALSE
+1967-07-28,Peru,Japan,1,0,Friendly,Lima,Peru,FALSE
 1967-07-29,South Korea,Indonesia,1,1,AFC Asian Cup qualification,Taipei,Taiwan,TRUE
 1967-07-30,Guyana,Suriname,2,2,Friendly,Georgetown,Guyana,FALSE
 1967-07-30,Peru,Uruguay,1,2,Friendly,Lima,Peru,FALSE
+1967-07-30,Peru,Japan,0,0,Friendly,Lima,Peru,FALSE
 1967-07-31,Guyana,Suriname,0,1,Friendly,Georgetown,Guyana,FALSE
 1967-08-01,Japan,South Korea,2,1,AFC Asian Cup qualification,Taipei,Taiwan,TRUE
 1967-08-01,Mauritania,Tanzania,1,1,Friendly,Nouakchott,Mauritania,FALSE
@@ -8827,6 +8830,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1972-06-05,Tunisia,Algeria,3,1,Friendly,Tunis,Tunisia,FALSE
 1972-06-06,Cambodia,Singapore,3,0,Indonesia Tournament,Jakarta,Indonesia,TRUE
 1972-06-06,Togo,DR Congo,0,0,FIFA World Cup qualification,Lomé,Togo,FALSE
+1972-06-06,Peru,Colombia,0,0,Friendly,Lima,Peru,FALSE
 1972-06-07,Denmark,Finland,3,0,Nordic Championship,Copenhagen,Denmark,FALSE
 1972-06-07,Russia,Bulgaria,1,0,Friendly,Moscow,Soviet Union,FALSE
 1972-06-08,Cambodia,Thailand,2,0,Indonesia Tournament,Jakarta,Indonesia,TRUE
@@ -12582,6 +12586,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1981-02-02,Mali,Mauritania,2,0,Amílcar Cabral Cup,Bamako,Mali,FALSE
 1981-02-03,Cape Verde,Senegal,0,1,Amílcar Cabral Cup,Bamako,Mali,TRUE
 1981-02-04,Mali,Guinea,1,1,Amílcar Cabral Cup,Bamako,Mali,FALSE
+1981-02-04,Peru,Czechoslovakia,1,3,Friendly,Lima,Peru,FALSE
 1981-02-05,Guinea-Bissau,Senegal,0,1,Amílcar Cabral Cup,Bamako,Mali,TRUE
 1981-02-06,Guinea,Mauritania,2,1,Amílcar Cabral Cup,Bamako,Mali,TRUE
 1981-02-06,Jordan,Iraq,0,2,Friendly,Amman,Jordan,FALSE
@@ -13233,6 +13238,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1982-05-15,Thailand,Singapore,2,2,King's Cup,Bangkok,Thailand,FALSE
 1982-05-17,Barbados,Bermuda,0,0,Friendly,Bridgetown,Barbados,FALSE
 1982-05-17,Thailand,South Korea,0,0,King's Cup,Bangkok,Thailand,FALSE
+1982-05-17,Peru,Romania,2,0,Friendly,Lima,Peru,FALSE
 1982-05-19,Austria,Denmark,1,0,Friendly,Vienna,Austria,FALSE
 1982-05-19,Brazil,Switzerland,1,1,Friendly,Recife,Brazil,FALSE
 1982-05-19,Sweden,German DR,2,2,Friendly,Halmstad,Sweden,FALSE
@@ -14170,6 +14176,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1984-07-22,Zimbabwe,Uganda,1,0,Friendly,Harare,Zimbabwe,FALSE
 1984-07-25,Mauritania,Gambia,0,0,Friendly,Nouakchott,Mauritania,FALSE
 1984-07-26,Gambia,Guinea,1,1,Friendly,Nouakchott,Mauritania,TRUE
+1984-07-26,Colombia,Peru,1,1,Friendly,Bogota,Colombia,FALSE
 1984-07-27,Mauritania,Guinea,1,1,Friendly,Nouakchott,Mauritania,FALSE
 1984-07-28,Benin,Congo,2,0,Friendly,Ouagadougou,Upper Volta,TRUE
 1984-07-28,Malawi,Mauritius,4,0,FIFA World Cup qualification,Lilongwe,Malawi,FALSE
@@ -18610,6 +18617,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1992-11-23,Tanzania,Zambia,1,2,CECAFA Cup,Mwanza,Tanzania,FALSE
 1992-11-24,Algeria,United Arab Emirates,0,0,Friendly,Manama,Bahrain,TRUE
 1992-11-24,Malawi,Zanzibar,3,1,CECAFA Cup,Mwanza,Tanzania,TRUE
+1992-11-24,Peru,Ecuador,1,1,Friendly,Lima,Peru,FALSE
 1992-11-25,Brazil,Uruguay,1,2,Friendly,Campina Grande,Brazil,FALSE
 1992-11-25,Uganda,Zambia,0,0,Friendly,Mwanza,Tanzania,TRUE
 1992-11-26,Argentina,Poland,2,0,Friendly,Buenos Aires,Argentina,FALSE
@@ -20373,6 +20381,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1995-06-25,Mozambique,Zimbabwe,3,1,Friendly,Beira,Mozambique,FALSE
 1995-06-25,Uruguay,New Zealand,7,0,Friendly,Paysandú,Uruguay,FALSE
 1995-06-25,United States,Colombia,0,0,USA Cup,Piscataway,United States,FALSE
+1995-06-25,Peru,Slovakia,1,0,Friendly,Lima,Peru,FALSE
 1995-06-28,Uruguay,New Zealand,2,2,Friendly,Rivera,Uruguay,FALSE
 1995-06-30,Argentina,Australia,2,0,Friendly,Quilmes,Argentina,FALSE
 1995-06-30,Paraguay,Ecuador,1,0,Friendly,Asunción,Paraguay,FALSE
@@ -36677,6 +36686,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2013-02-06,Wales,Austria,2,1,Friendly,Swansea,Wales,FALSE
 2013-02-06,Yemen,Bahrain,0,2,AFC Asian Cup qualification,Sharjah,United Arab Emirates,TRUE
 2013-02-06,Zimbabwe,Botswana,2,1,Friendly,Harare,Zimbabwe,FALSE
+2013-02-06,Trinidad and Tobago,Peru,0,2,Friendly,Couva,Trinidad and Tobago,FALSE
 2013-02-09,Mali,Ghana,3,1,African Cup of Nations,Port Elizabeth,South Africa,TRUE
 2013-02-09,Nepal,Pakistan,0,1,Friendly,Kathmandu,Nepal,FALSE
 2013-02-10,Nigeria,Burkina Faso,1,0,African Cup of Nations,Johannesburg,South Africa,TRUE
@@ -37882,6 +37892,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2014-08-03,Kenya,Lesotho,0,0,African Cup of Nations qualification,Nairobi,Kenya,FALSE
 2014-08-03,Mauritania,Uganda,0,1,African Cup of Nations qualification,Nouakchott,Mauritania,FALSE
 2014-08-03,Mozambique,Tanzania,2,1,African Cup of Nations qualification,Maputo,Mozambique,FALSE
+2014-08-06,Peru,Panama,3,0,Friendly,Lima,Peru,FALSE
 2014-08-08,Tajikistan,Malaysia,4,1,Friendly,Dushanbe,Tajikistan,FALSE
 2014-08-09,Raetia,Sealand,1,6,Friendly,Chur,Switzerland,FALSE
 2014-08-10,Seborga,Sealand,2,3,Friendly,Ospedaletti,Italy,FALSE
@@ -38065,6 +38076,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2014-10-10,Uzbekistan,Bahrain,0,0,Friendly,Dubai,United Arab Emirates,TRUE
 2014-10-10,Wales,Bosnia and Herzegovina,0,0,UEFA Euro qualification,Cardiff,Wales,FALSE
 2014-10-10,Yemen,Iraq,1,1,Friendly,Manama,Bahrain,TRUE
+2014-10-10,Chile,Peru,3,0,Friendly,Valparaiso,Chile,FALSE
 2014-10-11,Albania,Denmark,1,1,UEFA Euro qualification,Elbasan,Albania,FALSE
 2014-10-11,Argentina,Brazil,0,2,Superclásico de las Américas,Beijing,China PR,TRUE
 2014-10-11,Armenia,Serbia,1,1,UEFA Euro qualification,Yerevan,Armenia,FALSE
@@ -38139,6 +38151,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2014-10-14,Serbia,Albania,0,3,UEFA Euro qualification,Belgrade,Serbia,FALSE
 2014-10-14,United Arab Emirates,Uzbekistan,0,4,Friendly,Dubai,United Arab Emirates,FALSE
 2014-10-14,United States,Honduras,1,1,Friendly,Boca Raton,United States,FALSE
+2014-10-14,Peru,Guatemala,1,0,Friendly,Lima,Peru,FALSE
 2014-10-15,Algeria,Malawi,3,0,African Cup of Nations qualification,Blida,Algeria,FALSE
 2014-10-15,Angola,Lesotho,4,0,African Cup of Nations qualification,Luanda,Angola,FALSE
 2014-10-15,Burkina Faso,Gabon,1,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,FALSE
@@ -38616,6 +38629,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2015-06-02,Bangladesh,Afghanistan,1,1,Friendly,Dhaka,Bangladesh,FALSE
 2015-06-02,Cambodia,Laos,1,1,Friendly,Phnom Penh,Cambodia,FALSE
 2015-06-03,Panama,Ecuador,1,1,Friendly,Panama City,Panama,FALSE
+2015-06-03,Peru,Mexico,1,1,Friendly,Lima,Peru,FALSE
 2015-06-05,Cambodia,Myanmar,1,0,Friendly,Samut Sakhon,Thailand,TRUE
 2015-06-05,Curaçao,Trinidad and Tobago,1,0,Friendly,Willemstad,Curaçao,FALSE
 2015-06-05,Hungary,Lithuania,4,0,Friendly,Debrecen,Hungary,FALSE
@@ -38953,6 +38967,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2015-09-04,Canada,Belize,3,0,FIFA World Cup qualification,Toronto,Canada,FALSE
 2015-09-04,Jamaica,Nicaragua,2,3,FIFA World Cup qualification,Kingston,Jamaica,FALSE
 2015-09-04,Saint Vincent and the Grenadines,Aruba,2,0,FIFA World Cup qualification,Kingstown,Saint Vincent and the Grenadines,FALSE
+2015-09-04,United States,Peru,2,1,Friendly,"Washington, D.C.",United States,FALSE
 2015-09-05,Argentina,Bolivia,7,0,Friendly,Houston,United States,TRUE
 2015-09-05,Austria,Moldova,1,0,UEFA Euro qualification,Vienna,Austria,FALSE
 2015-09-05,Botswana,Burkina Faso,1,0,African Cup of Nations qualification,Francistown,Botswana,FALSE
@@ -39047,6 +39062,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2015-09-08,Haiti,Grenada,3,0,FIFA World Cup qualification,Port-au-Prince,Haiti,FALSE
 2015-09-08,Nicaragua,Jamaica,0,2,FIFA World Cup qualification,Managua,Nicaragua,FALSE
 2015-09-08,Taiwan,Vietnam,1,2,FIFA World Cup qualification,Taipei,Taiwan,FALSE
+2015-09-08,Colombia,Peru,1,1,Friendly,Harrison,United States,TRUE
 2015-09-12,Rwanda,Gabon,0,1,Friendly,Kigali,Rwanda,FALSE
 2015-09-30,Botswana,Ethiopia,2,3,Friendly,Gaborone,Botswana,FALSE
 2015-10-02,Oman,Syria,2,1,Friendly,Muscat,Oman,FALSE
@@ -39579,6 +39595,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2016-05-21,Abkhazia,Donetsk PR,0,0,Friendly,Sukhumi,Georgia,FALSE
 2016-05-22,England,Turkey,2,1,Friendly,Manchester,England,FALSE
 2016-05-22,Puerto Rico,United States,1,3,Friendly,Bayamón,Puerto Rico,FALSE
+2016-05-23,Peru,Trinidad and Tobago,4,0,Friendly,Lima,Peru,FALSE
 2016-05-25,Romania,DR Congo,1,1,Friendly,Como,Italy,TRUE
 2016-05-25,Serbia,Cyprus,2,1,Friendly,Užice,Serbia,FALSE
 2016-05-26,Azerbaijan,Andorra,0,0,Friendly,Bad Erlach,Austria,TRUE
@@ -40667,6 +40684,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2017-06-13,Thailand,United Arab Emirates,1,1,FIFA World Cup qualification,Bangkok,Thailand,FALSE
 2017-06-13,Turkmenistan,Bahrain,1,2,AFC Asian Cup qualification,Daşoguz,Turkmenistan,FALSE
 2017-06-13,Vietnam,Jordan,0,0,AFC Asian Cup qualification,Ho Chi Minh City,Vietnam,FALSE
+2017-06-13,Peru,Jamaica,3,1,Friendly,Arequipa,Peru,FALSE
 2017-06-17,Curaçao,Nicaragua,0,0,Friendly,Willemstad,Curaçao,FALSE
 2017-06-17,French Guiana,Barbados,3,0,Friendly,Cayenne,French Guiana,FALSE
 2017-06-17,Russia,New Zealand,2,0,Confederations Cup,Saint Petersburg,Russia,FALSE
