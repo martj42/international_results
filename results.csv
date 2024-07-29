@@ -7503,10 +7503,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1968-11-24,Suriname,Curaçao,6,0,FIFA World Cup qualification,Paramaribo,Suriname,FALSE
 1968-11-25,Haiti,Trinidad and Tobago,2,4,FIFA World Cup qualification,Port-au-Prince,Haiti,FALSE
 1968-11-26,Indonesia,Singapore,7,0,King's Cup,Bangkok,Thailand,TRUE
+1968-11-26,Thailand,Malaysia,3,0,King's Cup,Bangkok,Thailand,FALSE
 1968-11-27,Argentina,Chile,4,0,Copa Carlos Dittborn,Rosario,Argentina,FALSE
 1968-11-27,Costa Rica,Jamaica,3,0,FIFA World Cup qualification,San José,Costa Rica,FALSE
 1968-11-28,Indonesia,Malaysia,6,1,King's Cup,Bangkok,Thailand,TRUE
-1968-11-29,Thailand,Myanmar,1,2,King's Cup,Bangkok,Thailand,FALSE
+1968-11-29,Thailand,Myanmar,0,2,King's Cup,Bangkok,Thailand,FALSE
 1968-12-01,Cameroon,Tunisia,4,2,Friendly,Douala,Cameroon,FALSE
 1968-12-01,Costa Rica,Jamaica,3,1,FIFA World Cup qualification,San José,Costa Rica,FALSE
 1968-12-01,El Salvador,Suriname,6,0,FIFA World Cup qualification,San Salvador,El Salvador,FALSE
@@ -7872,20 +7873,21 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1969-11-18,Iraq,Poland,1,1,Friendly,Baghdad,Iraq,FALSE
 1969-11-19,South Korea,Laos,2,0,King's Cup,Bangkok,Thailand,TRUE
 1969-11-19,Thailand,Malaysia,2,2,King's Cup,Bangkok,Thailand,FALSE
-1969-11-20,Vietnam Republic,Western Australia,3,1,King's Cup,Bangkok,Thailand,TRUE
+1969-11-19,Vietnam Republic,Western Australia,3,1,King's Cup,Bangkok,Thailand,TRUE
+1969-11-19,Indonesia,Singapore,2,3,King's Cup,Bangkok,Thailand,TRUE
 1969-11-21,South Korea,Malaysia,2,0,King's Cup,Bangkok,Thailand,TRUE
 1969-11-21,Thailand,Laos,3,4,King's Cup,Bangkok,Thailand,FALSE
 1969-11-22,DR Congo,Zambia,10,1,Friendly,Kinshasa,DR Congo,FALSE
-1969-11-22,Indonesia,Vietnam Republic,3,1,King's Cup,Bangkok,Thailand,TRUE
+1969-11-21,Indonesia,Vietnam Republic,3,1,King's Cup,Bangkok,Thailand,TRUE
 1969-11-22,Italy,German DR,3,0,FIFA World Cup qualification,Naples,Italy,FALSE
-1969-11-22,Singapore,Western Australia,1,3,King's Cup,Bangkok,Thailand,TRUE
+1969-11-21,Singapore,Western Australia,1,3,King's Cup,Bangkok,Thailand,TRUE
 1969-11-23,Laos,Malaysia,1,1,King's Cup,Bangkok,Thailand,TRUE
 1969-11-23,Thailand,South Korea,0,0,King's Cup,Bangkok,Thailand,FALSE
 1969-11-23,Zimbabwe,Australia,1,1,FIFA World Cup qualification,Maputo,Mozambique,TRUE
 1969-11-23,Costa Rica,Jamaica,3,0,CONCACAF Championship,San José,Costa Rica,FALSE
-1969-11-24,Indonesia,Western Australia,3,1,King's Cup,Bangkok,Thailand,TRUE
-1969-11-24,Singapore,Vietnam Republic,1,1,King's Cup,Bangkok,Thailand,TRUE
-1969-11-26,Indonesia,Laos,3,0,King's Cup,Bangkok,Thailand,TRUE
+1969-11-23,Indonesia,Western Australia,3,1,King's Cup,Bangkok,Thailand,TRUE
+1969-11-23,Singapore,Vietnam Republic,1,1,King's Cup,Bangkok,Thailand,TRUE
+1969-11-26,Indonesia,Laos,3,1,King's Cup,Bangkok,Thailand,TRUE
 1969-11-26,South Korea,Vietnam Republic,3,0,King's Cup,Bangkok,Thailand,TRUE
 1969-11-27,Australia,Zimbabwe,0,0,FIFA World Cup qualification,Maputo,Mozambique,TRUE
 1969-11-27,Costa Rica,Curaçao,2,1,CONCACAF Championship,San José,Costa Rica,FALSE
