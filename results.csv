@@ -415,9 +415,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1914-03-16,Wales,England,0,2,British Home Championship,Cardiff,Wales,FALSE
 1914-03-29,Italy,France,2,0,Friendly,Turin,Italy,FALSE
 1914-04-02,Guernsey,Alderney,4,0,Muratti Vase,Jersey,Jersey,TRUE
+1914-04-04,Scotland,England,3,1,British Home Championship,Glasgow,Scotland,FALSE
 1914-04-05,Italy,Switzerland,1,1,Friendly,Genoa,Italy,FALSE
 1914-04-05,Netherlands,Germany,4,4,Friendly,Amsterdam,Netherlands,FALSE
-1914-04-04,Scotland,England,3,1,British Home Championship,Glasgow,Scotland,FALSE
 1914-04-23,Guernsey,Jersey,2,1,Muratti Vase,Guernsey,Guernsey,FALSE
 1914-04-26,Netherlands,Belgium,4,2,Friendly,Amsterdam,Netherlands,FALSE
 1914-05-03,Austria,Hungary,2,0,Friendly,Vienna,Austria,FALSE
@@ -47776,3 +47776,143 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-10-15,Japan,Australia,1,1,FIFA World Cup qualification,Saitama,Japan,FALSE
 2024-10-15,China PR,Indonesia,2,1,FIFA World Cup qualification,Qingdao,China PR,FALSE
 2024-10-15,Saudi Arabia,Bahrain,0,0,FIFA World Cup qualification,Jeddah,Saudi Arabia,FALSE
+2024-11-13,Bangladesh,Maldives,0,1,Friendly,Dhaka,Bangladesh,FALSE
+2024-11-13,Tajikistan,Nepal,4,0,Friendly,Dushanbe,Tajikistan,FALSE
+2024-11-14,Belgium,Italy,0,1,UEFA Nations League,Brussels,Belgium,FALSE
+2024-11-14,France,Israel,0,0,UEFA Nations League,Paris,France,FALSE
+2024-11-14,Republic of Ireland,Finland,1,0,UEFA Nations League,Dublin,Republic of Ireland,FALSE
+2024-11-14,Greece,England,0,3,UEFA Nations League,Athens,Greece,FALSE
+2024-11-14,Kazakhstan,Austria,0,2,UEFA Nations League,Almaty,Kazakhstan,FALSE
+2024-11-14,Slovenia,Norway,1,4,UEFA Nations League,Ljubljana,Slovenia,FALSE
+2024-11-14,North Macedonia,Latvia,1,0,UEFA Nations League,Skopje,North Macedonia,FALSE
+2024-11-14,Armenia,Faroe Islands,0,1,UEFA Nations League,Yerevan,Armenia,FALSE
+2024-11-14,Montserrat,Saint Vincent and the Grenadines,1,2,CONCACAF Nations League,San Salvador,El Salvador,TRUE
+2024-11-14,El Salvador,Bonaire,1,0,CONCACAF Nations League,San Salvador,El Salvador,FALSE
+2024-11-14,Belize,French Guiana,2,1,CONCACAF Nations League,Belmopan,Belize,FALSE
+2024-11-14,Saint Kitts and Nevis,Cuba,2,1,CONCACAF Nations League,Basseterre,Saint Kitts and Nevis,FALSE
+2024-11-14,Costa Rica,Panama,0,1,CONCACAF Nations League,San José,Costa Rica,FALSE
+2024-11-14,Jamaica,United States,0,1,CONCACAF Nations League,Kingston,Jamaica,FALSE
+2024-11-14,Hong Kong,Philippines,3,1,Friendly,Hong Kong,Hong Kong,FALSE
+2024-11-14,Malaysia,Laos,3,1,Friendly,Bangkok,Thailand,TRUE
+2024-11-14,Malta,Liechtenstein,2,0,Friendly,Ta' Qali,Malta,FALSE
+2024-11-14,Singapore,Myanmar,3,2,Friendly,Kallang,Singapore,FALSE
+2024-11-14,Thailand,Lebanon,0,0,Friendly,Pathum Thani,Thailand,FALSE
+2024-11-14,Venezuela,Brazil,1,1,FIFA World Cup qualification,Maturín,Venezuela,FALSE
+2024-11-14,Ecuador,Bolivia,4,0,FIFA World Cup qualification,Guayaquil,Ecuador,FALSE
+2024-11-14,Paraguay,Argentina,2,1,FIFA World Cup qualification,Asunción,Paraguay,FALSE
+2024-11-14,Solomon Islands,New Caledonia,2,3,FIFA World Cup qualification,Port Moresby,Papua New Guinea,TRUE
+2024-11-14,Papua New Guinea,Fiji,3,3,FIFA World Cup qualification,Port Moresby,Papua New Guinea,FALSE
+2024-11-14,North Korea,Iran,2,3,FIFA World Cup qualification,Vientiane,Laos,TRUE
+2024-11-14,Qatar,Uzbekistan,3,2,FIFA World Cup qualification,Al Rayyan,Qatar,FALSE
+2024-11-14,United Arab Emirates,Kyrgyzstan,3,0,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,FALSE
+2024-11-14,Kuwait,South Korea,1,3,FIFA World Cup qualification,Kuwait City,Kuwait,FALSE
+2024-11-14,Iraq,Jordan,0,0,FIFA World Cup qualification,Basra,Iraq,FALSE
+2024-11-14,Oman,Palestine,1,0,FIFA World Cup qualification,Muscat,Oman,FALSE
+2024-11-14,Bahrain,China PR,0,1,FIFA World Cup qualification,Riffa,Bahrain,FALSE
+2024-11-14,Australia,Saudi Arabia,0,0,FIFA World Cup qualification,Melbourne,Australia,FALSE
+2024-11-15,Portugal,Poland,5,1,UEFA Nations League,Porto,Portugal,FALSE
+2024-11-15,Scotland,Croatia,1,0,UEFA Nations League,Glasgow,Scotland,FALSE
+2024-11-15,Denmark,Spain,1,2,UEFA Nations League,Copenhagen,Denmark,FALSE
+2024-11-15,Switzerland,Serbia,1,1,UEFA Nations League,Zürich,Switzerland,FALSE
+2024-11-15,Cyprus,Lithuania,2,1,UEFA Nations League,Larnaca,Cyprus,FALSE
+2024-11-15,Romania,Kosovo,0,0,UEFA Nations League,Bucharest,Romania,FALSE
+2024-11-15,Northern Ireland,Belarus,2,0,UEFA Nations League,Belfast,Northern Ireland,FALSE
+2024-11-15,Luxembourg,Bulgaria,0,1,UEFA Nations League,Luxembourg,Luxembourg,FALSE
+2024-11-15,San Marino,Gibraltar,1,1,UEFA Nations League,Serravalle,San Marino,FALSE
+2024-11-15,Saint Lucia,Grenada,0,4,CONCACAF Nations League,Willemstad,Curaçao,TRUE
+2024-11-15,Curaçao,Saint Martin,5,0,CONCACAF Nations League,Willemstad,Curaçao,FALSE
+2024-11-15,Puerto Rico,Aruba,5,1,CONCACAF Nations League,Mayagüez,Puerto Rico,FALSE
+2024-11-15,Sint Maarten,Haiti,0,8,CONCACAF Nations League,Mayagüez,Puerto Rico,TRUE
+2024-11-15,Barbados,Guyana,1,4,CONCACAF Nations League,Bridgetown,Barbados,FALSE
+2024-11-15,Cayman Islands,Guadeloupe,0,6,CONCACAF Nations League,George Town,Cayman Islands,FALSE
+2024-11-15,Honduras,Mexico,2,0,CONCACAF Nations League,San Pedro Sula,Honduras,FALSE
+2024-11-15,Suriname,Canada,0,1,CONCACAF Nations League,Paramaribo,Suriname,FALSE
+2024-11-15,Peru,Chile,0,0,FIFA World Cup qualification,Lima,Peru,FALSE
+2024-11-15,Uruguay,Colombia,3,2,FIFA World Cup qualification,Montevideo,Uruguay,FALSE
+2024-11-15,Samoa,Tahiti,0,3,FIFA World Cup qualification,Hamilton,New Zealand,TRUE
+2024-11-15,New Zealand,Vanuatu,8,1,FIFA World Cup qualification,Hamilton,New Zealand,FALSE
+2024-11-15,Indonesia,Japan,0,4,FIFA World Cup qualification,Jakarta,Indonesia,FALSE
+2024-11-15,Russia,Brunei,2,1,Friendly,Krasnodar,Russia,FALSE
+2024-11-16,Germany,Bosnia and Herzegovina,7,0,UEFA Nations League,Freiburg,Germany,FALSE
+2024-11-16,Netherlands,Hungary,4,0,UEFA Nations League,Amsterdam,Netherlands,FALSE
+2024-11-16,Albania,Czech Republic,0,0,UEFA Nations League,Tirana,Albania,FALSE
+2024-11-16,Georgia,Ukraine,1,1,UEFA Nations League,Batumi,Georgia,FALSE
+2024-11-16,Montenegro,Iceland,0,2,UEFA Nations League,Nikšić,Montenegro,FALSE
+2024-11-16,Turkey,Wales,0,0,UEFA Nations League,Kayseri,Turkey,FALSE
+2024-11-16,Azerbaijan,Estonia,0,0,UEFA Nations League,Gabala,Azerbaijan,FALSE
+2024-11-16,Sweden,Slovakia,2,1,UEFA Nations League,Solna,Sweden,FALSE
+2024-11-16,Andorra,Moldova,0,1,UEFA Nations League,Andorra la Vella,Andorra,FALSE
+2024-11-16,Bermuda,Antigua and Barbuda,2,1,CONCACAF Nations League,Santiago de los Caballeros,Dominican Republic,TRUE
+2024-11-16,Dominican Republic,Dominica,6,1,CONCACAF Nations League,Santiago de los Caballeros,Dominican Republic,FALSE
+2024-11-16,Bangladesh,Maldives,2,1,Friendly,Dhaka,Bangladesh,FALSE
+2024-11-16,Nepal,Afghanistan,2,0,Friendly,Dushanbe,Tajikistan,TRUE
+2024-11-16,Sri Lanka,Yemen,1,0,Friendly,Al Khor,Qatar,TRUE
+2024-11-17,Israel,Belgium,1,0,UEFA Nations League,Budapest,Hungary,TRUE
+2024-11-17,Italy,France,1,3,UEFA Nations League,Milan,Italy,FALSE
+2024-11-17,England,Republic of Ireland,5,0,UEFA Nations League,London,England,FALSE
+2024-11-17,Finland,Greece,0,2,UEFA Nations League,Helsinki,Finland,FALSE
+2024-11-17,Norway,Kazakhstan,5,0,UEFA Nations League,Oslo,Norway,FALSE
+2024-11-17,Austria,Slovenia,1,1,UEFA Nations League,Vienna,Austria,FALSE
+2024-11-17,North Macedonia,Faroe Islands,1,0,UEFA Nations League,Skopje,North Macedonia,FALSE
+2024-11-17,Latvia,Armenia,1,2,UEFA Nations League,Riga,Latvia,FALSE
+2024-11-17,Saint Vincent and the Grenadines,Bonaire,3,1,CONCACAF Nations League,San Salvador,El Salvador,TRUE
+2024-11-17,El Salvador,Montserrat,1,0,CONCACAF Nations League,San Salvador,El Salvador,FALSE
+2024-11-17,Thailand,Laos,1,1,Friendly,Pathum Thani,Thailand,FALSE
+2024-11-17,Fiji,New Caledonia,1,1,FIFA World Cup qualification,Port Moresby,Papua New Guinea,TRUE
+2024-11-17,Papua New Guinea,Solomon Islands,1,2,FIFA World Cup qualification,Port Moresby,Papua New Guinea,FALSE
+2024-11-18,Croatia,Portugal,1,1,UEFA Nations League,Split,Croatia,FALSE
+2024-11-18,Poland,Scotland,1,2,UEFA Nations League,Warsaw,Poland,FALSE
+2024-11-18,Serbia,Denmark,0,0,UEFA Nations League,Leskovac,Serbia,FALSE
+2024-11-18,Spain,Switzerland,3,2,UEFA Nations League,Santa Cruz de Tenerife,Spain,FALSE
+2024-11-18,Kosovo,Lithuania,1,0,UEFA Nations League,Pristina,Kosovo,FALSE
+2024-11-18,Romania,Cyprus,4,1,UEFA Nations League,Bucharest,Romania,FALSE
+2024-11-18,Luxembourg,Northern Ireland,2,2,UEFA Nations League,Luxembourg,Luxembourg,FALSE
+2024-11-18,Bulgaria,Belarus,1,1,UEFA Nations League,Sofia,Bulgaria,FALSE
+2024-11-18,Liechtenstein,San Marino,1,3,UEFA Nations League,Vaduz,Liechtenstein,FALSE
+2024-11-18,Grenada,Saint Martin,0,3,CONCACAF Nations League,Gros Islet,Saint Lucia,TRUE
+2024-11-18,Saint Lucia,Curaçao,1,4,CONCACAF Nations League,Gros Islet,Saint Lucia,FALSE
+2024-11-18,Aruba,Sint Maarten,0,1,CONCACAF Nations League,Mayagüez,Puerto Rico,TRUE
+2024-11-18,Puerto Rico,Haiti,0,3,CONCACAF Nations League,Mayagüez,Puerto Rico,FALSE
+2024-11-18,Cuba,Saint Kitts and Nevis,4,0,CONCACAF Nations League,Santiago,Cuba,FALSE
+2024-11-18,Panama,Costa Rica,2,2,CONCACAF Nations League,Panama City,Panama,FALSE
+2024-11-18,United States,Jamaica,4,2,CONCACAF Nations League,Saint Louis,United States,FALSE
+2024-11-18,India,Malaysia,1,1,Friendly,Hyderabad,India,FALSE
+2024-11-18,Singapore,Taiwan,2,3,Friendly,Kallang,Singapore,FALSE
+2024-11-18,Tahiti,Vanuatu,2,0,FIFA World Cup qualification,Auckland,New Zealand,TRUE
+2024-11-18,New Zealand,Samoa,8,0,FIFA World Cup qualification,Auckland,New Zealand,FALSE
+2024-11-19,Bosnia and Herzegovina,Netherlands,1,1,UEFA Nations League,Zenica,Bosnia and Herzegovina,FALSE
+2024-11-19,Hungary,Germany,1,1,UEFA Nations League,Budapest,Hungary,FALSE
+2024-11-19,Albania,Ukraine,1,2,UEFA Nations League,Tirana,Albania,FALSE
+2024-11-19,Czech Republic,Georgia,2,1,UEFA Nations League,Olomouc,Czech Republic,FALSE
+2024-11-19,Wales,Iceland,4,1,UEFA Nations League,Cardiff,Wales,FALSE
+2024-11-19,Montenegro,Turkey,3,1,UEFA Nations League,Podgorica,Montenegro,FALSE
+2024-11-19,Slovakia,Estonia,1,0,UEFA Nations League,Trnava,Slovakia,FALSE
+2024-11-19,Sweden,Azerbaijan,6,0,UEFA Nations League,Solna,Sweden,FALSE
+2024-11-19,Malta,Andorra,0,0,UEFA Nations League,Ta' Qali,Malta,FALSE
+2024-11-19,Antigua and Barbuda,Dominica,0,0,CONCACAF Nations League,Santiago de los Caballeros,Dominican Republic,TRUE
+2024-11-19,Dominican Republic,Bermuda,6,1,CONCACAF Nations League,Santiago de los Caballeros,Dominican Republic,FALSE
+2024-11-19,French Guiana,Belize,2,2,CONCACAF Nations League,Paramaribo,Suriname,TRUE
+2024-11-19,Guadeloupe,Cayman Islands,1,0,CONCACAF Nations League,Le Gosier,Guadeloupe,FALSE
+2024-11-19,Guyana,Barbados,5,3,CONCACAF Nations League,Georgetown,Guyana,FALSE
+2024-11-19,Canada,Suriname,3,0,CONCACAF Nations League,Toronto,Canada,FALSE
+2024-11-19,Mexico,Honduras,4,0,CONCACAF Nations League,Toluca,Mexico,FALSE
+2024-11-19,Gibraltar,Moldova,1,1,Friendly,Gibraltar,Gibraltar,FALSE
+2024-11-19,Hong Kong,Mauritius,1,0,Friendly,Hong Kong,Hong Kong,FALSE
+2024-11-19,Myanmar,Lebanon,2,3,Friendly,Yangon,Myanmar,FALSE
+2024-11-19,Russia,Syria,4,0,Friendly,Volgograd,Russia,FALSE
+2024-11-19,Sri Lanka,Yemen,0,2,Friendly,Al Khor,Qatar,TRUE
+2024-11-19,Tajikistan,Afghanistan,3,1,Friendly,Dushanbe,Tajikistan,FALSE
+2024-11-19,Bolivia,Paraguay,2,2,FIFA World Cup qualification,El Alto,Bolivia,FALSE
+2024-11-19,Colombia,Ecuador,0,1,FIFA World Cup qualification,Barranquilla,Colombia,FALSE
+2024-11-19,Argentina,Peru,1,0,FIFA World Cup qualification,Buenos Aires,Argentina,FALSE
+2024-11-19,Chile,Venezuela,4,2,FIFA World Cup qualification,Santiago,Chile,FALSE
+2024-11-19,Brazil,Uruguay,1,1,FIFA World Cup qualification,Salvador,Brazil,FALSE
+2024-11-19,North Korea,Uzbekistan,0,1,FIFA World Cup qualification,Vientiane,Laos,TRUE
+2024-11-19,Kyrgyzstan,Iran,2,3,FIFA World Cup qualification,Bishkek,Kyrgyzstan,FALSE
+2024-11-19,United Arab Emirates,Qatar,5,0,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,FALSE
+2024-11-19,Palestine,South Korea,1,1,FIFA World Cup qualification,Amman,Jordan,TRUE
+2024-11-19,Oman,Iraq,0,1,FIFA World Cup qualification,Muscat,Oman,FALSE
+2024-11-19,Kuwait,Jordan,1,1,FIFA World Cup qualification,Kuwait City,Kuwait,FALSE
+2024-11-19,Bahrain,Australia,2,2,FIFA World Cup qualification,Riffa,Bahrain,FALSE
+2024-11-19,Indonesia,Saudi Arabia,2,0,FIFA World Cup qualification,Jakarta,Indonesia,FALSE
+2024-11-19,China PR,Japan,1,3,FIFA World Cup qualification,Xiamen,China PR,FALSE
