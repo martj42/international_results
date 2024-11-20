@@ -78,7 +78,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1891-03-07,England,Northern Ireland,6,1,British Home Championship,Wolverhampton,England,FALSE
 1891-03-21,Wales,Scotland,3,4,British Home Championship,Wrexham,Wales,FALSE
 1891-03-28,Scotland,Northern Ireland,2,1,British Home Championship,Glasgow,Scotland,FALSE
-1891-04-06,England,Scotland,2,1,British Home Championship,Blackburn,England,FALSE
+1891-04-04,England,Scotland,2,1,British Home Championship,Blackburn,England,FALSE
 1892-02-27,Wales,Northern Ireland,1,1,British Home Championship,Bangor,Wales,FALSE
 1892-03-05,Northern Ireland,England,0,2,British Home Championship,Belfast,Ireland,FALSE
 1892-03-05,Wales,England,0,2,British Home Championship,Wrexham,Wales,FALSE
@@ -417,7 +417,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1914-04-02,Guernsey,Alderney,4,0,Muratti Vase,Jersey,Jersey,TRUE
 1914-04-05,Italy,Switzerland,1,1,Friendly,Genoa,Italy,FALSE
 1914-04-05,Netherlands,Germany,4,4,Friendly,Amsterdam,Netherlands,FALSE
-1914-04-14,Scotland,England,3,1,British Home Championship,Glasgow,Scotland,FALSE
+1914-04-04,Scotland,England,3,1,British Home Championship,Glasgow,Scotland,FALSE
 1914-04-23,Guernsey,Jersey,2,1,Muratti Vase,Guernsey,Guernsey,FALSE
 1914-04-26,Netherlands,Belgium,4,2,Friendly,Amsterdam,Netherlands,FALSE
 1914-05-03,Austria,Hungary,2,0,Friendly,Vienna,Austria,FALSE
