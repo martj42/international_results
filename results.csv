@@ -47597,6 +47597,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-09-10,Bahrain,Japan,0,5,FIFA World Cup qualification,Riffa,Bahrain,FALSE
 2024-09-10,Indonesia,Australia,0,0,FIFA World Cup qualification,Jakarta,Indonesia,FALSE
 2024-09-10,China PR,Saudi Arabia,1,2,FIFA World Cup qualification,Dalian,China PR,FALSE
+2024-10-08,Brunei,East Timor,0,1,ASEAN Championship qualification,Bandar Seri Begawan,Brunei,FALSE
 2024-10-09,Barbados,United States Virgin Islands,5,0,CONCACAF Nations League,Bridgetown,Barbados,FALSE
 2024-10-09,Belize,Anguilla,1,0,CONCACAF Nations League,Belmopan,Belize,FALSE
 2024-10-09,Saint Kitts and Nevis,British Virgin Islands,3,1,CONCACAF Nations League,Basseterre,Saint Kitts and Nevis,FALSE
@@ -47776,6 +47777,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-10-15,Japan,Australia,1,1,FIFA World Cup qualification,Saitama,Japan,FALSE
 2024-10-15,China PR,Indonesia,2,1,FIFA World Cup qualification,Qingdao,China PR,FALSE
 2024-10-15,Saudi Arabia,Bahrain,0,0,FIFA World Cup qualification,Jeddah,Saudi Arabia,FALSE
+2024-10-15,East Timor,Brunei,0,0,ASEAN Championship qualification,Chonburi,Thailand,TRUE
 2024-11-13,Bangladesh,Maldives,0,1,Friendly,Dhaka,Bangladesh,FALSE
 2024-11-13,Tajikistan,Nepal,4,0,Friendly,Dushanbe,Tajikistan,FALSE
 2024-11-14,Belgium,Italy,0,1,UEFA Nations League,Brussels,Belgium,FALSE
@@ -47916,3 +47918,44 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-11-19,Bahrain,Australia,2,2,FIFA World Cup qualification,Riffa,Bahrain,FALSE
 2024-11-19,Indonesia,Saudi Arabia,2,0,FIFA World Cup qualification,Jakarta,Indonesia,FALSE
 2024-11-19,China PR,Japan,1,3,FIFA World Cup qualification,Xiamen,China PR,FALSE
+2024-12-08,Cambodia,Malaysia,2,2,ASEAN Championship,Phnom Penh,Cambodia,FALSE
+2024-12-08,East Timor,Thailand,0,10,ASEAN Championship,Hanoi,Vietnam,TRUE
+2024-12-09,Myanmar,Indonesia,0,1,ASEAN Championship,Yangon,Myanmar,FALSE
+2024-12-09,Laos,Vietnam,1,4,ASEAN Championship,Vientiane,Laos,FALSE
+2024-12-11,Singapore,Cambodia,2,1,ASEAN Championship,Singapore,Singapore,FALSE
+2024-12-11,Malaysia,East Timor,3,2,ASEAN Championship,Kuala Lumpur,Malaysia,FALSE
+2024-12-12,Philippines,Myanmar,1,1,ASEAN Championship,Manila,Philippines,FALSE
+2024-12-12,Indonesia,Laos,3,3,ASEAN Championship,Surakarta,Indonesia,FALSE
+2024-12-14,East Timor,Singapore,0,3,ASEAN Championship,Hanoi,Vietnam,TRUE
+2024-12-14,Thailand,Malaysia,1,0,ASEAN Championship,Bangkok,Thailand,FALSE
+2024-12-15,Laos,Philippines,1,1,ASEAN Championship,Vientiane,Laos,FALSE
+2024-12-15,Vietnam,Indonesia,1,0,ASEAN Championship,Việt Trì,Vietnam,FALSE
+2024-12-17,Cambodia,East Timor,2,1,ASEAN Championship,Phnom Penh,Cambodia,FALSE
+2024-12-17,Singapore,Thailand,2,4,ASEAN Championship,Singapore,Singapore,FALSE
+2024-12-18,Myanmar,Laos,3,2,ASEAN Championship,Yangon,Myanmar,FALSE
+2024-12-18,Philippines,Vietnam,1,1,ASEAN Championship,Manila,Philippines,FALSE
+2024-12-20,Thailand,Cambodia,3,2,ASEAN Championship,Bangkok,Thailand,FALSE
+2024-12-20,Malaysia,Singapore,0,0,ASEAN Championship,Kuala Lumpur,Malaysia,FALSE
+2024-12-21,Vietnam,Myanmar,5,0,ASEAN Championship,Việt Trì,Vietnam,FALSE
+2024-12-21,Indonesia,Philippines,0,1,ASEAN Championship,Surakarta,Indonesia,FALSE
+2024-12-21,Kuwait,Oman,1,1,Gulf Cup,Kuwait City,Kuwait,FALSE
+2024-12-21,Qatar,United Arab Emirates,1,1,Gulf Cup,Sulaibikhat,Kuwait,TRUE
+2024-12-22,Iraq,Yemen,1,0,Gulf Cup,Sulaibikhat,Kuwait,TRUE
+2024-12-22,Saudi Arabia,Bahrain,2,3,Gulf Cup,Kuwait City,Kuwait,TRUE
+2024-12-24,Oman,Qatar,2,1,Gulf Cup,Sulaibikhat,Kuwait,TRUE
+2024-12-24,Kuwait,United Arab Emirates,2,1,Gulf Cup,Kuwait City,Kuwait,FALSE
+2024-12-25,Yemen,Saudi Arabia,2,3,Gulf Cup,Sulaibikhat,Kuwait,TRUE
+2024-12-25,Bahrain,Iraq,2,0,Gulf Cup,Kuwait City,Kuwait,TRUE
+2024-12-26,Singapore,Vietnam,0,2,ASEAN Championship,Singapore,Singapore,FALSE
+2024-12-27,Philippines,Thailand,2,1,ASEAN Championship,Manila,Philippines,FALSE
+2024-12-27,Kuwait,Qatar,1,1,Gulf Cup,Kuwait City,Kuwait,FALSE
+2024-12-27,United Arab Emirates,Oman,1,1,Gulf Cup,Sulaibikhat,Kuwait,TRUE
+2024-12-28,Iraq,Saudi Arabia,1,3,Gulf Cup,Kuwait City,Kuwait,TRUE
+2024-12-28,Bahrain,Yemen,1,2,Gulf Cup,Sulaibikhat,Kuwait,TRUE
+2024-12-29,Vietnam,Singapore,3,1,ASEAN Championship,Việt Trì,Vietnam,FALSE
+2024-12-30,Thailand,Philippines,3,1,ASEAN Championship,Bangkok,Thailand,FALSE
+2024-12-31,Oman,Saudi Arabia,2,1,Gulf Cup,Sulaibikhat,Kuwait,TRUE
+2024-12-31,Kuwait,Bahrain,0,1,Gulf Cup,Kuwait City,Kuwait,FALSE
+2025-01-02,Vietnam,Thailand,2,1,ASEAN Championship,Việt Trì,Vietnam,FALSE
+2025-01-04,Oman,Bahrain,1,2,Gulf Cup,Kuwait City,Kuwait,TRUE
+2025-01-05,Thailand,Vietnam,2,3,ASEAN Championship,Bangkok,Thailand,FALSE
