@@ -1,0 +1,40 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Environment and local configuration
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Logs
+logs/*
+!logs/.keep
+
+# Data files (depending on your requirements)
+data/*
+!data/.keep
+
+# Backup files
+backup/*
+!backup/.keep
+
+# Cache files
+.cache/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo

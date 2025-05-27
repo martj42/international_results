@@ -1,0 +1,28 @@
+# Dockerfile for Python development environment with type checking and linting
+FROM python:3.13-slim
+
+# Install system dependencies (this layer will be cached unless this block changes)
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential \
+    curl \
+    zsh \
+    git \
+    nodejs \
+    npm \
+    bash \
+    && apt-get clean && rm -rf /var/lib/apt/lists/*
+
+# Set workdir
+WORKDIR /app
+
+# Install dev tools (separate layer for better caching)
+RUN pip install --no-cache-dir mypy flake8 pylint && \
+    npm install -g pyright
+
+# Copy only requirements first to leverage Docker cache for pip installs
+COPY requirements.txt ./
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Entrypoint for dev
+# Start only a shell by default; let the user start dbus or bluetoothd manually if needed
+CMD ["/bin/sh"]
