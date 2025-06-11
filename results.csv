@@ -48004,6 +48004,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-02-10,Jamaica,Trinidad and Tobago,1,1,Friendly,Kingston,Jamaica,FALSE
 2025-02-13,Oman,Sudan,0,0,Friendly,Muscat,Oman,FALSE
 2025-03-09,Saint Vincent and the Grenadines,Grenada,1,1,Friendly,Kingston,Saint Vincent and the Grenadines,FALSE
+2025-03-13,Oman,Sudan,0,0,Friendly,Muscat,Oman,FALSE
 2025-03-14,Jordan,North Korea,1,1,Friendly,Amman,Jordan,FALSE
 2025-03-16,Honduras,Guatemala,1,2,Friendly,Fort Lauderdale,United States,TRUE
 2025-03-19,Hong Kong,Macau,2,0,Friendly,Hong Kong,Hong Kong,FALSE
@@ -48186,13 +48187,27 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-03-25,North Macedonia,Wales,1,1,FIFA World Cup qualification,Skopje,North Macedonia,FALSE
 2025-03-25,Gibraltar,Czech Republic,0,4,FIFA World Cup qualification,Faro-Loulé,Portugal,TRUE
 2025-03-25,Montenegro,Faroe Islands,1,0,FIFA World Cup qualification,Nikšić,Montenegro,FALSE
+2025-05-09,Dominica,Barbados,0,0,Friendly,Roseau,Dominica,FALSE
+2025-05-11,Dominica,Barbados,0,0,Friendly,Roseau,Dominica,FALSE
+2025-05-21,Saint Kitts and Nevis,Saint Vincent and the Grenadines,1,3,Friendly,Old Road Town,Saint Kitts and Nevis,FALSE
+2025-05-25,Anguilla,Saint Kitts and Nevis,2,4,Friendly,Quartier d'Orléans,Saint Martin,TRUE
+2025-05-25,Saint Vincent and the Grenadines,Saint Kitts and Nevis,3,0,Friendly,Georgetown,Saint Vincent and the Grenadines,FALSE
 2025-05-27,Jamaica,Trinidad and Tobago,3,2,Unity Cup,London,England,TRUE
 2025-05-28,Nigeria,Ghana,2,1,Unity Cup,London,England,TRUE
+2025-05-28,Oman,Lebanon,1,0,Friendly,Muscat,Oman,FALSE
+2025-05-29,Malaysia,Cape Verde,1,1,Friendly,Kuala Lumpur,Malaysia,FALSE
+2025-05-30,Saint Vincent and the Grenadines,British Virgin Islands,1,1,Friendly,Kingstown,Saint Vincent and the Grenadines,FALSE
+2025-05-30,Saudi Arabia,Jordan,2,0,Friendly,Dammam,Saudi Arabia,FALSE
 2025-05-31,Trinidad and Tobago,Ghana,0,4,Unity Cup,London,England,TRUE
 2025-05-31,Jamaica,Nigeria,2,2,Unity Cup,London,England,TRUE
+2025-06-01,Grenada,Anguilla,2,0,Friendly,Saint George's,Grenada,FALSE
+2025-06-01,El Salvador,Guatemala,1,1,Friendly,Chattanooga,United States,TRUE
+2025-06-01,Puerto Rico,Nicaragua,1,1,Friendly,Pawtucket,United States,TRUE
 2025-06-02,Tunisia,Burkina Faso,2,0,Friendly,Radès,Tunisia,FALSE
+2025-06-03,Malaysia,Cape Verde,0,3,Friendly,Kuala Lumpur,Malaysia,FALSE
 2025-06-04,Germany,Portugal,1,2,UEFA Nations League,Munich,Germany,FALSE
 2025-06-04,Thailand,India,2,0,Friendly,Pathum Thani,Thailand,FALSE
+2025-06-04,Bangladesh,Bhutan,2,0,Friendly,Dhaka,Bangladesh,FALSE
 2025-06-05,Spain,France,5,4,UEFA Nations League,Stuttgart,Germany,TRUE
 2025-06-05,Algeria,Rwanda,2,0,Friendly,Constantine,Algeria,FALSE
 2025-06-05,Belarus,Kazakhstan,4,1,Friendly,Borisov,Belarus,FALSE
@@ -48213,6 +48228,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-06-05,Bahrain,Saudi Arabia,0,2,FIFA World Cup qualification,Riffa,Bahrain,FALSE
 2025-06-05,Australia,Japan,1,0,FIFA World Cup qualification,Perth,Australia,FALSE
 2025-06-05,Indonesia,China PR,1,0,FIFA World Cup qualification,Jakarta,Indonesia,FALSE
+2025-06-05,Sri Lanka,Brunei,1,0,Friendly,Bangkok,Thailand,TRUE
 2025-06-06,Bulgaria,Cyprus,2,2,Friendly,Plovdiv,Bulgaria,FALSE
 2025-06-06,Burundi,Guinea-Bissau,1,0,Friendly,Berrechid,Egypt,TRUE
 2025-06-06,Central African Republic,Mauritania,2,1,Friendly,Casablanca,Morocco,TRUE
@@ -48250,6 +48266,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-06-07,Albania,Serbia,0,0,FIFA World Cup qualification,Tirana,Albania,FALSE
 2025-06-07,Canada,Ukraine,4,2,Canadian Shield,Toronto,Canada,FALSE
 2025-06-07,Ivory Coast,New Zealand,0,1,Canadian Shield,Toronto,Canada,TRUE
+2025-06-07,Kenya,Chad,0,0,Friendly,Marrakech,Morocco,TRUE
 2025-06-08,Germany,France,0,2,UEFA Nations League,Stuttgart,Germany,FALSE
 2025-06-08,Portugal,Spain,2,2,UEFA Nations League,Munich,Germany,TRUE
 2025-06-08,DR Congo,Madagascar,3,1,Friendly,Orléans,France,TRUE
