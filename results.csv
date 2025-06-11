@@ -809,10 +809,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1923-05-10,Germany,Netherlands,0,0,Friendly,Hamburg,Germany,FALSE
 1923-05-20,Argentina,Paraguay,0,2,Copa Chevallier Boutell,Buenos Aires,Argentina,FALSE
 1923-05-21,Sweden,England,2,4,Friendly,Stockholm,Sweden,FALSE
-1923-05-22,China PR,Philippines,3,0,Friendly,Osaka,Japan,TRUE
 1923-05-22,China PR,Philippines,3,0,Far Eastern Championship Games,Osaka,Japan,TRUE
 1923-05-23,Japan,Philippines,1,2,Far Eastern Championship Games,Osaka,Japan,FALSE
-1923-05-24,Japan,China PR,1,5,Friendly,Osaka,Japan,FALSE
 1923-05-24,Sweden,England,1,3,Friendly,Solna,Sweden,FALSE
 1923-05-24,Japan,China PR,1,5,Far Eastern Championship Games,Osaka,Japan,FALSE
 1923-05-25,Argentina,Paraguay,1,0,Copa Chevallier Boutell,Buenos Aires,Argentina,FALSE
@@ -1012,7 +1010,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1925-05-20,Japan,China PR,0,2,Far Eastern Championship Games,Manila,Philippines,TRUE
 1925-05-21,France,England,2,3,Friendly,Colombes,France,FALSE
 1925-05-21,Hungary,Belgium,1,3,Friendly,Budapest,Hungary,FALSE
-1925-05-22,Philippines,China PR,1,5,Friendly,Manila,Philippines,FALSE
 1925-05-22,Philippines,China PR,1,5,Far Eastern Championship Games,Manila,Philippines,FALSE
 1925-05-24,Czechoslovakia,Austria,3,1,Friendly,Prague,Czechoslovakia,FALSE
 1925-05-24,Switzerland,Belgium,0,0,Friendly,Lausanne,Switzerland,FALSE
@@ -1209,12 +1206,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1927-07-27,Latvia,Lithuania,6,3,Friendly,Riga,Latvia,FALSE
 1927-08-10,Estonia,Finland,2,1,Friendly,Tallinn,Estonia,FALSE
 1927-08-13,Lithuania,Estonia,0,5,Friendly,Kaunas,Lithuania,FALSE
-1927-08-27,China PR,Japan,5,1,Friendly,Shanghai,China PR,FALSE
 1927-08-27,China PR,Japan,5,1,Far Eastern Championship Games,Shanghai,China PR,FALSE
-1927-08-29,Japan,Philippines,2,1,Friendly,Shanghai,China PR,TRUE
 1927-08-29,Japan,Philippines,2,1,Far Eastern Championship Games,Shanghai,China PR,TRUE
 1927-08-30,Argentina,Uruguay,0,1,Copa Lipton,Buenos Aires,Argentina,FALSE
-1927-08-31,China PR,Philippines,3,1,Friendly,Shanghai,China PR,FALSE
 1927-08-31,China PR,Philippines,3,1,Far Eastern Championship Games,Shanghai,China PR,FALSE
 1927-09-04,Sweden,Belgium,7,0,Friendly,Stockholm,Sweden,FALSE
 1927-09-11,Finland,Latvia,3,1,Friendly,Helsinki,Finland,FALSE
@@ -1474,7 +1468,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1930-05-25,Belgium,France,1,2,Friendly,Liège,Belgium,FALSE
 1930-05-25,Romania,Greece,8,1,Balkan Cup,Bucharest,Romania,FALSE
 1930-05-25,Japan,Philippines,7,2,Far Eastern Championship Games,Tokyo,Japan,FALSE
-1930-05-27,China PR,Philippines,5,0,Friendly,Tokyo,Japan,TRUE
 1930-05-27,China PR,Philippines,5,0,Far Eastern Championship Games,Tokyo,Japan,TRUE
 1930-05-29,Japan,China PR,3,3,Friendly,Tokyo,Japan,FALSE
 1930-05-30,Japan,China PR,3,3,Far Eastern Championship Games,Tokyo,Japan,FALSE
@@ -1869,17 +1862,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1934-04-29,Romania,Yugoslavia,2,1,FIFA World Cup qualification,Bucharest,Romania,FALSE
 1934-05-10,Hungary,England,2,1,Friendly,Budapest,Hungary,FALSE
 1934-05-10,Netherlands,France,4,5,Friendly,Amsterdam,Netherlands,FALSE
-1934-05-12,Philippines,China PR,0,2,Friendly,Manila,Philippines,FALSE
 1934-05-12,Philippines,China PR,0,2,Far Eastern Championship Games,Manila,Philippines,FALSE
-1934-05-13,Japan,Indonesia,1,7,Friendly,Manila,Philippines,TRUE
 1934-05-13,Japan,Indonesia,1,7,Far Eastern Championship Games,Manila,Philippines,TRUE
-1934-05-14,China PR,Indonesia,2,0,Friendly,Manila,Philippines,TRUE
 1934-05-14,China PR,Indonesia,2,0,Far Eastern Championship Games,Manila,Philippines,TRUE
 1934-05-15,Philippines,Japan,3,4,Far Eastern Championship Games,Manila,Philippines,FALSE
 1934-05-16,Czechoslovakia,England,2,1,Friendly,Prague,Czechoslovakia,FALSE
-1934-05-19,Philippines,Indonesia,3,2,Friendly,Manila,Philippines,FALSE
 1934-05-19,Philippines,Indonesia,3,2,Far Eastern Championship Games,Manila,Philippines,FALSE
-1934-05-20,China PR,Japan,4,3,Friendly,Manila,Philippines,TRUE
 1934-05-20,China PR,Japan,4,3,Far Eastern Championship Games,Manila,Philippines,TRUE
 1934-05-21,Denmark,Poland,4,2,Friendly,Copenhagen,Denmark,FALSE
 1934-05-23,Sweden,Poland,4,2,Friendly,Stockholm,Sweden,FALSE
@@ -5032,22 +5020,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1960-04-06,Wales,Northern Ireland,3,2,British Home Championship,Wrexham,Wales,FALSE
 1960-04-09,Scotland,England,1,1,British Home Championship,Glasgow,Scotland,FALSE
 1960-04-13,Belgium,Chile,1,1,Friendly,Brussels,Belgium,FALSE
-1960-04-14,Cameroon,Djibouti,9,2,Friendly,Antananarivo,Madagascar,TRUE
-1960-04-14,Central African Republic,Mali,3,4,Friendly,Antananarivo,Madagascar,TRUE
-1960-04-14,Gabon,Burkina Faso,4,5,Friendly,Antananarivo,Madagascar,TRUE
-1960-04-14,Ivory Coast,Benin,3,2,Friendly,Antananarivo,Madagascar,TRUE
 1960-04-14,Ivory Coast,Benin,3,2,African Friendship Games,Tananarive,Madagascar,TRUE
 1960-04-14,Burkina Faso,Gabon,5,4,African Friendship Games,Tananarive,Madagascar,TRUE
 1960-04-14,Congo,Réunion,4,1,African Friendship Games,Tananarive,Madagascar,TRUE
 1960-04-14,Cameroon,Djibouti,9,2,African Friendship Games,Tananarive,Madagascar,TRUE
 1960-04-14,Mali,Central African Republic,4,3,African Friendship Games,Tananarive,Madagascar,TRUE
-1960-04-15,Cameroon,Mali,3,2,Friendly,Antananarivo,Madagascar,TRUE
-1960-04-15,Congo,Ivory Coast,3,2,Friendly,Antananarivo,Madagascar,TRUE
-1960-04-15,Madagascar,Burkina Faso,6,1,Friendly,Antananarivo,Madagascar,FALSE
 1960-04-15,Madagascar,Burkina Faso,6,1,African Friendship Games,Tananarive,Madagascar,FALSE
 1960-04-15,Cameroon,Mali,3,2,African Friendship Games,Tananarive,Madagascar,TRUE
 1960-04-15,Congo,Ivory Coast,3,2,African Friendship Games,Tananarive,Madagascar,TRUE
-1960-04-17,Congo,Cameroon,4,5,Friendly,Antananarivo,Madagascar,TRUE
 1960-04-17,Cameroon,Congo,5,4,African Friendship Games,Tananarive,Madagascar,TRUE
 1960-04-18,Madagascar,Congo,8,1,African Friendship Games,Tananarive,Madagascar,FALSE
 1960-04-20,Indonesia,Malaysia,5,0,Friendly,Surakarta,Indonesia,FALSE
@@ -26423,7 +26403,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2002-05-18,Czech Republic,Italy,1,0,Friendly,Prague,Czech Republic,FALSE
 2002-05-18,France,Belgium,1,2,Friendly,Saint-Denis,France,FALSE
 2002-05-18,Germany,Austria,6,2,Friendly,Leverkusen,Germany,FALSE
-2002-05-18,Jamaica,Nigeria,0,1,Friendly,London,England,TRUE
+2002-05-18,Jamaica,Nigeria,0,1,Unity Cup,London,England,TRUE
 2002-05-18,Malawi,Angola,2,1,COSAFA Cup,Blantyre,Malawi,FALSE
 2002-05-18,Poland,Estonia,1,0,Friendly,Warsaw,Poland,FALSE
 2002-05-18,Tanzania,Kenya,0,5,Friendly,Arusha,Tanzania,FALSE
@@ -28204,7 +28184,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2004-05-29,Australia,New Zealand,1,0,Oceania Nations Cup,Adelaide,Australia,FALSE
 2004-05-29,Croatia,Slovakia,1,0,Friendly,Rijeka,Croatia,FALSE
 2004-05-29,Egypt,Gabon,2,0,Friendly,Cairo,Egypt,FALSE
-2004-05-29,Republic of Ireland,Nigeria,0,3,Friendly,London,England,TRUE
+2004-05-29,Republic of Ireland,Nigeria,0,3,Unity Cup,London,England,TRUE
 2004-05-29,Netherlands,Belgium,0,1,Friendly,Eindhoven,Netherlands,FALSE
 2004-05-29,Poland,Greece,1,0,Friendly,Szczecin,Poland,FALSE
 2004-05-29,Portugal,Luxembourg,3,0,Friendly,Águeda,Portugal,FALSE
@@ -28224,7 +28204,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2004-05-31,Fiji,Vanuatu,1,0,Oceania Nations Cup,Adelaide,Australia,TRUE
 2004-05-31,Mozambique,Eswatini,1,1,Friendly,Maputo,Mozambique,FALSE
 2004-05-31,New Zealand,Solomon Islands,3,0,Oceania Nations Cup,Adelaide,Australia,TRUE
-2004-05-31,Nigeria,Jamaica,2,0,Friendly,London,England,TRUE
+2004-05-31,Nigeria,Jamaica,2,0,Unity Cup,London,England,TRUE
 2004-05-31,Oman,Maldives,3,0,Friendly,Muscat,Oman,FALSE
 2004-05-31,Qatar,Turkmenistan,5,0,Friendly,Doha,Qatar,FALSE
 2004-05-31,United Arab Emirates,Bahrain,2,3,Friendly,Dubai,United Arab Emirates,FALSE
@@ -28240,7 +28220,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2004-06-02,Czech Republic,Bulgaria,3,1,Friendly,Prague,Czech Republic,FALSE
 2004-06-02,Ecuador,Colombia,2,1,FIFA World Cup qualification,Quito,Ecuador,FALSE
 2004-06-02,Grenada,Saint Lucia,2,0,Friendly,St. George's,Grenada,FALSE
-2004-06-02,Republic of Ireland,Jamaica,1,0,Friendly,London,England,TRUE
+2004-06-02,Republic of Ireland,Jamaica,1,0,Unity Cup,London,England,TRUE
 2004-06-02,South Korea,Turkey,0,1,Friendly,Seoul,South Korea,FALSE
 2004-06-02,New Zealand,Vanuatu,2,4,Oceania Nations Cup,Adelaide,Australia,TRUE
 2004-06-02,Saint Kitts and Nevis,Northern Ireland,0,2,Friendly,Basseterre,Saint Kitts and Nevis,FALSE
@@ -48206,3 +48186,132 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-03-25,North Macedonia,Wales,1,1,FIFA World Cup qualification,Skopje,North Macedonia,FALSE
 2025-03-25,Gibraltar,Czech Republic,0,4,FIFA World Cup qualification,Faro-Loulé,Portugal,TRUE
 2025-03-25,Montenegro,Faroe Islands,1,0,FIFA World Cup qualification,Nikšić,Montenegro,FALSE
+2025-05-27,Jamaica,Trinidad and Tobago,3,2,Unity Cup,London,England,TRUE
+2025-05-28,Nigeria,Ghana,2,1,Unity Cup,London,England,TRUE
+2025-05-31,Trinidad and Tobago,Ghana,0,4,Unity Cup,London,England,TRUE
+2025-05-31,Jamaica,Nigeria,2,2,Unity Cup,London,England,TRUE
+2025-06-02,Tunisia,Burkina Faso,2,0,Friendly,Radès,Tunisia,FALSE
+2025-06-04,Germany,Portugal,1,2,UEFA Nations League,Munich,Germany,FALSE
+2025-06-04,Thailand,India,2,0,Friendly,Pathum Thani,Thailand,FALSE
+2025-06-05,Spain,France,5,4,UEFA Nations League,Stuttgart,Germany,TRUE
+2025-06-05,Algeria,Rwanda,2,0,Friendly,Constantine,Algeria,FALSE
+2025-06-05,Belarus,Kazakhstan,4,1,Friendly,Borisov,Belarus,FALSE
+2025-06-05,Cambodia,Tajikistan,1,2,Friendly,Phnom Penh,Cambodia,FALSE
+2025-06-05,DR Congo,Mali,1,0,Friendly,Orléans,France,TRUE
+2025-06-05,Georgia,Faroe Islands,1,0,Friendly,Tbilisi,Georgia,FALSE
+2025-06-05,Hong Kong,Nepal,0,0,Friendly,Hong Kong,Hong Kong,FALSE
+2025-06-05,Singapore,Maldives,3,1,Friendly,Bishan,Singapore,FALSE
+2025-06-05,Ecuador,Brazil,0,0,FIFA World Cup qualification,Guayaquil,Ecuador,FALSE
+2025-06-05,Paraguay,Uruguay,2,0,FIFA World Cup qualification,Asunción,Paraguay,FALSE
+2025-06-05,Chile,Argentina,0,1,FIFA World Cup qualification,Santiago,Chile,FALSE
+2025-06-05,United Arab Emirates,Uzbekistan,0,0,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,FALSE
+2025-06-05,North Korea,Kyrgyzstan,2,2,FIFA World Cup qualification,Riyadh,Saudi Arabia,TRUE
+2025-06-05,Qatar,Iran,1,0,FIFA World Cup qualification,Al Rayyan,Qatar,FALSE
+2025-06-05,Oman,Jordan,0,3,FIFA World Cup qualification,Muscat,Oman,FALSE
+2025-06-05,Iraq,South Korea,0,2,FIFA World Cup qualification,Basra,Iraq,FALSE
+2025-06-05,Kuwait,Palestine,0,2,FIFA World Cup qualification,Kuwait City,Kuwait,FALSE
+2025-06-05,Bahrain,Saudi Arabia,0,2,FIFA World Cup qualification,Riffa,Bahrain,FALSE
+2025-06-05,Australia,Japan,1,0,FIFA World Cup qualification,Perth,Australia,FALSE
+2025-06-05,Indonesia,China PR,1,0,FIFA World Cup qualification,Jakarta,Indonesia,FALSE
+2025-06-06,Bulgaria,Cyprus,2,2,Friendly,Plovdiv,Bulgaria,FALSE
+2025-06-06,Burundi,Guinea-Bissau,1,0,Friendly,Berrechid,Egypt,TRUE
+2025-06-06,Central African Republic,Mauritania,2,1,Friendly,Casablanca,Morocco,TRUE
+2025-06-06,Equatorial Guinea,Gambia,1,2,Friendly,Marrakech,Morocco,TRUE
+2025-06-06,Hungary,Sweden,0,2,Friendly,Budapest,Hungary,FALSE
+2025-06-06,Kosovo,Armenia,5,2,Friendly,Pristina,Kosovo,FALSE
+2025-06-06,Luxembourg,Slovenia,0,1,Friendly,Luxembourg,Luxembourg,FALSE
+2025-06-06,Morocco,Tunisia,2,0,Friendly,Fès,Morocco,FALSE
+2025-06-06,Niger,Gabon,4,3,Friendly,Casablanca,Morocco,TRUE
+2025-06-06,Poland,Moldova,2,0,Friendly,Chorzow,Poland,FALSE
+2025-06-06,Republic of Ireland,Senegal,1,1,Friendly,Dublin,Republic of Ireland,FALSE
+2025-06-06,Scotland,Iceland,1,3,Friendly,Glasgow,Scotland,FALSE
+2025-06-06,South Africa,Tanzania,0,0,Friendly,Polokwane,South Africa,FALSE
+2025-06-06,Uganda,Cameroon,0,3,Friendly,Marrakech,Morocco,TRUE
+2025-06-06,Zimbabwe,Burkina Faso,0,2,Friendly,Mohammédia,Morocco,TRUE
+2025-06-06,Colombia,Peru,0,0,FIFA World Cup qualification,Barranquilla,Colombia,FALSE
+2025-06-06,Venezuela,Bolivia,2,0,FIFA World Cup qualification,Maturín,Venezuela,FALSE
+2025-06-06,Norway,Italy,3,0,FIFA World Cup qualification,Oslo,Norway,FALSE
+2025-06-06,Estonia,Israel,1,3,FIFA World Cup qualification,Tallinn,Estonia,FALSE
+2025-06-06,Wales,Liechtenstein,3,0,FIFA World Cup qualification,Cardiff,Wales,FALSE
+2025-06-06,North Macedonia,Belgium,1,1,FIFA World Cup qualification,Skopje,North Macedonia,FALSE
+2025-06-06,Czech Republic,Montenegro,2,0,FIFA World Cup qualification,Plzeň,Czech Republic,FALSE
+2025-06-06,Gibraltar,Croatia,0,7,FIFA World Cup qualification,Faro-Loulé,Portugal,TRUE
+2025-06-07,Denmark,Northern Ireland,2,1,Friendly,Copenhagen,Denmark,FALSE
+2025-06-07,Greece,Slovakia,4,1,Friendly,Heraklion,Greece,FALSE
+2025-06-07,Latvia,Azerbaijan,0,0,Friendly,Riga,Latvia,FALSE
+2025-06-07,Mexico,Switzerland,2,4,Friendly,Salt Lake City,United States,TRUE
+2025-06-07,United States,Turkey,1,2,Friendly,East Hartford,United States,FALSE
+2025-06-07,Malta,Lithuania,0,0,FIFA World Cup qualification,Ta' Qali,Malta,FALSE
+2025-06-07,Finland,Netherlands,0,2,FIFA World Cup qualification,Helsinki,Finland,FALSE
+2025-06-07,Bosnia and Herzegovina,San Marino,1,0,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,FALSE
+2025-06-07,Austria,Romania,2,1,FIFA World Cup qualification,Vienna,Austria,FALSE
+2025-06-07,Andorra,England,0,1,FIFA World Cup qualification,Barcelona,Spain,TRUE
+2025-06-07,Albania,Serbia,0,0,FIFA World Cup qualification,Tirana,Albania,FALSE
+2025-06-07,Canada,Ukraine,4,2,Canadian Shield,Toronto,Canada,FALSE
+2025-06-07,Ivory Coast,New Zealand,0,1,Canadian Shield,Toronto,Canada,TRUE
+2025-06-08,Germany,France,0,2,UEFA Nations League,Stuttgart,Germany,FALSE
+2025-06-08,Portugal,Spain,2,2,UEFA Nations League,Munich,Germany,TRUE
+2025-06-08,DR Congo,Madagascar,3,1,Friendly,Orléans,France,TRUE
+2025-06-08,Georgia,Cape Verde,1,1,Friendly,Kutaisi,Georgia,FALSE
+2025-06-09,Equatorial Guinea,Cameroon,1,1,Friendly,Marrakech,Morocco,TRUE
+2025-06-09,Gabon,Guinea-Bissau,2,0,Friendly,Mohammédia,Morocco,TRUE
+2025-06-09,Kosovo,Comoros,4,2,Friendly,Pristina,Kosovo,FALSE
+2025-06-09,Liechtenstein,Scotland,0,4,Friendly,Vaduz,Liechtenstein,FALSE
+2025-06-09,Montenegro,Armenia,2,2,Friendly,Nikšić,Montenegro,FALSE
+2025-06-09,Morocco,Benin,1,0,Friendly,Fès,Morocco,FALSE
+2025-06-09,Uganda,Gambia,1,1,Friendly,Marrakech,Morocco,TRUE
+2025-06-09,Italy,Moldova,2,0,FIFA World Cup qualification,Reggio Emilia,Italy,FALSE
+2025-06-09,Estonia,Norway,0,1,FIFA World Cup qualification,Tallinn,Estonia,FALSE
+2025-06-09,Kazakhstan,North Macedonia,0,1,FIFA World Cup qualification,Astana,Kazakhstan,FALSE
+2025-06-09,Belgium,Wales,4,3,FIFA World Cup qualification,Brussels,Belgium,FALSE
+2025-06-09,Faroe Islands,Gibraltar,2,1,FIFA World Cup qualification,Tórshavn,Faroe Islands,FALSE
+2025-06-09,Croatia,Czech Republic,5,1,FIFA World Cup qualification,Osijek,Croatia,FALSE
+2025-06-10,Timor-Leste,Maldives,1,0,AFC Asian Cup qualification,Darwin,Australia,TRUE
+2025-06-10,Philippines,Tajikistan,2,2,AFC Asian Cup qualification,Capas,Philippines,FALSE
+2025-06-10,Brunei,Bhutan,2,1,AFC Asian Cup qualification,Bandar Seri Begawan,Brunei,FALSE
+2025-06-10,Yemen,Lebanon,0,0,AFC Asian Cup qualification,Kuwait City,Kuwait,TRUE
+2025-06-10,Bangladesh,Singapore,1,2,AFC Asian Cup qualification,Dhaka,Bangladesh,FALSE
+2025-06-10,Hong Kong,India,1,0,AFC Asian Cup qualification,Kowloon,Hong Kong,FALSE
+2025-06-10,Sri Lanka,Taiwan,3,1,AFC Asian Cup qualification,Colombo,Sri Lanka,FALSE
+2025-06-10,Turkmenistan,Thailand,3,1,AFC Asian Cup qualification,Ashgabat,Turkmenistan,FALSE
+2025-06-10,Myanmar,Pakistan,1,0,AFC Asian Cup qualification,Yangon,Myanmar,FALSE
+2025-06-10,Afghanistan,Syria,0,1,AFC Asian Cup qualification,Al Hofuf,Saudi Arabia,TRUE
+2025-06-10,Laos,Nepal,2,1,AFC Asian Cup qualification,Vientiane,Laos,FALSE
+2025-06-10,Malaysia,Vietnam,4,0,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,FALSE
+2025-06-10,Azerbaijan,Hungary,1,2,Friendly,Baku,Azerbaijan,FALSE
+2025-06-10,Burundi,Mauritania,0,0,Friendly,Mohammédia,Morocco,TRUE
+2025-06-10,Chad,Kenya,1,2,Friendly,Marrakech,Morocco,TRUE
+2025-06-10,Denmark,Lithuania,5,0,Friendly,Odense,Denmark,FALSE
+2025-06-10,England,Senegal,1,3,Friendly,London,England,FALSE
+2025-06-10,Greece,Bulgaria,4,0,Friendly,Heraklion,Greece,FALSE
+2025-06-10,Israel,Slovakia,1,0,Friendly,Debrecen,Hungary,TRUE
+2025-06-10,Luxembourg,Republic of Ireland,0,0,Friendly,Luxembourg,Luxembourg,FALSE
+2025-06-10,Mexico,Turkey,1,0,Friendly,Chapel Hill,United States,TRUE
+2025-06-10,Niger,Zimbabwe,1,1,Friendly,Casablanca,Morocco,TRUE
+2025-06-10,Northern Ireland,Iceland,1,0,Friendly,Belfast,Northern Ireland,FALSE
+2025-06-10,Slovenia,Bosnia and Herzegovina,2,1,Friendly,Celje,Slovenia,FALSE
+2025-06-10,South Africa,Mozambique,2,0,Friendly,Polokwane,South Africa,FALSE
+2025-06-10,Sweden,Algeria,4,3,Friendly,Solna,Sweden,FALSE
+2025-06-10,United States,Switzerland,0,4,Friendly,Nashville,United States,FALSE
+2025-06-10,Bolivia,Chile,2,0,FIFA World Cup qualification,El Alto,Bolivia,FALSE
+2025-06-10,Uruguay,Venezuela,2,0,FIFA World Cup qualification,Montevideo,Uruguay,FALSE
+2025-06-10,Peru,Ecuador,0,0,FIFA World Cup qualification,Lima,Peru,FALSE
+2025-06-10,Argentina,Colombia,1,1,FIFA World Cup qualification,Buenos Aires,Argentina,FALSE
+2025-06-10,Brazil,Paraguay,1,0,FIFA World Cup qualification,São Paulo,Brazil,FALSE
+2025-06-10,Uzbekistan,Qatar,3,0,FIFA World Cup qualification,Tashkent,Uzbekistan,FALSE
+2025-06-10,Iran,North Korea,3,0,FIFA World Cup qualification,Tehran,Iran,FALSE
+2025-06-10,Kyrgyzstan,United Arab Emirates,1,1,FIFA World Cup qualification,Bishkek,Kyrgyzstan,FALSE
+2025-06-10,South Korea,Kuwait,4,0,FIFA World Cup qualification,Seoul,South Korea,FALSE
+2025-06-10,Jordan,Iraq,0,1,FIFA World Cup qualification,Amman,Jordan,FALSE
+2025-06-10,Palestine,Oman,1,1,FIFA World Cup qualification,Amman,Jordan,TRUE
+2025-06-10,China PR,Bahrain,1,0,FIFA World Cup qualification,Chongqing,China PR,FALSE
+2025-06-10,Japan,Indonesia,6,0,FIFA World Cup qualification,Suita,Japan,FALSE
+2025-06-10,Saudi Arabia,Australia,1,2,FIFA World Cup qualification,Jeddah,Saudi Arabia,FALSE
+2025-06-10,Netherlands,Malta,8,0,FIFA World Cup qualification,Groningen,Netherlands,FALSE
+2025-06-10,Finland,Poland,2,1,FIFA World Cup qualification,Helsinki,Finland,FALSE
+2025-06-10,San Marino,Austria,0,4,FIFA World Cup qualification,Serravalle,San Marino,FALSE
+2025-06-10,Romania,Cyprus,2,0,FIFA World Cup qualification,Bucharest,Romania,FALSE
+2025-06-10,Serbia,Andorra,3,0,FIFA World Cup qualification,Leskovac,Serbia,FALSE
+2025-06-10,Latvia,Albania,1,1,FIFA World Cup qualification,Riga,Latvia,FALSE
+2025-06-10,New Zealand,Ukraine,1,2,Canadian Shield,Toronto,Canada,TRUE
+2025-06-10,Canada,Ivory Coast,0,0,Canadian Shield,Toronto,Canada,FALSE
