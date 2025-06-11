@@ -48228,6 +48228,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-06-06,South Africa,Tanzania,0,0,Friendly,Polokwane,South Africa,FALSE
 2025-06-06,Uganda,Cameroon,0,3,Friendly,Marrakech,Morocco,TRUE
 2025-06-06,Zimbabwe,Burkina Faso,0,2,Friendly,Mohammédia,Morocco,TRUE
+2025-06-06,Russia,Nigeria,1,1,Friendly,Moscow,Russia,FALSE
 2025-06-06,Colombia,Peru,0,0,FIFA World Cup qualification,Barranquilla,Colombia,FALSE
 2025-06-06,Venezuela,Bolivia,2,0,FIFA World Cup qualification,Maturín,Venezuela,FALSE
 2025-06-06,Norway,Italy,3,0,FIFA World Cup qualification,Oslo,Norway,FALSE
@@ -48315,3 +48316,4 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-06-10,Latvia,Albania,1,1,FIFA World Cup qualification,Riga,Latvia,FALSE
 2025-06-10,New Zealand,Ukraine,1,2,Canadian Shield,Toronto,Canada,TRUE
 2025-06-10,Canada,Ivory Coast,0,0,Canadian Shield,Toronto,Canada,FALSE
+2025-06-10,Belarus,Russia,1,4,Friendly,Minsk,Belarus,FALSE
