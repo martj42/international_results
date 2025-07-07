@@ -48334,3 +48334,34 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-06-10,New Zealand,Ukraine,1,2,Canadian Shield,Toronto,Canada,TRUE
 2025-06-10,Canada,Ivory Coast,0,0,Canadian Shield,Toronto,Canada,FALSE
 2025-06-10,Belarus,Russia,1,4,Friendly,Minsk,Belarus,FALSE
+2025-06-14,Mexico,Dominican Republic,3,2,Gold Cup,Inglewood,United States,TRUE
+2025-06-15,Costa Rica,Suriname,4,3,Gold Cup,San Diego,United States,TRUE
+2025-06-15,United States,Trinidad and Tobago,5,0,Gold Cup,San Jose,United States,FALSE
+2025-06-15,Haiti,Saudi Arabia,0,1,Gold Cup,San Diego,United States,TRUE
+2025-06-16,Panama,Guadeloupe,5,2,Gold Cup,Carson,United States,TRUE
+2025-06-16,Jamaica,Guatemala,0,1,Gold Cup,Carson,United States,TRUE
+2025-06-17,Curaçao,El Salvador,0,0,Gold Cup,San Jose,United States,TRUE
+2025-06-17,Canada,Honduras,6,0,Gold Cup,Vancouver,Canada,FALSE
+2025-06-18,Costa Rica,Dominican Republic,2,1,Gold Cup,Arlington,United States,TRUE
+2025-06-18,Suriname,Mexico,0,2,Gold Cup,Arlington,United States,TRUE
+2025-06-19,Trinidad and Tobago,Haiti,1,1,Gold Cup,Houston,United States,TRUE
+2025-06-19,United States,Saudi Arabia,1,0,Gold Cup,Austin,United States,FALSE
+2025-06-20,Jamaica,Guadeloupe,2,1,Gold Cup,San Jose,United States,TRUE
+2025-06-20,Guatemala,Panama,0,1,Gold Cup,Austin,United States,TRUE
+2025-06-21,Curaçao,Canada,1,1,Gold Cup,Houston,United States,TRUE
+2025-06-21,Honduras,El Salvador,2,0,Gold Cup,Houston,United States,TRUE
+2025-06-22,Mexico,Costa Rica,0,0,Gold Cup,Paradise,United States,TRUE
+2025-06-22,Dominican Republic,Suriname,0,0,Gold Cup,Arlington,United States,TRUE
+2025-06-22,Saudi Arabia,Trinidad and Tobago,1,1,Gold Cup,Paradise,United States,TRUE
+2025-06-22,United States,Haiti,2,1,Gold Cup,Arlington,United States,FALSE
+2025-06-24,Honduras,Curaçao,2,1,Gold Cup,San Jose,United States,TRUE
+2025-06-24,Canada,El Salvador,2,0,Gold Cup,Houston,United States,TRUE
+2025-06-24,Panama,Jamaica,4,1,Gold Cup,Austin,United States,TRUE
+2025-06-24,Guadeloupe,Guatemala,2,3,Gold Cup,Houston,United States,TRUE
+2025-06-28,Panama,Honduras,1,1,Gold Cup,Glendale,United States,TRUE
+2025-06-28,Mexico,Saudi Arabia,2,0,Gold Cup,Glendale,United States,TRUE
+2025-06-29,Canada,Guatemala,1,1,Gold Cup,Minneapolis,United States,TRUE
+2025-06-29,United States,Costa Rica,2,2,Gold Cup,Minneapolis,United States,FALSE
+2025-07-02,United States,Guatemala,2,1,Gold Cup,St. Louis,United States,FALSE
+2025-07-02,Mexico,Honduras,1,0,Gold Cup,Santa Clara,United States,TRUE
+2025-07-06,United States,Mexico,1,2,Gold Cup,Houston,United States,FALSE
