@@ -47952,28 +47952,34 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-12-08,Hong Kong,Mongolia,3,0,EAFF Championship qualification,Hong Kong,Hong Kong,FALSE
 2024-12-09,Myanmar,Indonesia,0,1,ASEAN Championship,Yangon,Myanmar,FALSE
 2024-12-09,Laos,Vietnam,1,4,ASEAN Championship,Vientiane,Laos,FALSE
+2024-12-09,Solomon Islands,Vanuatu,4,1,MSG Prime Minister's Cup,Honiara,Solomon Islands,FALSE
 2024-12-11,Singapore,Cambodia,2,1,ASEAN Championship,Singapore,Singapore,FALSE
 2024-12-11,Malaysia,Timor-Leste,3,2,ASEAN Championship,Kuala Lumpur,Malaysia,FALSE
 2024-12-11,Taiwan,Mongolia,4,0,EAFF Championship qualification,Hong Kong,Hong Kong,TRUE
 2024-12-12,Philippines,Myanmar,1,1,ASEAN Championship,Manila,Philippines,FALSE
 2024-12-12,Indonesia,Laos,3,3,ASEAN Championship,Surakarta,Indonesia,FALSE
+2024-12-12,Fiji,Vanuatu,1,1,MSG Prime Minister's Cup,Honiara,Solomon Islands,TRUE
 2024-12-14,Timor-Leste,Singapore,0,3,ASEAN Championship,Hanoi,Vietnam,TRUE
 2024-12-14,Thailand,Malaysia,1,0,ASEAN Championship,Bangkok,Thailand,FALSE
 2024-12-14,Macau,Guam,1,2,EAFF Championship qualification,Hong Kong,Hong Kong,TRUE
 2024-12-14,Hong Kong,Taiwan,2,1,EAFF Championship qualification,Hong Kong,Hong Kong,FALSE
 2024-12-15,Laos,Philippines,1,1,ASEAN Championship,Vientiane,Laos,FALSE
 2024-12-15,Vietnam,Indonesia,1,0,ASEAN Championship,Việt Trì,Vietnam,FALSE
+2024-12-15,Papua New Guinea,Fiji,1,1,MSG Prime Minister's Cup,Honiara,Solomon Islands,TRUE
 2024-12-17,Cambodia,Timor-Leste,2,1,ASEAN Championship,Phnom Penh,Cambodia,FALSE
 2024-12-17,Singapore,Thailand,2,4,ASEAN Championship,Singapore,Singapore,FALSE
 2024-12-17,Hong Kong,Guam,5,0,EAFF Championship qualification,Hong Kong,Hong Kong,FALSE
 2024-12-18,Myanmar,Laos,3,2,ASEAN Championship,Yangon,Myanmar,FALSE
 2024-12-18,Philippines,Vietnam,1,1,ASEAN Championship,Manila,Philippines,FALSE
+2024-12-18,Solomon Islands,Papua New Guinea,2,3,MSG Prime Minister's Cup,Honiara,Solomon Islands,FALSE
 2024-12-20,Thailand,Cambodia,3,2,ASEAN Championship,Bangkok,Thailand,FALSE
 2024-12-20,Malaysia,Singapore,0,0,ASEAN Championship,Kuala Lumpur,Malaysia,FALSE
 2024-12-21,Vietnam,Myanmar,5,0,ASEAN Championship,Việt Trì,Vietnam,FALSE
 2024-12-21,Indonesia,Philippines,0,1,ASEAN Championship,Surakarta,Indonesia,FALSE
 2024-12-21,Kuwait,Oman,1,1,Gulf Cup,Kuwait City,Kuwait,FALSE
 2024-12-21,Qatar,United Arab Emirates,1,1,Gulf Cup,Sulaibikhat,Kuwait,TRUE
+2024-12-21,Vanuatu,Papua New Guinea,1,2,MSG Prime Minister's Cup,Honiara,Solomon Islands,TRUE
+2024-12-21,Solomon Islands,Fiji,1,3,MSG Prime Minister's Cup,Honiara,Solomon Islands,FALSE
 2024-12-22,Iraq,Yemen,1,0,Gulf Cup,Sulaibikhat,Kuwait,TRUE
 2024-12-22,Saudi Arabia,Bahrain,2,3,Gulf Cup,Kuwait City,Kuwait,TRUE
 2024-12-24,Oman,Qatar,2,1,Gulf Cup,Sulaibikhat,Kuwait,TRUE
@@ -48567,11 +48573,23 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-10-09,Cyprus,Bosnia and Herzegovina,2,2,FIFA World Cup qualification,Larnaca,Cyprus,FALSE
 2025-10-09,Faroe Islands,Montenegro,4,0,FIFA World Cup qualification,Tórshavn,Faroe Islands,FALSE
 2025-10-09,Czech Republic,Croatia,0,0,FIFA World Cup qualification,Prague,Czech Republic,FALSE
+2025-10-09,Tajikistan,Maldives,2,0,AFC Asian Cup qualification,Hisor,Tajikistan,FALSE
+2025-10-09,Timor-Leste,Philippines,1,4,AFC Asian Cup qualification,Darwin,Australia,TRUE
+2025-10-09,Brunei,Yemen,0,2,AFC Asian Cup qualification,Bandar Seri Begawan,Brunei,FALSE
+2025-10-09,Lebanon,Bhutan,2,0,AFC Asian Cup qualification,Doha,Qatar,TRUE
+2025-10-09,Singapore,India,1,1,AFC Asian Cup qualification,Kallang,Singapore,FALSE
+2025-10-09,Bangladesh,Hong Kong,3,4,AFC Asian Cup qualification,Dhaka,Bangladesh,FALSE
+2025-10-09,Sri Lanka,Turkmenistan,1,0,AFC Asian Cup qualification,Colombo,Sri Lanka,FALSE
+2025-10-09,Thailand,Taiwan,2,0,AFC Asian Cup qualification,Bangkok,Thailand,FALSE
+2025-10-09,Pakistan,Afghanistan,0,0,AFC Asian Cup qualification,Islamabad,Pakistan,FALSE
+2025-10-09,Syria,Myanmar,5,1,AFC Asian Cup qualification,Al Hofuf,Saudi Arabia,TRUE
+2025-10-09,Laos,Malaysia,0,3,AFC Asian Cup qualification,Vientiane,Laos,FALSE
+2025-10-09,Vietnam,Nepal,3,1,AFC Asian Cup qualification,Ho Chi Minh City,Vietnam,FALSE
 2025-10-10,Argentina,Venezuela,1,0,Friendly,Miami Gardens,United States,TRUE
 2025-10-10,Chile,Peru,2,1,Friendly,Santiago,Chile,FALSE
 2025-10-10,Canada,Australia,0,1,Friendly,Montreal,Canada,FALSE
 2025-10-10,Russia,Iran,2,1,Friendly,Volgograd,Russia,FALSE
-2025-10-10,Japan,Paraguay,2,2,Friendly,Osaka,Japan,FALSE
+2025-10-10,Japan,Paraguay,2,2,Kirin Cup,Osaka,Japan,FALSE
 2025-10-10,Uzbekistan,Kuwait,2,0,Friendly,Tashkent,Uzbekistan,FALSE
 2025-10-10,Jordan,Bolivia,0,1,Friendly,Istanbul,Turkey,TRUE
 2025-10-10,South Korea,Brazil,0,5,Friendly,Seoul,South Korea,FALSE
@@ -48642,7 +48660,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-10-13,Wales,Belgium,2,4,FIFA World Cup qualification,Cardiff,Wales,FALSE
 2025-10-13,North Macedonia,Kazakhstan,1,1,FIFA World Cup qualification,Skopje,North Macedonia,FALSE
 2025-10-14,Albania,Jordan,4,2,Friendly,Tirana,Albania,FALSE
-2025-10-14,Japan,Brazil,3,2,Friendly,Tokyo,Japan,FALSE
+2025-10-14,Japan,Brazil,3,2,Kirin Cup,Tokyo,Japan,FALSE
 2025-10-14,Iran,Tanzania,2,0,Friendly,Dubai,United Arab Emirates,TRUE
 2025-10-14,Canada,Colombia,0,0,Friendly,Harrison,United States,TRUE
 2025-10-14,South Korea,Paraguay,2,0,Friendly,Seoul,South Korea,FALSE
@@ -48672,3 +48690,162 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-10-14,Italy,Israel,3,0,FIFA World Cup qualification,Udine,Italy,FALSE
 2025-10-14,Andorra,Serbia,1,3,FIFA World Cup qualification,Encamp,Andorra,FALSE
 2025-10-14,Latvia,England,0,5,FIFA World Cup qualification,Riga,Latvia,FALSE
+2025-10-14,Maldives,Tajikistan,0,3,AFC Asian Cup qualification,Malé,Maldives,FALSE
+2025-10-14,Philippines,Timor-Leste,3,1,AFC Asian Cup qualification,Capas,Philippines,FALSE
+2025-10-14,Bhutan,Lebanon,0,4,AFC Asian Cup qualification,Al Wakrah,Qatar,TRUE
+2025-10-14,Yemen,Brunei,9,0,AFC Asian Cup qualification,Kuwait City,Kuwait,TRUE
+2025-10-14,India,Singapore,1,2,AFC Asian Cup qualification,Margao,India,FALSE
+2025-10-14,Hong Kong,Bangladesh,1,1,AFC Asian Cup qualification,Kowloon,Hong Kong,FALSE
+2025-10-14,Taiwan,Thailand,1,6,AFC Asian Cup qualification,Taipei,Taiwan,FALSE
+2025-10-14,Turkmenistan,Sri Lanka,2,1,AFC Asian Cup qualification,Arkadag,Turkmenistan,FALSE
+2025-10-14,Myanmar,Syria,0,3,AFC Asian Cup qualification,Yangon,Myanmar,FALSE
+2025-10-14,Afghanistan,Pakistan,1,1,AFC Asian Cup qualification,Al Farwaniyah,Kuwait,TRUE
+2025-10-14,Vietnam,Nepal,1,0,AFC Asian Cup qualification,Ho Chi Minh City,Vietnam,FALSE
+2025-10-14,Malaysia,Laos,5,1,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,FALSE
+2025-11-12,Tunisia,Mauritania,1,1,Friendly,Radès,Tunisia,FALSE
+2025-11-12,Russia,Peru,1,1,Friendly,Saint Petersburg,Russia,FALSE
+2025-11-12,Cuba,Saint Lucia,3,0,CONCACAF Series,Santiago de los Caballeros,Dominican Republic,TRUE
+2025-11-12,Dominican Republic,Saint Vincent and the Grenadines,2,0,CONCACAF Series,Santiago de los Caballeros,Dominican Republic,FALSE
+2025-11-12,Dominica,Saint Martin,1,2,CONCACAF Series,Basseterre,Saint Kitts and Nevis,TRUE
+2025-11-12,Saint Kitts and Nevis,Sint Maarten,0,0,CONCACAF Series,Basseterre,Saint Kitts and Nevis,FALSE
+2025-11-12,Barbados,Bonaire,3,2,CONCACAF Series,North Sound,Antigua and Barbuda,TRUE
+2025-11-12,Antigua and Barbuda,Aruba,0,0,CONCACAF Series,North Sound,Antigua and Barbuda,FALSE
+2025-11-12,Bahamas,Anguilla,1,2,CONCACAF Series,George Town,Cayman Islands,TRUE
+2025-11-12,Cayman Islands,British Virgin Islands,1,2,CONCACAF Series,George Town,Cayman Islands,FALSE
+2025-11-13,Algeria,Zimbabwe,3,1,Friendly,Jeddah,Saudi Arabia,TRUE
+2025-11-13,Bangladesh,Nepal,2,2,Friendly,Dhaka,Bangladesh,FALSE
+2025-11-13,Canada,Ecuador,0,0,Friendly,Toronto,Canada,FALSE
+2025-11-13,Czech Republic,San Marino,1,0,Friendly,Karviná,Czech Republic,FALSE
+2025-11-13,Hong Kong,Cambodia,1,1,Friendly,Hong Kong,Hong Kong,FALSE
+2025-11-13,Lithuania,Israel,0,0,Friendly,Kaunas,Lithuania,FALSE
+2025-11-13,North Macedonia,Latvia,0,0,Friendly,Skopje,North Macedonia,FALSE
+2025-11-13,Thailand,Singapore,3,2,Friendly,Pathum Thani,Thailand,FALSE
+2025-11-13,United Arab Emirates,Iraq,1,1,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,FALSE
+2025-11-13,Cameroon,DR Congo,0,1,FIFA World Cup qualification,Rabat,Morocco,TRUE
+2025-11-13,Nigeria,Gabon,4,1,FIFA World Cup qualification,Rabat,Morocco,TRUE
+2025-11-13,France,Ukraine,4,0,FIFA World Cup qualification,Paris,France,FALSE
+2025-11-13,Azerbaijan,Iceland,0,2,FIFA World Cup qualification,Baku,Azerbaijan,FALSE
+2025-11-13,Republic of Ireland,Portugal,2,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2025-11-13,Armenia,Hungary,0,1,FIFA World Cup qualification,Yerevan,Armenia,FALSE
+2025-11-13,Norway,Estonia,4,1,FIFA World Cup qualification,Oslo,Norway,FALSE
+2025-11-13,Moldova,Italy,0,2,FIFA World Cup qualification,Chișinău,Moldova,FALSE
+2025-11-13,England,Serbia,2,0,FIFA World Cup qualification,London,England,FALSE
+2025-11-13,Andorra,Albania,0,1,FIFA World Cup qualification,Encamp,Andorra,FALSE
+2025-11-13,Iran,Cape Verde,0,0,Al Ain International Cup,Al Ain,United Arab Emirates,TRUE
+2025-11-14,Angola,Argentina,0,2,Friendly,Luanda,Angola,FALSE
+2025-11-14,Australia,Venezuela,0,1,Friendly,Houston,United States,TRUE
+2025-11-14,South Korea,Bolivia,2,0,Friendly,Daejeon,South Korea,FALSE
+2025-11-14,Morocco,Mozambique,1,0,Friendly,Tangier,Morocco,FALSE
+2025-11-14,Oman,Sudan,2,0,Friendly,Seeb,Oman,FALSE
+2025-11-14,Comoros,Namibia,1,0,Friendly,Iconi,Comoros,FALSE
+2025-11-14,Uganda,Chad,2,1,Friendly,Berrechid,Morocco,TRUE
+2025-11-14,Burkina Faso,Niger,3,2,Friendly,Mohammedia,Morocco,TRUE
+2025-11-14,Japan,Ghana,2,0,Kirin Cup,Toyota,Japan,FALSE
+2025-11-14,Saudi Arabia,Ivory Coast,1,0,Friendly,Jeddah,Saudi Arabia,FALSE
+2025-11-14,Tunisia,Jordan,3,2,Friendly,Radès,Tunisia,FALSE
+2025-11-14,Luxembourg,Germany,0,2,FIFA World Cup qualification,Luxembourg,Luxembourg,FALSE
+2025-11-14,Slovakia,Northern Ireland,1,0,FIFA World Cup qualification,Košice,Slovakia,FALSE
+2025-11-14,Finland,Malta,0,1,FIFA World Cup qualification,Helsinki,Finland,FALSE
+2025-11-14,Poland,Netherlands,1,1,FIFA World Cup qualification,Warsaw,Poland,FALSE
+2025-11-14,Croatia,Faroe Islands,3,1,FIFA World Cup qualification,Rijeka,Croatia,FALSE
+2025-11-14,Gibraltar,Montenegro,1,2,FIFA World Cup qualification,Gibraltar,Gibraltar,FALSE
+2025-11-14,Uzbekistan,Egypt,2,0,Al Ain International Cup,Al Ain,United Arab Emirates,TRUE
+2025-11-15,Russia,Chile,0,2,Friendly,Sochi,Russia,FALSE
+2025-11-15,Libya,Mauritania,1,0,Friendly,Benina,Libya,FALSE
+2025-11-15,Kuwait,Tanzania,4,3,Friendly,Cairo,Egypt,TRUE
+2025-11-15,Lesotho,Malawi,0,0,Friendly,Bloemfontein,South Africa,TRUE
+2025-11-15,Guinea,Liberia,2,0,Friendly,Casablanca,Morocco,TRUE
+2025-11-15,Brazil,Senegal,2,0,Friendly,London,England,TRUE
+2025-11-15,Colombia,New Zealand,2,1,Friendly,Fort Lauderdale,United States,TRUE
+2025-11-15,Mexico,Uruguay,0,0,Friendly,Torreón,Mexico,FALSE
+2025-11-15,South Africa,Zambia,3,1,Friendly,Gqeberha,South Africa,FALSE
+2025-11-15,United States,Paraguay,2,1,Friendly,Chester,United States,FALSE
+2025-11-15,Slovenia,Kosovo,0,2,FIFA World Cup qualification,Ljubljana,Slovenia,FALSE
+2025-11-15,Switzerland,Sweden,4,1,FIFA World Cup qualification,Geneva,Switzerland,FALSE
+2025-11-15,Denmark,Belarus,2,2,FIFA World Cup qualification,Copenhagen,Denmark,FALSE
+2025-11-15,Greece,Scotland,3,2,FIFA World Cup qualification,Piraeus,Greece,FALSE
+2025-11-15,Turkey,Bulgaria,2,0,FIFA World Cup qualification,Bursa,Turkey,FALSE
+2025-11-15,Georgia,Spain,0,4,FIFA World Cup qualification,Tbilisi,Georgia,FALSE
+2025-11-15,Cyprus,Austria,0,2,FIFA World Cup qualification,Limassol,Cyprus,FALSE
+2025-11-15,Bosnia and Herzegovina,Romania,3,1,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,FALSE
+2025-11-15,Liechtenstein,Wales,0,1,FIFA World Cup qualification,Vaduz,Liechtenstein,FALSE
+2025-11-15,Kazakhstan,Belgium,1,1,FIFA World Cup qualification,Astana,Kazakhstan,FALSE
+2025-11-15,Martinique,Cuba,0,2,CONCACAF Series,Santiago de los Caballeros,Dominican Republic,TRUE
+2025-11-15,Saint Vincent and the Grenadines,Saint Lucia,3,1,CONCACAF Series,Santiago de los Caballeros,Dominican Republic,TRUE
+2025-11-15,Dominica,Sint Maarten,2,3,CONCACAF Series,Basseterre,Saint Kitts and Nevis,TRUE
+2025-11-15,Saint Martin,Belize,0,1,CONCACAF Series,Basseterre,Saint Kitts and Nevis,TRUE
+2025-11-15,Barbados,Aruba,0,3,CONCACAF Series,North Sound,Antigua and Barbuda,TRUE
+2025-11-15,Guyana,Bonaire,2,1,CONCACAF Series,North Sound,Antigua and Barbuda,TRUE
+2025-11-15,Bahamas,British Virgin Islands,0,6,CONCACAF Series,George Town,Cayman Islands,TRUE
+2025-11-15,Cayman Islands,Anguilla,4,0,CONCACAF Series,George Town,Cayman Islands,FALSE
+2025-11-16,Nigeria,DR Congo,1,1,FIFA World Cup qualification,Rabat,Morocco,TRUE
+2025-11-16,Ukraine,Iceland,2,0,FIFA World Cup qualification,Warsaw,Poland,TRUE
+2025-11-16,Azerbaijan,France,1,3,FIFA World Cup qualification,Baku,Azerbaijan,FALSE
+2025-11-16,Portugal,Armenia,9,1,FIFA World Cup qualification,Porto,Portugal,FALSE
+2025-11-16,Hungary,Republic of Ireland,2,3,FIFA World Cup qualification,Budapest,Hungary,FALSE
+2025-11-16,Moldova,Israel,1,4,FIFA World Cup qualification,Chișinău,Moldova,FALSE
+2025-11-16,Italy,Norway,1,4,FIFA World Cup qualification,Milan,Italy,FALSE
+2025-11-16,Albania,England,0,2,FIFA World Cup qualification,Tirana,Albania,FALSE
+2025-11-16,Serbia,Latvia,2,1,FIFA World Cup qualification,Leskovac,Serbia,FALSE
+2025-11-17,Comoros,Namibia,4,0,Friendly,Iconi,Comoros,FALSE
+2025-11-17,Mozambique,Chad,2,2,Friendly,Berrechid,Morocco,TRUE
+2025-11-17,Madagascar,Equatorial Guinea,2,0,Friendly,Antalya,Turkey,TRUE
+2025-11-17,Finland,Andorra,4,0,Friendly,Tampere,Finland,FALSE
+2025-11-17,Qatar,Zimbabwe,1,2,Friendly,Ar-Rayyan,Qatar,FALSE
+2025-11-17,Bahrain,Somalia,1,2,Friendly,Riffa,Bahrain,FALSE
+2025-11-17,Northern Ireland,Luxembourg,1,0,FIFA World Cup qualification,Belfast,Northern Ireland,FALSE
+2025-11-17,Germany,Slovakia,6,0,FIFA World Cup qualification,Leipzig,Germany,FALSE
+2025-11-17,Malta,Poland,2,3,FIFA World Cup qualification,Ta' Qali,Malta,FALSE
+2025-11-17,Netherlands,Lithuania,4,0,FIFA World Cup qualification,Amsterdam,Netherlands,FALSE
+2025-11-17,Czech Republic,Gibraltar,6,0,FIFA World Cup qualification,Olomouc,Czech Republic,FALSE
+2025-11-17,Montenegro,Croatia,2,3,FIFA World Cup qualification,Podgorica,Montenegro,FALSE
+2025-11-17,Cape Verde,Egypt,1,1,Al Ain International Cup,Al Ain,United Arab Emirates,TRUE
+2025-11-17,Vanuatu,Fiji,2,0,MSG Prime Minister's Cup,Port Moresby,Papua New Guinea,TRUE
+2025-11-18,Angola,Zambia,3,2,Friendly,Luanda,Angola,FALSE
+2025-11-18,Morocco,Uganda,4,0,Friendly,Tangier,Morocco,FALSE
+2025-11-18,Oman,Ivory Coast,0,2,Friendly,Seeb,Oman,FALSE
+2025-11-18,Saudi Arabia,Algeria,0,2,Friendly,Jeddah,Saudi Arabia,FALSE
+2025-11-18,Guinea,Niger,1,1,Friendly,Mohammedia,Morocco,TRUE
+2025-11-18,Kenya,Senegal,0,8,Friendly,Antalya,Turkey,TRUE
+2025-11-18,Benin,Burkina Faso,0,3,Friendly,Mohammedia,Morocco,TRUE
+2025-11-18,Japan,Bolivia,3,0,Kirin Cup,Tokyo,Japan,FALSE
+2025-11-18,Mali,Jordan,3,2,Friendly,Radès,Tunisia,TRUE
+2025-11-18,Kuwait,Gambia,2,2,Friendly,Cairo,Egypt,TRUE
+2025-11-18,Lesotho,Malawi,0,1,Friendly,Bloemfontein,South Africa,TRUE
+2025-11-18,Maldives,Philippines,0,2,AFC Asian Cup qualification,Malé,Maldives,FALSE
+2025-11-18,Timor-Leste,Tajikistan,0,5,AFC Asian Cup qualification,Darwin,Australia,TRUE
+2025-11-18,Yemen,Bhutan,7,1,AFC Asian Cup qualification,Kuwait City,Kuwait,TRUE
+2025-11-18,Brunei,Lebanon,0,3,AFC Asian Cup qualification,Bandar Seri Begawan,Brunei,FALSE
+2025-11-18,Bangladesh,India,1,0,AFC Asian Cup qualification,Dhaka,Bangladesh,FALSE
+2025-11-18,Hong Kong,Singapore,1,2,AFC Asian Cup qualification,Kowloon,Hong Kong,FALSE
+2025-11-18,Sri Lanka,Thailand,0,4,AFC Asian Cup qualification,Colombo,Sri Lanka,FALSE
+2025-11-18,Turkmenistan,Taiwan,3,1,AFC Asian Cup qualification,Arkadag,Turkmenistan,FALSE
+2025-11-18,Pakistan,Syria,0,5,AFC Asian Cup qualification,Islamabad,Pakistan,FALSE
+2025-11-18,Malaysia,Nepal,1,0,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,FALSE
+2025-11-18,Brazil,Tunisia,1,1,Friendly,Lille,France,TRUE
+2025-11-18,Canada,Venezuela,2,0,Friendly,Fort Lauderdale,United States,TRUE
+2025-11-18,Chile,Peru,2,1,Friendly,Sochi,Russia,TRUE
+2025-11-18,Colombia,Australia,3,0,Friendly,New York,United States,TRUE
+2025-11-18,Cyprus,Estonia,2,4,Friendly,Limassol,Cyprus,FALSE
+2025-11-18,Ecuador,New Zealand,2,0,Friendly,Harrison,United States,TRUE
+2025-11-18,Faroe Islands,Kazakhstan,1,0,Friendly,Pula,Croatia,TRUE
+2025-11-18,South Korea,Ghana,1,0,Friendly,Seoul,South Korea,FALSE
+2025-11-18,Mexico,Paraguay,1,2,Friendly,San Antonio,United States,TRUE
+2025-11-18,United States,Uruguay,5,1,Friendly,Tampa,United States,FALSE
+2025-11-18,Iraq,United Arab Emirates,2,1,FIFA World Cup qualification,Basra,Iraq,FALSE
+2025-11-18,Kosovo,Switzerland,1,1,FIFA World Cup qualification,Pristina,Kosovo,FALSE
+2025-11-18,Sweden,Slovenia,1,1,FIFA World Cup qualification,Solna,Sweden,FALSE
+2025-11-18,Scotland,Denmark,4,2,FIFA World Cup qualification,Glasgow,Scotland,FALSE
+2025-11-18,Belarus,Greece,0,0,FIFA World Cup qualification,Zalaegerszeg,Hungary,TRUE
+2025-11-18,Spain,Turkey,2,2,FIFA World Cup qualification,Seville,Spain,FALSE
+2025-11-18,Bulgaria,Georgia,2,1,FIFA World Cup qualification,Sofia,Bulgaria,FALSE
+2025-11-18,Austria,Bosnia and Herzegovina,1,1,FIFA World Cup qualification,Vienna,Austria,FALSE
+2025-11-18,Romania,San Marino,7,1,FIFA World Cup qualification,Ploiești,Romania,FALSE
+2025-11-18,Wales,North Macedonia,7,1,FIFA World Cup qualification,Cardiff,Wales,FALSE
+2025-11-18,Belgium,Liechtenstein,7,0,FIFA World Cup qualification,Liège,Belgium,FALSE
+2025-11-18,Dominican Republic,Martinique,0,0,CONCACAF Series,Santiago de los Caballeros,Dominican Republic,FALSE
+2025-11-18,Saint Kitts and Nevis,Belize,2,6,CONCACAF Series,Basseterre,Saint Kitts and Nevis,FALSE
+2025-11-18,Antigua and Barbuda,Guyana,1,4,CONCACAF Series,North Sound,Antigua and Barbuda,FALSE
+2025-11-18,Iran,Uzbekistan,0,0,Al Ain International Cup,Al Ain,United Arab Emirates,TRUE
+2025-11-19,Laos,Vietnam,0,2,AFC Asian Cup qualification,Vientiane,Laos,FALSE
+2025-11-20,Vanuatu,Solomon Islands,NA,NA,MSG Prime Minister's Cup,Port Moresby,Papua New Guinea,TRUE
