@@ -16358,18 +16358,18 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1988-10-19,Russia,Austria,2,0,FIFA World Cup qualification,Kyiv,Soviet Union,TRUE
 1988-10-19,Scotland,Yugoslavia,1,1,FIFA World Cup qualification,Glasgow,Scotland,FALSE
 1988-10-19,Wales,Finland,2,2,FIFA World Cup qualification,Swansea,Wales,FALSE
-1988-10-21,Solomon Islands,Fiji,1,1,Friendly,Honiara,Solomon Islands,FALSE
+1988-10-21,Solomon Islands,Fiji,1,1,Melanesia Cup,Honiara,Solomon Islands,FALSE
 1988-10-22,Cyprus,France,1,1,FIFA World Cup qualification,Nicosia,Cyprus,FALSE
 1988-10-23,Burkina Faso,Gabon,1,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,FALSE
-1988-10-23,New Caledonia,Vanuatu,6,1,Friendly,Honiara,Solomon Islands,TRUE
-1988-10-24,Fiji,Vanuatu,8,0,Friendly,Honiara,Solomon Islands,TRUE
-1988-10-24,Solomon Islands,New Caledonia,1,0,Friendly,Honiara,Solomon Islands,FALSE
+1988-10-23,New Caledonia,Vanuatu,6,1,Melanesia Cup,Honiara,Solomon Islands,TRUE
+1988-10-24,Fiji,Vanuatu,8,0,Melanesia Cup,Honiara,Solomon Islands,TRUE
+1988-10-24,Solomon Islands,New Caledonia,1,0,Melanesia Cup,Honiara,Solomon Islands,FALSE
 1988-10-25,Chile,Peru,2,0,Copa del Pacífico,Arica,Chile,FALSE
-1988-10-25,Fiji,New Caledonia,2,0,Friendly,Honiara,Solomon Islands,TRUE
-1988-10-25,Solomon Islands,Vanuatu,5,0,Friendly,Honiara,Solomon Islands,FALSE
+1988-10-25,Fiji,New Caledonia,2,0,Melanesia Cup,Honiara,Solomon Islands,TRUE
+1988-10-25,Solomon Islands,Vanuatu,5,0,Melanesia Cup,Honiara,Solomon Islands,FALSE
 1988-10-26,Japan,South Korea,0,1,Friendly,Tokyo,Japan,FALSE
-1988-10-26,New Caledonia,Vanuatu,0,1,Friendly,Honiara,Solomon Islands,TRUE
-1988-10-26,Solomon Islands,Fiji,1,3,Friendly,Honiara,Solomon Islands,FALSE
+1988-10-26,New Caledonia,Vanuatu,0,1,Melanesia Cup,Honiara,Solomon Islands,TRUE
+1988-10-26,Solomon Islands,Fiji,1,3,Melanesia Cup,Honiara,Solomon Islands,FALSE
 1988-10-29,Algeria,Angola,1,1,Friendly,Mascara,Algeria,FALSE
 1988-10-30,Trinidad and Tobago,Honduras,0,0,CONCACAF Championship qualification,Port of Spain,Trinidad and Tobago,FALSE
 1988-11-01,Chile,Uruguay,1,1,Copa Juan Pinto Durán,Concepción,Chile,FALSE
@@ -17028,29 +17028,29 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1989-10-26,India,Nepal,2,1,South Asian Games,Islamabad,Pakistan,TRUE
 1989-10-26,Pakistan,Bangladesh,1,0,South Asian Games,Islamabad,Pakistan,FALSE
 1989-10-28,Cyprus,Yugoslavia,1,2,FIFA World Cup qualification,Athens,Greece,TRUE
-1989-10-28,Fiji,Papua New Guinea,2,1,Friendly,Suva,Fiji,FALSE
+1989-10-28,Fiji,Papua New Guinea,2,1,Melanesia Cup,Suva,Fiji,FALSE
 1989-10-28,Qatar,China PR,2,1,FIFA World Cup qualification,Singapore,Singapore,TRUE
 1989-10-28,Saudi Arabia,North Korea,2,0,FIFA World Cup qualification,Guangzhou,China PR,TRUE
-1989-10-28,Solomon Islands,Vanuatu,2,0,Friendly,Suva,Fiji,TRUE
+1989-10-28,Solomon Islands,Vanuatu,2,0,Melanesia Cup,Suva,Fiji,TRUE
 1989-10-28,United Arab Emirates,South Korea,1,1,FIFA World Cup qualification,Kuala Lumpur,Malaysia,TRUE
-1989-10-30,Fiji,Vanuatu,2,1,Friendly,Suva,Fiji,FALSE
+1989-10-30,Fiji,Vanuatu,2,1,Melanesia Cup,Suva,Fiji,FALSE
 1989-10-30,Israel,Colombia,0,0,FIFA World Cup qualification,Ramat Gan,Israel,FALSE
 1989-10-30,Kuwait,Lebanon,5,0,Friendly,Kuwait City,Kuwait,FALSE
-1989-10-30,New Caledonia,Solomon Islands,2,0,Friendly,Suva,Fiji,TRUE
-1989-10-31,Fiji,New Caledonia,3,0,Friendly,Suva,Fiji,FALSE
+1989-10-30,New Caledonia,Solomon Islands,2,0,Melanesia Cup,Suva,Fiji,TRUE
+1989-10-31,Fiji,New Caledonia,3,0,Melanesia Cup,Suva,Fiji,FALSE
 1989-10-31,Guinea,Iraq,1,0,Friendly,Kuwait City,Kuwait,TRUE
-1989-10-31,Papua New Guinea,Vanuatu,3,0,Friendly,Suva,Fiji,TRUE
+1989-10-31,Papua New Guinea,Vanuatu,3,0,Melanesia Cup,Suva,Fiji,TRUE
 1989-11-01,Iran,Yemen DPR,2,0,Friendly,Kuwait City,Kuwait,TRUE
 1989-11-01,Tunisia,Algeria,0,0,Friendly,Tunis,Tunisia,FALSE
 1989-11-02,Lebanon,Uganda,0,2,Friendly,Kuwait City,Kuwait,TRUE
 1989-11-03,Guinea,Iran,1,1,Friendly,Kuwait City,Kuwait,TRUE
 1989-11-03,Iraq,Yemen DPR,6,2,Friendly,Kuwait City,Kuwait,TRUE
-1989-11-03,New Caledonia,Vanuatu,5,1,Friendly,Ba,Fiji,TRUE
-1989-11-03,Papua New Guinea,Solomon Islands,0,0,Friendly,Suva,Fiji,TRUE
+1989-11-03,New Caledonia,Vanuatu,5,1,Melanesia Cup,Ba,Fiji,TRUE
+1989-11-03,Papua New Guinea,Solomon Islands,0,0,Melanesia Cup,Suva,Fiji,TRUE
 1989-11-03,Qatar,Egypt,0,2,Friendly,Doha,Qatar,FALSE
-1989-11-04,Fiji,Solomon Islands,0,0,Friendly,Suva,Fiji,FALSE
+1989-11-04,Fiji,Solomon Islands,0,0,Melanesia Cup,Suva,Fiji,FALSE
 1989-11-04,Kuwait,Uganda,1,1,Friendly,Kuwait City,Kuwait,FALSE
-1989-11-04,New Caledonia,Papua New Guinea,2,1,Friendly,Suva,Fiji,TRUE
+1989-11-04,New Caledonia,Papua New Guinea,2,1,Melanesia Cup,Suva,Fiji,TRUE
 1989-11-05,Guinea,Yemen DPR,0,1,Friendly,Kuwait City,Kuwait,TRUE
 1989-11-05,Iran,Iraq,0,0,Friendly,Kuwait City,Kuwait,TRUE
 1989-11-05,United States,El Salvador,0,0,CONCACAF Championship,St. Louis,United States,FALSE
@@ -17525,19 +17525,19 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1990-10-31,Luxembourg,Germany,2,3,UEFA Euro qualification,Luxembourg,Luxembourg,FALSE
 1990-10-31,Norway,Cameroon,6,1,Friendly,Oslo,Norway,FALSE
 1990-10-31,Yugoslavia,Austria,4,1,UEFA Euro qualification,Belgrade,Yugoslavia,FALSE
-1990-11-01,Fiji,Solomon Islands,0,0,Friendly,Port Vila,Vanuatu,TRUE
-1990-11-01,Vanuatu,New Caledonia,1,0,Friendly,Port Vila,Vanuatu,FALSE
+1990-11-01,Fiji,Solomon Islands,0,0,Melanesia Cup,Nouméa,New Caledonia,TRUE
+1990-11-01,New Caledonia,Vanuatu,0,1,Melanesia Cup,Nouméa,New Caledonia,FALSE
+1990-11-03,Solomon Islands,Vanuatu,1,1,Melanesia Cup,Nouméa,New Caledonia,TRUE
+1990-11-03,New Caledonia,Papua New Guinea,2,1,Melanesia Cup,Nouméa,New Caledonia,FALSE
 1990-11-03,Italy,Russia,0,0,UEFA Euro qualification,Rome,Italy,FALSE
-1990-11-03,New Caledonia,Papua New Guinea,2,1,Friendly,Port Vila,Vanuatu,TRUE
-1990-11-03,Vanuatu,Solomon Islands,1,1,Friendly,Port Vila,Vanuatu,FALSE
-1990-11-05,New Caledonia,Fiji,0,0,Friendly,Port Vila,Vanuatu,TRUE
-1990-11-05,Vanuatu,Papua New Guinea,1,0,Friendly,Port Vila,Vanuatu,FALSE
-1990-11-06,Solomon Islands,Papua New Guinea,1,0,Friendly,Port Vila,Vanuatu,TRUE
-1990-11-06,Vanuatu,Fiji,1,1,Friendly,Port Vila,Vanuatu,FALSE
+1990-11-05,New Caledonia,Fiji,0,0,Melanesia Cup,Nouméa,New Caledonia,FALSE
+1990-11-05,Papua New Guinea,Vanuatu,0,1,Melanesia Cup,Nouméa,New Caledonia,TRUE
+1990-11-06,Vanuatu,Fiji,1,1,Melanesia Cup,La Foa,New Caledonia,TRUE
+1990-11-06,Solomon Islands,Papua New Guinea,1,0,Melanesia Cup,Koné,New Caledonia,TRUE
 1990-11-07,Tunisia,Norway,1,3,Friendly,Bizerte,Tunisia,FALSE
+1990-11-08,Papua New Guinea,Fiji,0,1,Melanesia Cup,Nouméa,New Caledonia,TRUE
+1990-11-08,New Caledonia,Solomon Islands,3,1,Melanesia Cup,Nouméa,New Caledonia,FALSE
 1990-11-08,Brazil,Chile,0,0,Friendly,Belém,Brazil,FALSE
-1990-11-08,Fiji,Papua New Guinea,1,0,Friendly,Port Vila,Vanuatu,TRUE
-1990-11-08,New Caledonia,Solomon Islands,3,1,Friendly,Port Vila,Vanuatu,TRUE
 1990-11-09,Angola,Mozambique,4,2,Friendly,Luanda,Angola,FALSE
 1990-11-10,Congo,Mozambique,1,0,Friendly,Luanda,Angola,TRUE
 1990-11-11,Angola,Congo,1,0,Friendly,Luanda,Angola,FALSE
@@ -18366,16 +18366,16 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1992-07-22,Cameroon,Egypt,0,1,Friendly,Yaoundé,Cameroon,FALSE
 1992-07-22,New Caledonia,Tahiti,1,2,Friendly,Nouméa,New Caledonia,FALSE
 1992-07-23,El Salvador,Nicaragua,5,1,FIFA World Cup qualification,San Salvador,El Salvador,FALSE
-1992-07-25,Fiji,Solomon Islands,2,1,Friendly,Port Vila,Vanuatu,TRUE
-1992-07-25,Vanuatu,New Caledonia,0,1,Friendly,Port Vila,Vanuatu,FALSE
+1992-07-25,Fiji,Solomon Islands,2,1,Melanesia Cup,Port Vila,Vanuatu,TRUE
+1992-07-25,Vanuatu,New Caledonia,0,1,Melanesia Cup,Port Vila,Vanuatu,FALSE
 1992-07-26,El Salvador,Mexico,1,2,Friendly,San Salvador,El Salvador,FALSE
 1992-07-26,Honduras,Guatemala,2,0,FIFA World Cup qualification,Tegucigalpa,Honduras,FALSE
 1992-07-26,Ivory Coast,Egypt,2,0,Friendly,Abidjan,Ivory Coast,FALSE
-1992-07-27,Vanuatu,Solomon Islands,1,3,Friendly,Port Vila,Vanuatu,FALSE
-1992-07-28,Fiji,New Caledonia,2,2,Friendly,Port Vila,Vanuatu,TRUE
+1992-07-27,Vanuatu,Solomon Islands,1,3,Melanesia Cup,Port Vila,Vanuatu,FALSE
+1992-07-28,Fiji,New Caledonia,2,2,Melanesia Cup,Port Vila,Vanuatu,TRUE
 1992-07-28,Ivory Coast,Egypt,2,2,Friendly,Abidjan,Ivory Coast,FALSE
-1992-07-30,New Caledonia,Solomon Islands,1,0,Friendly,Port Vila,Vanuatu,TRUE
-1992-07-30,Vanuatu,Fiji,0,2,Friendly,Port Vila,Vanuatu,FALSE
+1992-07-30,New Caledonia,Solomon Islands,1,0,Melanesia Cup,Port Vila,Vanuatu,TRUE
+1992-07-30,Vanuatu,Fiji,0,2,Melanesia Cup,Port Vila,Vanuatu,FALSE
 1992-07-31,Brazil,Mexico,5,0,Friendly,Los Angeles,United States,TRUE
 1992-07-31,United States,Colombia,0,1,Friendly,Los Angeles,United States,FALSE
 1992-08-01,Lesotho,Namibia,2,0,Friendly,Maseru,Lesotho,FALSE
@@ -19798,23 +19798,23 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1994-07-01,Botswana,Namibia,0,1,Friendly,Gaborone,Botswana,FALSE
 1994-07-02,Germany,Belgium,3,2,FIFA World Cup,Chicago,United States,TRUE
 1994-07-02,Spain,Switzerland,3,0,FIFA World Cup,"Washington, D.C.",United States,TRUE
-1994-07-03,Papua New Guinea,New Caledonia,1,0,Oceania Nations Cup qualification,Honiara,Solomon Islands,TRUE
+1994-07-03,Papua New Guinea,New Caledonia,1,0,Melanesia Cup,Honiara,Solomon Islands,TRUE
 1994-07-03,Romania,Argentina,3,2,FIFA World Cup,Pasadena,United States,TRUE
 1994-07-03,Saudi Arabia,Sweden,1,3,FIFA World Cup,Dallas,United States,TRUE
-1994-07-04,Fiji,New Caledonia,3,1,Oceania Nations Cup qualification,Honiara,Solomon Islands,TRUE
+1994-07-04,Fiji,New Caledonia,3,1,Melanesia Cup,Honiara,Solomon Islands,TRUE
 1994-07-04,Netherlands,Republic of Ireland,2,0,FIFA World Cup,Orlando,United States,TRUE
 1994-07-04,United States,Brazil,0,1,FIFA World Cup,Palo Alto,United States,FALSE
 1994-07-05,Mexico,Bulgaria,1,1,FIFA World Cup,East Rutherford,United States,TRUE
 1994-07-05,Nigeria,Italy,1,2,FIFA World Cup,Foxborough,United States,TRUE
-1994-07-05,Solomon Islands,Papua New Guinea,2,0,Oceania Nations Cup qualification,Honiara,Solomon Islands,FALSE
-1994-07-05,Vanuatu,New Caledonia,2,3,Oceania Nations Cup qualification,Honiara,Solomon Islands,TRUE
-1994-07-06,Papua New Guinea,Fiji,0,1,Oceania Nations Cup qualification,Honiara,Solomon Islands,TRUE
-1994-07-06,Solomon Islands,Vanuatu,4,0,Oceania Nations Cup qualification,Honiara,Solomon Islands,FALSE
-1994-07-07,Solomon Islands,Fiji,1,0,Oceania Nations Cup qualification,Honiara,Solomon Islands,FALSE
-1994-07-07,Vanuatu,Papua New Guinea,1,1,Oceania Nations Cup qualification,Honiara,Solomon Islands,TRUE
+1994-07-05,Solomon Islands,Papua New Guinea,2,0,Melanesia Cup,Honiara,Solomon Islands,FALSE
+1994-07-05,Vanuatu,New Caledonia,2,3,Melanesia Cup,Honiara,Solomon Islands,TRUE
+1994-07-06,Papua New Guinea,Fiji,0,1,Melanesia Cup,Honiara,Solomon Islands,TRUE
+1994-07-06,Solomon Islands,Vanuatu,4,0,Melanesia Cup,Honiara,Solomon Islands,FALSE
+1994-07-07,Solomon Islands,Fiji,1,0,Melanesia Cup,Honiara,Solomon Islands,FALSE
+1994-07-07,Vanuatu,Papua New Guinea,1,1,Melanesia Cup,Honiara,Solomon Islands,TRUE
 1994-07-08,Japan,Ghana,3,2,Friendly,Nagoya,Japan,FALSE
-1994-07-08,Solomon Islands,New Caledonia,3,1,Oceania Nations Cup qualification,Honiara,Solomon Islands,FALSE
-1994-07-08,Vanuatu,Fiji,2,4,Oceania Nations Cup qualification,Honiara,Solomon Islands,TRUE
+1994-07-08,Solomon Islands,New Caledonia,3,1,Melanesia Cup,Honiara,Solomon Islands,FALSE
+1994-07-08,Vanuatu,Fiji,2,4,Melanesia Cup,Honiara,Solomon Islands,TRUE
 1994-07-09,Italy,Spain,2,1,FIFA World Cup,Foxborough,United States,TRUE
 1994-07-09,Netherlands,Brazil,2,3,FIFA World Cup,Dallas,United States,TRUE
 1994-07-10,Bulgaria,Germany,2,1,FIFA World Cup,East Rutherford,United States,TRUE
@@ -23021,7 +23021,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1998-09-05,Bosnia and Herzegovina,Estonia,1,1,UEFA Euro qualification,Sarajevo,Bosnia and Herzegovina,FALSE
 1998-09-05,Cook Islands,Tonga,2,2,Oceania Nations Cup qualification,Avarua,Cook Islands,FALSE
 1998-09-05,Cyprus,Spain,3,2,UEFA Euro qualification,Larnaca,Cyprus,FALSE
-1998-09-05,Fiji,New Caledonia,3,0,Oceania Nations Cup qualification,Luganville,Vanuatu,TRUE
+1998-09-05,Fiji,New Caledonia,3,0,Melanesia Cup,Luganville,Vanuatu,TRUE
 1998-09-05,Finland,Moldova,3,2,UEFA Euro qualification,Helsinki,Finland,FALSE
 1998-09-05,Georgia,Albania,1,0,UEFA Euro qualification,Tbilisi,Georgia,FALSE
 1998-09-05,Germany,Romania,1,1,Friendly,Attard,Malta,TRUE
@@ -23030,7 +23030,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1998-09-05,Republic of Ireland,Croatia,2,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
 1998-09-05,Lithuania,Scotland,0,0,UEFA Euro qualification,Vilnius,Lithuania,FALSE
 1998-09-05,Slovakia,Azerbaijan,3,0,UEFA Euro qualification,Košice,Slovakia,FALSE
-1998-09-05,Solomon Islands,Papua New Guinea,3,1,Oceania Nations Cup qualification,Luganville,Vanuatu,TRUE
+1998-09-05,Solomon Islands,Papua New Guinea,3,1,Melanesia Cup,Luganville,Vanuatu,TRUE
 1998-09-05,Sweden,England,2,1,UEFA Euro qualification,Solna,Sweden,FALSE
 1998-09-05,Tahiti,Samoa,5,1,Oceania Nations Cup qualification,Avarua,Cook Islands,TRUE
 1998-09-05,Turkey,Northern Ireland,3,0,UEFA Euro qualification,Istanbul,Turkey,FALSE
@@ -23045,22 +23045,22 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1998-09-06,Norway,Latvia,1,3,UEFA Euro qualification,Oslo,Norway,FALSE
 1998-09-06,Eswatini,Ghana,0,1,Friendly,Mbabane,Swaziland,FALSE
 1998-09-06,Togo,Benin,0,1,Friendly,Lomé,Togo,FALSE
-1998-09-07,Papua New Guinea,New Caledonia,1,0,Oceania Nations Cup qualification,Luganville,Vanuatu,TRUE
+1998-09-07,Papua New Guinea,New Caledonia,1,0,Melanesia Cup,Luganville,Vanuatu,TRUE
 1998-09-07,Samoa,Tonga,2,0,Oceania Nations Cup qualification,Avarua,Cook Islands,TRUE
 1998-09-07,Tahiti,American Samoa,12,0,Oceania Nations Cup qualification,Avarua,Cook Islands,TRUE
-1998-09-07,Vanuatu,Fiji,1,2,Oceania Nations Cup qualification,Luganville,Vanuatu,FALSE
+1998-09-07,Vanuatu,Fiji,1,2,Melanesia Cup,Luganville,Vanuatu,FALSE
 1998-09-08,Cook Islands,Tahiti,0,5,Oceania Nations Cup qualification,Avarua,Cook Islands,FALSE
 1998-09-08,Samoa,American Samoa,4,0,Oceania Nations Cup qualification,Avarua,Cook Islands,TRUE
-1998-09-08,Solomon Islands,New Caledonia,3,2,Oceania Nations Cup qualification,Luganville,Vanuatu,TRUE
-1998-09-08,Vanuatu,Papua New Guinea,1,1,Oceania Nations Cup qualification,Luganville,Vanuatu,FALSE
+1998-09-08,Solomon Islands,New Caledonia,3,2,Melanesia Cup,Luganville,Vanuatu,TRUE
+1998-09-08,Vanuatu,Papua New Guinea,1,1,Melanesia Cup,Luganville,Vanuatu,FALSE
 1998-09-09,Kuwait,Lebanon,0,0,Friendly,Kuwait City,Kuwait,FALSE
-1998-09-10,Fiji,Papua New Guinea,2,0,Oceania Nations Cup qualification,Luganville,Vanuatu,TRUE
-1998-09-10,Vanuatu,Solomon Islands,3,1,Oceania Nations Cup qualification,Luganville,Vanuatu,FALSE
+1998-09-10,Fiji,Papua New Guinea,2,0,Melanesia Cup,Luganville,Vanuatu,TRUE
+1998-09-10,Vanuatu,Solomon Islands,3,1,Melanesia Cup,Luganville,Vanuatu,FALSE
 1998-09-11,Saudi Arabia,Tanzania,8,0,Friendly,Dammam,Saudi Arabia,FALSE
-1998-09-12,Fiji,Solomon Islands,1,1,Oceania Nations Cup qualification,Luganville,Vanuatu,TRUE
+1998-09-12,Fiji,Solomon Islands,1,1,Melanesia Cup,Luganville,Vanuatu,TRUE
 1998-09-12,Namibia,Mozambique,2,1,COSAFA Cup,Windhoek,Namibia,FALSE
 1998-09-12,Syria,Oman,3,0,Friendly,Damascus,Syria,FALSE
-1998-09-12,Vanuatu,New Caledonia,3,2,Oceania Nations Cup qualification,Luganville,Vanuatu,FALSE
+1998-09-12,Vanuatu,New Caledonia,3,2,Melanesia Cup,Luganville,Vanuatu,FALSE
 1998-09-13,Bahrain,Libya,2,2,Friendly,Doha,Qatar,TRUE
 1998-09-13,Kuwait,North Korea,4,0,Friendly,Kuwait City,Kuwait,FALSE
 1998-09-14,Saudi Arabia,Sudan,2,1,Friendly,Dammam,Saudi Arabia,FALSE
@@ -24355,11 +24355,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2000-04-07,Mauritania,Tunisia,1,2,FIFA World Cup qualification,Nouakchott,Mauritania,FALSE
 2000-04-08,Central African Republic,Zimbabwe,0,1,FIFA World Cup qualification,Bangui,Central African Republic,FALSE
 2000-04-08,Botswana,Zambia,0,1,FIFA World Cup qualification,Gaborone,Botswana,FALSE
-2000-04-08,Fiji,Papua New Guinea,5,0,Oceania Nations Cup qualification,Suva,Fiji,FALSE
+2000-04-08,Fiji,Papua New Guinea,5,0,Melanesia Cup,Suva,Fiji,FALSE
 2000-04-08,Guinea-Bissau,Togo,0,0,FIFA World Cup qualification,Bissau,Guinea-Bissau,FALSE
 2000-04-08,Madagascar,Gabon,2,0,FIFA World Cup qualification,Antananarivo,Madagascar,FALSE
 2000-04-08,Malawi,Kenya,2,0,FIFA World Cup qualification,Blantyre,Malawi,FALSE
-2000-04-08,New Caledonia,Solomon Islands,4,2,Oceania Nations Cup qualification,Suva,Fiji,TRUE
+2000-04-08,New Caledonia,Solomon Islands,4,2,Melanesia Cup,Suva,Fiji,TRUE
 2000-04-08,Pakistan,Kazakhstan,0,4,AFC Asian Cup qualification,Doha,Qatar,TRUE
 2000-04-08,Qatar,Jordan,2,2,AFC Asian Cup qualification,Doha,Qatar,FALSE
 2000-04-08,São Tomé and Príncipe,Sierra Leone,2,0,FIFA World Cup qualification,São Tomé,São Tomé and Príncipe,FALSE
@@ -24384,20 +24384,20 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2000-04-09,Eswatini,Angola,0,1,FIFA World Cup qualification,Lobamba,Swaziland,FALSE
 2000-04-09,Syria,Maldives,2,1,AFC Asian Cup qualification,Tehran,Iran,TRUE
 2000-04-09,Egypt,Mauritius,2,0,FIFA World Cup qualification,Cairo,Egypt,FALSE
-2000-04-10,Fiji,New Caledonia,2,1,Oceania Nations Cup qualification,Suva,Fiji,FALSE
-2000-04-10,Solomon Islands,Vanuatu,2,1,Oceania Nations Cup qualification,Suva,Fiji,TRUE
+2000-04-10,Fiji,New Caledonia,2,1,Melanesia Cup,Suva,Fiji,FALSE
+2000-04-10,Solomon Islands,Vanuatu,2,1,Melanesia Cup,Suva,Fiji,TRUE
 2000-04-11,Bahrain,Maldives,1,0,AFC Asian Cup qualification,Tehran,Iran,TRUE
-2000-04-11,Fiji,Vanuatu,4,1,Oceania Nations Cup qualification,Suva,Fiji,FALSE
+2000-04-11,Fiji,Vanuatu,4,1,Melanesia Cup,Suva,Fiji,FALSE
 2000-04-11,Iran,Syria,1,1,AFC Asian Cup qualification,Tehran,Iran,FALSE
-2000-04-11,New Caledonia,Papua New Guinea,6,1,Oceania Nations Cup qualification,Suva,Fiji,TRUE
+2000-04-11,New Caledonia,Papua New Guinea,6,1,Melanesia Cup,Suva,Fiji,TRUE
 2000-04-12,Ethiopia,DR Congo,1,2,Friendly,Addis Ababa,Ethiopia,FALSE
 2000-04-13,Bahrain,Syria,0,1,AFC Asian Cup qualification,Tehran,Iran,TRUE
 2000-04-13,Iran,Maldives,3,0,AFC Asian Cup qualification,Tehran,Iran,FALSE
-2000-04-13,Solomon Islands,Papua New Guinea,4,2,Oceania Nations Cup qualification,Suva,Fiji,TRUE
-2000-04-13,Vanuatu,New Caledonia,6,0,Oceania Nations Cup qualification,Suva,Fiji,TRUE
-2000-04-15,Fiji,Solomon Islands,2,2,Oceania Nations Cup qualification,Suva,Fiji,FALSE
+2000-04-13,Solomon Islands,Papua New Guinea,4,2,Melanesia Cup,Suva,Fiji,TRUE
+2000-04-13,Vanuatu,New Caledonia,6,0,Melanesia Cup,Suva,Fiji,TRUE
+2000-04-15,Fiji,Solomon Islands,2,2,Melanesia Cup,Suva,Fiji,FALSE
 2000-04-15,Malawi,Mozambique,2,1,COSAFA Cup,Blantyre,Malawi,FALSE
-2000-04-15,Papua New Guinea,Vanuatu,1,4,Oceania Nations Cup qualification,Suva,Fiji,TRUE
+2000-04-15,Papua New Guinea,Vanuatu,1,4,Melanesia Cup,Suva,Fiji,TRUE
 2000-04-16,Antigua and Barbuda,Bermuda,0,0,FIFA World Cup qualification,St. John's,Antigua and Barbuda,FALSE
 2000-04-16,Bahamas,Haiti,0,4,FIFA World Cup qualification,Nassau,Bahamas,FALSE
 2000-04-16,Barbados,Aruba,4,0,FIFA World Cup qualification,Bridgetown,Barbados,FALSE
