@@ -48732,6 +48732,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-11-13,England,Serbia,2,0,FIFA World Cup qualification,London,England,FALSE
 2025-11-13,Andorra,Albania,0,1,FIFA World Cup qualification,Encamp,Andorra,FALSE
 2025-11-13,Iran,Cape Verde,0,0,Al Ain International Cup,Al Ain,United Arab Emirates,TRUE
+2025-11-13,Papua New Guinea,Solomon Islands,1,0,MSG Prime Minister's Cup,Port Moresby,Papua New Guinea,FALSE
 2025-11-14,Angola,Argentina,0,2,Friendly,Luanda,Angola,FALSE
 2025-11-14,Australia,Venezuela,0,1,Friendly,Houston,United States,TRUE
 2025-11-14,South Korea,Bolivia,2,0,Friendly,Daejeon,South Korea,FALSE
@@ -48848,4 +48849,37 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-11-18,Antigua and Barbuda,Guyana,1,4,CONCACAF Series,North Sound,Antigua and Barbuda,FALSE
 2025-11-18,Iran,Uzbekistan,0,0,Al Ain International Cup,Al Ain,United Arab Emirates,TRUE
 2025-11-19,Laos,Vietnam,0,2,AFC Asian Cup qualification,Vientiane,Laos,FALSE
-2025-11-20,Vanuatu,Solomon Islands,NA,NA,MSG Prime Minister's Cup,Port Moresby,Papua New Guinea,TRUE
+2025-11-20,Vanuatu,Solomon Islands,2,1,MSG Prime Minister's Cup,Port Moresby,Papua New Guinea,TRUE
+2025-11-20,Papua New Guinea,Fiji,2,0,MSG Prime Minister's Cup,Port Moresby,Papua New Guinea,FALSE
+2025-11-23,Papua New Guinea,Vanuatu,2,2,MSG Prime Minister's Cup,Port Moresby,Papua New Guinea,FALSE
+2025-12-01,Tunisia,Syria,0,1,Arab Cup,Al Rayyan,Qatar,TRUE
+2025-12-01,Qatar,Palestine,0,1,Arab Cup,Al Khor,Qatar,FALSE
+2025-12-02,Morocco,Comoros,3,1,Arab Cup,Al Rayyan,Qatar,TRUE
+2025-12-02,Saudi Arabia,Oman,2,1,Arab Cup,Al Rayyan,Qatar,TRUE
+2025-12-02,Egypt,Kuwait,1,1,Arab Cup,Lusail,Qatar,TRUE
+2025-12-03,Jordan,United Arab Emirates,2,1,Arab Cup,Al Khor,Qatar,TRUE
+2025-12-03,Algeria,Sudan,0,0,Arab Cup,Al Rayyan,Qatar,TRUE
+2025-12-03,Iraq,Bahrain,2,1,Arab Cup,Doha,Qatar,TRUE
+2025-12-04,Palestine,Tunisia,2,2,Arab Cup,Lusail,Qatar,TRUE
+2025-12-04,Qatar,Syria,1,1,Arab Cup,Al Rayyan,Qatar,FALSE
+2025-12-05,Oman,Morocco,0,0,Arab Cup,Al Rayyan,Qatar,TRUE
+2025-12-05,Comoros,Saudi Arabia,1,3,Arab Cup,Al Khor,Qatar,TRUE
+2025-12-06,Kuwait,Jordan,1,3,Arab Cup,Al Rayyan,Qatar,TRUE
+2025-12-06,United Arab Emirates,Egypt,1,1,Arab Cup,Lusail,Qatar,TRUE
+2025-12-06,Bahrain,Algeria,1,5,Arab Cup,Al Rayyan,Qatar,TRUE
+2025-12-06,Sudan,Iraq,0,2,Arab Cup,Doha,Qatar,TRUE
+2025-12-07,Qatar,Tunisia,0,3,Arab Cup,Al Khor,Qatar,FALSE
+2025-12-07,Syria,Palestine,0,0,Arab Cup,Al Rayyan,Qatar,TRUE
+2025-12-08,Morocco,Saudi Arabia,1,0,Arab Cup,Lusail,Qatar,TRUE
+2025-12-08,Oman,Comoros,2,1,Arab Cup,Doha,Qatar,TRUE
+2025-12-09,Egypt,Jordan,0,3,Arab Cup,Al Khor,Qatar,TRUE
+2025-12-09,United Arab Emirates,Kuwait,3,1,Arab Cup,Doha,Qatar,TRUE
+2025-12-09,Algeria,Iraq,2,0,Arab Cup,Al Rayyan,Qatar,TRUE
+2025-12-09,Bahrain,Sudan,3,1,Arab Cup,Al Rayyan,Qatar,TRUE
+2025-12-11,Morocco,Syria,1,0,Arab Cup,Al Rayyan,Qatar,TRUE
+2025-12-11,Palestine,Saudi Arabia,1,2,Arab Cup,Lusail,Qatar,TRUE
+2025-12-12,Jordan,Iraq,1,0,Arab Cup,Al Rayyan,Qatar,TRUE
+2025-12-12,Algeria,United Arab Emirates,1,1,Arab Cup,Al Khor,Qatar,TRUE
+2025-12-15,Morocco,United Arab Emirates,3,0,Arab Cup,Al Rayyan,Qatar,TRUE
+2025-12-15,Saudi Arabia,Jordan,0,1,Arab Cup,Al Khor,Qatar,TRUE
+2025-12-18,Jordan,Morocco,2,3,Arab Cup,Lusail,Qatar,TRUE
