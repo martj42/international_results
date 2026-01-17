@@ -5190,7 +5190,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1960-11-23,Bulgaria,Germany,2,1,Friendly,Sofia,Bulgaria,FALSE
 1960-11-23,England,Wales,5,1,British Home Championship,London,England,FALSE
 1960-11-27,Bulgaria,Turkey,2,1,Friendly,Sofia,Bulgaria,FALSE
-1960-11-27,Curaçao,Suriname,0,0,FIFA World Cup qualification,Willemstad,Curaçao,TRUE
+1960-11-27,Curaçao,Suriname,0,0,FIFA World Cup qualification,Willemstad,Curaçao,FALSE
 1960-11-27,Israel,Cyprus,6,1,FIFA World Cup qualification,Ramat Gan,Israel,FALSE
 1960-12-04,Ecuador,Argentina,3,6,FIFA World Cup qualification,Guayaquil,Ecuador,FALSE
 1960-12-04,Tunisia,German DR,0,3,Friendly,Tunis,Tunisia,FALSE
@@ -5250,7 +5250,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1961-04-19,Netherlands,Mexico,1,2,Friendly,Amsterdam,Netherlands,FALSE
 1961-04-19,Wales,Spain,1,2,FIFA World Cup qualification,Cardiff,Wales,FALSE
 1961-04-22,Sierra Leone,Nigeria,1,4,Friendly,Freetown,Sierra Leone,FALSE
-1961-04-23,Curaçao,Costa Rica,2,0,FIFA World Cup qualification,Willemstad,Curaçao,TRUE
+1961-04-23,Curaçao,Costa Rica,2,0,FIFA World Cup qualification,Willemstad,Curaçao,FALSE
 1961-04-25,Italy,Northern Ireland,3,2,Friendly,Bologna,Italy,FALSE
 1961-04-29,Czechoslovakia,Mexico,2,1,Friendly,Ostrava,Czechoslovakia,FALSE
 1961-04-30,Colombia,Peru,1,0,FIFA World Cup qualification,Bogotá,Colombia,FALSE
@@ -5275,7 +5275,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1961-05-17,Paraguay,Argentina,0,0,Friendly,Asunción,Paraguay,FALSE
 1961-05-18,Spain,Wales,1,1,FIFA World Cup qualification,Madrid,Spain,FALSE
 1961-05-20,Switzerland,Belgium,2,1,FIFA World Cup qualification,Lausanne,Switzerland,FALSE
-1961-05-21,Curaçao,Mexico,0,0,FIFA World Cup qualification,Willemstad,Curaçao,TRUE
+1961-05-21,Curaçao,Mexico,0,0,FIFA World Cup qualification,Willemstad,Curaçao,FALSE
 1961-05-21,Poland,Russia,1,0,Friendly,Warsaw,Poland,FALSE
 1961-05-21,Portugal,England,1,1,FIFA World Cup qualification,Oeiras,Portugal,FALSE
 1961-05-24,Italy,England,2,3,Friendly,Rome,Italy,FALSE
@@ -12540,7 +12540,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1980-11-25,Singapore,Western Australia,1,1,King's Cup,Bangkok,Thailand,TRUE
 1980-11-26,Costa Rica,Guatemala,0,3,CONCACAF Championship qualification,San José,Costa Rica,FALSE
 1980-11-28,Sudan,Tanzania,1,0,CECAFA Cup,Khartoum,Sudan,FALSE
-1980-11-29,Curaçao,Trinidad and Tobago,0,0,CONCACAF Championship qualification,Willemstad,Curaçao,TRUE
+1980-11-29,Curaçao,Trinidad and Tobago,0,0,CONCACAF Championship qualification,Willemstad,Curaçao,FALSE
 1980-11-30,Bolivia,Finland,3,0,Friendly,La Paz,Bolivia,FALSE
 1980-11-30,Congo,Angola,0,0,African Cup of Nations qualification,Brazzaville,Congo,FALSE
 1980-11-30,Guyana,Cuba,0,3,CONCACAF Championship qualification,Linden,Guyana,FALSE
@@ -12568,7 +12568,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1980-12-10,Kenya,Zambia,2,0,Friendly,Nakuru,Kenya,FALSE
 1980-12-11,Uruguay,Bolivia,5,0,Friendly,Maldonado,Uruguay,FALSE
 1980-12-12,Algeria,Sudan,2,0,FIFA World Cup qualification,Constantine,Algeria,FALSE
-1980-12-12,Curaçao,Haiti,1,1,CONCACAF Championship qualification,Willemstad,Curaçao,TRUE
+1980-12-12,Curaçao,Haiti,1,1,CONCACAF Championship qualification,Willemstad,Curaçao,FALSE
 1980-12-12,Kenya,Zambia,2,1,Friendly,Nairobi,Kenya,FALSE
 1980-12-12,Saudi Arabia,Indonesia,8,0,Friendly,Riyadh,Saudi Arabia,FALSE
 1980-12-14,Honduras,Panama,5,0,CONCACAF Championship qualification,Tegucigalpa,Honduras,FALSE
@@ -14316,7 +14316,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1984-09-26,Italy,Sweden,1,0,Friendly,Milan,Italy,FALSE
 1984-09-26,Poland,Turkey,2,0,Friendly,Słupsk,Poland,FALSE
 1984-09-26,Tunisia,Nigeria,5,0,Friendly,Tunis,Tunisia,FALSE
-1984-09-29,Curaçao,United States,0,0,CONCACAF Championship qualification,Willemstad,Curaçao,TRUE
+1984-09-29,Curaçao,United States,0,0,CONCACAF Championship qualification,Willemstad,Curaçao,FALSE
 1984-09-29,Yugoslavia,Bulgaria,0,0,FIFA World Cup qualification,Belgrade,Yugoslavia,FALSE
 1984-09-30,Botswana,Angola,1,3,Friendly,Gaborone,Botswana,FALSE
 1984-09-30,South Korea,Japan,1,2,Friendly,Seoul,South Korea,FALSE
@@ -16255,7 +16255,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1988-07-27,Mali,Niger,1,0,Tournament Burkina Faso,Ouagadougou,Burkina Faso,TRUE
 1988-07-28,Norway,Brazil,1,1,Friendly,Oslo,Norway,FALSE
 1988-07-29,Benin,Mali,0,1,Tournament Burkina Faso,Ouagadougou,Burkina Faso,TRUE
-1988-07-29,Curaçao,Antigua and Barbuda,3,1,CONCACAF Championship qualification,Willemstad,Curaçao,TRUE
+1988-07-29,Curaçao,Antigua and Barbuda,3,1,CONCACAF Championship qualification,Willemstad,Curaçao,FALSE
 1988-07-29,Ghana,Niger,0,3,Tournament Burkina Faso,Ouagadougou,Burkina Faso,TRUE
 1988-07-30,Malawi,Uganda,3,1,FIFA World Cup qualification,Lilongwe,Malawi,FALSE
 1988-07-31,Burkina Faso,Benin,1,0,Tournament Burkina Faso,Ouagadougou,Burkina Faso,FALSE
@@ -16318,7 +16318,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1988-09-28,Malawi,Mozambique,1,0,Friendly,Lilongwe,Malawi,FALSE
 1988-09-29,Chile,Ecuador,0,0,Friendly,Asunción,Paraguay,TRUE
 1988-09-29,Paraguay,Uruguay,3,1,Friendly,Asunción,Paraguay,FALSE
-1988-10-01,Curaçao,El Salvador,0,1,CONCACAF Championship qualification,Willemstad,Curaçao,TRUE
+1988-10-01,Curaçao,El Salvador,0,1,CONCACAF Championship qualification,Willemstad,Curaçao,FALSE
 1988-10-01,Tanzania,Eswatini,1,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,FALSE
 1988-10-02,Indonesia,Qatar,0,1,Friendly,Jakarta,Indonesia,FALSE
 1988-10-02,Liberia,Mali,0,1,African Cup of Nations qualification,Monrovia,Liberia,FALSE
@@ -16665,7 +16665,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1989-04-23,Trinidad and Tobago,Aruba,11,0,CFU Caribbean Cup qualification,Arima,Trinidad and Tobago,FALSE
 1989-04-23,Zimbabwe,Mauritius,1,0,African Cup of Nations qualification,Harare,Zimbabwe,FALSE
 1989-04-26,Bulgaria,Denmark,0,2,FIFA World Cup qualification,Sofia,Bulgaria,FALSE
-1989-04-26,Curaçao,Martinique,3,1,CFU Caribbean Cup qualification,Willemstad,Curaçao,TRUE
+1989-04-26,Curaçao,Martinique,3,1,CFU Caribbean Cup qualification,Willemstad,Curaçao,FALSE
 1989-04-26,England,Albania,5,0,FIFA World Cup qualification,London,England,FALSE
 1989-04-26,Greece,Romania,0,0,FIFA World Cup qualification,Athens,Greece,FALSE
 1989-04-26,Republic of Ireland,Spain,1,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
@@ -16755,7 +16755,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1989-06-02,Cape Verde,Guinea,0,1,Amílcar Cabral Cup,Bamako,Mali,TRUE
 1989-06-02,Mali,Sierra Leone,1,0,Amílcar Cabral Cup,Bamako,Mali,FALSE
 1989-06-03,Cape Verde,Sierra Leone,1,0,Amílcar Cabral Cup,Bamako,Mali,TRUE
-1989-06-03,Curaçao,British Virgin Islands,4,0,CFU Caribbean Cup qualification,Willemstad,Curaçao,TRUE
+1989-06-03,Curaçao,British Virgin Islands,4,0,CFU Caribbean Cup qualification,Willemstad,Curaçao,FALSE
 1989-06-03,Egypt,Chile,2,0,Friendly,Cairo,Egypt,FALSE
 1989-06-03,England,Poland,3,0,FIFA World Cup qualification,London,England,FALSE
 1989-06-03,Malawi,Tunisia,1,0,Friendly,Lilongwe,Malawi,FALSE
@@ -17289,7 +17289,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1990-05-26,Turkey,Republic of Ireland,0,0,Friendly,İzmir,Turkey,FALSE
 1990-05-26,Yugoslavia,Spain,0,1,Friendly,Ljubljana,Yugoslavia,FALSE
 1990-05-27,Antigua and Barbuda,Saint Lucia,0,2,CFU Caribbean Cup qualification,St. John's,Antigua and Barbuda,FALSE
-1990-05-27,Curaçao,Suriname,1,1,CFU Caribbean Cup qualification,Willemstad,Curaçao,TRUE
+1990-05-27,Curaçao,Suriname,1,1,CFU Caribbean Cup qualification,Willemstad,Curaçao,FALSE
 1990-05-27,Georgia,Lithuania,2,2,Friendly,Tbilisi,Soviet Union,FALSE
 1990-05-27,Guyana,Grenada,0,0,CFU Caribbean Cup qualification,Georgetown,Guyana,FALSE
 1990-05-27,Sweden,Finland,6,0,Friendly,Solna,Sweden,FALSE
@@ -18193,7 +18193,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1992-04-17,Antigua and Barbuda,British Virgin Islands,2,0,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,TRUE
 1992-04-17,Saint Kitts and Nevis,Montserrat,10,0,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,FALSE
 1992-04-19,Barbados,Trinidad and Tobago,1,2,FIFA World Cup qualification,Bridgetown,Barbados,FALSE
-1992-04-19,Curaçao,Antigua and Barbuda,1,1,FIFA World Cup qualification,Willemstad,Curaçao,TRUE
+1992-04-19,Curaçao,Antigua and Barbuda,1,1,FIFA World Cup qualification,Willemstad,Curaçao,FALSE
 1992-04-19,Singapore,Malaysia,1,1,AFC Asian Cup qualification,Singapore,Singapore,FALSE
 1992-04-20,China PR,Indonesia,2,0,AFC Asian Cup qualification,Singapore,Singapore,TRUE
 1992-04-22,Belgium,Cyprus,1,0,FIFA World Cup qualification,Brussels,Belgium,FALSE
@@ -18478,7 +18478,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1992-09-09,Wales,Faroe Islands,6,0,FIFA World Cup qualification,Cardiff,Wales,FALSE
 1992-09-10,Kuwait,Jordan,4,1,Arab Cup,Aleppo,Syria,TRUE
 1992-09-11,Syria,Palestine,0,0,Arab Cup,Aleppo,Syria,FALSE
-1992-09-11,Tahiti,Australia,0,3,FIFA World Cup qualification,Papeete,Tahiti,TRUE
+1992-09-11,Tahiti,Australia,0,3,FIFA World Cup qualification,Papeete,Tahiti,FALSE
 1992-09-12,Egypt,Kuwait,1,0,Arab Cup,Aleppo,Syria,TRUE
 1992-09-12,Fiji,Vanuatu,3,0,FIFA World Cup qualification,Nausori,Fiji,FALSE
 1992-09-13,Saudi Arabia,Palestine,2,1,Arab Cup,Aleppo,Syria,TRUE
@@ -18521,7 +18521,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1992-10-07,San Marino,Norway,0,2,FIFA World Cup qualification,Serravalle,San Marino,FALSE
 1992-10-07,Sweden,Bulgaria,2,0,FIFA World Cup qualification,Solna,Sweden,FALSE
 1992-10-09,Algeria,Burundi,3,1,FIFA World Cup qualification,Tlemcen,Algeria,FALSE
-1992-10-09,Tahiti,Solomon Islands,4,2,FIFA World Cup qualification,Papeete,Tahiti,TRUE
+1992-10-09,Tahiti,Solomon Islands,4,2,FIFA World Cup qualification,Papeete,Tahiti,FALSE
 1992-10-09,United States,Canada,0,0,Friendly,Greensboro,United States,FALSE
 1992-10-09,Zimbabwe,Togo,1,0,FIFA World Cup qualification,Harare,Zimbabwe,FALSE
 1992-10-10,Nigeria,South Africa,4,0,FIFA World Cup qualification,Lagos,Nigeria,FALSE
@@ -20311,7 +20311,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1995-05-13,South Africa,Argentina,1,1,Friendly,Johannesburg,South Africa,FALSE
 1995-05-13,Togo,Benin,3,0,Friendly,Lomé,Togo,FALSE
 1995-05-14,Bolivia,Paraguay,1,1,Copa Paz del Chaco,Cochabamba,Bolivia,FALSE
-1995-05-14,Curaçao,Aruba,3,2,CFU Caribbean Cup qualification,Willemstad,Curaçao,TRUE
+1995-05-14,Curaçao,Aruba,3,2,CFU Caribbean Cup qualification,Willemstad,Curaçao,FALSE
 1995-05-17,Israel,Brazil,1,2,Friendly,Ramat Gan,Israel,FALSE
 1995-05-17,Lithuania,Greece,2,1,Friendly,Vilnius,Lithuania,FALSE
 1995-05-18,Morocco,Egypt,0,0,Friendly,Marrakech,Morocco,FALSE
@@ -20525,25 +20525,25 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1995-08-16,Scotland,Greece,1,0,UEFA Euro qualification,Glasgow,Scotland,FALSE
 1995-08-16,Solomon Islands,Wallis Islands and Futuna,12,1,South Pacific Games,Papeete,Tahiti,TRUE
 1995-08-16,Sweden,United States,1,0,Friendly,Norrköping,Sweden,FALSE
-1995-08-17,Tahiti,Wallis Islands and Futuna,13,0,South Pacific Games,Papeete,Tahiti,TRUE
+1995-08-17,Tahiti,Wallis Islands and Futuna,13,0,South Pacific Games,Papeete,Tahiti,FALSE
 1995-08-18,Jamaica,Zambia,1,1,Friendly,Montego Bay,Jamaica,FALSE
 1995-08-18,New Caledonia,Solomon Islands,0,1,South Pacific Games,Papeete,Tahiti,TRUE
 1995-08-19,Cook Islands,Wallis Islands and Futuna,2,1,South Pacific Games,Papeete,Tahiti,TRUE
-1995-08-19,Tahiti,Solomon Islands,4,2,South Pacific Games,Papeete,Tahiti,TRUE
+1995-08-19,Tahiti,Solomon Islands,4,2,South Pacific Games,Papeete,Tahiti,FALSE
 1995-08-20,Fiji,Guam,8,0,South Pacific Games,Papeete,Tahiti,TRUE
 1995-08-20,Jamaica,Zambia,3,1,Friendly,Kingston,Jamaica,FALSE
 1995-08-20,New Caledonia,Wallis Islands and Futuna,10,0,South Pacific Games,Papeete,Tahiti,TRUE
 1995-08-20,Papua New Guinea,Vanuatu,0,3,South Pacific Games,Papeete,Tahiti,TRUE
 1995-08-21,Cook Islands,Solomon Islands,0,16,South Pacific Games,Papeete,Tahiti,TRUE
-1995-08-21,Tahiti,New Caledonia,2,0,South Pacific Games,Papeete,Tahiti,TRUE
+1995-08-21,Tahiti,New Caledonia,2,0,South Pacific Games,Papeete,Tahiti,FALSE
 1995-08-22,Fiji,Vanuatu,3,1,South Pacific Games,Papeete,Tahiti,TRUE
 1995-08-22,Guam,Papua New Guinea,0,9,South Pacific Games,Papeete,Tahiti,TRUE
-1995-08-22,Tahiti,Cook Islands,11,0,South Pacific Games,Papeete,Tahiti,TRUE
+1995-08-22,Tahiti,Cook Islands,11,0,South Pacific Games,Papeete,Tahiti,FALSE
 1995-08-23,Belgium,Germany,1,2,Friendly,Brussels,Belgium,FALSE
 1995-08-24,Fiji,Solomon Islands,3,3,South Pacific Games,Papeete,Tahiti,TRUE
-1995-08-24,Tahiti,Vanuatu,3,0,South Pacific Games,Papeete,Tahiti,TRUE
+1995-08-24,Tahiti,Vanuatu,3,0,South Pacific Games,Papeete,Tahiti,FALSE
 1995-08-26,Fiji,Vanuatu,3,0,South Pacific Games,Papeete,Tahiti,TRUE
-1995-08-26,Tahiti,Solomon Islands,2,0,South Pacific Games,Papeete,Tahiti,TRUE
+1995-08-26,Tahiti,Solomon Islands,2,0,South Pacific Games,Papeete,Tahiti,FALSE
 1995-08-30,Turkey,North Macedonia,2,1,Friendly,Istanbul,Turkey,FALSE
 1995-09-03,Croatia,Estonia,7,1,UEFA Euro qualification,Zagreb,Croatia,FALSE
 1995-09-03,Portugal,Northern Ireland,1,1,UEFA Euro qualification,Porto,Portugal,FALSE
@@ -20903,7 +20903,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1996-03-21,Colombia,Trinidad and Tobago,3,0,Friendly,Neiva,Colombia,FALSE
 1996-03-22,Kuwait,Turkmenistan,2,0,AFC Asian Cup qualification,Kuwait City,Kuwait,FALSE
 1996-03-22,United Arab Emirates,Egypt,0,0,United Arab Emirates Friendship Tournament,Dubai,United Arab Emirates,FALSE
-1996-03-23,Curaçao,Grenada,0,1,CFU Caribbean Cup qualification,Willemstad,Curaçao,TRUE
+1996-03-23,Curaçao,Grenada,0,1,CFU Caribbean Cup qualification,Willemstad,Curaçao,FALSE
 1996-03-23,South Korea,Morocco,2,2,United Arab Emirates Friendship Tournament,Dubai,United Arab Emirates,TRUE
 1996-03-24,Dominican Republic,Aruba,3,2,FIFA World Cup qualification,Santo Domingo,Dominican Republic,FALSE
 1996-03-24,French Guiana,Suriname,1,2,CFU Caribbean Cup qualification,Cayenne,French Guiana,FALSE
@@ -20993,9 +20993,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1996-05-08,Tajikistan,Uzbekistan,4,0,AFC Asian Cup qualification,Dushanbe,Tajikistan,FALSE
 1996-05-09,Sweden,Slovakia,2,1,Friendly,Helsingborg,Sweden,FALSE
 1996-05-10,Guatemala,Nicaragua,2,1,FIFA World Cup qualification,Guatemala City,Guatemala,FALSE
-1996-05-11,Curaçao,Dominican Republic,0,0,FIFA World Cup qualification,Willemstad,Curaçao,TRUE
+1996-05-11,Curaçao,Dominican Republic,0,0,FIFA World Cup qualification,Willemstad,Curaçao,FALSE
 1996-05-11,Malawi,Zambia,0,1,Friendly,Blantyre,Malawi,FALSE
-1996-05-11,Tahiti,Solomon Islands,2,1,Oceania Nations Cup,Papeete,Tahiti,TRUE
+1996-05-11,Tahiti,Solomon Islands,2,1,Oceania Nations Cup,Papeete,Tahiti,FALSE
 1996-05-12,Saint Vincent and the Grenadines,Puerto Rico,7,0,FIFA World Cup qualification,Kingstown,Saint Vincent and the Grenadines,FALSE
 1996-05-12,Burkina Faso,Niger,0,0,Friendly,Ouagadougou,Burkina Faso,FALSE
 1996-05-12,Cayman Islands,Cuba,0,1,FIFA World Cup qualification,George Town,Cayman Islands,FALSE
@@ -21451,7 +21451,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1996-10-25,Bahrain,Qatar,1,2,Gulf Cup,Muscat,Oman,TRUE
 1996-10-26,Honduras,Jamaica,0,0,FIFA World Cup qualification,San Pedro Sula,Honduras,FALSE
 1996-10-27,Panama,Canada,0,0,FIFA World Cup qualification,Panama City,Panama,FALSE
-1996-10-27,Tahiti,Australia,0,6,Oceania Nations Cup,Papeete,Tahiti,TRUE
+1996-10-27,Tahiti,Australia,0,6,Oceania Nations Cup,Papeete,Tahiti,FALSE
 1996-10-27,United Arab Emirates,Saudi Arabia,2,2,Gulf Cup,Muscat,Oman,TRUE
 1996-10-28,Oman,Bahrain,1,1,Gulf Cup,Muscat,Oman,FALSE
 1996-10-28,Qatar,Kuwait,1,2,Gulf Cup,Muscat,Oman,TRUE
@@ -23508,7 +23508,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1999-05-01,India,Bangladesh,2,0,SAFF Cup,Margao,India,FALSE
 1999-05-01,Maldives,Nepal,2,0,SAFF Cup,Margao,India,TRUE
 1999-05-03,Guernsey,Jersey,2,0,Muratti Vase,Saint Sampson,Guernsey,FALSE
-1999-05-04,Curaçao,Grenada,1,3,CFU Caribbean Cup qualification,Willemstad,Curaçao,TRUE
+1999-05-04,Curaçao,Grenada,1,3,CFU Caribbean Cup qualification,Willemstad,Curaçao,FALSE
 1999-05-05,Bermuda,Bahamas,6,0,CFU Caribbean Cup qualification,Hamilton,Bermuda,FALSE
 1999-05-05,Cuba,Cayman Islands,4,1,CFU Caribbean Cup qualification,Hamilton,Bermuda,TRUE
 1999-05-05,Spain,Croatia,3,1,Friendly,Seville,Spain,FALSE
@@ -23516,7 +23516,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1999-05-06,Trinidad and Tobago,South Africa,2,0,Friendly,Port of Spain,Trinidad and Tobago,FALSE
 1999-05-07,Bermuda,Cayman Islands,4,1,CFU Caribbean Cup qualification,Hamilton,Bermuda,FALSE
 1999-05-07,Cuba,Bahamas,7,0,CFU Caribbean Cup qualification,Hamilton,Bermuda,TRUE
-1999-05-08,Curaçao,Suriname,1,1,CFU Caribbean Cup qualification,Willemstad,Curaçao,TRUE
+1999-05-08,Curaçao,Suriname,1,1,CFU Caribbean Cup qualification,Willemstad,Curaçao,FALSE
 1999-05-08,Namibia,Mali,0,0,African Cup of Nations qualification,Windhoek,Namibia,FALSE
 1999-05-09,Bermuda,Cuba,1,2,CFU Caribbean Cup qualification,Hamilton,Bermuda,FALSE
 1999-05-09,Cayman Islands,Bahamas,4,1,CFU Caribbean Cup qualification,Hamilton,Bermuda,TRUE
@@ -24268,7 +24268,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2000-03-15,Jordan,Bosnia and Herzegovina,1,2,Friendly,Zarqa,Jordan,FALSE
 2000-03-16,Venezuela,Bolivia,0,0,Friendly,Maracaibo,Venezuela,FALSE
 2000-03-17,Jordan,Syria,0,0,Friendly,Amman,Jordan,FALSE
-2000-03-18,Curaçao,Trinidad and Tobago,1,1,FIFA World Cup qualification,Willemstad,Curaçao,TRUE
+2000-03-18,Curaçao,Trinidad and Tobago,1,1,FIFA World Cup qualification,Willemstad,Curaçao,FALSE
 2000-03-18,Grenada,Barbados,2,3,FIFA World Cup qualification,St. George's,Grenada,FALSE
 2000-03-18,Puerto Rico,Aruba,2,2,FIFA World Cup qualification,San Juan,Puerto Rico,FALSE
 2000-03-18,Saint Kitts and Nevis,Turks and Caicos Islands,8,0,FIFA World Cup qualification,Basseterre,Saint Kitts and Nevis,FALSE
@@ -24658,7 +24658,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2000-06-21,Serbia,Spain,3,4,UEFA Euro,Bruges,Belgium,TRUE
 2000-06-21,Slovenia,Norway,0,0,UEFA Euro,Arnhem,Netherlands,TRUE
 2000-06-21,Solomon Islands,Cook Islands,5,1,Oceania Nations Cup,Papeete,Tahiti,TRUE
-2000-06-22,Tahiti,Vanuatu,2,3,Oceania Nations Cup,Papeete,Tahiti,TRUE
+2000-06-22,Tahiti,Vanuatu,2,3,Oceania Nations Cup,Papeete,Tahiti,FALSE
 2000-06-23,Gabon,Congo,0,2,Friendly,Libreville,Gabon,FALSE
 2000-06-23,Solomon Islands,Australia,0,6,Oceania Nations Cup,Papeete,Tahiti,TRUE
 2000-06-24,Italy,Romania,2,0,UEFA Euro,Brussels,Belgium,TRUE
@@ -28028,7 +28028,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2004-03-31,Bermuda,Nicaragua,3,0,Friendly,Hamilton,Bermuda,FALSE
 2004-03-31,Bulgaria,Russia,2,2,Friendly,Sofia,Bulgaria,FALSE
 2004-03-31,Croatia,Turkey,2,2,Friendly,Zagreb,Croatia,FALSE
-2004-03-31,Curaçao,Antigua and Barbuda,3,0,FIFA World Cup qualification,Willemstad,Curaçao,TRUE
+2004-03-31,Curaçao,Antigua and Barbuda,3,0,FIFA World Cup qualification,Willemstad,Curaçao,FALSE
 2004-03-31,Egypt,Trinidad and Tobago,2,1,Friendly,Cairo,Egypt,FALSE
 2004-03-31,El Salvador,Guatemala,0,3,Friendly,San Salvador,El Salvador,FALSE
 2004-03-31,Germany,Belgium,3,0,Friendly,Cologne,Germany,FALSE
@@ -28289,7 +28289,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2004-06-10,Syria,Tajikistan,2,1,FIFA World Cup qualification,Homs,Syria,FALSE
 2004-06-11,Estonia,North Macedonia,2,4,Friendly,Tallinn,Estonia,FALSE
 2004-06-12,Cuba,Costa Rica,2,2,FIFA World Cup qualification,Havana,Cuba,FALSE
-2004-06-12,Curaçao,Honduras,1,2,FIFA World Cup qualification,Willemstad,Curaçao,TRUE
+2004-06-12,Curaçao,Honduras,1,2,FIFA World Cup qualification,Willemstad,Curaçao,FALSE
 2004-06-12,Haiti,Jamaica,1,1,FIFA World Cup qualification,Miami,United States,TRUE
 2004-06-12,Portugal,Greece,1,2,UEFA Euro,Porto,Portugal,FALSE
 2004-06-12,Spain,Russia,1,0,UEFA Euro,Faro,Portugal,TRUE
@@ -30249,7 +30249,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2006-09-06,Bosnia and Herzegovina,Hungary,1,3,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,FALSE
 2006-09-06,Bulgaria,Slovenia,3,0,UEFA Euro qualification,Sofia,Bulgaria,FALSE
 2006-09-06,Cuba,Cayman Islands,7,0,CFU Caribbean Cup qualification,Havana,Cuba,FALSE
-2006-09-06,Curaçao,Grenada,1,1,CFU Caribbean Cup qualification,Willemstad,Curaçao,TRUE
+2006-09-06,Curaçao,Grenada,1,1,CFU Caribbean Cup qualification,Willemstad,Curaçao,FALSE
 2006-09-06,Ecuador,Peru,1,1,Friendly,East Rutherford,United States,TRUE
 2006-09-06,Finland,Portugal,1,1,UEFA Euro qualification,Helsinki,Finland,FALSE
 2006-09-06,France,Italy,3,1,UEFA Euro qualification,Saint-Denis,France,FALSE
@@ -30283,9 +30283,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2006-09-06,Ukraine,Georgia,3,2,UEFA Euro qualification,Kyiv,Ukraine,FALSE
 2006-09-06,United Arab Emirates,Jordan,0,0,AFC Asian Cup qualification,Sharjah,United Arab Emirates,FALSE
 2006-09-06,Yemen,Japan,0,1,AFC Asian Cup qualification,Sana'a,Yemen,FALSE
-2006-09-08,Curaçao,Guyana,0,5,CFU Caribbean Cup qualification,Willemstad,Curaçao,TRUE
+2006-09-08,Curaçao,Guyana,0,5,CFU Caribbean Cup qualification,Willemstad,Curaçao,FALSE
 2006-09-08,Suriname,Grenada,1,0,CFU Caribbean Cup qualification,Willemstad,Curaçao,TRUE
-2006-09-10,Curaçao,Suriname,0,1,CFU Caribbean Cup qualification,Willemstad,Curaçao,TRUE
+2006-09-10,Curaçao,Suriname,0,1,CFU Caribbean Cup qualification,Willemstad,Curaçao,FALSE
 2006-09-10,Grenada,Guyana,0,1,CFU Caribbean Cup qualification,Willemstad,Curaçao,TRUE
 2006-09-15,Haiti,Dominican Republic,3,1,Friendly,Saint-Marc,Haiti,FALSE
 2006-09-17,Dominica,Barbados,0,5,Friendly,Grand Bay,Dominica,FALSE
@@ -30488,7 +30488,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2006-11-19,Tibet,Tajikistan,0,3,ELF Cup,Güzelyurt,Northern Cyprus,TRUE
 2006-11-19,Northern Cyprus,Crimea,5,0,ELF Cup,Lefkoşa,Northern Cyprus,FALSE
 2006-11-20,Cambodia,Timor-Leste,4,1,AFF Championship qualification,Bacolod,Philippines,TRUE
-2006-11-20,Philippines,Brunei,4,1,AFF Championship qualification,Bacolod,Philippines,TRUE
+2006-11-20,Philippines,Brunei,4,1,AFF Championship qualification,Bacolod,Philippines,FALSE
 2006-11-20,Monaco,Ambazonia,3,0,Viva World Cup,Costebelle,France,TRUE
 2006-11-20,Occitania,Sápmi,0,7,Viva World Cup,Costebelle,France,FALSE
 2006-11-20,Găgăuzia,Kyrgyzstan,1,6,ELF Cup,Gazimağusa,Northern Cyprus,TRUE
@@ -31734,7 +31734,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2008-03-26,Brazil,Sweden,1,0,Friendly,London,England,TRUE
 2008-03-26,Bulgaria,Finland,2,1,Friendly,Sofia,Bulgaria,FALSE
 2008-03-26,China PR,Australia,0,0,FIFA World Cup qualification,Kunming,China PR,FALSE
-2008-03-26,Curaçao,Nicaragua,2,0,FIFA World Cup qualification,Willemstad,Curaçao,TRUE
+2008-03-26,Curaçao,Nicaragua,2,0,FIFA World Cup qualification,Willemstad,Curaçao,FALSE
 2008-03-26,Denmark,Czech Republic,1,1,Friendly,Herning,Denmark,FALSE
 2008-03-26,Ecuador,Haiti,3,1,Friendly,Latacunga,Ecuador,FALSE
 2008-03-26,Egypt,Argentina,0,2,Friendly,Cairo,Egypt,FALSE
@@ -32102,7 +32102,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2008-06-22,Congo,Chad,2,0,FIFA World Cup qualification,Brazzaville,Congo,FALSE
 2008-06-22,DR Congo,Djibouti,5,1,FIFA World Cup qualification,Kinshasa,DR Congo,FALSE
 2008-06-22,Cuba,Antigua and Barbuda,4,0,FIFA World Cup qualification,Havana,Cuba,FALSE
-2008-06-22,Curaçao,Haiti,0,1,FIFA World Cup qualification,Willemstad,Curaçao,TRUE
+2008-06-22,Curaçao,Haiti,0,1,FIFA World Cup qualification,Willemstad,Curaçao,FALSE
 2008-06-22,Egypt,Malawi,2,0,FIFA World Cup qualification,Cairo,Egypt,FALSE
 2008-06-22,El Salvador,Panama,3,1,FIFA World Cup qualification,San Salvador,El Salvador,FALSE
 2008-06-22,Ghana,Gabon,2,0,FIFA World Cup qualification,Accra,Ghana,FALSE
@@ -32159,7 +32159,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2008-07-26,El Salvador,Jamaica,0,0,Friendly,Frisco,United States,TRUE
 2008-07-26,South Africa,Namibia,1,0,COSAFA Cup,Witbank,South Africa,FALSE
 2008-07-27,Botswana,Mozambique,0,2,COSAFA Cup,Secunda,South Africa,TRUE
-2008-07-27,Curaçao,Aruba,0,0,CFU Caribbean Cup qualification,Willemstad,Curaçao,TRUE
+2008-07-27,Curaçao,Aruba,0,0,CFU Caribbean Cup qualification,Willemstad,Curaçao,FALSE
 2008-07-27,Zambia,Zimbabwe,0,0,COSAFA Cup,Secunda,South Africa,TRUE
 2008-07-29,Grenada,Aruba,3,1,CFU Caribbean Cup qualification,Willemstad,Curaçao,TRUE
 2008-07-30,India,Afghanistan,1,0,AFC Challenge Cup,Hyderabad,India,FALSE
@@ -36217,7 +36217,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2012-09-11,Saint Martin,Bermuda,0,8,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,TRUE
 2012-09-11,Sweden,Kazakhstan,2,0,FIFA World Cup qualification,Malmö,Sweden,FALSE
 2012-09-11,Switzerland,Albania,2,0,FIFA World Cup qualification,Lucerne,Switzerland,FALSE
-2012-09-11,Tahiti,New Caledonia,0,4,FIFA World Cup qualification,Pirae,Tahiti,TRUE
+2012-09-11,Tahiti,New Caledonia,0,4,FIFA World Cup qualification,Pirae,Tahiti,FALSE
 2012-09-11,Turkey,Estonia,3,0,FIFA World Cup qualification,Istanbul,Turkey,FALSE
 2012-09-11,United Arab Emirates,Kuwait,3,0,Friendly,Dubai,United Arab Emirates,FALSE
 2012-09-11,Uruguay,Ecuador,1,1,FIFA World Cup qualification,Montevideo,Uruguay,FALSE
@@ -36305,7 +36305,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2012-10-12,Slovenia,Cyprus,2,1,FIFA World Cup qualification,Maribor,Slovenia,FALSE
 2012-10-12,Solomon Islands,New Caledonia,2,6,FIFA World Cup qualification,Honiara,Solomon Islands,FALSE
 2012-10-12,Switzerland,Norway,1,1,FIFA World Cup qualification,Bern,Switzerland,FALSE
-2012-10-12,Tahiti,New Zealand,0,2,FIFA World Cup qualification,Pirae,Tahiti,TRUE
+2012-10-12,Tahiti,New Zealand,0,2,FIFA World Cup qualification,Pirae,Tahiti,FALSE
 2012-10-12,Turkey,Romania,0,1,FIFA World Cup qualification,Istanbul,Turkey,FALSE
 2012-10-12,United Arab Emirates,Uzbekistan,2,2,Friendly,Dubai,United Arab Emirates,FALSE
 2012-10-12,Wales,Scotland,2,1,FIFA World Cup qualification,Cardiff,Wales,FALSE
@@ -36793,7 +36793,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2013-03-22,Slovenia,Iceland,1,2,FIFA World Cup qualification,Ljubljana,Slovenia,FALSE
 2013-03-22,Spain,Finland,1,1,FIFA World Cup qualification,Gijón,Spain,FALSE
 2013-03-22,Sweden,Republic of Ireland,0,0,FIFA World Cup qualification,Solna,Sweden,FALSE
-2013-03-22,Tahiti,Solomon Islands,2,0,FIFA World Cup qualification,Pirae,Tahiti,TRUE
+2013-03-22,Tahiti,Solomon Islands,2,0,FIFA World Cup qualification,Pirae,Tahiti,FALSE
 2013-03-22,Turkmenistan,Cambodia,7,0,AFC Challenge Cup qualification,Manila,Philippines,TRUE
 2013-03-22,United Arab Emirates,Uzbekistan,2,1,AFC Asian Cup qualification,Abu Dhabi,United Arab Emirates,FALSE
 2013-03-22,Uruguay,Paraguay,1,1,FIFA World Cup qualification,Montevideo,Uruguay,FALSE
@@ -40193,7 +40193,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2016-11-06,North Korea,Taiwan,2,0,EAFF Championship,Kowloon,Hong Kong,TRUE
 2016-11-06,Laos,Macau,1,4,AFC Challenge Cup,Kuching,Malaysia,TRUE
 2016-11-06,Mongolia,Sri Lanka,2,0,AFC Challenge Cup,Kuching,Malaysia,TRUE
-2016-11-07,Tahiti,Solomon Islands,3,0,FIFA World Cup qualification,Pirae,Tahiti,TRUE
+2016-11-07,Tahiti,Solomon Islands,3,0,FIFA World Cup qualification,Pirae,Tahiti,FALSE
 2016-11-08,Nepal,Brunei,3,0,AFC Challenge Cup,Kuching,Malaysia,TRUE
 2016-11-08,Uganda,Zambia,0,1,Friendly,Kampala,Uganda,FALSE
 2016-11-08,Vietnam,Indonesia,3,2,Friendly,Hanoi,Vietnam,FALSE
@@ -45434,7 +45434,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-08-31,Mexico,Paraguay,0,1,Friendly,Atlanta,United States,TRUE
 2022-09-17,Fiji,New Caledonia,1,0,MSG Prime Minister's Cup,Luganville,Vanuatu,TRUE
 2022-09-21,Solomon Islands,New Caledonia,1,0,MSG Prime Minister's Cup,Luganville,Vanuatu,TRUE
-2022-09-21,Brunei,Maldives,0,3,Friendly,Bandar Seri Begawan,Brunei,TRUE
+2022-09-21,Brunei,Maldives,0,3,Friendly,Bandar Seri Begawan,Brunei,FALSE
 2022-09-21,Hong Kong,Myanmar,2,0,Friendly,Hong Kong,Hong Kong,FALSE
 2022-09-21,Libya,Uganda,0,0,Friendly,Benghazi,Libya,FALSE
 2022-09-21,San Marino,Seychelles,0,0,Friendly,Serravalle,San Marino,FALSE
@@ -45536,7 +45536,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-09-27,Argentina,Jamaica,3,0,Friendly,Harrison,United States,TRUE
 2022-09-27,Bahrain,Panama,0,2,Friendly,Riffa,Bahrain,FALSE
 2022-09-27,Brazil,Tunisia,5,1,Friendly,Paris,France,TRUE
-2022-09-27,Brunei,Laos,1,0,Friendly,Bandar Seri Begawan,Brunei,TRUE
+2022-09-27,Brunei,Laos,1,0,Friendly,Bandar Seri Begawan,Brunei,FALSE
 2022-09-27,Burkina Faso,Comoros,2,1,Friendly,Casablanca,Morocco,TRUE
 2022-09-27,Canada,Uruguay,0,2,Friendly,Bratislava,Slovakia,TRUE
 2022-09-27,DR Congo,Sierra Leone,3,0,Friendly,Casablanca,Morocco,TRUE
