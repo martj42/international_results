@@ -44446,3 +44446,124 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2025-07-06,United States,Mexico,United States,Chris Richards,4,FALSE,FALSE
 2025-07-06,United States,Mexico,Mexico,Raúl Jiménez,27,FALSE,FALSE
 2025-07-06,United States,Mexico,Mexico,Edson Álvarez,77,FALSE,FALSE
+2025-12-21,Morocco,Comoros,Morocco,Brahim Díaz,55,FALSE,FALSE
+2025-12-21,Morocco,Comoros,Morocco,Ayoub El Kaabi,74,FALSE,FALSE
+2025-12-22,Egypt,Zimbabwe,Zimbabwe,Prince Dube,20,FALSE,FALSE
+2025-12-22,Egypt,Zimbabwe,Egypt,Omar Marmoush,64,FALSE,FALSE
+2025-12-22,Egypt,Zimbabwe,Egypt,Mohamed Salah,90,FALSE,FALSE
+2025-12-22,Mali,Zambia,Mali,Lassine Sinayoko,61,FALSE,FALSE
+2025-12-22,Mali,Zambia,Zambia,Patson Daka,90,FALSE,FALSE
+2025-12-22,South Africa,Angola,South Africa,Oswin Appollis,21,FALSE,FALSE
+2025-12-22,South Africa,Angola,Angola,Show,35,FALSE,FALSE
+2025-12-22,South Africa,Angola,South Africa,Lyle Foster,79,FALSE,FALSE
+2025-12-23,DR Congo,Benin,DR Congo,Théo Bongonda,16,FALSE,FALSE
+2025-12-23,Nigeria,Tanzania,Nigeria,Semi Ajayi,36,FALSE,FALSE
+2025-12-23,Nigeria,Tanzania,Tanzania,Charles M'Mombwa,50,FALSE,FALSE
+2025-12-23,Nigeria,Tanzania,Nigeria,Ademola Lookman,52,FALSE,FALSE
+2025-12-23,Senegal,Botswana,Senegal,Nicolas Jackson,40,FALSE,FALSE
+2025-12-23,Senegal,Botswana,Senegal,Nicolas Jackson,58,FALSE,FALSE
+2025-12-23,Senegal,Botswana,Senegal,Cherif Ndiaye,90,FALSE,FALSE
+2025-12-23,Tunisia,Uganda,Tunisia,Ellyes Skhiri,10,FALSE,FALSE
+2025-12-23,Tunisia,Uganda,Tunisia,Elias Achouri,40,FALSE,FALSE
+2025-12-23,Tunisia,Uganda,Tunisia,Elias Achouri,64,FALSE,FALSE
+2025-12-23,Tunisia,Uganda,Uganda,Denis Omedi,90,FALSE,FALSE
+2025-12-24,Algeria,Sudan,Algeria,Riyad Mahrez,2,FALSE,FALSE
+2025-12-24,Algeria,Sudan,Algeria,Riyad Mahrez,61,FALSE,FALSE
+2025-12-24,Algeria,Sudan,Algeria,Ibrahim Maza,85,FALSE,FALSE
+2025-12-24,Burkina Faso,Equatorial Guinea,Equatorial Guinea,Marvin Anieboh,85,FALSE,FALSE
+2025-12-24,Burkina Faso,Equatorial Guinea,Burkina Faso,Georgi Minoungou,90,FALSE,FALSE
+2025-12-24,Burkina Faso,Equatorial Guinea,Burkina Faso,Edmond Tapsoba,90,FALSE,FALSE
+2025-12-24,Cameroon,Gabon,Cameroon,Karl Etta Eyong,6,FALSE,FALSE
+2025-12-24,Ivory Coast,Mozambique,Ivory Coast,Amad Diallo,49,FALSE,FALSE
+2025-12-26,Angola,Zimbabwe,Angola,Gelson Dala,24,FALSE,FALSE
+2025-12-26,Angola,Zimbabwe,Zimbabwe,Knowledge Musona,45,FALSE,FALSE
+2025-12-26,Egypt,South Africa,Egypt,Mohamed Salah,45,FALSE,TRUE
+2025-12-26,Morocco,Mali,Morocco,Brahim Díaz,45,FALSE,TRUE
+2025-12-26,Morocco,Mali,Mali,Lassine Sinayoko,64,FALSE,TRUE
+2025-12-27,Benin,Botswana,Benin,Yohan Roche,28,FALSE,FALSE
+2025-12-27,Nigeria,Tunisia,Nigeria,Victor Osimhen,44,FALSE,FALSE
+2025-12-27,Nigeria,Tunisia,Nigeria,Wilfred Ndidi,50,FALSE,FALSE
+2025-12-27,Nigeria,Tunisia,Nigeria,Ademola Lookman,67,FALSE,FALSE
+2025-12-27,Nigeria,Tunisia,Tunisia,Montassar Talbi,74,FALSE,FALSE
+2025-12-27,Nigeria,Tunisia,Tunisia,Ali Abdi,87,FALSE,TRUE
+2025-12-27,Senegal,DR Congo,DR Congo,Cédric Bakambu,61,FALSE,FALSE
+2025-12-27,Senegal,DR Congo,Senegal,Sadio Mané,69,FALSE,FALSE
+2025-12-27,Uganda,Tanzania,Tanzania,Simon Msuva,59,FALSE,TRUE
+2025-12-27,Uganda,Tanzania,Uganda,Uche Ikpeazu,80,FALSE,FALSE
+2025-12-28,Algeria,Burkina Faso,Algeria,Riyad Mahrez,23,FALSE,TRUE
+2025-12-28,Equatorial Guinea,Sudan,Sudan,Saúl Coco,74,TRUE,FALSE
+2025-12-28,Gabon,Mozambique,Mozambique,Faisal Bangal,37,FALSE,FALSE
+2025-12-28,Gabon,Mozambique,Mozambique,Geny Catamo,42,FALSE,TRUE
+2025-12-28,Gabon,Mozambique,Gabon,Pierre-Emerick Aubameyang,45,FALSE,FALSE
+2025-12-28,Gabon,Mozambique,Mozambique,Diogo Calila,52,FALSE,FALSE
+2025-12-28,Gabon,Mozambique,Gabon,Alex Moucketou-Moussounda,76,FALSE,FALSE
+2025-12-28,Ivory Coast,Cameroon,Ivory Coast,Amad Diallo,51,FALSE,FALSE
+2025-12-28,Ivory Coast,Cameroon,Cameroon,Ghislain Konan,56,TRUE,FALSE
+2025-12-29,Zambia,Morocco,Morocco,Ayoub El Kaabi,9,FALSE,FALSE
+2025-12-29,Zambia,Morocco,Morocco,Brahim Díaz,27,FALSE,FALSE
+2025-12-29,Zambia,Morocco,Morocco,Ayoub El Kaabi,50,FALSE,FALSE
+2025-12-29,Zimbabwe,South Africa,South Africa,Tshepang Moremi,7,FALSE,FALSE
+2025-12-29,Zimbabwe,South Africa,Zimbabwe,Tawanda Maswanhise,19,FALSE,FALSE
+2025-12-29,Zimbabwe,South Africa,South Africa,Lyle Foster,50,FALSE,FALSE
+2025-12-29,Zimbabwe,South Africa,Zimbabwe,Aubrey Modiba,73,TRUE,FALSE
+2025-12-29,Zimbabwe,South Africa,South Africa,Oswin Appollis,82,FALSE,TRUE
+2025-12-30,Benin,Senegal,Senegal,Abdoulaye Seck,38,FALSE,FALSE
+2025-12-30,Benin,Senegal,Senegal,Habib Diallo,62,FALSE,FALSE
+2025-12-30,Benin,Senegal,Senegal,Cherif Ndiaye,90,FALSE,TRUE
+2025-12-30,Botswana,DR Congo,DR Congo,Nathanaël Mbuku,31,FALSE,FALSE
+2025-12-30,Botswana,DR Congo,DR Congo,Gaël Kakuta,41,FALSE,TRUE
+2025-12-30,Botswana,DR Congo,DR Congo,Gaël Kakuta,60,FALSE,FALSE
+2025-12-30,Tanzania,Tunisia,Tunisia,Ismaël Gharbi,43,FALSE,TRUE
+2025-12-30,Tanzania,Tunisia,Tanzania,Feisal Salum,48,FALSE,FALSE
+2025-12-30,Uganda,Nigeria,Nigeria,Paul Onuachu,28,FALSE,FALSE
+2025-12-30,Uganda,Nigeria,Nigeria,Raphael Onyedika,62,FALSE,FALSE
+2025-12-30,Uganda,Nigeria,Nigeria,Raphael Onyedika,67,FALSE,FALSE
+2025-12-30,Uganda,Nigeria,Uganda,Rogers Mato,75,FALSE,FALSE
+2025-12-31,Equatorial Guinea,Algeria,Algeria,Zineddine Belaïd,19,FALSE,FALSE
+2025-12-31,Equatorial Guinea,Algeria,Algeria,Farès Chaïbi,25,FALSE,FALSE
+2025-12-31,Equatorial Guinea,Algeria,Algeria,Ibrahim Maza,32,FALSE,FALSE
+2025-12-31,Equatorial Guinea,Algeria,Equatorial Guinea,Emilio Nsue,50,FALSE,FALSE
+2025-12-31,Gabon,Ivory Coast,Gabon,Guélor Kanga,11,FALSE,FALSE
+2025-12-31,Gabon,Ivory Coast,Gabon,Denis Bouanga,21,FALSE,FALSE
+2025-12-31,Gabon,Ivory Coast,Ivory Coast,Jean-Philippe Krasso,44,FALSE,FALSE
+2025-12-31,Gabon,Ivory Coast,Ivory Coast,Evann Guessand,84,FALSE,FALSE
+2025-12-31,Gabon,Ivory Coast,Ivory Coast,Bazoumana Touré,90,FALSE,FALSE
+2025-12-31,Mozambique,Cameroon,Mozambique,Geny Catamo,23,FALSE,FALSE
+2025-12-31,Mozambique,Cameroon,Cameroon,Nené,28,TRUE,FALSE
+2025-12-31,Mozambique,Cameroon,Cameroon,Christian Kofane,55,FALSE,FALSE
+2025-12-31,Sudan,Burkina Faso,Burkina Faso,Lassina Traoré,16,FALSE,FALSE
+2025-12-31,Sudan,Burkina Faso,Burkina Faso,Arsène Kouassi,85,FALSE,FALSE
+2026-01-03,Mali,Tunisia,Tunisia,Firas Chaouat,88,FALSE,FALSE
+2026-01-03,Mali,Tunisia,Mali,Lassine Sinayoko,90,FALSE,TRUE
+2026-01-03,Senegal,Sudan,Sudan,Aamir Abdallah,6,FALSE,FALSE
+2026-01-03,Senegal,Sudan,Senegal,Pape Gueye,29,FALSE,FALSE
+2026-01-03,Senegal,Sudan,Senegal,Pape Gueye,45,FALSE,FALSE
+2026-01-03,Senegal,Sudan,Senegal,Ibrahim Mbaye,77,FALSE,FALSE
+2026-01-04,Morocco,Tanzania,Morocco,Brahim Díaz,64,FALSE,FALSE
+2026-01-04,South Africa,Cameroon,Cameroon,Junior Tchamadeu,34,FALSE,FALSE
+2026-01-04,South Africa,Cameroon,Cameroon,Christian Kofane,47,FALSE,FALSE
+2026-01-04,South Africa,Cameroon,South Africa,Evidence Makgopa,88,FALSE,FALSE
+2026-01-05,Egypt,Benin,Egypt,Marwan Attia,69,FALSE,FALSE
+2026-01-05,Egypt,Benin,Benin,Jodel Dossou,83,FALSE,FALSE
+2026-01-05,Egypt,Benin,Egypt,Yasser Ibrahim,97,FALSE,FALSE
+2026-01-05,Egypt,Benin,Egypt,Mohamed Salah,120,FALSE,FALSE
+2026-01-05,Nigeria,Mozambique,Nigeria,Ademola Lookman,20,FALSE,FALSE
+2026-01-05,Nigeria,Mozambique,Nigeria,Victor Osimhen,25,FALSE,FALSE
+2026-01-05,Nigeria,Mozambique,Nigeria,Victor Osimhen,47,FALSE,FALSE
+2026-01-05,Nigeria,Mozambique,Nigeria,Akor Adams,75,FALSE,FALSE
+2026-01-06,Algeria,DR Congo,Algeria,Adil Boulbina,119,FALSE,FALSE
+2026-01-06,Ivory Coast,Burkina Faso,Ivory Coast,Amad Diallo,20,FALSE,FALSE
+2026-01-06,Ivory Coast,Burkina Faso,Ivory Coast,Yan Diomande,32,FALSE,FALSE
+2026-01-06,Ivory Coast,Burkina Faso,Ivory Coast,Bazoumana Touré,87,FALSE,FALSE
+2026-01-09,Cameroon,Morocco,Morocco,Brahim Díaz,26,FALSE,FALSE
+2026-01-09,Cameroon,Morocco,Morocco,Ismael Saibari,74,FALSE,FALSE
+2026-01-09,Mali,Senegal,Senegal,Iliman Ndiaye,27,FALSE,FALSE
+2026-01-10,Algeria,Nigeria,Nigeria,Victor Osimhen,47,FALSE,FALSE
+2026-01-10,Algeria,Nigeria,Nigeria,Akor Adams,57,FALSE,FALSE
+2026-01-10,Egypt,Ivory Coast,Egypt,Omar Marmoush,4,FALSE,FALSE
+2026-01-10,Egypt,Ivory Coast,Egypt,Ramy Rabia,32,FALSE,FALSE
+2026-01-10,Egypt,Ivory Coast,Ivory Coast,Ahmed Abou El Fotouh,40,TRUE,FALSE
+2026-01-10,Egypt,Ivory Coast,Egypt,Mohamed Salah,52,FALSE,FALSE
+2026-01-10,Egypt,Ivory Coast,Ivory Coast,Guéla Doué,73,FALSE,FALSE
+2026-01-14,Senegal,Egypt,Senegal,Sadio Mané,78,FALSE,FALSE
+2026-01-18,Senegal,Morocco,Senegal,Pape Gueye,94,FALSE,FALSE

@@ -48890,3 +48890,55 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-12-15,Morocco,United Arab Emirates,3,0,Arab Cup,Al Rayyan,Qatar,TRUE
 2025-12-15,Saudi Arabia,Jordan,0,1,Arab Cup,Al Khor,Qatar,TRUE
 2025-12-18,Jordan,Morocco,2,3,Arab Cup,Lusail,Qatar,TRUE
+2025-12-21,Morocco,Comoros,2,0,African Cup of Nations,Rabat,Morocco,FALSE
+2025-12-22,Mali,Zambia,1,1,African Cup of Nations,Casablanca,Morocco,TRUE
+2025-12-22,South Africa,Angola,2,1,African Cup of Nations,Marrakesh,Morocco,TRUE
+2025-12-22,Egypt,Zimbabwe,2,1,African Cup of Nations,Agadir,Morocco,TRUE
+2025-12-23,Nigeria,Tanzania,2,1,African Cup of Nations,Fez,Morocco,TRUE
+2025-12-23,Tunisia,Uganda,3,1,African Cup of Nations,Rabat,Morocco,TRUE
+2025-12-23,DR Congo,Benin,1,0,African Cup of Nations,Rabat,Morocco,TRUE
+2025-12-23,Senegal,Botswana,3,0,African Cup of Nations,Tangier,Morocco,TRUE
+2025-12-24,Burkina Faso,Equatorial Guinea,2,1,African Cup of Nations,Casablanca,Morocco,TRUE
+2025-12-24,Algeria,Sudan,3,0,African Cup of Nations,Rabat,Morocco,TRUE
+2025-12-24,Ivory Coast,Mozambique,1,0,African Cup of Nations,Marrakesh,Morocco,TRUE
+2025-12-24,Cameroon,Gabon,1,0,African Cup of Nations,Agadir,Morocco,TRUE
+2025-12-26,Zambia,Comoros,0,0,African Cup of Nations,Casablanca,Morocco,TRUE
+2025-12-26,Morocco,Mali,1,1,African Cup of Nations,Rabat,Morocco,FALSE
+2025-12-26,Angola,Zimbabwe,1,1,African Cup of Nations,Marrakesh,Morocco,TRUE
+2025-12-26,Egypt,South Africa,1,0,African Cup of Nations,Agadir,Morocco,TRUE
+2025-12-27,Uganda,Tanzania,1,1,African Cup of Nations,Rabat,Morocco,TRUE
+2025-12-27,Nigeria,Tunisia,3,2,African Cup of Nations,Fez,Morocco,TRUE
+2025-12-27,Benin,Botswana,1,0,African Cup of Nations,Rabat,Morocco,TRUE
+2025-12-27,Senegal,DR Congo,1,1,African Cup of Nations,Tangier,Morocco,TRUE
+2025-12-28,Equatorial Guinea,Sudan,0,1,African Cup of Nations,Casablanca,Morocco,TRUE
+2025-12-28,Algeria,Burkina Faso,1,0,African Cup of Nations,Rabat,Morocco,TRUE
+2025-12-28,Gabon,Mozambique,2,3,African Cup of Nations,Agadir,Morocco,TRUE
+2025-12-28,Ivory Coast,Cameroon,1,1,African Cup of Nations,Marrakesh,Morocco,TRUE
+2025-12-29,Morocco,Zambia,3,0,African Cup of Nations,Rabat,Morocco,FALSE
+2025-12-29,Comoros,Mali,0,0,African Cup of Nations,Casablanca,Morocco,TRUE
+2025-12-29,Angola,Egypt,0,0,African Cup of Nations,Agadir,Morocco,TRUE
+2025-12-29,Zimbabwe,South Africa,2,3,African Cup of Nations,Marrakesh,Morocco,TRUE
+2025-12-30,Uganda,Nigeria,1,3,African Cup of Nations,Fez,Morocco,TRUE
+2025-12-30,Tanzania,Tunisia,1,1,African Cup of Nations,Rabat,Morocco,TRUE
+2025-12-30,Benin,Senegal,0,3,African Cup of Nations,Tangier,Morocco,TRUE
+2025-12-30,Botswana,DR Congo,0,3,African Cup of Nations,Rabat,Morocco,TRUE
+2025-12-31,Equatorial Guinea,Algeria,1,3,African Cup of Nations,Rabat,Morocco,TRUE
+2025-12-31,Sudan,Burkina Faso,0,2,African Cup of Nations,Casablanca,Morocco,TRUE
+2025-12-31,Gabon,Ivory Coast,2,3,African Cup of Nations,Marrakesh,Morocco,TRUE
+2025-12-31,Mozambique,Cameroon,1,2,African Cup of Nations,Agadir,Morocco,TRUE
+2026-01-03,Senegal,Sudan,3,1,African Cup of Nations,Tangier,Morocco,TRUE
+2026-01-03,Mali,Tunisia,1,1,African Cup of Nations,Casablanca,Morocco,TRUE
+2026-01-04,Morocco,Tanzania,1,0,African Cup of Nations,Rabat,Morocco,FALSE
+2026-01-04,South Africa,Cameroon,1,2,African Cup of Nations,Rabat,Morocco,TRUE
+2026-01-05,Egypt,Benin,3,1,African Cup of Nations,Agadir,Morocco,TRUE
+2026-01-05,Nigeria,Mozambique,4,0,African Cup of Nations,Fez,Morocco,TRUE
+2026-01-06,Algeria,DR Congo,1,0,African Cup of Nations,Rabat,Morocco,TRUE
+2026-01-06,Ivory Coast,Burkina Faso,3,0,African Cup of Nations,Marrakesh,Morocco,TRUE
+2026-01-09,Mali,Senegal,0,1,African Cup of Nations,Tangier,Morocco,TRUE
+2026-01-09,Morocco,Cameroon,2,0,African Cup of Nations,Rabat,Morocco,FALSE
+2026-01-10,Algeria,Nigeria,0,2,African Cup of Nations,Marrakesh,Morocco,TRUE
+2026-01-10,Egypt,Ivory Coast,3,2,African Cup of Nations,Agadir,Morocco,TRUE
+2026-01-14,Senegal,Egypt,1,0,African Cup of Nations,Tangier,Morocco,TRUE
+2026-01-14,Morocco,Nigeria,0,0,African Cup of Nations,Rabat,Morocco,FALSE
+2026-01-17,Egypt,Nigeria,0,0,African Cup of Nations,Casablanca,Morocco,TRUE
+2026-01-18,Morocco,Senegal,0,1,African Cup of Nations,Rabat,Morocco,FALSE
