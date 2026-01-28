@@ -20230,7 +20230,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1995-03-29,Ukraine,Italy,0,2,UEFA Euro qualification,Kyiv,Ukraine,FALSE
 1995-03-30,Tahiti,Fiji,3,0,Friendly,Papeete,Tahiti,FALSE
 1995-03-31,India,Bangladesh,0,0,SAFF Cup,Colombo,Sri Lanka,TRUE
-1995-03-31,Serbia,Uruguay,1,0,Friendly,Belgrade,Yugoslavia,FALSE
+1995-03-31,Serbia,Uruguay,1,0,Friendly,Belgrade,FR Yugoslavia,FALSE
 1995-03-31,Sri Lanka,Nepal,2,1,SAFF Cup,Colombo,Sri Lanka,FALSE
 1995-03-31,Syria,Egypt,1,2,Friendly,Damascus,Syria,FALSE
 1995-04-02,Anguilla,Montserrat,0,1,CFU Caribbean Cup qualification,The Valley,Anguilla,FALSE
@@ -20338,7 +20338,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1995-05-28,United States,Costa Rica,1,2,Friendly,Tampa,United States,FALSE
 1995-05-31,Argentina,Peru,1,0,Friendly,Córdoba,Argentina,FALSE
 1995-05-31,Finland,Denmark,0,1,Friendly,Helsinki,Finland,FALSE
-1995-05-31,Serbia,Russia,1,2,Friendly,Belgrade,Yugoslavia,FALSE
+1995-05-31,Serbia,Russia,1,2,Friendly,Belgrade,FR Yugoslavia,FALSE
 1995-06-01,Sweden,Iceland,1,1,UEFA Euro qualification,Solna,Sweden,FALSE
 1995-06-02,Algeria,Uganda,1,1,African Cup of Nations qualification,Algiers,Algeria,FALSE
 1995-06-03,England,Japan,2,1,Friendly,London,England,FALSE
@@ -20925,7 +20925,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1996-03-27,Poland,Slovenia,0,0,Friendly,Łódź,Poland,FALSE
 1996-03-27,Portugal,Greece,1,0,Friendly,Lisbon,Portugal,FALSE
 1996-03-27,Scotland,Australia,1,0,Friendly,Glasgow,Scotland,FALSE
-1996-03-27,Serbia,Romania,1,0,Friendly,Belgrade,Yugoslavia,FALSE
+1996-03-27,Serbia,Romania,1,0,Friendly,Belgrade,FR Yugoslavia,FALSE
 1996-03-27,Slovakia,Belarus,4,0,Friendly,Nitra,Slovakia,FALSE
 1996-03-27,Saint Kitts and Nevis,Anguilla,8,0,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,FALSE
 1996-03-28,Colombia,Bolivia,4,1,Friendly,Medellín,Colombia,FALSE
@@ -20965,7 +20965,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1996-04-24,Northern Ireland,Sweden,1,2,Friendly,Belfast,Northern Ireland,FALSE
 1996-04-24,Norway,Spain,0,0,Friendly,Oslo,Norway,FALSE
 1996-04-24,Romania,Georgia,5,0,Friendly,Bucharest,Romania,FALSE
-1996-04-24,Serbia,Faroe Islands,3,1,FIFA World Cup qualification,Belgrade,Yugoslavia,TRUE
+1996-04-24,Serbia,Faroe Islands,3,1,FIFA World Cup qualification,Belgrade,FR Yugoslavia,TRUE
 1996-04-24,Slovakia,Bulgaria,0,0,Friendly,Trnava,Slovakia,FALSE
 1996-04-24,South Africa,Brazil,2,3,Friendly,Johannesburg,South Africa,FALSE
 1996-04-24,Switzerland,Wales,2,0,Friendly,Lugano,Switzerland,FALSE
@@ -21085,7 +21085,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1996-06-02,Russia,Poland,2,0,Friendly,Moscow,Russia,FALSE
 1996-06-02,Rwanda,Tunisia,1,3,FIFA World Cup qualification,Kigali,Rwanda,FALSE
 1996-06-02,San Marino,Wales,0,5,FIFA World Cup qualification,Serravalle,San Marino,FALSE
-1996-06-02,Serbia,Malta,6,0,FIFA World Cup qualification,Belgrade,Yugoslavia,TRUE
+1996-06-02,Serbia,Malta,6,0,FIFA World Cup qualification,Belgrade,FR Yugoslavia,TRUE
 1996-06-02,Eswatini,Gabon,0,1,FIFA World Cup qualification,Mbabane,Swaziland,FALSE
 1996-06-02,Togo,Senegal,2,1,FIFA World Cup qualification,Lomé,Togo,FALSE
 1996-06-02,Trinidad and Tobago,Martinique,2,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,FALSE
@@ -21501,7 +21501,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1996-11-10,Peru,Venezuela,4,1,FIFA World Cup qualification,Lima,Peru,FALSE
 1996-11-10,Poland,Moldova,2,1,FIFA World Cup qualification,Katowice,Poland,FALSE
 1996-11-10,Scotland,Sweden,1,0,FIFA World Cup qualification,Glasgow,Scotland,FALSE
-1996-11-10,Serbia,Czech Republic,1,0,FIFA World Cup qualification,Belgrade,Yugoslavia,TRUE
+1996-11-10,Serbia,Czech Republic,1,0,FIFA World Cup qualification,Belgrade,FR Yugoslavia,TRUE
 1996-11-10,Slovenia,Bosnia and Herzegovina,1,2,FIFA World Cup qualification,Ljubljana,Slovenia,FALSE
 1996-11-10,Switzerland,Norway,0,1,FIFA World Cup qualification,Bern,Switzerland,FALSE
 1996-11-10,Togo,Cameroon,2,4,FIFA World Cup qualification,Lomé,Togo,FALSE
@@ -21752,7 +21752,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1997-03-12,North Macedonia,Australia,0,1,Friendly,Skopje,North Macedonia,FALSE
 1997-03-12,Martinique,Saint Lucia,1,0,CFU Caribbean Cup qualification,Fort-de-France,Martinique,FALSE
 1997-03-12,Saudi Arabia,Indonesia,3,1,Friendly,Dammam,Saudi Arabia,FALSE
-1997-03-12,Serbia,Russia,0,0,Friendly,Belgrade,Yugoslavia,FALSE
+1997-03-12,Serbia,Russia,0,0,Friendly,Belgrade,FR Yugoslavia,FALSE
 1997-03-13,El Salvador,Guatemala,0,0,Friendly,San Salvador,El Salvador,FALSE
 1997-03-14,Saint Lucia,Saint Vincent and the Grenadines,3,2,CFU Caribbean Cup qualification,Fort-de-France,Martinique,TRUE
 1997-03-15,Thailand,Japan,3,1,Friendly,Bangkok,Thailand,FALSE
@@ -21927,7 +21927,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1997-04-30,Romania,Republic of Ireland,1,0,FIFA World Cup qualification,Bucharest,Romania,FALSE
 1997-04-30,Russia,Luxembourg,3,0,FIFA World Cup qualification,Moscow,Russia,FALSE
 1997-04-30,San Marino,Netherlands,0,6,FIFA World Cup qualification,Serravalle,San Marino,FALSE
-1997-04-30,Serbia,Spain,1,1,FIFA World Cup qualification,Belgrade,Yugoslavia,TRUE
+1997-04-30,Serbia,Spain,1,1,FIFA World Cup qualification,Belgrade,FR Yugoslavia,TRUE
 1997-04-30,Sweden,Scotland,2,1,FIFA World Cup qualification,Gothenburg,Sweden,FALSE
 1997-04-30,Switzerland,Hungary,1,0,FIFA World Cup qualification,Zürich,Switzerland,FALSE
 1997-04-30,Syria,Libya,1,1,Friendly,Damascus,Syria,FALSE
@@ -22033,7 +22033,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1997-06-08,Latvia,Austria,1,3,FIFA World Cup qualification,Riga,Latvia,FALSE
 1997-06-08,Liberia,Namibia,1,2,FIFA World Cup qualification,Monrovia,Liberia,FALSE
 1997-06-08,Russia,Israel,2,0,FIFA World Cup qualification,Moscow,Russia,FALSE
-1997-06-08,Serbia,Slovakia,2,0,FIFA World Cup qualification,Belgrade,Yugoslavia,TRUE
+1997-06-08,Serbia,Slovakia,2,0,FIFA World Cup qualification,Belgrade,FR Yugoslavia,TRUE
 1997-06-08,South Africa,Zambia,3,0,FIFA World Cup qualification,Johannesburg,South Africa,FALSE
 1997-06-08,Spain,Czech Republic,1,0,FIFA World Cup qualification,Valladolid,Spain,FALSE
 1997-06-08,Togo,Zimbabwe,2,1,FIFA World Cup qualification,Lomé,Togo,FALSE
@@ -22452,7 +22452,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1997-11-15,England,Cameroon,2,0,Friendly,London,England,FALSE
 1997-11-15,Germany,South Africa,3,0,Friendly,Düsseldorf,Germany,FALSE
 1997-11-15,Italy,Russia,1,0,FIFA World Cup qualification,Naples,Italy,FALSE
-1997-11-15,Serbia,Hungary,5,0,FIFA World Cup qualification,Belgrade,Yugoslavia,TRUE
+1997-11-15,Serbia,Hungary,5,0,FIFA World Cup qualification,Belgrade,FR Yugoslavia,TRUE
 1997-11-15,Ukraine,Croatia,1,1,FIFA World Cup qualification,Kyiv,Ukraine,FALSE
 1997-11-16,Argentina,Colombia,1,1,FIFA World Cup qualification,Buenos Aires,Argentina,FALSE
 1997-11-16,Chile,Bolivia,3,0,FIFA World Cup qualification,Santiago,Chile,FALSE
@@ -22515,7 +22515,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1997-12-23,Catalonia,Bulgaria,1,1,Friendly,Barcelona,Spain,FALSE
 1997-12-24,Cameroon,Togo,3,1,Friendly,Cairo,Egypt,TRUE
 1997-12-24,Egypt,Algeria,1,2,Friendly,Cairo,Egypt,FALSE
-1997-12-26,Basque Country,Yugoslavia,3,1,Friendly,Bilbao,Spain,FALSE
+1997-12-26,Basque Country,Serbia,3,1,Friendly,Bilbao,Spain,FALSE
 1997-12-27,Burkina Faso,Ivory Coast,2,0,Friendly,Ouagadougou,Burkina Faso,FALSE
 1997-12-28,Lesotho,Eswatini,0,0,Friendly,Maseru,Lesotho,FALSE
 1998-01-03,Malawi,Zimbabwe,1,0,Friendly,Blantyre,Malawi,FALSE
@@ -22728,7 +22728,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1998-04-22,Northern Ireland,Switzerland,1,0,Friendly,Belfast,Northern Ireland,FALSE
 1998-04-22,Russia,Turkey,1,0,Friendly,Moscow,Russia,FALSE
 1998-04-22,Scotland,Finland,1,1,Friendly,Edinburgh,Scotland,FALSE
-1998-04-22,Serbia,South Korea,3,1,Friendly,Belgrade,Yugoslavia,FALSE
+1998-04-22,Serbia,South Korea,3,1,Friendly,Belgrade,FR Yugoslavia,FALSE
 1998-04-22,Slovenia,Czech Republic,1,3,Friendly,Murska Sobota,Slovenia,FALSE
 1998-04-22,Sweden,France,0,0,Friendly,Solna,Sweden,FALSE
 1998-04-24,Azerbaijan,Uzbekistan,2,1,Friendly,Baku,Azerbaijan,FALSE
@@ -22781,7 +22781,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1998-05-28,Sweden,Denmark,3,0,Friendly,Malmö,Sweden,FALSE
 1998-05-29,Belgium,England,0,0,King Hassan II Tournament,Casablanca,Morocco,TRUE
 1998-05-29,Morocco,France,2,2,King Hassan II Tournament,Casablanca,Morocco,FALSE
-1998-05-29,Serbia,Nigeria,3,0,Friendly,Belgrade,Yugoslavia,FALSE
+1998-05-29,Serbia,Nigeria,3,0,Friendly,Belgrade,FR Yugoslavia,FALSE
 1998-05-30,Georgia,Russia,1,1,Friendly,Tbilisi,Georgia,FALSE
 1998-05-30,Germany,Colombia,3,1,Friendly,Frankfurt am Main,Germany,FALSE
 1998-05-30,Namibia,Angola,1,1,COSAFA Cup,Windhoek,Namibia,FALSE
@@ -23009,7 +23009,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1998-09-02,Malta,Germany,1,2,Friendly,Attard,Malta,FALSE
 1998-09-02,Morocco,Senegal,2,0,Friendly,Tangier,Morocco,FALSE
 1998-09-02,Romania,Liechtenstein,7,0,UEFA Euro qualification,Bucharest,Romania,FALSE
-1998-09-02,Serbia,Switzerland,1,1,Friendly,Niš,Yugoslavia,FALSE
+1998-09-02,Serbia,Switzerland,1,1,Friendly,Niš,FR Yugoslavia,FALSE
 1998-09-02,Singapore,Indonesia,2,1,AFF Championship,Ho Chi Minh City,Vietnam,TRUE
 1998-09-02,Tonga,American Samoa,3,0,Oceania Nations Cup qualification,Avarua,Cook Islands,TRUE
 1998-09-03,Cook Islands,American Samoa,4,3,Oceania Nations Cup qualification,Avarua,Cook Islands,FALSE
@@ -23206,7 +23206,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1998-11-18,Northern Ireland,Moldova,2,2,UEFA Euro qualification,Belfast,Northern Ireland,FALSE
 1998-11-18,Portugal,Israel,2,0,Friendly,Setúbal,Portugal,FALSE
 1998-11-18,San Marino,Cyprus,0,1,UEFA Euro qualification,Serravalle,San Marino,FALSE
-1998-11-18,Serbia,Republic of Ireland,1,0,UEFA Euro qualification,Belgrade,Yugoslavia,FALSE
+1998-11-18,Serbia,Republic of Ireland,1,0,UEFA Euro qualification,Belgrade,FR Yugoslavia,FALSE
 1998-11-19,Hong Kong,Vietnam,1,1,Friendly,Victoria,Hong Kong,FALSE
 1998-11-19,India,Uzbekistan,0,4,Friendly,Calcutta,India,FALSE
 1998-11-21,Armenia,Estonia,2,1,Friendly,Abovyan,Armenia,FALSE
@@ -23817,7 +23817,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1999-08-18,Norway,Lithuania,1,0,Friendly,Oslo,Norway,FALSE
 1999-08-18,Poland,Spain,1,2,Friendly,Warsaw,Poland,FALSE
 1999-08-18,Portugal,Andorra,4,0,Friendly,Oeiras,Portugal,FALSE
-1999-08-18,Serbia,Croatia,0,0,UEFA Euro qualification,Belgrade,Yugoslavia,FALSE
+1999-08-18,Serbia,Croatia,0,0,UEFA Euro qualification,Belgrade,FR Yugoslavia,FALSE
 1999-08-18,Slovakia,Israel,1,0,Friendly,Bratislava,Slovakia,FALSE
 1999-08-18,Slovenia,Albania,2,0,UEFA Euro qualification,Ljubljana,Slovenia,FALSE
 1999-08-18,Sweden,Austria,0,0,Friendly,Malmö,Sweden,FALSE
@@ -23854,7 +23854,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1999-09-04,Sweden,Bulgaria,1,0,UEFA Euro qualification,Solna,Sweden,FALSE
 1999-09-04,Ukraine,France,0,0,UEFA Euro qualification,Kyiv,Ukraine,FALSE
 1999-09-05,Cyprus,Israel,3,2,UEFA Euro qualification,Limassol,Cyprus,FALSE
-1999-09-05,Serbia,North Macedonia,3,1,UEFA Euro qualification,Belgrade,Yugoslavia,FALSE
+1999-09-05,Serbia,North Macedonia,3,1,UEFA Euro qualification,Belgrade,FR Yugoslavia,FALSE
 1999-09-07,Belgium,Morocco,4,0,Friendly,Liège,Belgium,FALSE
 1999-09-07,Brazil,Argentina,4,2,Friendly,Porto Alegre,Brazil,FALSE
 1999-09-08,Andorra,Russia,1,2,UEFA Euro qualification,Sant Julià de Lòria,Andorra,FALSE
@@ -24047,7 +24047,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1999-12-21,Morocco,Senegal,0,0,Friendly,Agadir,Morocco,FALSE
 1999-12-22,Tunisia,Ghana,2,0,Friendly,Sfax,Tunisia,FALSE
 1999-12-23,Libya,Gabon,2,0,Friendly,Benghazi,Libya,FALSE
-1999-12-23,Catalonia,Yugoslavia,1,0,Friendly,Barcelona,Spain,FALSE
+1999-12-23,Catalonia,FR Yugoslavia,1,0,Friendly,Barcelona,Spain,FALSE
 1999-12-27,Gabon,Togo,3,2,Friendly,Benghazi,Libya,TRUE
 1999-12-28,Malaysia,Singapore,1,0,Friendly,Dubai,United Arab Emirates,TRUE
 1999-12-28,Andalusia,Estonia,1,0,Friendly,Granada,Spain,FALSE
@@ -24301,7 +24301,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2000-03-28,Colombia,Brazil,0,0,FIFA World Cup qualification,Bogotá,Colombia,FALSE
 2000-03-28,El Salvador,Haiti,3,1,Friendly,San Salvador,El Salvador,FALSE
 2000-03-28,Malta,Northern Ireland,0,3,Friendly,Attard,Malta,FALSE
-2000-03-28,Serbia,China PR,1,0,Friendly,Belgrade,Yugoslavia,FALSE
+2000-03-28,Serbia,China PR,1,0,Friendly,Belgrade,FR Yugoslavia,FALSE
 2000-03-29,Argentina,Chile,4,1,FIFA World Cup qualification,Buenos Aires,Argentina,FALSE
 2000-03-29,Austria,Sweden,1,1,Friendly,Graz,Austria,FALSE
 2000-03-29,Belgium,Netherlands,2,2,Friendly,Brussels,Belgium,FALSE
@@ -25335,7 +25335,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2001-03-24,Russia,Slovenia,1,1,FIFA World Cup qualification,Moscow,Russia,FALSE
 2001-03-24,Scotland,Belgium,2,2,FIFA World Cup qualification,Glasgow,Scotland,FALSE
 2001-03-24,Senegal,Uganda,3,0,African Cup of Nations qualification,Dakar,Senegal,FALSE
-2001-03-24,Serbia,Switzerland,1,1,FIFA World Cup qualification,Belgrade,Yugoslavia,TRUE
+2001-03-24,Serbia,Switzerland,1,1,FIFA World Cup qualification,Belgrade,FR Yugoslavia,TRUE
 2001-03-24,South Africa,Mauritius,3,0,African Cup of Nations qualification,Port Elizabeth,South Africa,FALSE
 2001-03-24,Spain,Liechtenstein,5,0,FIFA World Cup qualification,Alicante,Spain,FALSE
 2001-03-24,Sweden,North Macedonia,1,0,FIFA World Cup qualification,Gothenburg,Sweden,FALSE
@@ -25485,7 +25485,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2001-04-25,Norway,Bulgaria,2,1,Friendly,Oslo,Norway,FALSE
 2001-04-25,Poland,Scotland,1,1,Friendly,Bydgoszcz,Poland,FALSE
 2001-04-25,Romania,Slovakia,0,0,Friendly,Ploiești,Romania,FALSE
-2001-04-25,Serbia,Russia,0,1,FIFA World Cup qualification,Belgrade,Yugoslavia,TRUE
+2001-04-25,Serbia,Russia,0,1,FIFA World Cup qualification,Belgrade,FR Yugoslavia,TRUE
 2001-04-25,Spain,Japan,1,0,Friendly,Córdoba,Spain,FALSE
 2001-04-25,Switzerland,Sweden,0,2,Friendly,Geneva,Switzerland,FALSE
 2001-04-25,Trinidad and Tobago,Mexico,1,1,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,FALSE
@@ -25869,7 +25869,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2001-08-15,Norway,Turkey,1,1,Friendly,Oslo,Norway,FALSE
 2001-08-15,Portugal,Moldova,3,0,Friendly,Faro,Portugal,FALSE
 2001-08-15,Russia,Greece,0,0,Friendly,Moscow,Russia,FALSE
-2001-08-15,Serbia,Faroe Islands,2,0,FIFA World Cup qualification,Belgrade,Yugoslavia,TRUE
+2001-08-15,Serbia,Faroe Islands,2,0,FIFA World Cup qualification,Belgrade,FR Yugoslavia,TRUE
 2001-08-15,Slovakia,Iran,3,4,Friendly,Bratislava,Slovakia,FALSE
 2001-08-15,Slovenia,Romania,2,2,Friendly,Ljubljana,Slovenia,FALSE
 2001-08-15,Sweden,South Africa,3,0,Friendly,Solna,Sweden,FALSE
@@ -25941,7 +25941,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2001-09-05,Norway,Wales,3,2,FIFA World Cup qualification,Oslo,Norway,FALSE
 2001-09-05,Paraguay,Bolivia,5,1,FIFA World Cup qualification,Asunción,Paraguay,FALSE
 2001-09-05,San Marino,Croatia,0,4,FIFA World Cup qualification,Serravalle,San Marino,FALSE
-2001-09-05,Serbia,Slovenia,1,1,FIFA World Cup qualification,Belgrade,Yugoslavia,TRUE
+2001-09-05,Serbia,Slovenia,1,1,FIFA World Cup qualification,Belgrade,FR Yugoslavia,TRUE
 2001-09-05,Slovakia,Moldova,4,2,FIFA World Cup qualification,Trenčín,Slovakia,FALSE
 2001-09-05,Turkey,Sweden,1,2,FIFA World Cup qualification,Istanbul,Turkey,FALSE
 2001-09-05,Ukraine,Armenia,3,0,FIFA World Cup qualification,Lviv,Ukraine,FALSE
@@ -25991,7 +25991,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2001-10-06,Romania,Georgia,1,1,FIFA World Cup qualification,Bucharest,Romania,FALSE
 2001-10-06,Russia,Switzerland,4,0,FIFA World Cup qualification,Moscow,Russia,FALSE
 2001-10-06,Scotland,Latvia,2,1,FIFA World Cup qualification,Glasgow,Scotland,FALSE
-2001-10-06,Serbia,Luxembourg,6,2,FIFA World Cup qualification,Belgrade,Yugoslavia,TRUE
+2001-10-06,Serbia,Luxembourg,6,2,FIFA World Cup qualification,Belgrade,FR Yugoslavia,TRUE
 2001-10-06,Slovenia,Faroe Islands,3,0,FIFA World Cup qualification,Ljubljana,Slovenia,FALSE
 2001-10-06,Venezuela,Peru,3,0,FIFA World Cup qualification,San Cristóbal,Venezuela,FALSE
 2001-10-06,Wales,Belarus,1,0,FIFA World Cup qualification,Cardiff,Wales,FALSE
@@ -26359,7 +26359,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2002-04-17,Poland,Romania,1,2,Friendly,Bydgoszcz,Poland,FALSE
 2002-04-17,Portugal,Brazil,1,1,Friendly,Lisbon,Portugal,FALSE
 2002-04-17,Scotland,Nigeria,1,2,Friendly,Aberdeen,Scotland,FALSE
-2002-04-17,Serbia,Lithuania,4,1,Friendly,Smederevo,Yugoslavia,FALSE
+2002-04-17,Serbia,Lithuania,4,1,Friendly,Smederevo,FR Yugoslavia,FALSE
 2002-04-17,Slovenia,Tunisia,1,0,Friendly,Ljubljana,Slovenia,FALSE
 2002-04-17,Turkey,Chile,2,0,Friendly,Kerkrade,Netherlands,TRUE
 2002-04-17,Ukraine,Georgia,2,1,Friendly,Kyiv,Ukraine,FALSE
@@ -26738,7 +26738,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2002-10-16,Norway,Bosnia and Herzegovina,2,0,UEFA Euro qualification,Oslo,Norway,FALSE
 2002-10-16,Poland,New Zealand,2,0,Friendly,Ostrowiec Świętokrzyski,Poland,FALSE
 2002-10-16,Russia,Albania,4,1,UEFA Euro qualification,Volgograd,Russia,FALSE
-2002-10-16,Serbia,Finland,2,0,UEFA Euro qualification,Belgrade,Yugoslavia,FALSE
+2002-10-16,Serbia,Finland,2,0,UEFA Euro qualification,Belgrade,FR Yugoslavia,FALSE
 2002-10-16,Spain,Paraguay,0,0,Friendly,Logroño,Spain,FALSE
 2002-10-16,Sweden,Portugal,2,3,Friendly,Gothenburg,Sweden,FALSE
 2002-10-16,Turkey,Liechtenstein,5,0,UEFA Euro qualification,Istanbul,Turkey,FALSE
@@ -47138,6 +47138,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-04-26,Guatemala,Nicaragua,1,1,Friendly,San Jose,United States,TRUE
 2024-05-31,Bolivia,Mexico,0,1,Friendly,Chicago,United States,TRUE
 2024-05-31,Costa Rica,Uruguay,0,0,Friendly,San José,Costa Rica,FALSE
+2024-06-01,Greenland,Turkmenistan,0,5,Friendly,Antalya,Turkey,TRUE
 2024-06-02,Indonesia,Tanzania,0,0,Friendly,Jakarta,Indonesia,FALSE
 2024-06-03,Albania,Liechtenstein,3,0,Friendly,Szombathely,Hungary,TRUE
 2024-06-03,Croatia,North Macedonia,3,0,Friendly,Rijeka,Croatia,FALSE
