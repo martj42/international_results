@@ -44361,6 +44361,504 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-07-14,Spain,England,Spain,Nico Williams,47,FALSE,FALSE
 2024-07-14,Spain,England,England,Cole Palmer,73,FALSE,FALSE
 2024-07-14,Spain,England,Spain,Mikel Oyarzabal,86,FALSE,FALSE
+2024-09-05,Azerbaijan,Sweden,Sweden,Alexander Isak,65,FALSE,FALSE
+2024-09-05,Azerbaijan,Sweden,Sweden,Alexander Isak,71,FALSE,FALSE
+2024-09-05,Azerbaijan,Sweden,Sweden,Viktor Gyökeres,80,FALSE,TRUE
+2024-09-05,Azerbaijan,Sweden,Azerbaijan,Renat Dadashov,82,FALSE,FALSE
+2024-09-05,Denmark,Switzerland,Denmark,Patrick Dorgu,82,FALSE,FALSE
+2024-09-05,Denmark,Switzerland,Denmark,Pierre-Emile Højbjerg,90,FALSE,FALSE
+2024-09-05,Estonia,Slovakia,Slovakia,Tomáš Suslov,70,FALSE,FALSE
+2024-09-05,Northern Ireland,Luxembourg,Northern Ireland,Paddy McNair,11,FALSE,FALSE
+2024-09-05,Northern Ireland,Luxembourg,Northern Ireland,Daniel Ballard,16,FALSE,FALSE
+2024-09-05,Portugal,Croatia,Portugal,Diogo Dalot,7,FALSE,FALSE
+2024-09-05,Portugal,Croatia,Portugal,Cristiano Ronaldo,34,FALSE,FALSE
+2024-09-05,Portugal,Croatia,Croatia,Diogo Dalot,41,TRUE,FALSE
+2024-09-05,San Marino,Liechtenstein,San Marino,Nicko Sensoli,53,FALSE,FALSE
+2024-09-05,Scotland,Poland,Poland,Sebastian Szymański,8,FALSE,FALSE
+2024-09-05,Scotland,Poland,Poland,Robert Lewandowski,44,FALSE,TRUE
+2024-09-05,Scotland,Poland,Scotland,Billy Gilmour,46,FALSE,FALSE
+2024-09-05,Scotland,Poland,Scotland,Scott McTominay,76,FALSE,FALSE
+2024-09-05,Scotland,Poland,Poland,Nicola Zalewski,90,FALSE,TRUE
+2024-09-06,Belgium,Israel,Belgium,Kevin De Bruyne,21,FALSE,FALSE
+2024-09-06,Belgium,Israel,Israel,Timothy Castagne,36,TRUE,FALSE
+2024-09-06,Belgium,Israel,Belgium,Youri Tielemans,48,FALSE,FALSE
+2024-09-06,Belgium,Israel,Belgium,Kevin De Bruyne,52,FALSE,TRUE
+2024-09-06,France,Italy,France,Bradley Barcola,1,FALSE,FALSE
+2024-09-06,France,Italy,Italy,Federico Dimarco,30,FALSE,FALSE
+2024-09-06,France,Italy,Italy,Davide Frattesi,51,FALSE,FALSE
+2024-09-06,France,Italy,Italy,Giacomo Raspadori,74,FALSE,FALSE
+2024-09-06,Iceland,Montenegro,Iceland,Orri Óskarsson,39,FALSE,FALSE
+2024-09-06,Iceland,Montenegro,Iceland,Jón Dagur Þorsteinsson,58,FALSE,FALSE
+2024-09-06,Kosovo,Romania,Romania,Dennis Man,40,FALSE,FALSE
+2024-09-06,Kosovo,Romania,Romania,Răzvan Marin,51,FALSE,TRUE
+2024-09-06,Kosovo,Romania,Romania,Denis Drăguș,82,FALSE,FALSE
+2024-09-06,Lithuania,Cyprus,Cyprus,Ioannis Pittas,34,FALSE,FALSE
+2024-09-06,Slovenia,Austria,Slovenia,Benjamin Šeško,16,FALSE,TRUE
+2024-09-06,Slovenia,Austria,Austria,Konrad Laimer,28,FALSE,FALSE
+2024-09-07,Armenia,Latvia,Armenia,Vahan Bichakhchyan,6,FALSE,FALSE
+2024-09-07,Armenia,Latvia,Latvia,Georgy Arutyunyan,9,TRUE,FALSE
+2024-09-07,Armenia,Latvia,Armenia,Kaspars Dubra,35,TRUE,FALSE
+2024-09-07,Armenia,Latvia,Armenia,Lucas Zelarayán,48,FALSE,FALSE
+2024-09-07,Armenia,Latvia,Armenia,Eduard Spertsyan,86,FALSE,FALSE
+2024-09-07,Faroe Islands,North Macedonia,Faroe Islands,Viljormur Davidsen,9,FALSE,TRUE
+2024-09-07,Faroe Islands,North Macedonia,North Macedonia,Enis Bardhi,49,FALSE,TRUE
+2024-09-07,Georgia,Czech Republic,Georgia,Khvicha Kvaratskhelia,33,FALSE,TRUE
+2024-09-07,Georgia,Czech Republic,Georgia,Giorgi Chakvetadze,53,FALSE,FALSE
+2024-09-07,Georgia,Czech Republic,Georgia,Georges Mikautadze,63,FALSE,FALSE
+2024-09-07,Georgia,Czech Republic,Georgia,Giorgi Kochorashvili,66,FALSE,FALSE
+2024-09-07,Georgia,Czech Republic,Czech Republic,Lukáš Kalvach,80,FALSE,FALSE
+2024-09-07,Germany,Hungary,Germany,Niclas Füllkrug,27,FALSE,FALSE
+2024-09-07,Germany,Hungary,Germany,Jamal Musiala,58,FALSE,FALSE
+2024-09-07,Germany,Hungary,Germany,Florian Wirtz,66,FALSE,FALSE
+2024-09-07,Germany,Hungary,Germany,Aleksandar Pavlović,77,FALSE,FALSE
+2024-09-07,Germany,Hungary,Germany,Kai Havertz,81,FALSE,TRUE
+2024-09-07,Greece,Finland,Greece,Fotis Ioannidis,23,FALSE,FALSE
+2024-09-07,Greece,Finland,Greece,Benjamin Källman,37,TRUE,FALSE
+2024-09-07,Greece,Finland,Greece,Fotis Ioannidis,76,FALSE,FALSE
+2024-09-07,Moldova,Malta,Moldova,Mihail Caimacov,32,FALSE,FALSE
+2024-09-07,Moldova,Malta,Moldova,Ion Nicolaescu,45,FALSE,TRUE
+2024-09-07,Netherlands,Bosnia and Herzegovina,Netherlands,Joshua Zirkzee,13,FALSE,FALSE
+2024-09-07,Netherlands,Bosnia and Herzegovina,Bosnia and Herzegovina,Ermedin Demirović,27,FALSE,FALSE
+2024-09-07,Netherlands,Bosnia and Herzegovina,Netherlands,Tijjani Reijnders,45,FALSE,FALSE
+2024-09-07,Netherlands,Bosnia and Herzegovina,Netherlands,Cody Gakpo,56,FALSE,FALSE
+2024-09-07,Netherlands,Bosnia and Herzegovina,Bosnia and Herzegovina,Edin Džeko,73,FALSE,FALSE
+2024-09-07,Netherlands,Bosnia and Herzegovina,Netherlands,Wout Weghorst,88,FALSE,FALSE
+2024-09-07,Netherlands,Bosnia and Herzegovina,Netherlands,Xavi Simons,90,FALSE,FALSE
+2024-09-07,Republic of Ireland,England,England,Declan Rice,11,FALSE,FALSE
+2024-09-07,Republic of Ireland,England,England,Jack Grealish,26,FALSE,FALSE
+2024-09-07,Ukraine,Albania,Ukraine,Yukhym Konoplya,49,FALSE,FALSE
+2024-09-07,Ukraine,Albania,Albania,Ardian Ismajli,54,FALSE,FALSE
+2024-09-07,Ukraine,Albania,Albania,Jasir Asani,66,FALSE,FALSE
+2024-09-08,Bulgaria,Northern Ireland,Bulgaria,Kiril Despodov,40,FALSE,FALSE
+2024-09-08,Croatia,Poland,Croatia,Luka Modrić,52,FALSE,FALSE
+2024-09-08,Denmark,Serbia,Denmark,Albert Grønbæk,36,FALSE,FALSE
+2024-09-08,Denmark,Serbia,Denmark,Yussuf Poulsen,61,FALSE,FALSE
+2024-09-08,Gibraltar,Liechtenstein,Gibraltar,Liam Walker,8,FALSE,FALSE
+2024-09-08,Gibraltar,Liechtenstein,Liechtenstein,Ferhat Saglam,53,FALSE,FALSE
+2024-09-08,Gibraltar,Liechtenstein,Gibraltar,James Scanlon,90,FALSE,FALSE
+2024-09-08,Gibraltar,Liechtenstein,Liechtenstein,Nicolas Hasler,90,FALSE,TRUE
+2024-09-08,Luxembourg,Belarus,Belarus,Valery Gromyko,76,FALSE,FALSE
+2024-09-08,Portugal,Scotland,Scotland,Scott McTominay,7,FALSE,FALSE
+2024-09-08,Portugal,Scotland,Portugal,Bruno Fernandes,54,FALSE,FALSE
+2024-09-08,Portugal,Scotland,Portugal,Cristiano Ronaldo,88,FALSE,FALSE
+2024-09-08,Slovakia,Azerbaijan,Slovakia,Ondrej Duda,22,FALSE,TRUE
+2024-09-08,Slovakia,Azerbaijan,Slovakia,David Strelec,26,FALSE,FALSE
+2024-09-08,Sweden,Estonia,Sweden,Viktor Gyökeres,30,FALSE,FALSE
+2024-09-08,Sweden,Estonia,Sweden,Alexander Isak,40,FALSE,FALSE
+2024-09-08,Sweden,Estonia,Sweden,Viktor Gyökeres,44,FALSE,FALSE
+2024-09-08,Switzerland,Spain,Spain,Joselu,4,FALSE,FALSE
+2024-09-08,Switzerland,Spain,Spain,Fabián Ruiz,13,FALSE,FALSE
+2024-09-08,Switzerland,Spain,Switzerland,Zeki Amdouni,41,FALSE,FALSE
+2024-09-08,Switzerland,Spain,Spain,Fabián Ruiz,77,FALSE,FALSE
+2024-09-08,Switzerland,Spain,Spain,Ferran Torres,80,FALSE,FALSE
+2024-09-09,Cyprus,Kosovo,Kosovo,Vedat Muriqi,9,FALSE,TRUE
+2024-09-09,Cyprus,Kosovo,Kosovo,Vedat Muriqi,21,FALSE,FALSE
+2024-09-09,Cyprus,Kosovo,Kosovo,Albion Rrahmani,48,FALSE,FALSE
+2024-09-09,Cyprus,Kosovo,Kosovo,Lumbardh Dellova,55,FALSE,FALSE
+2024-09-09,France,Belgium,France,Randal Kolo Muani,29,FALSE,FALSE
+2024-09-09,France,Belgium,France,Ousmane Dembélé,57,FALSE,FALSE
+2024-09-09,Israel,Italy,Italy,Davide Frattesi,38,FALSE,FALSE
+2024-09-09,Israel,Italy,Italy,Moise Kean,62,FALSE,FALSE
+2024-09-09,Israel,Italy,Israel,Mohammad Abu Fani,90,FALSE,FALSE
+2024-09-09,Montenegro,Wales,Wales,Kieffer Moore,1,FALSE,FALSE
+2024-09-09,Montenegro,Wales,Wales,Harry Wilson,3,FALSE,FALSE
+2024-09-09,Montenegro,Wales,Montenegro,Driton Camaj,73,FALSE,FALSE
+2024-09-09,Norway,Austria,Norway,Felix Horn Myhre,9,FALSE,FALSE
+2024-09-09,Norway,Austria,Austria,Marcel Sabitzer,37,FALSE,FALSE
+2024-09-09,Norway,Austria,Norway,Erling Haaland,80,FALSE,FALSE
+2024-09-09,Romania,Lithuania,Romania,Valentin Mihăilă,4,FALSE,FALSE
+2024-09-09,Romania,Lithuania,Lithuania,Armandas Kučys,34,FALSE,FALSE
+2024-09-09,Romania,Lithuania,Romania,Răzvan Marin,87,FALSE,TRUE
+2024-09-09,Romania,Lithuania,Romania,Alexandru Mitriță,90,FALSE,FALSE
+2024-09-09,Slovenia,Kazakhstan,Slovenia,Benjamin Šeško,23,FALSE,FALSE
+2024-09-09,Slovenia,Kazakhstan,Slovenia,Benjamin Šeško,28,FALSE,FALSE
+2024-09-09,Slovenia,Kazakhstan,Slovenia,Benjamin Šeško,63,FALSE,FALSE
+2024-09-09,Turkey,Iceland,Turkey,Kerem Aktürkoğlu,2,FALSE,FALSE
+2024-09-09,Turkey,Iceland,Iceland,Victor Pálsson,37,FALSE,FALSE
+2024-09-09,Turkey,Iceland,Turkey,Kerem Aktürkoğlu,52,FALSE,FALSE
+2024-09-09,Turkey,Iceland,Turkey,Kerem Aktürkoğlu,88,FALSE,FALSE
+2024-09-10,Albania,Georgia,Georgia,Giorgi Kochorashvili,71,FALSE,FALSE
+2024-09-10,Andorra,Malta,Malta,Ryan Camenzuli,45,FALSE,FALSE
+2024-09-10,Czech Republic,Ukraine,Czech Republic,Pavel Šulc,21,FALSE,FALSE
+2024-09-10,Czech Republic,Ukraine,Ukraine,Vladyslav Vanat,37,FALSE,FALSE
+2024-09-10,Czech Republic,Ukraine,Czech Republic,Pavel Šulc,45,FALSE,FALSE
+2024-09-10,Czech Republic,Ukraine,Czech Republic,Tomáš Souček,80,FALSE,TRUE
+2024-09-10,Czech Republic,Ukraine,Ukraine,Heorhiy Sudakov,84,FALSE,FALSE
+2024-09-10,England,Finland,England,Harry Kane,57,FALSE,FALSE
+2024-09-10,England,Finland,England,Harry Kane,76,FALSE,FALSE
+2024-09-10,Latvia,Faroe Islands,Latvia,Renārs Varslavāns,64,FALSE,FALSE
+2024-09-10,Netherlands,Germany,Netherlands,Tijjani Reijnders,2,FALSE,FALSE
+2024-09-10,Netherlands,Germany,Germany,Deniz Undav,38,FALSE,FALSE
+2024-09-10,Netherlands,Germany,Germany,Joshua Kimmich,45,FALSE,FALSE
+2024-09-10,Netherlands,Germany,Netherlands,Denzel Dumfries,50,FALSE,FALSE
+2024-09-10,North Macedonia,Armenia,North Macedonia,Enis Bardhi,70,FALSE,FALSE
+2024-09-10,North Macedonia,Armenia,North Macedonia,Bojan Miovski,78,FALSE,FALSE
+2024-09-10,Republic of Ireland,Greece,Greece,Fotis Ioannidis,50,FALSE,FALSE
+2024-09-10,Republic of Ireland,Greece,Greece,Christos Tzolis,87,FALSE,FALSE
+2024-10-10,Austria,Kazakhstan,Austria,Christoph Baumgartner,10,FALSE,FALSE
+2024-10-10,Austria,Kazakhstan,Austria,Philipp Lienhart,54,FALSE,FALSE
+2024-10-10,Austria,Kazakhstan,Austria,Marcel Sabitzer,56,FALSE,FALSE
+2024-10-10,Austria,Kazakhstan,Austria,Matthias Seidl,79,FALSE,FALSE
+2024-10-10,England,Greece,Greece,Vangelis Pavlidis,49,FALSE,FALSE
+2024-10-10,England,Greece,England,Jude Bellingham,87,FALSE,FALSE
+2024-10-10,England,Greece,Greece,Vangelis Pavlidis,90,FALSE,FALSE
+2024-10-10,Faroe Islands,Armenia,Faroe Islands,Jann Benjaminsen,37,FALSE,FALSE
+2024-10-10,Faroe Islands,Armenia,Armenia,Lucas Zelarayán,44,FALSE,FALSE
+2024-10-10,Faroe Islands,Armenia,Faroe Islands,Jóannes Bjartalíð,85,FALSE,FALSE
+2024-10-10,Faroe Islands,Armenia,Armenia,Gor Manvelyan,90,FALSE,FALSE
+2024-10-10,Finland,Republic of Ireland,Finland,Joel Pohjanpalo,17,FALSE,FALSE
+2024-10-10,Finland,Republic of Ireland,Republic of Ireland,Liam Scales,57,FALSE,FALSE
+2024-10-10,Finland,Republic of Ireland,Republic of Ireland,Robbie Brady,88,FALSE,FALSE
+2024-10-10,Gibraltar,San Marino,Gibraltar,Ethan Britto,62,FALSE,FALSE
+2024-10-10,Israel,France,France,Eduardo Camavinga,7,FALSE,FALSE
+2024-10-10,Israel,France,Israel,Omri Gandelman,24,FALSE,FALSE
+2024-10-10,Israel,France,France,Christopher Nkunku,28,FALSE,FALSE
+2024-10-10,Israel,France,France,Mattéo Guendouzi,87,FALSE,FALSE
+2024-10-10,Israel,France,France,Bradley Barcola,89,FALSE,FALSE
+2024-10-10,Italy,Belgium,Italy,Andrea Cambiaso,1,FALSE,FALSE
+2024-10-10,Italy,Belgium,Italy,Mateo Retegui,24,FALSE,FALSE
+2024-10-10,Italy,Belgium,Belgium,Maxim De Cuyper,42,FALSE,FALSE
+2024-10-10,Italy,Belgium,Belgium,Leandro Trossard,61,FALSE,FALSE
+2024-10-10,Latvia,North Macedonia,North Macedonia,Jani Atanasov,35,FALSE,FALSE
+2024-10-10,Latvia,North Macedonia,North Macedonia,Lirim Qamili,70,FALSE,FALSE
+2024-10-10,Latvia,North Macedonia,North Macedonia,Elif Elmas,90,FALSE,FALSE
+2024-10-10,Moldova,Andorra,Moldova,Artur Ioniță,31,FALSE,FALSE
+2024-10-10,Moldova,Andorra,Moldova,Maxim Cojocaru,90,FALSE,FALSE
+2024-10-10,Norway,Slovenia,Norway,Erling Haaland,7,FALSE,FALSE
+2024-10-10,Norway,Slovenia,Norway,Alexander Sørloth,52,FALSE,FALSE
+2024-10-10,Norway,Slovenia,Norway,Erling Haaland,62,FALSE,FALSE
+2024-10-11,Bosnia and Herzegovina,Germany,Germany,Deniz Undav,30,FALSE,FALSE
+2024-10-11,Bosnia and Herzegovina,Germany,Germany,Deniz Undav,36,FALSE,FALSE
+2024-10-11,Bosnia and Herzegovina,Germany,Bosnia and Herzegovina,Edin Džeko,70,FALSE,FALSE
+2024-10-11,Czech Republic,Albania,Czech Republic,Tomáš Chorý,3,FALSE,FALSE
+2024-10-11,Czech Republic,Albania,Czech Republic,Tomáš Chorý,63,FALSE,FALSE
+2024-10-11,Estonia,Azerbaijan,Estonia,Ioan Yakovlev,32,FALSE,FALSE
+2024-10-11,Estonia,Azerbaijan,Estonia,Vlasiy Sinyavskiy,45,FALSE,FALSE
+2024-10-11,Estonia,Azerbaijan,Azerbaijan,Toral Bayramov,45,FALSE,TRUE
+2024-10-11,Estonia,Azerbaijan,Estonia,Rocco Robert Shein,71,FALSE,FALSE
+2024-10-11,Hungary,Netherlands,Hungary,Roland Sallai,32,FALSE,FALSE
+2024-10-11,Hungary,Netherlands,Netherlands,Denzel Dumfries,83,FALSE,FALSE
+2024-10-11,Iceland,Wales,Wales,Brennan Johnson,11,FALSE,FALSE
+2024-10-11,Iceland,Wales,Wales,Harry Wilson,29,FALSE,FALSE
+2024-10-11,Iceland,Wales,Iceland,Logi Tómasson,69,FALSE,FALSE
+2024-10-11,Iceland,Wales,Iceland,Danny Ward,72,TRUE,FALSE
+2024-10-11,Slovakia,Sweden,Sweden,Yasin Ayari,25,FALSE,FALSE
+2024-10-11,Slovakia,Sweden,Sweden,Ken Sema,32,FALSE,FALSE
+2024-10-11,Slovakia,Sweden,Slovakia,David Strelec,44,FALSE,FALSE
+2024-10-11,Slovakia,Sweden,Slovakia,David Strelec,72,FALSE,FALSE
+2024-10-11,Turkey,Montenegro,Turkey,İrfan Kahveci,69,FALSE,FALSE
+2024-10-11,Ukraine,Georgia,Ukraine,Mykhailo Mudryk,35,FALSE,FALSE
+2024-10-12,Croatia,Scotland,Scotland,Ryan Christie,33,FALSE,FALSE
+2024-10-12,Croatia,Scotland,Croatia,Igor Matanović,36,FALSE,FALSE
+2024-10-12,Croatia,Scotland,Croatia,Andrej Kramarić,70,FALSE,FALSE
+2024-10-12,Cyprus,Romania,Romania,Dennis Man,16,FALSE,FALSE
+2024-10-12,Cyprus,Romania,Romania,Răzvan Marin,25,FALSE,TRUE
+2024-10-12,Cyprus,Romania,Romania,Radu Drăgușin,36,FALSE,FALSE
+2024-10-12,Lithuania,Kosovo,Kosovo,Edon Zhegrova,20,FALSE,FALSE
+2024-10-12,Lithuania,Kosovo,Kosovo,Ermal Krasniqi,65,FALSE,FALSE
+2024-10-12,Lithuania,Kosovo,Lithuania,Paulius Golubickas,84,FALSE,FALSE
+2024-10-12,Poland,Portugal,Portugal,Bernardo Silva,26,FALSE,FALSE
+2024-10-12,Poland,Portugal,Portugal,Cristiano Ronaldo,37,FALSE,FALSE
+2024-10-12,Poland,Portugal,Poland,Piotr Zieliński,78,FALSE,FALSE
+2024-10-12,Poland,Portugal,Portugal,Jan Bednarek,88,TRUE,FALSE
+2024-10-12,Serbia,Switzerland,Serbia,Nico Elvedi,45,TRUE,FALSE
+2024-10-12,Serbia,Switzerland,Serbia,Aleksandar Mitrović,61,FALSE,FALSE
+2024-10-12,Spain,Denmark,Spain,Martin Zubimendi,79,FALSE,FALSE
+2024-10-13,Armenia,North Macedonia,North Macedonia,Bojan Miovski,72,FALSE,FALSE
+2024-10-13,Armenia,North Macedonia,North Macedonia,Isnik Alimi,85,FALSE,FALSE
+2024-10-13,Austria,Norway,Austria,Marko Arnautović,8,FALSE,FALSE
+2024-10-13,Austria,Norway,Norway,Alexander Sørloth,39,FALSE,FALSE
+2024-10-13,Austria,Norway,Austria,Marko Arnautović,49,FALSE,TRUE
+2024-10-13,Austria,Norway,Austria,Philipp Lienhart,58,FALSE,FALSE
+2024-10-13,Austria,Norway,Austria,Stefan Posch,62,FALSE,FALSE
+2024-10-13,Austria,Norway,Austria,Michael Gregoritsch,71,FALSE,FALSE
+2024-10-13,Faroe Islands,Latvia,Faroe Islands,Hanus Sørensen,40,FALSE,FALSE
+2024-10-13,Faroe Islands,Latvia,Latvia,Dario Šits,69,FALSE,FALSE
+2024-10-13,Finland,England,England,Jack Grealish,18,FALSE,FALSE
+2024-10-13,Finland,England,England,Trent Alexander-Arnold,74,FALSE,FALSE
+2024-10-13,Finland,England,England,Declan Rice,84,FALSE,FALSE
+2024-10-13,Finland,England,Finland,Arttu Hoskonen,87,FALSE,FALSE
+2024-10-13,Greece,Republic of Ireland,Greece,Anastasios Bakasetas,48,FALSE,FALSE
+2024-10-13,Greece,Republic of Ireland,Greece,Petros Mantalos,90,FALSE,FALSE
+2024-10-13,Kazakhstan,Slovenia,Slovenia,Jan Mlakar,55,FALSE,FALSE
+2024-10-13,Malta,Moldova,Malta,Teddy Teuma,87,FALSE,TRUE
+2024-10-14,Azerbaijan,Slovakia,Slovakia,Rahil Mammadov,15,TRUE,FALSE
+2024-10-14,Azerbaijan,Slovakia,Azerbaijan,Toral Bayramov,38,FALSE,FALSE
+2024-10-14,Azerbaijan,Slovakia,Slovakia,Lukáš Haraslín,75,FALSE,FALSE
+2024-10-14,Azerbaijan,Slovakia,Slovakia,Dávid Ďuriš,86,FALSE,FALSE
+2024-10-14,Belgium,France,France,Randal Kolo Muani,35,FALSE,TRUE
+2024-10-14,Belgium,France,Belgium,Loïs Openda,45,FALSE,FALSE
+2024-10-14,Belgium,France,France,Randal Kolo Muani,62,FALSE,FALSE
+2024-10-14,Bosnia and Herzegovina,Hungary,Hungary,Dominik Szoboszlai,38,FALSE,FALSE
+2024-10-14,Bosnia and Herzegovina,Hungary,Hungary,Dominik Szoboszlai,50,FALSE,TRUE
+2024-10-14,Estonia,Sweden,Sweden,Sebastian Nanasi,29,FALSE,FALSE
+2024-10-14,Estonia,Sweden,Sweden,Sebastian Nanasi,37,FALSE,FALSE
+2024-10-14,Estonia,Sweden,Sweden,Viktor Gyökeres,66,FALSE,FALSE
+2024-10-14,Georgia,Albania,Albania,Kristjan Asllani,48,FALSE,FALSE
+2024-10-14,Germany,Netherlands,Germany,Jamie Leweling,64,FALSE,FALSE
+2024-10-14,Iceland,Turkey,Iceland,Orri Óskarsson,3,FALSE,FALSE
+2024-10-14,Iceland,Turkey,Turkey,İrfan Kahveci,62,FALSE,FALSE
+2024-10-14,Iceland,Turkey,Turkey,Hakan Çalhanoğlu,67,FALSE,TRUE
+2024-10-14,Iceland,Turkey,Iceland,Andri Guðjohnsen,83,FALSE,FALSE
+2024-10-14,Iceland,Turkey,Turkey,Arda Güler,88,FALSE,FALSE
+2024-10-14,Iceland,Turkey,Turkey,Kerem Aktürkoğlu,90,FALSE,FALSE
+2024-10-14,Italy,Israel,Italy,Mateo Retegui,41,FALSE,TRUE
+2024-10-14,Italy,Israel,Italy,Giovanni Di Lorenzo,54,FALSE,FALSE
+2024-10-14,Italy,Israel,Israel,Mohammad Abu Fani,66,FALSE,FALSE
+2024-10-14,Italy,Israel,Italy,Davide Frattesi,72,FALSE,FALSE
+2024-10-14,Italy,Israel,Italy,Giovanni Di Lorenzo,79,FALSE,FALSE
+2024-10-14,Ukraine,Czech Republic,Czech Republic,Lukáš Červ,18,FALSE,FALSE
+2024-10-14,Ukraine,Czech Republic,Ukraine,Artem Dovbyk,52,FALSE,TRUE
+2024-10-14,Wales,Montenegro,Wales,Harry Wilson,36,FALSE,TRUE
+2024-10-15,Belarus,Luxembourg,Belarus,Sergei Politevich,54,FALSE,FALSE
+2024-10-15,Belarus,Luxembourg,Luxembourg,Gerson Rodrigues,78,FALSE,TRUE
+2024-10-15,Kosovo,Cyprus,Kosovo,Amir Rrahmani,30,FALSE,FALSE
+2024-10-15,Kosovo,Cyprus,Kosovo,Ermal Krasniqi,52,FALSE,FALSE
+2024-10-15,Kosovo,Cyprus,Kosovo,Emir Sahiti,70,FALSE,FALSE
+2024-10-15,Lithuania,Romania,Lithuania,Armandas Kučys,7,FALSE,TRUE
+2024-10-15,Lithuania,Romania,Romania,Răzvan Marin,18,FALSE,TRUE
+2024-10-15,Lithuania,Romania,Romania,Denis Drăguș,65,FALSE,FALSE
+2024-10-15,Northern Ireland,Bulgaria,Northern Ireland,Isaac Price,15,FALSE,FALSE
+2024-10-15,Northern Ireland,Bulgaria,Northern Ireland,Isaac Price,29,FALSE,FALSE
+2024-10-15,Northern Ireland,Bulgaria,Northern Ireland,Dimitar Mitov,32,TRUE,FALSE
+2024-10-15,Northern Ireland,Bulgaria,Northern Ireland,Isaac Price,81,FALSE,FALSE
+2024-10-15,Northern Ireland,Bulgaria,Northern Ireland,Josh Magennis,89,FALSE,FALSE
+2024-10-15,Poland,Croatia,Poland,Piotr Zieliński,5,FALSE,FALSE
+2024-10-15,Poland,Croatia,Croatia,Borna Sosa,19,FALSE,FALSE
+2024-10-15,Poland,Croatia,Croatia,Petar Sučić,24,FALSE,FALSE
+2024-10-15,Poland,Croatia,Croatia,Martin Baturina,26,FALSE,FALSE
+2024-10-15,Poland,Croatia,Poland,Nicola Zalewski,45,FALSE,FALSE
+2024-10-15,Poland,Croatia,Poland,Sebastian Szymański,68,FALSE,FALSE
+2024-10-15,Spain,Serbia,Spain,Aymeric Laporte,5,FALSE,FALSE
+2024-10-15,Spain,Serbia,Spain,Álvaro Morata,65,FALSE,FALSE
+2024-10-15,Spain,Serbia,Spain,Álex Baena,77,FALSE,FALSE
+2024-10-15,Switzerland,Denmark,Switzerland,Remo Freuler,26,FALSE,FALSE
+2024-10-15,Switzerland,Denmark,Denmark,Gustav Isaksen,27,FALSE,FALSE
+2024-10-15,Switzerland,Denmark,Switzerland,Zeki Amdouni,45,FALSE,TRUE
+2024-10-15,Switzerland,Denmark,Denmark,Christian Eriksen,69,FALSE,FALSE
+2024-11-14,Armenia,Faroe Islands,Faroe Islands,Viljormur Davidsen,33,FALSE,TRUE
+2024-11-14,Belgium,Italy,Italy,Sandro Tonali,11,FALSE,FALSE
+2024-11-14,Greece,England,England,Ollie Watkins,7,FALSE,FALSE
+2024-11-14,Greece,England,England,Odisseas Vlachodimos,78,TRUE,FALSE
+2024-11-14,Greece,England,England,Curtis Jones,83,FALSE,FALSE
+2024-11-14,Kazakhstan,Austria,Austria,Christoph Baumgartner,15,FALSE,FALSE
+2024-11-14,Kazakhstan,Austria,Austria,Michael Gregoritsch,25,FALSE,FALSE
+2024-11-14,North Macedonia,Latvia,North Macedonia,Nikola Serafimov,57,FALSE,FALSE
+2024-11-14,Republic of Ireland,Finland,Republic of Ireland,Evan Ferguson,45,FALSE,FALSE
+2024-11-14,Slovenia,Norway,Norway,Antonio Nusa,4,FALSE,FALSE
+2024-11-14,Slovenia,Norway,Slovenia,Benjamin Šeško,21,FALSE,TRUE
+2024-11-14,Slovenia,Norway,Norway,Erling Haaland,45,FALSE,FALSE
+2024-11-14,Slovenia,Norway,Norway,Antonio Nusa,59,FALSE,FALSE
+2024-11-14,Slovenia,Norway,Norway,Jens Petter Hauge,82,FALSE,FALSE
+2024-11-15,Cyprus,Lithuania,Cyprus,Grigoris Kastanos,18,FALSE,FALSE
+2024-11-15,Cyprus,Lithuania,Lithuania,Gvidas Gineitis,47,FALSE,FALSE
+2024-11-15,Cyprus,Lithuania,Cyprus,Marinos Tzionis,63,FALSE,FALSE
+2024-11-15,Denmark,Spain,Spain,Mikel Oyarzabal,15,FALSE,FALSE
+2024-11-15,Denmark,Spain,Spain,Ayoze Pérez,58,FALSE,FALSE
+2024-11-15,Denmark,Spain,Denmark,Gustav Isaksen,84,FALSE,FALSE
+2024-11-15,Luxembourg,Bulgaria,Bulgaria,Andrian Kraev,23,FALSE,FALSE
+2024-11-15,Northern Ireland,Belarus,Northern Ireland,Daniel Ballard,50,FALSE,FALSE
+2024-11-15,Northern Ireland,Belarus,Northern Ireland,Dion Charles,63,FALSE,TRUE
+2024-11-15,Portugal,Poland,Portugal,Rafael Leão,59,FALSE,FALSE
+2024-11-15,Portugal,Poland,Portugal,Cristiano Ronaldo,72,FALSE,TRUE
+2024-11-15,Portugal,Poland,Portugal,Bruno Fernandes,80,FALSE,FALSE
+2024-11-15,Portugal,Poland,Portugal,Pedro Neto,83,FALSE,FALSE
+2024-11-15,Portugal,Poland,Portugal,Cristiano Ronaldo,87,FALSE,FALSE
+2024-11-15,Portugal,Poland,Poland,Dominik Marczuk,88,FALSE,FALSE
+2024-11-15,San Marino,Gibraltar,Gibraltar,Liam Walker,11,FALSE,TRUE
+2024-11-15,San Marino,Gibraltar,San Marino,Nicola Nanni,90,FALSE,TRUE
+2024-11-15,Scotland,Croatia,Scotland,John McGinn,86,FALSE,FALSE
+2024-11-15,Switzerland,Serbia,Switzerland,Zeki Amdouni,78,FALSE,FALSE
+2024-11-15,Switzerland,Serbia,Serbia,Aleksa Terzić,88,FALSE,FALSE
+2024-11-16,Andorra,Moldova,Moldova,Virgiliu Postolachi,90,FALSE,FALSE
+2024-11-16,Georgia,Ukraine,Ukraine,Solomon Kverkvelia,7,TRUE,FALSE
+2024-11-16,Georgia,Ukraine,Georgia,Georges Mikautadze,76,FALSE,FALSE
+2024-11-16,Germany,Bosnia and Herzegovina,Germany,Jamal Musiala,2,FALSE,FALSE
+2024-11-16,Germany,Bosnia and Herzegovina,Germany,Tim Kleindienst,23,FALSE,FALSE
+2024-11-16,Germany,Bosnia and Herzegovina,Germany,Kai Havertz,37,FALSE,FALSE
+2024-11-16,Germany,Bosnia and Herzegovina,Germany,Florian Wirtz,50,FALSE,FALSE
+2024-11-16,Germany,Bosnia and Herzegovina,Germany,Florian Wirtz,57,FALSE,FALSE
+2024-11-16,Germany,Bosnia and Herzegovina,Germany,Leroy Sané,66,FALSE,FALSE
+2024-11-16,Germany,Bosnia and Herzegovina,Germany,Tim Kleindienst,79,FALSE,FALSE
+2024-11-16,Montenegro,Iceland,Iceland,Orri Óskarsson,74,FALSE,FALSE
+2024-11-16,Montenegro,Iceland,Iceland,Ísak Bergmann Jóhannesson,88,FALSE,FALSE
+2024-11-16,Netherlands,Hungary,Netherlands,Wout Weghorst,21,FALSE,TRUE
+2024-11-16,Netherlands,Hungary,Netherlands,Cody Gakpo,45,FALSE,TRUE
+2024-11-16,Netherlands,Hungary,Netherlands,Denzel Dumfries,64,FALSE,FALSE
+2024-11-16,Netherlands,Hungary,Netherlands,Teun Koopmeiners,86,FALSE,FALSE
+2024-11-16,Sweden,Slovakia,Sweden,Viktor Gyökeres,3,FALSE,FALSE
+2024-11-16,Sweden,Slovakia,Slovakia,Dávid Hancko,19,FALSE,FALSE
+2024-11-16,Sweden,Slovakia,Sweden,Alexander Isak,48,FALSE,FALSE
+2024-11-17,Austria,Slovenia,Austria,Romano Schmid,27,FALSE,FALSE
+2024-11-17,Austria,Slovenia,Slovenia,Adam Gnezda Čerin,81,FALSE,FALSE
+2024-11-17,England,Republic of Ireland,England,Harry Kane,53,FALSE,TRUE
+2024-11-17,England,Republic of Ireland,England,Anthony Gordon,56,FALSE,FALSE
+2024-11-17,England,Republic of Ireland,England,Conor Gallagher,58,FALSE,FALSE
+2024-11-17,England,Republic of Ireland,England,Jarrod Bowen,76,FALSE,FALSE
+2024-11-17,England,Republic of Ireland,England,Taylor Harwood-Bellis,79,FALSE,FALSE
+2024-11-17,Finland,Greece,Greece,Anastasios Bakasetas,52,FALSE,FALSE
+2024-11-17,Finland,Greece,Greece,Christos Tzolis,56,FALSE,FALSE
+2024-11-17,Israel,Belgium,Israel,Yarden Shua,86,FALSE,FALSE
+2024-11-17,Italy,France,France,Adrien Rabiot,2,FALSE,FALSE
+2024-11-17,Italy,France,France,Guglielmo Vicario,33,TRUE,FALSE
+2024-11-17,Italy,France,Italy,Andrea Cambiaso,35,FALSE,FALSE
+2024-11-17,Italy,France,France,Adrien Rabiot,65,FALSE,FALSE
+2024-11-17,Latvia,Armenia,Armenia,Eduard Spertsyan,48,FALSE,FALSE
+2024-11-17,Latvia,Armenia,Latvia,Roberts Uldriķis,70,FALSE,FALSE
+2024-11-17,Latvia,Armenia,Armenia,Artur Miranyan,74,FALSE,FALSE
+2024-11-17,North Macedonia,Faroe Islands,North Macedonia,Bojan Miovski,62,FALSE,FALSE
+2024-11-17,Norway,Kazakhstan,Norway,Erling Haaland,23,FALSE,FALSE
+2024-11-17,Norway,Kazakhstan,Norway,Erling Haaland,37,FALSE,FALSE
+2024-11-17,Norway,Kazakhstan,Norway,Alexander Sørloth,41,FALSE,FALSE
+2024-11-17,Norway,Kazakhstan,Norway,Erling Haaland,71,FALSE,FALSE
+2024-11-17,Norway,Kazakhstan,Norway,Antonio Nusa,76,FALSE,FALSE
+2024-11-18,Bulgaria,Belarus,Bulgaria,Vasil Panayotov,12,FALSE,FALSE
+2024-11-18,Bulgaria,Belarus,Belarus,Yury Kavalyow,70,FALSE,FALSE
+2024-11-18,Croatia,Portugal,Portugal,João Félix,33,FALSE,FALSE
+2024-11-18,Croatia,Portugal,Croatia,Joško Gvardiol,65,FALSE,FALSE
+2024-11-18,Kosovo,Lithuania,Kosovo,Muharrem Jashari,5,FALSE,FALSE
+2024-11-18,Liechtenstein,San Marino,Liechtenstein,Aron Sele,40,FALSE,FALSE
+2024-11-18,Liechtenstein,San Marino,San Marino,Lorenzo Lazzari,46,FALSE,FALSE
+2024-11-18,Liechtenstein,San Marino,San Marino,Nicola Nanni,66,FALSE,TRUE
+2024-11-18,Liechtenstein,San Marino,San Marino,Alessandro Golinucci,76,FALSE,FALSE
+2024-11-18,Luxembourg,Northern Ireland,Northern Ireland,Isaac Price,19,FALSE,FALSE
+2024-11-18,Luxembourg,Northern Ireland,Northern Ireland,Conor Bradley,50,FALSE,FALSE
+2024-11-18,Luxembourg,Northern Ireland,Luxembourg,Seid Korać,72,FALSE,FALSE
+2024-11-18,Luxembourg,Northern Ireland,Luxembourg,Gerson Rodrigues,75,FALSE,FALSE
+2024-11-18,Poland,Scotland,Scotland,John McGinn,3,FALSE,FALSE
+2024-11-18,Poland,Scotland,Poland,Kamil Piątkowski,59,FALSE,FALSE
+2024-11-18,Poland,Scotland,Scotland,Andy Robertson,90,FALSE,FALSE
+2024-11-18,Romania,Cyprus,Romania,Daniel Bîrligea,2,FALSE,FALSE
+2024-11-18,Romania,Cyprus,Romania,Răzvan Marin,41,FALSE,FALSE
+2024-11-18,Romania,Cyprus,Cyprus,Ioannis Pittas,52,FALSE,FALSE
+2024-11-18,Romania,Cyprus,Romania,Răzvan Marin,80,FALSE,FALSE
+2024-11-18,Romania,Cyprus,Romania,Florinel Coman,83,FALSE,FALSE
+2024-11-18,Spain,Switzerland,Spain,Yeremy Pino,32,FALSE,FALSE
+2024-11-18,Spain,Switzerland,Switzerland,Joël Monteiro,63,FALSE,FALSE
+2024-11-18,Spain,Switzerland,Spain,Bryan Gil,68,FALSE,FALSE
+2024-11-18,Spain,Switzerland,Switzerland,Andi Zeqiri,85,FALSE,TRUE
+2024-11-18,Spain,Switzerland,Spain,Bryan Zaragoza,90,FALSE,TRUE
+2024-11-19,Albania,Ukraine,Ukraine,Oleksandr Zinchenko,5,FALSE,FALSE
+2024-11-19,Albania,Ukraine,Ukraine,Roman Yaremchuk,10,FALSE,FALSE
+2024-11-19,Albania,Ukraine,Albania,Nedim Bajrami,75,FALSE,TRUE
+2024-11-19,Bosnia and Herzegovina,Netherlands,Netherlands,Brian Brobbey,24,FALSE,FALSE
+2024-11-19,Bosnia and Herzegovina,Netherlands,Bosnia and Herzegovina,Ermedin Demirović,67,FALSE,FALSE
+2024-11-19,Czech Republic,Georgia,Czech Republic,Pavel Šulc,3,FALSE,FALSE
+2024-11-19,Czech Republic,Georgia,Czech Republic,Adam Hložek,24,FALSE,FALSE
+2024-11-19,Czech Republic,Georgia,Georgia,Georges Mikautadze,60,FALSE,FALSE
+2024-11-19,Hungary,Germany,Germany,Felix Nmecha,76,FALSE,FALSE
+2024-11-19,Hungary,Germany,Hungary,Dominik Szoboszlai,90,FALSE,TRUE
+2024-11-19,Montenegro,Turkey,Montenegro,Nikola Krstović,29,FALSE,FALSE
+2024-11-19,Montenegro,Turkey,Turkey,Kenan Yıldız,37,FALSE,FALSE
+2024-11-19,Montenegro,Turkey,Montenegro,Nikola Krstović,45,FALSE,FALSE
+2024-11-19,Montenegro,Turkey,Montenegro,Nikola Krstović,73,FALSE,FALSE
+2024-11-19,Slovakia,Estonia,Slovakia,David Strelec,72,FALSE,FALSE
+2024-11-19,Sweden,Azerbaijan,Sweden,Dejan Kulusevski,10,FALSE,FALSE
+2024-11-19,Sweden,Azerbaijan,Sweden,Viktor Gyökeres,26,FALSE,FALSE
+2024-11-19,Sweden,Azerbaijan,Sweden,Viktor Gyökeres,37,FALSE,FALSE
+2024-11-19,Sweden,Azerbaijan,Sweden,Dejan Kulusevski,57,FALSE,FALSE
+2024-11-19,Sweden,Azerbaijan,Sweden,Viktor Gyökeres,58,FALSE,FALSE
+2024-11-19,Sweden,Azerbaijan,Sweden,Viktor Gyökeres,70,FALSE,FALSE
+2024-11-19,Wales,Iceland,Iceland,Andri Guðjohnsen,8,FALSE,FALSE
+2024-11-19,Wales,Iceland,Wales,Liam Cullen,32,FALSE,FALSE
+2024-11-19,Wales,Iceland,Wales,Liam Cullen,45,FALSE,FALSE
+2024-11-19,Wales,Iceland,Wales,Brennan Johnson,65,FALSE,FALSE
+2024-11-19,Wales,Iceland,Wales,Harry Wilson,79,FALSE,FALSE
+2025-03-20,Armenia,Georgia,Georgia,Giorgi Kochorashvili,32,FALSE,FALSE
+2025-03-20,Armenia,Georgia,Georgia,Georges Mikautadze,37,FALSE,FALSE
+2025-03-20,Armenia,Georgia,Georgia,Georges Mikautadze,59,FALSE,FALSE
+2025-03-20,Austria,Serbia,Austria,Michael Gregoritsch,37,FALSE,FALSE
+2025-03-20,Austria,Serbia,Serbia,Lazar Samardžić,61,FALSE,FALSE
+2025-03-20,Bulgaria,Republic of Ireland,Bulgaria,Marin Petkov,6,FALSE,FALSE
+2025-03-20,Bulgaria,Republic of Ireland,Republic of Ireland,Finn Azaz,21,FALSE,FALSE
+2025-03-20,Bulgaria,Republic of Ireland,Republic of Ireland,Matt Doherty,42,FALSE,FALSE
+2025-03-20,Croatia,France,Croatia,Ante Budimir,26,FALSE,FALSE
+2025-03-20,Croatia,France,Croatia,Ivan Perišić,45,FALSE,FALSE
+2025-03-20,Denmark,Portugal,Denmark,Rasmus Højlund,78,FALSE,FALSE
+2025-03-20,Greece,Scotland,Scotland,Scott McTominay,33,FALSE,TRUE
+2025-03-20,Italy,Germany,Italy,Sandro Tonali,9,FALSE,FALSE
+2025-03-20,Italy,Germany,Germany,Tim Kleindienst,49,FALSE,FALSE
+2025-03-20,Italy,Germany,Germany,Leon Goretzka,76,FALSE,FALSE
+2025-03-20,Kosovo,Iceland,Kosovo,Lumbardh Dellova,19,FALSE,FALSE
+2025-03-20,Kosovo,Iceland,Iceland,Orri Óskarsson,22,FALSE,FALSE
+2025-03-20,Kosovo,Iceland,Kosovo,Elvis Rexhbeçaj,58,FALSE,FALSE
+2025-03-20,Netherlands,Spain,Spain,Nico Williams,9,FALSE,FALSE
+2025-03-20,Netherlands,Spain,Netherlands,Cody Gakpo,28,FALSE,FALSE
+2025-03-20,Netherlands,Spain,Netherlands,Tijjani Reijnders,46,FALSE,FALSE
+2025-03-20,Netherlands,Spain,Spain,Mikel Merino,90,FALSE,FALSE
+2025-03-20,Turkey,Hungary,Turkey,Orkun Kökçü,9,FALSE,FALSE
+2025-03-20,Turkey,Hungary,Hungary,András Schäfer,25,FALSE,FALSE
+2025-03-20,Turkey,Hungary,Turkey,Kerem Aktürkoğlu,69,FALSE,FALSE
+2025-03-20,Turkey,Hungary,Turkey,İrfan Can Kahveci,73,FALSE,FALSE
+2025-03-20,Ukraine,Belgium,Belgium,Romelu Lukaku,40,FALSE,FALSE
+2025-03-20,Ukraine,Belgium,Ukraine,Oleksiy Hutsulyak,66,FALSE,FALSE
+2025-03-20,Ukraine,Belgium,Ukraine,Vladyslav Vanat,73,FALSE,FALSE
+2025-03-20,Ukraine,Belgium,Ukraine,Illya Zabarnyi,78,FALSE,FALSE
+2025-03-23,Belgium,Ukraine,Belgium,Maxim De Cuyper,70,FALSE,FALSE
+2025-03-23,Belgium,Ukraine,Belgium,Romelu Lukaku,75,FALSE,FALSE
+2025-03-23,Belgium,Ukraine,Belgium,Romelu Lukaku,86,FALSE,FALSE
+2025-03-23,France,Croatia,France,Michael Olise,52,FALSE,FALSE
+2025-03-23,France,Croatia,France,Ousmane Dembélé,80,FALSE,FALSE
+2025-03-23,Georgia,Armenia,Georgia,Varazdat Haroyan,4,TRUE,FALSE
+2025-03-23,Georgia,Armenia,Georgia,Georges Mikautadze,14,FALSE,FALSE
+2025-03-23,Georgia,Armenia,Georgia,Giorgi Chakvetadze,23,FALSE,FALSE
+2025-03-23,Georgia,Armenia,Georgia,Otar Kiteishvili,27,FALSE,FALSE
+2025-03-23,Georgia,Armenia,Georgia,Georges Mikautadze,35,FALSE,FALSE
+2025-03-23,Georgia,Armenia,Armenia,Edgar Sevikyan,48,FALSE,FALSE
+2025-03-23,Georgia,Armenia,Georgia,Khvicha Kvaratskhelia,62,FALSE,FALSE
+2025-03-23,Germany,Italy,Germany,Joshua Kimmich,30,FALSE,TRUE
+2025-03-23,Germany,Italy,Germany,Jamal Musiala,36,FALSE,FALSE
+2025-03-23,Germany,Italy,Germany,Tim Kleindienst,45,FALSE,FALSE
+2025-03-23,Germany,Italy,Italy,Moise Kean,49,FALSE,FALSE
+2025-03-23,Germany,Italy,Italy,Moise Kean,69,FALSE,FALSE
+2025-03-23,Germany,Italy,Italy,Giacomo Raspadori,90,FALSE,TRUE
+2025-03-23,Hungary,Turkey,Turkey,Hakan Çalhanoğlu,37,FALSE,TRUE
+2025-03-23,Hungary,Turkey,Turkey,Arda Güler,39,FALSE,FALSE
+2025-03-23,Hungary,Turkey,Turkey,Abdülkerim Bardakcı,90,FALSE,FALSE
+2025-03-23,Iceland,Kosovo,Iceland,Orri Óskarsson,2,FALSE,FALSE
+2025-03-23,Iceland,Kosovo,Kosovo,Vedat Muriqi,35,FALSE,FALSE
+2025-03-23,Iceland,Kosovo,Kosovo,Vedat Muriqi,45,FALSE,FALSE
+2025-03-23,Iceland,Kosovo,Kosovo,Vedat Muriqi,79,FALSE,FALSE
+2025-03-23,Portugal,Denmark,Portugal,Joachim Andersen,38,TRUE,FALSE
+2025-03-23,Portugal,Denmark,Denmark,Rasmus Kristensen,56,FALSE,FALSE
+2025-03-23,Portugal,Denmark,Portugal,Cristiano Ronaldo,72,FALSE,FALSE
+2025-03-23,Portugal,Denmark,Denmark,Christian Eriksen,76,FALSE,FALSE
+2025-03-23,Portugal,Denmark,Portugal,Francisco Trincão,86,FALSE,FALSE
+2025-03-23,Portugal,Denmark,Portugal,Francisco Trincão,91,FALSE,FALSE
+2025-03-23,Portugal,Denmark,Portugal,Gonçalo Ramos,115,FALSE,FALSE
+2025-03-23,Republic of Ireland,Bulgaria,Bulgaria,Valentin Antov,30,FALSE,FALSE
+2025-03-23,Republic of Ireland,Bulgaria,Republic of Ireland,Evan Ferguson,63,FALSE,FALSE
+2025-03-23,Republic of Ireland,Bulgaria,Republic of Ireland,Adam Idah,84,FALSE,FALSE
+2025-03-23,Scotland,Greece,Greece,Giannis Konstantelias,20,FALSE,FALSE
+2025-03-23,Scotland,Greece,Greece,Konstantinos Karetsas,42,FALSE,FALSE
+2025-03-23,Scotland,Greece,Greece,Christos Tzolis,46,FALSE,FALSE
+2025-03-23,Serbia,Austria,Serbia,Nemanja Maksimović,56,FALSE,FALSE
+2025-03-23,Serbia,Austria,Serbia,Dušan Vlahović,90,FALSE,FALSE
+2025-03-23,Slovenia,Slovakia,Slovenia,Adam Gnezda Čerin,95,FALSE,FALSE
+2025-03-23,Spain,Netherlands,Spain,Mikel Oyarzabal,8,FALSE,TRUE
+2025-03-23,Spain,Netherlands,Netherlands,Memphis Depay,54,FALSE,TRUE
+2025-03-23,Spain,Netherlands,Spain,Mikel Oyarzabal,67,FALSE,FALSE
+2025-03-23,Spain,Netherlands,Netherlands,Ian Maatsen,79,FALSE,FALSE
+2025-03-23,Spain,Netherlands,Spain,Lamine Yamal,103,FALSE,FALSE
+2025-03-23,Spain,Netherlands,Netherlands,Xavi Simons,109,FALSE,TRUE
+2025-06-04,Germany,Portugal,Germany,Florian Wirtz,48,FALSE,FALSE
+2025-06-04,Germany,Portugal,Portugal,Francisco Conceição,63,FALSE,FALSE
+2025-06-04,Germany,Portugal,Portugal,Cristiano Ronaldo,68,FALSE,FALSE
+2025-06-05,Spain,France,Spain,Nico Williams,22,FALSE,FALSE
+2025-06-05,Spain,France,Spain,Mikel Merino,25,FALSE,FALSE
+2025-06-05,Spain,France,Spain,Lamine Yamal,54,FALSE,TRUE
+2025-06-05,Spain,France,Spain,Pedri,55,FALSE,FALSE
+2025-06-05,Spain,France,France,Kylian Mbappé,59,FALSE,TRUE
+2025-06-05,Spain,France,Spain,Lamine Yamal,67,FALSE,FALSE
+2025-06-05,Spain,France,France,Rayan Cherki,79,FALSE,FALSE
+2025-06-05,Spain,France,France,Daniel Vivian,84,TRUE,FALSE
+2025-06-05,Spain,France,France,Randal Kolo Muani,90,FALSE,FALSE
+2025-06-08,Germany,France,France,Kylian Mbappé,45,FALSE,FALSE
+2025-06-08,Germany,France,France,Michael Olise,84,FALSE,FALSE
+2025-06-08,Portugal,Spain,Spain,Martín Zubimendi,21,FALSE,FALSE
+2025-06-08,Portugal,Spain,Portugal,Nuno Mendes,26,FALSE,FALSE
+2025-06-08,Portugal,Spain,Spain,Mikel Oyarzabal,45,FALSE,FALSE
+2025-06-08,Portugal,Spain,Portugal,Cristiano Ronaldo,61,FALSE,FALSE
 2025-06-14,Mexico,Dominican Republic,Mexico,Edson Álvarez,44,FALSE,FALSE
 2025-06-14,Mexico,Dominican Republic,Mexico,Raúl Jiménez,47,FALSE,FALSE
 2025-06-14,Mexico,Dominican Republic,Dominican Republic,Peter González,51,FALSE,FALSE
