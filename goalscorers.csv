@@ -35542,6 +35542,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-11-17,Yemen,Uzbekistan,Uzbekistan,Server Djeparov,31,FALSE,FALSE
 2015-11-17,Yemen,Uzbekistan,Uzbekistan,Stanislav Andreev,50,FALSE,FALSE
 2015-11-17,Yemen,Uzbekistan,Yemen,Ahmed Al-Sarori,90,FALSE,FALSE
+2016-01-08,Panama,Cuba,Panama,Gabriel Enrique Gómez,3,FALSE,FALSE
+2016-01-08,Panama,Cuba,Panama,Luis Tejada,17,FALSE,TRUE
+2016-01-08,Panama,Cuba,Panama,Armando Cooper,52,FALSE,FALSE
+2016-01-08,Panama,Cuba,Panama,Blas Pérez,89,FALSE,FALSE
+2016-01-08,Trinidad and Tobago,Haiti,Haiti,Kervens Belfort,86,FALSE,FALSE
 2016-03-24,Australia,Tajikistan,Australia,Massimo Luongo,3,FALSE,FALSE
 2016-03-24,Australia,Tajikistan,Australia,Mile Jedinak,13,FALSE,TRUE
 2016-03-24,Australia,Tajikistan,Australia,Mark Milligan,57,FALSE,TRUE
@@ -44094,6 +44099,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-03-21,Bosnia and Herzegovina,Ukraine,Ukraine,Artem Dovbyk,88,FALSE,FALSE
 2024-03-21,Georgia,Luxembourg,Georgia,Budu Zivzivadze,40,FALSE,FALSE
 2024-03-21,Georgia,Luxembourg,Georgia,Budu Zivzivadze,63,FALSE,FALSE
+2024-03-21,Gibraltar,Lithuania,Lithuania,Armandas Kučys,60,FALSE,FALSE
 2024-03-21,Greece,Kazakhstan,Greece,Anastasios Bakasetas,9,FALSE,TRUE
 2024-03-21,Greece,Kazakhstan,Greece,Dimitrios Pelkas,15,FALSE,FALSE
 2024-03-21,Greece,Kazakhstan,Greece,Fotis Ioannidis,37,FALSE,FALSE
@@ -44115,6 +44121,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-03-21,Wales,Finland,Finland,Teemu Pukki,45,FALSE,FALSE
 2024-03-21,Wales,Finland,Wales,Brennan Johnson,47,FALSE,FALSE
 2024-03-21,Wales,Finland,Wales,Daniel James,86,FALSE,FALSE
+2024-03-23,Canada,Trinidad and Tobago,Canada,Cyle Larin,61,FALSE,FALSE
+2024-03-23,Canada,Trinidad and Tobago,Canada,Jacob Shaffelburg,90,FALSE,FALSE
+2024-03-23,Costa Rica,Honduras,Honduras,Michaell Chirinos,10,FALSE,FALSE
+2024-03-23,Costa Rica,Honduras,Costa Rica,Orlando Galo,12,FALSE,FALSE
+2024-03-23,Costa Rica,Honduras,Costa Rica,Warren Madrigal,56,FALSE,FALSE
+2024-03-23,Costa Rica,Honduras,Costa Rica,Jefferson Brenes,62,FALSE,FALSE
+2024-03-26,Lithuania,Gibraltar,Lithuania,Fedor Černych,51,FALSE,FALSE
 2024-03-26,Ukraine,Iceland,Iceland,Albert Guðmundsson,30,FALSE,FALSE
 2024-03-26,Ukraine,Iceland,Ukraine,Viktor Tsyhankov,54,FALSE,FALSE
 2024-03-26,Ukraine,Iceland,Ukraine,Mykhailo Mudryk,84,FALSE,FALSE
