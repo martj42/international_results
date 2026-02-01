@@ -9473,10 +9473,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1973-09-03,Myanmar,Vietnam Republic,3,2,Southeast Asian Peninsular Games,Singapore,Singapore,TRUE
 1973-09-04,Singapore,Malaysia,0,0,Southeast Asian Peninsular Games,Singapore,Singapore,FALSE
 1973-09-04,Vietnam Republic,Laos,5,1,Southeast Asian Peninsular Games,Singapore,Singapore,TRUE
-1973-09-04,Singapore,Malaysia,0,3,Southeast Asian Peninsular Games,Singapore,Singapore,FALSE
 1973-09-05,Russia,Germany,0,1,Friendly,Moscow,Soviet Union,FALSE
 1973-09-06,Myanmar,Malaysia,1,0,Southeast Asian Peninsular Games,Singapore,Singapore,TRUE
 1973-09-06,Singapore,Vietnam Republic,1,1,Southeast Asian Peninsular Games,Singapore,Singapore,FALSE
+1973-09-07,Singapore,Malaysia,0,3,Southeast Asian Peninsular Games,Singapore,Singapore,FALSE
 1973-09-08,France,Greece,3,1,Friendly,Paris,France,FALSE
 1973-09-08,Myanmar,Vietnam Republic,3,2,Southeast Asian Peninsular Games,Singapore,Singapore,TRUE
 1973-09-09,Argentina,Bolivia,4,0,FIFA World Cup qualification,Buenos Aires,Argentina,FALSE
@@ -11169,14 +11169,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1977-10-20,El Salvador,Suriname,3,2,CONCACAF Championship,Monterrey,Mexico,TRUE
 1977-10-21,Egypt,Nigeria,3,1,FIFA World Cup qualification,Cairo,Egypt,FALSE
 1977-10-22,Guyana,Barbados,2,0,Friendly,Linden,Guyana,FALSE
-1977-10-22,Guyana,Barbados,0,0,Friendly,Georgetown,Guyana,FALSE
+1977-10-24,Guyana,Barbados,0,0,Friendly,Georgetown,Guyana,FALSE
 1977-10-22,Mexico,Canada,3,1,CONCACAF Championship,Monterrey,Mexico,FALSE
 1977-10-23,El Salvador,Guatemala,2,2,CONCACAF Championship,Mexico City,Mexico,TRUE
 1977-10-23,Haiti,Suriname,1,0,CONCACAF Championship,Mexico City,Mexico,TRUE
 1977-10-23,Jamaica,China PR,0,1,Friendly,Kingston,Jamaica,FALSE
 1977-10-23,South Korea,Australia,0,0,FIFA World Cup qualification,Seoul,South Korea,FALSE
 1977-10-26,Bulgaria,Greece,0,0,Friendly,Sofia,Bulgaria,FALSE
-1977-10-26,Guyana,Barbados,0,0,Friendly,Georgetown,Guyana,FALSE
+1977-10-26,Guyana,Barbados,0,0,Friendly,Linden,Guyana,FALSE
 1977-10-26,Netherlands,Belgium,1,0,FIFA World Cup qualification,Amsterdam,Netherlands,FALSE
 1977-10-26,Spain,Romania,2,0,FIFA World Cup qualification,Madrid,Spain,FALSE
 1977-10-28,Iran,Kuwait,1,0,FIFA World Cup qualification,Tehran,Iran,FALSE
