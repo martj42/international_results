@@ -13723,8 +13723,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1993-02-28,Niger,Botswana,Botswana,Itumeleng Duiker,37,FALSE,FALSE
 1993-02-28,Niger,Botswana,Niger,Moussa Yahaya,89,FALSE,FALSE
 1993-02-28,Togo,Angola,Angola,Paulo António Alves,83,FALSE,FALSE
-1993-03-24,Cyprus,Czech Republic,Czech Republic,Ľubomír Moravčík,33,FALSE,FALSE
-1993-03-24,Cyprus,Czech Republic,Cyprus,Andreas Sotiriou,47,FALSE,FALSE
+1993-03-24,Cyprus,Czechoslovakia,Czechoslovakia,Ľubomír Moravčík,33,FALSE,FALSE
+1993-03-24,Cyprus,Czechoslovakia,Cyprus,Andreas Sotiriou,47,FALSE,FALSE
 1993-03-24,Italy,Malta,Italy,Dino Baggio,19,FALSE,FALSE
 1993-03-24,Italy,Malta,Italy,Giuseppe Signori,38,FALSE,FALSE
 1993-03-24,Italy,Malta,Italy,Pietro Vierchowod,48,FALSE,FALSE
@@ -13887,8 +13887,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1993-04-26,Vietnam,Qatar,Qatar,Rayed Al-Boloushi,65,FALSE,FALSE
 1993-04-28,Bulgaria,Finland,Bulgaria,Hristo Stoichkov,15,FALSE,TRUE
 1993-04-28,Bulgaria,Finland,Bulgaria,Zlatko Yankov,43,FALSE,FALSE
-1993-04-28,Czech Republic,Wales,Wales,Mark Hughes,31,FALSE,FALSE
-1993-04-28,Czech Republic,Wales,Czech Republic,Radoslav Látal,41,FALSE,FALSE
+1993-04-28,Czechoslovakia,Wales,Wales,Mark Hughes,31,FALSE,FALSE
+1993-04-28,Czechoslovakia,Wales,Czechoslovakia,Radoslav Látal,41,FALSE,FALSE
 1993-04-28,England,Netherlands,England,John Barnes,2,FALSE,FALSE
 1993-04-28,England,Netherlands,England,David Platt,23,FALSE,FALSE
 1993-04-28,England,Netherlands,Netherlands,Dennis Bergkamp,34,FALSE,FALSE
@@ -14140,13 +14140,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1993-05-30,Jordan,Pakistan,Jordan,Mohammad Muharam,89,FALSE,FALSE
 1993-05-30,Jordan,Pakistan,Jordan,Hisham Abdul-Munam,90,FALSE,FALSE
 1993-05-30,New Zealand,Australia,Australia,Graham Arnold,55,FALSE,FALSE
-1993-06-02,Czech Republic,Romania,Czech Republic,Petr Vrabec,13,FALSE,FALSE
-1993-06-02,Czech Republic,Romania,Romania,Florin Răducioiu,26,FALSE,FALSE
-1993-06-02,Czech Republic,Romania,Czech Republic,Radoslav Látal,37,FALSE,FALSE
-1993-06-02,Czech Republic,Romania,Romania,Florin Răducioiu,55,FALSE,FALSE
-1993-06-02,Czech Republic,Romania,Czech Republic,Peter Dubovský,58,FALSE,FALSE
-1993-06-02,Czech Republic,Romania,Czech Republic,Peter Dubovský,84,FALSE,FALSE
-1993-06-02,Czech Republic,Romania,Czech Republic,Peter Dubovský,90,FALSE,FALSE
+1993-06-02,Czechoslovakia,Romania,Czechoslovakia,Petr Vrabec,13,FALSE,FALSE
+1993-06-02,Czechoslovakia,Romania,Romania,Florin Răducioiu,26,FALSE,FALSE
+1993-06-02,Czechoslovakia,Romania,Czechoslovakia,Radoslav Látal,37,FALSE,FALSE
+1993-06-02,Czechoslovakia,Romania,Romania,Florin Răducioiu,55,FALSE,FALSE
+1993-06-02,Czechoslovakia,Romania,Czechoslovakia,Peter Dubovský,58,FALSE,FALSE
+1993-06-02,Czechoslovakia,Romania,Czechoslovakia,Peter Dubovský,84,FALSE,FALSE
+1993-06-02,Czechoslovakia,Romania,Czechoslovakia,Peter Dubovský,90,FALSE,FALSE
 1993-06-02,Denmark,Albania,Denmark,John Jensen,11,FALSE,FALSE
 1993-06-02,Denmark,Albania,Denmark,Frank Pingel,20,FALSE,FALSE
 1993-06-02,Denmark,Albania,Denmark,Peter Møller,28,FALSE,FALSE
@@ -14237,9 +14237,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1993-06-16,Colombia,Mexico,Colombia,Adolfo Valencia,35,FALSE,FALSE
 1993-06-16,Colombia,Mexico,Mexico,Luís Roberto Alves,57,FALSE,FALSE
 1993-06-16,Colombia,Mexico,Colombia,Víctor Aristizábal,87,FALSE,FALSE
-1993-06-16,Faroe Islands,Czech Republic,Czech Republic,Ivan Hašek,3,FALSE,FALSE
-1993-06-16,Faroe Islands,Czech Republic,Czech Republic,Marek Poštulka,38,FALSE,FALSE
-1993-06-16,Faroe Islands,Czech Republic,Czech Republic,Marek Poštulka,44,FALSE,FALSE
+1993-06-16,Faroe Islands,Czechoslovakia,Czechoslovakia,Ivan Hašek,3,FALSE,FALSE
+1993-06-16,Faroe Islands,Czechoslovakia,Czechoslovakia,Marek Poštulka,38,FALSE,FALSE
+1993-06-16,Faroe Islands,Czechoslovakia,Czechoslovakia,Marek Poštulka,44,FALSE,FALSE
 1993-06-16,Iceland,Hungary,Iceland,Eyjólfur Sverrisson,13,FALSE,FALSE
 1993-06-16,Iceland,Hungary,Iceland,Arnór Guðjohnsen,77,FALSE,FALSE
 1993-06-16,Iraq,Yemen,Iraq,Naeem Saddam,46,FALSE,FALSE
@@ -14562,10 +14562,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1993-09-08,Republic of Ireland,Lithuania,Republic of Ireland,Alan Kernaghan,25,FALSE,FALSE
 1993-09-08,Scotland,Switzerland,Scotland,John Collins,50,FALSE,FALSE
 1993-09-08,Scotland,Switzerland,Switzerland,Georges Bregy,70,FALSE,TRUE
-1993-09-08,Wales,Czech Republic,Czech Republic,Pavel Kuka,16,FALSE,FALSE
-1993-09-08,Wales,Czech Republic,Wales,Ryan Giggs,21,FALSE,FALSE
-1993-09-08,Wales,Czech Republic,Wales,Ian Rush,35,FALSE,FALSE
-1993-09-08,Wales,Czech Republic,Czech Republic,Peter Dubovský,67,FALSE,FALSE
+1993-09-08,Wales,Czechoslovakia,Czechoslovakia,Pavel Kuka,16,FALSE,FALSE
+1993-09-08,Wales,Czechoslovakia,Wales,Ryan Giggs,21,FALSE,FALSE
+1993-09-08,Wales,Czechoslovakia,Wales,Ian Rush,35,FALSE,FALSE
+1993-09-08,Wales,Czechoslovakia,Czechoslovakia,Peter Dubovský,67,FALSE,FALSE
 1993-09-12,Uruguay,Bolivia,Uruguay,Enzo Francescoli,3,FALSE,TRUE
 1993-09-12,Uruguay,Bolivia,Bolivia,Luis Ramallo,23,FALSE,FALSE
 1993-09-12,Uruguay,Bolivia,Uruguay,Daniel Fonseca,45,FALSE,FALSE
@@ -14681,9 +14681,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1993-10-25,Iran,North Korea,Iran,Ali Daei,49,FALSE,FALSE
 1993-10-25,Iran,North Korea,Iran,Ali Daei,66,FALSE,FALSE
 1993-10-25,Japan,South Korea,Japan,Kazuyoshi Miura,61,FALSE,FALSE
-1993-10-27,Czech Republic,Cyprus,Czech Republic,Peter Dubovský,11,FALSE,FALSE
-1993-10-27,Czech Republic,Cyprus,Czech Republic,Pavel Hapal,23,FALSE,FALSE
-1993-10-27,Czech Republic,Cyprus,Czech Republic,Tomáš Skuhravý,77,FALSE,FALSE
+1993-10-27,Czechoslovakia,Cyprus,Czechoslovakia,Peter Dubovský,11,FALSE,FALSE
+1993-10-27,Czechoslovakia,Cyprus,Czechoslovakia,Pavel Hapal,23,FALSE,FALSE
+1993-10-27,Czechoslovakia,Cyprus,Czechoslovakia,Tomáš Skuhravý,77,FALSE,FALSE
 1993-10-27,Hungary,Luxembourg,Hungary,Lajos Détári,20,FALSE,FALSE
 1993-10-27,Israel,Austria,Israel,Ronny Rosenthal,3,FALSE,FALSE
 1993-10-27,Israel,Austria,Austria,Hannes Reinmayr,15,FALSE,FALSE
@@ -44398,9 +44398,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2025-06-18,Costa Rica,Dominican Republic,Costa Rica,Josimar Alcócer,85,FALSE,FALSE
 2025-06-18,Suriname,Mexico,Mexico,César Montes,57,FALSE,FALSE
 2025-06-18,Suriname,Mexico,Mexico,César Montes,63,FALSE,FALSE
-2025-06-19,Saudi Arabia,United States,United States,Chris Richards,63,FALSE,FALSE
 2025-06-19,Trinidad and Tobago,Haiti,Haiti,Frantzdy Pierrot,49,FALSE,FALSE
 2025-06-19,Trinidad and Tobago,Haiti,Trinidad and Tobago,Justin Garcia,68,FALSE,FALSE
+2025-06-19,United States,Saudi Arabia,United States,Chris Richards,63,FALSE,FALSE
 2025-06-20,Guatemala,Panama,Panama,Tomás Rodríguez,19,FALSE,FALSE
 2025-06-20,Jamaica,Guadeloupe,Guadeloupe,Thierry Ambrose,32,FALSE,FALSE
 2025-06-20,Jamaica,Guadeloupe,Jamaica,Leon Bailey,41,FALSE,FALSE
@@ -44499,9 +44499,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2025-12-28,Gabon,Mozambique,Gabon,Alex Moucketou-Moussounda,76,FALSE,FALSE
 2025-12-28,Ivory Coast,Cameroon,Ivory Coast,Amad Diallo,51,FALSE,FALSE
 2025-12-28,Ivory Coast,Cameroon,Cameroon,Ghislain Konan,56,TRUE,FALSE
-2025-12-29,Zambia,Morocco,Morocco,Ayoub El Kaabi,9,FALSE,FALSE
-2025-12-29,Zambia,Morocco,Morocco,Brahim Díaz,27,FALSE,FALSE
-2025-12-29,Zambia,Morocco,Morocco,Ayoub El Kaabi,50,FALSE,FALSE
+2025-12-29,Morocco,Zambia,Morocco,Ayoub El Kaabi,9,FALSE,FALSE
+2025-12-29,Morocco,Zambia,Morocco,Brahim Díaz,27,FALSE,FALSE
+2025-12-29,Morocco,Zambia,Morocco,Ayoub El Kaabi,50,FALSE,FALSE
 2025-12-29,Zimbabwe,South Africa,South Africa,Tshepang Moremi,7,FALSE,FALSE
 2025-12-29,Zimbabwe,South Africa,Zimbabwe,Tawanda Maswanhise,19,FALSE,FALSE
 2025-12-29,Zimbabwe,South Africa,South Africa,Lyle Foster,50,FALSE,FALSE
@@ -44555,9 +44555,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2026-01-06,Ivory Coast,Burkina Faso,Ivory Coast,Amad Diallo,20,FALSE,FALSE
 2026-01-06,Ivory Coast,Burkina Faso,Ivory Coast,Yan Diomande,32,FALSE,FALSE
 2026-01-06,Ivory Coast,Burkina Faso,Ivory Coast,Bazoumana Touré,87,FALSE,FALSE
-2026-01-09,Cameroon,Morocco,Morocco,Brahim Díaz,26,FALSE,FALSE
-2026-01-09,Cameroon,Morocco,Morocco,Ismael Saibari,74,FALSE,FALSE
 2026-01-09,Mali,Senegal,Senegal,Iliman Ndiaye,27,FALSE,FALSE
+2026-01-09,Morocco,Cameroon,Morocco,Brahim Díaz,26,FALSE,FALSE
+2026-01-09,Morocco,Cameroon,Morocco,Ismael Saibari,74,FALSE,FALSE
 2026-01-10,Algeria,Nigeria,Nigeria,Victor Osimhen,47,FALSE,FALSE
 2026-01-10,Algeria,Nigeria,Nigeria,Akor Adams,57,FALSE,FALSE
 2026-01-10,Egypt,Ivory Coast,Egypt,Omar Marmoush,4,FALSE,FALSE
