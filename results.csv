@@ -11170,12 +11170,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1977-10-20,El Salvador,Suriname,3,2,CONCACAF Championship,Monterrey,Mexico,TRUE
 1977-10-21,Egypt,Nigeria,3,1,FIFA World Cup qualification,Cairo,Egypt,FALSE
 1977-10-22,Guyana,Barbados,2,0,Friendly,Linden,Guyana,FALSE
-1977-10-24,Guyana,Barbados,0,0,Friendly,Georgetown,Guyana,FALSE
 1977-10-22,Mexico,Canada,3,1,CONCACAF Championship,Monterrey,Mexico,FALSE
 1977-10-23,El Salvador,Guatemala,2,2,CONCACAF Championship,Mexico City,Mexico,TRUE
 1977-10-23,Haiti,Suriname,1,0,CONCACAF Championship,Mexico City,Mexico,TRUE
 1977-10-23,Jamaica,China PR,0,1,Friendly,Kingston,Jamaica,FALSE
 1977-10-23,South Korea,Australia,0,0,FIFA World Cup qualification,Seoul,South Korea,FALSE
+1977-10-24,Guyana,Barbados,0,0,Friendly,Georgetown,Guyana,FALSE
 1977-10-26,Bulgaria,Greece,0,0,Friendly,Sofia,Bulgaria,FALSE
 1977-10-26,Guyana,Barbados,0,0,Friendly,Linden,Guyana,FALSE
 1977-10-26,Netherlands,Belgium,1,0,FIFA World Cup qualification,Amsterdam,Netherlands,FALSE
@@ -46611,7 +46611,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-11-15,Ethiopia,Sierra Leone,0,0,FIFA World Cup qualification,El Jadida,Morocco,TRUE
 2023-11-15,DR Congo,Mauritania,2,0,FIFA World Cup qualification,Kinshasa,DR Congo,FALSE
 2023-11-15,Rwanda,Zimbabwe,0,0,FIFA World Cup qualification,Butare,Rwanda,FALSE
-2023-11-15,Equatorial Guinea,Namibia,1,0,FIFA World Cup qualification,Malabo,Equatorial Guinea,FALSE
+2023-11-15,Equatorial Guinea,Namibia,0,3,FIFA World Cup qualification,Malabo,Equatorial Guinea,FALSE
 2023-11-15,Belgium,Serbia,1,0,Friendly,Leuven,Belgium,FALSE
 2023-11-15,Israel,Switzerland,1,1,UEFA Euro qualification,Felcsút,Hungary,TRUE
 2023-11-16,Sint Maarten,Guadeloupe,0,2,CONCACAF Nations League,Bridgetown,Barbados,TRUE
@@ -46729,7 +46729,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-11-20,Djibouti,Guinea-Bissau,0,1,FIFA World Cup qualification,Cairo,Egypt,TRUE
 2023-11-20,Gambia,Ivory Coast,0,2,FIFA World Cup qualification,Dar es Salaam,Tanzania,TRUE
 2023-11-20,Seychelles,Kenya,0,5,FIFA World Cup qualification,Abidjan,Ivory Coast,TRUE
-2023-11-20,Liberia,Equatorial Guinea,0,1,FIFA World Cup qualification,Monrovia,Liberia,FALSE
+2023-11-20,Liberia,Equatorial Guinea,3,0,FIFA World Cup qualification,Monrovia,Liberia,FALSE
 2023-11-20,Mali,Central African Republic,1,1,FIFA World Cup qualification,Bamako,Mali,FALSE
 2023-11-20,Chad,Madagascar,0,3,FIFA World Cup qualification,Oujda,Morocco,TRUE
 2023-11-20,Curaçao,El Salvador,1,1,Friendly,Willemstad,Curaçao,FALSE
@@ -48084,7 +48084,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-03-21,Ethiopia,Egypt,0,2,FIFA World Cup qualification,Casablanca,Morocco,TRUE
 2025-03-21,DR Congo,South Sudan,1,0,FIFA World Cup qualification,Kinshasa,DR Congo,FALSE
 2025-03-21,Rwanda,Nigeria,0,2,FIFA World Cup qualification,Kigali,Rwanda,FALSE
-2025-03-21,South Africa,Lesotho,2,0,FIFA World Cup qualification,Polokwane,South Africa,FALSE
+2025-03-21,South Africa,Lesotho,0,3,FIFA World Cup qualification,Polokwane,South Africa,FALSE
 2025-03-21,Morocco,Niger,2,1,FIFA World Cup qualification,Oujda,Morocco,FALSE
 2025-03-21,Burundi,Ivory Coast,0,1,FIFA World Cup qualification,Meknes,Morocco,TRUE
 2025-03-21,Botswana,Algeria,1,3,FIFA World Cup qualification,Francistown,Botswana,FALSE
@@ -48220,6 +48220,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-06-04,Germany,Portugal,1,2,UEFA Nations League,Munich,Germany,FALSE
 2025-06-04,Thailand,India,2,0,Friendly,Pathum Thani,Thailand,FALSE
 2025-06-04,Bangladesh,Bhutan,2,0,Friendly,Dhaka,Bangladesh,FALSE
+2025-06-04,Bermuda,Cayman Islands,5,0,FIFA World Cup qualification,Devonshire Parish,Bermuda,FALSE
+2025-06-04,Grenada,Bahamas,6,0,FIFA World Cup qualification,St. George's,Grenada,FALSE
+2025-06-04,Barbados,Aruba,1,1,FIFA World Cup qualification,Wildey,Barbados,FALSE
+2025-06-04,Montserrat,Belize,1,0,FIFA World Cup qualification,Couva,Trinidad and Tobago,TRUE
+2025-06-04,Dominica,British Virgin Islands,3,0,FIFA World Cup qualification,Roseau,Dominica,FALSE
+2025-06-04,Saint Vincent and the Grenadines,Anguilla,6,0,FIFA World Cup qualification,Kingstown,Saint Vincent and the Grenadines,FALSE
 2025-06-05,Spain,France,5,4,UEFA Nations League,Stuttgart,Germany,TRUE
 2025-06-05,Algeria,Rwanda,2,0,Friendly,Constantine,Algeria,FALSE
 2025-06-05,Belarus,Kazakhstan,4,1,Friendly,Borisov,Belarus,FALSE
@@ -48265,6 +48271,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-06-06,North Macedonia,Belgium,1,1,FIFA World Cup qualification,Skopje,North Macedonia,FALSE
 2025-06-06,Czech Republic,Montenegro,2,0,FIFA World Cup qualification,Plzeň,Czech Republic,FALSE
 2025-06-06,Gibraltar,Croatia,0,7,FIFA World Cup qualification,Faro-Loulé,Portugal,TRUE
+2025-06-06,Antigua and Barbuda,Cuba,0,1,FIFA World Cup qualification,Piggotts,Antigua and Barbuda,FALSE
+2025-06-06,Trinidad and Tobago,Saint Kitts and Nevis,6,2,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,FALSE
+2025-06-06,Curaçao,Saint Lucia,4,0,FIFA World Cup qualification,Willemstad,Curaçao,FALSE
+2025-06-06,Nicaragua,Guyana,1,0,FIFA World Cup qualification,Managua,Nicaragua,FALSE
+2025-06-06,Guatemala,Dominican Republic,4,2,FIFA World Cup qualification,Guatemala City,Guatemala,FALSE
+2025-06-06,Suriname,Puerto Rico,1,0,FIFA World Cup qualification,Paramaribo,Suriname,FALSE
 2025-06-07,Denmark,Northern Ireland,2,1,Friendly,Copenhagen,Denmark,FALSE
 2025-06-07,Greece,Slovakia,4,1,Friendly,Heraklion,Greece,FALSE
 2025-06-07,Latvia,Azerbaijan,0,0,Friendly,Riga,Latvia,FALSE
@@ -48279,6 +48291,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-06-07,Canada,Ukraine,4,2,Canadian Shield,Toronto,Canada,FALSE
 2025-06-07,Ivory Coast,New Zealand,0,1,Canadian Shield,Toronto,Canada,TRUE
 2025-06-07,Kenya,Chad,0,0,Friendly,Marrakech,Morocco,TRUE
+2025-06-07,Cayman Islands,Honduras,0,1,FIFA World Cup qualification,George Town,Cayman Islands,FALSE
+2025-06-07,Bahamas,Costa Rica,0,8,FIFA World Cup qualification,Wildey,Barbados,TRUE
+2025-06-07,Aruba,Haiti,0,5,FIFA World Cup qualification,Oranjestad,Aruba,FALSE
+2025-06-07,Belize,Panama,0,2,FIFA World Cup qualification,Belmopan,Belize,FALSE
+2025-06-07,British Virgin Islands,Jamaica,0,1,FIFA World Cup qualification,Road Town,British Virgin Islands,FALSE
+2025-06-07,Anguilla,El Salvador,0,3,FIFA World Cup qualification,The Valley,Anguilla,FALSE
 2025-06-08,Germany,France,0,2,UEFA Nations League,Stuttgart,Germany,FALSE
 2025-06-08,Portugal,Spain,2,2,UEFA Nations League,Munich,Germany,TRUE
 2025-06-08,DR Congo,Madagascar,3,1,Friendly,Orléans,France,TRUE
@@ -48346,6 +48364,18 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-06-10,New Zealand,Ukraine,1,2,Canadian Shield,Toronto,Canada,TRUE
 2025-06-10,Canada,Ivory Coast,0,0,Canadian Shield,Toronto,Canada,FALSE
 2025-06-10,Belarus,Russia,1,4,Friendly,Minsk,Belarus,FALSE
+2025-06-10,Cuba,Bermuda,1,2,FIFA World Cup qualification,Santiago de Cuba,Cuba,FALSE
+2025-06-10,Honduras,Antigua and Barbuda,2,0,FIFA World Cup qualification,Tegucigalpa,Honduras,FALSE
+2025-06-10,Saint Kitts and Nevis,Grenada,2,3,FIFA World Cup qualification,Basseterre,Saint Kitts and Nevis,FALSE
+2025-06-10,Costa Rica,Trinidad and Tobago,2,1,FIFA World Cup qualification,San José,Costa Rica,FALSE
+2025-06-10,Saint Lucia,Barbados,2,1,FIFA World Cup qualification,Gros Islet,Saint Lucia,FALSE
+2025-06-10,Haiti,Curaçao,1,5,FIFA World Cup qualification,Oranjestad,Aruba,TRUE
+2025-06-10,Guyana,Montserrat,3,0,FIFA World Cup qualification,Leonora,Guyana,FALSE
+2025-06-10,Panama,Nicaragua,3,0,FIFA World Cup qualification,Panama City,Panama,FALSE
+2025-06-10,Dominican Republic,Dominica,5,0,FIFA World Cup qualification,Santo Domingo,Dominican Republic,FALSE
+2025-06-10,Jamaica,Guatemala,3,0,FIFA World Cup qualification,Kingston,Jamaica,FALSE
+2025-06-10,Puerto Rico,Saint Vincent and the Grenadines,2,1,FIFA World Cup qualification,Mayagüez,Puerto Rico,FALSE
+2025-06-10,El Salvador,Suriname,1,1,FIFA World Cup qualification,San Salvador,El Salvador,FALSE
 2025-06-14,Mexico,Dominican Republic,3,2,Gold Cup,Inglewood,United States,TRUE
 2025-06-15,Costa Rica,Suriname,4,3,Gold Cup,San Diego,United States,TRUE
 2025-06-15,United States,Trinidad and Tobago,5,0,Gold Cup,San Jose,United States,FALSE
@@ -48429,6 +48459,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-09-04,Liechtenstein,Belgium,0,6,FIFA World Cup qualification,Vaduz,Liechtenstein,FALSE
 2025-09-04,Iraq,Hong Kong,2,1,King's Cup,Kanchanaburi,Thailand,TRUE
 2025-09-04,Thailand,Fiji,3,0,King's Cup,Kanchanaburi,Thailand,FALSE
+2025-09-04,Suriname,Panama,0,0,FIFA World Cup qualification,Paramaribo,Suriname,FALSE
+2025-09-04,Guatemala,El Salvador,0,1,FIFA World Cup qualification,Guatemala City,Guatemala,FALSE
 2025-09-05,Australia,New Zealand,1,0,Soccer Ashes,Canberra,Australia,FALSE
 2025-09-05,Indonesia,Taiwan,6,0,Friendly,Surabaya,Indonesia,FALSE
 2025-09-05,Romania,Canada,0,3,Friendly,Bucharest,Romania,FALSE
@@ -48456,6 +48488,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-09-05,Moldova,Israel,0,4,FIFA World Cup qualification,Chișinău,Moldova,FALSE
 2025-09-05,Faroe Islands,Croatia,0,1,FIFA World Cup qualification,Tórshavn,Faroe Islands,FALSE
 2025-09-05,Montenegro,Czech Republic,0,2,FIFA World Cup qualification,Podgorica,Montenegro,FALSE
+2025-09-05,Bermuda,Jamaica,0,4,FIFA World Cup qualification,Devonshire Parish,Bermuda,FALSE
+2025-09-05,Trinidad and Tobago,Curaçao,0,0,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,FALSE
+2025-09-05,Haiti,Honduras,0,0,FIFA World Cup qualification,Willemstad,Curaçao,TRUE
+2025-09-05,Nicaragua,Costa Rica,1,1,FIFA World Cup qualification,Managua,Nicaragua,FALSE
 2025-09-06,Sri Lanka,Maldives,0,3,South Asian Super Cup,Colombo,Sri Lanka,FALSE
 2025-09-06,Mexico,Japan,0,0,Friendly,Oakland,United States,TRUE
 2025-09-06,Nepal,Bangladesh,0,0,Friendly,Kathmandu,Nepal,FALSE
@@ -48501,6 +48537,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-09-08,Israel,Italy,4,5,FIFA World Cup qualification,Debrecen,Hungary,TRUE
 2025-09-08,Croatia,Montenegro,4,0,FIFA World Cup qualification,Zagreb,Croatia,FALSE
 2025-09-08,Gibraltar,Faroe Islands,0,1,FIFA World Cup qualification,Gibraltar,Gibraltar,FALSE
+2025-09-08,El Salvador,Suriname,1,2,FIFA World Cup qualification,San Salvador,El Salvador,FALSE
+2025-09-08,Panama,Guatemala,1,1,FIFA World Cup qualification,Panama City,Panama,FALSE
 2025-09-09,Estonia,Andorra,0,0,Friendly,Tallinn,Estonia,FALSE
 2025-09-09,Jordan,Dominican Republic,3,0,Friendly,Amman,Jordan,FALSE
 2025-09-09,Malta,San Marino,3,1,Friendly,Ta' Qali,Malta,FALSE
@@ -48539,6 +48577,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-09-09,Norway,Moldova,11,1,FIFA World Cup qualification,Oslo,Norway,FALSE
 2025-09-09,Albania,Latvia,1,0,FIFA World Cup qualification,Tirana,Albania,FALSE
 2025-09-09,Serbia,England,0,5,FIFA World Cup qualification,Belgrade,Serbia,FALSE
+2025-09-09,Jamaica,Trinidad and Tobago,2,0,FIFA World Cup qualification,Kingston,Jamaica,FALSE
+2025-09-09,Curaçao,Bermuda,3,2,FIFA World Cup qualification,Willemstad,Curaçao,FALSE
+2025-09-09,Costa Rica,Haiti,3,3,FIFA World Cup qualification,San José,Costa Rica,FALSE
+2025-09-09,Honduras,Nicaragua,2,0,FIFA World Cup qualification,Tegucigalpa,Honduras,FALSE
 2025-10-04,Saint Kitts and Nevis,Saint Martin,5,0,Friendly,Basseterre,Saint Kitts and Nevis,FALSE
 2025-10-05,Saint Kitts and Nevis,Saint Martin,2,1,Friendly,Basseterre,Saint Kitts and Nevis,FALSE
 2025-10-05,Saint Vincent and the Grenadines,Cuba,7,0,Friendly,Arnos Vale,Saint Vincent and the Grenadines,FALSE
@@ -48587,6 +48629,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-10-09,Syria,Myanmar,5,1,AFC Asian Cup qualification,Al Hofuf,Saudi Arabia,TRUE
 2025-10-09,Laos,Malaysia,0,3,AFC Asian Cup qualification,Vientiane,Laos,FALSE
 2025-10-09,Vietnam,Nepal,3,1,AFC Asian Cup qualification,Ho Chi Minh City,Vietnam,FALSE
+2025-10-09,Liberia,Namibia,3,1,FIFA World Cup qualification,Monrovia,Liberia,FALSE
+2025-10-09,Nicaragua,Haiti,0,3,FIFA World Cup qualification,Managua,Nicaragua,FALSE
+2025-10-09,Honduras,Costa Rica,0,0,FIFA World Cup qualification,San Pedro Sula,Honduras,FALSE
 2025-10-10,Argentina,Venezuela,1,0,Friendly,Miami Gardens,United States,TRUE
 2025-10-10,Chile,Peru,2,1,Friendly,Santiago,Chile,FALSE
 2025-10-10,Canada,Australia,0,1,Friendly,Montreal,Canada,FALSE
@@ -48605,7 +48650,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-10-10,South Africa,Zimbabwe,0,0,FIFA World Cup qualification,Durban,South Africa,FALSE
 2025-10-10,Gambia,Gabon,3,4,FIFA World Cup qualification,Nairobi,Kenya,TRUE
 2025-10-10,Seychelles,Ivory Coast,0,7,FIFA World Cup qualification,Saint Pierre,Mauritius,TRUE
-2025-10-10,Liberia,Namibia,3,1,FIFA World Cup qualification,Monrovia,Liberia,FALSE
 2025-10-10,Tunisia,São Tomé and Príncipe,6,0,FIFA World Cup qualification,Radès,Tunisia,FALSE
 2025-10-10,Northern Ireland,Slovakia,2,0,FIFA World Cup qualification,Belfast,Northern Ireland,FALSE
 2025-10-10,Germany,Luxembourg,4,0,FIFA World Cup qualification,Sinsheim,Germany,FALSE
@@ -48615,6 +48659,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-10-10,France,Azerbaijan,3,0,FIFA World Cup qualification,Paris,France,FALSE
 2025-10-10,Kazakhstan,Liechtenstein,4,0,FIFA World Cup qualification,Astana,Kazakhstan,FALSE
 2025-10-10,Belgium,North Macedonia,0,0,FIFA World Cup qualification,Gent,Belgium,FALSE
+2025-10-10,Suriname,Guatemala,1,1,FIFA World Cup qualification,Paramaribo,Suriname,FALSE
+2025-10-10,El Salvador,Panama,0,1,FIFA World Cup qualification,San Salvador,El Salvador,FALSE
+2025-10-10,Bermuda,Trinidad and Tobago,0,3,FIFA World Cup qualification,Devonshire Parish,Bermuda,FALSE
+2025-10-10,Curaçao,Jamaica,2,0,FIFA World Cup qualification,Willemstad,Curaçao,FALSE
 2025-10-11,Grenada,Cuba,2,0,Friendly,St. George's,Grenada,FALSE
 2025-10-11,Mexico,Colombia,0,4,Friendly,Arlington,United States,TRUE
 2025-10-11,United Arab Emirates,Oman,2,1,FIFA World Cup qualification,Al Rayyan,Qatar,TRUE
@@ -48661,6 +48709,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-10-13,Ukraine,Azerbaijan,2,1,FIFA World Cup qualification,Kraków,Poland,TRUE
 2025-10-13,Wales,Belgium,2,4,FIFA World Cup qualification,Cardiff,Wales,FALSE
 2025-10-13,North Macedonia,Kazakhstan,1,1,FIFA World Cup qualification,Skopje,North Macedonia,FALSE
+2025-10-13,Honduras,Haiti,3,0,FIFA World Cup qualification,Tegucigalpa,Honduras,FALSE
+2025-10-13,Costa Rica,Nicaragua,4,1,FIFA World Cup qualification,San José,Costa Rica,FALSE
 2025-10-14,Albania,Jordan,4,2,Friendly,Tirana,Albania,FALSE
 2025-10-14,Japan,Brazil,3,2,Kirin Cup,Tokyo,Japan,FALSE
 2025-10-14,Iran,Tanzania,2,0,Friendly,Dubai,United Arab Emirates,TRUE
@@ -48704,6 +48754,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-10-14,Afghanistan,Pakistan,1,1,AFC Asian Cup qualification,Al Farwaniyah,Kuwait,TRUE
 2025-10-14,Vietnam,Nepal,1,0,AFC Asian Cup qualification,Ho Chi Minh City,Vietnam,FALSE
 2025-10-14,Malaysia,Laos,5,1,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,FALSE
+2025-10-14,Panama,Suriname,1,1,FIFA World Cup qualification,Panama City,Panama,FALSE
+2025-10-14,El Salvador,Guatemala,0,1,FIFA World Cup qualification,San Salvador,El Salvador,FALSE
+2025-10-14,Curaçao,Trinidad and Tobago,1,1,FIFA World Cup qualification,Willemstad,Curaçao,FALSE
+2025-10-14,Jamaica,Bermuda,4,0,FIFA World Cup qualification,Kingston,Jamaica,FALSE
 2025-11-12,Tunisia,Mauritania,1,1,Friendly,Radès,Tunisia,FALSE
 2025-11-12,Russia,Peru,1,1,Friendly,Saint Petersburg,Russia,FALSE
 2025-11-12,Cuba,Saint Lucia,3,0,CONCACAF Series,Santiago de los Caballeros,Dominican Republic,TRUE
@@ -48735,6 +48789,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-11-13,Andorra,Albania,0,1,FIFA World Cup qualification,Encamp,Andorra,FALSE
 2025-11-13,Iran,Cape Verde,0,0,Al Ain International Cup,Al Ain,United Arab Emirates,TRUE
 2025-11-13,Papua New Guinea,Solomon Islands,1,0,MSG Prime Minister's Cup,Port Moresby,Papua New Guinea,FALSE
+2025-11-13,Suriname,El Salvador,4,0,FIFA World Cup qualification,Paramaribo,Suriname,FALSE
+2025-11-13,Guatemala,Panama,2,3,FIFA World Cup qualification,Guatemala City,Guatemala,FALSE
+2025-11-13,Bermuda,Curaçao,0,7,FIFA World Cup qualification,Devonshire Parish,Bermuda,FALSE
+2025-11-13,Trinidad and Tobago,Jamaica,1,1,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,FALSE
+2025-11-13,Haiti,Costa Rica,1,0,FIFA World Cup qualification,Willemstad,Curaçao,TRUE
+2025-11-13,Nicaragua,Honduras,2,0,FIFA World Cup qualification,Managua,Nicaragua,FALSE
 2025-11-14,Angola,Argentina,0,2,Friendly,Luanda,Angola,FALSE
 2025-11-14,Australia,Venezuela,0,1,Friendly,Houston,United States,TRUE
 2025-11-14,South Korea,Bolivia,2,0,Friendly,Daejeon,South Korea,FALSE
@@ -48850,6 +48910,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-11-18,Saint Kitts and Nevis,Belize,2,6,CONCACAF Series,Basseterre,Saint Kitts and Nevis,FALSE
 2025-11-18,Antigua and Barbuda,Guyana,1,4,CONCACAF Series,North Sound,Antigua and Barbuda,FALSE
 2025-11-18,Iran,Uzbekistan,0,0,Al Ain International Cup,Al Ain,United Arab Emirates,TRUE
+2025-11-18,Guatemala,Suriname,3,1,FIFA World Cup qualification,Guatemala City,Guatemala,FALSE
+2025-11-18,Panama,El Salvador,3,0,FIFA World Cup qualification,Panama City,Panama,FALSE
+2025-11-18,Jamaica,Curaçao,0,0,FIFA World Cup qualification,Kingston,Jamaica,FALSE
+2025-11-18,Trinidad and Tobago,Bermuda,2,2,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,FALSE
+2025-11-18,Costa Rica,Honduras,0,0,FIFA World Cup qualification,San José,Costa Rica,FALSE
+2025-11-18,Haiti,Nicaragua,2,0,FIFA World Cup qualification,Willemstad,Curaçao,TRUE
 2025-11-19,Laos,Vietnam,0,2,AFC Asian Cup qualification,Vientiane,Laos,FALSE
 2025-11-20,Vanuatu,Solomon Islands,2,1,MSG Prime Minister's Cup,Port Moresby,Papua New Guinea,TRUE
 2025-11-20,Papua New Guinea,Fiji,2,0,MSG Prime Minister's Cup,Port Moresby,Papua New Guinea,FALSE
@@ -48948,4 +49014,4 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-01-18,Grenada,Jamaica,0,1,Friendly,St. George's,Grenada,FALSE
 2026-01-22,Panama,Mexico,0,1,Friendly,Panama City,Panama,FALSE
 2026-01-25,Bolivia,Mexico,0,1,Friendly,Santa Cruz,Bolivia,FALSE
-2026-01-26,Uzbekistan,China,2,2,Friendly,Dubai,United Arab Emirates,TRUE
+2026-01-26,Uzbekistan,China PR,2,2,Friendly,Dubai,United Arab Emirates,TRUE
