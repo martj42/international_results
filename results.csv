@@ -49064,9 +49064,153 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-01-14,Senegal,Egypt,1,0,African Cup of Nations,Tangier,Morocco,TRUE
 2026-01-14,Morocco,Nigeria,0,0,African Cup of Nations,Rabat,Morocco,FALSE
 2026-01-17,Egypt,Nigeria,0,0,African Cup of Nations,Casablanca,Morocco,TRUE
-2026-01-18,Morocco,Senegal,0,1,African Cup of Nations,Rabat,Morocco,FALSE
+2026-01-18,Morocco,Senegal,3,0,African Cup of Nations,Rabat,Morocco,FALSE
 2026-01-18,Bolivia,Panama,1,1,Friendly,Tarija,Bolivia,FALSE
 2026-01-18,Grenada,Jamaica,0,1,Friendly,St. George's,Grenada,FALSE
 2026-01-22,Panama,Mexico,0,1,Friendly,Panama City,Panama,FALSE
 2026-01-25,Bolivia,Mexico,0,1,Friendly,Santa Cruz,Bolivia,FALSE
 2026-01-26,Uzbekistan,China PR,2,2,Friendly,Dubai,United Arab Emirates,TRUE
+2026-02-25,Mexico,Iceland,4,0,Friendly,Querétaro,Mexico,FALSE
+2026-03-15,Bolivia,Trinidad and Tobago,3,0,Friendly,Santa Cruz,Bolivia,FALSE
+2026-03-25,Bermuda,DR Congo,0,2,Friendly,Zapopan,Mexico,TRUE
+2026-03-25,Equatorial Guinea,Kyrgyzstan,1,0,Friendly,Antalya,Turkey,TRUE
+2026-03-25,Kazakhstan,Namibia,2,0,FIFA Series,Astana,Kazakhstan,FALSE
+2026-03-25,United States Virgin Islands,American Samoa,5,2,FIFA Series,Bayamón,Puerto Rico,TRUE
+2026-03-25,Puerto Rico,Guam,4,0,FIFA Series,Bayamón,Puerto Rico,FALSE
+2026-03-26,Brazil,France,1,2,Friendly,Foxborough,United States,TRUE
+2026-03-26,Colombia,Croatia,1,2,Friendly,Orlando,United States,TRUE
+2026-03-26,Cyprus,Belarus,0,1,Friendly,Nicosia,Cyprus,FALSE
+2026-03-26,Georgia,Israel,2,2,Friendly,Tbilisi,Georgia,FALSE
+2026-03-26,Moldova,Lithuania,0,2,Friendly,Chișinău,Moldova,FALSE
+2026-03-26,Vietnam,Bangladesh,3,0,Friendly,Hanoi,Vietnam,FALSE
+2026-03-26,New Caledonia,Jamaica,0,1,FIFA World Cup qualification,Zapopan,Mexico,TRUE
+2026-03-26,Bolivia,Suriname,2,1,FIFA World Cup qualification,Guadalupe,Mexico,TRUE
+2026-03-26,Italy,Northern Ireland,2,0,FIFA World Cup qualification,Bergamo,Italy,FALSE
+2026-03-26,Wales,Bosnia and Herzegovina,1,1,FIFA World Cup qualification,Cardiff,Wales,FALSE
+2026-03-26,Poland,Albania,2,1,FIFA World Cup qualification,Warsaw,Poland,FALSE
+2026-03-26,Ukraine,Sweden,1,3,FIFA World Cup qualification,Valencia,Spain,TRUE
+2026-03-26,Slovakia,Kosovo,3,4,FIFA World Cup qualification,Bratislava,Slovakia,FALSE
+2026-03-26,Turkey,Romania,1,0,FIFA World Cup qualification,Istanbul,Turkey,FALSE
+2026-03-26,Czech Republic,Republic of Ireland,2,2,FIFA World Cup qualification,Prague,Czech Republic,FALSE
+2026-03-26,Denmark,North Macedonia,4,0,FIFA World Cup qualification,Copenhagen,Denmark,FALSE
+2026-03-26,Aruba,Macau,4,1,FIFA Series,Kigali,Rwanda,TRUE
+2026-03-26,Tanzania,Liechtenstein,0,1,FIFA Series,Kigali,Rwanda,TRUE
+2026-03-26,Martinique,Cuba,2,2,CONCACAF Series,Santiago de los Caballeros,Dominican Republic,TRUE
+2026-03-26,Dominican Republic,El Salvador,2,2,CONCACAF Series,Santiago de los Caballeros,Dominican Republic,FALSE
+2026-03-26,Saint Martin,Barbados,3,1,CONCACAF Series,Rincon,Bonaire,TRUE
+2026-03-26,Bonaire,Saint Vincent and the Grenadines,3,1,CONCACAF Series,Rincon,Bonaire,FALSE
+2026-03-26,Bahamas,Anguilla,1,3,CONCACAF Series,George Town,Cayman Islands,TRUE
+2026-03-26,Cayman Islands,British Virgin Islands,1,1,CONCACAF Series,George Town,Cayman Islands,FALSE
+2026-03-27,Algeria,Guatemala,7,0,Friendly,Genoa,Switzerland,TRUE
+2026-03-27,Argentina,Mauritania,2,1,Friendly,Buenos Aires,Argentina,FALSE
+2026-03-27,Austria,Ghana,5,1,Friendly,Vienna,Austria,FALSE
+2026-03-27,England,Uruguay,1,1,Friendly,London,England,FALSE
+2026-03-27,Greece,Paraguay,0,1,Friendly,Athens,Greece,FALSE
+2026-03-27,Guinea,Togo,2,2,"Morocco, Capital of African Football",Rabat,Morocco,TRUE
+2026-03-27,Liberia,Benin,0,1,"Morocco, Capital of African Football",Casablanca,Morocco,TRUE
+2026-03-27,Libya,Niger,0,0,"Morocco, Capital of African Football",Casablanca,Morocco,TRUE
+2026-03-27,Montenegro,Andorra,2,0,Friendly,Podgorica,Montenegro,FALSE
+2026-03-27,Morocco,Ecuador,1,1,Friendly,Madrid,Spain,TRUE
+2026-03-27,Netherlands,Norway,2,1,Friendly,Amsterdam,Netherlands,FALSE
+2026-03-27,Saudi Arabia,Egypt,0,4,Friendly,Jeddah,Saudi Arabia,FALSE
+2026-03-27,South Africa,Panama,1,1,Friendly,Durban,South Africa,FALSE
+2026-03-27,Spain,Serbia,3,0,Friendly,Villarreal,Spain,FALSE
+2026-03-27,Russia,Nicaragua,3,1,Friendly,Krasnodar,Russia,FALSE
+2026-03-27,Switzerland,Germany,3,4,Friendly,Basel,Switzerland,FALSE
+2026-03-27,Costa Rica,Jordan,2,2,Friendly,Antalya,Turkey,TRUE
+2026-03-27,Iran,Nigeria,1,2,Friendly,Antalya,Turkey,TRUE
+2026-03-27,China PR,Curaçao,2,0,FIFA Series,Sydney,Australia,TRUE
+2026-03-27,Australia,Cameroon,1,0,FIFA Series,Sydney,Australia,FALSE
+2026-03-27,Azerbaijan,Saint Lucia,6,1,FIFA Series,Sumgait,Azerbaijan,FALSE
+2026-03-27,Solomon Islands,Bulgaria,2,10,FIFA Series,Jakarta,Indonesia,TRUE
+2026-03-27,Indonesia,Saint Kitts and Nevis,4,0,FIFA Series,Jakarta,Indonesia,FALSE
+2026-03-27,Chile,Cape Verde,4,2,FIFA Series,Auckland,New Zealand,TRUE
+2026-03-27,New Zealand,Finland,0,2,FIFA Series,Auckland,New Zealand,FALSE
+2026-03-27,Kenya,Estonia,1,1,FIFA Series,Kigali,Rwanda,TRUE
+2026-03-27,Rwanda,Grenada,4,0,FIFA Series,Kigali,Rwanda,FALSE
+2026-03-27,Venezuela,Trinidad and Tobago,4,1,FIFA Series,Tashkent,Uzbekistan,TRUE
+2026-03-27,Uzbekistan,Gabon,3,1,FIFA Series,Tashkent,Uzbekistan,FALSE
+2026-03-27,Guyana,Dominica,2,0,CONCACAF Series,Santiago de los Caballeros,Dominican Republic,TRUE
+2026-03-27,Belize,Sint Maarten,2,3,CONCACAF Series,Santiago de los Caballeros,Dominican Republic,TRUE
+2026-03-28,Burkina Faso,Guinea-Bissau,5,0,Friendly,Ouagadougou,Burkina Faso,FALSE
+2026-03-28,Canada,Iceland,2,2,Friendly,Toronto,Canada,FALSE
+2026-03-28,Haiti,Tunisia,0,1,Friendly,Toronto,Canada,TRUE
+2026-03-28,Hungary,Slovenia,1,0,Friendly,Budapest,Hungary,FALSE
+2026-03-28,Ivory Coast,South Korea,4,0,Friendly,Milton Keynes,England,TRUE
+2026-03-28,Mexico,Portugal,0,0,Friendly,Mexico City,Mexico,FALSE
+2026-03-28,San Marino,Faroe Islands,1,2,Friendly,Serravalle,San Marino,FALSE
+2026-03-28,Scotland,Japan,0,1,Friendly,Glasgow,Scotland,FALSE
+2026-03-28,Senegal,Peru,2,0,Friendly,Paris,France,TRUE
+2026-03-28,United States,Belgium,2,5,Friendly,Atlanta,United States,FALSE
+2026-03-28,Kyrgyzstan,Madagascar,2,5,Friendly,Antalya,Turkey,TRUE
+2026-03-28,Botswana,Zimbabwe,0,3,Mukuru 4 Nations,Francistown,Botswana,FALSE
+2026-03-28,Namibia,Comoros,0,0,FIFA Series,Astana,Kazakhstan,TRUE
+2026-03-28,American Samoa,Guam,0,6,FIFA Series,Bayamón,Puerto Rico,TRUE
+2026-03-28,Puerto Rico,United States Virgin Islands,2,0,FIFA Series,Bayamón,Puerto Rico,FALSE
+2026-03-29,Armenia,Belarus,1,2,Friendly,Yerevan,Armenia,FALSE
+2026-03-29,Colombia,France,1,3,Friendly,Landover,United States,TRUE
+2026-03-29,Lithuania,Georgia,0,2,Friendly,Kaunas,Lithuania,FALSE
+2026-03-29,Macau,Tanzania,0,6,FIFA Series,Kigali,Rwanda,TRUE
+2026-03-29,Aruba,Liechtenstein,4,1,FIFA Series,Kigali,Rwanda,TRUE
+2026-03-29,Martinique,El Salvador,0,1,CONCACAF Series,Santiago de los Caballeros,Dominican Republic,TRUE
+2026-03-29,Dominican Republic,Cuba,1,1,CONCACAF Series,Santiago de los Caballeros,Dominican Republic,FALSE
+2026-03-29,Barbados,Saint Vincent and the Grenadines,2,3,CONCACAF Series,Rincon,Bonaire,TRUE
+2026-03-29,Bonaire,Saint Martin,0,3,CONCACAF Series,Rincon,Bonaire,FALSE
+2026-03-29,British Virgin Islands,Anguilla,4,0,CONCACAF Series,George Town,Cayman Islands,TRUE
+2026-03-29,Cayman Islands,Bahamas,1,0,CONCACAF Series,George Town,Cayman Islands,FALSE
+2026-03-30,Cyprus,Moldova,3,2,Friendly,Nicosia,Cyprus,FALSE
+2026-03-30,Germany,Ghana,2,1,Friendly,Stuttgart,Germany,FALSE
+2026-03-30,Azerbaijan,Sierra Leone,1,1,FIFA Series,Sumgait,Azerbaijan,FALSE
+2026-03-30,Saint Kitts and Nevis,Solomon Islands,4,2,FIFA Series,Jakarta,Indonesia,TRUE
+2026-03-30,Indonesia,Bulgaria,0,1,FIFA Series,Jakarta,Indonesia,FALSE
+2026-03-30,Cape Verde,Finland,1,1,FIFA Series,Auckland,New Zealand,TRUE
+2026-03-30,New Zealand,Chile,4,1,FIFA Series,Auckland,New Zealand,FALSE
+2026-03-30,Grenada,Kenya,0,3,FIFA Series,Kigali,Rwanda,TRUE
+2026-03-30,Rwanda,Estonia,2,0,FIFA Series,Kigali,Rwanda,FALSE
+2026-03-30,Gabon,Trinidad and Tobago,2,2,FIFA Series,Tashkent,Uzbekistan,TRUE
+2026-03-30,Uzbekistan,Venezuela,0,0,FIFA Series,Tashkent,Uzbekistan,FALSE
+2026-03-30,Guyana,Belize,3,1,CONCACAF Series,Santiago de los Caballeros,Dominican Republic,TRUE
+2026-03-30,Dominica,Sint Maarten,0,0,CONCACAF Series,Santiago de los Caballeros,Dominican Republic,TRUE
+2026-03-31,Algeria,Uruguay,0,0,Friendly,Turin,Italy,TRUE
+2026-03-31,Argentina,Zambia,5,0,Friendly,Buenos Aires,Argentina,FALSE
+2026-03-31,Austria,South Korea,1,0,Friendly,Vienna,Austria,FALSE
+2026-03-31,Benin,Guinea,1,0,"Morocco, Capital of African Football",Casablanca,Morocco,TRUE
+2026-03-31,Brazil,Croatia,3,1,Friendly,Orlando,United States,TRUE
+2026-03-31,Burkina Faso,Guinea-Bissau,1,1,Friendly,Ouagadougou,Burkina Faso,FALSE
+2026-03-31,Canada,Tunisia,0,0,Friendly,Toronto,Canada,FALSE
+2026-03-31,Costa Rica,Iran,0,5,Friendly,Antalya,Turkey,TRUE
+2026-03-31,England,Japan,0,1,Friendly,London,England,FALSE
+2026-03-31,Equatorial Guinea,Madagascar,1,1,Friendly,Manavgat,Turkey,TRUE
+2026-03-31,Haiti,Iceland,1,1,Friendly,Toronto,Canada,TRUE
+2026-03-31,Hungary,Greece,0,0,Friendly,Budapest,Hungary,FALSE
+2026-03-31,Ivory Coast,Scotland,1,0,Friendly,Liverpool,England,TRUE
+2026-03-31,Jordan,Nigeria,2,2,Friendly,Antalya,Turkey,TRUE
+2026-03-31,Liberia,Libya,2,2,"Morocco, Capital of African Football",Casablanca,Morocco,TRUE
+2026-03-31,Botswana,Malawi,1,0,Mukuru 4 Nations,Francistown,Botswana,FALSE
+2026-03-31,Mexico,Belgium,1,1,Friendly,Chicago,United States,TRUE
+2026-03-31,Montenegro,Slovenia,2,3,Friendly,Podgorica,Montenegro,FALSE
+2026-03-31,Morocco,Paraguay,2,1,Friendly,Lens,France,TRUE
+2026-03-31,Netherlands,Ecuador,1,1,Friendly,Eindhoven,Netherlands,FALSE
+2026-03-31,Niger,Togo,0,1,"Morocco, Capital of African Football",Casablanca,Morocco,TRUE
+2026-03-31,Norway,Switzerland,0,0,Friendly,Oslo,Norway,FALSE
+2026-03-31,Peru,Honduras,2,2,Friendly,Madrid,Spain,TRUE
+2026-03-31,Russia,Mali,0,0,Friendly,Saint Petersburg,Russia,FALSE
+2026-03-31,Republic of Ireland,North Macedonia,0,0,Friendly,Dublin,Republic of Ireland,FALSE
+2026-03-31,San Marino,Andorra,0,0,Friendly,Serravalle,San Marino,FALSE
+2026-03-31,Senegal,Gambia,3,1,Friendly,Diamniadio,Senegal,FALSE
+2026-03-31,Serbia,Saudi Arabia,2,1,Friendly,Backa Topola,Serbia,FALSE
+2026-03-31,Slovakia,Romania,2,0,Friendly,Bratislava,Slovakia,FALSE
+2026-03-31,South Africa,Panama,1,2,Friendly,Cape Town,South Africa,FALSE
+2026-03-31,Spain,Egypt,0,0,Friendly,Barcelona,Spain,FALSE
+2026-03-31,Ukraine,Albania,1,0,Friendly,Valencia,Spain,TRUE
+2026-03-31,United States,Portugal,0,2,Friendly,Atlanta,United States,FALSE
+2026-03-31,Wales,Northern Ireland,1,1,Friendly,Cardiff,Wales,FALSE
+2026-03-31,DR Congo,Jamaica,1,0,FIFA World Cup qualification,Zapopan,Mexico,TRUE
+2026-03-31,Iraq,Bolivia,2,1,FIFA World Cup qualification,Guadalupe,Mexico,TRUE
+2026-03-31,Bosnia and Herzegovina,Italy,1,1,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,FALSE
+2026-03-31,Sweden,Poland,3,2,FIFA World Cup qualification,Solna,Sweden,FALSE
+2026-03-31,Kosovo,Turkey,0,1,FIFA World Cup qualification,Pristina,Kosovo,FALSE
+2026-03-31,Czech Republic,Denmark,2,2,FIFA World Cup qualification,Prague,Czech Republic,FALSE
+2026-03-31,Cameroon,China PR,2,0,FIFA Series,Melbourne,Australia,TRUE
+2026-03-31,Australia,Curaçao,5,1,FIFA Series,Melbourne,Australia,FALSE
+2026-03-31,Kazakhstan,Comoros,1,0,FIFA Series,Astana,Kazakhstan,FALSE

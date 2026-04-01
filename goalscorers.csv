@@ -47553,4 +47553,50 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2026-01-10,Egypt,Ivory Coast,Egypt,Mohamed Salah,52,FALSE,FALSE
 2026-01-10,Egypt,Ivory Coast,Ivory Coast,Guéla Doué,73,FALSE,FALSE
 2026-01-14,Senegal,Egypt,Senegal,Sadio Mané,78,FALSE,FALSE
-2026-01-18,Morocco,Senegal,Senegal,Pape Gueye,94,FALSE,FALSE
+2026-03-26,Bolivia,Suriname,Suriname,Liam van Gelderen,48,FALSE,FALSE
+2026-03-26,Bolivia,Suriname,Bolivia,Moisés Paniagua,72,FALSE,FALSE
+2026-03-26,Bolivia,Suriname,Bolivia,Miguel Terceros,79,FALSE,TRUE
+2026-03-26,Czech Republic,Republic of Ireland,Republic of Ireland,Troy Parrott,19,FALSE,TRUE
+2026-03-26,Czech Republic,Republic of Ireland,Republic of Ireland,Matěj Kovář,23,TRUE,FALSE
+2026-03-26,Czech Republic,Republic of Ireland,Czech Republic,Patrik Schick,27,FALSE,TRUE
+2026-03-26,Czech Republic,Republic of Ireland,Czech Republic,Ladislav Krejčí,86,FALSE,FALSE
+2026-03-26,Denmark,North Macedonia,Denmark,Mikkel Damsgaard,49,FALSE,FALSE
+2026-03-26,Denmark,North Macedonia,Denmark,Gustav Isaksen,58,FALSE,FALSE
+2026-03-26,Denmark,North Macedonia,Denmark,Gustav Isaksen,59,FALSE,FALSE
+2026-03-26,Denmark,North Macedonia,Denmark,Christian Nørgaard,75,FALSE,FALSE
+2026-03-26,Italy,Northern Ireland,Italy,Sandro Tonali,56,FALSE,FALSE
+2026-03-26,Italy,Northern Ireland,Italy,Moise Kean,80,FALSE,FALSE
+2026-03-26,New Caledonia,Jamaica,Jamaica,Bailey Cadamarteri,18,FALSE,FALSE
+2026-03-26,Poland,Albania,Albania,Arbër Hoxha,42,FALSE,FALSE
+2026-03-26,Poland,Albania,Poland,Robert Lewandowski,63,FALSE,FALSE
+2026-03-26,Poland,Albania,Poland,Piotr Zieliński,73,FALSE,FALSE
+2026-03-26,Slovakia,Kosovo,Slovakia,Martin Valjent,6,FALSE,FALSE
+2026-03-26,Slovakia,Kosovo,Kosovo,Veldin Hodža,21,FALSE,FALSE
+2026-03-26,Slovakia,Kosovo,Slovakia,Lukáš Haraslín,45,FALSE,FALSE
+2026-03-26,Slovakia,Kosovo,Kosovo,Fisnik Asllani,47,FALSE,FALSE
+2026-03-26,Slovakia,Kosovo,Kosovo,Florent Muslija,60,FALSE,FALSE
+2026-03-26,Slovakia,Kosovo,Kosovo,Kreshnik Hajrizi,72,FALSE,FALSE
+2026-03-26,Slovakia,Kosovo,Slovakia,David Strelec,90,FALSE,FALSE
+2026-03-26,Turkey,Romania,Turkey,Ferdi Kadıoğlu,53,FALSE,FALSE
+2026-03-26,Ukraine,Sweden,Sweden,Viktor Gyökeres,6,FALSE,FALSE
+2026-03-26,Ukraine,Sweden,Sweden,Viktor Gyökeres,51,FALSE,FALSE
+2026-03-26,Ukraine,Sweden,Sweden,Viktor Gyökeres,73,FALSE,TRUE
+2026-03-26,Ukraine,Sweden,Ukraine,Matviy Ponomarenko,90,FALSE,FALSE
+2026-03-26,Wales,Bosnia and Herzegovina,Wales,Daniel James,51,FALSE,FALSE
+2026-03-26,Wales,Bosnia and Herzegovina,Bosnia and Herzegovina,Edin Džeko,86,FALSE,FALSE
+2026-03-31,Bosnia and Herzegovina,Italy,Italy,Moise Kean,15,FALSE,FALSE
+2026-03-31,Bosnia and Herzegovina,Italy,Bosnia and Herzegovina,Haris Tabaković,79,FALSE,FALSE
+2026-03-31,Czech Republic,Denmark,Czech Republic,Pavel Šulc,3,FALSE,FALSE
+2026-03-31,Czech Republic,Denmark,Denmark,Joachim Andersen,72,FALSE,FALSE
+2026-03-31,Czech Republic,Denmark,Czech Republic,Ladislav Krejčí,100,FALSE,FALSE
+2026-03-31,Czech Republic,Denmark,Denmark,Kasper Høgh,111,FALSE,FALSE
+2026-03-31,DR Congo,Jamaica,DR Congo,Axel Tuanzebe,100,FALSE,FALSE
+2026-03-31,Iraq,Bolivia,Iraq,Ali Al-Hamadi,10,FALSE,FALSE
+2026-03-31,Iraq,Bolivia,Bolivia,Moisés Paniagua,38,FALSE,FALSE
+2026-03-31,Iraq,Bolivia,Iraq,Aymen Hussein,53,FALSE,FALSE
+2026-03-31,Kosovo,Turkey,Turkey,Kerem Aktürkoğlu,53,FALSE,FALSE
+2026-03-31,Sweden,Poland,Sweden,Anthony Elanga,20,FALSE,FALSE
+2026-03-31,Sweden,Poland,Poland,Nicola Zalewski,33,FALSE,FALSE
+2026-03-31,Sweden,Poland,Sweden,Gustaf Lagerbielke,44,FALSE,FALSE
+2026-03-31,Sweden,Poland,Poland,Karol Świderski,55,FALSE,FALSE
+2026-03-31,Sweden,Poland,Sweden,Viktor Gyökeres,88,FALSE,FALSE
