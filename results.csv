@@ -49256,6 +49256,30 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-03-31,Cameroon,China PR,2,0,FIFA Series,Melbourne,Australia,TRUE
 2026-03-31,Australia,Curaçao,5,1,FIFA Series,Melbourne,Australia,FALSE
 2026-03-31,Kazakhstan,Comoros,1,0,FIFA Series,Astana,Kazakhstan,FALSE
+2026-05-16,Republic of Ireland,Grenada,5,0,Friendly,Murcia,Spain,TRUE
+2026-05-22,Mexico,Ghana,2,0,Friendly,Puebla,Mexico,FALSE
+2026-05-26,Morocco,Burundi,5,0,Friendly,Salé,Morocco,FALSE
+2026-05-26,Nigeria,Zimbabwe,2,0,Unity Cup,London,England,TRUE
+2026-05-27,India,Jamaica,0,2,Unity Cup,London,England,TRUE
+2026-05-28,Republic of Ireland,Qatar,1,0,Friendly,Dublin,Republic of Ireland,FALSE
+2026-05-28,Egypt,Russia,1,0,Friendly,Cairo,Egypt,FALSE
+2026-05-29,Andorra,Iraq,0,1,Friendly,Girona,Spain,TRUE
+2026-05-29,Bosnia and Herzegovina,North Macedonia,0,0,Friendly,Sarajevo,Bosnia and Herzegovina,FALSE
+2026-05-29,Iran,Gambia,3,1,Friendly,Aksu,Turkey,TRUE
+2026-05-29,South Africa,Nicaragua,0,0,Friendly,Johannesburg,South Africa,FALSE
+2026-05-30,Ecuador,Saudi Arabia,2,1,Friendly,Harrison,United States,TRUE
+2026-05-30,South Korea,Trinidad and Tobago,5,0,Friendly,Provo,United States,TRUE
+2026-05-30,Mexico,Australia,1,0,Friendly,Pasadena,United States,TRUE
+2026-05-30,Scotland,Curaçao,4,1,Friendly,Glasgow,Scotland,FALSE
+2026-05-31,Brazil,Panama,6,2,Friendly,Rio de Janeiro,Brazil,FALSE
+2026-05-31,Cape Verde,Serbia,3,0,Friendly,Lisbon,Portugal,TRUE
+2026-05-31,Czech Republic,Kosovo,2,1,Friendly,Prague,Czech Republic,FALSE
+2026-05-31,Germany,Finland,4,0,Friendly,Mainz,Germany,FALSE
+2026-05-31,Poland,Ukraine,0,2,Friendly,Wrocław,Poland,FALSE
+2026-05-31,Singapore,Mongolia,4,0,Friendly,Singapore,Singapore,FALSE
+2026-05-31,Switzerland,Jordan,4,1,Friendly,St. Gallen,Switzerland,FALSE
+2026-05-31,United States,Senegal,3,2,Friendly,Charlotte,United States,FALSE
+2026-05-31,Japan,Iceland,1,0,Friendly,Tokyo,Japan,FALSE
 2026-06-11,Mexico,South Africa,NA,NA,FIFA World Cup,Mexico City,Mexico,FALSE
 2026-06-11,South Korea,Czech Republic,NA,NA,FIFA World Cup,Zapopan,Mexico,TRUE
 2026-06-12,Canada,Bosnia and Herzegovina,NA,NA,FIFA World Cup,Toronto,Canada,FALSE
