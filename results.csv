@@ -192,6 +192,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1906-04-22,France,Belgium,0,5,Friendly,Saint-Cloud,France,FALSE
 1906-04-29,Belgium,Netherlands,5,0,Friendly,Antwerp,Belgium,FALSE
 1906-05-13,Netherlands,Belgium,2,3,Friendly,Rotterdam,Netherlands,FALSE
+1906-07-09,Argentina,South Africa,0,1,Friendly,Buenos Aires,Argentina,FALSE
 1906-08-15,Uruguay,Argentina,0,2,Copa Lipton,Montevideo,Uruguay,FALSE
 1906-10-07,Czechoslovakia,Hungary,4,4,Friendly,Prague,Bohemia,FALSE
 1906-10-21,Argentina,Uruguay,2,1,Copa Newton,Buenos Aires,Argentina,FALSE
@@ -49295,6 +49296,15 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-06-02,Haiti,New Zealand,4,0,Friendly,Fort Lauderdale,United States,TRUE
 2026-06-02,Morocco,Madagascar,4,0,Friendly,Rabat,Morocco,FALSE
 2026-06-02,Wales,Ghana,1,1,Friendly,Cardiff,Wales,FALSE
+2026-06-03,Albania,Israel,0,1,Friendly,Tirana,Albania,FALSE
+2026-06-03,DR Congo,Denmark,0,0,Friendly,Liège,Belgium,TRUE
+2026-06-03,Gibraltar,British Virgin Islands,4,0,Friendly,Gibraltar,Gibraltar,FALSE
+2026-06-03,South Korea,El Salvador,1,0,Friendly,Provo,United States,TRUE
+2026-06-03,Luxembourg,Italy,0,1,Friendly,Luxembourg,Luxembourg,FALSE
+2026-06-03,Netherlands,Algeria,0,1,Friendly,Rotterdam,Netherlands,FALSE
+2026-06-03,Panama,Dominican Republic,4,2,Friendly,Panama City,Panama,FALSE
+2026-06-03,Poland,Nigeria,2,2,Friendly,Warsaw,Poland,FALSE
+2026-06-03,Philippines,Guam,5,1,Friendly,Manila,Philippines,FALSE
 2026-06-11,Mexico,South Africa,NA,NA,FIFA World Cup,Mexico City,Mexico,FALSE
 2026-06-11,South Korea,Czech Republic,NA,NA,FIFA World Cup,Zapopan,Mexico,TRUE
 2026-06-12,Canada,Bosnia and Herzegovina,NA,NA,FIFA World Cup,Toronto,Canada,FALSE
