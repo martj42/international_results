@@ -43,7 +43,7 @@ date,home_team,away_team,winner,first_shooter
 1980-06-21,Italy,Czechoslovakia,Czechoslovakia,Italy
 1980-07-12,Nigeria,Tunisia,Nigeria,
 1980-11-30,Zambia,Morocco,Morocco,
-1980-12-31,Hong Kong,China PR,China PR,
+1980-12-31,Hong Kong,China,China,
 1981-02-13,Mali,Guinea,Guinea,
 1981-05-10,Rwanda,Ethiopia,Ethiopia,
 1981-12-13,Malaysia,Singapore,Malaysia,
@@ -99,7 +99,7 @@ date,home_team,away_team,winner,first_shooter
 1986-10-01,Saudi Arabia,Iraq,Saudi Arabia,
 1986-10-01,South Korea,Iran,South Korea,
 1986-10-01,United Arab Emirates,Indonesia,Indonesia,
-1986-10-01,Kuwait,China PR,Kuwait,
+1986-10-01,Kuwait,China,Kuwait,
 1986-10-03,Saudi Arabia,Kuwait,Saudi Arabia,
 1986-10-19,Gabon,Angola,Angola,
 1986-12-17,Chad,Gabon,Chad,
@@ -126,7 +126,7 @@ date,home_team,away_team,winner,first_shooter
 1988-09-29,Chile,Ecuador,Ecuador,
 1988-10-16,Eswatini,Tanzania,Eswatini,
 1988-12-06,Central African Republic,Gabon,Gabon,
-1988-12-17,China PR,Iran,Iran,
+1988-12-17,China,Iran,Iran,
 1988-12-18,South Korea,Saudi Arabia,Saudi Arabia,South Korea
 1989-04-23,Ghana,Gabon,Gabon,
 1989-04-23,Kenya,Sudan,Kenya,
@@ -143,7 +143,7 @@ date,home_team,away_team,winner,first_shooter
 1990-06-30,Yugoslavia,Argentina,Argentina,Argentina
 1990-07-03,Italy,Argentina,Argentina,Italy
 1990-07-04,Germany,England,Germany,England
-1990-08-03,China PR,South Korea,South Korea,
+1990-08-03,China,South Korea,South Korea,
 1990-10-01,Saudi Arabia,North Korea,North Korea,
 1990-10-06,Iran,North Korea,Iran,
 1990-12-17,Tanzania,Uganda,Uganda,
@@ -166,7 +166,7 @@ date,home_team,away_team,winner,first_shooter
 1992-06-27,Cuba,Martinique,Martinique,
 1992-08-29,Japan,South Korea,Japan,
 1992-09-15,Syria,Egypt,Egypt,
-1992-11-08,China PR,United Arab Emirates,China PR,
+1992-11-08,China,United Arab Emirates,China,
 1992-11-25,Uganda,Zambia,Uganda,
 1993-01-23,Japan,Switzerland,Switzerland,
 1993-02-20,Finland,Estonia,Finland,
@@ -282,13 +282,13 @@ date,home_team,away_team,winner,first_shooter
 2000-10-04,United Arab Emirates,South Korea,United Arab Emirates,
 2000-10-28,Kenya,Uganda,Uganda,
 2000-12-02,Ethiopia,Rwanda,Ethiopia,
-2001-01-17,China PR,Egypt,Egypt,
+2001-01-17,China,Egypt,Egypt,
 2001-01-27,South Korea,Paraguay,South Korea,
 2001-02-11,Eswatini,Zambia,Eswatini,
 2001-07-12,Ynys Môn,Jersey,Ynys Môn,
 2001-07-13,Guernsey,Ynys Môn,Guernsey,
 2001-07-29,Uruguay,Honduras,Honduras,Uruguay
-2001-08-03,China PR,North Korea,North Korea,
+2001-08-03,China,North Korea,North Korea,
 2001-08-03,Kuwait,Trinidad and Tobago,Kuwait,
 2001-08-05,Kuwait,North Korea,North Korea,
 2001-08-18,Zambia,Angola,Angola,
@@ -301,7 +301,7 @@ date,home_team,away_team,winner,first_shooter
 2002-01-30,United States,Canada,United States,United States
 2002-02-10,Senegal,Cameroon,Cameroon,Cameroon
 2002-02-12,Cyprus,Switzerland,Cyprus,
-2002-02-15,China PR,Slovenia,Slovenia,
+2002-02-15,China,Slovenia,Slovenia,
 2002-02-16,Thailand,North Korea,North Korea,
 2002-03-30,Botswana,South Africa,South Africa,
 2002-05-17,Russia,Belarus,Belarus,
@@ -344,7 +344,7 @@ date,home_team,away_team,winner,first_shooter
 2004-07-25,Argentina,Brazil,Brazil,Argentina
 2004-07-30,Uzbekistan,Bahrain,Bahrain,Bahrain
 2004-07-31,Japan,Jordan,Japan,Japan
-2004-08-03,China PR,Iran,China PR,China PR
+2004-08-03,China,Iran,China,China
 2004-10-22,Nigeria,Ecuador,Ecuador,
 2004-10-24,Zimbabwe,Zambia,Zambia,
 2004-11-20,Zambia,Angola,Angola,
@@ -501,7 +501,7 @@ date,home_team,away_team,winner,first_shooter
 2016-11-12,Nepal,Laos,Nepal,
 2016-11-12,Macau,Brunei,Macau,Brunei
 2017-01-11,Chile,Croatia,Chile,
-2017-01-14,China PR,Croatia,China PR,
+2017-01-14,China,Croatia,China,
 2017-01-28,Senegal,Cameroon,Cameroon,Senegal
 2017-02-01,Burkina Faso,Egypt,Egypt,Egypt
 2017-06-09,Kárpátalja,Ellan Vannin,Kárpátalja,

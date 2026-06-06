@@ -2685,8 +2685,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1957-05-08,Scotland,Spain,Scotland,John Hewie,41,FALSE,TRUE
 1957-05-08,Scotland,Spain,Scotland,Jackie Mudie,70,FALSE,FALSE
 1957-05-08,Scotland,Spain,Scotland,Jackie Mudie,79,FALSE,FALSE
-1957-05-12,Indonesia,China PR,Indonesia,Rusli Ramang,47,FALSE,FALSE
-1957-05-12,Indonesia,China PR,Indonesia,Rusli Ramang,80,FALSE,FALSE
+1957-05-12,Indonesia,China,Indonesia,Rusli Ramang,47,FALSE,FALSE
+1957-05-12,Indonesia,China,Indonesia,Rusli Ramang,80,FALSE,FALSE
 1957-05-15,Denmark,England,Denmark,John Jensen,27,FALSE,FALSE
 1957-05-15,Denmark,England,England,Johnny Haynes,28,FALSE,FALSE
 1957-05-15,Denmark,England,England,Tommy Taylor,71,FALSE,FALSE
@@ -2720,13 +2720,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1957-05-26,Spain,Scotland,Spain,Estanislau Basora,60,FALSE,FALSE
 1957-05-26,Spain,Scotland,Scotland,Gordon Smith,79,FALSE,FALSE
 1957-05-26,Spain,Scotland,Spain,Estanislau Basora,87,FALSE,FALSE
-1957-06-02,China PR,Indonesia,China PR,Zhang Honggen,1,FALSE,FALSE
-1957-06-02,China PR,Indonesia,China PR,Nian Weisi,9,FALSE,FALSE
-1957-06-02,China PR,Indonesia,Indonesia,Rusli Ramang,25,FALSE,FALSE
-1957-06-02,China PR,Indonesia,China PR,Sun Fucheng,47,FALSE,FALSE
-1957-06-02,China PR,Indonesia,Indonesia,Rusli Ramang,55,FALSE,FALSE
-1957-06-02,China PR,Indonesia,Indonesia,Endang Witarsa,70,FALSE,FALSE
-1957-06-02,China PR,Indonesia,China PR,Wang Lu,75,FALSE,FALSE
+1957-06-02,China,Indonesia,China,Zhang Honggen,1,FALSE,FALSE
+1957-06-02,China,Indonesia,China,Nian Weisi,9,FALSE,FALSE
+1957-06-02,China,Indonesia,Indonesia,Rusli Ramang,25,FALSE,FALSE
+1957-06-02,China,Indonesia,China,Sun Fucheng,47,FALSE,FALSE
+1957-06-02,China,Indonesia,Indonesia,Rusli Ramang,55,FALSE,FALSE
+1957-06-02,China,Indonesia,Indonesia,Endang Witarsa,70,FALSE,FALSE
+1957-06-02,China,Indonesia,China,Wang Lu,75,FALSE,FALSE
 1957-06-02,France,Iceland,France,Célestin Oliver,6,FALSE,FALSE
 1957-06-02,France,Iceland,France,Célestin Oliver,11,FALSE,FALSE
 1957-06-02,France,Iceland,France,Jean Vincent,29,FALSE,FALSE
@@ -7540,10 +7540,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1976-06-03,Kuwait,Malaysia,Kuwait,Faisal Al-Dakhil,42,FALSE,FALSE
 1976-06-04,Iran,Iraq,Iran,Nasser Nouraei,45,FALSE,FALSE
 1976-06-04,Iran,Iraq,Iran,Hassan Rowshan,58,FALSE,FALSE
-1976-06-05,China PR,Malaysia,Malaysia,Mokhtar Dahari,50,FALSE,FALSE
-1976-06-05,China PR,Malaysia,China PR,Wang Jilian,58,FALSE,FALSE
+1976-06-05,China,Malaysia,Malaysia,Mokhtar Dahari,50,FALSE,FALSE
+1976-06-05,China,Malaysia,China,Wang Jilian,58,FALSE,FALSE
 1976-06-06,Iraq,Yemen DPR,Iraq,Kadhim Waal,84,FALSE,FALSE
-1976-06-07,China PR,Kuwait,Kuwait,Fathi Kameel,1,FALSE,FALSE
+1976-06-07,China,Kuwait,Kuwait,Fathi Kameel,1,FALSE,FALSE
 1976-06-08,Iran,Yemen DPR,Iran,Alireza Azizi,17,FALSE,FALSE
 1976-06-08,Iran,Yemen DPR,Iran,Nasser Nouraei,40,FALSE,FALSE
 1976-06-08,Iran,Yemen DPR,Iran,Nasser Nouraei,42,FALSE,FALSE
@@ -7552,14 +7552,14 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1976-06-08,Iran,Yemen DPR,Iran,Alireza Azizi,73,FALSE,FALSE
 1976-06-08,Iran,Yemen DPR,Iran,Gholam Hossein Mazloumi,74,FALSE,FALSE
 1976-06-08,Iran,Yemen DPR,Iran,Gholam Hossein Mazloumi,80,FALSE,FALSE
-1976-06-11,Iran,China PR,Iran,Alireza Khorshidi,100,FALSE,FALSE
-1976-06-11,Iran,China PR,Iran,Hassan Rowshan,119,FALSE,FALSE
+1976-06-11,Iran,China,Iran,Alireza Khorshidi,100,FALSE,FALSE
+1976-06-11,Iran,China,Iran,Hassan Rowshan,119,FALSE,FALSE
 1976-06-11,Iraq,Kuwait,Kuwait,Faruq Ibrahim,11,FALSE,FALSE
 1976-06-11,Iraq,Kuwait,Iraq,Sabah Abdul-Jalil,46,FALSE,FALSE
 1976-06-11,Iraq,Kuwait,Kuwait,Fathi Kameel,77,FALSE,FALSE
 1976-06-11,Iraq,Kuwait,Iraq,Falah Hassan,85,FALSE,FALSE
 1976-06-11,Iraq,Kuwait,Kuwait,Fathi Kameel,100,FALSE,FALSE
-1976-06-13,China PR,Iraq,China PR,He Jia,61,FALSE,FALSE
+1976-06-13,China,Iraq,China,He Jia,61,FALSE,FALSE
 1976-06-13,Finland,England,England,Stuart Pearson,14,FALSE,FALSE
 1976-06-13,Finland,England,Finland,Matti Paatelainen,27,FALSE,FALSE
 1976-06-13,Finland,England,England,Kevin Keegan,30,FALSE,FALSE
@@ -8954,16 +8954,16 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1980-09-18,Kuwait,Malaysia,Malaysia,Zulkifli Hamzah,44,FALSE,FALSE
 1980-09-18,Kuwait,Malaysia,Kuwait,Jasem Yaqoub,53,FALSE,TRUE
 1980-09-18,Kuwait,Malaysia,Kuwait,Jasem Yaqoub,77,FALSE,TRUE
-1980-09-18,North Korea,China PR,China PR,Li Fubao,7,FALSE,FALSE
-1980-09-18,North Korea,China PR,North Korea,Kim Bok-man,20,FALSE,FALSE
-1980-09-18,North Korea,China PR,North Korea,Hwang Sang-hoi,NA,FALSE,FALSE
+1980-09-18,North Korea,China,China,Li Fubao,7,FALSE,FALSE
+1980-09-18,North Korea,China,North Korea,Kim Bok-man,20,FALSE,FALSE
+1980-09-18,North Korea,China,North Korea,Hwang Sang-hoi,NA,FALSE,FALSE
 1980-09-19,Bangladesh,Syria,Syria,Jamal Keshek,7,FALSE,FALSE
 1980-09-19,Qatar,South Korea,South Korea,Lee Jung-il,7,FALSE,FALSE
 1980-09-19,Qatar,South Korea,South Korea,Choi Soon-ho,21,FALSE,FALSE
-1980-09-20,China PR,Iran,Iran,Hamid Alidousti,35,FALSE,FALSE
-1980-09-20,China PR,Iran,Iran,Behtash Fariba,70,FALSE,FALSE
-1980-09-20,China PR,Iran,China PR,Chen Jingang,74,FALSE,FALSE
-1980-09-20,China PR,Iran,China PR,Xu Yonglai,89,FALSE,FALSE
+1980-09-20,China,Iran,Iran,Hamid Alidousti,35,FALSE,FALSE
+1980-09-20,China,Iran,Iran,Behtash Fariba,70,FALSE,FALSE
+1980-09-20,China,Iran,China,Chen Jingang,74,FALSE,FALSE
+1980-09-20,China,Iran,China,Xu Yonglai,89,FALSE,FALSE
 1980-09-20,United Arab Emirates,Malaysia,Malaysia,Abdah Alif,32,FALSE,FALSE
 1980-09-20,United Arab Emirates,Malaysia,Malaysia,Tukamin Bahari,89,FALSE,FALSE
 1980-09-21,Kuwait,South Korea,South Korea,Hwang Seok-keun,47,FALSE,FALSE
@@ -8978,7 +8978,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1980-09-22,Bangladesh,Iran,Iran,Abdolreza Barzegari,87,FALSE,FALSE
 1980-09-23,Malaysia,Qatar,Malaysia,Tukamin Bahari,33,FALSE,FALSE
 1980-09-23,Malaysia,Qatar,Qatar,Mansour Muftah,52,FALSE,FALSE
-1980-09-23,Syria,China PR,Syria,Jamal Keshek,86,FALSE,FALSE
+1980-09-23,Syria,China,Syria,Jamal Keshek,86,FALSE,FALSE
 1980-09-24,Finland,Austria,Austria,Kurt Jara,13,FALSE,FALSE
 1980-09-24,Finland,Austria,Austria,Kurt Welzl,77,FALSE,FALSE
 1980-09-24,Iran,North Korea,Iran,Hamid Alidousti,27,FALSE,FALSE
@@ -8997,12 +8997,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1980-09-24,Turkey,Iceland,Iceland,Albert Guðmundsson,62,FALSE,FALSE
 1980-09-24,Turkey,Iceland,Turkey,Fatih Terim,72,FALSE,TRUE
 1980-09-24,Turkey,Iceland,Iceland,Teitur Þórðarson,80,FALSE,FALSE
-1980-09-25,China PR,Bangladesh,China PR,Shen Xiangfu,NA,FALSE,FALSE
-1980-09-25,China PR,Bangladesh,China PR,Shen Xiangfu,NA,FALSE,FALSE
-1980-09-25,China PR,Bangladesh,China PR,Shen Xiangfu,NA,FALSE,FALSE
-1980-09-25,China PR,Bangladesh,China PR,Xu Yonglai,NA,FALSE,FALSE
-1980-09-25,China PR,Bangladesh,China PR,Xu Yonglai,NA,FALSE,FALSE
-1980-09-25,China PR,Bangladesh,China PR,Xu Yonglai,NA,FALSE,FALSE
+1980-09-25,China,Bangladesh,China,Shen Xiangfu,NA,FALSE,FALSE
+1980-09-25,China,Bangladesh,China,Shen Xiangfu,NA,FALSE,FALSE
+1980-09-25,China,Bangladesh,China,Shen Xiangfu,NA,FALSE,FALSE
+1980-09-25,China,Bangladesh,China,Xu Yonglai,NA,FALSE,FALSE
+1980-09-25,China,Bangladesh,China,Xu Yonglai,NA,FALSE,FALSE
+1980-09-25,China,Bangladesh,China,Xu Yonglai,NA,FALSE,FALSE
 1980-09-25,Kuwait,Qatar,Kuwait,Faisal Al-Dakhil,32,FALSE,FALSE
 1980-09-25,Kuwait,Qatar,Kuwait,Jasem Yaqoub,50,FALSE,TRUE
 1980-09-25,Kuwait,Qatar,Kuwait,Faisal Al-Dakhil,57,FALSE,FALSE
@@ -9123,17 +9123,17 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1980-12-21,DR Congo,Madagascar,Madagascar,Abdou Bin Amidou,39,FALSE,FALSE
 1980-12-21,DR Congo,Madagascar,DR Congo,Imowa Malgbanga,75,FALSE,FALSE
 1980-12-21,Guinea,Liberia,Guinea,Seydouba Bangoura,55,FALSE,FALSE
-1980-12-21,Hong Kong,China PR,China PR,Chen Jingang,89,FALSE,FALSE
+1980-12-21,Hong Kong,China,China,Chen Jingang,89,FALSE,FALSE
 1980-12-22,North Korea,Macau,North Korea,Li Yong-Sob,34,FALSE,FALSE
 1980-12-22,North Korea,Macau,North Korea,Li Chang-Ha,41,FALSE,FALSE
 1980-12-22,North Korea,Macau,North Korea,Kim Yong-Nam,87,FALSE,FALSE
 1980-12-22,Singapore,Japan,Japan,Kazushi Kimura,20,FALSE,FALSE
-1980-12-24,China PR,Macau,China PR,Gu Guangming,17,FALSE,FALSE
-1980-12-24,China PR,Macau,China PR,Zuo Shusheng,20,FALSE,FALSE
-1980-12-24,China PR,Macau,China PR,Rong Zhixing,59,FALSE,FALSE
+1980-12-24,China,Macau,China,Gu Guangming,17,FALSE,FALSE
+1980-12-24,China,Macau,China,Zuo Shusheng,20,FALSE,FALSE
+1980-12-24,China,Macau,China,Rong Zhixing,59,FALSE,FALSE
 1980-12-24,Hong Kong,Singapore,Hong Kong,Choi York Yee,55,FALSE,FALSE
 1980-12-24,Hong Kong,Singapore,Singapore,Thasmbiayah Pathmanathan,87,FALSE,FALSE
-1980-12-26,China PR,Japan,China PR,Rong Zhixing,7,FALSE,FALSE
+1980-12-26,China,Japan,China,Rong Zhixing,7,FALSE,FALSE
 1980-12-26,Singapore,North Korea,North Korea,Li Yong-Sob,7,FALSE,FALSE
 1980-12-28,Hong Kong,North Korea,North Korea,Li Yong-Man,3,FALSE,FALSE
 1980-12-28,Hong Kong,North Korea,North Korea,Li Yong-Sob,25,FALSE,FALSE
@@ -9148,12 +9148,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1980-12-28,Togo,Niger,Togo,Saibi Eklou Dodji,79,FALSE,FALSE
 1980-12-28,Togo,Niger,Niger,Mamane Ali,82,FALSE,FALSE
 1980-12-30,North Korea,Japan,North Korea,Kim Yong-Nam,114,FALSE,FALSE
-1981-01-04,North Korea,China PR,North Korea,Li Chang-Ha,2,FALSE,FALSE
-1981-01-04,North Korea,China PR,China PR,Huang Xiangdong,44,FALSE,FALSE
-1981-01-04,North Korea,China PR,China PR,Chen Xirong,55,FALSE,FALSE
-1981-01-04,North Korea,China PR,North Korea,Kim Yong-Nam,56,FALSE,FALSE
-1981-01-04,North Korea,China PR,China PR,Huang Xiangdong,110,FALSE,FALSE
-1981-01-04,North Korea,China PR,China PR,Gu Guangming,112,FALSE,FALSE
+1981-01-04,North Korea,China,North Korea,Li Chang-Ha,2,FALSE,FALSE
+1981-01-04,North Korea,China,China,Huang Xiangdong,44,FALSE,FALSE
+1981-01-04,North Korea,China,China,Chen Xirong,55,FALSE,FALSE
+1981-01-04,North Korea,China,North Korea,Kim Yong-Nam,56,FALSE,FALSE
+1981-01-04,North Korea,China,China,Huang Xiangdong,110,FALSE,FALSE
+1981-01-04,North Korea,China,China,Gu Guangming,112,FALSE,FALSE
 1981-01-28,Greece,Luxembourg,Greece,Dinos Kouis,8,FALSE,FALSE
 1981-01-28,Greece,Luxembourg,Greece,Georgios Kostikos,33,FALSE,FALSE
 1981-02-08,Venezuela,Brazil,Brazil,Zico,82,FALSE,TRUE
@@ -9458,7 +9458,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1981-09-23,Russia,Turkey,Russia,Anatoliy Demyanenko,20,FALSE,FALSE
 1981-09-23,Russia,Turkey,Russia,Oleg Blokhin,26,FALSE,FALSE
 1981-09-23,Russia,Turkey,Russia,Ramaz Shengelia,49,FALSE,FALSE
-1981-10-03,New Zealand,China PR,New Zealand,Ricki Herbert,43,FALSE,FALSE
+1981-10-03,New Zealand,China,New Zealand,Ricki Herbert,43,FALSE,FALSE
 1981-10-07,Turkey,Russia,Russia,Ramaz Shengelia,17,FALSE,FALSE
 1981-10-07,Turkey,Russia,Russia,Oleg Blokhin,38,FALSE,FALSE
 1981-10-07,Turkey,Russia,Russia,Oleg Blokhin,54,FALSE,FALSE
@@ -9506,9 +9506,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1981-10-14,Wales,Iceland,Iceland,Ásgeir Sigurvinsson,61,FALSE,FALSE
 1981-10-17,Yugoslavia,Italy,Yugoslavia,Zlatko Vujović,9,FALSE,FALSE
 1981-10-17,Yugoslavia,Italy,Italy,Roberto Bettega,33,FALSE,FALSE
-1981-10-18,China PR,Kuwait,China PR,Rong Zhixing,24,FALSE,FALSE
-1981-10-18,China PR,Kuwait,China PR,Gu Guangming,28,FALSE,FALSE
-1981-10-18,China PR,Kuwait,China PR,Shen Xiangfu,59,FALSE,FALSE
+1981-10-18,China,Kuwait,China,Rong Zhixing,24,FALSE,FALSE
+1981-10-18,China,Kuwait,China,Gu Guangming,28,FALSE,FALSE
+1981-10-18,China,Kuwait,China,Shen Xiangfu,59,FALSE,FALSE
 1981-10-28,Israel,Portugal,Israel,Benny Tabak,6,FALSE,FALSE
 1981-10-28,Israel,Portugal,Portugal,Rui Jordão,8,FALSE,FALSE
 1981-10-28,Israel,Portugal,Israel,Gidi Damti,14,FALSE,FALSE
@@ -9550,12 +9550,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1981-11-12,Honduras,Canada,Honduras,Carlos Orlando Caballero,12,FALSE,FALSE
 1981-11-12,Honduras,Canada,Canada,Ian Bridge,19,FALSE,FALSE
 1981-11-12,Honduras,Canada,Honduras,José Roberto Figueroa,40,FALSE,FALSE
-1981-11-12,Saudi Arabia,China PR,Saudi Arabia,Ahmed Al Nifawi,10,FALSE,FALSE
-1981-11-12,Saudi Arabia,China PR,Saudi Arabia,Majed Abdullah,11,FALSE,FALSE
-1981-11-12,Saudi Arabia,China PR,China PR,Zuo Shusheng,62,FALSE,FALSE
-1981-11-12,Saudi Arabia,China PR,China PR,Chen Jingang,63,FALSE,FALSE
-1981-11-12,Saudi Arabia,China PR,China PR,Gu Guangming,76,FALSE,FALSE
-1981-11-12,Saudi Arabia,China PR,China PR,Huang Xiangdong,88,FALSE,FALSE
+1981-11-12,Saudi Arabia,China,Saudi Arabia,Ahmed Al Nifawi,10,FALSE,FALSE
+1981-11-12,Saudi Arabia,China,Saudi Arabia,Majed Abdullah,11,FALSE,FALSE
+1981-11-12,Saudi Arabia,China,China,Zuo Shusheng,62,FALSE,FALSE
+1981-11-12,Saudi Arabia,China,China,Chen Jingang,63,FALSE,FALSE
+1981-11-12,Saudi Arabia,China,China,Gu Guangming,76,FALSE,FALSE
+1981-11-12,Saudi Arabia,China,China,Huang Xiangdong,88,FALSE,FALSE
 1981-11-14,Italy,Greece,Italy,Bruno Conti,61,FALSE,FALSE
 1981-11-14,Italy,Greece,Greece,Dinos Kouis,87,FALSE,FALSE
 1981-11-15,Haiti,Cuba,Cuba,Frantz Mathieu,55,TRUE,FALSE
@@ -9588,8 +9588,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1981-11-18,Russia,Wales,Russia,Vitaly Daraselia,13,FALSE,FALSE
 1981-11-18,Russia,Wales,Russia,Oleg Blokhin,18,FALSE,FALSE
 1981-11-18,Russia,Wales,Russia,Yuri Gavrilov,64,FALSE,FALSE
-1981-11-19,China PR,Saudi Arabia,China PR,Huang Xiangdong,24,FALSE,FALSE
-1981-11-19,China PR,Saudi Arabia,China PR,Cai Jinbiao,27,FALSE,FALSE
+1981-11-19,China,Saudi Arabia,China,Huang Xiangdong,24,FALSE,FALSE
+1981-11-19,China,Saudi Arabia,China,Cai Jinbiao,27,FALSE,FALSE
 1981-11-19,El Salvador,Haiti,El Salvador,Norberto Huezo,18,FALSE,TRUE
 1981-11-21,Cuba,Canada,Cuba,Ramón Núñez,2,FALSE,FALSE
 1981-11-21,Cuba,Canada,Canada,Wes McLeod,48,FALSE,FALSE
@@ -9616,7 +9616,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1981-11-29,Greece,Yugoslavia,Greece,Thomas Mavros,5,FALSE,FALSE
 1981-11-29,Greece,Yugoslavia,Yugoslavia,Ivica Šurjak,22,FALSE,FALSE
 1981-11-29,Greece,Yugoslavia,Yugoslavia,Jurica Jerković,39,FALSE,FALSE
-1981-11-30,Kuwait,China PR,Kuwait,Abdulaziz Al-Anberi,7,FALSE,FALSE
+1981-11-30,Kuwait,China,Kuwait,Abdulaziz Al-Anberi,7,FALSE,FALSE
 1981-12-05,France,Cyprus,France,Dominique Rocheteau,25,FALSE,FALSE
 1981-12-05,France,Cyprus,France,Bernard Lacombe,29,FALSE,FALSE
 1981-12-05,France,Cyprus,France,Bernard Lacombe,82,FALSE,FALSE
@@ -9633,9 +9633,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1981-12-19,Saudi Arabia,New Zealand,New Zealand,Steve Wooddin,38,FALSE,FALSE
 1981-12-19,Saudi Arabia,New Zealand,New Zealand,Wynton Rufer,39,FALSE,FALSE
 1981-12-19,Saudi Arabia,New Zealand,New Zealand,Brian Turner,43,FALSE,TRUE
-1982-01-10,China PR,New Zealand,New Zealand,Steve Wooddin,24,FALSE,FALSE
-1982-01-10,China PR,New Zealand,New Zealand,Wynton Rufer,47,FALSE,FALSE
-1982-01-10,China PR,New Zealand,China PR,Huang Xiangdong,75,FALSE,FALSE
+1982-01-10,China,New Zealand,New Zealand,Steve Wooddin,24,FALSE,FALSE
+1982-01-10,China,New Zealand,New Zealand,Wynton Rufer,47,FALSE,FALSE
+1982-01-10,China,New Zealand,China,Huang Xiangdong,75,FALSE,FALSE
 1982-03-05,Cameroon,Tunisia,Tunisia,Kamel Gabsi,60,FALSE,FALSE
 1982-03-05,Cameroon,Tunisia,Cameroon,Grégoire M'Bida,61,FALSE,FALSE
 1982-03-05,Libya,Ghana,Ghana,George Alhassan,28,FALSE,FALSE
@@ -10456,8 +10456,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1984-12-02,Saudi Arabia,South Korea,Saudi Arabia,Majed Abdullah,90,FALSE,FALSE
 1984-12-02,Singapore,India,Singapore,Malik Awab,36,FALSE,FALSE
 1984-12-02,Singapore,India,Singapore,Razali Saad,81,FALSE,FALSE
-1984-12-03,China PR,Iran,Iran,Nasser Mohammadkhani,57,FALSE,FALSE
-1984-12-03,China PR,Iran,Iran,Zia Arabshahi,69,FALSE,FALSE
+1984-12-03,China,Iran,Iran,Nasser Mohammadkhani,57,FALSE,FALSE
+1984-12-03,China,Iran,Iran,Zia Arabshahi,69,FALSE,FALSE
 1984-12-03,Kuwait,Qatar,Kuwait,Ibrahim Al-Rumaihi,52,TRUE,FALSE
 1984-12-04,Syria,Saudi Arabia,Saudi Arabia,Saleh Khalifa Al-Dosari,66,FALSE,FALSE
 1984-12-04,United Arab Emirates,India,United Arab Emirates,Adnan Al Talyani,81,FALSE,FALSE
@@ -10466,17 +10466,17 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1984-12-05,Bulgaria,Luxembourg,Bulgaria,Boycho Velichkov,31,FALSE,FALSE
 1984-12-05,Bulgaria,Luxembourg,Bulgaria,Stoycho Mladenov,65,FALSE,FALSE
 1984-12-05,Bulgaria,Luxembourg,Bulgaria,Georgi Dimitrov,70,FALSE,FALSE
-1984-12-05,Singapore,China PR,China PR,Jia Xiuquan,21,FALSE,FALSE
-1984-12-05,Singapore,China PR,China PR,Zhao Dayu,39,FALSE,FALSE
+1984-12-05,Singapore,China,China,Jia Xiuquan,21,FALSE,FALSE
+1984-12-05,Singapore,China,China,Zhao Dayu,39,FALSE,FALSE
 1984-12-07,Syria,South Korea,Syria,Radwan Al-Sheikh Hassan,12,FALSE,FALSE
 1984-12-08,France,German DR,France,Yannick Stopyra,32,FALSE,FALSE
 1984-12-08,France,German DR,France,Philippe Anziani,89,FALSE,FALSE
 1984-12-08,Qatar,Saudi Arabia,Qatar,Ali Zaid,47,FALSE,FALSE
 1984-12-08,Qatar,Saudi Arabia,Saudi Arabia,Mohammed Abduljawad,65,FALSE,FALSE
 1984-12-08,Singapore,United Arab Emirates,United Arab Emirates,Fahad Khamis Mubarak,61,FALSE,FALSE
-1984-12-09,India,China PR,China PR,Lin Lefeng,19,FALSE,FALSE
-1984-12-09,India,China PR,China PR,Gu Guangming,59,FALSE,FALSE
-1984-12-09,India,China PR,China PR,Jia Xiuquan,79,FALSE,FALSE
+1984-12-09,India,China,China,Lin Lefeng,19,FALSE,FALSE
+1984-12-09,India,China,China,Gu Guangming,59,FALSE,FALSE
+1984-12-09,India,China,China,Jia Xiuquan,79,FALSE,FALSE
 1984-12-09,Kuwait,Syria,Syria,Walid Abu Al-Sel,5,FALSE,FALSE
 1984-12-09,Kuwait,Syria,Kuwait,Issam Mahrous,66,TRUE,FALSE
 1984-12-09,Kuwait,Syria,Kuwait,Faisal Al-Dakhil,77,FALSE,FALSE
@@ -10484,15 +10484,15 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1984-12-10,Singapore,Iran,Iran,Shahrokh Bayani,55,FALSE,TRUE
 1984-12-10,Singapore,Iran,Singapore,Razali Saad,61,FALSE,FALSE
 1984-12-10,South Korea,Qatar,Qatar,Khalid Salman,69,FALSE,FALSE
-1984-12-11,China PR,United Arab Emirates,China PR,Yang Zhaohui,12,FALSE,FALSE
-1984-12-11,China PR,United Arab Emirates,China PR,Jia Xiuquan,20,FALSE,FALSE
-1984-12-11,China PR,United Arab Emirates,China PR,Zuo Shusheng,36,FALSE,FALSE
-1984-12-11,China PR,United Arab Emirates,China PR,Zhao Dayu,52,FALSE,FALSE
-1984-12-11,China PR,United Arab Emirates,China PR,Gu Guangming,67,FALSE,FALSE
+1984-12-11,China,United Arab Emirates,China,Yang Zhaohui,12,FALSE,FALSE
+1984-12-11,China,United Arab Emirates,China,Jia Xiuquan,20,FALSE,FALSE
+1984-12-11,China,United Arab Emirates,China,Zuo Shusheng,36,FALSE,FALSE
+1984-12-11,China,United Arab Emirates,China,Zhao Dayu,52,FALSE,FALSE
+1984-12-11,China,United Arab Emirates,China,Gu Guangming,67,FALSE,FALSE
 1984-12-11,Saudi Arabia,Kuwait,Saudi Arabia,Mohaisen Al-Jam'an,88,FALSE,FALSE
 1984-12-13,Saudi Arabia,Iran,Iran,Shahrokh Bayani,43,FALSE,FALSE
 1984-12-13,Saudi Arabia,Iran,Saudi Arabia,Shahin Bayani,88,TRUE,FALSE
-1984-12-14,Kuwait,China PR,China PR,Li Huayun,108,FALSE,FALSE
+1984-12-14,Kuwait,China,China,Li Huayun,108,FALSE,FALSE
 1984-12-16,Iran,Kuwait,Kuwait,Muayad Al-Haddad,26,FALSE,FALSE
 1984-12-16,Iran,Kuwait,Iran,Nasser Mohammadkhani,80,FALSE,FALSE
 1984-12-16,Malta,Germany,Malta,Carmel Busuttil,10,FALSE,FALSE
@@ -10500,8 +10500,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1984-12-16,Malta,Germany,Germany,Klaus Allofs,68,FALSE,FALSE
 1984-12-16,Malta,Germany,Germany,Klaus Allofs,83,FALSE,FALSE
 1984-12-16,Malta,Germany,Malta,Raymond Xuereb,84,FALSE,FALSE
-1984-12-16,Saudi Arabia,China PR,Saudi Arabia,Shaye Al-Nafisah,10,FALSE,FALSE
-1984-12-16,Saudi Arabia,China PR,Saudi Arabia,Majed Abdullah,46,FALSE,FALSE
+1984-12-16,Saudi Arabia,China,Saudi Arabia,Shaye Al-Nafisah,10,FALSE,FALSE
+1984-12-16,Saudi Arabia,China,Saudi Arabia,Majed Abdullah,46,FALSE,FALSE
 1984-12-22,Albania,Belgium,Albania,Mirel Josa,69,FALSE,FALSE
 1984-12-22,Albania,Belgium,Albania,Arben Minga,86,FALSE,FALSE
 1984-12-23,Cyprus,Netherlands,Netherlands,Peter Houtman,84,FALSE,FALSE
@@ -10514,10 +10514,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1985-02-10,Malta,Portugal,Portugal,Fernando Gomes,74,FALSE,FALSE
 1985-02-17,Macau,Brunei,Macau,Meng Kam Jong,76,FALSE,FALSE
 1985-02-17,Macau,Brunei,Macau,Alberto Carvalhal,82,FALSE,FALSE
-1985-02-20,Macau,China PR,China PR,Ng Chi Kit,44,TRUE,FALSE
-1985-02-20,Macau,China PR,China PR,Lin Qiang,51,FALSE,FALSE
-1985-02-20,Macau,China PR,China PR,Zuo Shusheng,52,FALSE,FALSE
-1985-02-20,Macau,China PR,China PR,Lin Lefeng,62,FALSE,FALSE
+1985-02-20,Macau,China,China,Ng Chi Kit,44,TRUE,FALSE
+1985-02-20,Macau,China,China,Lin Qiang,51,FALSE,FALSE
+1985-02-20,Macau,China,China,Zuo Shusheng,52,FALSE,FALSE
+1985-02-20,Macau,China,China,Lin Lefeng,62,FALSE,FALSE
 1985-02-23,Hong Kong,Brunei,Hong Kong,Mak King-Fun,2,FALSE,FALSE
 1985-02-23,Hong Kong,Brunei,Hong Kong,Lai Wing-Cheung,4,FALSE,FALSE
 1985-02-23,Hong Kong,Brunei,Hong Kong,Lee Wai-Shan,30,FALSE,FALSE
@@ -10538,14 +10538,14 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1985-02-24,Portugal,Germany,Portugal,Diamantino Miranda,57,FALSE,FALSE
 1985-02-24,Tunisia,Guinea,Tunisia,Hakim Braham,24,FALSE,FALSE
 1985-02-24,Tunisia,Guinea,Tunisia,Lotfi Hsoumi,80,FALSE,FALSE
-1985-02-26,China PR,Brunei,China PR,Zhao Dayu,26,FALSE,FALSE
-1985-02-26,China PR,Brunei,China PR,Zuo Shusheng,38,FALSE,FALSE
-1985-02-26,China PR,Brunei,China PR,Li Hui,40,FALSE,FALSE
-1985-02-26,China PR,Brunei,China PR,Liu Haiguang,44,FALSE,FALSE
-1985-02-26,China PR,Brunei,China PR,Liu Haiguang,47,FALSE,FALSE
-1985-02-26,China PR,Brunei,China PR,Zuo Shusheng,65,FALSE,FALSE
-1985-02-26,China PR,Brunei,China PR,Zhao Dayu,85,FALSE,FALSE
-1985-02-26,China PR,Brunei,China PR,Zhao Dayu,90,FALSE,FALSE
+1985-02-26,China,Brunei,China,Zhao Dayu,26,FALSE,FALSE
+1985-02-26,China,Brunei,China,Zuo Shusheng,38,FALSE,FALSE
+1985-02-26,China,Brunei,China,Li Hui,40,FALSE,FALSE
+1985-02-26,China,Brunei,China,Liu Haiguang,44,FALSE,FALSE
+1985-02-26,China,Brunei,China,Liu Haiguang,47,FALSE,FALSE
+1985-02-26,China,Brunei,China,Zuo Shusheng,65,FALSE,FALSE
+1985-02-26,China,Brunei,China,Zhao Dayu,85,FALSE,FALSE
+1985-02-26,China,Brunei,China,Zhao Dayu,90,FALSE,FALSE
 1985-02-27,El Salvador,Suriname,El Salvador,José María Rivas,49,FALSE,FALSE
 1985-02-27,El Salvador,Suriname,El Salvador,Luis Ramírez Zapata,70,FALSE,FALSE
 1985-02-27,El Salvador,Suriname,El Salvador,José María Rivas,87,FALSE,FALSE
@@ -10561,10 +10561,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1985-02-27,Netherlands,Cyprus,Netherlands,Dick Schoenaker,79,FALSE,FALSE
 1985-02-27,Northern Ireland,England,England,Mark Hateley,77,FALSE,FALSE
 1985-02-27,Spain,Scotland,Spain,Paco Clos,48,FALSE,FALSE
-1985-03-01,Brunei,China PR,China PR,Zhao Dayu,8,FALSE,FALSE
-1985-03-01,Brunei,China PR,China PR,Liu Haiguang,15,FALSE,FALSE
-1985-03-01,Brunei,China PR,China PR,Zhao Dayu,74,FALSE,FALSE
-1985-03-01,Brunei,China PR,China PR,Liu Haiguang,80,FALSE,FALSE
+1985-03-01,Brunei,China,China,Zhao Dayu,8,FALSE,FALSE
+1985-03-01,Brunei,China,China,Liu Haiguang,15,FALSE,FALSE
+1985-03-01,Brunei,China,China,Zhao Dayu,74,FALSE,FALSE
+1985-03-01,Brunei,China,China,Liu Haiguang,80,FALSE,FALSE
 1985-03-02,Nepal,South Korea,South Korea,Rupak Ray Sharma,35,TRUE,FALSE
 1985-03-02,Nepal,South Korea,South Korea,Lee Tae-ho,64,FALSE,FALSE
 1985-03-03,Ecuador,Chile,Chile,Juan Carlos Letelier,31,FALSE,FALSE
@@ -10778,12 +10778,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1985-05-07,Austria,Cyprus,Austria,Gerald Willfurth,71,FALSE,FALSE
 1985-05-08,Haiti,Canada,Canada,Dale Mitchell,14,FALSE,FALSE
 1985-05-08,Haiti,Canada,Canada,Igor Vrablic,56,FALSE,FALSE
-1985-05-12,China PR,Macau,China PR,Jia Xiuquan,10,FALSE,FALSE
-1985-05-12,China PR,Macau,China PR,Li Hui,12,FALSE,FALSE
-1985-05-12,China PR,Macau,China PR,Yang Zhaohui,27,FALSE,FALSE
-1985-05-12,China PR,Macau,China PR,Yang Zhaohui,50,FALSE,FALSE
-1985-05-12,China PR,Macau,China PR,Wang Huiliang,60,FALSE,FALSE
-1985-05-12,China PR,Macau,China PR,Zhao Dayu,67,FALSE,FALSE
+1985-05-12,China,Macau,China,Jia Xiuquan,10,FALSE,FALSE
+1985-05-12,China,Macau,China,Li Hui,12,FALSE,FALSE
+1985-05-12,China,Macau,China,Yang Zhaohui,27,FALSE,FALSE
+1985-05-12,China,Macau,China,Yang Zhaohui,50,FALSE,FALSE
+1985-05-12,China,Macau,China,Wang Huiliang,60,FALSE,FALSE
+1985-05-12,China,Macau,China,Zhao Dayu,67,FALSE,FALSE
 1985-05-14,Hungary,Netherlands,Netherlands,Rob de Wit,69,FALSE,FALSE
 1985-05-15,Guatemala,Haiti,Guatemala,Raúl Chacón,44,FALSE,FALSE
 1985-05-15,Guatemala,Haiti,Guatemala,Selvin Galindo,48,FALSE,FALSE
@@ -10801,9 +10801,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1985-05-18,Japan,Singapore,Japan,Akihiro Nishimura,59,FALSE,FALSE
 1985-05-18,Japan,Singapore,Japan,Hiromi Hara,79,FALSE,FALSE
 1985-05-18,Japan,Singapore,Japan,Kazushi Kimura,86,FALSE,FALSE
-1985-05-19,China PR,Hong Kong,Hong Kong,Cheung Chi Tak,26,FALSE,FALSE
-1985-05-19,China PR,Hong Kong,China PR,Li Hui,32,FALSE,FALSE
-1985-05-19,China PR,Hong Kong,Hong Kong,Ku Kam Fai,60,FALSE,FALSE
+1985-05-19,China,Hong Kong,Hong Kong,Cheung Chi Tak,26,FALSE,FALSE
+1985-05-19,China,Hong Kong,China,Li Hui,32,FALSE,FALSE
+1985-05-19,China,Hong Kong,Hong Kong,Ku Kam Fai,60,FALSE,FALSE
 1985-05-19,Greece,Poland,Poland,Włodzimierz Smolarek,25,FALSE,FALSE
 1985-05-19,Greece,Poland,Greece,Nikos Anastopoulos,47,FALSE,FALSE
 1985-05-19,Greece,Poland,Poland,Marek Ostrowski,58,FALSE,FALSE
@@ -11758,13 +11758,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1988-12-03,Australia,Fiji,Australia,Paul Trimboli,87,FALSE,FALSE
 1988-12-03,Australia,Fiji,Fiji,Loten Dalai,89,FALSE,FALSE
 1988-12-03,United Arab Emirates,South Korea,South Korea,Lee Tae-ho,8,FALSE,TRUE
-1988-12-04,China PR,Syria,China PR,Gao Sheng,13,FALSE,FALSE
-1988-12-04,China PR,Syria,China PR,Xie Yuxin,14,FALSE,FALSE
-1988-12-04,China PR,Syria,China PR,Xie Yuxin,19,FALSE,FALSE
+1988-12-04,China,Syria,China,Gao Sheng,13,FALSE,FALSE
+1988-12-04,China,Syria,China,Xie Yuxin,14,FALSE,FALSE
+1988-12-04,China,Syria,China,Xie Yuxin,19,FALSE,FALSE
 1988-12-05,Qatar,United Arab Emirates,Qatar,Mansour Muftah,17,FALSE,FALSE
 1988-12-05,Qatar,United Arab Emirates,Qatar,Muhsin Musabah,26,TRUE,FALSE
 1988-12-05,Qatar,United Arab Emirates,United Arab Emirates,Hassan Mohamed,35,FALSE,FALSE
-1988-12-06,Bahrain,China PR,China PR,Zhang Xiaowen,78,FALSE,FALSE
+1988-12-06,Bahrain,China,China,Zhang Xiaowen,78,FALSE,FALSE
 1988-12-06,South Korea,Japan,South Korea,Hwang Sun-hong,13,FALSE,FALSE
 1988-12-06,South Korea,Japan,South Korea,Kim Joo-sung,35,FALSE,FALSE
 1988-12-08,Iran,United Arab Emirates,Iran,Farshad Pious,27,FALSE,FALSE
@@ -11776,10 +11776,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1988-12-09,Qatar,South Korea,Qatar,Khalid Salman,80,FALSE,TRUE
 1988-12-09,Saudi Arabia,Bahrain,Bahrain,Fayad Mahmoud,44,FALSE,TRUE
 1988-12-09,Saudi Arabia,Bahrain,Saudi Arabia,Yousuf Jazea'a,78,FALSE,FALSE
-1988-12-10,Kuwait,China PR,China PR,Ma Lin,10,FALSE,FALSE
-1988-12-10,Kuwait,China PR,Kuwait,Adel Abbas Hussain,60,FALSE,TRUE
-1988-12-10,Kuwait,China PR,Kuwait,Mansour Basha Mohamed,62,FALSE,FALSE
-1988-12-10,Kuwait,China PR,China PR,Ma Lin,87,FALSE,FALSE
+1988-12-10,Kuwait,China,China,Ma Lin,10,FALSE,FALSE
+1988-12-10,Kuwait,China,Kuwait,Adel Abbas Hussain,60,FALSE,TRUE
+1988-12-10,Kuwait,China,Kuwait,Mansour Basha Mohamed,62,FALSE,FALSE
+1988-12-10,Kuwait,China,China,Ma Lin,87,FALSE,FALSE
 1988-12-10,United Arab Emirates,Japan,United Arab Emirates,Abdulaziz Mohamed,86,FALSE,FALSE
 1988-12-11,Bahrain,Syria,Syria,Walid Abu Al-Sel,72,FALSE,TRUE
 1988-12-11,Malta,Hungary,Hungary,István Vincze,5,FALSE,FALSE
@@ -11797,13 +11797,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1988-12-11,Yugoslavia,Cyprus,Yugoslavia,Dejan Savićević,33,FALSE,FALSE
 1988-12-11,Yugoslavia,Cyprus,Yugoslavia,Faruk Hadžibegić,44,FALSE,TRUE
 1988-12-11,Yugoslavia,Cyprus,Yugoslavia,Dejan Savićević,82,FALSE,FALSE
-1988-12-12,China PR,Saudi Arabia,Saudi Arabia,Fahad Al-Bishi,56,FALSE,FALSE
+1988-12-12,China,Saudi Arabia,Saudi Arabia,Fahad Al-Bishi,56,FALSE,FALSE
 1988-12-12,Qatar,Japan,Qatar,Adel Khamis,58,FALSE,FALSE
 1988-12-12,Qatar,Japan,Qatar,Adel Khamis,82,FALSE,FALSE
 1988-12-12,Qatar,Japan,Qatar,Mansour Muftah,90,FALSE,FALSE
-1988-12-14,South Korea,China PR,South Korea,Lee Tae-ho,93,FALSE,FALSE
-1988-12-14,South Korea,China PR,China PR,Mai Chao,100,FALSE,FALSE
-1988-12-14,South Korea,China PR,South Korea,Lee Tae-ho,103,FALSE,FALSE
+1988-12-14,South Korea,China,South Korea,Lee Tae-ho,93,FALSE,FALSE
+1988-12-14,South Korea,China,China,Mai Chao,100,FALSE,FALSE
+1988-12-14,South Korea,China,South Korea,Lee Tae-ho,103,FALSE,FALSE
 1988-12-15,New Zealand,Taiwan,New Zealand,Billy Wright,12,FALSE,FALSE
 1988-12-15,New Zealand,Taiwan,New Zealand,Darren McClennan,17,FALSE,FALSE
 1988-12-15,New Zealand,Taiwan,New Zealand,Darren McClennan,42,FALSE,FALSE
@@ -11906,19 +11906,19 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1989-02-15,Portugal,Belgium,Portugal,Vítor Paneira,53,FALSE,FALSE
 1989-02-15,Portugal,Belgium,Belgium,Marc Van Der Linden,84,FALSE,FALSE
 1989-02-19,Thailand,Bangladesh,Thailand,Piyapong Pue-on,10,FALSE,FALSE
-1989-02-23,China PR,Bangladesh,China PR,Wang Baoshan,51,FALSE,FALSE
-1989-02-23,China PR,Bangladesh,China PR,Mai Chao,57,FALSE,FALSE
+1989-02-23,China,Bangladesh,China,Wang Baoshan,51,FALSE,FALSE
+1989-02-23,China,Bangladesh,China,Mai Chao,57,FALSE,FALSE
 1989-02-23,Thailand,Iran,Iran,Karim Bavi,12,FALSE,FALSE
 1989-02-23,Thailand,Iran,Iran,Sirous Ghayeghran,28,FALSE,FALSE
 1989-02-23,Thailand,Iran,Iran,Mohsen Garousi,87,FALSE,FALSE
 1989-02-27,Bangladesh,Iran,Iran,Karim Bavi,44,FALSE,FALSE
 1989-02-27,Bangladesh,Iran,Iran,Mohammad Hassan Ansarifard,50,FALSE,FALSE
 1989-02-27,Bangladesh,Iran,Bangladesh,Sheikh Mohammad Aslam,70,FALSE,FALSE
-1989-02-28,Thailand,China PR,China PR,Tang Yaodong,55,FALSE,FALSE
-1989-02-28,Thailand,China PR,China PR,Ma Lin,62,FALSE,FALSE
-1989-02-28,Thailand,China PR,China PR,Ma Lin,79,FALSE,FALSE
-1989-03-04,Bangladesh,China PR,China PR,Wang Baoshan,23,FALSE,FALSE
-1989-03-04,Bangladesh,China PR,China PR,Ma Lin,62,FALSE,FALSE
+1989-02-28,Thailand,China,China,Tang Yaodong,55,FALSE,FALSE
+1989-02-28,Thailand,China,China,Ma Lin,62,FALSE,FALSE
+1989-02-28,Thailand,China,China,Ma Lin,79,FALSE,FALSE
+1989-03-04,Bangladesh,China,China,Wang Baoshan,23,FALSE,FALSE
+1989-03-04,Bangladesh,China,China,Ma Lin,62,FALSE,FALSE
 1989-03-05,Israel,New Zealand,Israel,Ronny Rosenthal,7,FALSE,FALSE
 1989-03-08,Albania,England,England,John Barnes,16,FALSE,FALSE
 1989-03-08,Albania,England,England,Bryan Robson,63,FALSE,FALSE
@@ -12204,17 +12204,17 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1989-07-14,Brazil,Paraguay,Brazil,Bebeto,16,FALSE,FALSE
 1989-07-14,Brazil,Paraguay,Brazil,Bebeto,52,FALSE,FALSE
 1989-07-14,Brazil,Paraguay,Brazil,Romário,58,FALSE,FALSE
-1989-07-15,China PR,Iran,China PR,Liu Haiguang,73,FALSE,FALSE
-1989-07-15,China PR,Iran,China PR,Zhang Xiaowen,87,FALSE,FALSE
+1989-07-15,China,Iran,China,Liu Haiguang,73,FALSE,FALSE
+1989-07-15,China,Iran,China,Zhang Xiaowen,87,FALSE,FALSE
 1989-07-16,Brazil,Uruguay,Brazil,Romário,49,FALSE,FALSE
 1989-07-16,Costa Rica,El Salvador,Costa Rica,Pastor Fernández,55,FALSE,FALSE
-1989-07-22,Iran,China PR,Iran,Mohsen Garousi,15,FALSE,FALSE
-1989-07-22,Iran,China PR,Iran,Sayed Ali Eftekhari,16,FALSE,FALSE
-1989-07-22,Iran,China PR,Iran,Farshad Pious,53,FALSE,FALSE
-1989-07-22,Iran,China PR,China PR,Mai Chao,64,FALSE,TRUE
-1989-07-22,Iran,China PR,China PR,Ma Lin,66,FALSE,FALSE
-1989-07-29,China PR,Thailand,China PR,Jia Xiuquan,2,FALSE,FALSE
-1989-07-29,China PR,Thailand,China PR,Ma Lin,4,FALSE,FALSE
+1989-07-22,Iran,China,Iran,Mohsen Garousi,15,FALSE,FALSE
+1989-07-22,Iran,China,Iran,Sayed Ali Eftekhari,16,FALSE,FALSE
+1989-07-22,Iran,China,Iran,Farshad Pious,53,FALSE,FALSE
+1989-07-22,Iran,China,China,Mai Chao,64,FALSE,TRUE
+1989-07-22,Iran,China,China,Ma Lin,66,FALSE,FALSE
+1989-07-29,China,Thailand,China,Jia Xiuquan,2,FALSE,FALSE
+1989-07-29,China,Thailand,China,Ma Lin,4,FALSE,FALSE
 1989-07-30,Trinidad and Tobago,El Salvador,Trinidad and Tobago,Leonson Lewis,50,FALSE,FALSE
 1989-07-30,Trinidad and Tobago,El Salvador,Trinidad and Tobago,Leonson Lewis,61,FALSE,FALSE
 1989-07-30,Venezuela,Brazil,Brazil,Branco,5,FALSE,FALSE
@@ -12366,20 +12366,20 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1989-10-11,Wales,Netherlands,Netherlands,John Bosman,79,FALSE,FALSE
 1989-10-11,Wales,Netherlands,Wales,Mark Bowen,89,FALSE,FALSE
 1989-10-11,Yugoslavia,Norway,Yugoslavia,Faruk Hadžibegić,44,FALSE,TRUE
-1989-10-12,China PR,Saudi Arabia,Saudi Arabia,Fahad Al-Bishi,24,FALSE,TRUE
-1989-10-12,China PR,Saudi Arabia,China PR,Mai Chao,63,FALSE,TRUE
-1989-10-12,China PR,Saudi Arabia,China PR,Mai Chao,70,FALSE,FALSE
+1989-10-12,China,Saudi Arabia,Saudi Arabia,Fahad Al-Bishi,24,FALSE,TRUE
+1989-10-12,China,Saudi Arabia,China,Mai Chao,63,FALSE,TRUE
+1989-10-12,China,Saudi Arabia,China,Mai Chao,70,FALSE,FALSE
 1989-10-15,Colombia,Israel,Colombia,Albeiro Usuriaga,73,FALSE,FALSE
 1989-10-16,Qatar,Saudi Arabia,Saudi Arabia,Mohammed Al-Suwaiti,4,FALSE,FALSE
 1989-10-16,Qatar,Saudi Arabia,Qatar,Mansour Muftah,87,FALSE,FALSE
 1989-10-16,South Korea,North Korea,South Korea,Hwang Sun-hong,18,FALSE,FALSE
-1989-10-17,China PR,United Arab Emirates,China PR,Tang Yaodong,61,FALSE,FALSE
-1989-10-17,China PR,United Arab Emirates,United Arab Emirates,Khaleel Mubarak,87,FALSE,FALSE
-1989-10-17,China PR,United Arab Emirates,United Arab Emirates,Adnan Al Talyani,88,FALSE,FALSE
-1989-10-20,China PR,South Korea,South Korea,Kim Joo-sung,67,FALSE,FALSE
+1989-10-17,China,United Arab Emirates,China,Tang Yaodong,61,FALSE,FALSE
+1989-10-17,China,United Arab Emirates,United Arab Emirates,Khaleel Mubarak,87,FALSE,FALSE
+1989-10-17,China,United Arab Emirates,United Arab Emirates,Adnan Al Talyani,88,FALSE,FALSE
+1989-10-20,China,South Korea,South Korea,Kim Joo-sung,67,FALSE,FALSE
 1989-10-20,North Korea,Qatar,North Korea,Kim Pung-Il,23,FALSE,FALSE
 1989-10-20,North Korea,Qatar,North Korea,Chu Gyong-Sik,32,FALSE,FALSE
-1989-10-24,North Korea,China PR,China PR,Xie Yuxin,67,FALSE,FALSE
+1989-10-24,North Korea,China,China,Xie Yuxin,67,FALSE,FALSE
 1989-10-24,United Arab Emirates,Qatar,United Arab Emirates,Khaleel Mubarak,20,FALSE,FALSE
 1989-10-24,United Arab Emirates,Qatar,Qatar,Mansour Sulaiti,37,FALSE,FALSE
 1989-10-25,Belgium,Luxembourg,Belgium,Bruno Versavel,7,FALSE,FALSE
@@ -12397,9 +12397,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1989-10-28,Cyprus,Yugoslavia,Yugoslavia,Vujadin Stanojković,5,FALSE,FALSE
 1989-10-28,Cyprus,Yugoslavia,Cyprus,Pambos Pittas,38,FALSE,TRUE
 1989-10-28,Cyprus,Yugoslavia,Yugoslavia,Darko Pančev,49,FALSE,FALSE
-1989-10-28,Qatar,China PR,China PR,Ma Lin,76,FALSE,FALSE
-1989-10-28,Qatar,China PR,Qatar,Mahmoud Yaseen Al-Soufi,87,FALSE,FALSE
-1989-10-28,Qatar,China PR,Qatar,Mansour Muftah,87,FALSE,FALSE
+1989-10-28,Qatar,China,China,Ma Lin,76,FALSE,FALSE
+1989-10-28,Qatar,China,Qatar,Mahmoud Yaseen Al-Soufi,87,FALSE,FALSE
+1989-10-28,Qatar,China,Qatar,Mansour Muftah,87,FALSE,FALSE
 1989-10-28,Saudi Arabia,North Korea,Saudi Arabia,Fahad Al-Musaibeah,13,FALSE,FALSE
 1989-10-28,Saudi Arabia,North Korea,Saudi Arabia,Saado Al-Suwaiti,57,FALSE,FALSE
 1989-10-28,United Arab Emirates,South Korea,South Korea,Hwangbo Kwan,8,FALSE,FALSE
@@ -13451,8 +13451,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1992-10-28,Turkey,San Marino,Turkey,Hami Mandıralı,90,FALSE,FALSE
 1992-10-29,Qatar,Thailand,Thailand,Thanis Areesngarkul,42,FALSE,FALSE
 1992-10-29,Qatar,Thailand,Qatar,Mahmoud Soufi,81,FALSE,FALSE
-1992-10-29,Saudi Arabia,China PR,Saudi Arabia,Yousuf Al-Thunayan,17,FALSE,FALSE
-1992-10-29,Saudi Arabia,China PR,China PR,Li Bing,41,FALSE,FALSE
+1992-10-29,Saudi Arabia,China,Saudi Arabia,Yousuf Al-Thunayan,17,FALSE,FALSE
+1992-10-29,Saudi Arabia,China,China,Li Bing,41,FALSE,FALSE
 1992-10-30,North Korea,Iran,Iran,Farshad Pious,30,FALSE,FALSE
 1992-10-30,North Korea,Iran,Iran,Sirous Ghayeghran,80,FALSE,FALSE
 1992-10-31,Saudi Arabia,Qatar,Qatar,Mubarak Mustafa,74,FALSE,FALSE
@@ -13465,9 +13465,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1992-11-01,El Salvador,Bermuda,Bermuda,Shaun Goater,80,FALSE,FALSE
 1992-11-01,Japan,North Korea,North Korea,Kim Kwang-min,29,FALSE,TRUE
 1992-11-01,Japan,North Korea,Japan,Masashi Nakayama,80,FALSE,FALSE
-1992-11-02,China PR,Qatar,Qatar,Khalifa Al-Sulaiti,20,FALSE,FALSE
-1992-11-02,China PR,Qatar,China PR,Peng Weiguo,44,FALSE,FALSE
-1992-11-02,China PR,Qatar,China PR,Peng Weiguo,58,FALSE,FALSE
+1992-11-02,China,Qatar,Qatar,Khalifa Al-Sulaiti,20,FALSE,FALSE
+1992-11-02,China,Qatar,China,Peng Weiguo,44,FALSE,FALSE
+1992-11-02,China,Qatar,China,Peng Weiguo,58,FALSE,FALSE
 1992-11-02,Saudi Arabia,Thailand,Saudi Arabia,Saeed Al-Owairan,4,FALSE,FALSE
 1992-11-02,Saudi Arabia,Thailand,Saudi Arabia,Fahad Al-Bishi,19,FALSE,FALSE
 1992-11-02,Saudi Arabia,Thailand,Saudi Arabia,Yousuf Al-Thunayan,64,FALSE,FALSE
@@ -13476,11 +13476,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1992-11-03,United Arab Emirates,North Korea,North Korea,Kim Kwang-min,69,FALSE,FALSE
 1992-11-03,United Arab Emirates,North Korea,United Arab Emirates,Khamees Saad Mubarak,81,FALSE,FALSE
 1992-11-03,United Arab Emirates,North Korea,United Arab Emirates,Zuhair Bakheet,85,FALSE,FALSE
-1992-11-06,Japan,China PR,China PR,Xie Yuxin,1,FALSE,FALSE
-1992-11-06,Japan,China PR,Japan,Masahiro Fukuda,48,FALSE,FALSE
-1992-11-06,Japan,China PR,Japan,Tsuyoshi Kitazawa,57,FALSE,FALSE
-1992-11-06,Japan,China PR,China PR,Li Xiao,70,FALSE,FALSE
-1992-11-06,Japan,China PR,Japan,Masashi Nakayama,84,FALSE,FALSE
+1992-11-06,Japan,China,China,Xie Yuxin,1,FALSE,FALSE
+1992-11-06,Japan,China,Japan,Masahiro Fukuda,48,FALSE,FALSE
+1992-11-06,Japan,China,Japan,Tsuyoshi Kitazawa,57,FALSE,FALSE
+1992-11-06,Japan,China,China,Li Xiao,70,FALSE,FALSE
+1992-11-06,Japan,China,Japan,Masashi Nakayama,84,FALSE,FALSE
 1992-11-06,Saudi Arabia,United Arab Emirates,Saudi Arabia,Saeed Al-Owairan,77,FALSE,FALSE
 1992-11-06,Saudi Arabia,United Arab Emirates,Saudi Arabia,Fahad Al-Bishi,80,FALSE,FALSE
 1992-11-08,Canada,El Salvador,Canada,Colin Miller,13,FALSE,FALSE
@@ -13488,8 +13488,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1992-11-08,Canada,El Salvador,El Salvador,Óscar Ulloa,52,FALSE,FALSE
 1992-11-08,Canada,El Salvador,Canada,Dale Mitchell,71,FALSE,FALSE
 1992-11-08,Canada,El Salvador,El Salvador,Óscar Ulloa,89,FALSE,FALSE
-1992-11-08,China PR,United Arab Emirates,United Arab Emirates,Khalid Ismaïl,10,FALSE,FALSE
-1992-11-08,China PR,United Arab Emirates,China PR,Hao Haidong,15,FALSE,FALSE
+1992-11-08,China,United Arab Emirates,United Arab Emirates,Khalid Ismaïl,10,FALSE,FALSE
+1992-11-08,China,United Arab Emirates,China,Hao Haidong,15,FALSE,FALSE
 1992-11-08,Costa Rica,Honduras,Costa Rica,Austin Berry,2,FALSE,FALSE
 1992-11-08,Costa Rica,Honduras,Costa Rica,Luis Diego Arnáez,35,FALSE,FALSE
 1992-11-08,Costa Rica,Honduras,Honduras,Eugenio Dolmo Flores,47,FALSE,FALSE
@@ -14094,11 +14094,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1993-05-22,Belgium,Faroe Islands,Belgium,Marc Wilmots,76,FALSE,FALSE
 1993-05-22,Jordan,Yemen,Jordan,Subhi Al-Gnimaz,65,FALSE,FALSE
 1993-05-22,Jordan,Yemen,Yemen,Wagdan Mahmoud Shadli,72,FALSE,FALSE
-1993-05-22,Pakistan,China PR,China PR,Gao Hongbo,38,FALSE,FALSE
-1993-05-22,Pakistan,China PR,China PR,Cai Sheng,55,FALSE,FALSE
-1993-05-22,Pakistan,China PR,China PR,Cai Sheng,59,FALSE,FALSE
-1993-05-22,Pakistan,China PR,China PR,Hao Haidong,71,FALSE,FALSE
-1993-05-22,Pakistan,China PR,China PR,Cai Sheng,82,FALSE,FALSE
+1993-05-22,Pakistan,China,China,Gao Hongbo,38,FALSE,FALSE
+1993-05-22,Pakistan,China,China,Cai Sheng,55,FALSE,FALSE
+1993-05-22,Pakistan,China,China,Cai Sheng,59,FALSE,FALSE
+1993-05-22,Pakistan,China,China,Hao Haidong,71,FALSE,FALSE
+1993-05-22,Pakistan,China,China,Cai Sheng,82,FALSE,FALSE
 1993-05-23,Russia,Greece,Greece,Tasos Mitropoulos,45,FALSE,FALSE
 1993-05-23,Russia,Greece,Russia,Igor Dobrovolski,70,FALSE,TRUE
 1993-05-24,Jordan,Iraq,Jordan,Jeris Tadrus,16,FALSE,FALSE
@@ -14113,9 +14113,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1993-05-26,Albania,Republic of Ireland,Albania,Sokol Kushta,8,FALSE,FALSE
 1993-05-26,Albania,Republic of Ireland,Republic of Ireland,Steve Staunton,12,FALSE,FALSE
 1993-05-26,Albania,Republic of Ireland,Republic of Ireland,Tony Cascarino,77,FALSE,FALSE
-1993-05-26,Jordan,China PR,China PR,Gao Hongbo,61,FALSE,FALSE
-1993-05-26,Jordan,China PR,China PR,Wu Qunli,66,FALSE,FALSE
-1993-05-26,Jordan,China PR,China PR,Cai Sheng,89,FALSE,FALSE
+1993-05-26,Jordan,China,China,Gao Hongbo,61,FALSE,FALSE
+1993-05-26,Jordan,China,China,Wu Qunli,66,FALSE,FALSE
+1993-05-26,Jordan,China,China,Cai Sheng,89,FALSE,FALSE
 1993-05-26,Yemen,Iraq,Iraq,Laith Hussein,1,FALSE,FALSE
 1993-05-26,Yemen,Iraq,Yemen,Asam Duraiban,16,FALSE,FALSE
 1993-05-26,Yemen,Iraq,Iraq,Alaa Kadhim,22,FALSE,FALSE
@@ -14131,10 +14131,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1993-05-28,Pakistan,Iraq,Iraq,Alaa Kadhim,75,FALSE,FALSE
 1993-05-28,Pakistan,Iraq,Iraq,Munthir Khalaf,77,FALSE,FALSE
 1993-05-28,Pakistan,Iraq,Iraq,Naeem Saddam,88,FALSE,FALSE
-1993-05-28,Yemen,China PR,Yemen,Saleh Rabiah Ben,62,FALSE,FALSE
+1993-05-28,Yemen,China,Yemen,Saleh Rabiah Ben,62,FALSE,FALSE
 1993-05-29,Poland,England,Poland,Dariusz Adamczuk,36,FALSE,FALSE
 1993-05-29,Poland,England,England,Ian Wright,84,FALSE,FALSE
-1993-05-30,Iraq,China PR,Iraq,Ahmed Radhi,55,FALSE,FALSE
+1993-05-30,Iraq,China,Iraq,Ahmed Radhi,55,FALSE,FALSE
 1993-05-30,Jordan,Pakistan,Jordan,Mohammad Muharam,8,FALSE,FALSE
 1993-05-30,Jordan,Pakistan,Pakistan,Abdul Farooq,80,FALSE,FALSE
 1993-05-30,Jordan,Pakistan,Jordan,Mohammad Muharam,89,FALSE,FALSE
@@ -14203,9 +14203,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1993-06-11,India,Lebanon,India,Bhupinder Thakur,34,FALSE,FALSE
 1993-06-11,India,Lebanon,Lebanon,Hassan Ayoub,41,FALSE,FALSE
 1993-06-11,India,Lebanon,Lebanon,Rafi Joulfagi,79,FALSE,FALSE
-1993-06-12,China PR,Pakistan,China PR,Gao Hongbo,60,FALSE,FALSE
-1993-06-12,China PR,Pakistan,China PR,Hao Haidong,62,FALSE,FALSE
-1993-06-12,China PR,Pakistan,China PR,Gao Hongbo,89,FALSE,FALSE
+1993-06-12,China,Pakistan,China,Gao Hongbo,60,FALSE,FALSE
+1993-06-12,China,Pakistan,China,Hao Haidong,62,FALSE,FALSE
+1993-06-12,China,Pakistan,China,Gao Hongbo,89,FALSE,FALSE
 1993-06-12,Yemen,Jordan,Yemen,Sharaf Mahfood,52,FALSE,FALSE
 1993-06-12,Yemen,Jordan,Jordan,Aref Al-Shewaier,73,FALSE,FALSE
 1993-06-13,Hong Kong,India,India,I. M. Vijayan,6,FALSE,FALSE
@@ -14229,11 +14229,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1993-06-15,Ecuador,Venezuela,Venezuela,José Luis Dolgetta,79,FALSE,FALSE
 1993-06-15,Ecuador,Venezuela,Ecuador,Ángel Fernández,81,FALSE,FALSE
 1993-06-15,Ecuador,Venezuela,Ecuador,Álex Aguinaga,84,FALSE,FALSE
-1993-06-16,China PR,Jordan,China PR,Li Bing,16,FALSE,FALSE
-1993-06-16,China PR,Jordan,China PR,Gao Hongbo,50,FALSE,FALSE
-1993-06-16,China PR,Jordan,Jordan,Jamal Abu Abed,56,FALSE,FALSE
-1993-06-16,China PR,Jordan,China PR,Li Bing,76,FALSE,FALSE
-1993-06-16,China PR,Jordan,China PR,Gao Hongbo,80,FALSE,FALSE
+1993-06-16,China,Jordan,China,Li Bing,16,FALSE,FALSE
+1993-06-16,China,Jordan,China,Gao Hongbo,50,FALSE,FALSE
+1993-06-16,China,Jordan,Jordan,Jamal Abu Abed,56,FALSE,FALSE
+1993-06-16,China,Jordan,China,Li Bing,76,FALSE,FALSE
+1993-06-16,China,Jordan,China,Gao Hongbo,80,FALSE,FALSE
 1993-06-16,Colombia,Mexico,Colombia,Adolfo Valencia,35,FALSE,FALSE
 1993-06-16,Colombia,Mexico,Mexico,Luís Roberto Alves,57,FALSE,FALSE
 1993-06-16,Colombia,Mexico,Colombia,Víctor Aristizábal,87,FALSE,FALSE
@@ -14248,7 +14248,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1993-06-16,Lithuania,Republic of Ireland,Republic of Ireland,Steve Staunton,38,FALSE,FALSE
 1993-06-16,Uruguay,United States,Uruguay,Santiago Ostolaza,51,FALSE,FALSE
 1993-06-17,Argentina,Bolivia,Argentina,Gabriel Batistuta,53,FALSE,FALSE
-1993-06-18,China PR,Yemen,China PR,Xu Hong,73,FALSE,FALSE
+1993-06-18,China,Yemen,China,Xu Hong,73,FALSE,FALSE
 1993-06-18,Iraq,Pakistan,Iraq,Saad Qais,NA,FALSE,FALSE
 1993-06-18,Iraq,Pakistan,Iraq,Saad Qais,NA,FALSE,FALSE
 1993-06-18,Iraq,Pakistan,Iraq,Radhi Shenaishil,NA,FALSE,FALSE
@@ -14266,9 +14266,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1993-06-19,Uruguay,Venezuela,Uruguay,Fernando Kanapkis,79,FALSE,FALSE
 1993-06-20,Argentina,Mexico,Mexico,David Patiño,14,FALSE,FALSE
 1993-06-20,Argentina,Mexico,Argentina,Oscar Ruggeri,28,FALSE,FALSE
-1993-06-20,China PR,Iraq,Iraq,Akram Emmanuel,47,FALSE,FALSE
-1993-06-20,China PR,Iraq,China PR,Xu Hong,63,FALSE,FALSE
-1993-06-20,China PR,Iraq,China PR,Zhao Faqing,89,FALSE,FALSE
+1993-06-20,China,Iraq,Iraq,Akram Emmanuel,47,FALSE,FALSE
+1993-06-20,China,Iraq,China,Xu Hong,63,FALSE,FALSE
+1993-06-20,China,Iraq,China,Zhao Faqing,89,FALSE,FALSE
 1993-06-20,Colombia,Bolivia,Bolivia,Marco Etcheverry,14,FALSE,FALSE
 1993-06-20,Colombia,Bolivia,Colombia,Orlando Maturana,18,FALSE,TRUE
 1993-06-20,Pakistan,Jordan,Jordan,Subhi Al-Gnimaz,14,FALSE,FALSE
@@ -16592,8 +16592,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1996-12-05,Saudi Arabia,Thailand,Saudi Arabia,Khalid Al-Temawi,29,FALSE,TRUE
 1996-12-05,Saudi Arabia,Thailand,Saudi Arabia,Sami Al-Jaber,52,FALSE,FALSE
 1996-12-05,Saudi Arabia,Thailand,Saudi Arabia,Fahad Al-Mehallel,54,FALSE,FALSE
-1996-12-06,China PR,Uzbekistan,Uzbekistan,Igor Shkvyrin,78,FALSE,FALSE
-1996-12-06,China PR,Uzbekistan,Uzbekistan,Oleg Shatskikh,90,FALSE,FALSE
+1996-12-06,China,Uzbekistan,Uzbekistan,Igor Shkvyrin,78,FALSE,FALSE
+1996-12-06,China,Uzbekistan,Uzbekistan,Oleg Shatskikh,90,FALSE,FALSE
 1996-12-06,Japan,Syria,Syria,Nader Joukhadar,8,FALSE,FALSE
 1996-12-06,Japan,Syria,Japan,Hassan Abbas,85,TRUE,FALSE
 1996-12-06,Japan,Syria,Japan,Takuya Takagi,88,FALSE,FALSE
@@ -16620,9 +16620,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1996-12-09,Japan,Uzbekistan,Japan,Kazuyoshi Miura,37,FALSE,FALSE
 1996-12-09,Japan,Uzbekistan,Japan,Masakiyo Maezono,86,FALSE,FALSE
 1996-12-09,Japan,Uzbekistan,Japan,Masakiyo Maezono,90,FALSE,FALSE
-1996-12-09,Syria,China PR,China PR,Ma Mingyu,35,FALSE,FALSE
-1996-12-09,Syria,China PR,China PR,Gao Feng,49,FALSE,FALSE
-1996-12-09,Syria,China PR,China PR,Li Bing,73,FALSE,FALSE
+1996-12-09,Syria,China,China,Ma Mingyu,35,FALSE,FALSE
+1996-12-09,Syria,China,China,Gao Feng,49,FALSE,FALSE
+1996-12-09,Syria,China,China,Li Bing,73,FALSE,FALSE
 1996-12-10,Kuwait,South Korea,Kuwait,Jasem Al-Huwaidi,60,FALSE,FALSE
 1996-12-10,Kuwait,South Korea,Kuwait,Bashar Abdullah,87,FALSE,FALSE
 1996-12-10,United Arab Emirates,Indonesia,United Arab Emirates,Hassan Saeed Ahmed,15,FALSE,FALSE
@@ -16635,7 +16635,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1996-12-11,Saudi Arabia,Iran,Iran,Ali Daei,12,FALSE,FALSE
 1996-12-11,Saudi Arabia,Iran,Iran,Karim Bagheri,37,FALSE,FALSE
 1996-12-11,Saudi Arabia,Iran,Iran,Khodadad Azizi,47,FALSE,FALSE
-1996-12-12,Japan,China PR,Japan,Naoki Soma,90,FALSE,FALSE
+1996-12-12,Japan,China,Japan,Naoki Soma,90,FALSE,FALSE
 1996-12-12,Uzbekistan,Syria,Syria,Nader Joukhadar,48,FALSE,FALSE
 1996-12-12,Uzbekistan,Syria,Uzbekistan,Sergey Lebedev,53,FALSE,TRUE
 1996-12-12,Uzbekistan,Syria,Syria,Ali Cheikh Dib,74,FALSE,FALSE
@@ -16672,13 +16672,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1996-12-15,Uruguay,Peru,Uruguay,Pablo Bengoechea,38,FALSE,FALSE
 1996-12-15,Venezuela,Colombia,Colombia,Jorge Bermúdez,7,FALSE,FALSE
 1996-12-15,Venezuela,Colombia,Colombia,Iván Valenciano,50,FALSE,FALSE
-1996-12-16,Saudi Arabia,China PR,China PR,Zhang Enhua,6,FALSE,FALSE
-1996-12-16,Saudi Arabia,China PR,China PR,Peng Weiguo,16,FALSE,FALSE
-1996-12-16,Saudi Arabia,China PR,Saudi Arabia,Yousuf Al-Thunayan,31,FALSE,FALSE
-1996-12-16,Saudi Arabia,China PR,Saudi Arabia,Sami Al-Jaber,34,FALSE,FALSE
-1996-12-16,Saudi Arabia,China PR,Saudi Arabia,Fahad Al-Mehallel,43,FALSE,FALSE
-1996-12-16,Saudi Arabia,China PR,Saudi Arabia,Yousuf Al-Thunayan,65,FALSE,FALSE
-1996-12-16,Saudi Arabia,China PR,China PR,Zhang Enhua,89,FALSE,FALSE
+1996-12-16,Saudi Arabia,China,China,Zhang Enhua,6,FALSE,FALSE
+1996-12-16,Saudi Arabia,China,China,Peng Weiguo,16,FALSE,FALSE
+1996-12-16,Saudi Arabia,China,Saudi Arabia,Yousuf Al-Thunayan,31,FALSE,FALSE
+1996-12-16,Saudi Arabia,China,Saudi Arabia,Sami Al-Jaber,34,FALSE,FALSE
+1996-12-16,Saudi Arabia,China,Saudi Arabia,Fahad Al-Mehallel,43,FALSE,FALSE
+1996-12-16,Saudi Arabia,China,Saudi Arabia,Yousuf Al-Thunayan,65,FALSE,FALSE
+1996-12-16,Saudi Arabia,China,China,Zhang Enhua,89,FALSE,FALSE
 1996-12-16,South Korea,Iran,South Korea,Kim Do-hoon,11,FALSE,FALSE
 1996-12-16,South Korea,Iran,Iran,Karim Bagheri,31,FALSE,FALSE
 1996-12-16,South Korea,Iran,South Korea,Shin Tae-Yong,35,FALSE,FALSE
@@ -17065,11 +17065,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1997-05-04,Tajikistan,Vietnam,Tajikistan,Tokhirjon Muminov,15,FALSE,FALSE
 1997-05-04,Tajikistan,Vietnam,Tajikistan,Shukhrat Dzhaborov,50,FALSE,FALSE
 1997-05-04,Tajikistan,Vietnam,Tajikistan,Shukhrat Dzhaborov,84,FALSE,FALSE
-1997-05-04,Turkmenistan,China PR,China PR,Peng Weiguo,26,FALSE,FALSE
-1997-05-04,Turkmenistan,China PR,China PR,Peng Weiguo,39,FALSE,FALSE
-1997-05-04,Turkmenistan,China PR,China PR,Gao Feng,78,FALSE,FALSE
-1997-05-04,Turkmenistan,China PR,China PR,Li Bing,80,FALSE,FALSE
-1997-05-04,Turkmenistan,China PR,Turkmenistan,Djumadurdy Meredov,90,FALSE,FALSE
+1997-05-04,Turkmenistan,China,China,Peng Weiguo,26,FALSE,FALSE
+1997-05-04,Turkmenistan,China,China,Peng Weiguo,39,FALSE,FALSE
+1997-05-04,Turkmenistan,China,China,Gao Feng,78,FALSE,FALSE
+1997-05-04,Turkmenistan,China,China,Li Bing,80,FALSE,FALSE
+1997-05-04,Turkmenistan,China,Turkmenistan,Djumadurdy Meredov,90,FALSE,FALSE
 1997-05-07,Ukraine,Armenia,Ukraine,Andriy Shevchenko,6,FALSE,FALSE
 1997-05-07,Ukraine,Armenia,Armenia,Artur Petrosyan,77,FALSE,FALSE
 1997-05-08,Kuwait,Lebanon,Kuwait,Jasem Al-Huwaidi,38,FALSE,FALSE
@@ -17082,7 +17082,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1997-05-11,Kazakhstan,Pakistan,Kazakhstan,Boulat Esmagambetov,2,FALSE,FALSE
 1997-05-11,Kazakhstan,Pakistan,Kazakhstan,Valeri Yablochkin,49,FALSE,FALSE
 1997-05-11,Kazakhstan,Pakistan,Kazakhstan,Boulat Esmagambetov,62,FALSE,FALSE
-1997-05-11,Tajikistan,China PR,China PR,Hao Haidong,65,FALSE,FALSE
+1997-05-11,Tajikistan,China,China,Hao Haidong,65,FALSE,FALSE
 1997-05-11,Turkmenistan,Vietnam,Turkmenistan,Redjep Agabaev,39,FALSE,FALSE
 1997-05-11,Turkmenistan,Vietnam,Turkmenistan,Valeri Gulyan,53,FALSE,FALSE
 1997-05-11,Turkmenistan,Vietnam,Vietnam,Nguyen Cong Vinh,71,FALSE,FALSE
@@ -17123,10 +17123,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1997-05-25,Uzbekistan,Cambodia,Uzbekistan,Andrei Fyodorov,45,FALSE,FALSE
 1997-05-25,Uzbekistan,Cambodia,Uzbekistan,Jafar Irismetov,55,FALSE,FALSE
 1997-05-25,Uzbekistan,Cambodia,Uzbekistan,Sergey Lebedev,73,FALSE,FALSE
-1997-05-25,Vietnam,China PR,China PR,Li Bing,23,FALSE,FALSE
-1997-05-25,Vietnam,China PR,China PR,Fan Zhiyi,32,FALSE,FALSE
-1997-05-25,Vietnam,China PR,Vietnam,Le Huynh Duc,38,FALSE,FALSE
-1997-05-25,Vietnam,China PR,China PR,Hao Haidong,44,FALSE,FALSE
+1997-05-25,Vietnam,China,China,Li Bing,23,FALSE,FALSE
+1997-05-25,Vietnam,China,China,Fan Zhiyi,32,FALSE,FALSE
+1997-05-25,Vietnam,China,Vietnam,Le Huynh Duc,38,FALSE,FALSE
+1997-05-25,Vietnam,China,China,Hao Haidong,44,FALSE,FALSE
 1997-05-28,South Korea,Hong Kong,South Korea,Yoo Sang-chul,25,FALSE,FALSE
 1997-05-28,South Korea,Hong Kong,South Korea,Choi Yong-soo,39,FALSE,FALSE
 1997-05-28,South Korea,Hong Kong,South Korea,Choi Yong-soo,72,FALSE,FALSE
@@ -17135,7 +17135,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1997-05-31,Poland,England,England,Alan Shearer,5,FALSE,FALSE
 1997-05-31,Poland,England,England,Teddy Sheringham,90,FALSE,FALSE
 1997-06-01,Canada,Costa Rica,Canada,Eddy Berdusco,68,FALSE,FALSE
-1997-06-01,China PR,Turkmenistan,China PR,Li Jinyu,81,FALSE,FALSE
+1997-06-01,China,Turkmenistan,China,Li Jinyu,81,FALSE,FALSE
 1997-06-01,Indonesia,Uzbekistan,Indonesia,Sudirman,34,FALSE,FALSE
 1997-06-01,Indonesia,Uzbekistan,Uzbekistan,Oleg Shatskikh,74,FALSE,FALSE
 1997-06-01,Vietnam,Tajikistan,Tajikistan,Tokhirjon Muminov,5,FALSE,FALSE
@@ -17426,10 +17426,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1997-06-21,Tahiti,Solomon Islands,Solomon Islands,Jeffrey Kwaomae,43,FALSE,FALSE
 1997-06-22,Brazil,Paraguay,Brazil,Ronaldo,9,FALSE,FALSE
 1997-06-22,Brazil,Paraguay,Brazil,Ronaldo,34,FALSE,FALSE
-1997-06-22,China PR,Vietnam,China PR,Fan Zhiyi,7,FALSE,FALSE
-1997-06-22,China PR,Vietnam,China PR,Hao Haidong,45,FALSE,FALSE
-1997-06-22,China PR,Vietnam,China PR,Ma Mingyu,65,FALSE,FALSE
-1997-06-22,China PR,Vietnam,China PR,Su Maozhen,70,FALSE,FALSE
+1997-06-22,China,Vietnam,China,Fan Zhiyi,7,FALSE,FALSE
+1997-06-22,China,Vietnam,China,Hao Haidong,45,FALSE,FALSE
+1997-06-22,China,Vietnam,China,Ma Mingyu,65,FALSE,FALSE
+1997-06-22,China,Vietnam,China,Su Maozhen,70,FALSE,FALSE
 1997-06-22,Ecuador,Mexico,Ecuador,Luis Capurro,6,FALSE,TRUE
 1997-06-22,Ecuador,Mexico,Mexico,Cuauhtémoc Blanco,17,FALSE,FALSE
 1997-06-22,Japan,Macau,Japan,Hidetoshi Nakata,17,FALSE,FALSE
@@ -17742,12 +17742,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1997-09-12,United Arab Emirates,Kazakhstan,United Arab Emirates,Mohamed Obaid,48,FALSE,FALSE
 1997-09-12,United Arab Emirates,Kazakhstan,United Arab Emirates,Zuhair Bakheet,75,FALSE,FALSE
 1997-09-12,United Arab Emirates,Kazakhstan,United Arab Emirates,Khamees Saad Mubarak,85,FALSE,FALSE
-1997-09-13,China PR,Iran,China PR,Fan Zhiyi,44,FALSE,TRUE
-1997-09-13,China PR,Iran,China PR,Li Ming,54,FALSE,FALSE
-1997-09-13,China PR,Iran,Iran,Karim Bagheri,61,FALSE,TRUE
-1997-09-13,China PR,Iran,Iran,Mehdi Mahdavikia,67,FALSE,FALSE
-1997-09-13,China PR,Iran,Iran,Mehdi Mahdavikia,73,FALSE,FALSE
-1997-09-13,China PR,Iran,Iran,Ali Asghar Modir Roosta,86,FALSE,FALSE
+1997-09-13,China,Iran,China,Fan Zhiyi,44,FALSE,TRUE
+1997-09-13,China,Iran,China,Li Ming,54,FALSE,FALSE
+1997-09-13,China,Iran,Iran,Karim Bagheri,61,FALSE,TRUE
+1997-09-13,China,Iran,Iran,Mehdi Mahdavikia,67,FALSE,FALSE
+1997-09-13,China,Iran,Iran,Mehdi Mahdavikia,73,FALSE,FALSE
+1997-09-13,China,Iran,Iran,Ali Asghar Modir Roosta,86,FALSE,FALSE
 1997-09-14,El Salvador,Canada,El Salvador,Nildeson,16,FALSE,FALSE
 1997-09-14,El Salvador,Canada,Canada,Alex Bunbury,25,FALSE,FALSE
 1997-09-14,El Salvador,Canada,El Salvador,William Renderos Iraheta,52,FALSE,FALSE
@@ -17770,8 +17770,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1997-09-24,Slovakia,Spain,Spain,Guillermo Amor,76,FALSE,FALSE
 1997-09-26,Kuwait,Iran,Kuwait,Jasem Al-Huwaidi,20,FALSE,FALSE
 1997-09-26,Kuwait,Iran,Iran,Karim Bagheri,90,FALSE,FALSE
-1997-09-26,Qatar,China PR,Qatar,Nasir Khamees,10,FALSE,FALSE
-1997-09-26,Qatar,China PR,China PR,Hao Haidong,67,FALSE,FALSE
+1997-09-26,Qatar,China,Qatar,Nasir Khamees,10,FALSE,FALSE
+1997-09-26,Qatar,China,China,Hao Haidong,67,FALSE,FALSE
 1997-09-27,Uzbekistan,United Arab Emirates,Uzbekistan,Nikolay Shirshov,10,FALSE,FALSE
 1997-09-27,Uzbekistan,United Arab Emirates,United Arab Emirates,Zuhair Bakheet,51,FALSE,FALSE
 1997-09-27,Uzbekistan,United Arab Emirates,United Arab Emirates,Bakhit Alabadla,60,FALSE,FALSE
@@ -17780,7 +17780,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1997-09-28,Japan,South Korea,Japan,Motohiro Yamaguchi,67,FALSE,FALSE
 1997-09-28,Japan,South Korea,South Korea,Seo Jung-won,83,FALSE,FALSE
 1997-09-28,Japan,South Korea,South Korea,Lee Min-sung,86,FALSE,FALSE
-1997-10-03,China PR,Saudi Arabia,China PR,Zhang Enhua,69,FALSE,FALSE
+1997-10-03,China,Saudi Arabia,China,Zhang Enhua,69,FALSE,FALSE
 1997-10-03,Iran,Qatar,Iran,Ali Daei,31,FALSE,FALSE
 1997-10-03,Iran,Qatar,Iran,Karim Bagheri,42,FALSE,FALSE
 1997-10-03,Iran,Qatar,Iran,Karim Bagheri,56,FALSE,FALSE
@@ -17799,9 +17799,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1997-10-07,Moldova,Poland,Poland,Andrzej Juskowiak,23,FALSE,FALSE
 1997-10-07,Moldova,Poland,Poland,Andrzej Juskowiak,56,FALSE,FALSE
 1997-10-07,Moldova,Poland,Poland,Andrzej Juskowiak,60,FALSE,FALSE
-1997-10-10,Kuwait,China PR,China PR,Hao Haidong,3,FALSE,FALSE
-1997-10-10,Kuwait,China PR,Kuwait,Jasem Al-Huwaidi,24,FALSE,FALSE
-1997-10-10,Kuwait,China PR,China PR,Gao Feng,89,FALSE,FALSE
+1997-10-10,Kuwait,China,China,Hao Haidong,3,FALSE,FALSE
+1997-10-10,Kuwait,China,Kuwait,Jasem Al-Huwaidi,24,FALSE,FALSE
+1997-10-10,Kuwait,China,China,Gao Feng,89,FALSE,FALSE
 1997-10-11,Armenia,Ukraine,Ukraine,Andriy Shevchenko,33,FALSE,FALSE
 1997-10-11,Armenia,Ukraine,Ukraine,Yuriy Maksymov,54,FALSE,FALSE
 1997-10-11,Austria,Belarus,Austria,Toni Polster,3,FALSE,FALSE
@@ -17882,11 +17882,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1997-10-12,Peru,Chile,Chile,Pedro Reyes,58,FALSE,FALSE
 1997-10-12,Peru,Chile,Chile,Marcelo Salas,82,FALSE,FALSE
 1997-10-12,Peru,Chile,Chile,Marcelo Salas,88,FALSE,FALSE
-1997-10-17,Iran,China PR,Iran,Alireza Mansourian,2,FALSE,FALSE
-1997-10-17,Iran,China PR,Iran,Ali Asghar Modir Roosta,44,FALSE,FALSE
-1997-10-17,Iran,China PR,Iran,Karim Bagheri,69,FALSE,FALSE
-1997-10-17,Iran,China PR,Iran,Ali Daei,73,FALSE,FALSE
-1997-10-17,Iran,China PR,China PR,Mao Yijun,87,FALSE,FALSE
+1997-10-17,Iran,China,Iran,Alireza Mansourian,2,FALSE,FALSE
+1997-10-17,Iran,China,Iran,Ali Asghar Modir Roosta,44,FALSE,FALSE
+1997-10-17,Iran,China,Iran,Karim Bagheri,69,FALSE,FALSE
+1997-10-17,Iran,China,Iran,Ali Daei,73,FALSE,FALSE
+1997-10-17,Iran,China,China,Mao Yijun,87,FALSE,FALSE
 1997-10-17,Kuwait,Saudi Arabia,Saudi Arabia,Khaled Massad,31,FALSE,FALSE
 1997-10-17,Kuwait,Saudi Arabia,Kuwait,Bashar Abdulaziz,48,FALSE,FALSE
 1997-10-17,Kuwait,Saudi Arabia,Kuwait,Jamal Mubarak,67,FALSE,FALSE
@@ -17921,15 +17921,15 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1997-10-29,Republic of Ireland,Belgium,Belgium,Luc Nilis,29,FALSE,FALSE
 1997-10-29,Russia,Italy,Italy,Christian Vieri,49,FALSE,FALSE
 1997-10-29,Russia,Italy,Russia,Fabio Cannavaro,52,TRUE,FALSE
-1997-10-31,China PR,Qatar,China PR,Gao Feng,19,FALSE,FALSE
-1997-10-31,China PR,Qatar,Qatar,Dahi Al Naemi,44,FALSE,FALSE
-1997-10-31,China PR,Qatar,Qatar,Mohammed Salem Al-Enazi,54,FALSE,FALSE
-1997-10-31,China PR,Qatar,Qatar,Zamel Essa Al-Kuwari,60,FALSE,FALSE
-1997-10-31,China PR,Qatar,China PR,Fan Zhiyi,80,FALSE,FALSE
+1997-10-31,China,Qatar,China,Gao Feng,19,FALSE,FALSE
+1997-10-31,China,Qatar,Qatar,Dahi Al Naemi,44,FALSE,FALSE
+1997-10-31,China,Qatar,Qatar,Mohammed Salem Al-Enazi,54,FALSE,FALSE
+1997-10-31,China,Qatar,Qatar,Zamel Essa Al-Kuwari,60,FALSE,FALSE
+1997-10-31,China,Qatar,China,Fan Zhiyi,80,FALSE,FALSE
 1997-11-01,South Korea,Japan,Japan,Hiroshi Nanami,2,FALSE,FALSE
 1997-11-01,South Korea,Japan,Japan,Wagner Lopes,37,FALSE,FALSE
-1997-11-06,Saudi Arabia,China PR,Saudi Arabia,Khaled Massad,4,FALSE,FALSE
-1997-11-06,Saudi Arabia,China PR,China PR,Hao Haidong,10,FALSE,FALSE
+1997-11-06,Saudi Arabia,China,Saudi Arabia,Khaled Massad,4,FALSE,FALSE
+1997-11-06,Saudi Arabia,China,China,Hao Haidong,10,FALSE,FALSE
 1997-11-07,Qatar,Iran,Qatar,Mohammed Salem Al-Enazi,38,FALSE,FALSE
 1997-11-07,Qatar,Iran,Qatar,Mohammed Salem Al-Enazi,81,FALSE,FALSE
 1997-11-08,Japan,Kazakhstan,Japan,Yutaka Akita,11,FALSE,FALSE
@@ -17955,7 +17955,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1997-11-09,United Arab Emirates,South Korea,South Korea,Kim Do-hoon,42,FALSE,FALSE
 1997-11-09,United Arab Emirates,South Korea,United Arab Emirates,Zuhair Bakheet,58,FALSE,FALSE
 1997-11-09,United Arab Emirates,South Korea,South Korea,Kim Do-hoon,67,FALSE,FALSE
-1997-11-12,China PR,Kuwait,China PR,Ma Mingyu,32,FALSE,FALSE
+1997-11-12,China,Kuwait,China,Ma Mingyu,32,FALSE,FALSE
 1997-11-12,Qatar,Saudi Arabia,Saudi Arabia,Ibrahim Suwayed,61,FALSE,FALSE
 1997-11-15,Belgium,Republic of Ireland,Belgium,Luís Oliveira,25,FALSE,FALSE
 1997-11-15,Belgium,Republic of Ireland,Republic of Ireland,Ray Houghton,58,FALSE,FALSE
@@ -20201,10 +20201,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2000-10-12,Lebanon,Iran,Iran,Hamid Estili,75,FALSE,FALSE
 2000-10-12,Lebanon,Iran,Iran,Hamid Estili,87,FALSE,FALSE
 2000-10-12,Lebanon,Iran,Iran,Ali Daei,90,FALSE,FALSE
-2000-10-13,South Korea,China PR,South Korea,Lee Young-pyo,30,FALSE,FALSE
-2000-10-13,South Korea,China PR,China PR,Su Maozhen,36,FALSE,FALSE
-2000-10-13,South Korea,China PR,South Korea,Noh Jung-yoon,58,FALSE,FALSE
-2000-10-13,South Korea,China PR,China PR,Fan Zhiyi,66,FALSE,TRUE
+2000-10-13,South Korea,China,South Korea,Lee Young-pyo,30,FALSE,FALSE
+2000-10-13,South Korea,China,China,Su Maozhen,36,FALSE,FALSE
+2000-10-13,South Korea,China,South Korea,Noh Jung-yoon,58,FALSE,FALSE
+2000-10-13,South Korea,China,China,Fan Zhiyi,66,FALSE,TRUE
 2000-10-14,Qatar,Uzbekistan,Qatar,Mohammed Gholam,61,FALSE,FALSE
 2000-10-14,Qatar,Uzbekistan,Uzbekistan,Mirjalol Qosimov,73,FALSE,FALSE
 2000-10-14,Saudi Arabia,Japan,Japan,Atsushi Yanagisawa,26,FALSE,FALSE
@@ -20218,10 +20218,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2000-10-15,Lebanon,Iraq,Iraq,Sabah Jeayer,22,FALSE,FALSE
 2000-10-15,Lebanon,Iraq,Lebanon,Abbas Chahrour,28,FALSE,FALSE
 2000-10-15,Lebanon,Iraq,Lebanon,Moussa Hojeij,76,FALSE,FALSE
-2000-10-16,China PR,Indonesia,China PR,Li Ming,2,FALSE,FALSE
-2000-10-16,China PR,Indonesia,China PR,Shen Si,7,FALSE,TRUE
-2000-10-16,China PR,Indonesia,China PR,Yang Chen,10,FALSE,FALSE
-2000-10-16,China PR,Indonesia,China PR,Qi Hong,90,FALSE,FALSE
+2000-10-16,China,Indonesia,China,Li Ming,2,FALSE,FALSE
+2000-10-16,China,Indonesia,China,Shen Si,7,FALSE,TRUE
+2000-10-16,China,Indonesia,China,Yang Chen,10,FALSE,FALSE
+2000-10-16,China,Indonesia,China,Qi Hong,90,FALSE,FALSE
 2000-10-16,South Korea,Kuwait,Kuwait,Jasem Al-Huwaidi,43,FALSE,FALSE
 2000-10-17,Japan,Uzbekistan,Japan,Hiroaki Morishima,7,FALSE,FALSE
 2000-10-17,Japan,Uzbekistan,Japan,Akinori Nishizawa,14,FALSE,FALSE
@@ -20245,10 +20245,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2000-10-20,Saudi Arabia,Uzbekistan,Saudi Arabia,Mohammad Al-Shalhoub,78,FALSE,FALSE
 2000-10-20,Saudi Arabia,Uzbekistan,Saudi Arabia,Mohammad Al-Shalhoub,86,FALSE,FALSE
 2000-10-20,Saudi Arabia,Uzbekistan,Saudi Arabia,Nawaf Al-Temyat,88,FALSE,FALSE
-2000-10-23,China PR,Qatar,China PR,Li Ming,9,FALSE,FALSE
-2000-10-23,China PR,Qatar,China PR,Qi Hong,38,FALSE,FALSE
-2000-10-23,China PR,Qatar,China PR,Yang Chen,54,FALSE,FALSE
-2000-10-23,China PR,Qatar,Qatar,Mohammed Salem Al-Enazi,65,FALSE,FALSE
+2000-10-23,China,Qatar,China,Li Ming,9,FALSE,FALSE
+2000-10-23,China,Qatar,China,Qi Hong,38,FALSE,FALSE
+2000-10-23,China,Qatar,China,Yang Chen,54,FALSE,FALSE
+2000-10-23,China,Qatar,Qatar,Mohammed Salem Al-Enazi,65,FALSE,FALSE
 2000-10-23,Iran,South Korea,Iran,Karim Bagheri,71,FALSE,FALSE
 2000-10-23,Iran,South Korea,South Korea,Kim Sang-sik,90,FALSE,FALSE
 2000-10-23,Iran,South Korea,South Korea,Lee Dong-gook,99,FALSE,FALSE
@@ -20262,15 +20262,15 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2000-10-24,Kuwait,Saudi Arabia,Kuwait,Jasem Al-Huwaidi,68,FALSE,FALSE
 2000-10-24,Kuwait,Saudi Arabia,Saudi Arabia,Talal Al-Meshal,72,FALSE,FALSE
 2000-10-24,Kuwait,Saudi Arabia,Saudi Arabia,Nawaf Al-Temyat,109,FALSE,FALSE
-2000-10-26,China PR,Japan,Japan,Fan Zhiyi,21,TRUE,FALSE
-2000-10-26,China PR,Japan,China PR,Qi Hong,30,FALSE,FALSE
-2000-10-26,China PR,Japan,China PR,Yang Chen,48,FALSE,FALSE
-2000-10-26,China PR,Japan,Japan,Akinori Nishizawa,53,FALSE,FALSE
-2000-10-26,China PR,Japan,Japan,Tomokazu Myojin,61,FALSE,FALSE
+2000-10-26,China,Japan,Japan,Fan Zhiyi,21,TRUE,FALSE
+2000-10-26,China,Japan,China,Qi Hong,30,FALSE,FALSE
+2000-10-26,China,Japan,China,Yang Chen,48,FALSE,FALSE
+2000-10-26,China,Japan,Japan,Akinori Nishizawa,53,FALSE,FALSE
+2000-10-26,China,Japan,Japan,Tomokazu Myojin,61,FALSE,FALSE
 2000-10-26,South Korea,Saudi Arabia,Saudi Arabia,Talal Al-Meshal,76,FALSE,FALSE
 2000-10-26,South Korea,Saudi Arabia,Saudi Arabia,Talal Al-Meshal,80,FALSE,FALSE
 2000-10-26,South Korea,Saudi Arabia,South Korea,Lee Dong-gook,90,FALSE,FALSE
-2000-10-29,China PR,South Korea,South Korea,Lee Dong-gook,76,FALSE,FALSE
+2000-10-29,China,South Korea,South Korea,Lee Dong-gook,76,FALSE,FALSE
 2000-10-29,Japan,Saudi Arabia,Japan,Shigeyoshi Mochizuki,30,FALSE,FALSE
 2000-11-14,Saint Vincent and the Grenadines,Honduras,Honduras,Francisco Ramírez,26,FALSE,FALSE
 2000-11-14,Saint Vincent and the Grenadines,Honduras,Honduras,Francisco Ramírez,31,FALSE,FALSE
@@ -20898,17 +20898,17 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2001-04-21,Zambia,Angola,Angola,Sebastião Gilberto,18,FALSE,FALSE
 2001-04-21,Zambia,Angola,Zambia,Charles Lota,46,FALSE,FALSE
 2001-04-22,Cameroon,Libya,Cameroon,Lauren,78,FALSE,FALSE
-2001-04-22,China PR,Maldives,China PR,Xu Yunlong,12,FALSE,FALSE
-2001-04-22,China PR,Maldives,China PR,Wu Chengying,18,FALSE,FALSE
-2001-04-22,China PR,Maldives,China PR,Xie Hui,42,FALSE,FALSE
-2001-04-22,China PR,Maldives,China PR,Xu Yunlong,45,FALSE,FALSE
-2001-04-22,China PR,Maldives,China PR,Xie Hui,50,FALSE,FALSE
-2001-04-22,China PR,Maldives,China PR,Fan Zhiyi,52,FALSE,FALSE
-2001-04-22,China PR,Maldives,China PR,Yang Chen,61,FALSE,FALSE
-2001-04-22,China PR,Maldives,Maldives,Mohamed Jameel,61,FALSE,FALSE
-2001-04-22,China PR,Maldives,China PR,Xie Hui,63,FALSE,FALSE
-2001-04-22,China PR,Maldives,China PR,Fan Zhiyi,74,FALSE,TRUE
-2001-04-22,China PR,Maldives,China PR,Li Weifeng,89,FALSE,FALSE
+2001-04-22,China,Maldives,China,Xu Yunlong,12,FALSE,FALSE
+2001-04-22,China,Maldives,China,Wu Chengying,18,FALSE,FALSE
+2001-04-22,China,Maldives,China,Xie Hui,42,FALSE,FALSE
+2001-04-22,China,Maldives,China,Xu Yunlong,45,FALSE,FALSE
+2001-04-22,China,Maldives,China,Xie Hui,50,FALSE,FALSE
+2001-04-22,China,Maldives,China,Fan Zhiyi,52,FALSE,FALSE
+2001-04-22,China,Maldives,China,Yang Chen,61,FALSE,FALSE
+2001-04-22,China,Maldives,Maldives,Mohamed Jameel,61,FALSE,FALSE
+2001-04-22,China,Maldives,China,Xie Hui,63,FALSE,FALSE
+2001-04-22,China,Maldives,China,Fan Zhiyi,74,FALSE,TRUE
+2001-04-22,China,Maldives,China,Li Weifeng,89,FALSE,FALSE
 2001-04-22,DR Congo,Madagascar,DR Congo,Mawa Inunu,42,FALSE,FALSE
 2001-04-22,Indonesia,Cambodia,Indonesia,Sam El Nasa,26,TRUE,FALSE
 2001-04-22,Indonesia,Cambodia,Indonesia,Uston Nawawi,42,FALSE,FALSE
@@ -21004,7 +21004,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2001-04-27,Yemen,Brunei,Yemen,Abdulsalam Al Ghurbani,75,FALSE,FALSE
 2001-04-28,Congo,Madagascar,Congo,Patrick Ranaivoson,42,TRUE,FALSE
 2001-04-28,Congo,Madagascar,Congo,Edson Minga,75,FALSE,FALSE
-2001-04-28,Maldives,China PR,China PR,Xie Hui,44,FALSE,FALSE
+2001-04-28,Maldives,China,China,Xie Hui,44,FALSE,FALSE
 2001-04-29,Cambodia,Indonesia,Indonesia,Eko Purdjianto,78,FALSE,FALSE
 2001-04-29,Cambodia,Indonesia,Indonesia,Bambang Pamungkas,87,FALSE,FALSE
 2001-04-30,Oman,Laos,Oman,Hani Al-Dhabit,6,FALSE,FALSE
@@ -21088,10 +21088,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2001-05-05,Taiwan,Uzbekistan,Uzbekistan,Jafar Irismetov,90,FALSE,FALSE
 2001-05-06,Angola,Cameroon,Angola,Akwá,60,FALSE,FALSE
 2001-05-06,Angola,Cameroon,Angola,Joaquim Alberto Silva,69,FALSE,FALSE
-2001-05-06,Cambodia,China PR,China PR,Li Jinyu,5,FALSE,FALSE
-2001-05-06,Cambodia,China PR,China PR,Qu Bo,43,FALSE,FALSE
-2001-05-06,Cambodia,China PR,China PR,Ma Mingyu,58,FALSE,FALSE
-2001-05-06,Cambodia,China PR,China PR,Li Jinyu,63,FALSE,FALSE
+2001-05-06,Cambodia,China,China,Li Jinyu,5,FALSE,FALSE
+2001-05-06,Cambodia,China,China,Qu Bo,43,FALSE,FALSE
+2001-05-06,Cambodia,China,China,Ma Mingyu,58,FALSE,FALSE
+2001-05-06,Cambodia,China,China,Li Jinyu,63,FALSE,FALSE
 2001-05-06,Congo,DR Congo,Congo,Walter Bakouma,45,FALSE,FALSE
 2001-05-06,Congo,DR Congo,DR Congo,Kanika Matondo,90,FALSE,FALSE
 2001-05-06,Egypt,Senegal,Egypt,Mido,48,FALSE,FALSE
@@ -21138,12 +21138,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2001-05-11,Yemen,United Arab Emirates,United Arab Emirates,Saeed Al Kass,44,FALSE,FALSE
 2001-05-11,Yemen,United Arab Emirates,Yemen,Abdulsalam Al Ghurbani,52,FALSE,FALSE
 2001-05-11,Yemen,United Arab Emirates,Yemen,Ali Al-Nono,73,FALSE,FALSE
-2001-05-13,China PR,Indonesia,Indonesia,Kurniawan Dwi Yulianto,40,FALSE,FALSE
-2001-05-13,China PR,Indonesia,China PR,Li Weifeng,50,FALSE,FALSE
-2001-05-13,China PR,Indonesia,China PR,Yang Chen,62,FALSE,FALSE
-2001-05-13,China PR,Indonesia,China PR,Xie Hui,71,FALSE,FALSE
-2001-05-13,China PR,Indonesia,China PR,Qi Hong,82,FALSE,FALSE
-2001-05-13,China PR,Indonesia,China PR,Xie Hui,90,FALSE,FALSE
+2001-05-13,China,Indonesia,Indonesia,Kurniawan Dwi Yulianto,40,FALSE,FALSE
+2001-05-13,China,Indonesia,China,Li Weifeng,50,FALSE,FALSE
+2001-05-13,China,Indonesia,China,Yang Chen,62,FALSE,FALSE
+2001-05-13,China,Indonesia,China,Xie Hui,71,FALSE,FALSE
+2001-05-13,China,Indonesia,China,Qi Hong,82,FALSE,FALSE
+2001-05-13,China,Indonesia,China,Xie Hui,90,FALSE,FALSE
 2001-05-13,Lebanon,Pakistan,Lebanon,Haitham Zein,6,FALSE,FALSE
 2001-05-13,Lebanon,Pakistan,Lebanon,Haitham Zein,32,FALSE,FALSE
 2001-05-13,Lebanon,Pakistan,Lebanon,Moussa Hojeij,49,FALSE,FALSE
@@ -21185,10 +21185,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2001-05-18,United Arab Emirates,Yemen,Yemen,Adel Al-Salimi,61,FALSE,FALSE
 2001-05-19,Laos,Philippines,Laos,Phengta Phounsamay,15,FALSE,FALSE
 2001-05-19,Laos,Philippines,Laos,Valasine Dalaphone,55,FALSE,FALSE
-2001-05-20,China PR,Cambodia,China PR,Ma Mingyu,5,FALSE,FALSE
-2001-05-20,China PR,Cambodia,Cambodia,Chea Makara,12,FALSE,FALSE
-2001-05-20,China PR,Cambodia,China PR,Xu Yunlong,22,FALSE,FALSE
-2001-05-20,China PR,Cambodia,China PR,Li Bing,87,FALSE,FALSE
+2001-05-20,China,Cambodia,China,Ma Mingyu,5,FALSE,FALSE
+2001-05-20,China,Cambodia,Cambodia,Chea Makara,12,FALSE,FALSE
+2001-05-20,China,Cambodia,China,Xu Yunlong,22,FALSE,FALSE
+2001-05-20,China,Cambodia,China,Li Bing,87,FALSE,FALSE
 2001-05-20,India,Brunei,India,Jules Alberto,12,FALSE,FALSE
 2001-05-20,India,Brunei,India,I. M. Vijayan,23,FALSE,FALSE
 2001-05-20,India,Brunei,India,Baichung Bhutia,35,FALSE,TRUE
@@ -21212,8 +21212,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2001-05-26,Thailand,Sri Lanka,Thailand,Seksan Piturat,37,FALSE,FALSE
 2001-05-26,Thailand,Sri Lanka,Thailand,Kiatisuk Senamuang,50,FALSE,FALSE
 2001-05-26,Thailand,Sri Lanka,Thailand,Kiatisuk Senamuang,60,FALSE,FALSE
-2001-05-27,Indonesia,China PR,China PR,Xie Hui,45,FALSE,FALSE
-2001-05-27,Indonesia,China PR,China PR,Wu Chengying,69,FALSE,FALSE
+2001-05-27,Indonesia,China,China,Xie Hui,45,FALSE,FALSE
+2001-05-27,Indonesia,China,China,Wu Chengying,69,FALSE,FALSE
 2001-05-28,Sri Lanka,Lebanon,Lebanon,Wartan Ghazarian,25,FALSE,FALSE
 2001-05-28,Sri Lanka,Lebanon,Lebanon,Faisal Antar,37,FALSE,FALSE
 2001-05-28,Sri Lanka,Lebanon,Lebanon,Marcílio Alves da Silva,48,FALSE,FALSE
@@ -21690,14 +21690,14 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2001-08-23,Bahrain,Iraq,Bahrain,Ghazi Al Kuwari,82,FALSE,FALSE
 2001-08-24,Iran,Saudi Arabia,Iran,Ali Daei,54,FALSE,TRUE
 2001-08-24,Iran,Saudi Arabia,Iran,Ali Daei,64,FALSE,FALSE
-2001-08-25,China PR,United Arab Emirates,China PR,Li Xiaopeng,2,FALSE,FALSE
-2001-08-25,China PR,United Arab Emirates,China PR,Qi Hong,19,FALSE,FALSE
-2001-08-25,China PR,United Arab Emirates,China PR,Hao Haidong,33,FALSE,FALSE
+2001-08-25,China,United Arab Emirates,China,Li Xiaopeng,2,FALSE,FALSE
+2001-08-25,China,United Arab Emirates,China,Qi Hong,19,FALSE,FALSE
+2001-08-25,China,United Arab Emirates,China,Hao Haidong,33,FALSE,FALSE
 2001-08-26,Uzbekistan,Qatar,Uzbekistan,Jafar Irismetov,36,FALSE,FALSE
 2001-08-26,Uzbekistan,Qatar,Uzbekistan,Mirjalol Qosimov,52,FALSE,FALSE
 2001-08-26,Uzbekistan,Qatar,Qatar,Abdul Jaloof,88,FALSE,FALSE
-2001-08-31,Oman,China PR,China PR,Qi Hong,70,FALSE,FALSE
-2001-08-31,Oman,China PR,China PR,Fan Zhiyi,84,FALSE,TRUE
+2001-08-31,Oman,China,China,Qi Hong,70,FALSE,FALSE
+2001-08-31,Oman,China,China,Fan Zhiyi,84,FALSE,TRUE
 2001-08-31,Saudi Arabia,Iraq,Saudi Arabia,Obeid Al-Dosari,45,FALSE,FALSE
 2001-08-31,United Arab Emirates,Qatar,Qatar,Ahmad Khalifa Hashim,65,FALSE,FALSE
 2001-08-31,United Arab Emirates,Qatar,Qatar,Abdulnasser Al-Obaidly,71,FALSE,FALSE
@@ -21859,8 +21859,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2001-09-07,Iraq,Iran,Iraq,Emad Mohammed,20,FALSE,FALSE
 2001-09-07,Iraq,Iran,Iran,Ali Karimi,30,FALSE,FALSE
 2001-09-07,Iraq,Iran,Iran,Ali Daei,84,FALSE,FALSE
-2001-09-07,Qatar,China PR,Qatar,Dahi Al Naemi,31,FALSE,FALSE
-2001-09-07,Qatar,China PR,China PR,Li Weifeng,90,FALSE,FALSE
+2001-09-07,Qatar,China,Qatar,Dahi Al Naemi,31,FALSE,FALSE
+2001-09-07,Qatar,China,China,Li Weifeng,90,FALSE,FALSE
 2001-09-08,Uzbekistan,Oman,Uzbekistan,Jafar Irismetov,17,FALSE,FALSE
 2001-09-08,Uzbekistan,Oman,Uzbekistan,Maksim Shatskikh,38,FALSE,TRUE
 2001-09-08,Uzbekistan,Oman,Uzbekistan,Mirjalol Qosimov,50,FALSE,FALSE
@@ -21868,8 +21868,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2001-09-08,Uzbekistan,Oman,Uzbekistan,Jafar Irismetov,73,FALSE,FALSE
 2001-09-14,Oman,United Arab Emirates,United Arab Emirates,Mohamed Abdulazeez,13,FALSE,FALSE
 2001-09-14,Oman,United Arab Emirates,Oman,Radhwan Nairooz,52,FALSE,FALSE
-2001-09-15,China PR,Uzbekistan,China PR,Li Weifeng,63,FALSE,FALSE
-2001-09-15,China PR,Uzbekistan,China PR,Fan Zhiyi,76,FALSE,FALSE
+2001-09-15,China,Uzbekistan,China,Li Weifeng,63,FALSE,FALSE
+2001-09-15,China,Uzbekistan,China,Fan Zhiyi,76,FALSE,FALSE
 2001-09-15,Thailand,Saudi Arabia,Thailand,Seksan Piturat,28,FALSE,FALSE
 2001-09-15,Thailand,Saudi Arabia,Saudi Arabia,Sami Al-Jaber,47,FALSE,FALSE
 2001-09-15,Thailand,Saudi Arabia,Saudi Arabia,Abdullah Bin Shehan,63,FALSE,FALSE
@@ -21884,7 +21884,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2001-09-22,Thailand,Iraq,Thailand,Sutee Suksomkit,38,FALSE,FALSE
 2001-09-22,Thailand,Iraq,Iraq,Emad Mohammed,63,FALSE,FALSE
 2001-09-22,Uzbekistan,United Arab Emirates,United Arab Emirates,Mohammad Omar,5,FALSE,FALSE
-2001-09-27,United Arab Emirates,China PR,China PR,Qi Hong,43,FALSE,FALSE
+2001-09-27,United Arab Emirates,China,China,Qi Hong,43,FALSE,FALSE
 2001-09-28,Iraq,Bahrain,Iraq,Emad Mohammed,10,FALSE,FALSE
 2001-09-28,Qatar,Uzbekistan,Qatar,Mohammed Salem Al-Enazi,9,FALSE,FALSE
 2001-09-28,Qatar,Uzbekistan,Uzbekistan,Mirjalol Qosimov,45,FALSE,FALSE
@@ -21980,7 +21980,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2001-10-07,Bosnia and Herzegovina,Liechtenstein,Bosnia and Herzegovina,Marijo Dodik,85,FALSE,FALSE
 2001-10-07,Brazil,Chile,Brazil,Edílson,52,FALSE,FALSE
 2001-10-07,Brazil,Chile,Brazil,Rivaldo,63,FALSE,FALSE
-2001-10-07,China PR,Oman,China PR,Yu Genwei,36,FALSE,FALSE
+2001-10-07,China,Oman,China,Yu Genwei,36,FALSE,FALSE
 2001-10-07,Honduras,Trinidad and Tobago,Trinidad and Tobago,Stern John,61,FALSE,FALSE
 2001-10-07,North Macedonia,Slovakia,Slovakia,Ľubomír Reiter,28,FALSE,FALSE
 2001-10-07,North Macedonia,Slovakia,Slovakia,Peter Dzúrik,56,FALSE,FALSE
@@ -22002,9 +22002,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2001-10-12,Iran,Iraq,Iran,Mehdi Mahdavikia,27,FALSE,FALSE
 2001-10-12,Iran,Iraq,Iraq,Qahtan Chathir,52,FALSE,FALSE
 2001-10-12,Iran,Iraq,Iran,Ali Karimi,71,FALSE,FALSE
-2001-10-13,China PR,Qatar,China PR,Su Maozhen,11,FALSE,FALSE
-2001-10-13,China PR,Qatar,China PR,Qu Bo,29,FALSE,FALSE
-2001-10-13,China PR,Qatar,China PR,Hao Haidong,57,FALSE,FALSE
+2001-10-13,China,Qatar,China,Su Maozhen,11,FALSE,FALSE
+2001-10-13,China,Qatar,China,Qu Bo,29,FALSE,FALSE
+2001-10-13,China,Qatar,China,Hao Haidong,57,FALSE,FALSE
 2001-10-13,Oman,Uzbekistan,Uzbekistan,Fevzi Davletov,5,FALSE,FALSE
 2001-10-13,Oman,Uzbekistan,Uzbekistan,Nabil Ashoor,27,TRUE,FALSE
 2001-10-13,Oman,Uzbekistan,Oman,Yaqoob Juma Al-Mukhaini,50,FALSE,FALSE
@@ -22017,7 +22017,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2001-10-19,United Arab Emirates,Oman,Oman,Hani Al-Dhabit,41,FALSE,FALSE
 2001-10-19,United Arab Emirates,Oman,United Arab Emirates,Abdulrahman Ibrahim,45,FALSE,FALSE
 2001-10-19,United Arab Emirates,Oman,United Arab Emirates,Mohammad Omar,60,FALSE,FALSE
-2001-10-19,Uzbekistan,China PR,Uzbekistan,Nikolay Shirshov,90,FALSE,FALSE
+2001-10-19,Uzbekistan,China,Uzbekistan,Nikolay Shirshov,90,FALSE,FALSE
 2001-10-21,Bahrain,Iran,Bahrain,Abdulla Al Marzooqi,8,FALSE,FALSE
 2001-10-21,Bahrain,Iran,Bahrain,Husain Ali,45,FALSE,FALSE
 2001-10-21,Bahrain,Iran,Iran,Ali Daei,82,FALSE,FALSE
@@ -22209,8 +22209,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2002-06-03,Croatia,Mexico,Mexico,Cuauhtémoc Blanco,60,FALSE,TRUE
 2002-06-03,Italy,Ecuador,Italy,Christian Vieri,7,FALSE,FALSE
 2002-06-03,Italy,Ecuador,Italy,Christian Vieri,27,FALSE,FALSE
-2002-06-04,China PR,Costa Rica,Costa Rica,Rónald Gómez,61,FALSE,FALSE
-2002-06-04,China PR,Costa Rica,Costa Rica,Mauricio Wright,65,FALSE,FALSE
+2002-06-04,China,Costa Rica,Costa Rica,Rónald Gómez,61,FALSE,FALSE
+2002-06-04,China,Costa Rica,Costa Rica,Mauricio Wright,65,FALSE,FALSE
 2002-06-04,Japan,Belgium,Belgium,Marc Wilmots,57,FALSE,FALSE
 2002-06-04,Japan,Belgium,Japan,Takayuki Suzuki,59,FALSE,FALSE
 2002-06-04,Japan,Belgium,Japan,Junichi Inamoto,67,FALSE,FALSE
@@ -22237,10 +22237,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2002-06-07,Sweden,Nigeria,Nigeria,Julius Aghahowa,27,FALSE,FALSE
 2002-06-07,Sweden,Nigeria,Sweden,Henrik Larsson,35,FALSE,FALSE
 2002-06-07,Sweden,Nigeria,Sweden,Henrik Larsson,63,FALSE,TRUE
-2002-06-08,Brazil,China PR,Brazil,Roberto Carlos,15,FALSE,FALSE
-2002-06-08,Brazil,China PR,Brazil,Rivaldo,32,FALSE,FALSE
-2002-06-08,Brazil,China PR,Brazil,Ronaldinho,45,FALSE,TRUE
-2002-06-08,Brazil,China PR,Brazil,Ronaldo,55,FALSE,FALSE
+2002-06-08,Brazil,China,Brazil,Roberto Carlos,15,FALSE,FALSE
+2002-06-08,Brazil,China,Brazil,Rivaldo,32,FALSE,FALSE
+2002-06-08,Brazil,China,Brazil,Ronaldinho,45,FALSE,TRUE
+2002-06-08,Brazil,China,Brazil,Ronaldo,55,FALSE,FALSE
 2002-06-08,Italy,Croatia,Italy,Christian Vieri,55,FALSE,FALSE
 2002-06-08,Italy,Croatia,Croatia,Ivica Olić,73,FALSE,FALSE
 2002-06-08,Italy,Croatia,Croatia,Milan Rapaić,76,FALSE,FALSE
@@ -22293,9 +22293,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2002-06-13,Ecuador,Croatia,Ecuador,Édison Méndez,48,FALSE,FALSE
 2002-06-13,Mexico,Italy,Mexico,Jared Borgetti,34,FALSE,FALSE
 2002-06-13,Mexico,Italy,Italy,Alessandro Del Piero,85,FALSE,FALSE
-2002-06-13,Turkey,China PR,Turkey,Hasan Şaş,6,FALSE,FALSE
-2002-06-13,Turkey,China PR,Turkey,Bülent Korkmaz,9,FALSE,FALSE
-2002-06-13,Turkey,China PR,Turkey,Ümit Davala,85,FALSE,FALSE
+2002-06-13,Turkey,China,Turkey,Hasan Şaş,6,FALSE,FALSE
+2002-06-13,Turkey,China,Turkey,Bülent Korkmaz,9,FALSE,FALSE
+2002-06-13,Turkey,China,Turkey,Ümit Davala,85,FALSE,FALSE
 2002-06-14,Belgium,Russia,Belgium,Johan Walem,7,FALSE,FALSE
 2002-06-14,Belgium,Russia,Russia,Vladimir Beschastnykh,52,FALSE,FALSE
 2002-06-14,Belgium,Russia,Belgium,Wesley Sonck,78,FALSE,FALSE
@@ -23372,7 +23372,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2004-02-18,Bahrain,Syria,Bahrain,A'ala Hubail,64,FALSE,FALSE
 2004-02-18,Bahrain,Syria,Bahrain,A'ala Hubail,73,FALSE,FALSE
 2004-02-18,Bahrain,Syria,Syria,Yousef Sheikh Al-Eshreh,80,FALSE,FALSE
-2004-02-18,China PR,Kuwait,China PR,Hao Haidong,75,FALSE,FALSE
+2004-02-18,China,Kuwait,China,Hao Haidong,75,FALSE,FALSE
 2004-02-18,Haiti,Turks and Caicos Islands,Haiti,Jean-Philippe Peguero,6,FALSE,FALSE
 2004-02-18,Haiti,Turks and Caicos Islands,Haiti,Johnny Descouines,43,FALSE,FALSE
 2004-02-18,Haiti,Turks and Caicos Islands,Haiti,Johnny Descouines,45,FALSE,FALSE
@@ -23501,7 +23501,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2004-03-31,Curaçao,Antigua and Barbuda,Curaçao,Rocky Siberie,27,FALSE,FALSE
 2004-03-31,Curaçao,Antigua and Barbuda,Curaçao,Eugene Martha,46,FALSE,FALSE
 2004-03-31,Curaçao,Antigua and Barbuda,Curaçao,Brutil Hosé,48,FALSE,FALSE
-2004-03-31,Hong Kong,China PR,China PR,Hao Haidong,71,FALSE,FALSE
+2004-03-31,Hong Kong,China,China,Hao Haidong,71,FALSE,FALSE
 2004-03-31,India,Oman,Oman,Amad Ali,12,FALSE,FALSE
 2004-03-31,India,Oman,India,Renedy Singh,18,FALSE,FALSE
 2004-03-31,India,Oman,Oman,Ahmed Mubarak Al-Mahaijri,26,FALSE,FALSE
@@ -23761,10 +23761,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2004-06-09,Bahrain,Kyrgyzstan,Bahrain,A'ala Hubail,60,FALSE,FALSE
 2004-06-09,Bahrain,Kyrgyzstan,Bahrain,Husain Ali,66,FALSE,FALSE
 2004-06-09,Bahrain,Kyrgyzstan,Bahrain,Duaij Naser Abdulla,82,FALSE,FALSE
-2004-06-09,China PR,Malaysia,China PR,Hao Haidong,43,FALSE,FALSE
-2004-06-09,China PR,Malaysia,China PR,Sun Jihai,62,FALSE,FALSE
-2004-06-09,China PR,Malaysia,China PR,Li Xiaopeng,66,FALSE,FALSE
-2004-06-09,China PR,Malaysia,China PR,Li Xiaopeng,76,FALSE,FALSE
+2004-06-09,China,Malaysia,China,Hao Haidong,43,FALSE,FALSE
+2004-06-09,China,Malaysia,China,Sun Jihai,62,FALSE,FALSE
+2004-06-09,China,Malaysia,China,Li Xiaopeng,66,FALSE,FALSE
+2004-06-09,China,Malaysia,China,Li Xiaopeng,76,FALSE,FALSE
 2004-06-09,Indonesia,Sri Lanka,Indonesia,Elie Aiboy,30,FALSE,FALSE
 2004-06-09,Iran,Jordan,Jordan,Haitham Al-Shboul,83,FALSE,FALSE
 2004-06-09,Iraq,Taiwan,Iraq,Razzaq Farhan,2,FALSE,FALSE
@@ -24107,10 +24107,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2004-07-14,Costa Rica,Chile,Chile,Rafael Olarra,40,FALSE,FALSE
 2004-07-14,Costa Rica,Chile,Costa Rica,Mauricio Wright,60,FALSE,FALSE
 2004-07-14,Costa Rica,Chile,Costa Rica,Andy Herron,90,FALSE,FALSE
-2004-07-17,China PR,Bahrain,Bahrain,Mohamed Hubail,41,FALSE,FALSE
-2004-07-17,China PR,Bahrain,China PR,Zheng Zhi,58,FALSE,TRUE
-2004-07-17,China PR,Bahrain,China PR,Li Jinyu,66,FALSE,FALSE
-2004-07-17,China PR,Bahrain,Bahrain,Husain Ali,89,FALSE,FALSE
+2004-07-17,China,Bahrain,Bahrain,Mohamed Hubail,41,FALSE,FALSE
+2004-07-17,China,Bahrain,China,Zheng Zhi,58,FALSE,TRUE
+2004-07-17,China,Bahrain,China,Li Jinyu,66,FALSE,FALSE
+2004-07-17,China,Bahrain,Bahrain,Husain Ali,89,FALSE,FALSE
 2004-07-17,Colombia,Costa Rica,Colombia,Abel Aguilar,41,FALSE,FALSE
 2004-07-17,Colombia,Costa Rica,Colombia,Tressor Moreno,45,FALSE,FALSE
 2004-07-17,Peru,Argentina,Argentina,Carlos Tevez,60,FALSE,FALSE
@@ -24143,11 +24143,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2004-07-20,Japan,Oman,Japan,Shunsuke Nakamura,33,FALSE,FALSE
 2004-07-21,Bahrain,Qatar,Qatar,Wesam Rizik,59,FALSE,TRUE
 2004-07-21,Bahrain,Qatar,Bahrain,Mohamed Hubail,90,FALSE,FALSE
-2004-07-21,China PR,Indonesia,China PR,Shao Jiayi,25,FALSE,FALSE
-2004-07-21,China PR,Indonesia,China PR,Hao Haidong,40,FALSE,FALSE
-2004-07-21,China PR,Indonesia,China PR,Li Ming,51,FALSE,FALSE
-2004-07-21,China PR,Indonesia,China PR,Shao Jiayi,66,FALSE,FALSE
-2004-07-21,China PR,Indonesia,China PR,Li Yi,80,FALSE,FALSE
+2004-07-21,China,Indonesia,China,Shao Jiayi,25,FALSE,FALSE
+2004-07-21,China,Indonesia,China,Hao Haidong,40,FALSE,FALSE
+2004-07-21,China,Indonesia,China,Li Ming,51,FALSE,FALSE
+2004-07-21,China,Indonesia,China,Shao Jiayi,66,FALSE,FALSE
+2004-07-21,China,Indonesia,China,Li Yi,80,FALSE,FALSE
 2004-07-21,Uruguay,Brazil,Uruguay,Marcelo Sosa,22,FALSE,FALSE
 2004-07-21,Uruguay,Brazil,Brazil,Adriano,46,FALSE,FALSE
 2004-07-22,Turkmenistan,Iraq,Iraq,Hawar Mulla Mohammed,12,FALSE,FALSE
@@ -24180,7 +24180,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2004-07-25,Bahrain,Indonesia,Bahrain,A'ala Hubail,57,FALSE,FALSE
 2004-07-25,Bahrain,Indonesia,Indonesia,Elie Aiboy,75,FALSE,FALSE
 2004-07-25,Bahrain,Indonesia,Bahrain,Talal Yousef,82,FALSE,FALSE
-2004-07-25,China PR,Qatar,China PR,Xu Yunlong,77,FALSE,FALSE
+2004-07-25,China,Qatar,China,Xu Yunlong,77,FALSE,FALSE
 2004-07-26,Saudi Arabia,Iraq,Iraq,Nashat Akram,51,FALSE,FALSE
 2004-07-26,Saudi Arabia,Iraq,Saudi Arabia,Hamad Al-Montashari,57,FALSE,FALSE
 2004-07-26,Saudi Arabia,Iraq,Iraq,Younis Mahmoud,86,FALSE,FALSE
@@ -24191,9 +24191,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2004-07-27,South Korea,Kuwait,South Korea,Ahn Jung-hwan,75,FALSE,FALSE
 2004-07-28,Oman,Thailand,Oman,Rangsan Viwatchaichok,15,TRUE,FALSE
 2004-07-28,Oman,Thailand,Oman,Amad Al-Hosni,49,FALSE,FALSE
-2004-07-30,China PR,Iraq,China PR,Hao Haidong,8,FALSE,FALSE
-2004-07-30,China PR,Iraq,China PR,Zheng Zhi,81,FALSE,TRUE
-2004-07-30,China PR,Iraq,China PR,Zheng Zhi,90,FALSE,TRUE
+2004-07-30,China,Iraq,China,Hao Haidong,8,FALSE,FALSE
+2004-07-30,China,Iraq,China,Zheng Zhi,81,FALSE,TRUE
+2004-07-30,China,Iraq,China,Zheng Zhi,90,FALSE,TRUE
 2004-07-30,Uzbekistan,Bahrain,Uzbekistan,Alexander Geynrikh,60,FALSE,FALSE
 2004-07-30,Uzbekistan,Bahrain,Bahrain,A'ala Hubail,71,FALSE,FALSE
 2004-07-30,Uzbekistan,Bahrain,Bahrain,A'ala Hubail,76,FALSE,FALSE
@@ -24214,18 +24214,18 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2004-08-03,Bahrain,Japan,Bahrain,Duaij Naser Abdulla,85,FALSE,FALSE
 2004-08-03,Bahrain,Japan,Japan,Yuji Nakazawa,90,FALSE,FALSE
 2004-08-03,Bahrain,Japan,Japan,Keiji Tamada,93,FALSE,FALSE
-2004-08-03,China PR,Iran,China PR,Shao Jiayi,18,FALSE,FALSE
-2004-08-03,China PR,Iran,Iran,Mohammad Alavi,38,FALSE,FALSE
+2004-08-03,China,Iran,China,Shao Jiayi,18,FALSE,FALSE
+2004-08-03,China,Iran,Iran,Mohammad Alavi,38,FALSE,FALSE
 2004-08-06,Iran,Bahrain,Iran,Javad Nekounam,9,FALSE,FALSE
 2004-08-06,Iran,Bahrain,Bahrain,Talal Yousef,48,FALSE,FALSE
 2004-08-06,Iran,Bahrain,Iran,Ali Karimi,52,FALSE,FALSE
 2004-08-06,Iran,Bahrain,Bahrain,Saleh Ahmed Farhan,57,FALSE,FALSE
 2004-08-06,Iran,Bahrain,Iran,Ali Daei,80,FALSE,TRUE
 2004-08-06,Iran,Bahrain,Iran,Ali Daei,90,FALSE,FALSE
-2004-08-07,China PR,Japan,Japan,Takashi Fukunishi,22,FALSE,FALSE
-2004-08-07,China PR,Japan,China PR,Li Ming,31,FALSE,FALSE
-2004-08-07,China PR,Japan,Japan,Koji Nakata,65,FALSE,FALSE
-2004-08-07,China PR,Japan,Japan,Keiji Tamada,90,FALSE,FALSE
+2004-08-07,China,Japan,Japan,Takashi Fukunishi,22,FALSE,FALSE
+2004-08-07,China,Japan,China,Li Ming,31,FALSE,FALSE
+2004-08-07,China,Japan,Japan,Koji Nakata,65,FALSE,FALSE
+2004-08-07,China,Japan,Japan,Keiji Tamada,90,FALSE,FALSE
 2004-08-18,Canada,Guatemala,Guatemala,Carlos Ruiz,7,FALSE,FALSE
 2004-08-18,Canada,Guatemala,Guatemala,Carlos Ruiz,59,FALSE,FALSE
 2004-08-18,Costa Rica,Honduras,Costa Rica,Andy Herron,20,FALSE,FALSE
@@ -24451,7 +24451,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2004-09-08,Luxembourg,Latvia,Luxembourg,Manuel Cardoni,62,FALSE,FALSE
 2004-09-08,Luxembourg,Latvia,Latvia,Eric Hoffmann,65,TRUE,FALSE
 2004-09-08,Luxembourg,Latvia,Latvia,Andrejs Prohorenkovs,67,FALSE,FALSE
-2004-09-08,Malaysia,China PR,China PR,Li Jinyu,67,FALSE,FALSE
+2004-09-08,Malaysia,China,China,Li Jinyu,67,FALSE,FALSE
 2004-09-08,Maldives,Lebanon,Lebanon,Ali Nasseredine,4,FALSE,FALSE
 2004-09-08,Maldives,Lebanon,Lebanon,Faisal Antar,44,FALSE,FALSE
 2004-09-08,Maldives,Lebanon,Lebanon,Ali Nasseredine,58,FALSE,FALSE
@@ -24710,7 +24710,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2004-10-13,Italy,Belarus,Italy,Alberto Gilardino,86,FALSE,FALSE
 2004-10-13,Italy,Belarus,Belarus,Maksim Romaschenko,88,FALSE,FALSE
 2004-10-13,Kazakhstan,Albania,Albania,Alban Bushi,61,FALSE,FALSE
-2004-10-13,Kuwait,China PR,Kuwait,Waleed Ali,47,FALSE,FALSE
+2004-10-13,Kuwait,China,Kuwait,Waleed Ali,47,FALSE,FALSE
 2004-10-13,Laos,Jordan,Laos,Visay Phaphouvanin,13,FALSE,FALSE
 2004-10-13,Laos,Jordan,Jordan,Abdel-Hadi Al-Maharmeh,28,FALSE,FALSE
 2004-10-13,Laos,Jordan,Laos,Sengphet Thongphachan,53,FALSE,FALSE
@@ -24832,13 +24832,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2004-11-17,Bahrain,Tajikistan,Bahrain,Mohamed Hubail,77,FALSE,FALSE
 2004-11-17,Belgium,Serbia,Serbia,Zvonimir Vukić,8,FALSE,FALSE
 2004-11-17,Belgium,Serbia,Serbia,Mateja Kežman,60,FALSE,FALSE
-2004-11-17,China PR,Hong Kong,China PR,Li Jinyu,8,FALSE,FALSE
-2004-11-17,China PR,Hong Kong,China PR,Shao Jiayi,42,FALSE,FALSE
-2004-11-17,China PR,Hong Kong,China PR,Shao Jiayi,44,FALSE,FALSE
-2004-11-17,China PR,Hong Kong,China PR,Li Jinyu,47,FALSE,FALSE
-2004-11-17,China PR,Hong Kong,China PR,Xu Yunlong,49,FALSE,FALSE
-2004-11-17,China PR,Hong Kong,China PR,Yu Genwei,88,FALSE,FALSE
-2004-11-17,China PR,Hong Kong,China PR,Li Weifeng,90,FALSE,FALSE
+2004-11-17,China,Hong Kong,China,Li Jinyu,8,FALSE,FALSE
+2004-11-17,China,Hong Kong,China,Shao Jiayi,42,FALSE,FALSE
+2004-11-17,China,Hong Kong,China,Shao Jiayi,44,FALSE,FALSE
+2004-11-17,China,Hong Kong,China,Li Jinyu,47,FALSE,FALSE
+2004-11-17,China,Hong Kong,China,Xu Yunlong,49,FALSE,FALSE
+2004-11-17,China,Hong Kong,China,Yu Genwei,88,FALSE,FALSE
+2004-11-17,China,Hong Kong,China,Li Weifeng,90,FALSE,FALSE
 2004-11-17,Colombia,Bolivia,Colombia,Mario Yepes,18,FALSE,FALSE
 2004-11-17,Cyprus,Israel,Israel,Adoram Keisi,17,FALSE,FALSE
 2004-11-17,Cyprus,Israel,Cyprus,Ioannis Okkas,45,FALSE,FALSE
@@ -26856,12 +26856,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2007-07-10,Indonesia,Bahrain,Indonesia,Budi Sudarsono,14,FALSE,FALSE
 2007-07-10,Indonesia,Bahrain,Bahrain,Sayed Mahmood Jalal,27,FALSE,FALSE
 2007-07-10,Indonesia,Bahrain,Indonesia,Bambang Pamungkas,64,FALSE,FALSE
-2007-07-10,Malaysia,China PR,China PR,Han Peng,15,FALSE,FALSE
-2007-07-10,Malaysia,China PR,China PR,Shao Jiayi,36,FALSE,FALSE
-2007-07-10,Malaysia,China PR,China PR,Wang Dong,51,FALSE,FALSE
-2007-07-10,Malaysia,China PR,China PR,Han Peng,55,FALSE,FALSE
-2007-07-10,Malaysia,China PR,Malaysia,Indra Putra Mahayuddin,74,FALSE,FALSE
-2007-07-10,Malaysia,China PR,China PR,Wang Dong,90,FALSE,FALSE
+2007-07-10,Malaysia,China,China,Han Peng,15,FALSE,FALSE
+2007-07-10,Malaysia,China,China,Shao Jiayi,36,FALSE,FALSE
+2007-07-10,Malaysia,China,China,Wang Dong,51,FALSE,FALSE
+2007-07-10,Malaysia,China,China,Han Peng,55,FALSE,FALSE
+2007-07-10,Malaysia,China,Malaysia,Indra Putra Mahayuddin,74,FALSE,FALSE
+2007-07-10,Malaysia,China,China,Wang Dong,90,FALSE,FALSE
 2007-07-10,Uruguay,Brazil,Brazil,Maicon Sisenando,13,FALSE,FALSE
 2007-07-10,Uruguay,Brazil,Uruguay,Diego Forlán,36,FALSE,FALSE
 2007-07-10,Uruguay,Brazil,Brazil,Júlio Baptista,41,FALSE,FALSE
@@ -26904,10 +26904,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2007-07-15,Brazil,Argentina,Brazil,Júlio Baptista,4,FALSE,FALSE
 2007-07-15,Brazil,Argentina,Brazil,Roberto Ayala,40,TRUE,FALSE
 2007-07-15,Brazil,Argentina,Brazil,Dani Alves,69,FALSE,FALSE
-2007-07-15,China PR,Iran,China PR,Shao Jiayi,7,FALSE,FALSE
-2007-07-15,China PR,Iran,China PR,Mao Jianqing,33,FALSE,FALSE
-2007-07-15,China PR,Iran,Iran,Ferydoon Zandi,45,FALSE,FALSE
-2007-07-15,China PR,Iran,Iran,Javad Nekounam,74,FALSE,FALSE
+2007-07-15,China,Iran,China,Shao Jiayi,7,FALSE,FALSE
+2007-07-15,China,Iran,China,Mao Jianqing,33,FALSE,FALSE
+2007-07-15,China,Iran,Iran,Ferydoon Zandi,45,FALSE,FALSE
+2007-07-15,China,Iran,Iran,Javad Nekounam,74,FALSE,FALSE
 2007-07-16,Qatar,United Arab Emirates,Qatar,Sebastián Soria,42,FALSE,TRUE
 2007-07-16,Qatar,United Arab Emirates,United Arab Emirates,Saeed Al Kass,60,FALSE,FALSE
 2007-07-16,Qatar,United Arab Emirates,United Arab Emirates,Faisal Khalil,90,FALSE,FALSE
@@ -26927,9 +26927,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2007-07-18,Saudi Arabia,Bahrain,Saudi Arabia,Abdulrahman Al-Qahtani,45,FALSE,FALSE
 2007-07-18,Saudi Arabia,Bahrain,Saudi Arabia,Taisir Al-Jassim,68,FALSE,FALSE
 2007-07-18,Saudi Arabia,Bahrain,Saudi Arabia,Taisir Al-Jassim,79,FALSE,FALSE
-2007-07-18,Uzbekistan,China PR,Uzbekistan,Maksim Shatskikh,72,FALSE,FALSE
-2007-07-18,Uzbekistan,China PR,Uzbekistan,Timur Kapadze,86,FALSE,FALSE
-2007-07-18,Uzbekistan,China PR,Uzbekistan,Alexander Geynrikh,90,FALSE,FALSE
+2007-07-18,Uzbekistan,China,Uzbekistan,Maksim Shatskikh,72,FALSE,FALSE
+2007-07-18,Uzbekistan,China,Uzbekistan,Timur Kapadze,86,FALSE,FALSE
+2007-07-18,Uzbekistan,China,Uzbekistan,Alexander Geynrikh,90,FALSE,FALSE
 2007-07-21,Iraq,Vietnam,Iraq,Younis Mahmoud,2,FALSE,FALSE
 2007-07-21,Iraq,Vietnam,Iraq,Younis Mahmoud,65,FALSE,FALSE
 2007-07-21,Japan,Australia,Australia,John Aloisi,70,FALSE,FALSE
@@ -27260,13 +27260,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2007-10-21,Bahrain,Malaysia,Malaysia,Mohd Bunyamin Omar,45,FALSE,FALSE
 2007-10-21,Bahrain,Malaysia,Bahrain,Mahmood Abdulrahman,55,FALSE,FALSE
 2007-10-21,Bahrain,Malaysia,Bahrain,A'ala Hubail,90,FALSE,TRUE
-2007-10-21,China PR,Myanmar,China PR,Qu Bo,17,FALSE,FALSE
-2007-10-21,China PR,Myanmar,China PR,Du Zhenyu,22,FALSE,FALSE
-2007-10-21,China PR,Myanmar,China PR,Yang Lin,58,FALSE,FALSE
-2007-10-21,China PR,Myanmar,China PR,Liu Jian,63,FALSE,FALSE
-2007-10-21,China PR,Myanmar,China PR,Li Jinyu,76,FALSE,FALSE
-2007-10-21,China PR,Myanmar,China PR,Li Weifeng,79,FALSE,FALSE
-2007-10-21,China PR,Myanmar,China PR,Qu Bo,81,FALSE,FALSE
+2007-10-21,China,Myanmar,China,Qu Bo,17,FALSE,FALSE
+2007-10-21,China,Myanmar,China,Du Zhenyu,22,FALSE,FALSE
+2007-10-21,China,Myanmar,China,Yang Lin,58,FALSE,FALSE
+2007-10-21,China,Myanmar,China,Liu Jian,63,FALSE,FALSE
+2007-10-21,China,Myanmar,China,Li Jinyu,76,FALSE,FALSE
+2007-10-21,China,Myanmar,China,Li Weifeng,79,FALSE,FALSE
+2007-10-21,China,Myanmar,China,Qu Bo,81,FALSE,FALSE
 2007-10-21,Mongolia,North Korea,North Korea,Pak Chol-min,14,FALSE,FALSE
 2007-10-21,Mongolia,North Korea,North Korea,Jong Chol-min,24,FALSE,FALSE
 2007-10-21,Mongolia,North Korea,North Korea,Jong Chol-min,32,FALSE,FALSE
@@ -27301,10 +27301,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2007-10-28,Jordan,Kyrgyzstan,Jordan,Hatem Aqel,51,FALSE,TRUE
 2007-10-28,Maldives,Yemen,Maldives,Shamveel Qasim,14,FALSE,FALSE
 2007-10-28,Maldives,Yemen,Maldives,Ali Ashfaq,67,FALSE,FALSE
-2007-10-28,Myanmar,China PR,China PR,Wu Wei'an,13,FALSE,FALSE
-2007-10-28,Myanmar,China PR,China PR,Liu Jian,14,FALSE,FALSE
-2007-10-28,Myanmar,China PR,China PR,Zheng Bin,35,FALSE,FALSE
-2007-10-28,Myanmar,China PR,China PR,Zhang Yaokun,39,FALSE,TRUE
+2007-10-28,Myanmar,China,China,Wu Wei'an,13,FALSE,FALSE
+2007-10-28,Myanmar,China,China,Liu Jian,14,FALSE,FALSE
+2007-10-28,Myanmar,China,China,Zheng Bin,35,FALSE,FALSE
+2007-10-28,Myanmar,China,China,Zhang Yaokun,39,FALSE,TRUE
 2007-10-28,Nepal,Oman,Oman,Hashim Saleh,29,FALSE,FALSE
 2007-10-28,Nepal,Oman,Oman,Mohammed Al-Hinai,54,FALSE,FALSE
 2007-10-28,North Korea,Mongolia,North Korea,Pak Chol-min,3,FALSE,FALSE
@@ -27654,8 +27654,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2008-02-06,El Salvador,Anguilla,El Salvador,Ronald Cerritos,77,FALSE,FALSE
 2008-02-06,El Salvador,Anguilla,El Salvador,Emerson Umaña,80,FALSE,FALSE
 2008-02-06,El Salvador,Anguilla,El Salvador,Ronald Cerritos,84,FALSE,FALSE
-2008-02-06,Iraq,China PR,Iraq,Hawar Mulla Mohammed,51,FALSE,TRUE
-2008-02-06,Iraq,China PR,China PR,Zheng Zhi,75,FALSE,FALSE
+2008-02-06,Iraq,China,Iraq,Hawar Mulla Mohammed,51,FALSE,TRUE
+2008-02-06,Iraq,China,China,Zheng Zhi,75,FALSE,FALSE
 2008-02-06,Japan,Thailand,Japan,Yasuhito Endō,21,FALSE,FALSE
 2008-02-06,Japan,Thailand,Thailand,Teeratep Winothai,22,FALSE,FALSE
 2008-02-06,Japan,Thailand,Japan,Yoshito Ōkubo,54,FALSE,FALSE
@@ -27848,7 +27848,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2008-06-07,Chad,Mali,Mali,Frédéric Kanouté,5,FALSE,FALSE
 2008-06-07,Chad,Mali,Mali,Frédéric Kanouté,21,FALSE,TRUE
 2008-06-07,Chad,Mali,Chad,Hilaire Kédigui,43,FALSE,FALSE
-2008-06-07,China PR,Qatar,Qatar,Sebastián Soria,14,FALSE,TRUE
+2008-06-07,China,Qatar,Qatar,Sebastián Soria,14,FALSE,TRUE
 2008-06-07,Iraq,Australia,Iraq,Emad Mohammed,28,FALSE,FALSE
 2008-06-07,Jordan,South Korea,South Korea,Park Chu-young,24,FALSE,TRUE
 2008-06-07,Kenya,Guinea,Kenya,Dennis Oliech,3,FALSE,FALSE
@@ -27954,9 +27954,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2008-06-14,Chad,Congo,Congo,Gervais Batota,30,FALSE,FALSE
 2008-06-14,Chad,Congo,Chad,Hilaire Kédigui,40,FALSE,FALSE
 2008-06-14,Chad,Congo,Chad,Armand Djerabe,47,FALSE,FALSE
-2008-06-14,China PR,Iraq,China PR,Zhou Haibin,33,FALSE,FALSE
-2008-06-14,China PR,Iraq,Iraq,Emad Mohammed,41,FALSE,FALSE
-2008-06-14,China PR,Iraq,Iraq,Nashat Akram,67,FALSE,FALSE
+2008-06-14,China,Iraq,China,Zhou Haibin,33,FALSE,FALSE
+2008-06-14,China,Iraq,Iraq,Emad Mohammed,41,FALSE,FALSE
+2008-06-14,China,Iraq,Iraq,Nashat Akram,67,FALSE,FALSE
 2008-06-14,Gabon,Ghana,Gabon,Roguy Méyé,42,FALSE,FALSE
 2008-06-14,Gabon,Ghana,Gabon,Stéphane N'Guéma,66,FALSE,FALSE
 2008-06-14,Gambia,Algeria,Gambia,Tijan Jaiteh,19,FALSE,TRUE
@@ -28181,7 +28181,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2008-06-21,Tunisia,Burundi,Tunisia,Issam Jemâa,44,FALSE,FALSE
 2008-06-21,Tunisia,Burundi,Burundi,Henri Mbazumutima,45,FALSE,FALSE
 2008-06-21,Zambia,Eswatini,Zambia,Christopher Katongo,85,FALSE,TRUE
-2008-06-22,Australia,China PR,China PR,Sun Xiang,12,FALSE,FALSE
+2008-06-22,Australia,China,China,Sun Xiang,12,FALSE,FALSE
 2008-06-22,Barbados,United States,United States,Eddie Lewis,21,FALSE,FALSE
 2008-06-22,Benin,Niger,Benin,Jocelyn Ahouéya,45,FALSE,FALSE
 2008-06-22,Benin,Niger,Benin,Pascal Anicet,53,TRUE,FALSE
@@ -30271,8 +30271,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2010-11-17,Finland,San Marino,Finland,Mikael Forssell,78,FALSE,FALSE
 2011-01-07,Qatar,Uzbekistan,Uzbekistan,Odil Ahmedov,59,FALSE,FALSE
 2011-01-07,Qatar,Uzbekistan,Uzbekistan,Server Djeparov,77,FALSE,FALSE
-2011-01-08,Kuwait,China PR,China PR,Zhang Linpeng,58,FALSE,FALSE
-2011-01-08,Kuwait,China PR,China PR,Deng Zhuoxiang,67,FALSE,FALSE
+2011-01-08,Kuwait,China,China,Zhang Linpeng,58,FALSE,FALSE
+2011-01-08,Kuwait,China,China,Deng Zhuoxiang,67,FALSE,FALSE
 2011-01-09,Japan,Jordan,Jordan,Hassan Abdel-Fattah,45,FALSE,FALSE
 2011-01-09,Japan,Jordan,Japan,Maya Yoshida,90,FALSE,FALSE
 2011-01-09,Saudi Arabia,Syria,Syria,Abdelrazaq Al Hussain,38,FALSE,FALSE
@@ -30288,8 +30288,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2011-01-11,Iraq,Iran,Iraq,Younis Mahmoud,13,FALSE,FALSE
 2011-01-11,Iraq,Iran,Iran,Gholamreza Rezaei,42,FALSE,FALSE
 2011-01-11,Iraq,Iran,Iran,Iman Mobali,84,FALSE,FALSE
-2011-01-12,Qatar,China PR,Qatar,Yusef Ahmed,27,FALSE,FALSE
-2011-01-12,Qatar,China PR,Qatar,Yusef Ahmed,45,FALSE,FALSE
+2011-01-12,Qatar,China,Qatar,Yusef Ahmed,27,FALSE,FALSE
+2011-01-12,Qatar,China,Qatar,Yusef Ahmed,45,FALSE,FALSE
 2011-01-12,Uzbekistan,Kuwait,Uzbekistan,Maksim Shatskikh,41,FALSE,FALSE
 2011-01-12,Uzbekistan,Kuwait,Kuwait,Bader Al-Mutawa,49,FALSE,TRUE
 2011-01-12,Uzbekistan,Kuwait,Uzbekistan,Server Djeparov,65,FALSE,FALSE
@@ -30308,10 +30308,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2011-01-14,Bahrain,India,Bahrain,Ismail Abdullatif,77,FALSE,FALSE
 2011-01-15,Iran,North Korea,Iran,Karim Ansarifard,63,FALSE,FALSE
 2011-01-15,United Arab Emirates,Iraq,Iraq,Walid Abbas,90,TRUE,FALSE
-2011-01-16,China PR,Uzbekistan,China PR,Yu Hai,6,FALSE,FALSE
-2011-01-16,China PR,Uzbekistan,Uzbekistan,Odil Ahmedov,30,FALSE,FALSE
-2011-01-16,China PR,Uzbekistan,Uzbekistan,Alexander Geynrikh,46,FALSE,FALSE
-2011-01-16,China PR,Uzbekistan,China PR,Hao Junmin,56,FALSE,FALSE
+2011-01-16,China,Uzbekistan,China,Yu Hai,6,FALSE,FALSE
+2011-01-16,China,Uzbekistan,Uzbekistan,Odil Ahmedov,30,FALSE,FALSE
+2011-01-16,China,Uzbekistan,Uzbekistan,Alexander Geynrikh,46,FALSE,FALSE
+2011-01-16,China,Uzbekistan,China,Hao Junmin,56,FALSE,FALSE
 2011-01-16,Qatar,Kuwait,Qatar,Bilal Mohammed,12,FALSE,FALSE
 2011-01-16,Qatar,Kuwait,Qatar,Mohamed El-Sayed,16,FALSE,FALSE
 2011-01-16,Qatar,Kuwait,Qatar,Fábio César Montezine,86,FALSE,FALSE
@@ -30726,15 +30726,15 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2011-07-17,Chile,Venezuela,Venezuela,Gabriel Cichero,80,FALSE,FALSE
 2011-07-19,Peru,Uruguay,Uruguay,Luis Suárez,52,FALSE,FALSE
 2011-07-19,Peru,Uruguay,Uruguay,Luis Suárez,57,FALSE,FALSE
-2011-07-23,China PR,Laos,Laos,Soukaphone Vongchiengkham,5,FALSE,FALSE
-2011-07-23,China PR,Laos,Laos,Visay Phaphouvanin,31,FALSE,FALSE
-2011-07-23,China PR,Laos,China PR,Yang Xu,45,FALSE,FALSE
-2011-07-23,China PR,Laos,China PR,Chen Tao,52,FALSE,FALSE
-2011-07-23,China PR,Laos,China PR,Yang Xu,54,FALSE,FALSE
-2011-07-23,China PR,Laos,China PR,Yang Xu,73,FALSE,FALSE
-2011-07-23,China PR,Laos,China PR,Hao Junmin,81,FALSE,FALSE
-2011-07-23,China PR,Laos,China PR,Chen Tao,88,FALSE,FALSE
-2011-07-23,China PR,Laos,China PR,Hao Junmin,90,FALSE,TRUE
+2011-07-23,China,Laos,Laos,Soukaphone Vongchiengkham,5,FALSE,FALSE
+2011-07-23,China,Laos,Laos,Visay Phaphouvanin,31,FALSE,FALSE
+2011-07-23,China,Laos,China,Yang Xu,45,FALSE,FALSE
+2011-07-23,China,Laos,China,Chen Tao,52,FALSE,FALSE
+2011-07-23,China,Laos,China,Yang Xu,54,FALSE,FALSE
+2011-07-23,China,Laos,China,Yang Xu,73,FALSE,FALSE
+2011-07-23,China,Laos,China,Hao Junmin,81,FALSE,FALSE
+2011-07-23,China,Laos,China,Chen Tao,88,FALSE,FALSE
+2011-07-23,China,Laos,China,Hao Junmin,90,FALSE,TRUE
 2011-07-23,Iran,Maldives,Iran,Karim Ansarifard,4,FALSE,FALSE
 2011-07-23,Iran,Maldives,Iran,Karim Ansarifard,62,FALSE,FALSE
 2011-07-23,Iran,Maldives,Iran,Ali Karimi,67,FALSE,FALSE
@@ -30812,13 +30812,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2011-07-28,Kyrgyzstan,Uzbekistan,Uzbekistan,Victor Karpenko,47,FALSE,FALSE
 2011-07-28,Kyrgyzstan,Uzbekistan,Uzbekistan,Bahodir Nasimov,65,FALSE,FALSE
 2011-07-28,Kyrgyzstan,Uzbekistan,Uzbekistan,Bahodir Nasimov,90,FALSE,FALSE
-2011-07-28,Laos,China PR,China PR,Qu Bo,24,FALSE,FALSE
-2011-07-28,Laos,China PR,China PR,Yu Hanchao,36,FALSE,FALSE
-2011-07-28,Laos,China PR,Laos,Visay Phaphouvanin,47,FALSE,FALSE
-2011-07-28,Laos,China PR,China PR,Deng Zhuoxiang,67,FALSE,FALSE
-2011-07-28,Laos,China PR,China PR,Deng Zhuoxiang,82,FALSE,FALSE
-2011-07-28,Laos,China PR,China PR,Yu Hanchao,87,FALSE,FALSE
-2011-07-28,Laos,China PR,China PR,Yang Xu,90,FALSE,FALSE
+2011-07-28,Laos,China,China,Qu Bo,24,FALSE,FALSE
+2011-07-28,Laos,China,China,Yu Hanchao,36,FALSE,FALSE
+2011-07-28,Laos,China,Laos,Visay Phaphouvanin,47,FALSE,FALSE
+2011-07-28,Laos,China,China,Deng Zhuoxiang,67,FALSE,FALSE
+2011-07-28,Laos,China,China,Deng Zhuoxiang,82,FALSE,FALSE
+2011-07-28,Laos,China,China,Yu Hanchao,87,FALSE,FALSE
+2011-07-28,Laos,China,China,Yang Xu,90,FALSE,FALSE
 2011-07-28,Malaysia,Singapore,Malaysia,Safee Sali,57,FALSE,FALSE
 2011-07-28,Malaysia,Singapore,Singapore,Shi Jiayi,71,FALSE,FALSE
 2011-07-28,Maldives,Iran,Iran,Mohammad Reza Khalatbari,45,FALSE,FALSE
@@ -30868,9 +30868,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2011-09-02,Canada,Saint Lucia,Canada,Dwayne De Rosario,50,FALSE,TRUE
 2011-09-02,Canada,Saint Lucia,Canada,Josh Simpson,61,FALSE,FALSE
 2011-09-02,Canada,Saint Lucia,Canada,Will Johnson,90,FALSE,FALSE
-2011-09-02,China PR,Singapore,Singapore,Aleksandar Đurić,33,FALSE,FALSE
-2011-09-02,China PR,Singapore,China PR,Zheng Zhi,69,FALSE,TRUE
-2011-09-02,China PR,Singapore,China PR,Yu Hai,73,FALSE,FALSE
+2011-09-02,China,Singapore,Singapore,Aleksandar Đurić,33,FALSE,FALSE
+2011-09-02,China,Singapore,China,Zheng Zhi,69,FALSE,TRUE
+2011-09-02,China,Singapore,China,Yu Hai,73,FALSE,FALSE
 2011-09-02,Cyprus,Portugal,Portugal,Cristiano Ronaldo,35,FALSE,TRUE
 2011-09-02,Cyprus,Portugal,Portugal,Cristiano Ronaldo,83,FALSE,FALSE
 2011-09-02,Cyprus,Portugal,Portugal,Hugo Almeida,84,FALSE,FALSE
@@ -31014,9 +31014,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2011-09-06,Indonesia,Bahrain,Bahrain,Sayed Dhiya Saeed,45,FALSE,FALSE
 2011-09-06,Indonesia,Bahrain,Bahrain,Ismail Abdullatif,70,FALSE,FALSE
 2011-09-06,Italy,Slovenia,Italy,Giampaolo Pazzini,85,FALSE,FALSE
-2011-09-06,Jordan,China PR,Jordan,Baha' Abdel-Rahman,49,FALSE,FALSE
-2011-09-06,Jordan,China PR,Jordan,Amer Deeb,56,FALSE,FALSE
-2011-09-06,Jordan,China PR,China PR,Hao Junmin,57,FALSE,FALSE
+2011-09-06,Jordan,China,Jordan,Baha' Abdel-Rahman,49,FALSE,FALSE
+2011-09-06,Jordan,China,Jordan,Amer Deeb,56,FALSE,FALSE
+2011-09-06,Jordan,China,China,Hao Junmin,57,FALSE,FALSE
 2011-09-06,Kuwait,South Korea,South Korea,Park Chu-young,9,FALSE,FALSE
 2011-09-06,Kuwait,South Korea,Kuwait,Hussain Fadhel,54,FALSE,FALSE
 2011-09-06,Latvia,Greece,Latvia,Aleksandrs Cauņa,19,FALSE,FALSE
@@ -31245,7 +31245,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2011-10-11,Chile,Peru,Peru,Claudio Pizarro,49,FALSE,FALSE
 2011-10-11,Chile,Peru,Peru,Jefferson Farfán,60,FALSE,FALSE
 2011-10-11,Chile,Peru,Chile,Humberto Suazo,63,FALSE,TRUE
-2011-10-11,China PR,Iraq,Iraq,Younis Mahmoud,45,FALSE,FALSE
+2011-10-11,China,Iraq,Iraq,Younis Mahmoud,45,FALSE,FALSE
 2011-10-11,Croatia,Latvia,Croatia,Eduardo da Silva,66,FALSE,FALSE
 2011-10-11,Croatia,Latvia,Croatia,Mario Mandžukić,72,FALSE,FALSE
 2011-10-11,Denmark,Portugal,Denmark,Michael Krohn-Dehli,13,FALSE,FALSE
@@ -31411,7 +31411,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2011-11-11,Guyana,Trinidad and Tobago,Guyana,Ricky Shakes,10,FALSE,FALSE
 2011-11-11,Guyana,Trinidad and Tobago,Guyana,Leon Cort,81,FALSE,FALSE
 2011-11-11,Guyana,Trinidad and Tobago,Trinidad and Tobago,Kenwyne Jones,90,FALSE,FALSE
-2011-11-11,Iraq,China PR,Iraq,Younis Mahmoud,90,FALSE,FALSE
+2011-11-11,Iraq,China,Iraq,Younis Mahmoud,90,FALSE,FALSE
 2011-11-11,Jordan,Singapore,Jordan,Ahmad Hayel,15,FALSE,FALSE
 2011-11-11,Jordan,Singapore,Jordan,Amer Deeb,65,FALSE,FALSE
 2011-11-11,Kuwait,Lebanon,Lebanon,Mahmoud El Ali,57,FALSE,FALSE
@@ -31563,10 +31563,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2011-11-15,Rwanda,Eritrea,Eritrea,Abraham Tedros,89,FALSE,FALSE
 2011-11-15,Saint Vincent and the Grenadines,Belize,Belize,Deon McCaulay,78,FALSE,FALSE
 2011-11-15,Saint Vincent and the Grenadines,Belize,Belize,Deon McCaulay,81,FALSE,TRUE
-2011-11-15,Singapore,China PR,China PR,Yu Hai,41,FALSE,FALSE
-2011-11-15,Singapore,China PR,China PR,Li Weifeng,56,FALSE,FALSE
-2011-11-15,Singapore,China PR,China PR,Zheng Zheng,73,FALSE,FALSE
-2011-11-15,Singapore,China PR,China PR,Zheng Zheng,81,FALSE,FALSE
+2011-11-15,Singapore,China,China,Yu Hai,41,FALSE,FALSE
+2011-11-15,Singapore,China,China,Li Weifeng,56,FALSE,FALSE
+2011-11-15,Singapore,China,China,Zheng Zheng,73,FALSE,FALSE
+2011-11-15,Singapore,China,China,Zheng Zheng,81,FALSE,FALSE
 2011-11-15,Tanzania,Chad,Chad,Mahamat Labbo,47,FALSE,FALSE
 2011-11-15,Thailand,Australia,Australia,Brett Holman,77,FALSE,FALSE
 2011-11-15,Togo,Guinea-Bissau,Togo,Jonas Mendes,3,TRUE,FALSE
@@ -31689,10 +31689,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2012-02-29,Bahrain,Indonesia,Bahrain,Ismail Abdullatif,75,FALSE,FALSE
 2012-02-29,Bahrain,Indonesia,Bahrain,Sayed Dhiya Saeed,82,FALSE,FALSE
 2012-02-29,Bahrain,Indonesia,Bahrain,Sayed Dhiya Saeed,90,FALSE,FALSE
-2012-02-29,China PR,Jordan,China PR,Hao Junmin,43,FALSE,FALSE
-2012-02-29,China PR,Jordan,China PR,Hao Junmin,69,FALSE,FALSE
-2012-02-29,China PR,Jordan,Jordan,Basem Fathi,85,FALSE,FALSE
-2012-02-29,China PR,Jordan,China PR,Yu Dabao,88,FALSE,FALSE
+2012-02-29,China,Jordan,China,Hao Junmin,43,FALSE,FALSE
+2012-02-29,China,Jordan,China,Hao Junmin,69,FALSE,FALSE
+2012-02-29,China,Jordan,Jordan,Basem Fathi,85,FALSE,FALSE
+2012-02-29,China,Jordan,China,Yu Dabao,88,FALSE,FALSE
 2012-02-29,Iran,Qatar,Iran,Ashkan Dejagah,4,FALSE,FALSE
 2012-02-29,Iran,Qatar,Qatar,Khalfan Ibrahim,9,FALSE,TRUE
 2012-02-29,Iran,Qatar,Iran,Ashkan Dejagah,50,FALSE,FALSE
@@ -34036,7 +34036,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-01-09,Australia,Kuwait,Australia,Massimo Luongo,45,FALSE,FALSE
 2015-01-09,Australia,Kuwait,Australia,Mile Jedinak,62,FALSE,TRUE
 2015-01-09,Australia,Kuwait,Australia,James Troisi,90,FALSE,FALSE
-2015-01-10,Saudi Arabia,China PR,China PR,Yu Hai,81,FALSE,FALSE
+2015-01-10,Saudi Arabia,China,China,Yu Hai,81,FALSE,FALSE
 2015-01-10,South Korea,Oman,South Korea,Cho Young-cheol,45,FALSE,FALSE
 2015-01-10,Uzbekistan,North Korea,Uzbekistan,Igor Sergeev,62,FALSE,FALSE
 2015-01-11,Iran,Bahrain,Iran,Ehsan Hajsafi,45,FALSE,FALSE
@@ -34056,9 +34056,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-01-13,Australia,Oman,Australia,Mark Milligan,45,FALSE,TRUE
 2015-01-13,Australia,Oman,Australia,Tomi Juric,70,FALSE,FALSE
 2015-01-13,Kuwait,South Korea,South Korea,Nam Tae-hee,36,FALSE,FALSE
-2015-01-14,China PR,Uzbekistan,Uzbekistan,Odil Ahmedov,23,FALSE,FALSE
-2015-01-14,China PR,Uzbekistan,China PR,Wu Xi,54,FALSE,FALSE
-2015-01-14,China PR,Uzbekistan,China PR,Sun Ke,68,FALSE,FALSE
+2015-01-14,China,Uzbekistan,Uzbekistan,Odil Ahmedov,23,FALSE,FALSE
+2015-01-14,China,Uzbekistan,China,Wu Xi,54,FALSE,FALSE
+2015-01-14,China,Uzbekistan,China,Sun Ke,68,FALSE,FALSE
 2015-01-14,North Korea,Saudi Arabia,North Korea,Ryang Yong-gi,12,FALSE,FALSE
 2015-01-14,North Korea,Saudi Arabia,Saudi Arabia,Naif Hazazi,37,FALSE,FALSE
 2015-01-14,North Korea,Saudi Arabia,Saudi Arabia,Mohammad Al-Sahlawi,52,FALSE,FALSE
@@ -34081,9 +34081,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-01-17,Equatorial Guinea,Congo,Equatorial Guinea,Emilio Nsue,16,FALSE,FALSE
 2015-01-17,Equatorial Guinea,Congo,Congo,Thievy Bifouma,87,FALSE,FALSE
 2015-01-17,Oman,Kuwait,Oman,Abdul Aziz Al-Muqbali,69,FALSE,FALSE
-2015-01-18,China PR,North Korea,China PR,Sun Ke,1,FALSE,FALSE
-2015-01-18,China PR,North Korea,China PR,Sun Ke,42,FALSE,FALSE
-2015-01-18,China PR,North Korea,North Korea,Gao Lin,57,TRUE,FALSE
+2015-01-18,China,North Korea,China,Sun Ke,1,FALSE,FALSE
+2015-01-18,China,North Korea,China,Sun Ke,42,FALSE,FALSE
+2015-01-18,China,North Korea,North Korea,Gao Lin,57,TRUE,FALSE
 2015-01-18,Tunisia,Cape Verde,Tunisia,Mohamed Ali Manser,70,FALSE,FALSE
 2015-01-18,Tunisia,Cape Verde,Cape Verde,Héldon Ramos,78,FALSE,TRUE
 2015-01-18,Uzbekistan,Saudi Arabia,Uzbekistan,Sardor Rashidov,2,FALSE,FALSE
@@ -34112,8 +34112,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-01-20,Mali,Cameroon,Mali,Sambou Yatabaré,71,FALSE,FALSE
 2015-01-20,Mali,Cameroon,Cameroon,Ambroise Oyongo,84,FALSE,FALSE
 2015-01-21,Gabon,Congo,Congo,Prince Oniangué,48,FALSE,FALSE
-2015-01-22,Australia,China PR,Australia,Tim Cahill,48,FALSE,FALSE
-2015-01-22,Australia,China PR,Australia,Tim Cahill,65,FALSE,FALSE
+2015-01-22,Australia,China,Australia,Tim Cahill,48,FALSE,FALSE
+2015-01-22,Australia,China,Australia,Tim Cahill,65,FALSE,FALSE
 2015-01-22,South Korea,Uzbekistan,South Korea,Son Heung-min,104,FALSE,FALSE
 2015-01-22,South Korea,Uzbekistan,South Korea,Son Heung-min,119,FALSE,FALSE
 2015-01-22,Zambia,Tunisia,Zambia,Emmanuel Mayuka,60,FALSE,FALSE
@@ -34507,12 +34507,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-06-16,Argentina,Uruguay,Argentina,Sergio Agüero,55,FALSE,FALSE
 2015-06-16,Bangladesh,Tajikistan,Bangladesh,Jahid Hasan Ameli,50,FALSE,FALSE
 2015-06-16,Bangladesh,Tajikistan,Tajikistan,Fatkhullo Fatkhuloev,88,FALSE,FALSE
-2015-06-16,Bhutan,China PR,China PR,Yang Xu,45,FALSE,FALSE
-2015-06-16,Bhutan,China PR,China PR,Wu Lei,55,FALSE,FALSE
-2015-06-16,Bhutan,China PR,China PR,Yang Xu,60,FALSE,FALSE
-2015-06-16,Bhutan,China PR,China PR,Yu Dabao,67,FALSE,FALSE
-2015-06-16,Bhutan,China PR,China PR,Yang Xu,76,FALSE,FALSE
-2015-06-16,Bhutan,China PR,China PR,Yu Dabao,83,FALSE,FALSE
+2015-06-16,Bhutan,China,China,Yang Xu,45,FALSE,FALSE
+2015-06-16,Bhutan,China,China,Wu Lei,55,FALSE,FALSE
+2015-06-16,Bhutan,China,China,Yang Xu,60,FALSE,FALSE
+2015-06-16,Bhutan,China,China,Yu Dabao,67,FALSE,FALSE
+2015-06-16,Bhutan,China,China,Yang Xu,76,FALSE,FALSE
+2015-06-16,Bhutan,China,China,Yu Dabao,83,FALSE,FALSE
 2015-06-16,Cambodia,Afghanistan,Afghanistan,Mustafa Zazai,86,FALSE,FALSE
 2015-06-16,Canada,Dominica,Canada,Tesho Akindele,4,FALSE,FALSE
 2015-06-16,Canada,Dominica,Canada,Cyle Larin,41,FALSE,FALSE
@@ -34881,9 +34881,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-09-08,Cambodia,Syria,Syria,Mahmoud Al-Mawas,44,FALSE,FALSE
 2015-09-08,Cambodia,Syria,Syria,Omar Midani,50,FALSE,FALSE
 2015-09-08,Cambodia,Syria,Syria,Osama Omari,81,FALSE,FALSE
-2015-09-08,China PR,Maldives,China PR,Yu Dabao,8,FALSE,FALSE
-2015-09-08,China PR,Maldives,China PR,Yu Dabao,57,FALSE,FALSE
-2015-09-08,China PR,Maldives,China PR,Zhang Linpeng,66,FALSE,FALSE
+2015-09-08,China,Maldives,China,Yu Dabao,8,FALSE,FALSE
+2015-09-08,China,Maldives,China,Yu Dabao,57,FALSE,FALSE
+2015-09-08,China,Maldives,China,Zhang Linpeng,66,FALSE,FALSE
 2015-09-08,El Salvador,Curaçao,El Salvador,Jonathan Barrios,9,FALSE,FALSE
 2015-09-08,England,Switzerland,England,Harry Kane,67,FALSE,FALSE
 2015-09-08,England,Switzerland,England,Wayne Rooney,84,FALSE,TRUE
@@ -35004,7 +35004,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-10-08,Oman,Iran,Oman,Saad Al-Mukhaini,52,FALSE,FALSE
 2015-10-08,Oman,Iran,Iran,Jalal Hosseini,70,FALSE,FALSE
 2015-10-08,Portugal,Denmark,Portugal,João Moutinho,66,FALSE,FALSE
-2015-10-08,Qatar,China PR,Qatar,Karim Boudiaf,22,FALSE,FALSE
+2015-10-08,Qatar,China,Qatar,Karim Boudiaf,22,FALSE,FALSE
 2015-10-08,Republic of Ireland,Germany,Republic of Ireland,Shane Long,70,FALSE,FALSE
 2015-10-08,Romania,Finland,Finland,Joel Pohjanpalo,67,FALSE,FALSE
 2015-10-08,Romania,Finland,Romania,Ovidiu Hoban,90,FALSE,FALSE
@@ -35283,18 +35283,18 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-11-12,Burundi,DR Congo,DR Congo,Firmin Ndombe Mubele,88,FALSE,FALSE
 2015-11-12,Chile,Colombia,Chile,Arturo Vidal,45,FALSE,FALSE
 2015-11-12,Chile,Colombia,Colombia,James Rodríguez,68,FALSE,FALSE
-2015-11-12,China PR,Bhutan,China PR,Mei Fang,10,FALSE,FALSE
-2015-11-12,China PR,Bhutan,China PR,Yang Xu,13,FALSE,FALSE
-2015-11-12,China PR,Bhutan,China PR,Yu Dabao,16,FALSE,FALSE
-2015-11-12,China PR,Bhutan,China PR,Yang Xu,21,FALSE,TRUE
-2015-11-12,China PR,Bhutan,China PR,Yu Hanchao,34,FALSE,FALSE
-2015-11-12,China PR,Bhutan,China PR,Yang Xu,37,FALSE,FALSE
-2015-11-12,China PR,Bhutan,China PR,Yu Dabao,39,FALSE,FALSE
-2015-11-12,China PR,Bhutan,China PR,Yang Xu,52,FALSE,FALSE
-2015-11-12,China PR,Bhutan,China PR,Wang Yongpo,66,FALSE,FALSE
-2015-11-12,China PR,Bhutan,China PR,Yu Hanchao,72,FALSE,FALSE
-2015-11-12,China PR,Bhutan,China PR,Wang Yongpo,81,FALSE,FALSE
-2015-11-12,China PR,Bhutan,China PR,Zhang Xizhe,88,FALSE,FALSE
+2015-11-12,China,Bhutan,China,Mei Fang,10,FALSE,FALSE
+2015-11-12,China,Bhutan,China,Yang Xu,13,FALSE,FALSE
+2015-11-12,China,Bhutan,China,Yu Dabao,16,FALSE,FALSE
+2015-11-12,China,Bhutan,China,Yang Xu,21,FALSE,TRUE
+2015-11-12,China,Bhutan,China,Yu Hanchao,34,FALSE,FALSE
+2015-11-12,China,Bhutan,China,Yang Xu,37,FALSE,FALSE
+2015-11-12,China,Bhutan,China,Yu Dabao,39,FALSE,FALSE
+2015-11-12,China,Bhutan,China,Yang Xu,52,FALSE,FALSE
+2015-11-12,China,Bhutan,China,Wang Yongpo,66,FALSE,FALSE
+2015-11-12,China,Bhutan,China,Yu Hanchao,72,FALSE,FALSE
+2015-11-12,China,Bhutan,China,Wang Yongpo,81,FALSE,FALSE
+2015-11-12,China,Bhutan,China,Zhang Xizhe,88,FALSE,FALSE
 2015-11-12,Ecuador,Uruguay,Ecuador,Felipe Caicedo,23,FALSE,FALSE
 2015-11-12,Ecuador,Uruguay,Uruguay,Edinson Cavani,49,FALSE,FALSE
 2015-11-12,Ecuador,Uruguay,Ecuador,Fidel Martínez,59,FALSE,FALSE
@@ -35565,10 +35565,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2016-03-24,Chile,Argentina,Chile,Felipe Gutiérrez,11,FALSE,FALSE
 2016-03-24,Chile,Argentina,Argentina,Ángel Di María,20,FALSE,FALSE
 2016-03-24,Chile,Argentina,Argentina,Gabriel Mercado,25,FALSE,FALSE
-2016-03-24,China PR,Maldives,China PR,Jiang Ning,2,FALSE,FALSE
-2016-03-24,China PR,Maldives,China PR,Yang Xu,12,FALSE,FALSE
-2016-03-24,China PR,Maldives,China PR,Jiang Ning,84,FALSE,FALSE
-2016-03-24,China PR,Maldives,China PR,Jiang Ning,90,FALSE,FALSE
+2016-03-24,China,Maldives,China,Jiang Ning,2,FALSE,FALSE
+2016-03-24,China,Maldives,China,Yang Xu,12,FALSE,FALSE
+2016-03-24,China,Maldives,China,Jiang Ning,84,FALSE,FALSE
+2016-03-24,China,Maldives,China,Jiang Ning,90,FALSE,FALSE
 2016-03-24,Ecuador,Paraguay,Ecuador,Enner Valencia,20,FALSE,FALSE
 2016-03-24,Ecuador,Paraguay,Paraguay,Darío Lezcano,38,FALSE,FALSE
 2016-03-24,Ecuador,Paraguay,Paraguay,Darío Lezcano,59,FALSE,FALSE
@@ -35649,8 +35649,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2016-03-29,Australia,Jordan,Australia,Tom Rogic,53,FALSE,FALSE
 2016-03-29,Australia,Jordan,Australia,Massimo Luongo,69,FALSE,FALSE
 2016-03-29,Australia,Jordan,Jordan,Abdallah Deeb,90,FALSE,FALSE
-2016-03-29,China PR,Qatar,China PR,Huang Bowen,57,FALSE,FALSE
-2016-03-29,China PR,Qatar,China PR,Wu Lei,88,FALSE,FALSE
+2016-03-29,China,Qatar,China,Huang Bowen,57,FALSE,FALSE
+2016-03-29,China,Qatar,China,Wu Lei,88,FALSE,FALSE
 2016-03-29,Colombia,Ecuador,Colombia,Carlos Bacca,15,FALSE,FALSE
 2016-03-29,Colombia,Ecuador,Colombia,Sebastián Pérez Cardona,48,FALSE,FALSE
 2016-03-29,Colombia,Ecuador,Colombia,Carlos Bacca,67,FALSE,FALSE
@@ -35987,11 +35987,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2016-09-01,Paraguay,Chile,Paraguay,Paulo da Silva,9,FALSE,FALSE
 2016-09-01,Paraguay,Chile,Chile,Arturo Vidal,37,FALSE,FALSE
 2016-09-01,Saudi Arabia,Thailand,Saudi Arabia,Nawaf Al-Abed,84,FALSE,TRUE
-2016-09-01,South Korea,China PR,South Korea,Zheng Zhi,21,TRUE,FALSE
-2016-09-01,South Korea,China PR,South Korea,Lee Chung-yong,63,FALSE,FALSE
-2016-09-01,South Korea,China PR,South Korea,Koo Ja-cheol,66,FALSE,FALSE
-2016-09-01,South Korea,China PR,China PR,Yu Hai,74,FALSE,FALSE
-2016-09-01,South Korea,China PR,China PR,Hao Junmin,77,FALSE,FALSE
+2016-09-01,South Korea,China,South Korea,Zheng Zhi,21,TRUE,FALSE
+2016-09-01,South Korea,China,South Korea,Lee Chung-yong,63,FALSE,FALSE
+2016-09-01,South Korea,China,South Korea,Koo Ja-cheol,66,FALSE,FALSE
+2016-09-01,South Korea,China,China,Yu Hai,74,FALSE,FALSE
+2016-09-01,South Korea,China,China,Hao Junmin,77,FALSE,FALSE
 2016-09-01,Uzbekistan,Syria,Uzbekistan,Alexander Geynrikh,73,FALSE,FALSE
 2016-09-02,El Salvador,Mexico,El Salvador,Alexander Larín,24,FALSE,TRUE
 2016-09-02,El Salvador,Mexico,Mexico,Héctor Moreno,52,FALSE,FALSE
@@ -36148,7 +36148,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2016-10-06,Brazil,Bolivia,Brazil,Filipe Luís,38,FALSE,FALSE
 2016-10-06,Brazil,Bolivia,Brazil,Gabriel Jesus,43,FALSE,FALSE
 2016-10-06,Brazil,Bolivia,Brazil,Roberto Firmino,75,FALSE,FALSE
-2016-10-06,China PR,Syria,Syria,Mahmoud Al-Mawas,54,FALSE,FALSE
+2016-10-06,China,Syria,Syria,Mahmoud Al-Mawas,54,FALSE,FALSE
 2016-10-06,Ecuador,Chile,Ecuador,Antonio Valencia,19,FALSE,FALSE
 2016-10-06,Ecuador,Chile,Ecuador,Cristian Ramírez,23,FALSE,FALSE
 2016-10-06,Ecuador,Chile,Ecuador,Felipe Caicedo,47,FALSE,FALSE
@@ -36380,8 +36380,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2016-10-11,Slovakia,Scotland,Slovakia,Róbert Mak,18,FALSE,FALSE
 2016-10-11,Slovakia,Scotland,Slovakia,Róbert Mak,56,FALSE,FALSE
 2016-10-11,Slovakia,Scotland,Slovakia,Adam Nemec,68,FALSE,FALSE
-2016-10-11,Uzbekistan,China PR,Uzbekistan,Marat Bikmaev,50,FALSE,FALSE
-2016-10-11,Uzbekistan,China PR,Uzbekistan,Otabek Shukurov,85,FALSE,FALSE
+2016-10-11,Uzbekistan,China,Uzbekistan,Marat Bikmaev,50,FALSE,FALSE
+2016-10-11,Uzbekistan,China,Uzbekistan,Otabek Shukurov,85,FALSE,FALSE
 2016-10-11,Venezuela,Brazil,Brazil,Gabriel Jesus,7,FALSE,FALSE
 2016-10-11,Venezuela,Brazil,Brazil,Willian,53,FALSE,FALSE
 2016-11-10,Brazil,Argentina,Brazil,Philippe Coutinho,25,FALSE,FALSE
@@ -36615,7 +36615,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2017-02-05,Egypt,Cameroon,Cameroon,Nicolas Nkoulou,59,FALSE,FALSE
 2017-02-05,Egypt,Cameroon,Cameroon,Vincent Aboubakar,88,FALSE,FALSE
 2017-03-23,Argentina,Chile,Argentina,Lionel Messi,15,FALSE,TRUE
-2017-03-23,China PR,South Korea,China PR,Yu Dabao,35,FALSE,FALSE
+2017-03-23,China,South Korea,China,Yu Dabao,35,FALSE,FALSE
 2017-03-23,Colombia,Bolivia,Colombia,James Rodríguez,83,FALSE,FALSE
 2017-03-23,Iraq,Australia,Australia,Mathew Leckie,40,FALSE,FALSE
 2017-03-23,Iraq,Australia,Iraq,Ahmed Yasin Ghani,76,FALSE,FALSE
@@ -36736,7 +36736,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2017-03-28,Ecuador,Colombia,Colombia,Juan Cuadrado,34,FALSE,FALSE
 2017-03-28,Honduras,Costa Rica,Honduras,Anthony Lozano,34,FALSE,FALSE
 2017-03-28,Honduras,Costa Rica,Costa Rica,Kendall Waston,68,FALSE,FALSE
-2017-03-28,Iran,China PR,Iran,Mehdi Taremi,46,FALSE,FALSE
+2017-03-28,Iran,China,Iran,Mehdi Taremi,46,FALSE,FALSE
 2017-03-28,Japan,Thailand,Japan,Shinji Kagawa,8,FALSE,FALSE
 2017-03-28,Japan,Thailand,Japan,Shinji Okazaki,19,FALSE,FALSE
 2017-03-28,Japan,Thailand,Japan,Yuya Kubo,57,FALSE,FALSE
@@ -36880,10 +36880,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2017-06-13,Qatar,South Korea,South Korea,Ki Sung-yueng,62,FALSE,FALSE
 2017-06-13,Qatar,South Korea,South Korea,Hwang Hee-chan,70,FALSE,FALSE
 2017-06-13,Qatar,South Korea,Qatar,Hassan Al-Haydos,75,FALSE,FALSE
-2017-06-13,Syria,China PR,Syria,Mahmoud Al-Mawas,12,FALSE,TRUE
-2017-06-13,Syria,China PR,China PR,Gao Lin,68,FALSE,TRUE
-2017-06-13,Syria,China PR,China PR,Wu Xi,75,FALSE,FALSE
-2017-06-13,Syria,China PR,Syria,Ahmad Al Saleh,90,FALSE,FALSE
+2017-06-13,Syria,China,Syria,Mahmoud Al-Mawas,12,FALSE,TRUE
+2017-06-13,Syria,China,China,Gao Lin,68,FALSE,TRUE
+2017-06-13,Syria,China,China,Wu Xi,75,FALSE,FALSE
+2017-06-13,Syria,China,Syria,Ahmad Al Saleh,90,FALSE,FALSE
 2017-06-13,Thailand,United Arab Emirates,Thailand,Mongkol Tossakrai,69,FALSE,FALSE
 2017-06-13,Thailand,United Arab Emirates,United Arab Emirates,Ali Mabkhout,90,FALSE,FALSE
 2017-06-17,Russia,New Zealand,Russia,Michael Boxall,31,TRUE,FALSE
@@ -37006,7 +37006,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2017-08-31,Chile,Paraguay,Paraguay,Arturo Vidal,24,TRUE,FALSE
 2017-08-31,Chile,Paraguay,Paraguay,Víctor Cáceres,55,FALSE,FALSE
 2017-08-31,Chile,Paraguay,Paraguay,Richard Ortiz,90,FALSE,FALSE
-2017-08-31,China PR,Uzbekistan,China PR,Gao Lin,84,FALSE,TRUE
+2017-08-31,China,Uzbekistan,China,Gao Lin,84,FALSE,TRUE
 2017-08-31,Cyprus,Bosnia and Herzegovina,Bosnia and Herzegovina,Toni Šunjić,33,FALSE,FALSE
 2017-08-31,Cyprus,Bosnia and Herzegovina,Bosnia and Herzegovina,Edin Višća,44,FALSE,FALSE
 2017-08-31,Cyprus,Bosnia and Herzegovina,Cyprus,Demetris Christofi,65,FALSE,FALSE
@@ -37245,9 +37245,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2017-09-05,Paraguay,Uruguay,Uruguay,Federico Valverde,76,FALSE,FALSE
 2017-09-05,Paraguay,Uruguay,Uruguay,Gustavo Gómez,80,TRUE,FALSE
 2017-09-05,Paraguay,Uruguay,Paraguay,Ángel Romero,88,FALSE,FALSE
-2017-09-05,Qatar,China PR,Qatar,Akram Afif,47,FALSE,FALSE
-2017-09-05,Qatar,China PR,China PR,Xiao Zhi,74,FALSE,FALSE
-2017-09-05,Qatar,China PR,China PR,Wu Lei,84,FALSE,FALSE
+2017-09-05,Qatar,China,Qatar,Akram Afif,47,FALSE,FALSE
+2017-09-05,Qatar,China,China,Xiao Zhi,74,FALSE,FALSE
+2017-09-05,Qatar,China,China,Wu Lei,84,FALSE,FALSE
 2017-09-05,Republic of Ireland,Serbia,Serbia,Aleksandar Kolarov,55,FALSE,FALSE
 2017-09-05,Saudi Arabia,Japan,Saudi Arabia,Fahad Al-Muwallad,63,FALSE,FALSE
 2017-09-05,Solomon Islands,New Zealand,New Zealand,Myer Bevan,14,FALSE,FALSE
@@ -38048,9 +38048,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-01-06,Thailand,India,India,Sunil Chhetri,46,FALSE,FALSE
 2019-01-06,Thailand,India,India,Anirudh Thapa,68,FALSE,FALSE
 2019-01-06,Thailand,India,India,Jeje Lalpekhlua,80,FALSE,FALSE
-2019-01-07,China PR,Kyrgyzstan,Kyrgyzstan,Akhlidin Israilov,42,FALSE,FALSE
-2019-01-07,China PR,Kyrgyzstan,China PR,Pavel Matyash,50,TRUE,FALSE
-2019-01-07,China PR,Kyrgyzstan,China PR,Yu Dabao,78,FALSE,FALSE
+2019-01-07,China,Kyrgyzstan,Kyrgyzstan,Akhlidin Israilov,42,FALSE,FALSE
+2019-01-07,China,Kyrgyzstan,China,Pavel Matyash,50,TRUE,FALSE
+2019-01-07,China,Kyrgyzstan,China,Yu Dabao,78,FALSE,FALSE
 2019-01-07,Iran,Yemen,Iran,Mehdi Taremi,12,FALSE,FALSE
 2019-01-07,Iran,Yemen,Iran,Ashkan Dejagah,23,FALSE,FALSE
 2019-01-07,Iran,Yemen,Iran,Mehdi Taremi,25,FALSE,FALSE
@@ -38085,9 +38085,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-01-11,Palestine,Australia,Australia,Jamie Maclaren,18,FALSE,FALSE
 2019-01-11,Palestine,Australia,Australia,Awer Mabil,20,FALSE,FALSE
 2019-01-11,Palestine,Australia,Australia,Apostolos Giannou,90,FALSE,FALSE
-2019-01-11,Philippines,China PR,China PR,Wu Lei,40,FALSE,FALSE
-2019-01-11,Philippines,China PR,China PR,Wu Lei,66,FALSE,FALSE
-2019-01-11,Philippines,China PR,China PR,Yu Dabao,80,FALSE,FALSE
+2019-01-11,Philippines,China,China,Wu Lei,40,FALSE,FALSE
+2019-01-11,Philippines,China,China,Wu Lei,66,FALSE,FALSE
+2019-01-11,Philippines,China,China,Yu Dabao,80,FALSE,FALSE
 2019-01-12,Lebanon,Saudi Arabia,Saudi Arabia,Fahad Al-Muwallad,12,FALSE,FALSE
 2019-01-12,Lebanon,Saudi Arabia,Saudi Arabia,Housain Al-Mogahwi,67,FALSE,FALSE
 2019-01-12,Vietnam,Iran,Iran,Sardar Azmoun,38,FALSE,FALSE
@@ -38118,8 +38118,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-01-16,Kyrgyzstan,Philippines,Kyrgyzstan,Vitalij Lux,51,FALSE,FALSE
 2019-01-16,Kyrgyzstan,Philippines,Kyrgyzstan,Vitalij Lux,77,FALSE,FALSE
 2019-01-16,Kyrgyzstan,Philippines,Philippines,Stephan Schröck,80,FALSE,FALSE
-2019-01-16,South Korea,China PR,South Korea,Hwang Ui-jo,14,FALSE,TRUE
-2019-01-16,South Korea,China PR,South Korea,Kim Min-jae,51,FALSE,FALSE
+2019-01-16,South Korea,China,South Korea,Hwang Ui-jo,14,FALSE,TRUE
+2019-01-16,South Korea,China,South Korea,Kim Min-jae,51,FALSE,FALSE
 2019-01-16,Vietnam,Yemen,Vietnam,Nguyễn Quang Hải,38,FALSE,FALSE
 2019-01-16,Vietnam,Yemen,Vietnam,Quế Ngọc Hải,64,FALSE,TRUE
 2019-01-17,Japan,Uzbekistan,Uzbekistan,Eldor Shomurodov,40,FALSE,FALSE
@@ -38140,9 +38140,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-01-20,Iran,Oman,Iran,Ashkan Dejagah,41,FALSE,TRUE
 2019-01-20,Jordan,Vietnam,Jordan,Baha' Abdel-Rahman,39,FALSE,FALSE
 2019-01-20,Jordan,Vietnam,Vietnam,Nguyễn Công Phượng,51,FALSE,FALSE
-2019-01-20,Thailand,China PR,Thailand,Supachai Jaided,31,FALSE,FALSE
-2019-01-20,Thailand,China PR,China PR,Xiao Zhi,67,FALSE,FALSE
-2019-01-20,Thailand,China PR,China PR,Gao Lin,71,FALSE,TRUE
+2019-01-20,Thailand,China,Thailand,Supachai Jaided,31,FALSE,FALSE
+2019-01-20,Thailand,China,China,Xiao Zhi,67,FALSE,FALSE
+2019-01-20,Thailand,China,China,Gao Lin,71,FALSE,TRUE
 2019-01-21,Japan,Saudi Arabia,Japan,Takehiro Tomiyasu,20,FALSE,FALSE
 2019-01-21,United Arab Emirates,Kyrgyzstan,United Arab Emirates,Khamis Esmaeel,14,FALSE,FALSE
 2019-01-21,United Arab Emirates,Kyrgyzstan,Kyrgyzstan,Mirlan Murzaev,26,FALSE,FALSE
@@ -38153,9 +38153,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-01-22,South Korea,Bahrain,South Korea,Hwang Hee-chan,43,FALSE,FALSE
 2019-01-22,South Korea,Bahrain,Bahrain,Mohamed Al-Romaihi,77,FALSE,FALSE
 2019-01-22,South Korea,Bahrain,South Korea,Kim Jin-su,105,FALSE,FALSE
-2019-01-24,China PR,Iran,Iran,Mehdi Taremi,18,FALSE,FALSE
-2019-01-24,China PR,Iran,Iran,Sardar Azmoun,31,FALSE,FALSE
-2019-01-24,China PR,Iran,Iran,Karim Ansarifard,90,FALSE,FALSE
+2019-01-24,China,Iran,Iran,Mehdi Taremi,18,FALSE,FALSE
+2019-01-24,China,Iran,Iran,Sardar Azmoun,31,FALSE,FALSE
+2019-01-24,China,Iran,Iran,Karim Ansarifard,90,FALSE,FALSE
 2019-01-24,Vietnam,Japan,Japan,Ritsu Dōan,57,FALSE,TRUE
 2019-01-25,South Korea,Qatar,Qatar,Abdulaziz Hatem,78,FALSE,FALSE
 2019-01-25,United Arab Emirates,Australia,United Arab Emirates,Ali Mabkhout,68,FALSE,FALSE
@@ -39053,11 +39053,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-09-10,Malaysia,United Arab Emirates,Malaysia,Syafiq Ahmad,1,FALSE,FALSE
 2019-09-10,Malaysia,United Arab Emirates,United Arab Emirates,Ali Mabkhout,43,FALSE,FALSE
 2019-09-10,Malaysia,United Arab Emirates,United Arab Emirates,Ali Mabkhout,75,FALSE,FALSE
-2019-09-10,Maldives,China PR,China PR,Wu Xi,34,FALSE,FALSE
-2019-09-10,Maldives,China PR,China PR,Wu Lei,45,FALSE,FALSE
-2019-09-10,Maldives,China PR,China PR,Yang Xu,64,FALSE,TRUE
-2019-09-10,Maldives,China PR,China PR,Elkeson,83,FALSE,TRUE
-2019-09-10,Maldives,China PR,China PR,Elkeson,90,FALSE,FALSE
+2019-09-10,Maldives,China,China,Wu Xi,34,FALSE,FALSE
+2019-09-10,Maldives,China,China,Wu Lei,45,FALSE,FALSE
+2019-09-10,Maldives,China,China,Yang Xu,64,FALSE,TRUE
+2019-09-10,Maldives,China,China,Elkeson,83,FALSE,TRUE
+2019-09-10,Maldives,China,China,Elkeson,90,FALSE,FALSE
 2019-09-10,Moldova,Turkey,Turkey,Cenk Tosun,37,FALSE,FALSE
 2019-09-10,Moldova,Turkey,Turkey,Deniz Türüç,57,FALSE,FALSE
 2019-09-10,Moldova,Turkey,Turkey,Cenk Tosun,79,FALSE,FALSE
@@ -39117,13 +39117,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-10-10,Belgium,San Marino,Belgium,Christian Benteke,79,FALSE,FALSE
 2019-10-10,Belgium,San Marino,Belgium,Yari Verschaeren,84,FALSE,TRUE
 2019-10-10,Belgium,San Marino,Belgium,Timothy Castagne,90,FALSE,FALSE
-2019-10-10,China PR,Guam,China PR,Yang Xu,6,FALSE,FALSE
-2019-10-10,China PR,Guam,China PR,Wu Lei,17,FALSE,FALSE
-2019-10-10,China PR,Guam,China PR,Yang Xu,19,FALSE,FALSE
-2019-10-10,China PR,Guam,China PR,Yang Xu,24,FALSE,FALSE
-2019-10-10,China PR,Guam,China PR,Yang Xu,31,FALSE,FALSE
-2019-10-10,China PR,Guam,China PR,Wu Xi,45,FALSE,FALSE
-2019-10-10,China PR,Guam,China PR,Elkeson,75,FALSE,FALSE
+2019-10-10,China,Guam,China,Yang Xu,6,FALSE,FALSE
+2019-10-10,China,Guam,China,Wu Lei,17,FALSE,FALSE
+2019-10-10,China,Guam,China,Yang Xu,19,FALSE,FALSE
+2019-10-10,China,Guam,China,Yang Xu,24,FALSE,FALSE
+2019-10-10,China,Guam,China,Yang Xu,31,FALSE,FALSE
+2019-10-10,China,Guam,China,Wu Xi,45,FALSE,FALSE
+2019-10-10,China,Guam,China,Elkeson,75,FALSE,FALSE
 2019-10-10,Croatia,Hungary,Croatia,Luka Modrić,5,FALSE,FALSE
 2019-10-10,Croatia,Hungary,Croatia,Bruno Petković,24,FALSE,FALSE
 2019-10-10,Croatia,Hungary,Croatia,Bruno Petković,42,FALSE,FALSE
@@ -39418,9 +39418,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-11-14,Serbia,Luxembourg,Luxembourg,Gerson Rodrigues,54,FALSE,FALSE
 2019-11-14,Serbia,Luxembourg,Serbia,Nemanja Radonjić,70,FALSE,FALSE
 2019-11-14,Serbia,Luxembourg,Luxembourg,David Turpel,75,FALSE,FALSE
-2019-11-14,Syria,China PR,Syria,Osama Omari,19,FALSE,FALSE
-2019-11-14,Syria,China PR,China PR,Wu Lei,30,FALSE,FALSE
-2019-11-14,Syria,China PR,Syria,Zhang Linpeng,76,TRUE,FALSE
+2019-11-14,Syria,China,Syria,Osama Omari,19,FALSE,FALSE
+2019-11-14,Syria,China,China,Wu Lei,30,FALSE,FALSE
+2019-11-14,Syria,China,Syria,Zhang Linpeng,76,TRUE,FALSE
 2019-11-14,Turkmenistan,North Korea,Turkmenistan,Mihail Titow,23,FALSE,FALSE
 2019-11-14,Turkmenistan,North Korea,Turkmenistan,Arslanmyrat Amanow,73,FALSE,FALSE
 2019-11-14,Turkmenistan,North Korea,Turkmenistan,Wahyt Orazsähedow,88,FALSE,FALSE
@@ -40434,13 +40434,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-05-28,Japan,Myanmar,Japan,Daichi Kamada,84,FALSE,FALSE
 2021-05-28,Japan,Myanmar,Japan,Yuya Osako,88,FALSE,FALSE
 2021-05-28,Japan,Myanmar,Japan,Ko Itakura,90,FALSE,FALSE
-2021-05-30,China PR,Guam,China PR,Wu Lei,20,FALSE,TRUE
-2021-05-30,China PR,Guam,China PR,Jin Jingdao,39,FALSE,FALSE
-2021-05-30,China PR,Guam,China PR,Wu Lei,55,FALSE,FALSE
-2021-05-30,China PR,Guam,China PR,Wu Xi,61,FALSE,FALSE
-2021-05-30,China PR,Guam,China PR,Elkeson,65,FALSE,FALSE
-2021-05-30,China PR,Guam,China PR,Alan Carvalho,83,FALSE,FALSE
-2021-05-30,China PR,Guam,China PR,Alan Carvalho,87,FALSE,FALSE
+2021-05-30,China,Guam,China,Wu Lei,20,FALSE,TRUE
+2021-05-30,China,Guam,China,Jin Jingdao,39,FALSE,FALSE
+2021-05-30,China,Guam,China,Wu Lei,55,FALSE,FALSE
+2021-05-30,China,Guam,China,Wu Xi,61,FALSE,FALSE
+2021-05-30,China,Guam,China,Elkeson,65,FALSE,FALSE
+2021-05-30,China,Guam,China,Alan Carvalho,83,FALSE,FALSE
+2021-05-30,China,Guam,China,Alan Carvalho,87,FALSE,FALSE
 2021-06-01,Lithuania,Estonia,Estonia,Henri Anier,59,FALSE,FALSE
 2021-06-02,Cayman Islands,Aruba,Cayman Islands,Jonah Ebanks,30,FALSE,TRUE
 2021-06-02,Cayman Islands,Aruba,Aruba,Joshua John,40,FALSE,FALSE
@@ -40610,8 +40610,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-06-07,Bahrain,Iran,Iran,Mehdi Taremi,79,FALSE,FALSE
 2021-06-07,Bangladesh,India,India,Sunil Chhetri,79,FALSE,FALSE
 2021-06-07,Bangladesh,India,India,Sunil Chhetri,90,FALSE,FALSE
-2021-06-07,China PR,Philippines,China PR,Wu Lei,56,FALSE,TRUE
-2021-06-07,China PR,Philippines,China PR,Wu Xinghan,65,FALSE,FALSE
+2021-06-07,China,Philippines,China,Wu Lei,56,FALSE,TRUE
+2021-06-07,China,Philippines,China,Wu Xinghan,65,FALSE,FALSE
 2021-06-07,Guam,Syria,Syria,Mardik Mardikian,6,FALSE,FALSE
 2021-06-07,Guam,Syria,Syria,Mardik Mardikian,9,FALSE,FALSE
 2021-06-07,Guam,Syria,Syria,Mahmoud Al-Mawas,84,FALSE,FALSE
@@ -40703,11 +40703,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-06-11,Cambodia,Iran,Iran,Kaveh Rezaei,80,FALSE,FALSE
 2021-06-11,Cambodia,Iran,Iran,Mehdi Ghayedi,84,FALSE,FALSE
 2021-06-11,Cambodia,Iran,Iran,Kaveh Rezaei,87,FALSE,FALSE
-2021-06-11,China PR,Maldives,China PR,Liu Binbin,5,FALSE,FALSE
-2021-06-11,China PR,Maldives,China PR,Wu Lei,30,FALSE,FALSE
-2021-06-11,China PR,Maldives,China PR,Alan Carvalho,68,FALSE,FALSE
-2021-06-11,China PR,Maldives,China PR,Zhang Yuning,69,FALSE,FALSE
-2021-06-11,China PR,Maldives,China PR,Tan Long,79,FALSE,FALSE
+2021-06-11,China,Maldives,China,Liu Binbin,5,FALSE,FALSE
+2021-06-11,China,Maldives,China,Wu Lei,30,FALSE,FALSE
+2021-06-11,China,Maldives,China,Alan Carvalho,68,FALSE,FALSE
+2021-06-11,China,Maldives,China,Zhang Yuning,69,FALSE,FALSE
+2021-06-11,China,Maldives,China,Tan Long,79,FALSE,FALSE
 2021-06-11,Hong Kong,Iraq,Iraq,Fung Hing Wa,11,TRUE,FALSE
 2021-06-11,Italy,Turkey,Italy,Merih Demiral,53,TRUE,FALSE
 2021-06-11,Italy,Turkey,Italy,Ciro Immobile,66,FALSE,FALSE
@@ -40792,10 +40792,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-06-15,Canada,Haiti,Canada,Josué Duverger,46,TRUE,FALSE
 2021-06-15,Canada,Haiti,Canada,Cyle Larin,74,FALSE,FALSE
 2021-06-15,Canada,Haiti,Canada,Junior Hoilett,89,FALSE,FALSE
-2021-06-15,China PR,Syria,China PR,Zhang Xizhe,43,FALSE,FALSE
-2021-06-15,China PR,Syria,Syria,Aias Aosman,50,FALSE,FALSE
-2021-06-15,China PR,Syria,China PR,Wu Lei,69,FALSE,TRUE
-2021-06-15,China PR,Syria,China PR,Zhang Yuning,90,FALSE,FALSE
+2021-06-15,China,Syria,China,Zhang Xizhe,43,FALSE,FALSE
+2021-06-15,China,Syria,Syria,Aias Aosman,50,FALSE,FALSE
+2021-06-15,China,Syria,China,Wu Lei,69,FALSE,TRUE
+2021-06-15,China,Syria,China,Zhang Yuning,90,FALSE,FALSE
 2021-06-15,El Salvador,Saint Kitts and Nevis,El Salvador,Joshua Pérez,24,FALSE,FALSE
 2021-06-15,El Salvador,Saint Kitts and Nevis,El Salvador,Gerson Mayen,87,FALSE,FALSE
 2021-06-15,Germany,France,France,Mats Hummels,20,TRUE,FALSE
@@ -41146,9 +41146,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-09-02,Algeria,Djibouti,Algeria,Ramiz Zerrouki,69,FALSE,FALSE
 2021-09-02,Andorra,San Marino,Andorra,Marc Vales,18,FALSE,FALSE
 2021-09-02,Andorra,San Marino,Andorra,Marc Vales,24,FALSE,FALSE
-2021-09-02,Australia,China PR,Australia,Awer Mabil,24,FALSE,FALSE
-2021-09-02,Australia,China PR,Australia,Martin Boyle,26,FALSE,FALSE
-2021-09-02,Australia,China PR,Australia,Mitchell Duke,70,FALSE,FALSE
+2021-09-02,Australia,China,Australia,Awer Mabil,24,FALSE,FALSE
+2021-09-02,Australia,China,Australia,Martin Boyle,26,FALSE,FALSE
+2021-09-02,Australia,China,Australia,Mitchell Duke,70,FALSE,FALSE
 2021-09-02,Bolivia,Colombia,Colombia,Roger Martínez,69,FALSE,FALSE
 2021-09-02,Bolivia,Colombia,Bolivia,Fernando Saucedo,83,FALSE,FALSE
 2021-09-02,Canada,Honduras,Honduras,Alexander López,40,FALSE,TRUE
@@ -41342,7 +41342,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-09-07,Cape Verde,Nigeria,Cape Verde,Dylan Tavares,19,FALSE,FALSE
 2021-09-07,Cape Verde,Nigeria,Nigeria,Victor Osimhen,30,FALSE,FALSE
 2021-09-07,Cape Verde,Nigeria,Nigeria,Kenny Rocha Santos,76,TRUE,FALSE
-2021-09-07,China PR,Japan,Japan,Yuya Osako,40,FALSE,FALSE
+2021-09-07,China,Japan,Japan,Yuya Osako,40,FALSE,FALSE
 2021-09-07,Congo,Senegal,Senegal,Boulaye Dia,27,FALSE,FALSE
 2021-09-07,Congo,Senegal,Congo,Silvère Ganvoula,45,FALSE,TRUE
 2021-09-07,Congo,Senegal,Senegal,Ismaïla Sarr,82,FALSE,FALSE
@@ -41474,11 +41474,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-10-07,Belgium,France,France,Karim Benzema,62,FALSE,FALSE
 2021-10-07,Belgium,France,France,Kylian Mbappé,69,FALSE,TRUE
 2021-10-07,Belgium,France,France,Théo Hernandez,90,FALSE,FALSE
-2021-10-07,China PR,Vietnam,China PR,Zhang Yuning,53,FALSE,FALSE
-2021-10-07,China PR,Vietnam,China PR,Wu Lei,75,FALSE,FALSE
-2021-10-07,China PR,Vietnam,Vietnam,Hồ Tấn Tài,80,FALSE,FALSE
-2021-10-07,China PR,Vietnam,China PR,Wu Lei,90,FALSE,FALSE
-2021-10-07,China PR,Vietnam,Vietnam,Nguyễn Tiến Linh,90,FALSE,FALSE
+2021-10-07,China,Vietnam,China,Zhang Yuning,53,FALSE,FALSE
+2021-10-07,China,Vietnam,China,Wu Lei,75,FALSE,FALSE
+2021-10-07,China,Vietnam,Vietnam,Hồ Tấn Tài,80,FALSE,FALSE
+2021-10-07,China,Vietnam,China,Wu Lei,90,FALSE,FALSE
+2021-10-07,China,Vietnam,Vietnam,Nguyễn Tiến Linh,90,FALSE,FALSE
 2021-10-07,DR Congo,Madagascar,DR Congo,Chadrac Akolo,35,FALSE,FALSE
 2021-10-07,DR Congo,Madagascar,DR Congo,Dieumerci Mbokani,78,FALSE,TRUE
 2021-10-07,Ecuador,Bolivia,Ecuador,Michael Estrada,13,FALSE,FALSE
@@ -41761,11 +41761,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-10-12,San Marino,Andorra,Andorra,Marc Pujol,10,FALSE,FALSE
 2021-10-12,San Marino,Andorra,Andorra,Sergi Moreno,53,FALSE,FALSE
 2021-10-12,San Marino,Andorra,Andorra,Ricard Fernández,89,FALSE,FALSE
-2021-10-12,Saudi Arabia,China PR,Saudi Arabia,Sami Al-Najei,15,FALSE,FALSE
-2021-10-12,Saudi Arabia,China PR,Saudi Arabia,Sami Al-Najei,38,FALSE,FALSE
-2021-10-12,Saudi Arabia,China PR,China PR,Aloísio,46,FALSE,FALSE
-2021-10-12,Saudi Arabia,China PR,Saudi Arabia,Firas Al-Buraikan,72,FALSE,FALSE
-2021-10-12,Saudi Arabia,China PR,China PR,Wu Xi,87,FALSE,FALSE
+2021-10-12,Saudi Arabia,China,Saudi Arabia,Sami Al-Najei,15,FALSE,FALSE
+2021-10-12,Saudi Arabia,China,Saudi Arabia,Sami Al-Najei,38,FALSE,FALSE
+2021-10-12,Saudi Arabia,China,China,Aloísio,46,FALSE,FALSE
+2021-10-12,Saudi Arabia,China,Saudi Arabia,Firas Al-Buraikan,72,FALSE,FALSE
+2021-10-12,Saudi Arabia,China,China,Wu Xi,87,FALSE,FALSE
 2021-10-12,Serbia,Azerbaijan,Serbia,Dušan Vlahović,30,FALSE,TRUE
 2021-10-12,Serbia,Azerbaijan,Azerbaijan,Emin Mahmudov,45,FALSE,FALSE
 2021-10-12,Serbia,Azerbaijan,Serbia,Dušan Vlahović,53,FALSE,FALSE
@@ -41822,8 +41822,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-11-11,Benin,Madagascar,Benin,Jodel Dossou,43,FALSE,FALSE
 2021-11-11,Benin,Madagascar,Benin,Steve Mounié,79,FALSE,FALSE
 2021-11-11,Brazil,Colombia,Brazil,Lucas Paquetá,72,FALSE,FALSE
-2021-11-11,China PR,Oman,China PR,Wu Lei,21,FALSE,FALSE
-2021-11-11,China PR,Oman,Oman,Amjad Al-Harthi,75,FALSE,FALSE
+2021-11-11,China,Oman,China,Wu Lei,21,FALSE,FALSE
+2021-11-11,China,Oman,Oman,Amjad Al-Harthi,75,FALSE,FALSE
 2021-11-11,Congo,Namibia,Namibia,Peter Shalulile,42,FALSE,FALSE
 2021-11-11,Congo,Namibia,Congo,Guy Mbenza,54,FALSE,FALSE
 2021-11-11,Ecuador,Venezuela,Ecuador,Piero Hincapié,41,FALSE,FALSE
@@ -42082,8 +42082,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-11-16,Canada,Mexico,Mexico,Héctor Herrera,90,FALSE,FALSE
 2021-11-16,Chile,Ecuador,Ecuador,Pervis Estupiñán,9,FALSE,FALSE
 2021-11-16,Chile,Ecuador,Ecuador,Moisés Caicedo,90,FALSE,FALSE
-2021-11-16,China PR,Australia,Australia,Mitchell Duke,38,FALSE,FALSE
-2021-11-16,China PR,Australia,China PR,Wu Lei,71,FALSE,TRUE
+2021-11-16,China,Australia,Australia,Mitchell Duke,38,FALSE,FALSE
+2021-11-16,China,Australia,China,Wu Lei,71,FALSE,TRUE
 2021-11-16,Costa Rica,Honduras,Costa Rica,Óscar Duarte,20,FALSE,FALSE
 2021-11-16,Costa Rica,Honduras,Honduras,Romell Quioto,35,FALSE,FALSE
 2021-11-16,Costa Rica,Honduras,Costa Rica,Gerson Torres,90,FALSE,FALSE
@@ -42236,8 +42236,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2022-01-27,Jamaica,Mexico,Jamaica,Daniel Johnson,50,FALSE,FALSE
 2022-01-27,Jamaica,Mexico,Mexico,Henry Martín,82,FALSE,FALSE
 2022-01-27,Jamaica,Mexico,Mexico,Alexis Vega,83,FALSE,FALSE
-2022-01-27,Japan,China PR,Japan,Yuya Osako,13,FALSE,TRUE
-2022-01-27,Japan,China PR,Japan,Junya Ito,61,FALSE,FALSE
+2022-01-27,Japan,China,Japan,Yuya Osako,13,FALSE,TRUE
+2022-01-27,Japan,China,Japan,Junya Ito,61,FALSE,FALSE
 2022-01-27,Lebanon,South Korea,South Korea,Cho Gue-sung,45,FALSE,FALSE
 2022-01-27,Paraguay,Uruguay,Uruguay,Luis Suárez,50,FALSE,FALSE
 2022-01-27,Saudi Arabia,Oman,Saudi Arabia,Firas Al-Buraikan,48,FALSE,FALSE
@@ -42297,10 +42297,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2022-02-01,Uruguay,Venezuela,Uruguay,Edinson Cavani,45,FALSE,FALSE
 2022-02-01,Uruguay,Venezuela,Uruguay,Luis Suárez,53,FALSE,TRUE
 2022-02-01,Uruguay,Venezuela,Venezuela,Josef Martínez,65,FALSE,FALSE
-2022-02-01,Vietnam,China PR,Vietnam,Hồ Tấn Tài,9,FALSE,FALSE
-2022-02-01,Vietnam,China PR,Vietnam,Nguyễn Tiến Linh,16,FALSE,FALSE
-2022-02-01,Vietnam,China PR,Vietnam,Phan Văn Đức,76,FALSE,FALSE
-2022-02-01,Vietnam,China PR,China PR,Xu Xin,90,FALSE,FALSE
+2022-02-01,Vietnam,China,Vietnam,Hồ Tấn Tài,9,FALSE,FALSE
+2022-02-01,Vietnam,China,Vietnam,Nguyễn Tiến Linh,16,FALSE,FALSE
+2022-02-01,Vietnam,China,Vietnam,Phan Văn Đức,76,FALSE,FALSE
+2022-02-01,Vietnam,China,China,Xu Xin,90,FALSE,FALSE
 2022-02-02,Burkina Faso,Senegal,Senegal,Abdou Diallo,70,FALSE,FALSE
 2022-02-02,Burkina Faso,Senegal,Senegal,Idrissa Gueye,76,FALSE,FALSE
 2022-02-02,Burkina Faso,Senegal,Burkina Faso,Blati Touré,82,FALSE,FALSE
@@ -42335,8 +42335,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2022-03-24,Brazil,Chile,Brazil,Vinícius Júnior,45,FALSE,FALSE
 2022-03-24,Brazil,Chile,Brazil,Philippe Coutinho,72,FALSE,TRUE
 2022-03-24,Brazil,Chile,Brazil,Richarlison,90,FALSE,FALSE
-2022-03-24,China PR,Saudi Arabia,Saudi Arabia,Saleh Al-Shehri,45,FALSE,FALSE
-2022-03-24,China PR,Saudi Arabia,China PR,Zhu Chenjie,82,FALSE,TRUE
+2022-03-24,China,Saudi Arabia,Saudi Arabia,Saleh Al-Shehri,45,FALSE,FALSE
+2022-03-24,China,Saudi Arabia,China,Zhu Chenjie,82,FALSE,TRUE
 2022-03-24,Colombia,Bolivia,Colombia,Luis Díaz,39,FALSE,FALSE
 2022-03-24,Colombia,Bolivia,Colombia,Miguel Borja,72,FALSE,FALSE
 2022-03-24,Colombia,Bolivia,Colombia,Mateus Uribe,90,FALSE,FALSE
@@ -42437,8 +42437,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2022-03-29,Morocco,DR Congo,DR Congo,Ben Malango,77,FALSE,FALSE
 2022-03-29,Nigeria,Ghana,Ghana,Thomas Partey,10,FALSE,FALSE
 2022-03-29,Nigeria,Ghana,Nigeria,William Troost-Ekong,22,FALSE,TRUE
-2022-03-29,Oman,China PR,Oman,Arshad Al-Alawi,12,FALSE,FALSE
-2022-03-29,Oman,China PR,Oman,Abdullah Fawaz,74,FALSE,FALSE
+2022-03-29,Oman,China,Oman,Arshad Al-Alawi,12,FALSE,FALSE
+2022-03-29,Oman,China,Oman,Abdullah Fawaz,74,FALSE,FALSE
 2022-03-29,Peru,Paraguay,Peru,Gianluca Lapadula,5,FALSE,FALSE
 2022-03-29,Peru,Paraguay,Peru,Yoshimar Yotún,42,FALSE,FALSE
 2022-03-29,Poland,Sweden,Poland,Robert Lewandowski,49,FALSE,TRUE
@@ -43916,9 +43916,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-11-16,Syria,North Korea,Syria,Omar Al Somah,37,FALSE,TRUE
 2023-11-16,Tajikistan,Jordan,Tajikistan,Shahrom Samiev,89,FALSE,FALSE
 2023-11-16,Tajikistan,Jordan,Jordan,Yazan Al-Naimat,90,FALSE,FALSE
-2023-11-16,Thailand,China PR,Thailand,Sarach Yooyen,23,FALSE,FALSE
-2023-11-16,Thailand,China PR,China PR,Wu Lei,29,FALSE,FALSE
-2023-11-16,Thailand,China PR,China PR,Wang Shangyuan,74,FALSE,FALSE
+2023-11-16,Thailand,China,Thailand,Sarach Yooyen,23,FALSE,FALSE
+2023-11-16,Thailand,China,China,Wu Lei,29,FALSE,FALSE
+2023-11-16,Thailand,China,China,Wang Shangyuan,74,FALSE,FALSE
 2023-11-16,Turkmenistan,Uzbekistan,Turkmenistan,Meýlis Durdyýew,44,FALSE,FALSE
 2023-11-16,Turkmenistan,Uzbekistan,Uzbekistan,Otabek Shukurov,57,FALSE,FALSE
 2023-11-16,Turkmenistan,Uzbekistan,Uzbekistan,Otabek Shukurov,77,FALSE,FALSE
@@ -44105,9 +44105,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-11-21,Bangladesh,Lebanon,Bangladesh,Shekh Morsalin,72,FALSE,FALSE
 2023-11-21,Botswana,Guinea,Botswana,Kabelo Seakanyeng,79,FALSE,FALSE
 2023-11-21,Brazil,Argentina,Argentina,Nicolás Otamendi,63,FALSE,FALSE
-2023-11-21,China PR,South Korea,South Korea,Son Heung-min,11,FALSE,TRUE
-2023-11-21,China PR,South Korea,South Korea,Son Heung-min,45,FALSE,FALSE
-2023-11-21,China PR,South Korea,South Korea,Jung Seung-hyun,87,FALSE,FALSE
+2023-11-21,China,South Korea,South Korea,Son Heung-min,11,FALSE,TRUE
+2023-11-21,China,South Korea,South Korea,Son Heung-min,45,FALSE,FALSE
+2023-11-21,China,South Korea,South Korea,Jung Seung-hyun,87,FALSE,FALSE
 2023-11-21,Comoros,Ghana,Comoros,Myziane Maolida,43,FALSE,FALSE
 2023-11-21,Croatia,Armenia,Croatia,Ante Budimir,43,FALSE,FALSE
 2023-11-21,Ecuador,Chile,Ecuador,Ángel Mena,21,FALSE,FALSE
@@ -44327,7 +44327,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-01-22,Mozambique,Ghana,Ghana,Jordan Ayew,70,FALSE,TRUE
 2024-01-22,Mozambique,Ghana,Mozambique,Geny Catamo,90,FALSE,TRUE
 2024-01-22,Mozambique,Ghana,Mozambique,Reinildo Mandava,90,FALSE,FALSE
-2024-01-22,Qatar,China PR,Qatar,Hassan Al-Haydos,66,FALSE,FALSE
+2024-01-22,Qatar,China,Qatar,Hassan Al-Haydos,66,FALSE,FALSE
 2024-01-22,Tajikistan,Lebanon,Lebanon,Bassel Jradi,47,FALSE,FALSE
 2024-01-22,Tajikistan,Lebanon,Tajikistan,Parvizdzhon Umarbayev,80,FALSE,FALSE
 2024-01-22,Tajikistan,Lebanon,Tajikistan,Nuriddin Khamrokulov,90,FALSE,FALSE
@@ -44499,10 +44499,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-03-21,Qatar,Kuwait,Qatar,Ahmed Al-Rawi,51,FALSE,FALSE
 2024-03-21,Qatar,Kuwait,Qatar,Akram Afif,68,FALSE,FALSE
 2024-03-21,Saudi Arabia,Tajikistan,Saudi Arabia,Salem Al-Dawsari,23,FALSE,FALSE
-2024-03-21,Singapore,China PR,China PR,Wu Lei,10,FALSE,FALSE
-2024-03-21,Singapore,China PR,China PR,Wu Lei,45,FALSE,FALSE
-2024-03-21,Singapore,China PR,Singapore,Faris Ramli,53,FALSE,FALSE
-2024-03-21,Singapore,China PR,Singapore,Jacob Mahler,81,FALSE,FALSE
+2024-03-21,Singapore,China,China,Wu Lei,10,FALSE,FALSE
+2024-03-21,Singapore,China,China,Wu Lei,45,FALSE,FALSE
+2024-03-21,Singapore,China,Singapore,Faris Ramli,53,FALSE,FALSE
+2024-03-21,Singapore,China,Singapore,Jacob Mahler,81,FALSE,FALSE
 2024-03-21,South Korea,Thailand,South Korea,Son Heung-min,42,FALSE,FALSE
 2024-03-21,South Korea,Thailand,Thailand,Suphanat Mueanta,61,FALSE,FALSE
 2024-03-21,Taiwan,Kyrgyzstan,Kyrgyzstan,Valery Kichin,54,FALSE,TRUE
@@ -44532,11 +44532,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-03-26,Bahrain,Nepal,Bahrain,Abdulla Yusuf Helal,18,FALSE,TRUE
 2024-03-26,Bahrain,Nepal,Bahrain,Kamil Al-Aswad,36,FALSE,FALSE
 2024-03-26,Bangladesh,Palestine,Palestine,Michel Termanini,90,FALSE,FALSE
-2024-03-26,China PR,Singapore,China PR,Wu Lei,21,FALSE,FALSE
-2024-03-26,China PR,Singapore,Singapore,Faris Ramli,22,FALSE,FALSE
-2024-03-26,China PR,Singapore,China PR,Fernandinho,65,FALSE,TRUE
-2024-03-26,China PR,Singapore,China PR,Wu Lei,85,FALSE,FALSE
-2024-03-26,China PR,Singapore,China PR,Wei Shihao,90,FALSE,FALSE
+2024-03-26,China,Singapore,China,Wu Lei,21,FALSE,FALSE
+2024-03-26,China,Singapore,Singapore,Faris Ramli,22,FALSE,FALSE
+2024-03-26,China,Singapore,China,Fernandinho,65,FALSE,TRUE
+2024-03-26,China,Singapore,China,Wu Lei,85,FALSE,FALSE
+2024-03-26,China,Singapore,China,Wei Shihao,90,FALSE,FALSE
 2024-03-26,India,Afghanistan,India,Sunil Chhetri,38,FALSE,TRUE
 2024-03-26,India,Afghanistan,Afghanistan,Rahmat Akbari,70,FALSE,FALSE
 2024-03-26,India,Afghanistan,Afghanistan,Sharif Mukhammad,88,FALSE,TRUE
@@ -44633,8 +44633,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-06-06,Bangladesh,Australia,Australia,Ajdin Hrustic,29,FALSE,FALSE
 2024-06-06,Bangladesh,Australia,Australia,Kusini Yengi,62,FALSE,FALSE
 2024-06-06,Benin,Rwanda,Benin,Dodo Dokou,37,FALSE,FALSE
-2024-06-06,China PR,Thailand,Thailand,Supachok Sarachat,20,FALSE,FALSE
-2024-06-06,China PR,Thailand,China PR,Zhang Yuning,79,FALSE,FALSE
+2024-06-06,China,Thailand,Thailand,Supachok Sarachat,20,FALSE,FALSE
+2024-06-06,China,Thailand,China,Zhang Yuning,79,FALSE,FALSE
 2024-06-06,Costa Rica,Saint Kitts and Nevis,Costa Rica,Orlando Galo,40,FALSE,FALSE
 2024-06-06,Costa Rica,Saint Kitts and Nevis,Costa Rica,Orlando Galo,50,FALSE,FALSE
 2024-06-06,Costa Rica,Saint Kitts and Nevis,Costa Rica,Josimar Alcócer,83,FALSE,FALSE
@@ -44916,7 +44916,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-06-11,South Africa,Zimbabwe,Zimbabwe,Tawanda Chirewa,2,FALSE,FALSE
 2024-06-11,South Africa,Zimbabwe,South Africa,Thapelo Morena,55,FALSE,FALSE
 2024-06-11,South Africa,Zimbabwe,South Africa,Thapelo Morena,76,FALSE,FALSE
-2024-06-11,South Korea,China PR,South Korea,Lee Kang-in,61,FALSE,FALSE
+2024-06-11,South Korea,China,South Korea,Lee Kang-in,61,FALSE,FALSE
 2024-06-11,South Sudan,Sudan,Sudan,Walieldin Khedr,45,FALSE,FALSE
 2024-06-11,South Sudan,Sudan,Sudan,Yaser Muzmel,51,FALSE,FALSE
 2024-06-11,South Sudan,Sudan,Sudan,Mohamed Abdelrahman,78,FALSE,FALSE
@@ -45184,13 +45184,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-09-05,Estonia,Slovakia,Slovakia,Tomáš Suslov,70,FALSE,FALSE
 2024-09-05,Iran,Kyrgyzstan,Iran,Mehdi Taremi,34,FALSE,FALSE
 2024-09-05,Iraq,Oman,Iraq,Aymen Hussein,13,FALSE,FALSE
-2024-09-05,Japan,China PR,Japan,Wataru Endo,12,FALSE,FALSE
-2024-09-05,Japan,China PR,Japan,Kaoru Mitoma,45,FALSE,FALSE
-2024-09-05,Japan,China PR,Japan,Takumi Minamino,52,FALSE,FALSE
-2024-09-05,Japan,China PR,Japan,Takumi Minamino,58,FALSE,FALSE
-2024-09-05,Japan,China PR,Japan,Junya Itō,77,FALSE,FALSE
-2024-09-05,Japan,China PR,Japan,Daizen Maeda,87,FALSE,FALSE
-2024-09-05,Japan,China PR,Japan,Takefusa Kubo,90,FALSE,FALSE
+2024-09-05,Japan,China,Japan,Wataru Endo,12,FALSE,FALSE
+2024-09-05,Japan,China,Japan,Kaoru Mitoma,45,FALSE,FALSE
+2024-09-05,Japan,China,Japan,Takumi Minamino,52,FALSE,FALSE
+2024-09-05,Japan,China,Japan,Takumi Minamino,58,FALSE,FALSE
+2024-09-05,Japan,China,Japan,Junya Itō,77,FALSE,FALSE
+2024-09-05,Japan,China,Japan,Daizen Maeda,87,FALSE,FALSE
+2024-09-05,Japan,China,Japan,Takefusa Kubo,90,FALSE,FALSE
 2024-09-05,Jordan,Kuwait,Jordan,Musa Al-Taamari,14,FALSE,FALSE
 2024-09-05,Jordan,Kuwait,Kuwait,Yousef Nasser,90,FALSE,TRUE
 2024-09-05,Northern Ireland,Luxembourg,Northern Ireland,Paddy McNair,11,FALSE,FALSE
@@ -45331,9 +45331,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-09-10,Chile,Bolivia,Bolivia,Carmelo Algarañaz,13,FALSE,FALSE
 2024-09-10,Chile,Bolivia,Chile,Eduardo Vargas,39,FALSE,FALSE
 2024-09-10,Chile,Bolivia,Bolivia,Miguel Terceros,45,FALSE,FALSE
-2024-09-10,China PR,Saudi Arabia,China PR,Ali Lajami,14,TRUE,FALSE
-2024-09-10,China PR,Saudi Arabia,Saudi Arabia,Hassan Kadesh,39,FALSE,FALSE
-2024-09-10,China PR,Saudi Arabia,Saudi Arabia,Hassan Kadesh,90,FALSE,FALSE
+2024-09-10,China,Saudi Arabia,China,Ali Lajami,14,TRUE,FALSE
+2024-09-10,China,Saudi Arabia,Saudi Arabia,Hassan Kadesh,39,FALSE,FALSE
+2024-09-10,China,Saudi Arabia,Saudi Arabia,Hassan Kadesh,90,FALSE,FALSE
 2024-09-10,Colombia,Argentina,Colombia,Yerson Mosquera,25,FALSE,FALSE
 2024-09-10,Colombia,Argentina,Argentina,Nicolás González,48,FALSE,FALSE
 2024-09-10,Colombia,Argentina,Colombia,James Rodríguez,60,FALSE,TRUE
@@ -45373,10 +45373,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-09-10,Republic of Ireland,Greece,Greece,Fotis Ioannidis,50,FALSE,FALSE
 2024-09-10,Republic of Ireland,Greece,Greece,Christos Tzolis,87,FALSE,FALSE
 2024-09-10,United Arab Emirates,Iran,Iran,Mehdi Ghayedi,45,FALSE,FALSE
-2024-10-10,Australia,China PR,China PR,Xie Wenneng,20,FALSE,FALSE
-2024-10-10,Australia,China PR,Australia,Lewis Miller,45,FALSE,FALSE
-2024-10-10,Australia,China PR,Australia,Craig Goodwin,53,FALSE,FALSE
-2024-10-10,Australia,China PR,Australia,Nishan Velupillay,90,FALSE,FALSE
+2024-10-10,Australia,China,China,Xie Wenneng,20,FALSE,FALSE
+2024-10-10,Australia,China,Australia,Lewis Miller,45,FALSE,FALSE
+2024-10-10,Australia,China,Australia,Craig Goodwin,53,FALSE,FALSE
+2024-10-10,Australia,China,Australia,Nishan Velupillay,90,FALSE,FALSE
 2024-10-10,Austria,Kazakhstan,Austria,Christoph Baumgartner,10,FALSE,FALSE
 2024-10-10,Austria,Kazakhstan,Austria,Philipp Lienhart,54,FALSE,FALSE
 2024-10-10,Austria,Kazakhstan,Austria,Marcel Sabitzer,56,FALSE,FALSE
@@ -45543,9 +45543,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-10-15,Brazil,Peru,Brazil,Raphinha,54,FALSE,TRUE
 2024-10-15,Brazil,Peru,Brazil,Andreas Pereira,71,FALSE,FALSE
 2024-10-15,Brazil,Peru,Brazil,Luiz Henrique,74,FALSE,FALSE
-2024-10-15,China PR,Indonesia,China PR,Behram Abduweli,21,FALSE,FALSE
-2024-10-15,China PR,Indonesia,China PR,Zhang Yuning,44,FALSE,FALSE
-2024-10-15,China PR,Indonesia,Indonesia,Thom Haye,86,FALSE,FALSE
+2024-10-15,China,Indonesia,China,Behram Abduweli,21,FALSE,FALSE
+2024-10-15,China,Indonesia,China,Zhang Yuning,44,FALSE,FALSE
+2024-10-15,China,Indonesia,Indonesia,Thom Haye,86,FALSE,FALSE
 2024-10-15,Colombia,Chile,Colombia,Davinson Sánchez,34,FALSE,FALSE
 2024-10-15,Colombia,Chile,Colombia,Luis Díaz,52,FALSE,FALSE
 2024-10-15,Colombia,Chile,Colombia,Jhon Durán,84,FALSE,FALSE
@@ -45600,7 +45600,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-10-15,Switzerland,Denmark,Denmark,Christian Eriksen,69,FALSE,FALSE
 2024-10-15,Uzbekistan,United Arab Emirates,Uzbekistan,Otabek Shukurov,76,FALSE,TRUE
 2024-11-14,Armenia,Faroe Islands,Faroe Islands,Viljormur Davidsen,33,FALSE,TRUE
-2024-11-14,Bahrain,China PR,China PR,Zhang Yuning,90,FALSE,FALSE
+2024-11-14,Bahrain,China,China,Zhang Yuning,90,FALSE,FALSE
 2024-11-14,Belgium,Italy,Italy,Sandro Tonali,11,FALSE,FALSE
 2024-11-14,Ecuador,Bolivia,Ecuador,Enner Valencia,26,FALSE,TRUE
 2024-11-14,Ecuador,Bolivia,Ecuador,Gonzalo Plata,28,FALSE,FALSE
@@ -45798,10 +45798,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-11-19,Chile,Venezuela,Chile,Tomás Rincón,29,TRUE,FALSE
 2024-11-19,Chile,Venezuela,Chile,Lucas Cepeda,38,FALSE,FALSE
 2024-11-19,Chile,Venezuela,Chile,Lucas Cepeda,47,FALSE,FALSE
-2024-11-19,China PR,Japan,Japan,Kōki Ogawa,39,FALSE,FALSE
-2024-11-19,China PR,Japan,Japan,Ko Itakura,45,FALSE,FALSE
-2024-11-19,China PR,Japan,China PR,Lin Liangming,48,FALSE,FALSE
-2024-11-19,China PR,Japan,Japan,Kōki Ogawa,54,FALSE,FALSE
+2024-11-19,China,Japan,Japan,Kōki Ogawa,39,FALSE,FALSE
+2024-11-19,China,Japan,Japan,Ko Itakura,45,FALSE,FALSE
+2024-11-19,China,Japan,China,Lin Liangming,48,FALSE,FALSE
+2024-11-19,China,Japan,Japan,Kōki Ogawa,54,FALSE,FALSE
 2024-11-19,Colombia,Ecuador,Ecuador,Enner Valencia,7,FALSE,FALSE
 2024-11-19,Czech Republic,Georgia,Czech Republic,Pavel Šulc,3,FALSE,FALSE
 2024-11-19,Czech Republic,Georgia,Czech Republic,Adam Hložek,24,FALSE,FALSE
@@ -45922,7 +45922,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2025-03-20,Qatar,North Korea,Qatar,Ahmed Al-Rawi,56,FALSE,FALSE
 2025-03-20,Qatar,North Korea,Qatar,Ahmed Alaaeldin,66,FALSE,FALSE
 2025-03-20,Qatar,North Korea,North Korea,Pak Kwang-hun,86,FALSE,FALSE
-2025-03-20,Saudi Arabia,China PR,Saudi Arabia,Salem Al-Dawsari,50,FALSE,FALSE
+2025-03-20,Saudi Arabia,China,Saudi Arabia,Salem Al-Dawsari,50,FALSE,FALSE
 2025-03-20,Sierra Leone,Guinea-Bissau,Sierra Leone,Mustapha Bundu,19,FALSE,FALSE
 2025-03-20,Sierra Leone,Guinea-Bissau,Sierra Leone,Musa Noah Kamara,61,FALSE,FALSE
 2025-03-20,Sierra Leone,Guinea-Bissau,Guinea-Bissau,Tamble Monteiro,68,FALSE,FALSE
@@ -46143,8 +46143,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2025-03-25,Cameroon,Libya,Cameroon,Bryan Mbeumo,53,FALSE,FALSE
 2025-03-25,Cameroon,Libya,Cameroon,Vincent Aboubakar,61,FALSE,FALSE
 2025-03-25,Cameroon,Libya,Libya,Ezoo El Maremi,90,FALSE,FALSE
-2025-03-25,China PR,Australia,Australia,Jackson Irvine,16,FALSE,FALSE
-2025-03-25,China PR,Australia,Australia,Nishan Velupillay,29,FALSE,FALSE
+2025-03-25,China,Australia,Australia,Jackson Irvine,16,FALSE,FALSE
+2025-03-25,China,Australia,Australia,Nishan Velupillay,29,FALSE,FALSE
 2025-03-25,Colombia,Paraguay,Colombia,Luis Díaz,1,FALSE,FALSE
 2025-03-25,Colombia,Paraguay,Colombia,Jhon Durán,13,FALSE,FALSE
 2025-03-25,Colombia,Paraguay,Paraguay,Júnior Alonso,45,FALSE,FALSE
@@ -46233,7 +46233,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2025-06-05,Bahrain,Saudi Arabia,Saudi Arabia,Musab Al-Juwayr,16,FALSE,FALSE
 2025-06-05,Bahrain,Saudi Arabia,Saudi Arabia,Abdulrahman Al-Aboud,78,FALSE,FALSE
 2025-06-05,Chile,Argentina,Argentina,Julián Alvarez,16,FALSE,FALSE
-2025-06-05,Indonesia,China PR,Indonesia,Ole Romeny,45,FALSE,TRUE
+2025-06-05,Indonesia,China,Indonesia,Ole Romeny,45,FALSE,TRUE
 2025-06-05,Iraq,South Korea,South Korea,Kim Jin-gyu,63,FALSE,FALSE
 2025-06-05,Iraq,South Korea,South Korea,Oh Hyeon-gyu,82,FALSE,FALSE
 2025-06-05,Kuwait,Palestine,Palestine,Tamer Seyam,32,FALSE,FALSE
@@ -46359,7 +46359,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2025-06-10,Bolivia,Chile,Bolivia,Miguel Terceros,5,FALSE,FALSE
 2025-06-10,Bolivia,Chile,Bolivia,Enzo Monteiro,90,FALSE,FALSE
 2025-06-10,Brazil,Paraguay,Brazil,Vinícius Júnior,44,FALSE,FALSE
-2025-06-10,China PR,Bahrain,China PR,Wang Yudong,90,FALSE,TRUE
+2025-06-10,China,Bahrain,China,Wang Yudong,90,FALSE,TRUE
 2025-06-10,Costa Rica,Trinidad and Tobago,Costa Rica,Jeyland Mitchell,23,FALSE,FALSE
 2025-06-10,Costa Rica,Trinidad and Tobago,Costa Rica,Warren Madrigal,38,FALSE,FALSE
 2025-06-10,Costa Rica,Trinidad and Tobago,Trinidad and Tobago,Levi García,58,FALSE,FALSE
