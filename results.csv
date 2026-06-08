@@ -37001,7 +37001,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2013-06-11,Denmark,Armenia,0,4,FIFA World Cup qualification,Copenhagen,Denmark,FALSE
 2013-06-11,Ecuador,Argentina,1,1,FIFA World Cup qualification,Quito,Ecuador,FALSE
 2013-06-11,Estonia,Kyrgyzstan,1,1,Friendly,Tallinn,Estonia,FALSE
-2013-06-11,Guatemala,Belize,0,0,Friendly,Antigua Guatemala City,Guatemala,FALSE
+2013-06-11,Guatemala,Belize,0,0,Friendly,Antigua Guatemala,Guatemala,FALSE
 2013-06-11,Honduras,Jamaica,2,0,FIFA World Cup qualification,Tegucigalpa,Honduras,FALSE
 2013-06-11,Iran,Lebanon,4,0,FIFA World Cup qualification,Tehran,Iran,FALSE
 2013-06-11,Iraq,Japan,0,1,FIFA World Cup qualification,Doha,Qatar,TRUE
@@ -37963,7 +37963,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2014-08-10,Seborga,Sealand,2,3,Friendly,Ospedaletti,Italy,FALSE
 2014-08-12,Kazakhstan,Tajikistan,2,1,Friendly,Almaty,Kazakhstan,FALSE
 2014-08-13,Angola,Botswana,0,0,Friendly,Luanda,Angola,FALSE
-2014-08-14,Guatemala,Nicaragua,3,0,Friendly,Antigua Guatemala City,Guatemala,FALSE
+2014-08-14,Guatemala,Nicaragua,3,0,Friendly,Antigua Guatemala,Guatemala,FALSE
 2014-08-16,British Virgin Islands,Saint Martin,2,4,Friendly,Road Town,British Virgin Islands,FALSE
 2014-08-20,Azerbaijan,Uzbekistan,0,0,Friendly,Baku,Azerbaijan,FALSE
 2014-08-20,Panama,Cuba,4,0,Friendly,Panama City,Panama,FALSE
@@ -44439,7 +44439,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-09-07,Russia,Malta,2,0,FIFA World Cup qualification,Moscow,Russia,FALSE
 2021-09-08,Bulgaria,Georgia,4,1,Friendly,Sofia,Bulgaria,FALSE
 2021-09-08,Czech Republic,Ukraine,1,1,Friendly,Plzeň,Czech Republic,FALSE
-2021-09-08,Guatemala,Nicaragua,2,2,Friendly,Antigua Guatemala City,Guatemala,FALSE
+2021-09-08,Guatemala,Nicaragua,2,2,Friendly,Antigua Guatemala,Guatemala,FALSE
 2021-09-08,Kosovo,Spain,0,2,FIFA World Cup qualification,Pristina,Kosovo,FALSE
 2021-09-08,Greece,Sweden,2,1,FIFA World Cup qualification,Athens,Greece,FALSE
 2021-09-08,Northern Ireland,Switzerland,0,0,FIFA World Cup qualification,Belfast,Northern Ireland,FALSE
@@ -44993,7 +44993,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-03-24,Sweden,Czech Republic,1,0,FIFA World Cup qualification,Stockholm,Sweden,FALSE
 2022-03-24,Wales,Austria,2,1,FIFA World Cup qualification,Cardiff,Wales,FALSE
 2022-03-24,Armenia,Montenegro,1,0,Friendly,Yerevan,Armenia,FALSE
-2022-03-24,Guatemala,Cuba,1,0,Friendly,Antigua Guatemala City,Guatemala,FALSE
+2022-03-24,Guatemala,Cuba,1,0,Friendly,Antigua Guatemala,Guatemala,FALSE
 2022-03-24,Hungary,Serbia,0,1,Friendly,Budapest,Hungary,FALSE
 2022-03-24,Kosovo,Burkina Faso,5,0,Friendly,Pristina,Kosovo,FALSE
 2022-03-24,Liberia,Benin,0,4,Friendly,Antalya,Turkey,TRUE
@@ -49364,6 +49364,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-06-06,Myanmar,Guam,6,1,Tri-Nations Cup,Manila,Philippines,TRUE
 2026-06-06,Lithuania,Latvia,1,1,Baltic Cup,Kaunas,Lithuania,FALSE
 2026-06-06,Estonia,Faroe Islands,1,0,Baltic Cup,Pärnu,Estonia,FALSE
+2026-06-07,Croatia,Slovenia,2,1,Friendly,Varaždin,Croatia,FALSE
+2026-06-07,Ecuador,Guatemala,3,0,Friendly,Columbus,United States,TRUE
+2026-06-07,Greece,Italy,0,1,Friendly,Heraklion,Greece,FALSE
+2026-06-07,Jordan,Colombia,0,2,Friendly,San Diego,United States,TRUE
+2026-06-07,Kosovo,Andorra,3,0,Friendly,Pristina,Kosovo,FALSE
+2026-06-07,Liechtenstein,Cyprus,0,2,Friendly,Vaduz,Liechtenstein,FALSE
+2026-06-07,Morocco,Norway,1,1,Friendly,Harrison,United States,TRUE
+2026-06-07,Denmark,Ukraine,2,1,Friendly,Odense,Denmark,FALSE
 2026-06-11,Mexico,South Africa,NA,NA,FIFA World Cup,Mexico City,Mexico,FALSE
 2026-06-11,South Korea,Czech Republic,NA,NA,FIFA World Cup,Zapopan,Mexico,TRUE
 2026-06-12,Canada,Bosnia and Herzegovina,NA,NA,FIFA World Cup,Toronto,Canada,FALSE
