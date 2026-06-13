@@ -49404,10 +49404,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-06-10,England,Costa Rica,3,0,Friendly,Orlando,United States,TRUE
 2026-06-10,Portugal,Nigeria,2,1,Friendly,Leiria,Portugal,FALSE
 2026-06-10,Afghanistan,Pakistan,0,2,Diamond Jubilee International Football Tournament,Malé,Maldives,TRUE
-2026-06-11,Mexico,South Africa,2,00,FIFA World Cup,Mexico City,Mexico,FALSE
+2026-06-11,Mexico,South Africa,2,0,FIFA World Cup,Mexico City,Mexico,FALSE
 2026-06-11,South Korea,Czech Republic,2,1,FIFA World Cup,Zapopan,Mexico,TRUE
-2026-06-12,Canada,Bosnia and Herzegovina,NA,NA,FIFA World Cup,Toronto,Canada,FALSE
-2026-06-12,United States,Paraguay,NA,NA,FIFA World Cup,Inglewood,United States,FALSE
+2026-06-12,Canada,Bosnia and Herzegovina,1,1,FIFA World Cup,Toronto,Canada,FALSE
+2026-06-12,United States,Paraguay,4,1,FIFA World Cup,Inglewood,United States,FALSE
 2026-06-13,Qatar,Switzerland,NA,NA,FIFA World Cup,Santa Clara,United States,TRUE
 2026-06-13,Brazil,Morocco,NA,NA,FIFA World Cup,East Rutherford,United States,TRUE
 2026-06-13,Haiti,Scotland,NA,NA,FIFA World Cup,Foxborough,United States,TRUE
