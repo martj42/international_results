@@ -49408,10 +49408,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-06-11,South Korea,Czech Republic,2,1,FIFA World Cup,Zapopan,Mexico,TRUE
 2026-06-12,Canada,Bosnia and Herzegovina,1,1,FIFA World Cup,Toronto,Canada,FALSE
 2026-06-12,United States,Paraguay,4,1,FIFA World Cup,Inglewood,United States,FALSE
-2026-06-13,Qatar,Switzerland,NA,NA,FIFA World Cup,Santa Clara,United States,TRUE
-2026-06-13,Brazil,Morocco,NA,NA,FIFA World Cup,East Rutherford,United States,TRUE
-2026-06-13,Haiti,Scotland,NA,NA,FIFA World Cup,Foxborough,United States,TRUE
-2026-06-13,Australia,Turkey,NA,NA,FIFA World Cup,Vancouver,Canada,TRUE
+2026-06-13,Qatar,Switzerland,1,1,FIFA World Cup,Santa Clara,United States,TRUE
+2026-06-13,Brazil,Morocco,1,1,FIFA World Cup,East Rutherford,United States,TRUE
+2026-06-13,Haiti,Scotland,0,1,FIFA World Cup,Foxborough,United States,TRUE
+2026-06-13,Australia,Turkey,2,0,FIFA World Cup,Vancouver,Canada,TRUE
 2026-06-14,Germany,Curaçao,NA,NA,FIFA World Cup,Houston,United States,TRUE
 2026-06-14,Ivory Coast,Ecuador,NA,NA,FIFA World Cup,Philadelphia,United States,TRUE
 2026-06-14,Netherlands,Japan,NA,NA,FIFA World Cup,Arlington,United States,TRUE
