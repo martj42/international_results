@@ -47649,9 +47649,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2026-06-16,Argentina,Algeria,Argentina,Lionel Messi,17,FALSE,FALSE
 2026-06-16,Argentina,Algeria,Argentina,Lionel Messi,60,FALSE,FALSE
 2026-06-16,Argentina,Algeria,Argentina,Lionel Messi,76,FALSE,FALSE
-2026-06-16,Austria,Jordan,Austria,Romano Schmid,21,FALSE,FALSE
+2026-06-16,Austria,Jordan,Austria,Romano Schmid,20,FALSE,FALSE
 2026-06-16,Austria,Jordan,Jordan,Ali Olwan,50,FALSE,FALSE
-2026-06-16,Austria,Jordan,Austria,Yazan Al-Arab,77,TRUE,FALSE
+2026-06-16,Austria,Jordan,Austria,Yazan Al-Arab,76,TRUE,FALSE
 2026-06-16,Austria,Jordan,Austria,Marko Arnautović,90,FALSE,TRUE
 2026-06-16,France,Senegal,France,Kylian Mbappé,66,FALSE,FALSE
 2026-06-16,France,Senegal,France,Bradley Barcola,82,FALSE,FALSE
@@ -47662,3 +47662,16 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2026-06-16,Iraq,Norway,Norway,Erling Haaland,43,FALSE,FALSE
 2026-06-16,Iraq,Norway,Norway,Leo Østigård,76,FALSE,FALSE
 2026-06-16,Iraq,Norway,Norway,Aymen Hussein,90,TRUE,FALSE
+2026-06-17,England,Croatia,England,Harry Kane,12,FALSE,TRUE
+2026-06-17,England,Croatia,Croatia,Martin Baturina,36,FALSE,FALSE
+2026-06-17,England,Croatia,England,Harry Kane,42,FALSE,FALSE
+2026-06-17,England,Croatia,Croatia,Petar Musa,45,FALSE,FALSE
+2026-06-17,England,Croatia,England,Jude Bellingham,47,FALSE,FALSE
+2026-06-17,England,Croatia,England,Marcus Rashford,85,FALSE,FALSE
+2026-06-17,Ghana,Panama,Ghana,Caleb Yirenkyi,90,FALSE,FALSE
+2026-06-17,Portugal,DR Congo,Portugal,João Neves,6,FALSE,FALSE
+2026-06-17,Portugal,DR Congo,DR Congo,Yoane Wissa,45,FALSE,FALSE
+2026-06-17,Uzbekistan,Colombia,Colombia,Daniel Muñoz,40,FALSE,FALSE
+2026-06-17,Uzbekistan,Colombia,Uzbekistan,Abbosbek Fayzullaev,60,FALSE,FALSE
+2026-06-17,Uzbekistan,Colombia,Colombia,Luis Díaz,65,FALSE,FALSE
+2026-06-17,Uzbekistan,Colombia,Colombia,Jaminton Campaz,90,FALSE,FALSE
