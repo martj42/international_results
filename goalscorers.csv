@@ -47600,6 +47600,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2026-03-31,Sweden,Poland,Sweden,Gustaf Lagerbielke,44,FALSE,FALSE
 2026-03-31,Sweden,Poland,Poland,Karol Świderski,55,FALSE,FALSE
 2026-03-31,Sweden,Poland,Sweden,Viktor Gyökeres,88,FALSE,FALSE
+2026-06-06,Estonia,Faroe Islands,Estonia,Tony Varjund,66,FALSE,FALSE
+2026-06-06,Lithuania,Latvia,Lithuania,Armandas Kučys,28,FALSE,FALSE
+2026-06-06,Lithuania,Latvia,Latvia,Maksims Toņiševs,60,FALSE,FALSE
+2026-06-09,Estonia,Lithuania,Estonia,Karel Mustmaa,80,FALSE,FALSE
+2026-06-09,Latvia,Faroe Islands,Faroe Islands,Hanus Sørensen,81,FALSE,FALSE
 2026-06-11,Mexico,South Africa,Mexico,Julián Quiñones,9,FALSE,FALSE
 2026-06-11,Mexico,South Africa,Mexico,Raúl Jiménez,67,FALSE,FALSE
 2026-06-11,South Korea,Czech Republic,Czech Republic,Ladislav Krejčí,59,FALSE,FALSE
@@ -47628,7 +47633,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2026-06-14,Germany,Curaçao,Germany,Deniz Undav,78,FALSE,FALSE
 2026-06-14,Germany,Curaçao,Germany,Kai Havertz,88,FALSE,FALSE
 2026-06-14,Ivory Coast,Ecuador,Ivory Coast,Amad Diallo,90,FALSE,FALSE
-2026-06-14,Netherlands,Japan,Netherlands,Virgil van Dijk,50,FALSE,FALSE
+2026-06-14,Netherlands,Japan,Netherlands,Virgil van Dijk,51,FALSE,FALSE
 2026-06-14,Netherlands,Japan,Japan,Keito Nakamura,57,FALSE,FALSE
 2026-06-14,Netherlands,Japan,Netherlands,Crysencio Summerville,64,FALSE,FALSE
 2026-06-14,Netherlands,Japan,Japan,Daichi Kamada,88,FALSE,FALSE
@@ -47696,3 +47701,16 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2026-06-19,Turkey,Paraguay,Paraguay,Matías Galarza,2,FALSE,FALSE
 2026-06-19,United States,Australia,United States,Cameron Burgess,11,TRUE,FALSE
 2026-06-19,United States,Australia,United States,Alex Freeman,43,FALSE,FALSE
+2026-06-20,Germany,Ivory Coast,Ivory Coast,Franck Kessié,30,FALSE,FALSE
+2026-06-20,Germany,Ivory Coast,Germany,Deniz Undav,68,FALSE,FALSE
+2026-06-20,Germany,Ivory Coast,Germany,Deniz Undav,90,FALSE,FALSE
+2026-06-20,Netherlands,Sweden,Netherlands,Brian Brobbey,5,FALSE,FALSE
+2026-06-20,Netherlands,Sweden,Netherlands,Brian Brobbey,17,FALSE,FALSE
+2026-06-20,Netherlands,Sweden,Netherlands,Cody Gakpo,47,FALSE,FALSE
+2026-06-20,Netherlands,Sweden,Netherlands,Cody Gakpo,54,FALSE,FALSE
+2026-06-20,Netherlands,Sweden,Sweden,Anthony Elanga,59,FALSE,FALSE
+2026-06-20,Netherlands,Sweden,Netherlands,Crysencio Summerville,89,FALSE,FALSE
+2026-06-20,Tunisia,Japan,Japan,Daichi Kamada,4,FALSE,FALSE
+2026-06-20,Tunisia,Japan,Japan,Ayase Ueda,31,FALSE,FALSE
+2026-06-20,Tunisia,Japan,Japan,Junya Itō,69,FALSE,FALSE
+2026-06-20,Tunisia,Japan,Japan,Ayase Ueda,83,FALSE,FALSE
