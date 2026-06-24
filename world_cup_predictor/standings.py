@@ -103,21 +103,21 @@ GROUP_STANDINGS = {
     ],
 }
 
-# Remaining matches (Round 3) - these are the matches being predicted
-# Format: group -> list of (home_team, away_team) tuples
+# Remaining matches (Round 3) - only the final group stage matches
+# Format: group -> list of (home_team, away_team) tuples for each group's 4 teams
 REMAINING_MATCHES = {
-    "A": [("Portugal", "Uzbekistan"), ("Colombia", "DR Congo"), ("England", "Ghana"), ("Panama", "Croatia")],
-    "B": [("Mexico", "Czech Republic"), ("South Africa", "South Korea"), ("Canada", "Switzerland"), ("Bosnia and Herzegovina", "Qatar")],
-    "C": [("Scotland", "Brazil"), ("Morocco", "Haiti"), ("United States", "Turkey"), ("Paraguay", "Australia")],
-    "D": [("Ecuador", "Germany"), ("Japan", "Sweden"), ("Tunisia", "Netherlands"), ("Curaçao", "Ivory Coast")],
-    "E": [("Egypt", "Iran"), ("New Zealand", "Belgium"), ("Cape Verde", "Saudi Arabia"), ("Uruguay", "Spain")],
-    "F": [("Norway", "France"), ("Senegal", "Iraq"), ("Argentina", "Austria"), ("Jordan", "Algeria")],
-    "G": [("United States", "Turkey"), ("Paraguay", "Australia"), ("Curaçao", "Ivory Coast"), ("Ecuador", "Germany")],
-    "H": [("Japan", "Sweden"), ("Tunisia", "Netherlands"), ("Egypt", "Iran"), ("New Zealand", "Belgium")],
-    "I": [("Cape Verde", "Saudi Arabia"), ("Uruguay", "Spain"), ("Norway", "France"), ("Senegal", "Iraq")],
-    "J": [("Argentina", "Austria"), ("Jordan", "Algeria"), ("Colombia", "Portugal"), ("DR Congo", "Uzbekistan")],
-    "K": [("England", "Ghana"), ("Panama", "Croatia"), ("Belgium", "Iran"), ("New Zealand", "Egypt")],
-    "L": [("Mexico", "Czech Republic"), ("South Africa", "South Korea"), ("Canada", "Switzerland"), ("Bosnia and Herzegovina", "Qatar")],
+    "A": [("Mexico", "Czech Republic"), ("South Africa", "South Korea")],
+    "B": [("Canada", "Switzerland"), ("Bosnia and Herzegovina", "Qatar")],
+    "C": [("Scotland", "Brazil"), ("Morocco", "Haiti")],
+    "D": [("United States", "Turkey"), ("Paraguay", "Australia")],
+    "E": [("Ecuador", "Germany"), ("Japan", "Sweden")],
+    "F": [("Tunisia", "Netherlands"), ("Egypt", "Iran")],
+    "G": [("New Zealand", "Belgium"), ("Cape Verde", "Saudi Arabia")],
+    "H": [("Uruguay", "Spain"), ("Norway", "France")],
+    "I": [("Senegal", "Iraq"), ("Argentina", "Austria")],
+    "J": [("Jordan", "Algeria"), ("Colombia", "Portugal")],
+    "K": [("DR Congo", "Uzbekistan"), ("England", "Ghana")],
+    "L": [("Panama", "Croatia"), ("Curaçao", "Ivory Coast")],
 }
 
 

@@ -5,13 +5,95 @@ and simulates key dependency scenarios.
 """
 
 from __future__ import annotations
+from typing import NamedTuple
 
 from .standings import (
     get_team_group,
     get_group_standings,
     get_remaining_matches_in_group,
     calculate_qualification,
+    TeamStanding,
 )
+
+
+def format_group_standings(group: str) -> str:
+    """Format the current group standings as a table."""
+    standings = get_group_standings(group)
+    if not standings:
+        return ""
+
+    lines = []
+    lines.append("")
+    lines.append(f"  Group {group} Current Standings:")
+    lines.append("  " + "─" * 54)
+    lines.append("  Pos  Team                    P  W  D  L  GF GA GD Pts")
+    lines.append("  " + "─" * 54)
+
+    for pos, team in enumerate(standings, 1):
+        gd_str = f"{team.gd:+2d}" if team.gd != 0 else " 0"
+        lines.append(
+            f"   {pos}  {team.team:<20}  {team.played} {team.wins}  {team.draws}  {team.losses}  "
+            f"{team.gf:2d} {team.ga:2d} {gd_str}  {team.points}"
+        )
+
+    lines.append("  " + "─" * 54)
+    return "\n".join(lines)
+
+
+def project_standings_after_match(
+    group: str, home: str, away: str, result: str
+) -> str:
+    """Project the group standings after a match result (W/D/L from home perspective).
+
+    Args:
+        group: Group letter
+        home: Home team
+        away: Away team
+        result: "W" (home win), "D" (draw), or "L" (away win)
+
+    Returns: Formatted projected standings table
+    """
+    current = {t.team: t for t in get_group_standings(group)}
+    home_current = current[home]
+    away_current = current[away]
+
+    # Update the two teams based on result
+    if result == "W":
+        home_team = home_current._replace(played=home_current.played+1, wins=home_current.wins+1, points=home_current.points+3)
+        away_team = away_current._replace(played=away_current.played+1, losses=away_current.losses+1)
+        result_text = f"{home} wins"
+    elif result == "D":
+        home_team = home_current._replace(played=home_current.played+1, draws=home_current.draws+1, points=home_current.points+1)
+        away_team = away_current._replace(played=away_current.played+1, draws=away_current.draws+1, points=away_current.points+1)
+        result_text = "Draw"
+    else:  # "L"
+        home_team = home_current._replace(played=home_current.played+1, losses=home_current.losses+1)
+        away_team = away_current._replace(played=away_current.played+1, wins=away_current.wins+1, points=away_current.points+3)
+        result_text = f"{away} wins"
+
+    # Rebuild standings dict
+    projected = {**current}
+    projected[home] = home_team
+    projected[away] = away_team
+
+    # Sort by points, GD
+    proj_list = sorted(projected.values(), key=lambda t: (-t.points, -t.gd))
+
+    lines = []
+    lines.append("")
+    lines.append(f"  If {result_text}:")
+    lines.append("  " + "─" * 54)
+    lines.append("  Pos  Team                    P  W  D  L  GF GA GD Pts")
+    lines.append("  " + "─" * 54)
+
+    for pos, team in enumerate(proj_list, 1):
+        gd_str = f"{team.gd:+2d}" if team.gd != 0 else " 0"
+        lines.append(
+            f"   {pos}  {team.team:<20}  {team.played} {team.wins}  {team.draws}  {team.losses}  "
+            f"{team.gf:2d} {team.ga:2d} {gd_str}  {team.points}"
+        )
+
+    return "\n".join(lines)
 
 
 def get_qualification_summary(team: str) -> tuple[str, str]:
@@ -68,9 +150,10 @@ def format_qualification_scenarios(home: str, away: str) -> str:
     """Format detailed qualification scenarios for both teams.
 
     Returns a multi-line string showing:
-    - Team name and qualification status
-    - Dependency scenarios from other group matches
+    - Current group standings table
+    - Team qualification status
     - What result is needed in each scenario
+    - Other matches in the group
     """
     group_h = get_team_group(home)
     group_a = get_team_group(away)
@@ -88,6 +171,10 @@ def format_qualification_scenarios(home: str, away: str) -> str:
     ]
 
     lines = []
+
+    # Show current group standings
+    lines.append(format_group_standings(group))
+
     lines.append("")
     lines.append("Qualification scenarios:")
 

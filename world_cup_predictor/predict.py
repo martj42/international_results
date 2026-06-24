@@ -22,7 +22,7 @@ import pandas as pd
 
 from .data import get_data, all_team_names
 from .dixon_coles import DixonColesModel
-from .qualification import format_qualification_scenarios
+from .qualification import format_qualification_scenarios, project_standings_after_match
 
 MODEL_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "model.json")
 
@@ -171,6 +171,33 @@ def format_prediction(team: str, fixture: pd.Series, model: DixonColesModel) -> 
     for (h, a), p in pred["scorelines"][:5]:
         t_, o_ = (h, a) if team_is_home else (a, h)
         lines.append(f"    {team} {t_} - {o_} {opponent:<18} {p*100:5.1f}%")
+    lines.append("-" * 58)
+
+    # Add projected group standings for the most likely outcome
+    from .standings import get_team_group
+    group = get_team_group(home)
+    if group:
+        # Determine the most likely result from the perspective of the match (home/away)
+        # Use raw home/away/draw probabilities
+        p_home_win = pred["p_home_win"]
+        p_away_win = pred["p_away_win"]
+        p_d = pred["p_draw"]
+
+        if p_home_win > p_away_win and p_home_win > p_d:
+            most_likely_result = "W"  # home team wins
+        elif p_away_win > p_home_win and p_away_win > p_d:
+            most_likely_result = "L"  # away team wins
+        else:
+            most_likely_result = "D"  # draw
+
+        lines.append("")
+        lines.append(f"  Projected standings (if most likely outcome occurs):")
+        proj_standings = project_standings_after_match(group, home, away, most_likely_result)
+        # Indent the projected standings
+        for proj_line in proj_standings.split("\n"):
+            lines.append(proj_line)
+
+    lines.append("")
     lines.append("-" * 58)
     lines.append(f"  >>> {verdict_txt}")
     lines.append("=" * 58)
