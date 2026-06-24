@@ -22,6 +22,7 @@ import pandas as pd
 
 from .data import get_data, all_team_names
 from .dixon_coles import DixonColesModel
+from .qualification import format_qualification_scenarios
 
 MODEL_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "model.json")
 
@@ -150,6 +151,13 @@ def format_prediction(team: str, fixture: pd.Series, model: DixonColesModel) -> 
     lines.append(f"  {date}   {tournament}")
     lines.append(f"  {venue}   ({venue_note})")
     lines.append("-" * 58)
+
+    # Add qualification scenarios if available
+    qual_scenarios = format_qualification_scenarios(home, away)
+    if qual_scenarios:
+        lines.append(qual_scenarios)
+        lines.append("-" * 58)
+
     lines.append("  Outcome probabilities:")
     lines.append(f"    {team:<22} {p_team*100:5.1f}%  {_bar(p_team)}")
     lines.append(f"    {'Draw':<22} {p_draw*100:5.1f}%  {_bar(p_draw)}")
