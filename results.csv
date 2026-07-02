@@ -49483,9 +49483,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-06-30,Ivory Coast,Norway,1,2,FIFA World Cup,Arlington,United States,TRUE
 2026-06-30,France,Sweden,3,0,FIFA World Cup,East Rutherford,United States,TRUE
 2026-06-30,Mexico,Ecuador,2,0,FIFA World Cup,Mexico City,Mexico,FALSE
-2026-07-01,England,DR Congo,NA,NA,FIFA World Cup,Atlanta,United States,TRUE
-2026-07-01,Belgium,Senegal,NA,NA,FIFA World Cup,Seattle,United States,TRUE
-2026-07-01,United States,Bosnia and Herzegovina,NA,NA,FIFA World Cup,Santa Clara,United States,FALSE
+2026-07-01,England,DR Congo,2,1,FIFA World Cup,Atlanta,United States,TRUE
+2026-07-01,Belgium,Senegal,3,2,FIFA World Cup,Seattle,United States,TRUE
+2026-07-01,United States,Bosnia and Herzegovina,2,0,FIFA World Cup,Santa Clara,United States,FALSE
 2026-07-02,Spain,Austria,NA,NA,FIFA World Cup,Inglewood,United States,TRUE
 2026-07-02,Portugal,Croatia,NA,NA,FIFA World Cup,Toronto,Canada,TRUE
 2026-07-02,Switzerland,Algeria,NA,NA,FIFA World Cup,Vancouver,Canada,TRUE
@@ -49495,3 +49495,5 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-07-04,Canada,Morocco,NA,NA,FIFA World Cup,Houston,United States,TRUE
 2026-07-04,Paraguay,France,NA,NA,FIFA World Cup,Philadelphia,United States,TRUE
 2026-07-05,Brazil,Norway,NA,NA,FIFA World Cup,East Rutherford,United States,TRUE
+2026-07-05,Mexico,England,NA,NA,FIFA World Cup,Mexico City,Mexico,FALSE
+2026-07-06,United States,Belgium,NA,NA,FIFA World Cup,Seattle,United States,FALSE
