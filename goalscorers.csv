@@ -443,7 +443,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1928-06-04,Egypt,Portugal,Egypt,Ali Mohamed Riad,48,FALSE,FALSE
 1928-06-04,Egypt,Portugal,Portugal,Vítor Silva,76,FALSE,FALSE
 1928-06-04,Italy,Spain,Italy,Mario Magnozzi,14,FALSE,FALSE
-1928-06-04,Italy,Spain,Italy,Angelo Schiavo,15,FALSE,FALSE
+1928-06-04,Italy,Spain,Italy,Angelo Schiavio,15,FALSE,FALSE
 1928-06-04,Italy,Spain,Italy,Adolfo Baloncieri,18,FALSE,FALSE
 1928-06-04,Italy,Spain,Italy,Fulvio Bernardini,40,FALSE,FALSE
 1928-06-04,Italy,Spain,Spain,José Maria Yermo,47,FALSE,FALSE
@@ -473,16 +473,16 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1928-06-08,Netherlands,Chile,Netherlands,Leonardus Ghering,59,FALSE,FALSE
 1928-06-08,Netherlands,Chile,Netherlands,Felix Smeets,66,FALSE,FALSE
 1928-06-08,Netherlands,Chile,Chile,Óscar Alfaro,89,FALSE,FALSE
-1928-06-09,Italy,Egypt,Italy,Angelo Schiavo,6,FALSE,FALSE
+1928-06-09,Italy,Egypt,Italy,Angelo Schiavio,6,FALSE,FALSE
 1928-06-09,Italy,Egypt,Egypt,Ali Mohamed Riad,12,FALSE,FALSE
 1928-06-09,Italy,Egypt,Italy,Adolfo Baloncieri,14,FALSE,FALSE
 1928-06-09,Italy,Egypt,Egypt,Ali Mohamed Riad,16,FALSE,FALSE
 1928-06-09,Italy,Egypt,Italy,Elvio Banchero,19,FALSE,FALSE
 1928-06-09,Italy,Egypt,Italy,Elvio Banchero,39,FALSE,FALSE
-1928-06-09,Italy,Egypt,Italy,Angelo Schiavo,42,FALSE,FALSE
+1928-06-09,Italy,Egypt,Italy,Angelo Schiavio,42,FALSE,FALSE
 1928-06-09,Italy,Egypt,Italy,Elvio Banchero,44,FALSE,FALSE
 1928-06-09,Italy,Egypt,Italy,Adolfo Baloncieri,52,FALSE,FALSE
-1928-06-09,Italy,Egypt,Italy,Angelo Schiavo,58,FALSE,FALSE
+1928-06-09,Italy,Egypt,Italy,Angelo Schiavio,58,FALSE,FALSE
 1928-06-09,Italy,Egypt,Egypt,Moussa Hassan El-Ezam,60,FALSE,FALSE
 1928-06-09,Italy,Egypt,Italy,Mario Magnozzi,72,FALSE,FALSE
 1928-06-09,Italy,Egypt,Italy,Mario Magnozzi,80,FALSE,FALSE
@@ -758,7 +758,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1934-04-15,Luxembourg,France,France,Jean Nicolas,26,FALSE,FALSE
 1934-04-15,Luxembourg,France,Luxembourg,Théophile Speicher,47,FALSE,FALSE
 1934-04-15,Luxembourg,France,France,Jean Nicolas,67,FALSE,FALSE
-1934-04-15,Luxembourg,France,France,Ernest Liberati,80,FALSE,FALSE
+1934-04-15,Luxembourg,France,France,Ernest Libérati,80,FALSE,FALSE
 1934-04-15,Luxembourg,France,France,Jean Nicolas,85,FALSE,FALSE
 1934-04-15,Luxembourg,France,France,Jean Nicolas,89,FALSE,TRUE
 1934-04-25,Austria,Bulgaria,Austria,Johann Horvath,19,FALSE,FALSE
@@ -808,7 +808,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1934-05-27,Brazil,Spain,Spain,José Iraragorri,18,FALSE,TRUE
 1934-05-27,Brazil,Spain,Spain,José Iraragorri,25,FALSE,FALSE
 1934-05-27,Brazil,Spain,Spain,Isidro Lángara,29,FALSE,FALSE
-1934-05-27,Brazil,Spain,Brazil,Leônidas da Silva,55,FALSE,FALSE
+1934-05-27,Brazil,Spain,Brazil,Leônidas,55,FALSE,FALSE
 1934-05-27,Czechoslovakia,Romania,Romania,Ștefan Dobay,11,FALSE,FALSE
 1934-05-27,Czechoslovakia,Romania,Czechoslovakia,Antonín Puč,50,FALSE,FALSE
 1934-05-27,Czechoslovakia,Romania,Czechoslovakia,Oldřich Nejedlý,67,FALSE,FALSE
@@ -1065,7 +1065,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1938-04-24,Czechoslovakia,Bulgaria,Czechoslovakia,Ladislav Šimůnek,79,FALSE,FALSE
 1938-04-24,Czechoslovakia,Bulgaria,Czechoslovakia,Ladislav Šimůnek,89,FALSE,FALSE
 1938-05-01,Switzerland,Portugal,Switzerland,Georges Aeby,24,FALSE,FALSE
-1938-05-01,Switzerland,Portugal,Switzerland,Lauro Amado,29,FALSE,FALSE
+1938-05-01,Switzerland,Portugal,Switzerland,Lauro Amadò,29,FALSE,FALSE
 1938-05-01,Switzerland,Portugal,Portugal,Fernando Peyroteo,72,FALSE,TRUE
 1938-06-04,Germany,Switzerland,Germany,Josef Gauchel,29,FALSE,FALSE
 1938-06-04,Germany,Switzerland,Switzerland,André Abegglen,43,FALSE,FALSE
@@ -3208,7 +3208,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1959-09-27,Hungary,Russia,Russia,Yuriy Voynov,58,FALSE,FALSE
 1959-10-14,Spain,Poland,Spain,Alfredo Di Stéfano,30,FALSE,FALSE
 1959-10-14,Spain,Poland,Spain,Enric Gensana,69,FALSE,FALSE
-1959-10-14,Spain,Poland,Spain,Francisco Gento,85,FALSE,FALSE
+1959-10-14,Spain,Poland,Spain,Paco Gento,85,FALSE,FALSE
 1959-10-18,Czechoslovakia,Denmark,Denmark,John Kramer,33,FALSE,FALSE
 1959-10-18,Czechoslovakia,Denmark,Czechoslovakia,Titus Buberník,39,FALSE,FALSE
 1959-10-18,Czechoslovakia,Denmark,Czechoslovakia,Adolf Scherer,47,FALSE,FALSE
@@ -3468,8 +3468,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1961-04-19,Wales,Spain,Wales,Phil Woosnam,7,FALSE,FALSE
 1961-04-19,Wales,Spain,Spain,Alfonso Rodríguez Salas,21,FALSE,FALSE
 1961-04-19,Wales,Spain,Spain,Alfredo Di Stéfano,78,FALSE,FALSE
-1961-04-23,Curaçao,Costa Rica,Curaçao,Edwin Miliano Loran,30,FALSE,FALSE
-1961-04-23,Curaçao,Costa Rica,Curaçao,Edwin Miliano Loran,34,FALSE,FALSE
+1961-04-23,Curaçao,Costa Rica,Curaçao,Edwin Loran,30,FALSE,FALSE
+1961-04-23,Curaçao,Costa Rica,Curaçao,Edwin Loran,34,FALSE,FALSE
 1961-04-30,Colombia,Peru,Colombia,Eusebio Escobar,27,FALSE,FALSE
 1961-04-30,Netherlands,Hungary,Hungary,Máté Fenyvesi,22,FALSE,FALSE
 1961-04-30,Netherlands,Hungary,Hungary,Károly Sándor,24,FALSE,FALSE
@@ -4034,7 +4034,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1963-10-30,Netherlands,Luxembourg,Luxembourg,Camille Dimmer,20,FALSE,FALSE
 1963-10-30,Netherlands,Luxembourg,Netherlands,Piet Kruiver,35,FALSE,FALSE
 1963-10-30,Netherlands,Luxembourg,Luxembourg,Camille Dimmer,67,FALSE,FALSE
-1963-10-30,Northern Ireland,Spain,Spain,Francisco Gento,66,FALSE,FALSE
+1963-10-30,Northern Ireland,Spain,Spain,Paco Gento,66,FALSE,FALSE
 1963-11-03,Hungary,German DR,Hungary,Ferenc Bene,7,FALSE,FALSE
 1963-11-03,Hungary,German DR,German DR,Werner Heine,12,FALSE,FALSE
 1963-11-03,Hungary,German DR,Hungary,Károly Sándor,17,FALSE,FALSE
@@ -4175,7 +4175,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1964-12-09,Greece,Wales,Greece,Andreas Papaemmanouil,47,FALSE,FALSE
 1965-01-16,Jamaica,Cuba,Jamaica,Oscar Black,11,FALSE,FALSE
 1965-01-16,Jamaica,Cuba,Jamaica,Patrick Blair,51,FALSE,FALSE
-1965-01-20,Cuba,Curaçao,Curaçao,Virgilio Sille,50,FALSE,FALSE
+1965-01-20,Cuba,Curaçao,Curaçao,Virgilio Sillie,50,FALSE,FALSE
 1965-01-20,Cuba,Curaçao,Cuba,Ángel Piedra,73,FALSE,FALSE
 1965-01-23,Jamaica,Curaçao,Jamaica,Lascelles Dunkley,11,FALSE,FALSE
 1965-01-23,Jamaica,Curaçao,Jamaica,Lascelles Dunkley,64,FALSE,FALSE
@@ -4185,7 +4185,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1965-01-24,Portugal,Turkey,Portugal,Jaime Graça,52,FALSE,FALSE
 1965-01-24,Portugal,Turkey,Portugal,Eusébio,63,FALSE,FALSE
 1965-01-24,Portugal,Turkey,Portugal,Eusébio,77,FALSE,FALSE
-1965-01-30,Cuba,Curaçao,Curaçao,Virgilio Sille,27,FALSE,FALSE
+1965-01-30,Cuba,Curaçao,Curaçao,Virgilio Sillie,27,FALSE,FALSE
 1965-02-07,Cuba,Jamaica,Cuba,Antonio dos Santos,1,FALSE,FALSE
 1965-02-07,Cuba,Jamaica,Cuba,Nicolás Martínez,6,FALSE,FALSE
 1965-02-07,Cuba,Jamaica,Jamaica,Lascelles Dunkley,14,FALSE,FALSE
@@ -4588,10 +4588,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1965-11-21,North Korea,Australia,North Korea,Pak Doo-ik,15,FALSE,FALSE
 1965-11-21,North Korea,Australia,North Korea,Pak Seung-zin,54,FALSE,FALSE
 1965-11-21,North Korea,Australia,North Korea,Im Seung-Hwi,58,FALSE,FALSE
-1965-11-21,North Korea,Australia,North Korea,Han Bong-Zin,65,FALSE,FALSE
+1965-11-21,North Korea,Australia,North Korea,Han Bong-zin,65,FALSE,FALSE
 1965-11-21,North Korea,Australia,Australia,Les Scheinflug,70,FALSE,TRUE
 1965-11-21,North Korea,Australia,North Korea,Pak Seung-zin,80,FALSE,FALSE
-1965-11-21,North Korea,Australia,North Korea,Han Bong-Zin,88,FALSE,FALSE
+1965-11-21,North Korea,Australia,North Korea,Han Bong-zin,88,FALSE,FALSE
 1965-11-21,Romania,Portugal,Romania,Ion Pârcălab,1,FALSE,FALSE
 1965-11-21,Romania,Portugal,Romania,Alexandru Badea,43,FALSE,FALSE
 1965-11-21,Tunisia,Ghana,Ghana,Frank Odoi,37,FALSE,FALSE
@@ -4634,10 +4634,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1966-07-13,Chile,Italy,Italy,Paolo Barison,88,FALSE,FALSE
 1966-07-13,France,Mexico,Mexico,Enrique Borja,48,FALSE,FALSE
 1966-07-13,France,Mexico,France,Gérard Hausser,62,FALSE,FALSE
-1966-07-13,Hungary,Portugal,Portugal,José Augusto,2,FALSE,FALSE
+1966-07-13,Hungary,Portugal,Portugal,José Augusto de Almeida,2,FALSE,FALSE
 1966-07-13,Hungary,Portugal,Hungary,Ferenc Bene,60,FALSE,FALSE
-1966-07-13,Hungary,Portugal,Portugal,José Augusto,67,FALSE,FALSE
-1966-07-13,Hungary,Portugal,Portugal,José Torres,90,FALSE,FALSE
+1966-07-13,Hungary,Portugal,Portugal,José Augusto de Almeida,67,FALSE,FALSE
+1966-07-13,Hungary,Portugal,Portugal,José Augusto Torres,90,FALSE,FALSE
 1966-07-15,Brazil,Hungary,Hungary,Ferenc Bene,2,FALSE,FALSE
 1966-07-15,Brazil,Hungary,Brazil,Tostão,14,FALSE,FALSE
 1966-07-15,Brazil,Hungary,Hungary,János Farkas,64,FALSE,FALSE
@@ -4652,7 +4652,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1966-07-15,Spain,Switzerland,Spain,Amancio Amaro,75,FALSE,FALSE
 1966-07-16,Bulgaria,Portugal,Portugal,Ivan Vutsov,7,TRUE,FALSE
 1966-07-16,Bulgaria,Portugal,Portugal,Eusébio,38,FALSE,FALSE
-1966-07-16,Bulgaria,Portugal,Portugal,José Torres,81,FALSE,FALSE
+1966-07-16,Bulgaria,Portugal,Portugal,José Augusto Torres,81,FALSE,FALSE
 1966-07-16,England,Mexico,England,Bobby Charlton,37,FALSE,FALSE
 1966-07-16,England,Mexico,England,Roger Hunt,75,FALSE,FALSE
 1966-07-16,Italy,Russia,Russia,Igor Chislenko,57,FALSE,FALSE
@@ -4690,7 +4690,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1966-07-23,North Korea,Portugal,Portugal,Eusébio,43,FALSE,TRUE
 1966-07-23,North Korea,Portugal,Portugal,Eusébio,56,FALSE,FALSE
 1966-07-23,North Korea,Portugal,Portugal,Eusébio,59,FALSE,TRUE
-1966-07-23,North Korea,Portugal,Portugal,José Augusto,80,FALSE,FALSE
+1966-07-23,North Korea,Portugal,Portugal,José Augusto de Almeida,80,FALSE,FALSE
 1966-07-25,Germany,Russia,Germany,Helmut Haller,43,FALSE,FALSE
 1966-07-25,Germany,Russia,Germany,Franz Beckenbauer,67,FALSE,FALSE
 1966-07-25,Germany,Russia,Russia,Valeriy Porkuyan,88,FALSE,FALSE
@@ -4699,7 +4699,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1966-07-26,England,Portugal,Portugal,Eusébio,82,FALSE,TRUE
 1966-07-28,Portugal,Russia,Portugal,Eusébio,12,FALSE,TRUE
 1966-07-28,Portugal,Russia,Russia,Eduard Malofeyev,43,FALSE,FALSE
-1966-07-28,Portugal,Russia,Portugal,José Torres,89,FALSE,FALSE
+1966-07-28,Portugal,Russia,Portugal,José Augusto Torres,89,FALSE,FALSE
 1966-07-30,England,Germany,Germany,Helmut Haller,12,FALSE,FALSE
 1966-07-30,England,Germany,England,Geoff Hurst,18,FALSE,FALSE
 1966-07-30,England,Germany,England,Martin Peters,78,FALSE,FALSE
@@ -4936,7 +4936,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1967-05-24,Switzerland,Romania,Switzerland,Fritz Künzli,66,FALSE,FALSE
 1967-05-24,Switzerland,Romania,Romania,Nicolae Dobrin,70,FALSE,FALSE
 1967-05-31,Spain,Turkey,Spain,Ramón Grosso,63,FALSE,FALSE
-1967-05-31,Spain,Turkey,Spain,Francisco Gento,80,FALSE,FALSE
+1967-05-31,Spain,Turkey,Spain,Paco Gento,80,FALSE,FALSE
 1967-06-01,Sweden,Portugal,Portugal,Custódio Pinto,19,FALSE,FALSE
 1967-06-01,Sweden,Portugal,Sweden,Ingvar Svensson,90,FALSE,FALSE
 1967-06-04,Denmark,German DR,German DR,Wolfram Löwe,5,FALSE,FALSE
@@ -5047,7 +5047,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1967-11-12,Bulgaria,Sweden,Bulgaria,Nikola Kotkov,43,FALSE,FALSE
 1967-11-12,Bulgaria,Sweden,Bulgaria,Vasil Mitkov,44,FALSE,FALSE
 1967-11-12,Bulgaria,Sweden,Bulgaria,Georgi Asparuhov,75,FALSE,FALSE
-1967-11-12,Portugal,Norway,Portugal,José Torres,29,FALSE,FALSE
+1967-11-12,Portugal,Norway,Portugal,José Augusto Torres,29,FALSE,FALSE
 1967-11-12,Portugal,Norway,Norway,Olav Nilsen,40,FALSE,FALSE
 1967-11-12,Portugal,Norway,Portugal,Jaime Graça,65,FALSE,FALSE
 1967-11-12,Yugoslavia,Albania,Yugoslavia,Edin Sprečo,44,FALSE,FALSE
@@ -5352,10 +5352,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1968-12-11,Cyprus,Scotland,Scotland,Alan Gilzean,35,FALSE,FALSE
 1968-12-11,Cyprus,Scotland,Scotland,Colin Stein,41,FALSE,FALSE
 1968-12-11,Cyprus,Scotland,Scotland,Bobby Murdoch,44,FALSE,FALSE
-1968-12-11,Greece,Portugal,Portugal,José Augusto,17,FALSE,FALSE
+1968-12-11,Greece,Portugal,Portugal,José Augusto de Almeida,17,FALSE,FALSE
 1968-12-11,Greece,Portugal,Greece,Giorgos Dedes,33,FALSE,FALSE
 1968-12-11,Greece,Portugal,Greece,Mimis Papaioannou,37,FALSE,FALSE
-1968-12-11,Greece,Portugal,Greece,José Torres,49,TRUE,FALSE
+1968-12-11,Greece,Portugal,Greece,José Augusto Torres,49,TRUE,FALSE
 1968-12-11,Greece,Portugal,Greece,Giorgos Sideris,61,FALSE,FALSE
 1968-12-11,Greece,Portugal,Portugal,Eusébio,64,FALSE,FALSE
 1968-12-11,Spain,Belgium,Belgium,Johan Devrindt,3,FALSE,FALSE
@@ -6210,7 +6210,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1971-11-28,Trinidad and Tobago,Haiti,Haiti,Emmanuel Sanon,43,FALSE,FALSE
 1971-11-28,Trinidad and Tobago,Haiti,Haiti,Leintz Domingue,44,FALSE,FALSE
 1971-11-28,Trinidad and Tobago,Haiti,Haiti,Ramon Moraldo,51,TRUE,FALSE
-1971-11-28,Trinidad and Tobago,Haiti,Haiti,Claude Barthelemy,75,FALSE,FALSE
+1971-11-28,Trinidad and Tobago,Haiti,Haiti,Claude Barthélemy,75,FALSE,FALSE
 1971-11-28,Trinidad and Tobago,Haiti,Haiti,Pierre Bayonne,81,FALSE,FALSE
 1971-11-30,Trinidad and Tobago,Cuba,Trinidad and Tobago,Wilfred Cave,15,FALSE,FALSE
 1971-11-30,Trinidad and Tobago,Cuba,Trinidad and Tobago,Clibert Lennard,70,FALSE,FALSE
@@ -6221,7 +6221,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1971-12-01,Haiti,Honduras,Honduras,Arnulfo Echeverría,1,FALSE,FALSE
 1971-12-01,Haiti,Honduras,Haiti,Pierre Bayonne,28,FALSE,FALSE
 1971-12-01,Haiti,Honduras,Haiti,Emmanuel Sanon,41,FALSE,FALSE
-1971-12-01,Haiti,Honduras,Haiti,Jean-Claude Desir,44,FALSE,FALSE
+1971-12-01,Haiti,Honduras,Haiti,Jean-Claude Désir,44,FALSE,FALSE
 1971-12-02,Costa Rica,Mexico,Mexico,Roberto Rodríguez,73,FALSE,FALSE
 1971-12-04,Bulgaria,France,Bulgaria,Petar Zhekov,47,FALSE,FALSE
 1971-12-04,Bulgaria,France,Bulgaria,Atanas Mihaylov,82,FALSE,FALSE
@@ -9202,7 +9202,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1981-03-29,Brazil,Venezuela,Brazil,Sócrates,55,FALSE,FALSE
 1981-03-29,Brazil,Venezuela,Brazil,Tita,57,FALSE,FALSE
 1981-03-29,Brazil,Venezuela,Brazil,Zico,72,FALSE,TRUE
-1981-03-29,Brazil,Venezuela,Brazil,Júnior,84,FALSE,FALSE
+1981-03-29,Brazil,Venezuela,Brazil,Leovegildo Lins da Gama Júnior,84,FALSE,FALSE
 1981-03-30,Iraq,Syria,Iraq,Nazar Ashraf,34,FALSE,FALSE
 1981-03-30,Iraq,Syria,Iraq,Adel Khudhair,63,FALSE,FALSE
 1981-03-30,Iraq,Syria,Syria,Shait Ahmed Jehad,NA,FALSE,FALSE
@@ -9789,7 +9789,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1982-07-01,Belgium,Russia,Russia,Khoren Oganesian,48,FALSE,FALSE
 1982-07-02,Argentina,Brazil,Brazil,Zico,11,FALSE,FALSE
 1982-07-02,Argentina,Brazil,Brazil,Serginho Chulapa,66,FALSE,FALSE
-1982-07-02,Argentina,Brazil,Brazil,Júnior,75,FALSE,FALSE
+1982-07-02,Argentina,Brazil,Brazil,Leovegildo Lins da Gama Júnior,75,FALSE,FALSE
 1982-07-02,Argentina,Brazil,Argentina,Ramón Díaz,89,FALSE,FALSE
 1982-07-02,Spain,Germany,Germany,Pierre Littbarski,50,FALSE,FALSE
 1982-07-02,Spain,Germany,Germany,Klaus Fischer,75,FALSE,FALSE
@@ -9899,7 +9899,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1982-11-17,Republic of Ireland,Spain,Republic of Ireland,Frank Stapleton,64,FALSE,FALSE
 1982-11-17,Republic of Ireland,Spain,Republic of Ireland,Frank Stapleton,76,FALSE,FALSE
 1982-11-17,Switzerland,Scotland,Switzerland,Claudio Sulser,49,FALSE,FALSE
-1982-11-17,Switzerland,Scotland,Switzerland,Andy Egli,61,FALSE,FALSE
+1982-11-17,Switzerland,Scotland,Switzerland,André Egli,61,FALSE,FALSE
 1982-12-15,Belgium,Scotland,Scotland,Kenny Dalglish,13,FALSE,FALSE
 1982-12-15,Belgium,Scotland,Belgium,Erwin Vandenbergh,25,FALSE,FALSE
 1982-12-15,Belgium,Scotland,Scotland,Kenny Dalglish,35,FALSE,FALSE
@@ -9951,7 +9951,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1983-03-30,Northern Ireland,Turkey,Northern Ireland,Martin O'Neill,5,FALSE,FALSE
 1983-03-30,Northern Ireland,Turkey,Northern Ireland,John McClelland,18,FALSE,FALSE
 1983-03-30,Northern Ireland,Turkey,Turkey,Hasan Şengün,55,FALSE,FALSE
-1983-03-30,Scotland,Switzerland,Switzerland,Andy Egli,14,FALSE,FALSE
+1983-03-30,Scotland,Switzerland,Switzerland,André Egli,14,FALSE,FALSE
 1983-03-30,Scotland,Switzerland,Switzerland,Heinz Hermann,57,FALSE,FALSE
 1983-03-30,Scotland,Switzerland,Scotland,John Wark,70,FALSE,FALSE
 1983-03-30,Scotland,Switzerland,Scotland,Charlie Nicholas,75,FALSE,FALSE
@@ -10214,7 +10214,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1984-03-04,Ivory Coast,Togo,Ivory Coast,Tia Koffi,27,FALSE,FALSE
 1984-03-04,Ivory Coast,Togo,Ivory Coast,Youssouf Falikou Fofana,62,FALSE,FALSE
 1984-03-04,Ivory Coast,Togo,Ivory Coast,Michel Goba,75,FALSE,FALSE
-1984-03-05,Algeria,Malawi,Algeria,Nasser Bouiche,29,FALSE,FALSE
+1984-03-05,Algeria,Malawi,Algeria,Nacer Bouiche,29,FALSE,FALSE
 1984-03-05,Algeria,Malawi,Algeria,Lakhdar Belloumi,36,FALSE,FALSE
 1984-03-05,Algeria,Malawi,Algeria,Ali Fergani,38,FALSE,FALSE
 1984-03-05,Ghana,Nigeria,Nigeria,Henry Nwosu,13,FALSE,FALSE
@@ -10710,7 +10710,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1985-04-17,Switzerland,Russia,Switzerland,André Egli,90,FALSE,FALSE
 1985-04-19,Algeria,Angola,Algeria,Faouzi Mansouri,14,FALSE,FALSE
 1985-04-19,Algeria,Angola,Algeria,Djamel Menad,42,FALSE,FALSE
-1985-04-19,Algeria,Angola,Algeria,Nasser Bouiche,65,FALSE,FALSE
+1985-04-19,Algeria,Angola,Algeria,Nacer Bouiche,65,FALSE,FALSE
 1985-04-19,Algeria,Angola,Angola,Osvaldo Fernando Saturnino de Oliveira,78,FALSE,FALSE
 1985-04-19,Algeria,Angola,Angola,Eduardo Machado,83,FALSE,FALSE
 1985-04-19,Iraq,Jordan,Iraq,Ahmed Radhi,46,FALSE,FALSE
@@ -11575,7 +11575,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1987-11-18,Spain,Albania,Spain,José Mari Bakero,5,FALSE,FALSE
 1987-11-18,Spain,Albania,Spain,José Mari Bakero,31,FALSE,FALSE
 1987-11-18,Spain,Albania,Spain,Míchel,36,FALSE,TRUE
-1987-11-18,Spain,Albania,Spain,Francisco Llorente Gento,67,FALSE,FALSE
+1987-11-18,Spain,Albania,Spain,Paco Llorente,67,FALSE,FALSE
 1987-11-18,Spain,Albania,Spain,José Mari Bakero,74,FALSE,FALSE
 1987-12-02,Hungary,Cyprus,Hungary,József Kiprich,88,FALSE,FALSE
 1987-12-05,Italy,Portugal,Italy,Gianluca Vialli,8,FALSE,FALSE
@@ -12122,7 +12122,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1989-06-25,El Salvador,Costa Rica,El Salvador,Jaime Rodriguez,24,FALSE,FALSE
 1989-06-25,El Salvador,Costa Rica,Costa Rica,Carlos Hidalgo,46,FALSE,FALSE
 1989-06-25,El Salvador,Costa Rica,Costa Rica,Leonidas Flores,51,FALSE,FALSE
-1989-06-25,El Salvador,Costa Rica,El Salvador,José Maria Rivas,63,FALSE,FALSE
+1989-06-25,El Salvador,Costa Rica,El Salvador,José María Rivas,63,FALSE,FALSE
 1989-06-25,El Salvador,Costa Rica,Costa Rica,Leonidas Flores,75,FALSE,FALSE
 1989-06-25,Gabon,Nigeria,Gabon,Nicaise Ondeno,32,FALSE,FALSE
 1989-06-25,Gabon,Nigeria,Gabon,Michel Minko,37,FALSE,FALSE
@@ -14839,7 +14839,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1994-06-22,United States,Colombia,Colombia,Adolfo Valencia,90,FALSE,FALSE
 1994-06-23,Italy,Norway,Italy,Dino Baggio,69,FALSE,FALSE
 1994-06-24,Brazil,Cameroon,Brazil,Romário,39,FALSE,FALSE
-1994-06-24,Brazil,Cameroon,Brazil,Márcio Santos,66,FALSE,FALSE
+1994-06-24,Brazil,Cameroon,Brazil,Márcio Roberto dos Santos,66,FALSE,FALSE
 1994-06-24,Brazil,Cameroon,Brazil,Bebeto,73,FALSE,FALSE
 1994-06-24,Mexico,Republic of Ireland,Mexico,Luis García Postigo,42,FALSE,FALSE
 1994-06-24,Mexico,Republic of Ireland,Mexico,Luis García Postigo,65,FALSE,FALSE
@@ -17174,9 +17174,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1997-06-04,Syria,Maldives,Syria,Bashar Srour,21,FALSE,FALSE
 1997-06-04,Syria,Maldives,Syria,Nader Joukhadar,37,FALSE,FALSE
 1997-06-04,Syria,Maldives,Syria,Khaled Al Zaher,49,FALSE,FALSE
-1997-06-04,Syria,Maldives,Syria,Nihad Boshi,70,FALSE,FALSE
+1997-06-04,Syria,Maldives,Syria,Nihad Al Boushi,70,FALSE,FALSE
 1997-06-04,Syria,Maldives,Syria,Tarek Jabban,78,FALSE,FALSE
-1997-06-04,Syria,Maldives,Syria,Nihad Boshi,79,FALSE,FALSE
+1997-06-04,Syria,Maldives,Syria,Nihad Al Boushi,79,FALSE,FALSE
 1997-06-04,Syria,Maldives,Syria,Nader Joukhadar,89,FALSE,FALSE
 1997-06-05,Kuwait,Singapore,Kuwait,Abdullah Wabran,28,FALSE,FALSE
 1997-06-05,Kuwait,Singapore,Kuwait,Fawaz Al Ahmad,35,FALSE,FALSE
@@ -17303,7 +17303,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1997-06-11,Iran,Maldives,Iran,Reza Shahroudi,68,FALSE,FALSE
 1997-06-11,Iran,Maldives,Iran,Khodadad Azizi,87,FALSE,FALSE
 1997-06-11,Kyrgyzstan,Syria,Kyrgyzstan,Kanat Sardarov,76,FALSE,FALSE
-1997-06-11,Kyrgyzstan,Syria,Syria,Nihad Boshi,84,FALSE,FALSE
+1997-06-11,Kyrgyzstan,Syria,Syria,Nihad Al Boushi,84,FALSE,FALSE
 1997-06-11,Kyrgyzstan,Syria,Kyrgyzstan,Sergey Kutsov,89,FALSE,FALSE
 1997-06-11,New Zealand,Papua New Guinea,New Zealand,Vaughan Coveny,10,FALSE,FALSE
 1997-06-11,New Zealand,Papua New Guinea,New Zealand,Vaughan Coveny,13,FALSE,FALSE
@@ -17332,7 +17332,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1997-06-13,Brazil,Costa Rica,Brazil,Ronaldo,54,FALSE,FALSE
 1997-06-13,Brazil,Costa Rica,Brazil,Romário,60,FALSE,FALSE
 1997-06-13,Iran,Syria,Iran,Reza Shahroudi,10,FALSE,FALSE
-1997-06-13,Iran,Syria,Syria,Nihad Boshi,11,FALSE,FALSE
+1997-06-13,Iran,Syria,Syria,Nihad Al Boushi,11,FALSE,FALSE
 1997-06-13,Iran,Syria,Iran,Alireza Mansourian,30,FALSE,FALSE
 1997-06-13,Iran,Syria,Syria,Bayazir al-Said,39,FALSE,FALSE
 1997-06-13,Maldives,Kyrgyzstan,Kyrgyzstan,Aleksandr Merzlikin,14,FALSE,FALSE
@@ -17656,7 +17656,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1997-09-06,Netherlands,Belgium,Netherlands,Patrick Kluivert,54,FALSE,FALSE
 1997-09-06,Netherlands,Belgium,Belgium,Lorenzo Staelens,67,FALSE,TRUE
 1997-09-06,Netherlands,Belgium,Netherlands,Dennis Bergkamp,84,FALSE,FALSE
-1997-09-06,Slovenia,Greece,Greece,Alekos Alexandris,54,FALSE,FALSE
+1997-09-06,Slovenia,Greece,Greece,Alexis Alexandris,54,FALSE,FALSE
 1997-09-06,Slovenia,Greece,Greece,Kostas Konstantinidis,89,FALSE,FALSE
 1997-09-06,Slovenia,Greece,Greece,Nikos Machlas,90,FALSE,FALSE
 1997-09-06,South Korea,Kazakhstan,South Korea,Choi Yong-soo,24,FALSE,FALSE
@@ -18487,7 +18487,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1998-10-02,New Zealand,Fiji,New Zealand,Danny Hay,88,FALSE,FALSE
 1998-10-04,Australia,New Zealand,New Zealand,Mark Burton,24,FALSE,FALSE
 1998-10-04,Tahiti,Fiji,Fiji,Esala Masi,26,FALSE,FALSE
-1998-10-04,Tahiti,Fiji,Fiji,Shailend Lal,28,FALSE,FALSE
+1998-10-04,Tahiti,Fiji,Fiji,Shalendra Lal,28,FALSE,FALSE
 1998-10-04,Tahiti,Fiji,Fiji,Esala Masi,31,FALSE,FALSE
 1998-10-04,Tahiti,Fiji,Fiji,Ulaisi Seruvatu,43,FALSE,FALSE
 1998-10-04,Tahiti,Fiji,Tahiti,Jean-Loup Rousseau,81,FALSE,FALSE
@@ -20710,12 +20710,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2001-04-07,Brunei,Yemen,Yemen,Ali Al-Nono,88,FALSE,FALSE
 2001-04-07,Fiji,American Samoa,Fiji,Esala Masi,3,FALSE,TRUE
 2001-04-07,Fiji,American Samoa,Fiji,Esala Masi,12,FALSE,FALSE
-2001-04-07,Fiji,American Samoa,Fiji,Shailemdra Lal,23,FALSE,FALSE
-2001-04-07,Fiji,American Samoa,Fiji,Shailemdra Lal,24,FALSE,FALSE
-2001-04-07,Fiji,American Samoa,Fiji,Shailemdra Lal,28,FALSE,FALSE
+2001-04-07,Fiji,American Samoa,Fiji,Shailendra Lal,23,FALSE,FALSE
+2001-04-07,Fiji,American Samoa,Fiji,Shailendra Lal,24,FALSE,FALSE
+2001-04-07,Fiji,American Samoa,Fiji,Shailendra Lal,28,FALSE,FALSE
 2001-04-07,Fiji,American Samoa,Fiji,Ulaiasi Mateiwai,31,FALSE,FALSE
-2001-04-07,Fiji,American Samoa,Fiji,Shailemdra Lal,39,FALSE,FALSE
-2001-04-07,Fiji,American Samoa,Fiji,Shailemdra Lal,45,FALSE,FALSE
+2001-04-07,Fiji,American Samoa,Fiji,Shailendra Lal,39,FALSE,FALSE
+2001-04-07,Fiji,American Samoa,Fiji,Shailendra Lal,45,FALSE,FALSE
 2001-04-07,Fiji,American Samoa,Fiji,Esala Masi,53,FALSE,FALSE
 2001-04-07,Fiji,American Samoa,Fiji,Esala Masi,54,FALSE,FALSE
 2001-04-07,Fiji,American Samoa,Fiji,Valerio Nasema,56,FALSE,FALSE
@@ -24204,7 +24204,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2004-07-31,South Korea,Iran,South Korea,Seol Ki-hyeon,16,FALSE,FALSE
 2004-07-31,South Korea,Iran,Iran,Ali Karimi,20,FALSE,FALSE
 2004-07-31,South Korea,Iran,South Korea,Lee Dong-gook,25,FALSE,FALSE
-2004-07-31,South Korea,Iran,Iran,Park Jin-seop,51,TRUE,FALSE
+2004-07-31,South Korea,Iran,Iran,Park Ji-sung,51,TRUE,FALSE
 2004-07-31,South Korea,Iran,South Korea,Kim Nam-il,68,FALSE,FALSE
 2004-07-31,South Korea,Iran,Iran,Ali Karimi,77,FALSE,FALSE
 2004-08-03,Bahrain,Japan,Bahrain,A'ala Hubail,7,FALSE,FALSE
@@ -27870,11 +27870,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2008-06-07,Seychelles,Tunisia,Tunisia,Issam Jemâa,10,FALSE,FALSE
 2008-06-07,Seychelles,Tunisia,Tunisia,Chaouki Ben Saada,43,FALSE,FALSE
 2008-06-07,Sierra Leone,Nigeria,Nigeria,Joseph Yobo,88,FALSE,FALSE
-2008-06-07,South Africa,Equatorial Guinea,South Africa,Kagiso Dikgacoi,9,FALSE,FALSE
+2008-06-07,South Africa,Equatorial Guinea,South Africa,Kagisho Dikgacoi,9,FALSE,FALSE
 2008-06-07,South Africa,Equatorial Guinea,South Africa,Surprise Moriri,33,FALSE,FALSE
 2008-06-07,South Africa,Equatorial Guinea,South Africa,Thembinkosi Fanteni,62,FALSE,FALSE
 2008-06-07,South Africa,Equatorial Guinea,Equatorial Guinea,Juvenal Edjogo-Owono,78,FALSE,TRUE
-2008-06-07,South Africa,Equatorial Guinea,South Africa,Kagiso Dikgacoi,90,FALSE,FALSE
+2008-06-07,South Africa,Equatorial Guinea,South Africa,Kagisho Dikgacoi,90,FALSE,FALSE
 2008-06-07,Switzerland,Czech Republic,Czech Republic,Václav Svěrkoš,71,FALSE,FALSE
 2008-06-07,United Arab Emirates,Iran,Iran,Ferydoon Zandi,8,FALSE,FALSE
 2008-06-08,Austria,Croatia,Croatia,Luka Modrić,4,FALSE,TRUE
@@ -28771,7 +28771,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2008-10-15,Iceland,North Macedonia,Iceland,Veigar Páll Gunnarsson,16,FALSE,FALSE
 2008-10-15,Iran,North Korea,Iran,Mehdi Mahdavikia,9,FALSE,FALSE
 2008-10-15,Iran,North Korea,Iran,Javad Nekounam,63,FALSE,FALSE
-2008-10-15,Iran,North Korea,North Korea,Jong Tae-Se,72,FALSE,FALSE
+2008-10-15,Iran,North Korea,North Korea,Jong Tae-se,72,FALSE,FALSE
 2008-10-15,Italy,Montenegro,Italy,Alberto Aquilani,8,FALSE,FALSE
 2008-10-15,Italy,Montenegro,Montenegro,Mirko Vučinić,19,FALSE,FALSE
 2008-10-15,Italy,Montenegro,Italy,Alberto Aquilani,29,FALSE,FALSE
@@ -31620,7 +31620,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2012-01-25,Libya,Zambia,Libya,Ahmed Saad Osman,48,FALSE,FALSE
 2012-01-25,Libya,Zambia,Zambia,Christopher Katongo,54,FALSE,FALSE
 2012-01-26,Ivory Coast,Burkina Faso,Ivory Coast,Salomon Kalou,16,FALSE,FALSE
-2012-01-26,Ivory Coast,Burkina Faso,Ivory Coast,Bakary Koné,82,TRUE,FALSE
+2012-01-26,Ivory Coast,Burkina Faso,Ivory Coast,Bakari Koné,82,TRUE,FALSE
 2012-01-26,Sudan,Angola,Angola,Manucho,4,FALSE,FALSE
 2012-01-26,Sudan,Angola,Sudan,Mohamed Ahmed Bashir,32,FALSE,FALSE
 2012-01-26,Sudan,Angola,Angola,Manucho,50,FALSE,TRUE
@@ -37064,7 +37064,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2017-09-01,Kazakhstan,Montenegro,Montenegro,Fatos Bećiraj,53,FALSE,FALSE
 2017-09-01,Kazakhstan,Montenegro,Montenegro,Marko Simić,63,FALSE,FALSE
 2017-09-01,Lithuania,Scotland,Scotland,Stuart Armstrong,25,FALSE,FALSE
-2017-09-01,Lithuania,Scotland,Scotland,Andrew Robertson,30,FALSE,FALSE
+2017-09-01,Lithuania,Scotland,Scotland,Andy Robertson,30,FALSE,FALSE
 2017-09-01,Lithuania,Scotland,Scotland,James McArthur,72,FALSE,FALSE
 2017-09-01,Malta,England,England,Harry Kane,53,FALSE,FALSE
 2017-09-01,Malta,England,England,Ryan Bertrand,86,FALSE,FALSE
@@ -38140,7 +38140,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-01-20,Iran,Oman,Iran,Ashkan Dejagah,41,FALSE,TRUE
 2019-01-20,Jordan,Vietnam,Jordan,Baha' Abdel-Rahman,39,FALSE,FALSE
 2019-01-20,Jordan,Vietnam,Vietnam,Nguyễn Công Phượng,51,FALSE,FALSE
-2019-01-20,Thailand,China,Thailand,Supachai Jaided,31,FALSE,FALSE
+2019-01-20,Thailand,China,Thailand,Supachai Chaided,31,FALSE,FALSE
 2019-01-20,Thailand,China,China,Xiao Zhi,67,FALSE,FALSE
 2019-01-20,Thailand,China,China,Gao Lin,71,FALSE,TRUE
 2019-01-21,Japan,Saudi Arabia,Japan,Takehiro Tomiyasu,20,FALSE,FALSE
@@ -38415,7 +38415,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-06-08,Russia,San Marino,Russia,Fyodor Smolov,77,FALSE,FALSE
 2019-06-08,Russia,San Marino,Russia,Fyodor Smolov,83,FALSE,FALSE
 2019-06-08,Russia,San Marino,Russia,Artem Dzyuba,88,FALSE,FALSE
-2019-06-08,Scotland,Cyprus,Scotland,Andrew Robertson,61,FALSE,FALSE
+2019-06-08,Scotland,Cyprus,Scotland,Andy Robertson,61,FALSE,FALSE
 2019-06-08,Scotland,Cyprus,Cyprus,Ioannis Kousoulos,87,FALSE,FALSE
 2019-06-08,Scotland,Cyprus,Scotland,Oliver Burke,89,FALSE,FALSE
 2019-06-08,Turkey,France,Turkey,Kaan Ayhan,30,FALSE,FALSE
@@ -38804,7 +38804,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-09-05,Armenia,Italy,Italy,Andrea Belotti,28,FALSE,FALSE
 2019-09-05,Armenia,Italy,Italy,Lorenzo Pellegrini,77,FALSE,FALSE
 2019-09-05,Armenia,Italy,Italy,Aram Ayrapetyan,80,TRUE,FALSE
-2019-09-05,Bahrain,Iraq,Bahrain,Kamil Al Aswad,9,FALSE,FALSE
+2019-09-05,Bahrain,Iraq,Bahrain,Kamil Al-Aswad,9,FALSE,FALSE
 2019-09-05,Bahrain,Iraq,Iraq,Mohanad Ali,85,FALSE,FALSE
 2019-09-05,Bosnia and Herzegovina,Liechtenstein,Bosnia and Herzegovina,Amer Gojak,11,FALSE,FALSE
 2019-09-05,Bosnia and Herzegovina,Liechtenstein,Bosnia and Herzegovina,Andreas Malin,80,TRUE,FALSE
@@ -39011,7 +39011,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-09-10,Angola,Gambia,Angola,Geraldo,41,FALSE,FALSE
 2019-09-10,Angola,Gambia,Gambia,Assan Ceesay,65,FALSE,FALSE
 2019-09-10,Angola,Gambia,Angola,Fábio Abreu,68,FALSE,FALSE
-2019-09-10,Cambodia,Bahrain,Bahrain,Kamil Al Aswad,78,FALSE,FALSE
+2019-09-10,Cambodia,Bahrain,Bahrain,Kamil Al-Aswad,78,FALSE,FALSE
 2019-09-10,England,Kosovo,Kosovo,Valon Berisha,1,FALSE,FALSE
 2019-09-10,England,Kosovo,England,Raheem Sterling,8,FALSE,FALSE
 2019-09-10,England,Kosovo,England,Harry Kane,19,FALSE,FALSE
@@ -39384,7 +39384,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-11-14,Kuwait,Taiwan,Kuwait,Bader Al-Mutawa,55,FALSE,FALSE
 2019-11-14,Kuwait,Taiwan,Kuwait,Yousef Nasser,59,FALSE,FALSE
 2019-11-14,Kuwait,Taiwan,Kuwait,Faisal Zayid,62,FALSE,FALSE
-2019-11-14,Kuwait,Taiwan,Kuwait,Shabib Al-Khaldi,73,FALSE,FALSE
+2019-11-14,Kuwait,Taiwan,Kuwait,Shabaib Al-Khaldi,73,FALSE,FALSE
 2019-11-14,Kuwait,Taiwan,Kuwait,Chen Wei-chuan,77,TRUE,FALSE
 2019-11-14,Kuwait,Taiwan,Kuwait,Faisal Ajab Al-Azemi,81,FALSE,FALSE
 2019-11-14,Kyrgyzstan,Japan,Japan,Takumi Minamino,41,FALSE,TRUE
@@ -39507,7 +39507,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-11-17,Serbia,Ukraine,Serbia,Aleksandar Mitrović,56,FALSE,FALSE
 2019-11-17,Serbia,Ukraine,Ukraine,Artem Besyedin,90,FALSE,FALSE
 2019-11-18,Gibraltar,Switzerland,Switzerland,Cedric Itten,10,FALSE,FALSE
-2019-11-18,Gibraltar,Switzerland,Switzerland,Ruben Vargas,50,FALSE,FALSE
+2019-11-18,Gibraltar,Switzerland,Switzerland,Rubén Vargas,50,FALSE,FALSE
 2019-11-18,Gibraltar,Switzerland,Switzerland,Christian Fassnacht,57,FALSE,FALSE
 2019-11-18,Gibraltar,Switzerland,Gibraltar,Reece Styche,74,FALSE,FALSE
 2019-11-18,Gibraltar,Switzerland,Switzerland,Loris Benito,75,FALSE,FALSE
@@ -40467,12 +40467,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-06-02,Puerto Rico,Bahamas,Puerto Rico,Lester Hayes III,90,FALSE,FALSE
 2021-06-03,Argentina,Chile,Argentina,Lionel Messi,23,FALSE,TRUE
 2021-06-03,Argentina,Chile,Chile,Alexis Sánchez,36,FALSE,FALSE
-2021-06-03,Bahrain,Cambodia,Bahrain,Kamil Al Aswad,8,FALSE,FALSE
+2021-06-03,Bahrain,Cambodia,Bahrain,Kamil Al-Aswad,8,FALSE,FALSE
 2021-06-03,Bahrain,Cambodia,Bahrain,Mohamed Al-Romaihi,45,FALSE,FALSE
 2021-06-03,Bahrain,Cambodia,Bahrain,Ali Madan,46,FALSE,FALSE
 2021-06-03,Bahrain,Cambodia,Bahrain,Jasim Al-Shaikh,51,FALSE,FALSE
 2021-06-03,Bahrain,Cambodia,Bahrain,Ali Madan,65,FALSE,FALSE
-2021-06-03,Bahrain,Cambodia,Bahrain,Kamil Al Aswad,71,FALSE,FALSE
+2021-06-03,Bahrain,Cambodia,Bahrain,Kamil Al-Aswad,71,FALSE,FALSE
 2021-06-03,Bahrain,Cambodia,Bahrain,Ismail Abdullatif,75,FALSE,FALSE
 2021-06-03,Bahrain,Cambodia,Bahrain,Ismail Abdullatif,90,FALSE,FALSE
 2021-06-03,Bangladesh,Afghanistan,Afghanistan,Amredin Sharifi,47,FALSE,FALSE
@@ -40513,7 +40513,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-06-04,Dominican Republic,Barbados,Dominican Republic,Manny Rodríguez,90,FALSE,FALSE
 2021-06-04,Guatemala,Saint Vincent and the Grenadines,Guatemala,Darwin Lom,2,FALSE,FALSE
 2021-06-04,Guatemala,Saint Vincent and the Grenadines,Guatemala,Rudy Barrientos,12,FALSE,FALSE
-2021-06-04,Guatemala,Saint Vincent and the Grenadines,Guatemala,Oscar Santis,16,FALSE,FALSE
+2021-06-04,Guatemala,Saint Vincent and the Grenadines,Guatemala,Óscar Santis,16,FALSE,FALSE
 2021-06-04,Guatemala,Saint Vincent and the Grenadines,Guatemala,Moisés Hernández,33,FALSE,TRUE
 2021-06-04,Guatemala,Saint Vincent and the Grenadines,Guatemala,Gerardo Gordillo,41,FALSE,FALSE
 2021-06-04,Guatemala,Saint Vincent and the Grenadines,Guatemala,Luis Martínez,52,FALSE,FALSE
@@ -40871,7 +40871,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-06-20,Italy,Wales,Italy,Matteo Pessina,39,FALSE,FALSE
 2021-06-20,Switzerland,Turkey,Switzerland,Haris Seferovic,6,FALSE,FALSE
 2021-06-20,Switzerland,Turkey,Switzerland,Xherdan Shaqiri,26,FALSE,FALSE
-2021-06-20,Switzerland,Turkey,Turkey,İrfan Kahveci,62,FALSE,FALSE
+2021-06-20,Switzerland,Turkey,Turkey,İrfan Can Kahveci,62,FALSE,FALSE
 2021-06-20,Switzerland,Turkey,Switzerland,Xherdan Shaqiri,68,FALSE,FALSE
 2021-06-20,Venezuela,Ecuador,Ecuador,Ayrton Preciado,39,FALSE,FALSE
 2021-06-20,Venezuela,Ecuador,Venezuela,Edson Castillo,51,FALSE,FALSE
@@ -41014,7 +41014,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-07-12,Costa Rica,Guadeloupe,Guadeloupe,Raphaël Mirval,45,FALSE,FALSE
 2021-07-12,Costa Rica,Guadeloupe,Costa Rica,Celso Borges,70,FALSE,FALSE
 2021-07-12,Jamaica,Suriname,Jamaica,Shamar Nicholson,6,FALSE,FALSE
-2021-07-12,Jamaica,Suriname,Jamaica,Bobby Decordova-Reid,26,FALSE,FALSE
+2021-07-12,Jamaica,Suriname,Jamaica,Bobby De Cordova-Reid,26,FALSE,FALSE
 2021-07-13,Honduras,Grenada,Honduras,Jerry Bengtson,28,FALSE,FALSE
 2021-07-13,Honduras,Grenada,Honduras,Edwin Solano,52,FALSE,FALSE
 2021-07-13,Honduras,Grenada,Honduras,Johnny Leverón,86,FALSE,FALSE
@@ -41176,7 +41176,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-09-02,Iran,Syria,Iran,Alireza Jahanbakhsh,56,FALSE,FALSE
 2021-09-02,Italy,Bulgaria,Italy,Federico Chiesa,16,FALSE,FALSE
 2021-09-02,Italy,Bulgaria,Bulgaria,Atanas Iliev,39,FALSE,FALSE
-2021-09-02,Japan,Oman,Oman,Issam Al Sabhi,88,FALSE,FALSE
+2021-09-02,Japan,Oman,Oman,Issam Al-Sabhi,88,FALSE,FALSE
 2021-09-02,Liechtenstein,Germany,Germany,Timo Werner,41,FALSE,FALSE
 2021-09-02,Liechtenstein,Germany,Germany,Leroy Sané,77,FALSE,FALSE
 2021-09-02,Lithuania,Northern Ireland,Northern Ireland,Daniel Ballard,20,FALSE,FALSE
@@ -41750,7 +41750,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-10-12,Niger,Algeria,Algeria,Ismaël Bennacer,48,FALSE,FALSE
 2021-10-12,Niger,Algeria,Algeria,Baghdad Bounedjah,54,FALSE,FALSE
 2021-10-12,Oman,Vietnam,Vietnam,Nguyễn Tiến Linh,39,FALSE,FALSE
-2021-10-12,Oman,Vietnam,Oman,Issam Al Sabhi,45,FALSE,FALSE
+2021-10-12,Oman,Vietnam,Oman,Issam Al-Sabhi,45,FALSE,FALSE
 2021-10-12,Oman,Vietnam,Oman,Mohsin Al-Khaldi,49,FALSE,FALSE
 2021-10-12,Oman,Vietnam,Oman,Salaah Al-Yahyaei,63,FALSE,TRUE
 2021-10-12,Portugal,Luxembourg,Portugal,Cristiano Ronaldo,8,FALSE,TRUE
@@ -42064,7 +42064,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-11-15,Scotland,Denmark,Scotland,John Souttar,35,FALSE,FALSE
 2021-11-15,Scotland,Denmark,Scotland,Ché Adams,86,FALSE,FALSE
 2021-11-15,Switzerland,Bulgaria,Switzerland,Noah Okafor,48,FALSE,FALSE
-2021-11-15,Switzerland,Bulgaria,Switzerland,Ruben Vargas,57,FALSE,FALSE
+2021-11-15,Switzerland,Bulgaria,Switzerland,Rubén Vargas,57,FALSE,FALSE
 2021-11-15,Switzerland,Bulgaria,Switzerland,Cedric Itten,72,FALSE,FALSE
 2021-11-15,Switzerland,Bulgaria,Switzerland,Remo Freuler,90,FALSE,FALSE
 2021-11-16,Algeria,Burkina Faso,Algeria,Riyad Mahrez,21,FALSE,FALSE
@@ -43183,7 +43183,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-03-28,Romania,Belarus,Belarus,Vladislav Morozov,86,FALSE,FALSE
 2023-03-28,Scotland,Spain,Scotland,Scott McTominay,7,FALSE,FALSE
 2023-03-28,Scotland,Spain,Scotland,Scott McTominay,51,FALSE,FALSE
-2023-03-28,Switzerland,Israel,Switzerland,Ruben Vargas,39,FALSE,FALSE
+2023-03-28,Switzerland,Israel,Switzerland,Rubén Vargas,39,FALSE,FALSE
 2023-03-28,Switzerland,Israel,Switzerland,Zeki Amdouni,47,FALSE,FALSE
 2023-03-28,Switzerland,Israel,Switzerland,Silvan Widmer,52,FALSE,FALSE
 2023-03-28,Turkey,Croatia,Croatia,Mateo Kovačić,20,FALSE,FALSE
@@ -43195,7 +43195,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-06-14,Netherlands,Croatia,Netherlands,Noa Lang,90,FALSE,FALSE
 2023-06-14,Netherlands,Croatia,Croatia,Bruno Petković,98,FALSE,FALSE
 2023-06-14,Netherlands,Croatia,Croatia,Luka Modrić,116,FALSE,TRUE
-2023-06-15,Spain,Italy,Spain,Yeremy Pino,3,FALSE,FALSE
+2023-06-15,Spain,Italy,Spain,Yéremy Pino,3,FALSE,FALSE
 2023-06-15,Spain,Italy,Italy,Ciro Immobile,11,FALSE,TRUE
 2023-06-15,Spain,Italy,Spain,Joselu,88,FALSE,FALSE
 2023-06-16,Andorra,Switzerland,Switzerland,Remo Freuler,7,FALSE,FALSE
@@ -43217,7 +43217,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-06-16,Latvia,Turkey,Latvia,Eduards Emsis,51,FALSE,FALSE
 2023-06-16,Latvia,Turkey,Turkey,Cengiz Ünder,61,FALSE,FALSE
 2023-06-16,Latvia,Turkey,Latvia,Kristers Tobers,90,FALSE,FALSE
-2023-06-16,Latvia,Turkey,Turkey,İrfan Kahveci,90,FALSE,FALSE
+2023-06-16,Latvia,Turkey,Turkey,İrfan Can Kahveci,90,FALSE,FALSE
 2023-06-16,Malta,England,England,Ferdinando Apap,8,TRUE,FALSE
 2023-06-16,Malta,England,England,Trent Alexander-Arnold,28,FALSE,FALSE
 2023-06-16,Malta,England,England,Harry Kane,31,FALSE,TRUE
@@ -43632,7 +43632,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-10-12,Latvia,Armenia,Latvia,Jānis Ikaunieks,39,FALSE,FALSE
 2023-10-12,Latvia,Armenia,Latvia,Daniels Balodis,68,FALSE,FALSE
 2023-10-12,Maldives,Bangladesh,Maldives,Hassan Nazeem,87,FALSE,FALSE
-2023-10-12,Maldives,Bangladesh,Bangladesh,Md Saad Uddin,90,FALSE,FALSE
+2023-10-12,Maldives,Bangladesh,Bangladesh,Saad Uddin,90,FALSE,FALSE
 2023-10-12,Myanmar,Macau,Myanmar,Lwin Moe Aung,39,FALSE,FALSE
 2023-10-12,Myanmar,Macau,Macau,Niki Torrão,55,FALSE,FALSE
 2023-10-12,Myanmar,Macau,Myanmar,Soe Moe Kyaw,62,FALSE,FALSE
@@ -43792,7 +43792,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-11-12,Kosovo,Israel,Kosovo,Milot Rashica,41,FALSE,FALSE
 2023-11-15,DR Congo,Mauritania,DR Congo,Yoane Wissa,62,FALSE,FALSE
 2023-11-15,DR Congo,Mauritania,DR Congo,Théo Bongonda,81,FALSE,FALSE
-2023-11-15,Israel,Switzerland,Switzerland,Ruben Vargas,36,FALSE,FALSE
+2023-11-15,Israel,Switzerland,Switzerland,Rubén Vargas,36,FALSE,FALSE
 2023-11-15,Israel,Switzerland,Israel,Shon Weissman,88,FALSE,FALSE
 2023-11-16,Algeria,Somalia,Algeria,Ahmed Abdullahi Abdi,2,TRUE,FALSE
 2023-11-16,Algeria,Somalia,Algeria,Baghdad Bounedjah,31,FALSE,FALSE
@@ -44024,7 +44024,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-11-18,South Africa,Benin,South Africa,Percy Tau,2,FALSE,FALSE
 2023-11-18,South Africa,Benin,South Africa,Khuliso Mudau,45,FALSE,FALSE
 2023-11-18,South Africa,Benin,Benin,Steve Mounié,70,FALSE,FALSE
-2023-11-18,Switzerland,Kosovo,Switzerland,Ruben Vargas,47,FALSE,FALSE
+2023-11-18,Switzerland,Kosovo,Switzerland,Rubén Vargas,47,FALSE,FALSE
 2023-11-18,Switzerland,Kosovo,Kosovo,Muhamet Hyseni,82,FALSE,FALSE
 2023-11-19,Belgium,Azerbaijan,Belgium,Romelu Lukaku,17,FALSE,FALSE
 2023-11-19,Belgium,Azerbaijan,Belgium,Romelu Lukaku,26,FALSE,FALSE
@@ -44301,7 +44301,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-01-20,Mauritania,Angola,Mauritania,Sidi Bouna Amar,43,FALSE,FALSE
 2024-01-20,Mauritania,Angola,Angola,Gelson Dala,50,FALSE,FALSE
 2024-01-20,Mauritania,Angola,Angola,Gilberto,53,FALSE,FALSE
-2024-01-20,Mauritania,Angola,Mauritania,Aboubakary Koita,58,FALSE,FALSE
+2024-01-20,Mauritania,Angola,Mauritania,Aboubakary Koïta,58,FALSE,FALSE
 2024-01-20,Tunisia,Mali,Mali,Lassine Sinayoko,10,FALSE,FALSE
 2024-01-20,Tunisia,Mali,Tunisia,Hamza Rafia,20,FALSE,FALSE
 2024-01-21,Kyrgyzstan,Saudi Arabia,Saudi Arabia,Mohamed Kanno,35,FALSE,FALSE
@@ -44570,7 +44570,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-03-26,Syria,Myanmar,Syria,Omar Khribin,54,FALSE,FALSE
 2024-03-26,Syria,Myanmar,Syria,Omar Khribin,63,FALSE,TRUE
 2024-03-26,Syria,Myanmar,Syria,Moayad Ajan,68,FALSE,FALSE
-2024-03-26,Syria,Myanmar,Syria,Alaa Al-Dali,80,FALSE,FALSE
+2024-03-26,Syria,Myanmar,Syria,Alaa Al Dali,80,FALSE,FALSE
 2024-03-26,Tajikistan,Saudi Arabia,Saudi Arabia,Firas Al-Buraikan,46,FALSE,FALSE
 2024-03-26,Tajikistan,Saudi Arabia,Tajikistan,Rustam Soirov,80,FALSE,FALSE
 2024-03-26,Thailand,South Korea,South Korea,Lee Jae-sung,19,FALSE,FALSE
@@ -44769,7 +44769,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-06-08,Gambia,Seychelles,Gambia,Adama Sidibeh,78,FALSE,FALSE
 2024-06-08,Latvia,Lithuania,Lithuania,Armandas Kučys,49,FALSE,FALSE
 2024-06-08,Latvia,Lithuania,Lithuania,Armandas Kučys,72,FALSE,FALSE
-2024-06-09,Barbados,Haiti,Haiti,Louicius Don Deedson,12,FALSE,FALSE
+2024-06-09,Barbados,Haiti,Haiti,Louicius Deedson,12,FALSE,FALSE
 2024-06-09,Barbados,Haiti,Haiti,Duke Lacroix,45,FALSE,FALSE
 2024-06-09,Barbados,Haiti,Barbados,Niall Reid-Stephen,73,FALSE,FALSE
 2024-06-09,Barbados,Haiti,Haiti,Bryan Labissiere,84,FALSE,FALSE
@@ -44825,7 +44825,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-06-10,Somalia,Botswana,Somalia,Sak Hassan,74,FALSE,FALSE
 2024-06-10,Uganda,Algeria,Uganda,Travis Mutyaba,10,FALSE,FALSE
 2024-06-10,Uganda,Algeria,Algeria,Houssem Aouar,46,FALSE,FALSE
-2024-06-10,Uganda,Algeria,Algeria,Said Benrahma,58,FALSE,FALSE
+2024-06-10,Uganda,Algeria,Algeria,Saïd Benrahma,58,FALSE,FALSE
 2024-06-11,Angola,Cameroon,Cameroon,Bryan Mbeumo,11,FALSE,FALSE
 2024-06-11,Angola,Cameroon,Angola,Michael Ngadeu-Ngadjui,54,TRUE,FALSE
 2024-06-11,Australia,Palestine,Australia,Kusini Yengi,5,FALSE,TRUE
@@ -45098,7 +45098,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-06-29,Germany,Denmark,Germany,Kai Havertz,53,FALSE,TRUE
 2024-06-29,Germany,Denmark,Germany,Jamal Musiala,68,FALSE,FALSE
 2024-06-29,Switzerland,Italy,Switzerland,Remo Freuler,37,FALSE,FALSE
-2024-06-29,Switzerland,Italy,Switzerland,Ruben Vargas,46,FALSE,FALSE
+2024-06-29,Switzerland,Italy,Switzerland,Rubén Vargas,46,FALSE,FALSE
 2024-06-30,England,Slovakia,Slovakia,Ivan Schranz,25,FALSE,FALSE
 2024-06-30,England,Slovakia,England,Jude Bellingham,90,FALSE,FALSE
 2024-06-30,England,Slovakia,England,Harry Kane,91,FALSE,FALSE
@@ -45462,7 +45462,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-10-11,Slovakia,Sweden,Sweden,Ken Sema,32,FALSE,FALSE
 2024-10-11,Slovakia,Sweden,Slovakia,David Strelec,44,FALSE,FALSE
 2024-10-11,Slovakia,Sweden,Slovakia,David Strelec,72,FALSE,FALSE
-2024-10-11,Turkey,Montenegro,Turkey,İrfan Kahveci,69,FALSE,FALSE
+2024-10-11,Turkey,Montenegro,Turkey,İrfan Can Kahveci,69,FALSE,FALSE
 2024-10-11,Ukraine,Georgia,Ukraine,Mykhailo Mudryk,35,FALSE,FALSE
 2024-10-12,Croatia,Scotland,Scotland,Ryan Christie,33,FALSE,FALSE
 2024-10-12,Croatia,Scotland,Croatia,Igor Matanović,36,FALSE,FALSE
@@ -45479,7 +45479,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-10-12,Poland,Portugal,Portugal,Jan Bednarek,88,TRUE,FALSE
 2024-10-12,Serbia,Switzerland,Serbia,Nico Elvedi,45,TRUE,FALSE
 2024-10-12,Serbia,Switzerland,Serbia,Aleksandar Mitrović,61,FALSE,FALSE
-2024-10-12,Spain,Denmark,Spain,Martin Zubimendi,79,FALSE,FALSE
+2024-10-12,Spain,Denmark,Spain,Martín Zubimendi,79,FALSE,FALSE
 2024-10-12,Vanuatu,Samoa,Vanuatu,Mitch Cooper,7,FALSE,FALSE
 2024-10-12,Vanuatu,Samoa,Vanuatu,John Alick,36,FALSE,FALSE
 2024-10-12,Vanuatu,Samoa,Samoa,Nathan Viliamu,55,FALSE,FALSE
@@ -45518,7 +45518,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-10-14,Georgia,Albania,Albania,Kristjan Asllani,48,FALSE,FALSE
 2024-10-14,Germany,Netherlands,Germany,Jamie Leweling,64,FALSE,FALSE
 2024-10-14,Iceland,Turkey,Iceland,Orri Óskarsson,3,FALSE,FALSE
-2024-10-14,Iceland,Turkey,Turkey,İrfan Kahveci,62,FALSE,FALSE
+2024-10-14,Iceland,Turkey,Turkey,İrfan Can Kahveci,62,FALSE,FALSE
 2024-10-14,Iceland,Turkey,Turkey,Hakan Çalhanoğlu,67,FALSE,TRUE
 2024-10-14,Iceland,Turkey,Iceland,Andri Guðjohnsen,83,FALSE,FALSE
 2024-10-14,Iceland,Turkey,Turkey,Arda Güler,88,FALSE,FALSE
@@ -45694,7 +45694,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-11-15,Uruguay,Colombia,Uruguay,Manuel Ugarte,90,FALSE,FALSE
 2024-11-15,Uruguay,Colombia,Colombia,Andrés Gómez,90,FALSE,FALSE
 2024-11-16,Andorra,Moldova,Moldova,Virgiliu Postolachi,90,FALSE,FALSE
-2024-11-16,Georgia,Ukraine,Ukraine,Solomon Kverkvelia,7,TRUE,FALSE
+2024-11-16,Georgia,Ukraine,Ukraine,Solomon Kvirkvelia,7,TRUE,FALSE
 2024-11-16,Georgia,Ukraine,Georgia,Georges Mikautadze,76,FALSE,FALSE
 2024-11-16,Germany,Bosnia and Herzegovina,Germany,Jamal Musiala,2,FALSE,FALSE
 2024-11-16,Germany,Bosnia and Herzegovina,Germany,Tim Kleindienst,23,FALSE,FALSE
@@ -45769,7 +45769,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-11-18,Romania,Cyprus,Cyprus,Ioannis Pittas,52,FALSE,FALSE
 2024-11-18,Romania,Cyprus,Romania,Răzvan Marin,80,FALSE,FALSE
 2024-11-18,Romania,Cyprus,Romania,Florinel Coman,83,FALSE,FALSE
-2024-11-18,Spain,Switzerland,Spain,Yeremy Pino,32,FALSE,FALSE
+2024-11-18,Spain,Switzerland,Spain,Yéremy Pino,32,FALSE,FALSE
 2024-11-18,Spain,Switzerland,Switzerland,Joël Monteiro,63,FALSE,FALSE
 2024-11-18,Spain,Switzerland,Spain,Bryan Gil,68,FALSE,FALSE
 2024-11-18,Spain,Switzerland,Switzerland,Andi Zeqiri,85,FALSE,TRUE
@@ -46275,12 +46275,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2025-06-06,Gibraltar,Croatia,Croatia,Ivan Perišić,73,FALSE,FALSE
 2025-06-06,Gibraltar,Croatia,Croatia,Andrej Kramarić,77,FALSE,FALSE
 2025-06-06,Gibraltar,Croatia,Croatia,Andrej Kramarić,79,FALSE,FALSE
-2025-06-06,Guatemala,Dominican Republic,Guatemala,Oscar Santis,6,FALSE,FALSE
+2025-06-06,Guatemala,Dominican Republic,Guatemala,Óscar Santis,6,FALSE,FALSE
 2025-06-06,Guatemala,Dominican Republic,Dominican Republic,Dorny Romero,16,FALSE,FALSE
 2025-06-06,Guatemala,Dominican Republic,Dominican Republic,Heinz Mörschel,36,FALSE,FALSE
 2025-06-06,Guatemala,Dominican Republic,Guatemala,Nicolás Samayoa,53,FALSE,FALSE
-2025-06-06,Guatemala,Dominican Republic,Guatemala,Oscar Santis,59,FALSE,FALSE
-2025-06-06,Guatemala,Dominican Republic,Guatemala,Oscar Santis,62,FALSE,FALSE
+2025-06-06,Guatemala,Dominican Republic,Guatemala,Óscar Santis,59,FALSE,FALSE
+2025-06-06,Guatemala,Dominican Republic,Guatemala,Óscar Santis,62,FALSE,FALSE
 2025-06-06,Nicaragua,Guyana,Nicaragua,Jaime Moreno,41,FALSE,FALSE
 2025-06-06,North Macedonia,Belgium,Belgium,Maxim De Cuyper,28,FALSE,FALSE
 2025-06-06,North Macedonia,Belgium,North Macedonia,Ezgjan Alioski,86,FALSE,FALSE
@@ -46381,7 +46381,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2025-06-10,Guyana,Montserrat,Guyana,Omari Glasgow,72,FALSE,FALSE
 2025-06-10,Haiti,Curaçao,Curaçao,Gervane Kastaneer,12,FALSE,FALSE
 2025-06-10,Haiti,Curaçao,Curaçao,Kenji Gorré,15,FALSE,FALSE
-2025-06-10,Haiti,Curaçao,Haiti,Louicius Don Deedson,61,FALSE,FALSE
+2025-06-10,Haiti,Curaçao,Haiti,Louicius Deedson,61,FALSE,FALSE
 2025-06-10,Haiti,Curaçao,Curaçao,Jearl Margaritha,69,FALSE,FALSE
 2025-06-10,Haiti,Curaçao,Curaçao,Kevin Felida,89,FALSE,FALSE
 2025-06-10,Haiti,Curaçao,Curaçao,Jeremy Antonisse,90,FALSE,FALSE
@@ -46500,7 +46500,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2025-06-22,Saudi Arabia,Trinidad and Tobago,Trinidad and Tobago,Dante Sealy,10,FALSE,FALSE
 2025-06-22,Saudi Arabia,Trinidad and Tobago,Saudi Arabia,Firas Al-Buraikan,60,FALSE,FALSE
 2025-06-22,United States,Haiti,United States,Malik Tillman,10,FALSE,FALSE
-2025-06-22,United States,Haiti,Haiti,Don Deedson Louicius,19,FALSE,FALSE
+2025-06-22,United States,Haiti,Haiti,Louicius Deedson,19,FALSE,FALSE
 2025-06-22,United States,Haiti,United States,Patrick Agyemang,75,FALSE,FALSE
 2025-06-24,Canada,El Salvador,Canada,Jonathan David,53,FALSE,FALSE
 2025-06-24,Canada,El Salvador,Canada,Tajon Buchanan,56,FALSE,FALSE
@@ -46655,7 +46655,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2025-09-05,Morocco,Niger,Morocco,Azzedine Ounahi,84,FALSE,FALSE
 2025-09-05,Namibia,Malawi,Malawi,Richard Mbulu,5,FALSE,FALSE
 2025-09-05,Namibia,Malawi,Malawi,Gabadinho Mhango,53,FALSE,FALSE
-2025-09-05,Namibia,Malawi,Namibia,Dawid Ndeunyema,86,FALSE,FALSE
+2025-09-05,Namibia,Malawi,Namibia,David Ndeunyema,86,FALSE,FALSE
 2025-09-05,Nicaragua,Costa Rica,Costa Rica,Alexis Gamboa,60,FALSE,FALSE
 2025-09-05,Nicaragua,Costa Rica,Nicaragua,Byron Bonilla,80,FALSE,TRUE
 2025-09-05,Senegal,Sudan,Senegal,Kalidou Koulibaly,14,FALSE,FALSE
@@ -46741,7 +46741,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2025-09-07,Turkey,Spain,Spain,Ferran Torres,53,FALSE,FALSE
 2025-09-07,Turkey,Spain,Spain,Mikel Merino,57,FALSE,FALSE
 2025-09-07,Turkey,Spain,Spain,Pedri,62,FALSE,FALSE
-2025-09-08,Belarus,Scotland,Scotland,Che Adams,43,FALSE,FALSE
+2025-09-08,Belarus,Scotland,Scotland,Ché Adams,43,FALSE,FALSE
 2025-09-08,Belarus,Scotland,Scotland,Zakhar Volkov,65,TRUE,FALSE
 2025-09-08,Croatia,Montenegro,Croatia,Kristijan Jakić,35,FALSE,FALSE
 2025-09-08,Croatia,Montenegro,Croatia,Andrej Kramarić,51,FALSE,FALSE
@@ -46968,7 +46968,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2025-10-09,Mozambique,Guinea,Guinea,Abdoul Karim Traoré,59,FALSE,FALSE
 2025-10-09,Nicaragua,Haiti,Haiti,Duckens Nazon,12,FALSE,FALSE
 2025-10-09,Nicaragua,Haiti,Haiti,Danley Jean Jacques,35,FALSE,FALSE
-2025-10-09,Nicaragua,Haiti,Haiti,Don Deedson Louicius,90,FALSE,FALSE
+2025-10-09,Nicaragua,Haiti,Haiti,Louicius Deedson,90,FALSE,FALSE
 2025-10-09,Scotland,Greece,Greece,Kostas Tsimikas,62,FALSE,FALSE
 2025-10-09,Scotland,Greece,Scotland,Ryan Christie,64,FALSE,FALSE
 2025-10-09,Scotland,Greece,Scotland,Lewis Ferguson,80,FALSE,FALSE
@@ -47027,7 +47027,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2025-10-10,Suriname,Guatemala,Suriname,Virgil Misidjan,90,FALSE,FALSE
 2025-10-10,Sweden,Switzerland,Switzerland,Granit Xhaka,65,FALSE,TRUE
 2025-10-10,Sweden,Switzerland,Switzerland,Johan Manzambi,90,FALSE,FALSE
-2025-10-10,Togo,DR Congo,DR Congo,Cedric Bakambu,7,FALSE,FALSE
+2025-10-10,Togo,DR Congo,DR Congo,Cédric Bakambu,7,FALSE,FALSE
 2025-10-10,Tunisia,São Tomé and Príncipe,Tunisia,Firas Chaouat,36,FALSE,FALSE
 2025-10-10,Tunisia,São Tomé and Príncipe,Tunisia,Elias Saad,39,FALSE,FALSE
 2025-10-10,Tunisia,São Tomé and Príncipe,Tunisia,Elias Saad,43,FALSE,FALSE
@@ -47104,7 +47104,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2025-10-12,San Marino,Cyprus,Cyprus,Stelios Andreou,59,FALSE,FALSE
 2025-10-12,San Marino,Cyprus,Cyprus,Grigoris Kastanos,67,FALSE,TRUE
 2025-10-12,San Marino,Cyprus,Cyprus,Andronikos Kakoullis,79,FALSE,FALSE
-2025-10-12,Scotland,Belarus,Scotland,Che Adams,15,FALSE,FALSE
+2025-10-12,Scotland,Belarus,Scotland,Ché Adams,15,FALSE,FALSE
 2025-10-12,Scotland,Belarus,Scotland,Scott McTominay,84,FALSE,FALSE
 2025-10-12,Scotland,Belarus,Belarus,Gleb Kuchko,90,FALSE,FALSE
 2025-10-12,Zambia,Niger,Niger,Daniel Sosah,56,FALSE,FALSE
@@ -47154,7 +47154,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2025-10-14,Andorra,Serbia,Serbia,Aleksandar Mitrović,77,FALSE,TRUE
 2025-10-14,Curaçao,Trinidad and Tobago,Curaçao,Kenji Gorré,19,FALSE,FALSE
 2025-10-14,Curaçao,Trinidad and Tobago,Trinidad and Tobago,Tyrese Spicer,58,FALSE,FALSE
-2025-10-14,DR Congo,Sudan,DR Congo,Theo Bongonda,29,FALSE,FALSE
+2025-10-14,DR Congo,Sudan,DR Congo,Théo Bongonda,29,FALSE,FALSE
 2025-10-14,El Salvador,Guatemala,Guatemala,Óscar Santis,46,FALSE,FALSE
 2025-10-14,Estonia,Moldova,Estonia,Mattias Käit,12,FALSE,FALSE
 2025-10-14,Estonia,Moldova,Moldova,Ștefan Bodișteanu,64,FALSE,FALSE
@@ -47286,11 +47286,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2025-11-15,Cyprus,Austria,Austria,Marko Arnautović,18,FALSE,TRUE
 2025-11-15,Cyprus,Austria,Austria,Marko Arnautović,55,FALSE,FALSE
 2025-11-15,Denmark,Belarus,Denmark,Mikkel Damsgaard,11,FALSE,FALSE
-2025-11-15,Denmark,Belarus,Belarus,Valeri Gromyko,62,FALSE,FALSE
+2025-11-15,Denmark,Belarus,Belarus,Valery Gromyko,62,FALSE,FALSE
 2025-11-15,Denmark,Belarus,Belarus,Nikita Demchenko,65,FALSE,FALSE
 2025-11-15,Denmark,Belarus,Denmark,Gustav Isaksen,79,FALSE,FALSE
 2025-11-15,Georgia,Spain,Spain,Mikel Oyarzabal,11,FALSE,TRUE
-2025-11-15,Georgia,Spain,Spain,Martin Zubimendi,22,FALSE,FALSE
+2025-11-15,Georgia,Spain,Spain,Martín Zubimendi,22,FALSE,FALSE
 2025-11-15,Georgia,Spain,Spain,Ferran Torres,35,FALSE,FALSE
 2025-11-15,Georgia,Spain,Spain,Mikel Oyarzabal,63,FALSE,FALSE
 2025-11-15,Greece,Scotland,Greece,Anastasios Bakasetas,7,FALSE,FALSE
@@ -47391,7 +47391,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2025-11-18,Guatemala,Suriname,Guatemala,Olger Escobar,57,FALSE,FALSE
 2025-11-18,Guatemala,Suriname,Guatemala,Óscar Santis,65,FALSE,FALSE
 2025-11-18,Guatemala,Suriname,Suriname,Nicolás Samayoa,90,TRUE,FALSE
-2025-11-18,Haiti,Nicaragua,Haiti,Don Deedson Louicius,9,FALSE,FALSE
+2025-11-18,Haiti,Nicaragua,Haiti,Louicius Deedson,9,FALSE,FALSE
 2025-11-18,Haiti,Nicaragua,Haiti,Ruben Providence,45,FALSE,FALSE
 2025-11-18,Iraq,United Arab Emirates,United Arab Emirates,Caio Lucas,52,FALSE,FALSE
 2025-11-18,Iraq,United Arab Emirates,Iraq,Mohanad Ali,66,FALSE,FALSE
